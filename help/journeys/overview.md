@@ -3,7 +3,7 @@ title: Certification overview
 description: This is the article overview for certification.
 ---
 
-# Certification overview {certification-overview}
+# Certification overview{certification-overview}
 
 Certification and accreditation landing page
 
