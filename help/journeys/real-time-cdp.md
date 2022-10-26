@@ -16,6 +16,7 @@ recommendations: disable, exclude
 ## Follow these steps to earn a new credential
 
 ## 1. Read the exam guides
+
 To earn the Real-time Customer Data Platform certification, you must also pass the Experience Platform Technical Foundations exam. Read the exam guides to learn:
 
 * Minimum level of job experience, knowledge, skills, and abilities required to pass the exam for this role
@@ -37,6 +38,7 @@ To earn the Real-time Customer Data Platform certification, you must also pass t
 </table>  
 
 ## 2. Begin training and get job experience
+
 Learner journeys provide the recommended steps to earn credentials. You have free access to hundreds of courses and self-paced learning modules, videos, quizzes, and test outs.
 
 You can also register to join an instructor-led class with Adobe trainers. Bronze and above partners can request a 15-30 percent discount from SPP Help. <a href="https://learning.adobe.com/catalog.html?solution=Adobe%20Experience%20Platform">View catalog</a>.
@@ -61,6 +63,7 @@ You can also register to join an instructor-led class with Adobe trainers. Bronz
 </table>
 
 ## 3. Take the exam
+
 To earn certification, you need to pass 2 distinct exams with a proctor present, online or on-site, where available.
 
 Purchase your exam voucher at <a href="https://market.xvoucher.com/adobe">Adobe Certification Voucher Center</a>, which will apply your partner discount at checkout. Apply the voucher code when you schedule your exam.
@@ -120,6 +123,7 @@ If an exam is marked as Retiring, you can still take it and your certification w
 View the [certification](https://solutionpartners.adobe.com/solution-partners/home/support/faq/certification_credentials.html) FAQ if you have any questions about credentials, prepaid vouchers, discounts, and bulk orders.
 
 ## 4. Get your badge
+
 Once you earn a credential you can download your digital badge. You can use your badge on social profiles and verify your achievement to your employer and customers that you are skilled in this application.
 
 <a href="https://www.credly.com/organizations/adobe/badges"> Get Badge (BUTTON) </a>
