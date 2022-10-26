@@ -7,6 +7,7 @@ user-guide-description: Certification
 # Certification {#using}
 
 + [Overview](overview.md)
++ [RT-CDP Certification Journey](journeys/real-time-cdp.md)
 
 <!--
 
