@@ -61,7 +61,7 @@ You can also register to join an instructor-led class with Adobe trainers. Bronz
 
 <table>
 <tr>
-<td>
+ <td>
 
 **Training**
 
@@ -69,16 +69,21 @@ Training is not required before taking the exam, but it is recommended.
 
 <a href="https://solutionpartners.adobe.com/solution-partners/home/applications/experience_cloud/real_time_cdp/training/technical.html?nav=credential#navigation">Complete training</a>
 
-</td>
-<td>
+ </td>
+ <td>
 
 **Practice and experience**
 
 Many partners have study groups and mentoring to help employees gain experience.
 
-<a href="https://solutionpartners.adobe.com/solution-partners/home/learn/credentials/certification/partner_mentorship.html"> Go to mentorship program (BUTTON) </a>
-    </td>
-    </tr>
+<a href="https://solutionpartners.adobe.com/solution-partners/home/learn/credentials/certification/partner_mentorship.html" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+<span class="spectrum-Button-label has-no-wrap">
+Go to mentorship program
+</span>
+</a>
+
+ </td>
+</tr>
 </table>
 
 ## 3. Take the exam
@@ -107,7 +112,12 @@ Delivery: Online or at a test center
 
 <a href="https://solutionpartners.adobe.com/solution-partners/home/learn/credentials/certification/certification_exam_registration_and_management.html?nav=cost">See costs and discounts</a>
 
-<a href="https://www.certmetrics.com/adobe/"> Schedule an exam (BUTTON) </a>
+<a href="https://www.certmetrics.com/adobe/" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+<span class="spectrum-Button-label has-no-wrap">
+Schedule an exam
+</span>
+</a>
+
 </td>
 </tr>
 
@@ -136,7 +146,12 @@ Delivery: Online or at a test center
 
 <a href="https://solutionpartners.adobe.com/solution-partners/home/learn/credentials/certification/certification_exam_registration_and_management.html?nav=cost">See costs and discounts</a>
 
-<a href="https://www.certmetrics.com/adobe/"> Schedule an exam (BUTTON) </a>
+<a href="https://www.certmetrics.com/adobe/" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+<span class="spectrum-Button-label has-no-wrap">
+Schedule an exam
+</span>
+</a>
+
 </td>
 </tr>
 </table>
@@ -147,7 +162,12 @@ View the [certification](https://solutionpartners.adobe.com/solution-partners/ho
 
 Once you earn a credential you can download your digital badge. You can use your badge on social profiles and verify your achievement to your employer and customers that you are skilled in this application.
 
-<a href="https://www.credly.com/organizations/adobe/badges"> Get Badge (BUTTON) </a>
+<a href="https://www.credly.com/organizations/adobe/badges" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+<span class="spectrum-Button-label has-no-wrap">
+Get Badge
+</span>
+</a>
+
 
 ## Renew this certification
 
