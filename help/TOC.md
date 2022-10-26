@@ -4,7 +4,7 @@ breadcrumb-title: Certification
 user-guide-description: Certification
 ---
 
-# Certification {#using}
+# Certification {#certification}
 
 + [Overview](overview.md)
 + [RT-CDP Certification Journey](journeys/real-time-cdp.md)
