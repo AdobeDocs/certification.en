@@ -15,7 +15,7 @@ recommendations: disable, exclude
 
 ## Follow these steps to earn a new credential
 
-## 1. Read the exam guides
+### 1. Read the exam guides
 
 To earn the Real-time Customer Data Platform certification, you must also pass the Experience Platform Technical Foundations exam. Read the exam guides to learn:
 
@@ -53,7 +53,7 @@ To earn the Real-time Customer Data Platform certification, you must also pass t
 
 </table>  
 
-## 2. Begin training and get job experience
+### 2. Begin training and get job experience
 
 Learner journeys provide the recommended steps to earn credentials. You have free access to hundreds of courses and self-paced learning modules, videos, quizzes, and test outs.
 
@@ -86,7 +86,7 @@ Go to mentorship program
 </tr>
 </table>
 
-## 3. Take the exam
+### 3. Take the exam
 
 To earn certification, you need to pass 2 distinct exams with a proctor present, online or on-site, where available.
 
@@ -158,7 +158,7 @@ Schedule an exam
 
 View the [certification](https://solutionpartners.adobe.com/solution-partners/home/support/faq/certification_credentials.html) FAQ if you have any questions about credentials, prepaid vouchers, discounts, and bulk orders.
 
-## 4. Get your badge
+### 4. Get your badge
 
 Once you earn a credential you can download your digital badge. You can use your badge on social profiles and verify your achievement to your employer and customers that you are skilled in this application.
 
