@@ -8,21 +8,21 @@ user-guide-description: Certification
 
 + [Overview](overview.md)
 + [Getting Started](getting-started.md)
-+ [Technical Certifications](technical-certifications.md)
++ Technical Certifications {#technical-certifications}
+  + [Overview](technical-certifications.md)
   + Role {#role}
     + Developer {#developer}
-      + [Real-time CDP](journeys/real-time-cdp.md)
+      + [Real-time CDP Certification Journey](journeys/real-time-cdp.md)
   + Solution {#solution}
-    + Experience Manager (#experience-manager)
+    + Experience Manager {#experience-manager}
     + Real-time CDP {#real-time-cdp}
-      + [Real-time CDP](journeys/real-time-cdp.md)
+      + [Real-time CDP Certification Journey](https://www.google.com)
   + Level {#level}
     + Beginner {#beginner}
     + Intermediate {#intermediate}
     + Advanced {#advanced}
-      + [Real-time CDP](journeys/real-time-cdp.md)
+      + [Real-time CDP Certification Journey](https://www.google.com)
 + [Certification Profile](profile.md)
-+ [RT-CDP Certification Journey](journeys/real-time-cdp.md)
 
 <!--
 
