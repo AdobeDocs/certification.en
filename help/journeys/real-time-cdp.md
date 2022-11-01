@@ -23,8 +23,7 @@ To earn the Real-time Customer Data Platform certification, you must also pass t
 * Topics and question distribution: understand the key skills and domains you should know before attempting the exam and learn the percentage of questions per domain.
 * How to register, the number of questions, time limit, passing score, and test delivery
 
-<table>
-
+<table border="none">
 <tr>
  <td>
     <a href="https://express.adobe.com/page/sBkhdT10gy2sx/" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
@@ -33,7 +32,6 @@ To earn the Real-time Customer Data Platform certification, you must also pass t
     </span>
     </a>
  </td>
-
  <td>
     <a href="https://express.adobe.com/page/GpJxl9cwvjjtK/" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
     <span class="spectrum-Button-label has-no-wrap">
@@ -41,7 +39,6 @@ To earn the Real-time Customer Data Platform certification, you must also pass t
     </span>
     </a>
  </td>
- 
  <td>
     <a href="https://express.adobe.com/page/biBbuOvvUDEy2/" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
     <span class="spectrum-Button-label has-no-wrap">
@@ -50,8 +47,9 @@ To earn the Real-time Customer Data Platform certification, you must also pass t
     </a>
  </td>
 </tr>
-
 </table>  
+
+<a href="https://express.adobe.com/page/sBkhdT10gy2sx/" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6"><span class="spectrum-Button-label has-no-wrap">Exam prep guide</span></a><center><a href="https://express.adobe.com/page/GpJxl9cwvjjtK/" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6"><span class="spectrum-Button-label has-no-wrap">Read the guide: AD0-E600</span></a></center><align="right"><a href="https://express.adobe.com/page/biBbuOvvUDEy2/" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6"><span class="spectrum-Button-label has-no-wrap">Read the guide: AD7-E601</span></a></align>
 
 ### 2. Begin training and get job experience
 
