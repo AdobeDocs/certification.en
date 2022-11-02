@@ -26,9 +26,9 @@ recommendations: disable, exclude
   </td>
   <td>
 
-  ## Follow these steps to earn a new credential
+## Follow these steps to earn a new credential
 
-  ### 1. Read the exam guides
+### 1. Read the exam guides
 
   To earn the Real-time Customer Data Platform certification, you must also pass the Experience Platform Technical Foundations exam. Read the exam guides to learn:
 
@@ -57,7 +57,7 @@ recommendations: disable, exclude
   <td></td>
   <td>
 
-  ### 2. Begin training and get job experience
+### 2. Begin training and get job experience
 
   Learner journeys provide the recommended steps to earn credentials. You have free access to hundreds of courses and self-paced learning modules, videos, quizzes, and test outs.
 
