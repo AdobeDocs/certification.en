@@ -51,13 +51,16 @@ You can also register to join an instructor-led class with Adobe trainers. Bronz
 <table>
 <tr>
  <td>
+
    **Training**
 
    Training is not required before taking the exam, but it is recommended.
 
-   <a href="https://solutionpartners.adobe.com/solution-partners/home/applications/experience_cloud/real_time_cdp/training/technical.html?nav=credential#navigation">Complete training</a>
+   <a href="https://solutionpartners.adobe.com/solution-partners/home/applications/experience_cloud/real_time_cdp/training/technical.html?nav=credential#navigation" target="_blank" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Complete training</span></a>
+
  </td>
  <td>
+
    **Practice and experience**
 
    Many partners have study groups and mentoring to help employees gain experience.
