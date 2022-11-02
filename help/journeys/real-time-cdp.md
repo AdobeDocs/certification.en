@@ -23,8 +23,8 @@ To earn the Real-time Customer Data Platform certification, you must also pass t
 * Topics and question distribution: understand the key skills and domains you should know before attempting the exam and learn the percentage of questions per domain.
 * How to register, the number of questions, time limit, passing score, and test delivery
 
-<table border="none">
-<tr>
+<table>
+<tr style="border: 0;">
  <td>
     <a href="https://express.adobe.com/page/sBkhdT10gy2sx/" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
     <span class="spectrum-Button-label has-no-wrap">
