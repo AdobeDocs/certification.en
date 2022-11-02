@@ -32,14 +32,14 @@ To earn the Real-time Customer Data Platform certification, you must also pass t
     </span>
     </a>
  </td>
- <td>
+ <td align="center">
     <a href="https://express.adobe.com/page/GpJxl9cwvjjtK/" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
     <span class="spectrum-Button-label has-no-wrap">
     Read the guide: AD0-E600
     </span>
     </a>
  </td>
- <td>
+ <td align="right">
     <a href="https://express.adobe.com/page/biBbuOvvUDEy2/" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
     <span class="spectrum-Button-label has-no-wrap">
     Read the guide: AD7-E601
