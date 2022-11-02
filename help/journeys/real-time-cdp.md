@@ -13,6 +13,10 @@ recommendations: disable, exclude
 
 <p align="center">You have technical knowledge about audience segmentation, destination exports, and activation on real time basis for unified profiles that adhere to data and privacy regulations, customer data platforms (CDP) and knowledge of Adobe Experience Platform.</p>
 
+<br>&nbsp;
+<br>&nbsp;
+
+
 ## Follow these steps to earn a new credential
 
 ### 1. Read the exam guides
@@ -25,13 +29,13 @@ To earn the Real-time Customer Data Platform certification, you must also pass t
 
 <table>
 <tr style="border: 0;">
- <td>
+ <td style="width: 160px;">
    <a href="https://express.adobe.com/page/sBkhdT10gy2sx/" target="_blank" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Exam prep guide</span></a>
  </td>
- <td align="center">
+ <td style="width: 215px;">
    <a href="https://express.adobe.com/page/GpJxl9cwvjjtK/" target="_blank" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Read the guide: AD0-E600</span></a>
  </td>
- <td align="right">
+ <td>
    <a href="https://express.adobe.com/page/biBbuOvvUDEy2/" target="_blank" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Read the guide: AD7-E601</span></a>
  </td>
 </tr>
@@ -75,11 +79,10 @@ If an exam is marked as Retiring, you can still take it and your certification w
    <td>
    <strong>Adobe Experience Platform</strong>
 
-   **Technical Practitioner**
+   <em>Technical Practitioner
 
-   **Adobe Certified Expert**
-
-   **Exam ID: AD0-E600**
+   Adobe Certified Expert
+   Exam ID: AD0-E600</em>
    </td>
    <td>
    Duration: 105 min
@@ -101,11 +104,10 @@ If an exam is marked as Retiring, you can still take it and your certification w
    <td>
    <strong>Adobe Real-time Customer Data Platform</strong>
 
-   **Technical Practitioner**
+   <em>Technical Practitioner
 
-   **Adobe Certified Expert**
-
-   **Exam ID: AD7-E601**
+   Adobe Certified Expert
+   Exam ID: AD7-E601</em>
    </td>
    <td>
    Duration: 51 min

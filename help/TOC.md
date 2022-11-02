@@ -13,6 +13,8 @@ user-guide-description: Certification
   + Role {#role}
     + Developer {#developer}
       + [Real-time CDP Certification Journey](journeys/real-time-cdp.md)
+      + [AEM 1](journeys/aem.md)
+      + [AEM 2](journeys/aem-two.md)
   + Solution {#solution}
     + Experience Manager {#experience-manager}
       + [Experience Manager Sites Certification Journey](https://experienceleague.corp.adobe.com/docs/certification/certification/technical-certifications/role/developer/real-time-cdp.html) 
