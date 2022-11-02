@@ -6,7 +6,7 @@ description: Depending on your role this shows you were to go to get started.
 # Getting started {#getting-started}
 
 <table>
-<tr>
+<tr style="border: 0">
   <td>
     <img alt="Customer" src="./assets/customer.png" />
     <div>
@@ -25,8 +25,7 @@ description: Depending on your role this shows you were to go to get started.
       <strong>Partners</strong>
     </div>
     <p>
-    <em>Partners have on demand training available including pricing discounts depending on level of partnership.
-</em>
+    <em>Partners have on demand training available including pricing discounts depending on level of partnership.</em>
     <p>
     <a href="https://solutionpartners.adobe.com" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM">
       <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Get Started</span>

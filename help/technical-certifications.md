@@ -6,7 +6,7 @@ description: This is the article overview for certification.
 # Certification overview {#certification-overview}
 
 <table>
-<tr>
+<tr style="border: 0">
   <td>
     <img alt="Role" src="./assets/role.png" />
     <div>

@@ -26,25 +26,13 @@ To earn the Real-time Customer Data Platform certification, you must also pass t
 <table>
 <tr style="border: 0;">
  <td>
-    <a href="https://express.adobe.com/page/sBkhdT10gy2sx/" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-    <span class="spectrum-Button-label has-no-wrap">
-    Exam prep guide
-    </span>
-    </a>
+   <a href="https://express.adobe.com/page/sBkhdT10gy2sx/" target="_blank" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Exam prep guide</span></a>
  </td>
  <td align="center">
-    <a href="https://express.adobe.com/page/GpJxl9cwvjjtK/" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-    <span class="spectrum-Button-label has-no-wrap">
-    Read the guide: AD0-E600
-    </span>
-    </a>
+   <a href="https://express.adobe.com/page/GpJxl9cwvjjtK/" target="_blank" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Read the guide: AD0-E600</span></a>
  </td>
  <td align="right">
-    <a href="https://express.adobe.com/page/biBbuOvvUDEy2/" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-    <span class="spectrum-Button-label has-no-wrap">
-    Read the guide: AD7-E601
-    </span>
-    </a>
+   <a href="https://express.adobe.com/page/biBbuOvvUDEy2/" target="_blank" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Read the guide: AD7-E601</span></a>
  </td>
 </tr>
 </table>  
@@ -57,26 +45,22 @@ You can also register to join an instructor-led class with Adobe trainers. Bronz
 
 <table>
 <tr>
- <td>
+ <td style="border: 1">
 
-**Training**
+   **Training**
 
-Training is not required before taking the exam, but it is recommended.
+   Training is not required before taking the exam, but it is recommended.
 
-<a href="https://solutionpartners.adobe.com/solution-partners/home/applications/experience_cloud/real_time_cdp/training/technical.html?nav=credential#navigation">Complete training</a>
+   <a href="https://solutionpartners.adobe.com/solution-partners/home/applications/experience_cloud/real_time_cdp/training/technical.html?nav=credential#navigation">Complete training</a>
 
  </td>
- <td>
+ <td style="border: 2">
 
-**Practice and experience**
+   **Practice and experience**
 
-Many partners have study groups and mentoring to help employees gain experience.
+   Many partners have study groups and mentoring to help employees gain experience.
 
-<a href="https://solutionpartners.adobe.com/solution-partners/home/learn/credentials/certification/partner_mentorship.html" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-<span class="spectrum-Button-label has-no-wrap">
-Go to mentorship program
-</span>
-</a>
+   <a href="https://solutionpartners.adobe.com/solution-partners/home/learn/credentials/certification/partner_mentorship.html" target="_blank" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Go to mentorship program</span></a>
 
  </td>
 </tr>
@@ -92,63 +76,51 @@ If an exam is marked as Retiring, you can still take it and your certification w
 
 <table>
 <tr>
-<td>
-<strong>Adobe Experience Platform</strong>
+   <td>
+   <strong>Adobe Experience Platform</strong>
 
-**Technical Practitioner**
+   **Technical Practitioner**
 
-**Adobe Certified Expert**
+   **Adobe Certified Expert**
 
-**Exam ID: AD0-E600**
-</td>
-<td>
-Duration: 105 min
+   **Exam ID: AD0-E600**
+   </td>
+   <td>
+   Duration: 105 min
 
-Delivery: Online or at a test center 
+   Delivery: Online or at a test center
 
-<a href="https://solutionpartners.adobe.com/solution-partners/home/learn/credentials/certification/certification_exam_registration_and_management.html?nav=cost">See costs and discounts</a>
+   <a href="https://solutionpartners.adobe.com/solution-partners/home/learn/credentials/certification/certification_exam_registration_and_management.html?nav=cost">See costs and discounts</a>
 
-<a href="https://www.certmetrics.com/adobe/" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-<span class="spectrum-Button-label has-no-wrap">
-Schedule an exam
-</span>
-</a>
-
-</td>
+   <a href="https://www.certmetrics.com/adobe/" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+   <span class="spectrum-Button-label has-no-wrap">Schedule an exam</span></a>
+   </td>
 </tr>
+</table>
 
+<p>AND</p>
+
+<table>
 <tr>
-    <td>
-        AND
-    </td>
-</tr>
+   <td>
+   <strong>Adobe Real-time Customer Data Platform</strong>
 
-<tr>
-<td>
-<strong>Adobe Real-time Customer Data Platform</strong>
+   **Technical Practitioner**
 
-**Technical Practitioner**
+   **Adobe Certified Expert**
 
-**Adobe Certified Expert**
+   **Exam ID: AD7-E601**
+   </td>
+   <td>
+   Duration: 51 min
 
-**Exam ID: AD7-E601**
-</td>
+   Delivery: Online or at a test center
 
-<td>
+   <a href="https://solutionpartners.adobe.com/solution-partners/home/learn/credentials/certification/certification_exam_registration_and_management.html?nav=cost">See costs and discounts</a>
 
-Duration: 51 min
-
-Delivery: Online or at a test center 
-
-<a href="https://solutionpartners.adobe.com/solution-partners/home/learn/credentials/certification/certification_exam_registration_and_management.html?nav=cost">See costs and discounts</a>
-
-<a href="https://www.certmetrics.com/adobe/" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-<span class="spectrum-Button-label has-no-wrap">
-Schedule an exam
-</span>
-</a>
-
-</td>
+   <a href="https://www.certmetrics.com/adobe/" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+   <span class="spectrum-Button-label has-no-wrap">Schedule an exam</span></a>
+   </td>
 </tr>
 </table>
 
