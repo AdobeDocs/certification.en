@@ -15,13 +15,16 @@ user-guide-description: Certification
       + [Real-time CDP Certification Journey](journeys/real-time-cdp.md)
   + Solution {#solution}
     + Experience Manager {#experience-manager}
+      + [Experience Manager Sites Certification Journey](https://experienceleague.corp.adobe.com/docs/certification/certification/technical-certifications/role/developer/real-time-cdp.html) 
     + Real-time CDP {#real-time-cdp}
-      + [Real-time CDP Certification Journey](https://www.google.com)
+      + [Real-time CDP Certification Journey](https://experienceleague.corp.adobe.com/docs/certification/certification/technical-certifications/role/developer/real-time-cdp.html)
   + Level {#level}
     + Beginner {#beginner}
+      + [Adobe Analytics Certification Journey](https://experienceleague.corp.adobe.com/docs/certification/certification/technical-certifications/role/developer/real-time-cdp.html)
     + Intermediate {#intermediate}
+      + [Experience Manager Sites Certification Journey](https://experienceleague.corp.adobe.com/docs/certification/certification/technical-certifications/role/developer/real-time-cdp.html)  
     + Advanced {#advanced}
-      + [Real-time CDP Certification Journey](https://www.google.com)
+      + [Real-time CDP Certification Journey](https://experienceleague.corp.adobe.com/docs/certification/certification/technical-certifications/role/developer/real-time-cdp.html)
 + [Certification Profile](profile.md)
 
 <!--
