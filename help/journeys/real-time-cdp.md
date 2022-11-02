@@ -7,6 +7,8 @@ recommendations: disable, exclude
 ---
 # Adobe Real-Time Customer Data Platform Certification {#rtcdp-certification}
 
+<br>&nbsp;
+
 ![Technical Practitioner](../assets/technical-practitioner.png "Technical Practitioner") {width="129" height="129" align="center"}
 
 <p align="center"> <strong>Technical Practitioners </strong> </p>
@@ -15,7 +17,6 @@ recommendations: disable, exclude
 
 <br>&nbsp;
 <br>&nbsp;
-
 
 ## Follow these steps to earn a new credential
 
