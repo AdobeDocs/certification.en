@@ -31,13 +31,13 @@ To earn the Real-time Customer Data Platform certification, you must also pass t
 <table>
 <tr style="border: 0;">
  <td style="width: 160px;">
-   <a href="https://express.adobe.com/page/sBkhdT10gy2sx/" target="_blank" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Exam prep guide</span></a>
+   <a href="https://experienceleague.corp.adobe.com/docs/certification/certification/hidden/real-time-cdp-exam-prep-guide.html" target="_blank" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Exam prep guide</span></a>
  </td>
  <td style="width: 215px;">
-   <a href="https://express.adobe.com/page/GpJxl9cwvjjtK/" target="_blank" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Read the guide: AD0-E600</span></a>
+   <a href="https://experienceleague.corp.adobe.com/docs/certification/certification/hidden/ad0-e600.html" target="_blank" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Read the guide: AD0-E600</span></a>
  </td>
  <td>
-   <a href="https://express.adobe.com/page/biBbuOvvUDEy2/" target="_blank" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Read the guide: AD7-E601</span></a>
+   <a href="https://experienceleague.corp.adobe.com/docs/certification/certification/hidden/ad7-e601.html" target="_blank" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Read the guide: AD7-E601</span></a>
  </td>
 </tr>
 </table>  
