@@ -27,7 +27,7 @@ To earn the Real-time Customer Data Platform certification, you must also pass t
 * Minimum level of job experience, knowledge, skills, and abilities required to pass the exam for this role
 * Topics and question distribution: understand the key skills and domains you should know before attempting the exam and learn the percentage of questions per domain.
 * How to register, the number of questions, time limit, passing score, and test delivery
-
+[](real-time-cdp-exam-prep-guide.md)
 <table>
 <tr style="border: 0;">
  <td style="width: 160px;">
