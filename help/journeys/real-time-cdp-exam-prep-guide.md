@@ -31,9 +31,9 @@ You are a technical practitioner such as Data Architect/Engineer, Solution Archi
 * AD0-E600 Adobe Experience Platform Technical Foundations
 * AD7-E601 Adobe Real-Time CDP Technical Practitioner
 
->NOTE
+>[!NOTE]
 >
->For Adobe Real-Time CDP Expert certification, candidates must pass both the exams. Passing either exam in isolation will not qualify them to be issued a badge,logos or certification.
+>For Adobe Real-Time CDP Expert certification, candidates must pass both the exams. Passing either exam in isolation will not qualify them to be issued a badge, logos or certification.
 
 ### Download exam guides
 
