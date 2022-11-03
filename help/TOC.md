@@ -12,26 +12,21 @@ user-guide-description: Certification
   + [Overview](technical-certifications.md)
   + Role {#role}
     + Developer {#developer}
-      + [Real-time CDP Certification Journey](journeys/real-time-cdp.md)
+      + [Real-time CDP Certification Journey](journeys/real-time-cdp-journey.md)
   + Solution {#solution}
     + Experience Manager {#experience-manager}
-      + [Experience Manager Sites Certification Journey](https://experienceleague.corp.adobe.com/docs/certification/certification/technical-certifications/role/developer/real-time-cdp.html) 
+      + [Experience Manager Sites Certification Journey](https://experienceleague.corp.adobe.com/docs/certification/certification/technical-certifications/role/developer/real-time-cdp-journey.html)
     + Real-time CDP {#real-time-cdp}
-      + [Real-time CDP Certification Journey](https://experienceleague.corp.adobe.com/docs/certification/certification/technical-certifications/role/developer/real-time-cdp.html)
+      + [Real-time CDP Certification Journey](https://experienceleague.corp.adobe.com/docs/certification/certification/technical-certifications/role/developer/real-time-cdp-journey.html)
   + Level {#level}
     + Professional {#professional}
-      + [Adobe Analytics Certification Journey](https://experienceleague.corp.adobe.com/docs/certification/certification/technical-certifications/role/developer/real-time-cdp.html)
+      + [Adobe Analytics Certification Journey](https://experienceleague.corp.adobe.com/docs/certification/certification/technical-certifications/role/developer/real-time-cdp-journey.html)
     + Expert {#expert}
-      + [Experience Manager Sites Certification Journey](https://experienceleague.corp.adobe.com/docs/certification/certification/technical-certifications/role/developer/real-time-cdp.html)  
+      + [Experience Manager Sites Certification Journey](https://experienceleague.corp.adobe.com/docs/certification/certification/technical-certifications/role/developer/real-time-cdp-journey.html)  
     + Master {#master}
-      + [Real-time CDP Certification Journey](https://experienceleague.corp.adobe.com/docs/certification/certification/technical-certifications/role/developer/real-time-cdp.html)
+      + [Real-time CDP Certification Journey](https://experienceleague.corp.adobe.com/docs/certification/certification/technical-certifications/role/developer/real-time-cdp-journey.html)
 + [Certification Profile](profile.md)
-
-<!--
-
-Articles must be added to this TOC file in order to render.
-
-Use this list format to specify links to articles and section headings that expand and collapse in the left rail of the user guide.
-
-An article link CANNOT be used as a section heading.
--->
++ Hidden {#hidden}
+  + [RT-CDP Exam Prep Guide](journeys/real-time-cdp-exam-prep-guide.md)
+  + [Exam Guide - Adobe Experience Platform Technical Foundations](journeys/ad0-e600.md)
+  + [Exam Guide - Adobe Real-Time CDP Technical Practitioner](journeys/ad7-e601.md)
