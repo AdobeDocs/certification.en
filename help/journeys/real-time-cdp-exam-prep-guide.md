@@ -37,8 +37,6 @@ You are a technical practitioner such as Data Architect/Engineer, Solution Archi
 
 ### Download exam guides
 
-<!--- ADD LINKS --->
-
 * AD0-E600 Adobe Experience Platform Technical Foundations - [English](ad0-e600.md)
 * AD7-E601 Adobe Real-Time CDP Technical Practitioner - [English](ad7-e601.md)
 
