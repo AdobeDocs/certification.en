@@ -13,7 +13,7 @@ recommendations: disable, exclude
 
 <table>
 <tr style="border: 0;">
- <td>
+ <td style="width: 200;">
   <img alt="Certification Badge" style="width: 120px" src="../assets/acp-badge.png" />
  </td>
  <td>
@@ -49,11 +49,23 @@ This is the certification for YOU!</p>
 
 <table>
 <tr>
- <td>**Get Ready!**</td>
- <td>**Get Ready!**</td>
- <td>**Get Ready!**</td> 
+ <td>
+ 
+ **Get Ready!**
+ 
+ </td>
+ <td>
+ 
+ **Get Set!**
+ 
+ </td>
+ <td>
+ 
+ **Get Certified!**
+ 
+ </td> 
 </tr>
-<tr>
+<tr style="border: 0;">
  <td>Review exam topics, understand the minimum qualified candidate, and take a readiness questionnaire.</td>
  <td>Take advantage of our free resources to get set for your certification exam.</td>
  <td>Take the next step...get certified TODAY!</td> 
