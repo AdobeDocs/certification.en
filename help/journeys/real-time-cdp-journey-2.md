@@ -11,9 +11,9 @@ recommendations: disable, exclude
 
 ![Real-Time CDP Certification Journey](../assets/rt-cdp-cert-journey-banner.png "Real-Time CDP Certification Journey")
 
-<table>
-<tr style="border: 0;">
- <td style="width: 200;">
+<table style="border: 0;">
+<tr >
+ <td>
   <img alt="Certification Badge" style="width: 120px" src="../assets/acp-badge.png" />
  </td>
  <td>
