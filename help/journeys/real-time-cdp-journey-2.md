@@ -11,12 +11,12 @@ recommendations: disable, exclude
 
 ![Real-Time CDP Certification Journey](../assets/rt-cdp-cert-journey-banner.png "Real-Time CDP Certification Journey")
 
-<table style="border: 0;">
-<tr >
- <td>
+<table>
+<tr  style="border: 0;">
+ <td style="width: 160px;">
   <img alt="Certification Badge" style="width: 120px" src="../assets/acp-badge.png" />
  </td>
- <td>
+ <td style="width: 400px;">
   <strong>Level of Experience : 1-3 years</strong>
 
   <strong>Requirement</strong>
@@ -46,38 +46,7 @@ This is the certification for YOU!</p>
 
 <p align="center" style="font-size: xxx-large;font-weight: 700">Ready...Set...Get Certified!</p>
 
-
-<table>
-<tr>
- <td>
- 
- **Get Ready!**
- 
- </td>
- <td>
- 
- **Get Set!**
- 
- </td>
- <td>
- 
- **Get Certified!**
- 
- </td> 
-</tr>
-<tr style="border: 0;">
- <td>Review exam topics, understand the minimum qualified candidate, and take a readiness questionnaire.</td>
- <td>Take advantage of our free resources to get set for your certification exam.</td>
- <td>Take the next step...get certified TODAY!</td> 
-</tr>
-<tr>
- <td><a href="https://solutionpartners.adobe.com/solution-partners/home/applications/experience_cloud/real_time_cdp/training/technical.html?nav=credential#navigation" target="_blank" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Get Ready</span></a></td>
- <td><a href="https://solutionpartners.adobe.com/solution-partners/home/applications/experience_cloud/real_time_cdp/training/technical.html?nav=credential#navigation" target="_blank" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Get Set</span></a></td>
- <td><a href="https://solutionpartners.adobe.com/solution-partners/home/applications/experience_cloud/real_time_cdp/training/technical.html?nav=credential#navigation" target="_blank" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Get Certified</span></a></td> 
-</tr>
-</table>
-
-<table>
+<table style="border: 0;">
 <tr>
  <td>
 
