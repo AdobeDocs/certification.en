@@ -13,23 +13,24 @@ recommendations: disable, exclude
 
 <table>
 <tr style="border: 0;">
- <td><img alt="Certification Badge" src="../assets/ace-rt-cdp.png" /></td>
+ <td style="width=150px;">
+  <img alt="Certification Badge" src="../assets/acp-badge.png" />
+ </td>
  <td>
+  <strong>Level of Experience : 1-3 years</strong>
 
- <strong>Level of Experience : 1-3 years</strong>
+  <strong>Requirement</strong>
+  You must pass Adobe Experience Platform Foundations <a href="https://experienceleague.corp.adobe.com/docs/certification/certification/hidden/ad0-e600.html" target="_blank">Ad0-E600</a> to achieve this certification.</em>
 
- <strong>Requirement:</strong>
- You must pass Adobe Experience Platform Foundations <a href="https://experienceleague.corp.adobe.com/docs/certification/certification/hidden/ad0-e600.html" target="_blank" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap has-text-weight-bold">AD0-E600</span></a> to achieve this certification.</em>
+  <strong>Intended audience</strong>
+  Data Architect/Engineer, Solution Architect or MSA, 
+  Enterprise Architect, Product Manager, Marketing Technology Lead
 
- <strong>Intended audience</strong>
- Data Architect/Engineer, Solution Architect or MSA, 
- Enterprise Architect, Product Manager, Marketing Technology Lead
-
- <strong>Exam Details</strong>
- Passing Score: 25/34
- Time: 51 mins
- Cost: $225 (global) and $150 (India)
- Exam ID: AD7-E601
+  <strong>Exam Details</strong>
+  Passing Score: 25/34
+  Time: 51 mins
+  Cost: $225 (global) and $150 (India)
+  Exam ID: AD7-E601
  </td>
 </tr>
 </table>  
@@ -45,7 +46,7 @@ customer data platforms (CDP) and knowledge of Adobe Experience Platform.
 This is the certification for YOU!</p>
 
 
-<p align="center">Ready...Set...Get Certified!</p>
+<p align="center" style="font-size: xx-large;">Ready...Set...Get Certified!</p>
 
 
 <table>
