@@ -13,8 +13,8 @@ recommendations: disable, exclude
 
 <table>
 <tr style="border: 0;">
- <td style="width=150px;">
-  <img alt="Certification Badge" src="../assets/acp-badge.png" />
+ <td>
+  <img alt="Certification Badge" style "width: 120px" src="../assets/acp-badge.png" />
  </td>
  <td>
   <strong>Level of Experience : 1-3 years</strong>
@@ -35,8 +35,6 @@ recommendations: disable, exclude
 </tr>
 </table>  
 
-<br>&nbsp;
-<br>&nbsp;
 <br>&nbsp;
 <br>&nbsp;
 
