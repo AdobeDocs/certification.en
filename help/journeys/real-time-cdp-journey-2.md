@@ -44,9 +44,9 @@ and activation on real time basis for unified profiles that adhere to data and p
 customer data platforms (CDP) and knowledge of Adobe Experience Platform. 
 This is the certification for YOU!</p>
 
-<br>&nbsp;
-
 <p align="center" style="font-size: xxx-large;font-weight: 700">Ready...Set...Get Certified!</p>
+
+<br>&nbsp;
 
 <table>
 <tr style="border: 0;">
