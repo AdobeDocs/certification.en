@@ -37,6 +37,12 @@ recommendations: disable, exclude
 </table>  
 </p>
 
+>[!IMPORTANT]
+>
+> There are two requirements to get certified in Adobe Real-Time Customer Data Platform (CDP).
+> * Pass *Adobe Real-Time Customer Data Platform* exam
+> * Pass *Adobe Experience Platform Foundations* exam
+
 <br>&nbsp;
 
 <p align="center">If you have technical knowledge about audience segmentation, destination exports, 
