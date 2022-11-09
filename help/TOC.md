@@ -10,7 +10,7 @@ user-guide-description: Certification
 + [Getting Started](getting-started.md)
 + Technical Certifications {#technical-certifications}
     + Content & Commerce {#content-commerce}
-      + [Adobe Experience Manager](journeys/real-time-cdp-journey.md)
+      + [Adobe Experience Manager](https://experienceleague.corp.adobe.com/docs/certification/certification/technical-certifications/role/developer/real-time-cdp-journey.html)
       + [Adobe Commerce](https://experienceleague.corp.adobe.com/docs/certification/certification/technical-certifications/role/developer/real-time-cdp-journey.html)
     + Data Insights & Analytics {#data-insights-analytics}
       + [Adobe Analytics](https://experienceleague.corp.adobe.com/docs/certification/certification/technical-certifications/role/developer/real-time-cdp-journey.html)
@@ -19,8 +19,8 @@ user-guide-description: Certification
       + [Adobe Audience Manager](https://experienceleague.corp.adobe.com/docs/certification/certification/technical-certifications/role/developer/real-time-cdp-journey.html)
       + [Adobe Advertising Cloud](https://experienceleague.corp.adobe.com/docs/certification/certification/technical-certifications/role/developer/real-time-cdp-journey.html)
     + Customer Journeys {#customer-journeys}
-      + [Adobe Journey Optimizer](journeys/real-time-cdp-journey.md)
-      + [Adobe Marketo Engage](journeys/real-time-cdp-journey-2.md)
+      + [Adobe Journey Optimizer](https://experienceleague.corp.adobe.com/docs/certification/certification/technical-certifications/role/developer/real-time-cdp-journey.html)
+      + [Adobe Marketo Engage](https://experienceleague.corp.adobe.com/docs/certification/certification/technical-certifications/role/developer/real-time-cdp-journey.html)
       + [Adobe Campaign](https://experienceleague.corp.adobe.com/docs/certification/certification/technical-certifications/role/developer/real-time-cdp-journey.html)
       + [Adobe Target](https://experienceleague.corp.adobe.com/docs/certification/certification/technical-certifications/role/developer/real-time-cdp-journey.html)
     + Marketing Workflow {#marketing-workflow}
