@@ -9,7 +9,7 @@ recommendations: disable, exclude
 
 <br>&nbsp;
 
-![Real-Time CDP Certification Journey](../assets/rt-cdp-cert-journey-banner.png "Real-Time CDP Certification Journey")
+![Real-Time CDP Certification Journey](../assets/rt-cdp-cert-journey-banner.png "Real-Time CDP Certification Journey") {align="center"}
 
 <p align="center">
 <table>
