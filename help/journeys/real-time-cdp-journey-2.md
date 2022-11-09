@@ -44,9 +44,9 @@ and activation on real time basis for unified profiles that adhere to data and p
 customer data platforms (CDP) and knowledge of Adobe Experience Platform. 
 This is the certification for YOU!</p>
 
-<p align="center" style="font-size: xxx-large;font-weight: 700">Ready...Set...Get Certified!</p>
-
 <br>&nbsp;
+
+<p align="center" style="font-size: xxx-large;font-weight: 700">Ready...Set...Get Certified!</p>
 
 <table>
 <tr style="border: 0;">
@@ -78,16 +78,4 @@ This is the certification for YOU!</p>
 
  </td>
 </tr>
-<tr style="border: 0;">
-<td>
-   <a href="https://solutionpartners.adobe.com/solution-partners/home/applications/experience_cloud/real_time_cdp/training/technical.html?nav=credential#navigation" target="_blank" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Get Ready</span></a>
-</td>
-<td>
-   <a href="https://solutionpartners.adobe.com/solution-partners/home/applications/experience_cloud/real_time_cdp/training/technical.html?nav=credential#navigation" target="_blank" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Get Set</span></a>
-</td>
-<td>
-   <a href="https://solutionpartners.adobe.com/solution-partners/home/applications/experience_cloud/real_time_cdp/training/technical.html?nav=credential#navigation" target="_blank" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Get Certified</span></a>
-</td>
-</tr>
 </table>
-
