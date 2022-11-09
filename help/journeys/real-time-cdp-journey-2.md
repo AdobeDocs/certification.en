@@ -11,12 +11,13 @@ recommendations: disable, exclude
 
 ![Real-Time CDP Certification Journey](../assets/rt-cdp-cert-journey-banner.png "Real-Time CDP Certification Journey")
 
+<p align="center">
 <table>
 <tr  style="border: 0;">
- <td style="width: 160px;">
+<td style="width: 160px;">
   <img alt="Certification Badge" style="width: 120px" src="../assets/acp-badge.png" />
- </td>
- <td style="width: 400px;">
+</td>
+<td style="width: 400px;">
   <strong>Level of Experience : 1-3 years</strong>
 
   <strong>Requirement</strong>
@@ -31,11 +32,11 @@ recommendations: disable, exclude
   Time: 51 mins
   Cost: $225 (global) and $150 (India)
   Exam ID: AD7-E601
- </td>
+</td>
 </tr>
 </table>  
+</p>
 
-<br>&nbsp;
 <br>&nbsp;
 
 <p align="center">If you have technical knowledge about audience segmentation, destination exports, 
@@ -43,11 +44,12 @@ and activation on real time basis for unified profiles that adhere to data and p
 customer data platforms (CDP) and knowledge of Adobe Experience Platform. 
 This is the certification for YOU!</p>
 
+<br>&nbsp;
 
 <p align="center" style="font-size: xxx-large;font-weight: 700">Ready...Set...Get Certified!</p>
 
-<table style="border: 0;">
-<tr>
+<table>
+<tr style="border: 0;">
  <td>
 
    **Get Ready!**
