@@ -9,13 +9,13 @@ recommendations: disable, exclude
 
 <br>&nbsp;
 
-![Real-Time CDP Certification Journey](../assets/rt-cdp-cert-journey-banner.png "Real-Time CDP Certification Journey") {align="center"}
+![Real-Time CDP Certification Journey](/help/assets/rt-cdp-cert-journey-banner.png "Real-Time CDP Certification Journey") {align="center"}
 
 <p align="center">
 <table>
 <tr  style="border: 0;">
 <td style="width: 160px;text-align: right;">
-  <img alt="Certification Badge" style="width: 120px" src="../assets/acp-badge.png" />
+  <img alt="Certification Badge" style="width: 120px" src="/help/assets/acp-badge.png" />
 </td>
 <td style="width: 400px;">
   <strong>Level of Experience : 1-3 years</strong>

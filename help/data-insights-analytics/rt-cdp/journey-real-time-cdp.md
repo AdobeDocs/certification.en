@@ -9,7 +9,7 @@ recommendations: disable, exclude
 
 <br>&nbsp;
 
-![Technical Practitioner](../assets/technical-practitioner.png "Technical Practitioner") {width="129" height="129" align="center"}
+![Technical Practitioner](/help/assets/technical-practitioner.png "Technical Practitioner") {width="129" height="129" align="center"}
 
 <p align="center"> <strong>Technical Practitioners </strong> </p>
 
