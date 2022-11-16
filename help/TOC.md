@@ -9,7 +9,6 @@ user-guide-description: Certification
 + [Overview](overview.md)
 + [Getting Started](getting-started.md)
 + Technical Certifications {#technical-certifications}
-    + [Technical Certifications](technical-certifications.md)
     + Content & Commerce {#content-commerce}
       + [Overview](content-and-commerce/overview.md)
       + [Adobe Experience Manager](https://experienceleague.corp.adobe.com)
