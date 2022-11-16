@@ -10,24 +10,24 @@ user-guide-description: Certification
 + [Getting Started](getting-started.md)
 + Technical Certifications {#technical-certifications}
     + Content & Commerce {#content-commerce}
-      + [Overview](content-and-commerce/overview.md)
+      + [Certifications](content-and-commerce/overview.md)
       + [Adobe Experience Manager](https://experienceleague.corp.adobe.com)
       + [Adobe Commerce](https://experienceleague.corp.adobe.com)
     + Data Insights & Analytics {#data-insights-analytics}
-      + [Overview](data-insights-analytics/overview.md)
+      + [Certifications](data-insights-analytics/overview.md)
       + [Adobe Analytics](https://experienceleague.corp.adobe.com)
       + [Adobe Real-time CDP Certification Journey](/help/data-insights-analytics/rt-cdp/journey-real-time-cdp.md)
       + [Adobe Real-time CDP Certification Journey 2](/help/data-insights-analytics/rt-cdp/journey-real-time-cdp-2.md)
       + [Adobe Audience Manager](https://experienceleague.corp.adobe.com)
       + [Adobe Advertising Cloud](https://experienceleague.corp.adobe.com)
     + Customer Journeys {#customer-journeys}
-      + [Overview](customer-journeys/overview.md)
+      + [Certifications](customer-journeys/overview.md)
       + [Adobe Journey Optimizer](https://experienceleague.corp.adobe.com)
       + [Adobe Marketo Engage](https://experienceleague.corp.adobe.com)
       + [Adobe Campaign](https://experienceleague.corp.adobe.com)
       + [Adobe Target](https://experienceleague.corp.adobe.com)
     + Marketing Workflow {#marketing-workflow}
-      + [Overview](marketing-workflow/overview.md)
+      + [Certifications](marketing-workflow/overview.md)
       + [Adobe Workfront](https://experienceleague.corp.adobe.com)
 + [Your Certification Profile](profile.md)
 
