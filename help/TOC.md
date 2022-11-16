@@ -14,7 +14,7 @@ user-guide-description: Certification
       + [Adobe Experience Manager](https://experienceleague.corp.adobe.com)
       + [Adobe Commerce](https://experienceleague.corp.adobe.com)
     + Data Insights & Analytics {#data-insights-analytics}
-      + [Overview](data-inisights-analytics/overview.md)
+      + [Overview](data-insights-analytics/overview.md)
       + [Adobe Analytics](https://experienceleague.corp.adobe.com)
       + [Adobe Real-time CDP Certification Journey](/help/data-insights-analytics/rt-cdp/journey-real-time-cdp.md)
       + [Adobe Real-time CDP Certification Journey 2](/help/data-insights-analytics/rt-cdp/journey-real-time-cdp-2.md)
