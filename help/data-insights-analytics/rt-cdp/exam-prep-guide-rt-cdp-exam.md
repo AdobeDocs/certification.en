@@ -12,7 +12,7 @@ recommendations: disable, exclude
 
 Certification demonstrates to the marketplace that you're able to perform a job role using Adobe's leading solutions. Get recognized for your expertise with Adobe products and differentiate yourself from the crowd.
 
-![Certification benefits](../assets/certification-benefits.png "Certification Benefits")
+![Certification benefits](/help/assets/certification-benefits.png "Certification Benefits")
 
 ## Target audience
 
