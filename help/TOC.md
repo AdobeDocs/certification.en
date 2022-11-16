@@ -10,24 +10,28 @@ user-guide-description: Certification
 + [Getting Started](getting-started.md)
 + Technical Certifications {#technical-certifications}
     + Content & Commerce {#content-commerce}
-      + [Adobe Experience Manager](https://experienceleague.corp.adobe.com/docs/certification/certification/technical-certifications/role/developer/real-time-cdp-journey.html)
-      + [Adobe Commerce](https://experienceleague.corp.adobe.com/docs/certification/certification/technical-certifications/role/developer/real-time-cdp-journey.html)
+      + [Overview](content-and-commerce/overview.md)
+      + [Adobe Experience Manager](https://experienceleague.corp.adobe.com)
+      + [Adobe Commerce](https://experienceleague.corp.adobe.com)
     + Data Insights & Analytics {#data-insights-analytics}
-      + [Adobe Analytics](https://experienceleague.corp.adobe.com/docs/certification/certification/technical-certifications/role/developer/real-time-cdp-journey.html)
-      + [Adobe Real-time CDP Certification Journey](journeys/real-time-cdp-journey.md)
-      + [Adobe Real-time CDP Certification Journey 2](journeys/real-time-cdp-journey-2.md)
-      + [Adobe Audience Manager](https://experienceleague.corp.adobe.com/docs/certification/certification/technical-certifications/role/developer/real-time-cdp-journey.html)
-      + [Adobe Advertising Cloud](https://experienceleague.corp.adobe.com/docs/certification/certification/technical-certifications/role/developer/real-time-cdp-journey.html)
+      + [Overview](data-inisights-analytics/overview.md)
+      + [Adobe Analytics](https://experienceleague.corp.adobe.com)
+      + [Adobe Real-time CDP Certification Journey](/help/data-insights-analytics/rt-cdp/journey-real-time-cdp.md)
+      + [Adobe Real-time CDP Certification Journey 2](/help/data-insights-analytics/rt-cdp/journey-real-time-cdp-2.md)
+      + [Adobe Audience Manager](https://experienceleague.corp.adobe.com)
+      + [Adobe Advertising Cloud](https://experienceleague.corp.adobe.com)
     + Customer Journeys {#customer-journeys}
-      + [Adobe Journey Optimizer](https://experienceleague.corp.adobe.com/docs/certification/certification/technical-certifications/role/developer/real-time-cdp-journey.html)
-      + [Adobe Marketo Engage](https://experienceleague.corp.adobe.com/docs/certification/certification/technical-certifications/role/developer/real-time-cdp-journey.html)
-      + [Adobe Campaign](https://experienceleague.corp.adobe.com/docs/certification/certification/technical-certifications/role/developer/real-time-cdp-journey.html)
-      + [Adobe Target](https://experienceleague.corp.adobe.com/docs/certification/certification/technical-certifications/role/developer/real-time-cdp-journey.html)
+      + [Overview](customer-journeys/overview.md)
+      + [Adobe Journey Optimizer](https://experienceleague.corp.adobe.com)
+      + [Adobe Marketo Engage](https://experienceleague.corp.adobe.com)
+      + [Adobe Campaign](https://experienceleague.corp.adobe.com)
+      + [Adobe Target](https://experienceleague.corp.adobe.com)
     + Marketing Workflow {#marketing-workflow}
-      + [Adobe Workfront](https://experienceleague.corp.adobe.com/docs/certification/certification/technical-certifications/role/developer/real-time-cdp-journey.html)
+      + [Overview](marketing-workflow/overview.md)
+      + [Adobe Workfront](https://experienceleague.corp.adobe.com)
 + [Your Certification Profile](profile.md)
 
 + Hidden {#hidden}
-  + [RT-CDP Exam Prep Guide](journeys/real-time-cdp-exam-prep-guide.md)
-  + [Exam Guide - Adobe Experience Platform Technical Foundations](journeys/ad0-e600.md)
-  + [Exam Guide - Adobe Real-Time CDP Technical Practitioner](journeys/ad7-e601.md)
+  + [RT-CDP Exam Prep Guide](/help/data-insights-analytics/rt-cdp/exam-prep-guide-rt-cdp-exam.md)
+  + [Exam Guide - Adobe Experience Platform Technical Foundations](/help/data-insights-analytics/rt-cdp/exam-guide-ad0-e600.md)
+  + [Exam Guide - Adobe Real-Time CDP Technical Practitioner](/help/data-insights-analytics/rt-cdp/exam-guide-ad7-e601.md)

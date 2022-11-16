@@ -37,8 +37,8 @@ You are a technical practitioner such as Data Architect/Engineer, Solution Archi
 
 ### Download exam guides
 
-* AD0-E600 Adobe Experience Platform Technical Foundations - [English](ad0-e600.md){target="_blank}
-* AD7-E601 Adobe Real-Time CDP Technical Practitioner - [English](ad7-e601.md){target="_blank}
+* AD0-E600 Adobe Experience Platform Technical Foundations - [English](exam-guide-ad0-e600.md){target="_blank}
+* AD7-E601 Adobe Real-Time CDP Technical Practitioner - [English](exam-guide-ad7-e601.md){target="_blank}
 
 You will be directed to the Adobe credential management system, where you will be prompted to log in with an Adobe ID or create a new one. Once logged in, you can access your profile and exam history.
 
