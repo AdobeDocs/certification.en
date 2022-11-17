@@ -145,28 +145,28 @@ description: Getting started with technical certifications
                     </tr>
                     <tr style="border: 0;background-color: white;">
                         <td>
-                            <a href="/docs/certification/certification/technical-certifications/data-insights-analytics/certifications.html?lang=en"
+                            <a href="https://experienceleague.corp.adobe.com/docs/certification/certification/technical-certifications/data-insights-analytics/overview.html"
                                 target="_blank"
                                 class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM"><span
                                     class="spectrum-Button-label has-no-wrap has-text-weight-bold">See
                                     Certifications</span></a>
                         </td>
                         <td>
-                            <a href="/docs/certification/certification/technical-certifications/content-commerce/certfications.html?lang=en"
+                            <a href="https://experienceleague.corp.adobe.com/docs/certification/certification/technical-certifications/content-commerce/overview.html"
                                 target="_blank"
                                 class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM"><span
                                     class="spectrum-Button-label has-no-wrap has-text-weight-bold">See
                                     Certifications</span></a>
                         </td>
                         <td>
-                            <a href="/docs/certification/certification/technical-certifications/customer-journeys/certifications.html?lang=en"
+                            <a href="https://experienceleague.corp.adobe.com/docs/certification/certification/technical-certifications/customer-journeys/overview.html"
                                 target="_blank"
                                 class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM"><span
                                     class="spectrum-Button-label has-no-wrap has-text-weight-bold">See
                                     Certifications</span></a>
                         </td>
                         <td>
-                            <a href="/docs/certification/certification/technical-certifications/marketing-workflow/certifications.html?lang=en"
+                            <a href="https://experienceleague.corp.adobe.com/docs/certification/certification/technical-certifications/marketing-workflow/overview.html"
                                 target="_blank"
                                 class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM"><span
                                     class="spectrum-Button-label has-no-wrap has-text-weight-bold">See
