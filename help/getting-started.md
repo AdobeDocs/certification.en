@@ -198,8 +198,3 @@ description: Getting started with technical certifications
 <br />
 
 >[!ENDSHADEBOX]
-
-
-
-<p align="left" style="font-size: xx-large;font-weight: 700">As you gain more experience, you can grow your career...</p>
-
