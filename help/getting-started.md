@@ -20,7 +20,7 @@ description: Getting started with technical certifications
   </td>
 
   <td style="background-color: lightgray;border-color: white;border-style: solid;">
-  <strong>Adobe Certified Professional</strong>
+  <strong>Adobe Certified Professional</strong><br>&nbsp;
 
   Works on team and maybe the project lead on simple or single-solution projects.
 
@@ -32,7 +32,7 @@ description: Getting started with technical certifications
   </td>
 
   <td style="background-color: lightgray;border-color: white;border-style: solid;">
-  <strong>Adobe Certified Expert</strong>
+  <strong>Adobe Certified Expert</strong><br>&nbsp;
 
   Works independently on complex projects and mentors less experienced colleagues.
 
@@ -44,7 +44,7 @@ description: Getting started with technical certifications
   </td>
 
   <td style="background-color: lightgray;border-color: white;border-style: solid;">
-  <strong>Adobe Certified Master</strong>
+  <strong>Adobe Certified Master</strong><br>&nbsp;
 
   Leads complex projects and mentors team members.
 
@@ -66,7 +66,7 @@ description: Getting started with technical certifications
 <tr  style="border: 0;">
 
 <td>
-  <strong>Business Practitioner</strong>
+<p align="Left" style="font-size: x-large;font-weight: 700;">Business Practitioner</p>
 
   * Performs discovery tasks
   * Writes business requirements
@@ -78,7 +78,7 @@ description: Getting started with technical certifications
   </td>
 
 <td>
-  <strong>Developer</strong>
+<p align="Left" style="font-size: x-large;font-weight: 700;">Developer</p>
 
   * Configures and manage the development environment
   * Builds solutions using out-of-the-box components
@@ -90,7 +90,7 @@ description: Getting started with technical certifications
   </td>
 
 <td>
-  <strong>Architect</strong>
+<p align="Left" style="font-size: x-large;font-weight: 700;">Architect</p>
 
   * Translates business requirements into a technical design
   * Provides guidance to the rest of the team to deliver the solution
@@ -116,25 +116,25 @@ description: Getting started with technical certifications
 <tr  style="border: 0;">
 
   <td>
-  <strong>Data Insights & Analytics</strong>
+  <strong>Data Insights & Analytics</strong><br>&nbsp;
 
   Great experiences start with the right data. It takes unifying your data into comprehensive customer profiles and visualizations, so you can discover insights and create the right experience for each customer.
   </td>
 
   <td>
-  <strong>Content & Commerce</strong>
+  <strong>Content & Commerce</strong><br>&nbsp;
 
   Great experiences start with the right data. It takes unifying your data into comprehensive customer profiles and visualizations, so you can discover insights and create the right experience for each customer.
   </td>
   
   <td>
-  <strong>Customer Journeys</strong>
+  <strong>Customer Journeys</strong><br>&nbsp;
 
   Great experiences start with the right data. It takes unifying your data into comprehensive customer profiles and visualizations, so you can discover insights and create the right experience for each customer.
   </td>
 
   <td>
-  <strong>Data Insights & Analytics</strong>
+  <strong>Data Insights & Analytics</strong><br>&nbsp;
 
   Great experiences start with the right data. It takes unifying your data into comprehensive customer profiles and visualizations, so you can discover insights and create the right experience for each customer.
   </td>  
