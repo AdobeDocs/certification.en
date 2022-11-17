@@ -139,7 +139,7 @@ description: Getting started with technical certifications
   Great experiences start with the right data. It takes unifying your data into comprehensive customer profiles and visualizations, so you can discover insights and create the right experience for each customer.
   </td>  
 </tr>
-<tr  style="border: 0;">
+<tr  style="border: 0;background-color: white;">
   <td>
      <a href="https://experienceleague.corp.adobe.com/docs/certification/certification/technical-certifications/data-insights-analytics/certifications.html" target="_blank" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap has-text-weight-bold">See Certifications</span></a>
   </td>
@@ -156,6 +156,24 @@ description: Getting started with technical certifications
 </table>  
 </p>
 
+<table>
+<tr style="border: 0;">
+<td>
+<p align="center" style="font-size: xx-large;font-weight: 700">Renew Your Certification Today!</p>
+
+
+<p align="center">Adobe certifications expire after two years. Take the shorter, lower-cost renewal exam that demonstrates your knowledge of newer capabilities and commitment to keeping your skills current.</p>
+
+<p align="center"><a href="https://experienceleague.adobe.com" target="_blank" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Go to Renewals</span></a></p>
+
+<br>&nbsp;
+
+<p align="center">Have a question about Adobe Certification? Please email <a href="mailto:certif@adobe.com">certif@adobe.com</a> for additional details about the program.</p>
+</td>
+</tr>
+</table>
+
+<!---
 
 <p align="center" style="font-size: xx-large;font-weight: 700">Renew Your Certification Today!</p>
 
@@ -167,5 +185,8 @@ description: Getting started with technical certifications
 <br>&nbsp;
 
 <p align="center">Have a question about Adobe Certification? Please email <a href="mailto:certif@adobe.com">certif@adobe.com</a> for additional details about the program.</p>
+--->
+
+<br>&nbsp;
 
 >[!ENDSHADEBOX]
