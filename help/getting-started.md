@@ -110,8 +110,8 @@ description: Getting started with technical certifications
 >[!BEGINSHADEBOX]
 
 <p align="left" style="font-size: xx-large;font-weight: 700;">Choose from products in all DX Categories...</p>
-<div style="background-image: url(../assets/blue-box.png);background-repeat: no-repeat;background-position: top left;">
-    <div style="background-image: url(../assets/green-blob.png);background-repeat: no-repeat;background-position: bottom right;">
+<div style="background-image: url(/help/assets/blue-box.png);background-repeat: no-repeat;background-position: top left;">
+    <div style="background-image: url(/help/assets/green-blob.png);background-repeat: no-repeat;background-position: bottom right;">
         <div class="table-container" style="padding: 2rem 5rem;">
             <table>
                 <tbody>
@@ -196,3 +196,119 @@ description: Getting started with technical certifications
 <br />
 
 >[!ENDSHADEBOX]
+
+
+
+<p align="left" style="font-size: xx-large;font-weight: 700">As you gain more experience, you can grow your career...</p>
+
+<!---
+
+<tr  style="border: 0;">
+  <td>
+  <img alt="three certification levels"  src="/help/assets/levels.png" />
+
+  With three levels to choose from, there's a certification for YOU!
+  </td>
+
+  <td style="background-color: lightgray;border-color: white;border-style: solid;">
+  <strong>Adobe Certified Professional</strong><br>&nbsp;
+
+  Works on team and maybe the project lead on simple or single-solution projects.
+
+  <strong>Roles</strong>
+  Business Practitioner, Developer
+
+  <strong>Experience</strong>
+  minimum 0-12 months
+  </td>
+
+  <td style="background-color: lightgray;border-color: white;border-style: solid;">
+  <strong>Adobe Certified Expert</strong><br>&nbsp;
+
+  Works independently on complex projects and mentors less experienced colleagues.
+
+  <strong>Roles</strong>
+  Business Practitioner, Developer
+
+  <strong>Experience</strong>
+  minimum 1-3 years
+  </td>
+
+  <td style="background-color: lightgray;border-color: white;border-style: solid;">
+  <strong>Adobe Certified Master</strong><br>&nbsp;
+
+  Leads complex projects and mentors team members.
+
+  <strong>Roles</strong>
+  Architect
+
+  <strong>Experience</strong>
+  minimum 3-5 years
+  </td>
+
+</tr> 
+
+
+
+<p align="center">
+<table>
+<tr  style="border: 0;">
+  <td style="rowspan: 3;">
+  
+  <img alt="three certification levels"  src="/help/assets/levels.png" />
+  With three levels to choose from, there's a certification for YOU!
+  </td>
+  <td style="background-color: lightgray;border-color: white;border-style: solid;">
+  <strong>Adobe Certified Professional</strong><br>&nbsp;
+  Works on team and maybe the project lead on simple or single-solution projects.
+  </td>
+
+  <td style="background-color: lightgray;border-color: white;border-style: solid;">
+  <strong>Adobe Certified Expert</strong><br>&nbsp;
+  Works independently on complex projects and mentors less experienced colleagues.
+  </td>
+
+  <td style="background-color: lightgray;border-color: white;border-style: solid;">
+  <strong>Adobe Certified Master</strong><br>&nbsp;
+  Leads complex projects and mentors team members.
+  </td>
+
+<tr  style="border: 0;">
+  <td style="background-color: lightgray;border-color: white;border-style: solid;">
+  </td>
+  <td style="background-color: lightgray;border-color: white;border-style: solid;">
+  <strong>Roles</strong><br>
+  Business Practitioner, Developer
+  </td>
+  <td style="background-color: lightgray;border-color: white;border-style: solid;">  
+  <strong>Roles</strong><br>
+  Business Practitioner, Developer
+  </td>
+  <td style="background-color: lightgray;border-color: white;border-style: solid;">  
+  <strong>Roles</strong><br>
+  Architect
+  </td>
+<tr  style="border: 0;">
+  <td style="background-color: lightgray;border-color: white;border-style: solid;">
+  </td>
+  <td style="background-color: lightgray;border-color: white;border-style: solid;">
+  <strong>Experience</strong><br>
+  minimum 0-12 months
+  </td>
+
+  <td style="background-color: lightgray;border-color: white;border-style: solid;">
+  <strong>Experience</strong><br>
+  minimum 1-3 years
+  </td>
+
+  <td style="background-color: lightgray;border-color: white;border-style: solid;">
+  <strong>Experience</strong><br>
+  minimum 3-5 years
+  </td>
+
+</tr>
+
+</table>  
+</p>
+
+--->
