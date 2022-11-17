@@ -107,7 +107,8 @@ description: Getting started with technical certifications
 </table>  
 </p>
 
-[!BEGINSHADEBOX]
+>[!BEGINSHADEBOX]
+
 <p align="left" style="font-size: xx-large;font-weight: 700;">Choose from products in all DX Categories...</p>
 
 <p align="center">
@@ -167,4 +168,4 @@ description: Getting started with technical certifications
 
 <p align="center">Have a question about Adobe Certification? Please email <a href="mailto:certif@adobe.com">certif@adobe.com</a> for additional details about the program.</p>
 
-[!ENDSHADEBOX]
+>[!ENDSHADEBOX]
