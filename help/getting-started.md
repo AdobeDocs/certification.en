@@ -110,7 +110,7 @@ description: Getting started with technical certifications
 >[!BEGINSHADEBOX]
 
 <p align="left" style="font-size: xx-large;font-weight: 700;">Choose from products in all DX Categories...</p>
-<div style="background-image: url(/help/assets/blue-box.png);background-repeat: no-repeat;background-position: top left;">
+<div style="background-image: url(/help/assets/blue-cube.png);background-repeat: no-repeat;background-position: top left;">
     <div style="background-image: url(/help/assets/green-blob.png);background-repeat: no-repeat;background-position: bottom right;">
         <div class="table-container" style="padding: 2rem 5rem;">
             <table>
