@@ -172,4 +172,6 @@ description: Getting started with technical certifications
 
 <p align="center">Have a question about Adobe Certification? Please email <a href="mailto:certif@adobe.com">certif@adobe.com</a> for additional details about the program.</p>
 
+<br>&nbsp;
+
 >[!ENDSHADEBOX]
