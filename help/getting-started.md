@@ -59,7 +59,7 @@ description: Getting started with technical certifications
 </table>  
 </p>
 
-<p align="center" style="font-size: xx-large;font-weight: 700;">Job Roles</p>
+<p align="center" style="font-size: xx-large;font-weight: 700;color: red">Job Roles</p>
 
 <p align="center">
 <table>
