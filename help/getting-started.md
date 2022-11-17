@@ -166,14 +166,9 @@ description: Getting started with technical certifications
 
 <p align="center"><a href="https://experienceleague.adobe.com" target="_blank" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Go to Renewals</span></a></p>
 
-<br>&nbsp;
-
-
 </td>
 </tr>
 </table>
-
-<br>&nbsp;
 
 <p align="center">Have a question about Adobe Certification? Please email <a href="mailto:certif@adobe.com">certif@adobe.com</a> for additional details about the program.</p>
 
