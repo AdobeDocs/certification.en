@@ -18,6 +18,7 @@ user-guide-description: Certification
       + [Adobe Analytics](https://experienceleague.corp.adobe.com)
       + [Adobe Real-time CDP Certification Journey](/help/data-insights-analytics/rt-cdp/journey-real-time-cdp.md)
       + [Adobe Real-time CDP Certification Journey 2](/help/data-insights-analytics/rt-cdp/journey-real-time-cdp-2.md)
+      + [Adobe Real-time CDP Certification Journey 2](/help/data-insights-analytics/rt-cdp/journey-real-time-cdp-3.md) 
       + [Adobe Audience Manager](https://experienceleague.corp.adobe.com)
       + [Adobe Advertising Cloud](https://experienceleague.corp.adobe.com)
     + Customer Journeys {#customer-journeys}
