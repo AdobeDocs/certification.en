@@ -19,7 +19,7 @@ description: Getting started with technical certifications
   With three levels to choose from, there's a certification for YOU!
   </td>
 
-  <td>
+  <td style="background-color: lightgray;border-color: white;border-style: solid;">
   <strong>Adobe Certified Professional</strong>
 
   Works on team and maybe the project lead on simple or single-solution projects.
@@ -31,7 +31,7 @@ description: Getting started with technical certifications
   minimum 0-12 months
   </td>
 
-  <td>
+  <td style="background-color: lightgray;border-color: white;border-style: solid;">
   <strong>Adobe Certified Expert</strong>
 
   Works independently on complex projects and mentors less experienced colleagues.
@@ -43,7 +43,7 @@ description: Getting started with technical certifications
   minimum 1-3 years
   </td>
 
-  <td>
+  <td style="background-color: lightgray;border-color: white;border-style: solid;">
   <strong>Adobe Certified Master</strong>
 
   Leads complex projects and mentors team members.
