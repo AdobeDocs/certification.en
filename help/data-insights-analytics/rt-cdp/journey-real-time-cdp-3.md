@@ -22,7 +22,9 @@ If an exam is marked as Retiring, you can still take it and your certification w
 
 <p align="center" style="font-size: x-large;font-weight: 700; color: #002191">Get started on your journey to being certified. Here's what you need to know.</p>
 
-![seperator](/help/assets/line.png "seperator") {align="center"}
+![separator](/help/assets/line.png "separator") {align="center"}
+
+<br>&nbsp;
 
 <p align="center">
 If you have technical knowledge about audience segmentation, destination exports, 
@@ -77,10 +79,12 @@ This is the certification for YOU!
 
 <br>&nbsp;
 
+>[!BEGINSHADEBOX]
+
 <p align="center" style="font-size: xx-large;font-weight: 700; color: red">Ready...Set...Get Certified!</p>
 
 <table>
-<tr>
+<tr style="border: 0">
  <td style="align=left">
 
    **Get Ready!**
@@ -122,6 +126,7 @@ This is the certification for YOU!
 </tr>
 </table>
 
+>[!ENDSHADEBOX]
 
 >[!BEGINSHADEBOX]
 
