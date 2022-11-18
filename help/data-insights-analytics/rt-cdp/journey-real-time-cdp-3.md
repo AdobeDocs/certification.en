@@ -92,7 +92,7 @@ This is the certification for YOU!
   Review exam topics, understand the minimum qualified candidate, and take a readiness questionnaire.
 
  </td>
-  <td></td>
+ <td style="border: 0;background-color: #F8F8F8;"></td>
  <td style="align=center">
 
    **Get Set!**
@@ -100,7 +100,7 @@ This is the certification for YOU!
    Take advantage of our free resources to get set for your certification exam.
 
  </td>
-  <td></td>
+ <td style="border: 0;background-color: #F8F8F8;"></td>
  <td style="align=right">
 
    **Get Certified!**
@@ -115,13 +115,13 @@ This is the certification for YOU!
   <a href="https://solutionpartners.adobe.com/solution-partners/home/applications/experience_cloud/real_time_cdp/training/technical.html?nav=credential#navigation" target="_blank" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Get Ready</span></a>
 
  </td>
- <td></td>
+ <td style="border: 0;background-color: #F8F8F8;"></td>
  <td>
 
   <a href="https://solutionpartners.adobe.com/solution-partners/home/applications/experience_cloud/real_time_cdp/training/technical.html?nav=credential#navigation" target="_blank" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Get Set</span></a>
 
  </td>
-  <td></td>
+ <td style="border: 0;background-color: #F8F8F8;"></td>
  <td>
 
   <a href="https://solutionpartners.adobe.com/solution-partners/home/applications/experience_cloud/real_time_cdp/training/technical.html?nav=credential#navigation" target="_blank" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Get Certified</span></a>
