@@ -59,18 +59,18 @@ This is the certification for YOU!
 <tr style="border: 0;background-color: white;">
 <td>
   Exam Details:<br>
-  Passing Score: 35/50
-  Time: 105 mins
-  Cost: $225 (global) and $150 (India)
+  Passing Score: 35/50<br>
+  Time: 105 mins<br>
+  Cost: $225 (global) and $150 (India)<br>
   Exam ID: AD0-E600
 </td>
 <td>
 </td>
 <td>
   Exam Details: <br>
-  Passing Score: 25/34
-  Time: 51 mins
-  Cost: $225 (global) and $150 (India)
+  Passing Score: 25/34<br>
+  Time: 51 mins<br>
+  Cost: $225 (global) and $150 (India)<br>
   Exam ID: AD7-E601
 </td>
 </tr>
