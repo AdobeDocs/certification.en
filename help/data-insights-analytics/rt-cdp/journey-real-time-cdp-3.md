@@ -18,8 +18,9 @@ Purchase your exam voucher at Adobe Certification Voucher Center, if you have a 
 <p align="center">
 If an exam is marked as Retiring, you can still take it and your certification will be valid for two years from when you pass. We recommend taking the newer version, when possible, because it covers newer product capabilities.</p>
 
+<br>&nbsp;
 
-<p align="center" style="font-size: x-large;font-weight: 700">Get started on your journey to being certified. Here's what you need to know.</p>
+<p align="center" style="font-size: x-large;font-weight: 700; color: #002191">Get started on your journey to being certified. Here's what you need to know.</p>
 
 ![seperator](/help/assets/line.png "seperator") {align="center"}
 
@@ -76,13 +77,6 @@ This is the certification for YOU!
 
 <br>&nbsp;
 
-<p align="center">If you have technical knowledge about audience segmentation, destination exports, 
-and activation on real time basis for unified profiles that adhere to data and privacy regulations, 
-customer data platforms (CDP) and knowledge of Adobe Experience Platform. 
-This is the certification for YOU!</p>
-
-<br>&nbsp;
-
 <p align="center" style="font-size: xx-large;font-weight: 700; color: red">Ready...Set...Get Certified!</p>
 
 <table>
@@ -130,38 +124,42 @@ This is the certification for YOU!</p>
 
 >[!BEGINSHADEBOX]
 
-<p align="center" style="font-size: xx-large;font-weight: 700;color: darkblue">Already certified?</p>
-<div style="background-image: url(/help/assets/blue-cube.png);background-repeat: no-repeat;background-position: top left;">
-    <div style="background-image: url(/help/assets/green-blob.png);background-repeat: no-repeat;background-position: bottom right;">
+<p align="center" style="font-size: xx-large;font-weight: 700;color: #002191">Already certified?</p>
+<div style="background-image: url(/help/assets/red-blob.png);background-repeat: no-repeat;background-position: bottom left;">
+    <div style="background-image: url(/help/assets/purple-blob.png);background-repeat: no-repeat;background-position: top right;">
         <div class="table-container" style="padding: 2rem 5rem;">
             <table>
                 <tbody>
                     <tr style="border: 0;">
                         <td style="align: left">
-                            <p align="center" style="font-size: medium;font-weight: 700; color: darkblue">Get Your Badge</p> 
+                            <p align="center" style="font-size: medium;font-weight: 700; color: #002191">Get Your Badge</p> 
                             <p>Once you earn a credential you can download your digital badge. You can use your badge on social profiles and verify your achievement to your employer and customers that you are skilled in this application.</p>
                         </td>
                         <td style="border: 0;background-color: #F8F8F8;">
                         </td>
                         <td style="align: right">
-                            <p align="center" style="font-size: medium;font-weight: 700; color: darkblue">Renew this Certification</p>
+                            <p align="center" style="font-size: medium;font-weight: 700; color: #002191">Renew this Certification</p>
                             <p>Adobe certifications expire after two years. Take the shorter, lower-cost renewal exam that demonstrates your knowledge of newer capabilities and commitment to keeping your skills current.</p>
                         </td>
                     </tr>
                     <tr style="border: 0;background-color: white;">
-                        <td style="align: left">
+                        <td>
+                          <p align="center">
                             <a href="https://www.credly.com/organizations/adobe/badges"
                                 target="_blank"
                                 class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM"><span
                                     class="spectrum-Button-label has-no-wrap has-text-weight-bold">Get Badge</span></a>
+                          </p>
                         </td>
                         <td style="border: 0;background-color: #F8F8F8;">
                         </td>                        
-                        <td style="align: right">
+                        <td>
+                         <p align="center">
                             <a href="https://experienceleague.corp.adobe.com/docs/certification/certification/technical-certifications/customer-journeys/overview.html"
                                 target="_blank"
                                 class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM"><span
                                     class="spectrum-Button-label has-no-wrap has-text-weight-bold">Renew Today</span></a>
+                         </p>
                         </td>
                     </tr>
                 </tbody>
