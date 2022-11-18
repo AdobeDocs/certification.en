@@ -103,7 +103,9 @@ This is the certification for YOU!
 
  </td>
 </tr>
-<tr style="border: 0;background-color: white;">
+<!--- <tr style="border: 0;background-color: white;"> --->
+<tr style="background-color: white;">
+
  <td>
 
   <a href="https://solutionpartners.adobe.com/solution-partners/home/applications/experience_cloud/real_time_cdp/training/technical.html?nav=credential#navigation" target="_blank" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Get Ready</span></a>
@@ -122,6 +124,7 @@ This is the certification for YOU!
 </tr>
 </table>
 
+<div style="background-image: url(/help/assets/red-blob.png);background-repeat: no-repeat;background-position: bottom left;">
 >[!BEGINSHADEBOX]
 
 <p align="center" style="font-size: xx-large;font-weight: 700;color: #002191">Already certified?</p>
@@ -169,12 +172,12 @@ This is the certification for YOU!
 </div>
 
 <p align="center"> 
-
-[View the certification](https://www.adobe.com) FAQ if you have any questions about credentials, prepaid vouchers, discounts, and bulk orders.</p>
+[View the certification](https://www.adobe.com) FAQ if you have any questions about credentials, prepaid vouchers, discounts, and bulk orders.
+</p>
 
 <br>&nbsp;
 
 >[!ENDSHADEBOX]
-
+</div>
 <p align="center">Have a question about Adobe Certification? Please email <a href="mailto:certif@adobe.com">certif@adobe.com</a> for additional details about the program.</p>
 <br />
