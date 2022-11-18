@@ -141,7 +141,7 @@ This is the certification for YOU!</p>
                             <p align="center" style="font-size: medium;font-weight: 700; color: darkblue">Get Your Badge</p> 
                             <p>Once you earn a credential you can download your digital badge. You can use your badge on social profiles and verify your achievement to your employer and customers that you are skilled in this application.</p>
                         </td>
-                        <td style="border: 0;background-color: lightgray;">
+                        <td style="border: 0;background-color: #F8F8F8;">
                         </td>
                         <td style="align: right">
                             <p align="center" style="font-size: medium;font-weight: 700; color: darkblue">Renew this Certification</p>
@@ -155,7 +155,7 @@ This is the certification for YOU!</p>
                                 class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM"><span
                                     class="spectrum-Button-label has-no-wrap has-text-weight-bold">Get Badge</span></a>
                         </td>
-                        <td style="border: 0;background-color: lightgray;">
+                        <td style="border: 0;background-color: #F8F8F8;">
                         </td>                        
                         <td style="align: right">
                             <a href="https://experienceleague.corp.adobe.com/docs/certification/certification/technical-certifications/customer-journeys/overview.html"
