@@ -178,6 +178,8 @@ This is the certification for YOU!
     </div>
 </div>
 
+<br>&nbsp;
+
 <p align="center"> 
 <a href="https://www.adobe.com">View the certification</a> FAQ if you have any questions about credentials, prepaid vouchers, discounts, and bulk orders.
 </p>
