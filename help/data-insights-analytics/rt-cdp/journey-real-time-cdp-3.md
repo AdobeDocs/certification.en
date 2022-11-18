@@ -80,7 +80,7 @@ This is the certification for YOU!
 <p align="center" style="font-size: xx-large;font-weight: 700; color: red">Ready...Set...Get Certified!</p>
 
 <table>
-<tr style="border: 0">
+<tr>
  <td style="align=left">
 
    **Get Ready!**
@@ -103,9 +103,7 @@ This is the certification for YOU!
 
  </td>
 </tr>
-<!--- <tr style="border: 0;background-color: white;"> --->
-<tr style="background-color: white;">
-
+<tr style="border: 0;background-color: white;">
  <td>
 
   <a href="https://solutionpartners.adobe.com/solution-partners/home/applications/experience_cloud/real_time_cdp/training/technical.html?nav=credential#navigation" target="_blank" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Get Ready</span></a>
