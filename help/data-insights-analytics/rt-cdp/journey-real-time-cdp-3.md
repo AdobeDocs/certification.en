@@ -124,7 +124,7 @@ This is the certification for YOU!
 </tr>
 </table>
 
-<div style="background-image: url(/help/assets/red-blob.png);background-repeat: no-repeat;background-position: bottom left;">
+
 >[!BEGINSHADEBOX]
 
 <p align="center" style="font-size: xx-large;font-weight: 700;color: #002191">Already certified?</p>
@@ -172,12 +172,12 @@ This is the certification for YOU!
 </div>
 
 <p align="center"> 
-[View the certification](https://www.adobe.com) FAQ if you have any questions about credentials, prepaid vouchers, discounts, and bulk orders.
+<a href="https://www.adobe.com">View the certification</a> FAQ if you have any questions about credentials, prepaid vouchers, discounts, and bulk orders.
 </p>
 
 <br>&nbsp;
 
 >[!ENDSHADEBOX]
-</div>
+
 <p align="center">Have a question about Adobe Certification? Please email <a href="mailto:certif@adobe.com">certif@adobe.com</a> for additional details about the program.</p>
 <br />
