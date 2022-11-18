@@ -11,11 +11,13 @@ recommendations: disable, exclude
 
 ![Real-Time CDP Certification Journey](/help/assets/rtcdp-banner-journey.png "Real-Time CDP Certification Journey") {align="center"}
 
-To earn certification, you need to pass 2 distinct exams with a proctor present, online or on-site, where available.
+<p align="center">
+To earn certification, you need to pass 2 distinct exams with a proctor present, online or on-site, where available.</p>
+<p align="center">
+Purchase your exam voucher at Adobe Certification Voucher Center, if you have a discount, it will apply at checkout. Apply the voucher code when you schedule your exam.</p>
+<p align="center">
+If an exam is marked as Retiring, you can still take it and your certification will be valid for two years from when you pass. We recommend taking the newer version, when possible, because it covers newer product capabilities.</p>
 
-Purchase your exam voucher at Adobe Certification Voucher Center, if you have a discount, it will apply at checkout. Apply the voucher code when you schedule your exam.
-
-If an exam is marked as Retiring, you can still take it and your certification will be valid for two years from when you pass. We recommend taking the newer version, when possible, because it covers newer product capabilities.
 
 <p align="center" style="font-size: x-large;font-weight: 700">Get started on your journey to being certified. Here's what you need to know.</p>
 
@@ -51,7 +53,7 @@ This is the certification for YOU!
   <td> <strong>Adobe Real-Time Customer Data Platform</strong> </td>
 </tr>
 
-<tr>
+<tr style="border: 0;background-color: white;">
 <td>
   Exam Details:<br>
   Passing Score: 35/50
@@ -91,16 +93,12 @@ This is the certification for YOU!</p>
 
   Review exam topics, understand the minimum qualified candidate, and take a readiness questionnaire.
 
-   <a href="https://solutionpartners.adobe.com/solution-partners/home/applications/experience_cloud/real_time_cdp/training/technical.html?nav=credential#navigation" target="_blank" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Get Ready</span></a>
-
  </td>
  <td style="align=center">
 
    **Get Set!**
 
    Take advantage of our free resources to get set for your certification exam.
-
-   <a href="https://solutionpartners.adobe.com/solution-partners/home/applications/experience_cloud/real_time_cdp/training/technical.html?nav=credential#navigation" target="_blank" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Get Set</span></a>
 
  </td>
  <td style="align=right">
@@ -109,7 +107,22 @@ This is the certification for YOU!</p>
 
    Take the next step...get certified TODAY!
 
-   <a href="https://solutionpartners.adobe.com/solution-partners/home/applications/experience_cloud/real_time_cdp/training/technical.html?nav=credential#navigation" target="_blank" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Get Certified</span></a>
+ </td>
+</tr>
+<tr style="border: 0;background-color: white;">
+ <td>
+
+  <a href="https://solutionpartners.adobe.com/solution-partners/home/applications/experience_cloud/real_time_cdp/training/technical.html?nav=credential#navigation" target="_blank" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Get Ready</span></a>
+
+ </td>
+ <td>
+
+  <a href="https://solutionpartners.adobe.com/solution-partners/home/applications/experience_cloud/real_time_cdp/training/technical.html?nav=credential#navigation" target="_blank" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Get Set</span></a>
+
+ </td>
+ <td>
+
+  <a href="https://solutionpartners.adobe.com/solution-partners/home/applications/experience_cloud/real_time_cdp/training/technical.html?nav=credential#navigation" target="_blank" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Get Certified</span></a>
 
  </td>
 </tr>
@@ -128,25 +141,29 @@ This is the certification for YOU!</p>
                             <p align="center" style="font-size: medium;font-weight: 700; color: darkblue">Get Your Badge</p> 
                             <p>Once you earn a credential you can download your digital badge. You can use your badge on social profiles and verify your achievement to your employer and customers that you are skilled in this application.</p>
                         </td>
+                        <td style="border: 0;background-color: lightgray;">
+                        </td>
                         <td style="align: right">
-                            <p align="center" style="font-size: medium;font-weight: 700; color: darkblue">Renew this Certification</p> 
+                            <p align="center" style="font-size: medium;font-weight: 700; color: darkblue">Renew this Certification</p>
                             <p>Adobe certifications expire after two years. Take the shorter, lower-cost renewal exam that demonstrates your knowledge of newer capabilities and commitment to keeping your skills current.</p>
                         </td>
                     </tr>
                     <tr style="border: 0;background-color: white;">
                         <td style="align: left">
-                            <a href="https://experienceleague.corp.adobe.com/docs/certification/certification/technical-certifications/data-insights-analytics/overview.html"
+                            <a href="https://www.credly.com/organizations/adobe/badges"
                                 target="_blank"
                                 class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM"><span
                                     class="spectrum-Button-label has-no-wrap has-text-weight-bold">Get Badge</span></a>
                         </td>
+                        <td style="border: 0;background-color: lightgray;">
+                        </td>                        
                         <td style="align: right">
                             <a href="https://experienceleague.corp.adobe.com/docs/certification/certification/technical-certifications/customer-journeys/overview.html"
                                 target="_blank"
                                 class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM"><span
                                     class="spectrum-Button-label has-no-wrap has-text-weight-bold">Renew Today</span></a>
                         </td>
-                    </tr>                    
+                    </tr>
                 </tbody>
             </table>
         </div>

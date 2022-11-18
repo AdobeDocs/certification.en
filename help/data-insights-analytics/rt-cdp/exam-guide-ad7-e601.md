@@ -18,7 +18,7 @@ Adobe will not provide any certification for passing this exam alone. Please see
 
 ## Exam purpose
 
-An official [Adobe Real-Time CDP Expert](https://spark.adobe.com/page/sBkhdT10gy2sx/) designation acknowledges your understanding of Adobe Experience Platform and Adobe Real Time Customer Data Platform, which is an application built on Adobe Experience Platform. **To achieve this certificate, you must pass the following two exams:**
+An official [Adobe Real-Time CDP Expert](/help/data-insights-analytics/rt-cdp/exam-prep-guide-rt-cdp-exam.md) designation acknowledges your understanding of Adobe Experience Platform and Adobe Real Time Customer Data Platform, which is an application built on Adobe Experience Platform. **To achieve this certificate, you must pass the following two exams:**
 
 * AD0-E600 Adobe Experience Platform Technical Foundations
 * AD7-E601 Adobe Real-Time CDP Technical Practitioner
@@ -182,7 +182,7 @@ Recommended preparation:
 
 * Documentation: [Destination overview](https://experienceleague.adobe.com/docs/experience-platform/destinations/home.html?lang=en), [Destination types and categories](https://experienceleague.adobe.com/docs/experience-platform/destinations/destination-types.html?lang=en), [Destination workspace](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/destinations-workspace.html?lang=en), [Create a new destination connection](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/connect-destination.html?lang=en)
 * SPP On Demand: [Real-time CDP: Destinations](https://solutionpartners.adobe.com/training/courses/course1358382.html)
-* Experience League Tutorial: [Destination Overview](https://video.tv.adobe.com/v/29707/), [Create destination and activate data](https://video.tv.adobe.com/v/29710/)
+* Experience League Tutorial: [Destination Overview](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/understanding-destinations.html), [Create destination and activate data](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/create-destinations-and-activate-data.html)
 
 #### 3.2 Demonstrate an understanding of exporting segments through Destination
 
@@ -195,7 +195,7 @@ Candidates will have hands-on experience in creating destinations and exporting 
 Recommended preparation:
 
 * Documentation: [Audience activation overview](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/activate/activation-overview.html?lang=en), [Destination catalog overview](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/overview.html?lang=en)
-* Experience League Tutorials: [Activate profiles and segments to a destination](https://video.tv.adobe.com/v/336046/), [Integrate Google Customer Match](https://video.tv.adobe.com/v/38180/), [Configure Azure Blob destination](https://video.tv.adobe.com/v/331082/), [Configure Marketo destination](https://video.tv.adobe.com/v/338248/), [Configure file-based cloud storage or email marketing destination](https://video.tv.adobe.com/v/328175/), [Configure a social destination](https://video.tv.adobe.com/v/332599/), [Activate data to non-Adobe application](https://video.tv.adobe.com/v/331022/)
+* Experience League Tutorials: [Activate profiles and segments to a destination](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/activate-profiles-and-segments-to-a-destination.html), [Integrate Google Customer Match](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/integrate-with-google-customer-match.html), [Configure Azure Blob destination](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/configure-the-azure-blob-destination.html), [Configure Marketo destination](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/configure-the-marketo-destination.html), [Configure file-based cloud storage or email marketing destination](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/configuring-file-based-cloud-storage-or-email-marketing-destinations.html), [Configure a social destination](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/configure-a-social-destination.html), [Activate data to non-Adobe application](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/activate-data-to-non-adobe-applications.html)
 
 ## Practice Test
 

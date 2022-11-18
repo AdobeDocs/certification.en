@@ -19,7 +19,7 @@ Adobe Experience Platform Technical Foundations exams are developed with the par
 
 ## Exam Purpose
 
-An official [Adobe Real-Time CDP Expert](https://spark.adobe.com/page/sBkhdT10gy2sx/) designation acknowledges your understanding of the basic features and functionality of Adobe Experience Platform along with application services built on Experience Platform. To achieve this certificate, you must pass the following two exams:
+An official [Adobe Real-Time CDP Expert](/help/data-insights-analytics/rt-cdp/exam-prep-guide-rt-cdp-exam.md) designation acknowledges your understanding of the basic features and functionality of Adobe Experience Platform along with application services built on Experience Platform. To achieve this certificate, you must pass the following two exams:
 
 * AD0-E600 Adobe Experience Platform Technical Foundations
 * AD7-E601 Adobe Real-Time CDP Technical Practitioner
@@ -92,7 +92,7 @@ Recommended preparation:
 * Documentation: [Understanding Schemas](https://experienceleague.adobe.com/docs/experience-platform/xdm/schema/composition.html)
 * SPP On Demand: [Schema and XDM Overview / Adobe Experience Platform: Data Modeling and Ingestion](https://video.tv.adobe.com/v/27105)
 * SPP Challenge/Hands On: [Model data in Schemas](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/model-data-in-schemas.html)
-* Experience League Tutorial: [Schema and XDM Overview](https://video.tv.adobe.com/v/27105)
+* Experience League Tutorial: [Schema and XDM Overview](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/schemas-and-experience-data-model.html)
   
 ### Section 2: Data Ingestion (29%)
 
