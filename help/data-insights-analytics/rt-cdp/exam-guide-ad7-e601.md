@@ -3,6 +3,7 @@ title: Exam Guide - Adobe Real-Time CDP Technical Practitioner
 description: Adobe Real-Time CDP Expert Certification Exam Guide, PREREQUISITE FOR CANDIDATES PURSUING ADOBE REAL-TIME CDP EXPERT CERTIFICATION
 solution: Real-time Customer Data Platform
 role: Developer
+hidefromtoc: true
 recommendations: disable, exclude
 ---
 # Adobe Real-Time CDP Technical Practitioner {#exam-guide-aep-technical-practioner}
@@ -75,7 +76,7 @@ The exam covers three domains: creation, validation and sending data/segments to
 
 ### Section 1: Validation (30%)
 
-#### 1.1 Apply concepts required to validate Profile has the proper attributes and segments
++++1.1 Apply concepts required to validate Profile has the proper attributes and segments
 
 You should be able to describe the role and use of Real-time customer profile in Experience Platform. You should also be able to describe how profile validation works.
 
@@ -88,8 +89,9 @@ Recommended preparation:
 * Documentation: [Profile overview](https://experienceleague.adobe.com/docs/experience-platform/profile/home.html?lang=en), [Profile dashboard](https://experienceleague.adobe.com/docs/experience-platform/dashboards/guides/profiles.html?lang=en), [Profile and Segmentation guardrails](https://experienceleague.adobe.com/docs/experience-platform/profile/guardrails.html?lang=en)
 * SPP On Demand: [Create and Manage Real Time Customer Profile](https://solutionpartners.adobe.com/training/courses/course1175314.html)
 * SPP Challenge/Hands On: [Enable Real Time Customer Profile](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/enable-profiles.html?lang=en)
++++
 
-#### 1.2 Demonstrate an understanding of how to validate deployment strategy based on functional or technical requirements
++++1.2 Demonstrate an understanding of how to validate deployment strategy based on functional or technical requirements
 
 You should be able to understand all the technical and functional requirements and can create and validate deployment strategies based on the requirements.
 
@@ -97,8 +99,9 @@ Recommended preparation:
 
 * Documentation: [Real-Time Customer Data Platform Overview](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/overview.html?lang=en)
 * SPP On Demand: [AEP Application Services: Real-Time CDP](https://solutionpartners.adobe.com/content/solution/us/en/training/courses/course3569029.html)
++++
 
-#### 1.3 Analyze relevant variables to implement the End to End (E2E) Flow of Real-Time-CDP
++++1.3 Analyze relevant variables to implement the End to End (E2E) Flow of Real-Time-CDP
 
 You should be able to ingest data from multiple sources and merge them into a single real-time customer profile. You should also be able to deliver a consistent, relevant, and personalized experience across devices.
 
@@ -110,7 +113,7 @@ Recommended preparation:
 
 * Documentation: [Getting started with Real-Time CDP](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/intro/rtcdp-intro/get-started.html?lang=en), [Metrics overview](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/intro/rtcdp-intro/home-page-dashboards.html?lang=en)
 
-#### 1.4 Monitor segment export to Destination
++++1.4 Monitor segment export to Destination
 
 You should be able to describe dataflows across different services (source connectors to target datasets). You should also be able to describe data utilization by Identity service and Real-time Customer Profile before ultimately being activated to destinations.
 
@@ -122,8 +125,9 @@ Recommended preparation:
 
 * Documentation: [Monitor dataflows for destinations in the UI](https://experienceleague.adobe.com/docs/experience-platform/dataflows/ui/monitor-destinations.html?lang=en)
 * Course: [Create and Activate Segments in Adobe Experience Platform](https://learning.adobe.com/catalog/adobe_experienceplatform/cours000000000097681.html)
++++
 
-#### 1.5 Apply concepts required to validate data governance policies
++++1.5 Apply concepts required to validate data governance policies
 
 You should be able to ensure that Real-time CDP is compliant with usage policies when handling your data. You should also be able to ensure compliance with regulations, restrictions, and policies applicable to data use.
 
@@ -137,10 +141,11 @@ Recommended preparation:
 * SPP Challenge/Hands On: [Apply data governance framework](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/apply-data-governance-framework.html?lang=en)
 * Experience League Tutorials: [Getting started with data governance](https://video.tv.adobe.com/v/333350/), [Data Governance overview](https://video.tv.adobe.com/v/29708/), [Data Governance demo](https://video.tv.adobe.com/v/36653/), [Classify data using governance label](https://video.tv.adobe.com/v/29709/), [Create data usage policies](https://video.tv.adobe.com/v/32977/),[Enforce data usage policies](https://video.tv.adobe.com/v/33631/)
 * Course: [Create and Activate Segments in Adobe Experience Platform](https://learning.adobe.com/catalog/adobe_experienceplatform/cours000000000097681.html)
++++
 
 ### Section 2: Segmentation (41%)
 
-#### 2.1 Demonstrate an understanding of how to create segments based on business requirements
++++2.1 Demonstrate an understanding of how to create segments based on business requirements
 
 You should be able to create segments in Adobe Experience Platform. You should also be able to build segment rules and apply them to your real-time customer profiles to produce the audiences that will power customer experiences.
 
@@ -154,8 +159,9 @@ Recommended preparation:
 * SPP Challenge/Hands-on: [Build segments](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/build-segments.html?lang=en)
 * Experience League Tutorials: [Segment builder overview](https://video.tv.adobe.com/v/333301/), [Create segment](https://video.tv.adobe.com/v/27254/), [Create content-based segments](https://video.tv.adobe.com/v/333302/), [Create conversion segments](https://video.tv.adobe.com/v/333303/), [Create segments from existing segments](https://video.tv.adobe.com/v/333304), [Create sequential segments](https://video.tv.adobe.com/v/333305/), [Create dynamic segments](https://video.tv.adobe.com/v/27428), [Create multi-entry segments](https://video.tv.adobe.com/v/32179/), [Create segments with B2B data](https://video.tv.adobe.com/v/338252/), [Demo of streaming segmentation](https://video.tv.adobe.com/v/36184)
 * Course: [Create and Activate Segments in Adobe Experience Platform](https://learning.adobe.com/catalog/adobe_experienceplatform/cours000000000097681.html)
++++
 
-#### 2.2 Demonstrate an understanding of how to determine segment evaluations based on data ingested
++++2.2 Demonstrate an understanding of how to determine segment evaluations based on data ingested
 
 You should be able to evaluate segments and access segment results in Adobe Experience Platform. You should also be able to develop, test, save your segment and then evaluate the segment through either scheduled evaluation or on-demand evaluation.
 
@@ -166,10 +172,11 @@ You should have experience in developing, testing, and evaluating segments throu
 Recommended preparation:
 
 * Documentation: [Evaluate a segment](https://experienceleague.adobe.com/docs/experience-platform/segmentation/tutorials/evaluate-a-segment.html)
++++
 
 ### Section 3: Destinations (29%)
 
-#### 3.1 Apply concepts required to configure one or more Destinations when sending/exporting audiences based on business use cases
++++3.1 Apply concepts required to configure one or more Destinations when sending/exporting audiences based on business use cases
 
 You should be able to describe the types of destinations, how to configure and create a destination in Real-time CDP.
 
@@ -182,8 +189,9 @@ Recommended preparation:
 * Documentation: [Destination overview](https://experienceleague.adobe.com/docs/experience-platform/destinations/home.html?lang=en), [Destination types and categories](https://experienceleague.adobe.com/docs/experience-platform/destinations/destination-types.html?lang=en), [Destination workspace](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/destinations-workspace.html?lang=en), [Create a new destination connection](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/connect-destination.html?lang=en)
 * SPP On Demand: [Real-time CDP: Destinations](https://solutionpartners.adobe.com/training/courses/course1358382.html)
 * Experience League Tutorial: [Destination Overview](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/understanding-destinations.html), [Create destination and activate data](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/create-destinations-and-activate-data.html)
++++
 
-#### 3.2 Demonstrate an understanding of exporting segments through Destination
++++3.2 Demonstrate an understanding of exporting segments through Destination
 
 You should be able to describe how to activate a profile and segment using Real-time CDP. You should also be able to export segments/audiences to different destination platforms including Adobe solutions, advertising platforms, survey platforms, email marketing platforms, Experience Platform extensions, and more.
 
@@ -195,6 +203,7 @@ Recommended preparation:
 
 * Documentation: [Audience activation overview](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/activate/activation-overview.html?lang=en), [Destination catalog overview](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/overview.html?lang=en)
 * Experience League Tutorials: [Activate profiles and segments to a destination](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/activate-profiles-and-segments-to-a-destination.html), [Integrate Google Customer Match](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/integrate-with-google-customer-match.html), [Configure Azure Blob destination](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/configure-the-azure-blob-destination.html), [Configure Marketo destination](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/configure-the-marketo-destination.html), [Configure file-based cloud storage or email marketing destination](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/configuring-file-based-cloud-storage-or-email-marketing-destinations.html), [Configure a social destination](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/configure-a-social-destination.html), [Activate data to non-Adobe application](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/activate-data-to-non-adobe-applications.html)
++++
 
 ## Practice Test
 

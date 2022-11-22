@@ -3,6 +3,7 @@ title: Exam Guide - Adobe Experience Platform Technical Foundations
 description: Adobe Real-Time CDP Expert Certification Exam Guide, PREREQUISITE FOR CANDIDATES PURSUING ADOBE REAL-TIME CDP EXPERT CERTIFICATION
 solution: Real-time Customer Data Platform
 role: Developer
+hidefromtoc: true
 recommendations: disable, exclude
 ---
 
@@ -80,7 +81,7 @@ The exam covers four domains: business analysis, reporting and dashboarding, seg
 
 ### Section 1: Data Modeling (27%)
 
-#### 1.1 Schemas and Classes
++++1.1 Schemas and Classes
 
 The exam will cover building blocks and principles used for composing schemas. You should be able to create or edit schemas and describe the types of classes used when modeling data. You should also be able to describe the components that make up a schema and the best practices for composing schemas to be used in Adobe Experience Platform.
 
@@ -92,10 +93,11 @@ Recommended preparation:
 * SPP On Demand: [Schema and XDM Overview / Adobe Experience Platform: Data Modeling and Ingestion](https://video.tv.adobe.com/v/27105)
 * SPP Challenge/Hands On: [Model data in Schemas](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/model-data-in-schemas.html)
 * Experience League Tutorial: [Schema and XDM Overview](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/schemas-and-experience-data-model.html)
-  
++++
+
 ### Section 2: Data Ingestion (29%)
 
-#### 2.1 Ingestion types and connectors functionality
++++2.1 Ingestion types and connectors functionality
 
 You should be able to list and describe ingestion types, and also describe the basic functionality associated with connectors. You should be able to ingest data from multiple sources and merge them into a single real-time customer profile. You should also be able to deliver a consistent, relevant, and personalized experience across devices.
 
@@ -105,10 +107,11 @@ Recommended preparation:
 
 * Documentation: [Data Ingestion](https://experienceleague.adobe.com/docs/experience-platform/ingestion/home.html?lang=en)
 * SPP On Demand: [Adobe Experience Platform: Data Modeling and Ingestion](https://solutionpartners.adobe.com/training/learning_program/learningProgram83768.html)
++++
 
 ### Section 3: Unifying Profiles (31%)
 
-#### 3.1 Identity graphs and profile services
++++3.1 Identity graphs and profile services
 
 The exam will cover how AEP is bridging identities across devices and systems. You should be able to understand identity service, namespace, graphs, how to supply identity data to identity service and able to label data fields as identities, ingest identity data, and verify the data in the Adobe Experience Platform Identity Service private graph.
 
@@ -120,8 +123,9 @@ Recommended preparation:
 * SPP On Demand: [Experience Platform: Create and Manage Real-time Customer Profile](https://cpcontents.adobe.com/public/newlearner/newlearner_de10804e.html?accountId=32503#/course/1175314/overview?cert_id=undefined&lp_id=undefined)
 * SPP Challenge/Hands On: [Map identities](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/map-identities.html?lang=en)
 * Experience League Tutorial: [Label, Ingest, and Verify Identity Data](https://experienceleague.adobe.com/docs/platform-learn/tutorials/identities/label-ingest-and-verify-identity-data.html?lang=en)
++++
 
-#### 3.2 Dataset management and data science workspaces and profile enrichment
++++3.2 Dataset management and data science workspaces and profile enrichment
 
 You should be able to create and configure datasets. Also, able to export the audience to a dataset where it can be accessed and acted upon, how Data Science Workspace model outputs can be used in Real-time Customer Profile and how to create a streaming segment with your model output data.
 
@@ -132,10 +136,11 @@ Recommended preparation:
 * Documentation: [Create a dataset for exporting an audience segment](https://experienceleague.adobe.com/docs/experience-platform/segmentation/tutorials/create-dataset-export-segment.html)
 * SPP On Demand: [Experience Platform: Create and Manage Real-time Customer Profile](https://cpcontents.adobe.com/public/newlearner/newlearner_de10804e.html?accountId=32503#/course/1175314/overview?cert_id=undefined&lp_id=undefined)
 * Experience League Tutorial: [Create machine learned segments using Real-time Customer Profile](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-science-workspace/dsw-profile-segmentation.html?lang=en)
++++
 
 ### Section 4: Activation (13%)
 
-#### 4.1 Destinations and segment activation
++++4.1 Destinations and segment activation
 
 You should be able to understand both types of destinations, Profile Exports and Segment Exports. You should also be able to demonstrate use cases for each destination type.
 
@@ -147,6 +152,7 @@ Recommended preparation:
 * SPP On Demand: [Adobe Experience Platform: Segmentation for Developers](https://solutionpartners.adobe.com/training/learning_program/learningProgram83769.html)
 * SPP Challenge/Hands On: [Real-time CDP: Destinations](https://cpcontents.adobe.com/public/newlearner/newlearner_de10804e.html?accountId=32503#/course/1358382/instance/1463643/preview)
 * Experience League Tutorial: [Destinations overview](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/understanding-destinations.html?lang=en)
++++
 
 ## Practice Test
 
