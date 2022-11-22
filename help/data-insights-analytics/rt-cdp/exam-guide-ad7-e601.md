@@ -3,7 +3,6 @@ title: Exam Guide - Adobe Real-Time CDP Technical Practitioner
 description: Adobe Real-Time CDP Expert Certification Exam Guide, PREREQUISITE FOR CANDIDATES PURSUING ADOBE REAL-TIME CDP EXPERT CERTIFICATION
 solution: Real-time Customer Data Platform
 role: Developer
-hidefromtoc: true
 recommendations: disable, exclude
 ---
 # Adobe Real-Time CDP Technical Practitioner {#exam-guide-aep-technical-practioner}

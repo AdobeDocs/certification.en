@@ -3,7 +3,6 @@ title: Exam Guide - Adobe Experience Platform Technical Foundations
 description: Adobe Real-Time CDP Expert Certification Exam Guide, PREREQUISITE FOR CANDIDATES PURSUING ADOBE REAL-TIME CDP EXPERT CERTIFICATION
 solution: Real-time Customer Data Platform
 role: Developer
-hidefromtoc: true
 recommendations: disable, exclude
 ---
 
