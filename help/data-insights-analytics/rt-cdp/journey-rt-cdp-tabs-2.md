@@ -354,7 +354,7 @@ Go to the Adobe [Credential Management System](https://www.certmetrics.com/adobe
     <p>Adobe certifications expire after two years. Take the shorter, lower-cost renewal exam that demonstrates your knowledge of newer capabilities and commitment to keeping your skills current.</p>
     </td>
  </tr>
- <tr>
+ <tr style="border: 0;background-color: white;">
     <td>
     <p align="center">
     <a href="https://www.credly.com/organizations/adobe/badges" target="_blank" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Get Badge</span></a>
