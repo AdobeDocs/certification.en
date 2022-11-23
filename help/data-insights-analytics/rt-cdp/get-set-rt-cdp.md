@@ -67,8 +67,6 @@ Recommended preparation:
 * Experience League Tutorial: [Label, Ingest, and Verify Identity Data](https://experienceleague.adobe.com/docs/platform-learn/tutorials/identities/label-ingest-and-verify-identity-data.html?lang=en)
 +++
 
-<p></p>
-
 +++3.2 Dataset management and data science workspaces and profile enrichment
 
 You should be able to create and configure datasets. Also, able to export the audience to a dataset where it can be accessed and acted upon, how Data Science Workspace model outputs can be used in Real-time Customer Profile and how to create a streaming segment with your model output data.
