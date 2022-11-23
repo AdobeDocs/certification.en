@@ -15,6 +15,7 @@ recommendations: disable, exclude
 The exam covers four domains: business analysis, reporting and dashboarding, segmentation and calculated metrics, general tool knowledge, and reporting.
 
 ### Section 1: Data Modeling (27%)
+
 <p>
 
   +++1.1 Schemas and Classes
