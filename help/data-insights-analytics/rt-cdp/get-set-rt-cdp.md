@@ -3,7 +3,6 @@ title: Real Time CDP Exam Scope and Preparation
 description: The exam covers four domains- business analysis, reporting and dashboarding, segmentation and calculated metrics, general tool knowledge, and reporting.
 solution: Real-time Customer Data Platform
 role: Developer
-hidefromtoc: true
 recommendations: disable, exclude
 ---
 
