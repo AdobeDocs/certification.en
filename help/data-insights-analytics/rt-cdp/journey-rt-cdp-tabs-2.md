@@ -342,6 +342,7 @@ Go to the Adobe [Credential Management System](https://www.certmetrics.com/adobe
 >[!BEGINSHADEBOX]
 
 ## Already certified?
+
 <table>
  <tr style="border: 0;">
     <td style="align: left">
