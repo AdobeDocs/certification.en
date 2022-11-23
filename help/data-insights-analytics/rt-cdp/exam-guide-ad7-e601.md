@@ -75,6 +75,7 @@ To pass the exam and achieve the certificate, a candidate must correctly answer 
 The exam covers three domains: creation, validation and sending data/segments to destinations.
 
 ### Section 1: Validation (30%)
+
 <br>&nbsp;
 +++1.1 Apply concepts required to validate Profile has the proper attributes and segments
 
@@ -144,6 +145,7 @@ Recommended preparation:
 +++
 
 ### Section 2: Segmentation (41%)
+
 <br>&nbsp;
 +++2.1 Demonstrate an understanding of how to create segments based on business requirements
 
@@ -175,6 +177,7 @@ Recommended preparation:
 +++
 
 ### Section 3: Destinations (29%)
+
 <br>&nbsp;
 +++3.1 Apply concepts required to configure one or more Destinations when sending/exporting audiences based on business use cases
 

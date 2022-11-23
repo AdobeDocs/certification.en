@@ -102,6 +102,7 @@ Review exam topics, understand the minimum qualified candidate, and take a readi
 The exam covers four domains: business analysis, reporting and dashboarding, segmentation and calculated metrics, general tool knowledge, and reporting.
 
 ### Section 1: Data Modeling (27%)
+
 <br>&nbsp;
 +++1.1 Schemas and Classes
 
@@ -118,6 +119,7 @@ Recommended preparation:
 +++
 
 ### Section 2: Data Ingestion (29%)
+
 <br>&nbsp;
 +++2.1 Ingestion types and connectors functionality
 
@@ -132,6 +134,7 @@ Recommended preparation:
 +++
 
 ### Section 3: Unifying Profiles (31%)
+
 <br>&nbsp;
 +++3.1 Identity graphs and profile services
 
@@ -161,6 +164,7 @@ Recommended preparation:
 +++
 
 ### Section 4: Activation (13%)
+
 <br>&nbsp;
 +++4.1 Destinations and segment activation
 
