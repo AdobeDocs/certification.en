@@ -1,78 +1,116 @@
 ---
-title: Exam Guide - Adobe Real-Time CDP Technical Practitioner
-description: Adobe Real-Time CDP Expert Certification Exam Guide, PREREQUISITE FOR CANDIDATES PURSUING ADOBE REAL-TIME CDP EXPERT CERTIFICATION
+title: Real Time CDP Exam Scope and Preparation
+description: The exam covers four domains- business analysis, reporting and dashboarding, segmentation and calculated metrics, general tool knowledge, and reporting.
 solution: Real-time Customer Data Platform
 role: Developer
 hidefromtoc: true
 recommendations: disable, exclude
 ---
-# Adobe Real-Time CDP Technical Practitioner {#exam-guide-aep-technical-practioner}
 
-## Introduction
+# Certification Journey - Adobe Real-Time Customer Data Platform (CDP)
 
-This study guide provides potential candidates with detailed descriptions and recommendations they need to prepare for Adobe Real-Time CDP Technical Practitioner exam.
+## Exam scope and recommended preparation
 
-Adobe Experience Platform and Adobe Real-Time Technical exams are developed with the participation of subject matter experts, following industry standards for developing fair and valid tests.
+## Requirement 1: AD0-E600 Adobe Experience Platform Technical Foundations
 
-Adobe will not provide any certification for passing this exam alone. Please see the certification requirements under Exam purpose below.
+The exam covers four domains: business analysis, reporting and dashboarding, segmentation and calculated metrics, general tool knowledge, and reporting.
 
-## Exam purpose
+### Section 1: Data Modeling (27%)
+<br>&nbsp;
++++1.1 Schemas and Classes
 
-An official [Adobe Real-Time CDP Expert](/help/data-insights-analytics/rt-cdp/exam-prep-guide-rt-cdp-exam.md) designation acknowledges your understanding of Adobe Experience Platform and Adobe Real Time Customer Data Platform, which is an application built on Adobe Experience Platform. **To achieve this certificate, you must pass the following two exams:**
+The exam will cover building blocks and principles used for composing schemas. You should be able to create or edit schemas and describe the types of classes used when modeling data. You should also be able to describe the components that make up a schema and the best practices for composing schemas to be used in Adobe Experience Platform.
 
-* AD0-E600 Adobe Experience Platform Technical Foundations
-* AD7-E601 Adobe Real-Time CDP Technical Practitioner
-  
-The AD7-E601 exam covers the creation, management and understanding of customer profile, segmentation, destinations across sources, and other topics. The exam validates the foundational skills and knowledge needed to employ Real-time CDP for audience segmentation, destination exports, and activation on a real-time basis for unified profiles that adhere to data and privacy regulations. Candidates should have experience with Customer Data Platforms (CDP) and knowledge of Adobe Experience Platform.
+You should have experience in creating schemas using UI and APIs, and understand the best practices used for data modeling. Composition understanding, i.e., classes, type of classes, field groups, and UI navigation is a must.
 
-## Solution Partner Program
+Recommended preparation:
 
-Anyone who works for an Adobe partner can access free on-demand training and credential journeys by joining the [Solution Partner Program](https://solutionpartners.adobe.com/solution-partners.html).
+* Documentation: [Understanding Schemas](https://experienceleague.adobe.com/docs/experience-platform/xdm/schema/composition.html)
+* SPP On Demand: [Schema and XDM Overview / Adobe Experience Platform: Data Modeling and Ingestion](https://video.tv.adobe.com/v/27105)
+* SPP Challenge/Hands On: [Model data in Schemas](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/model-data-in-schemas.html)
+* Experience League Tutorial: [Schema and XDM Overview](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/schemas-and-experience-data-model.html)
++++
 
-Your membership is free, and partners who work for a Bronze and above partner qualify for a 33% discount on all certification exam pricing and discounts on Adobe Digital Learning Services courses. Visit [Adobe Certification Voucher Center](https://market.xvoucher.com/adobe) and enter your corporate email for your partner certification discount.
+### Section 2: Data Ingestion (29%)
+<br>&nbsp;
++++2.1 Ingestion types and connectors functionality
 
-## Intended Audience
+You should be able to list and describe ingestion types, and also describe the basic functionality associated with connectors. You should be able to ingest data from multiple sources and merge them into a single real-time customer profile. You should also be able to deliver a consistent, relevant, and personalized experience across devices.
 
-The study guide is intended for individuals with industry experience who then learn the Real-Time CDP application of Adobe Experience Platform. Typical roles of candidates preparing for this certificate include:
+The exam will cover end-to-end understanding of AEP
 
-* Data Architect/Engineer
-* Solution Architect or MSA
-* Enterprise Architect
-* Product Manager
-* Marketing Technology Lead
+Recommended preparation:
 
-## Minimum Candidate Experience
+* Documentation: [Data Ingestion](https://experienceleague.adobe.com/docs/experience-platform/ingestion/home.html?lang=en)
+* SPP On Demand: [Adobe Experience Platform: Data Modeling and Ingestion](https://solutionpartners.adobe.com/training/learning_program/learningProgram83768.html)
++++
 
-Defined by a team of subject matter experts, the candidate who is ready to pass the Adobe Real-Time CDP Technical Practitioner exam has the following qualifications, at a minimum:
+### Section 3: Unifying Profiles (31%)
+<br>&nbsp;
++++3.1 Identity graphs and profile services
 
-* Basic know-how of Experience Platform and can navigate through the UI
-* Ability to create segments and build audiences (logic included in that)
-* Ability to configure destinations
-* Ability to connect segments to destinations
-* Ability to build insights/events to respond and react in real time
-* DULE set-up during data ingestion, segment limitation during activations
-* Understanding of opt-in requirements by channel
-* Ability to design/understand the data that needs to be captured and activated upon using best practices for use case data frequency and volume
-* Ability to understand data needed in different channels
-* Ability to determine what profile attributes are needed
-* Knowledge of frequency of sending segments out through destinations
-* Knowledge of how often segment membership is updated
+The exam will cover how AEP is bridging identities across devices and systems. You should be able to understand identity service, namespace, graphs, how to supply identity data to identity service and able to label data fields as identities, ingest identity data, and verify the data in the Adobe Experience Platform Identity Service private graph.
 
-Use the [Readiness questionnaire](https://scorpion.caveon.com/launchpad/ad-q-e601-readiness-questionnaire-for-adobe-real-time-cdp-technical-practitioner-exam/ad-q-e601-readiness-questionnaire-for-adobe-real-time-cdp-technical-practitioner-exam) to determine if you meet the minimum qualifications for this exam.
+You should have experience in defining identity name spaces and used identity graphs when in profile services, supplying identity data to Identity Service, and using an identity graph to map different identity namespaces.
 
-## Exam information
+Recommended preparation:
 
-Adobe Real-Time CDP Technical Practitioner exam can be taken online or at a test center. The exam will be proctored (taking it online requires camera access).
+* Documentation: [Identity and identity graphs](https://experienceleague.adobe.com/docs/platform-learn/tutorials/identities/understanding-identity-and-identity-graphs.html?lang=en)
+* SPP On Demand: [Experience Platform: Create and Manage Real-time Customer Profile](https://cpcontents.adobe.com/public/newlearner/newlearner_de10804e.html?accountId=32503#/course/1175314/overview?cert_id=undefined&lp_id=undefined)
+* SPP Challenge/Hands On: [Map identities](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/map-identities.html?lang=en)
+* Experience League Tutorial: [Label, Ingest, and Verify Identity Data](https://experienceleague.adobe.com/docs/platform-learn/tutorials/identities/label-ingest-and-verify-identity-data.html?lang=en)
++++
 
-The exam will have up to 34 questions. Candidates will be given 51 minutes to finish their test, and answer multiple choice (select one correct answer) and multiple select (choose two or more) types of questions. The exam is available in English.
++++3.2 Dataset management and data science workspaces and profile enrichment
 
-The fee to appear for the exam is $125 USD / $95 USD (India).
+You should be able to create and configure datasets. Also, able to export the audience to a dataset where it can be accessed and acted upon, how Data Science Workspace model outputs can be used in Real-time Customer Profile and how to create a streaming segment with your model output data.
 
-To pass the exam and achieve the certificate, a candidate must correctly answer 25 questions out of 34.
+The exam will cover how to enrich profiles through data science workspace modeling services. You should have experience in setting up a Data Science Workspace model and creating a streaming segment.
 
-## Exam scope and recommended preparations
+Recommended preparation:
 
-The exam covers three domains: creation, validation and sending data/segments to destinations.
+* Documentation: [Create a dataset for exporting an audience segment](https://experienceleague.adobe.com/docs/experience-platform/segmentation/tutorials/create-dataset-export-segment.html)
+* SPP On Demand: [Experience Platform: Create and Manage Real-time Customer Profile](https://cpcontents.adobe.com/public/newlearner/newlearner_de10804e.html?accountId=32503#/course/1175314/overview?cert_id=undefined&lp_id=undefined)
+* Experience League Tutorial: [Create machine learned segments using Real-time Customer Profile](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-science-workspace/dsw-profile-segmentation.html?lang=en)
++++
+
+### Section 4: Activation (13%)
+<br>&nbsp;
++++4.1 Destinations and segment activation
+
+You should be able to understand both types of destinations, Profile Exports and Segment Exports. You should also be able to demonstrate use cases for each destination type.
+
+The exam will cover how to set up a destination and how segment activation works. You should have experience in setting up a destination and activating the segments.
+
+Recommended preparation:
+
+* Documentation: [Destinations](https://experienceleague.adobe.com/docs/experience-platform/destinations/home.html?lang=en)
+* SPP On Demand: [Adobe Experience Platform: Segmentation for Developers](https://solutionpartners.adobe.com/training/learning_program/learningProgram83769.html)
+* SPP Challenge/Hands On: [Real-time CDP: Destinations](https://cpcontents.adobe.com/public/newlearner/newlearner_de10804e.html?accountId=32503#/course/1358382/instance/1463643/preview)
+* Experience League Tutorial: [Destinations overview](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/understanding-destinations.html?lang=en)
++++
+
+## Additional Study Aid Resources
+
+Adobe has provided additional study aids to help you prepare for your certification exam. These include content from Adobe Experience League, Adobe Digital Learning Solutions, and technical documentation
+
+* [Adobe Experience Platform Enablement (Partners Only)](https://solutionpartners.adobe.com/training/courses/course5250864.html)
+* [Experience Data Model (XDM) Guide](https://experienceleague.adobe.com/docs/experience-platform/xdm/home.html?lang=en)
+* [Identity Service Overview](https://experienceleague.adobe.com/docs/experience-platform/identity/home.html?lang=en)
+* [Intelligent Services Overview](https://experienceleague.adobe.com/docs/experience-platform/intelligent-services/home.html?lang=en)
+* [Data Governance Guide](https://experienceleague.adobe.com/docs/experience-platform/data-governance/home.html?lang=en)
+* [Source Connector Guide](https://experienceleague.adobe.com/docs/experience-platform/sources/home.html?lang=en)
+* [Data Prep Guide](https://experienceleague.adobe.com/docs/experience-platform/data-prep/home.html?lang=en)
+* [Access Control Guide](https://experienceleague.adobe.com/docs/experience-platform/access-control/home.html?lang=en)
+* [Dataflows Guide](https://experienceleague.adobe.com/docs/experience-platform/dataflows/ui/monitor-sources.html?lang=en)
+* [Catalog and Dataset Guide](https://experienceleague.adobe.com/docs/experience-platform/catalog/home.html?lang=en)
+* [API References](https://developer.adobe.com/experience-platform-apis/)
+* [Real-Time Customer Data Platform Guide](https://experienceleague.adobe.com/docs/experience-platform/profile/ui/user-guide.html?lang=en)
+* [Segmentation Service Guide](https://experienceleague.adobe.com/docs/experience-platform/segmentation/home.html?lang=en)
+* [Data Science Workspace Guide](https://experienceleague.adobe.com/docs/experience-platform/data-science-workspace/home.html?lang=en)
+* [Data access guide](https://experienceleague.adobe.com/docs/experience-platform/data-access/home.html?lang=en)
+
+## Requirement 1: AD0-E600 Adobe Experience Platform Technical Foundations
 
 ### Section 1: Validation (30%)
 <br>&nbsp;
@@ -205,14 +243,6 @@ Recommended preparation:
 * Experience League Tutorials: [Activate profiles and segments to a destination](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/activate-profiles-and-segments-to-a-destination.html), [Integrate Google Customer Match](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/integrate-with-google-customer-match.html), [Configure Azure Blob destination](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/configure-the-azure-blob-destination.html), [Configure Marketo destination](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/configure-the-marketo-destination.html), [Configure file-based cloud storage or email marketing destination](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/configuring-file-based-cloud-storage-or-email-marketing-destinations.html), [Configure a social destination](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/configure-a-social-destination.html), [Activate data to non-Adobe application](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/activate-data-to-non-adobe-applications.html)
 +++
 
-## Practice Test
-
-We are excited to offer free practice tests and provide a detailed coaching report upon completion of each one. You will have unlimited access to all available practice tests for Adobe's expert-level exams. Our practice tests are developed from the same blueprints as the live exams, so they can help you gauge how you are doing in each topic area. However, taking a practice test does not guarantee that you will pass the certification exam.
-
-Go to the [Adobe Credential Management System](http://www.certmetrics.com/adobe/) to launch a practice test
-
-Go to the Scheduling Page > Practice Tests > Adobe Certification Prep Portal > click on Launch Adobe Exam Prep Portal (on the far-right side).
-
 ## Additional Study Aid Resources
 
 * [Data Governance Guide](https://experienceleague.adobe.com/docs/experience-platform/data-governance/home.html?lang=en)
@@ -224,10 +254,12 @@ Go to the Scheduling Page > Practice Tests > Adobe Certification Prep Portal > c
 * [Source Connector Guide](https://experienceleague.adobe.com/docs/experience-platform/sources/home.html?lang=en)
 * [Experience Data Model (XDM) Guide](https://experienceleague.adobe.com/docs/experience-platform/xdm/home.html?lang=en)
 
-Are you ready to schedule your exam? Go to [Credential Manager](https://www.certmetrics.com/adobe/).
+## Practice Test
 
-## For More Information
+We are excited to offer free practice tests and provide a detailed coaching report upon completion of each one. You will have unlimited access to all available practice tests for Adobe’s expert-level exams. Our practice tests are developed from the same blueprints as the live exams, so they can help you gauge how you are doing in each topic area. However, taking a practice test does not guarantee that you will pass the certification exam.
 
-Have a question about Adobe Certification? please email certif@adobe.com for additional details about the program.
+Go to the Adobe [Credential Management System](https://www.certmetrics.com/adobe/) to launch a practice test.
 
-The content of this exam guide is subject to changes and updates. Last update July 2022
+>[!NOTE]
+>
+> Go to the Scheduling Page > Practice Tests > Adobe Certification Prep Portal > click on Launch Adobe Exam Prep Portal (on the far-right side).

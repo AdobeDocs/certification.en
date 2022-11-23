@@ -6,22 +6,16 @@ role: Developer
 recommendations: disable, exclude
 hidefromtoc: true
 ---
-# Adobe Real-Time Customer Data Platform Certification {#rtcdp-certification}
+# Certification Journey - Adobe Real-Time Customer Data Platform {#rtcdp-certification}
 
-<br>&nbsp;
 
-![Technical Practitioner](/help/assets/technical-practitioner.png "Technical Practitioner") {width="129" height="129" align="center"}
+Technical Practitioners
 
-<p align="center"> <strong>Technical Practitioners </strong> </p>
-
-<p align="center">You have technical knowledge about audience segmentation, destination exports, and activation on real time basis for unified profiles that adhere to data and privacy regulations, customer data platforms (CDP) and knowledge of Adobe Experience Platform.</p>
-
-<br>&nbsp;
-<br>&nbsp;
+You have technical knowledge about audience segmentation, destination exports, and activation on real time basis for unified profiles that adhere to data and privacy regulations, customer data platforms (CDP) and knowledge of Adobe Experience Platform.
 
 ## Follow these steps to earn a new credential
 
-### 1. Read the exam guides
+### Read the exam guides
 
 To earn the Real-time Customer Data Platform certification, you must also pass the Experience Platform Technical Foundations exam. Read the exam guides to learn:
 
@@ -43,7 +37,7 @@ To earn the Real-time Customer Data Platform certification, you must also pass t
 </tr>
 </table>  
 
-### 2. Begin training and get job experience
+### Begin training and get job experience
 
 Learner journeys provide the recommended steps to earn credentials. You have free access to hundreds of courses and self-paced learning modules, videos, quizzes, and test outs.
 
@@ -71,7 +65,7 @@ You can also register to join an instructor-led class with Adobe trainers. Bronz
 </tr>
 </table>
 
-### 3. Take the exam
+### Take the exam
 
 To earn certification, you need to pass 2 distinct exams with a proctor present, online or on-site, where available.
 
@@ -129,7 +123,7 @@ If an exam is marked as Retiring, you can still take it and your certification w
 
 View the [certification](https://solutionpartners.adobe.com/solution-partners/home/support/faq/certification_credentials.html) FAQ if you have any questions about credentials, prepaid vouchers, discounts, and bulk orders.
 
-### 4. Get your badge
+### Get your badge
 
 Once you earn a credential you can download your digital badge. You can use your badge on social profiles and verify your achievement to your employer and customers that you are skilled in this application.
 
