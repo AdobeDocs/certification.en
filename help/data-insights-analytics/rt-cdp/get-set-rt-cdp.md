@@ -10,7 +10,7 @@ recommendations: disable, exclude
 
 ## Exam scope and recommended preparation
 
-### Requirement 1: AD0-E600 Adobe Experience Platform Technical Foundations
+## Requirement 1: AD0-E600 Adobe Experience Platform Technical Foundations
 
 The exam covers four domains: business analysis, reporting and dashboarding, segmentation and calculated metrics, general tool knowledge, and reporting.
 
@@ -89,7 +89,7 @@ The exam covers four domains: business analysis, reporting and dashboarding, seg
   * Experience League Tutorial: [Destinations overview](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/understanding-destinations.html?lang=en)
   +++
 
-## Additional Study Aid Resources
+### Additional Study Aid Resources
 
 Adobe has provided additional study aids to help you prepare for your certification exam. These include content from Adobe Experience League, Adobe Digital Learning Solutions, and technical documentation
 
@@ -109,7 +109,7 @@ Adobe has provided additional study aids to help you prepare for your certificat
 * [Data Science Workspace Guide](https://experienceleague.adobe.com/docs/experience-platform/data-science-workspace/home.html?lang=en)
 * [Data access guide](https://experienceleague.adobe.com/docs/experience-platform/data-access/home.html?lang=en)
 
-### Requirement 2: AD7-E601 Adobe Real-Time CDP Technical Practioner
+## Requirement 2: AD7-E601 Adobe Real-Time CDP Technical Practioner
 
 ### Section 1: Validation (30%)
 
@@ -243,7 +243,7 @@ Adobe has provided additional study aids to help you prepare for your certificat
   * Experience League Tutorials: [Activate profiles and segments to a destination](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/activate-profiles-and-segments-to-a-destination.html), [Integrate Google Customer Match](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/integrate-with-google-customer-match.html), [Configure Azure Blob destination](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/configure-the-azure-blob-destination.html), [Configure Marketo destination](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/configure-the-marketo-destination.html), [Configure file-based cloud storage or email marketing destination](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/configuring-file-based-cloud-storage-or-email-marketing-destinations.html), [Configure a social destination](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/configure-a-social-destination.html), [Activate data to non-Adobe application](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/activate-data-to-non-adobe-applications.html)
   +++
 
-## Additional Study Aid Resources
+### Additional Study Aid Resources
 
 * [Data Governance Guide](https://experienceleague.adobe.com/docs/experience-platform/data-governance/home.html?lang=en)
 * [Data Ingestion Guide](https://experienceleague.adobe.com/docs/experience-platform/ingestion/home.html?lang=en)
