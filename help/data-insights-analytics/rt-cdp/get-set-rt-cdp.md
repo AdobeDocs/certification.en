@@ -16,81 +16,89 @@ The exam covers four domains: business analysis, reporting and dashboarding, seg
 
 ### Section 1: Data Modeling (27%)
 
-<p>
+<p></p>
 
-  +++1.1 Schemas and Classes
++++1.1 Schemas and Classes
 
-  The exam will cover building blocks and principles used for composing schemas. You should be able to create or edit schemas and describe the types of classes used when modeling data. You should also be able to describe the components that make up a schema and the best practices for composing schemas to be used in Adobe Experience Platform.
+The exam will cover building blocks and principles used for composing schemas. You should be able to create or edit schemas and describe the types of classes used when modeling data. You should also be able to describe the components that make up a schema and the best practices for composing schemas to be used in Adobe Experience Platform.
 
-  You should have experience in creating schemas using UI and APIs, and understand the best practices used for data modeling. Composition understanding, i.e., classes, type of classes, field groups, and UI navigation is a must.
+You should have experience in creating schemas using UI and APIs, and understand the best practices used for data modeling. Composition understanding, i.e., classes, type of classes, field groups, and UI navigation is a must.
 
-  Recommended preparation:
+Recommended preparation:
 
-  * Documentation: [Understanding Schemas](https://experienceleague.adobe.com/docs/experience-platform/xdm/schema/composition.html)
-  * SPP On Demand: [Schema and XDM Overview / Adobe Experience Platform: Data Modeling and Ingestion](https://video.tv.adobe.com/v/27105)
-  * SPP Challenge/Hands On: [Model data in Schemas](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/model-data-in-schemas.html)
-  * Experience League Tutorial: [Schema and XDM Overview](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/schemas-and-experience-data-model.html)
-  +++
+* Documentation: [Understanding Schemas](https://experienceleague.adobe.com/docs/experience-platform/xdm/schema/composition.html)
+* SPP On Demand: [Schema and XDM Overview / Adobe Experience Platform: Data Modeling and Ingestion](https://video.tv.adobe.com/v/27105)
+* SPP Challenge/Hands On: [Model data in Schemas](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/model-data-in-schemas.html)
+* Experience League Tutorial: [Schema and XDM Overview](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/schemas-and-experience-data-model.html)
++++
 
-</p>
+
 ### Section 2: Data Ingestion (29%)
-<br></br>
-  +++2.1 Ingestion types and connectors functionality
 
-  You should be able to list and describe ingestion types, and also describe the basic functionality associated with connectors. You should be able to ingest data from multiple sources and merge them into a single real-time customer profile. You should also be able to deliver a consistent, relevant, and personalized experience across devices.
+<p></p>
 
-  The exam will cover end-to-end understanding of AEP
++++2.1 Ingestion types and connectors functionality
 
-  Recommended preparation:
+You should be able to list and describe ingestion types, and also describe the basic functionality associated with connectors. You should be able to ingest data from multiple sources and merge them into a single real-time customer profile. You should also be able to deliver a consistent, relevant, and personalized experience across devices.
 
-  * Documentation: [Data Ingestion](https://experienceleague.adobe.com/docs/experience-platform/ingestion/home.html?lang=en)
-  * SPP On Demand: [Adobe Experience Platform: Data Modeling and Ingestion](https://solutionpartners.adobe.com/training/learning_program/learningProgram83768.html)
-  +++
+The exam will cover end-to-end understanding of AEP
+
+Recommended preparation:
+
+* Documentation: [Data Ingestion](https://experienceleague.adobe.com/docs/experience-platform/ingestion/home.html?lang=en)
+* SPP On Demand: [Adobe Experience Platform: Data Modeling and Ingestion](https://solutionpartners.adobe.com/training/learning_program/learningProgram83768.html)
++++
 
 ### Section 3: Unifying Profiles (31%)
 
-  +++3.1 Identity graphs and profile services
+<p></p>
 
-  The exam will cover how AEP is bridging identities across devices and systems. You should be able to understand identity service, namespace, graphs, how to supply identity data to identity service and able to label data fields as identities, ingest identity data, and verify the data in the Adobe Experience Platform Identity Service private graph.
++++3.1 Identity graphs and profile services
 
-  You should have experience in defining identity name spaces and used identity graphs when in profile services, supplying identity data to Identity Service, and using an identity graph to map different identity namespaces.
+The exam will cover how AEP is bridging identities across devices and systems. You should be able to understand identity service, namespace, graphs, how to supply identity data to identity service and able to label data fields as identities, ingest identity data, and verify the data in the Adobe Experience Platform Identity Service private graph.
 
-  Recommended preparation:
+You should have experience in defining identity name spaces and used identity graphs when in profile services, supplying identity data to Identity Service, and using an identity graph to map different identity namespaces.
 
-  * Documentation: [Identity and identity graphs](https://experienceleague.adobe.com/docs/platform-learn/tutorials/identities/understanding-identity-and-identity-graphs.html?lang=en)
-  * SPP On Demand: [Experience Platform: Create and Manage Real-time Customer Profile](https://cpcontents.adobe.com/public/newlearner/newlearner_de10804e.html?accountId=32503#/course/1175314/overview?cert_id=undefined&lp_id=undefined)
-  * SPP Challenge/Hands On: [Map identities](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/map-identities.html?lang=en)
-  * Experience League Tutorial: [Label, Ingest, and Verify Identity Data](https://experienceleague.adobe.com/docs/platform-learn/tutorials/identities/label-ingest-and-verify-identity-data.html?lang=en)
-  +++
+Recommended preparation:
 
-  +++3.2 Dataset management and data science workspaces and profile enrichment
+* Documentation: [Identity and identity graphs](https://experienceleague.adobe.com/docs/platform-learn/tutorials/identities/understanding-identity-and-identity-graphs.html?lang=en)
+* SPP On Demand: [Experience Platform: Create and Manage Real-time Customer Profile](https://cpcontents.adobe.com/public/newlearner/newlearner_de10804e.html?accountId=32503#/course/1175314/overview?cert_id=undefined&lp_id=undefined)
+* SPP Challenge/Hands On: [Map identities](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/map-identities.html?lang=en)
+* Experience League Tutorial: [Label, Ingest, and Verify Identity Data](https://experienceleague.adobe.com/docs/platform-learn/tutorials/identities/label-ingest-and-verify-identity-data.html?lang=en)
++++
 
-  You should be able to create and configure datasets. Also, able to export the audience to a dataset where it can be accessed and acted upon, how Data Science Workspace model outputs can be used in Real-time Customer Profile and how to create a streaming segment with your model output data.
+<p></p>
 
-  The exam will cover how to enrich profiles through data science workspace modeling services. You should have experience in setting up a Data Science Workspace model and creating a streaming segment.
++++3.2 Dataset management and data science workspaces and profile enrichment
 
-  Recommended preparation:
+You should be able to create and configure datasets. Also, able to export the audience to a dataset where it can be accessed and acted upon, how Data Science Workspace model outputs can be used in Real-time Customer Profile and how to create a streaming segment with your model output data.
 
-  * Documentation: [Create a dataset for exporting an audience segment](https://experienceleague.adobe.com/docs/experience-platform/segmentation/tutorials/create-dataset-export-segment.html)
-  * SPP On Demand: [Experience Platform: Create and Manage Real-time Customer Profile](https://cpcontents.adobe.com/public/newlearner/newlearner_de10804e.html?accountId=32503#/course/1175314/overview?cert_id=undefined&lp_id=undefined)
-  * Experience League Tutorial: [Create machine learned segments using Real-time Customer Profile](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-science-workspace/dsw-profile-segmentation.html?lang=en)
-  +++
+The exam will cover how to enrich profiles through data science workspace modeling services. You should have experience in setting up a Data Science Workspace model and creating a streaming segment.
+
+Recommended preparation:
+
+* Documentation: [Create a dataset for exporting an audience segment](https://experienceleague.adobe.com/docs/experience-platform/segmentation/tutorials/create-dataset-export-segment.html)
+* SPP On Demand: [Experience Platform: Create and Manage Real-time Customer Profile](https://cpcontents.adobe.com/public/newlearner/newlearner_de10804e.html?accountId=32503#/course/1175314/overview?cert_id=undefined&lp_id=undefined)
+* Experience League Tutorial: [Create machine learned segments using Real-time Customer Profile](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-science-workspace/dsw-profile-segmentation.html?lang=en)
++++
 
 ### Section 4: Activation (13%)
 
-  +++4.1 Destinations and segment activation
+<p></p>
 
-  You should be able to understand both types of destinations, Profile Exports and Segment Exports. You should also be able to demonstrate use cases for each destination type.
++++4.1 Destinations and segment activation
 
-  The exam will cover how to set up a destination and how segment activation works. You should have experience in setting up a destination and activating the segments.
+You should be able to understand both types of destinations, Profile Exports and Segment Exports. You should also be able to demonstrate use cases for each destination type.
 
-  Recommended preparation:
+The exam will cover how to set up a destination and how segment activation works. You should have experience in setting up a destination and activating the segments.
 
-  * Documentation: [Destinations](https://experienceleague.adobe.com/docs/experience-platform/destinations/home.html?lang=en)
-  * SPP On Demand: [Adobe Experience Platform: Segmentation for Developers](https://solutionpartners.adobe.com/training/learning_program/learningProgram83769.html)
-  * SPP Challenge/Hands On: [Real-time CDP: Destinations](https://cpcontents.adobe.com/public/newlearner/newlearner_de10804e.html?accountId=32503#/course/1358382/instance/1463643/preview)
-  * Experience League Tutorial: [Destinations overview](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/understanding-destinations.html?lang=en)
-  +++
+Recommended preparation:
+
+* Documentation: [Destinations](https://experienceleague.adobe.com/docs/experience-platform/destinations/home.html?lang=en)
+* SPP On Demand: [Adobe Experience Platform: Segmentation for Developers](https://solutionpartners.adobe.com/training/learning_program/learningProgram83769.html)
+* SPP Challenge/Hands On: [Real-time CDP: Destinations](https://cpcontents.adobe.com/public/newlearner/newlearner_de10804e.html?accountId=32503#/course/1358382/instance/1463643/preview)
+* Experience League Tutorial: [Destinations overview](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/understanding-destinations.html?lang=en)
++++
 
 ### Additional Study Aid Resources
 
