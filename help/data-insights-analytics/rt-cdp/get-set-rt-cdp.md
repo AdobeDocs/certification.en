@@ -15,6 +15,7 @@ recommendations: disable, exclude
 The exam covers four domains: business analysis, reporting and dashboarding, segmentation and calculated metrics, general tool knowledge, and reporting.
 
 ### Section 1: Data Modeling (27%)
+<p>
 
   +++1.1 Schemas and Classes
 
@@ -30,8 +31,9 @@ The exam covers four domains: business analysis, reporting and dashboarding, seg
   * Experience League Tutorial: [Schema and XDM Overview](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/schemas-and-experience-data-model.html)
   +++
 
+</p>
 ### Section 2: Data Ingestion (29%)
-
+<br></br>
   +++2.1 Ingestion types and connectors functionality
 
   You should be able to list and describe ingestion types, and also describe the basic functionality associated with connectors. You should be able to ingest data from multiple sources and merge them into a single real-time customer profile. You should also be able to deliver a consistent, relevant, and personalized experience across devices.
