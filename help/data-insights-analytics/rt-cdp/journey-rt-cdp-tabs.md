@@ -103,7 +103,6 @@ The exam covers four domains: business analysis, reporting and dashboarding, seg
 
 ### Section 1: Data Modeling (27%)
 
-<br>&nbsp;
 +++1.1 Schemas and Classes
 
 The exam will cover building blocks and principles used for composing schemas. You should be able to create or edit schemas and describe the types of classes used when modeling data. You should also be able to describe the components that make up a schema and the best practices for composing schemas to be used in Adobe Experience Platform.
@@ -120,7 +119,6 @@ Recommended preparation:
 
 ### Section 2: Data Ingestion (29%)
 
-<br>&nbsp;
 +++2.1 Ingestion types and connectors functionality
 
 You should be able to list and describe ingestion types, and also describe the basic functionality associated with connectors. You should be able to ingest data from multiple sources and merge them into a single real-time customer profile. You should also be able to deliver a consistent, relevant, and personalized experience across devices.
@@ -135,7 +133,6 @@ Recommended preparation:
 
 ### Section 3: Unifying Profiles (31%)
 
-<br>&nbsp;
 +++3.1 Identity graphs and profile services
 
 The exam will cover how AEP is bridging identities across devices and systems. You should be able to understand identity service, namespace, graphs, how to supply identity data to identity service and able to label data fields as identities, ingest identity data, and verify the data in the Adobe Experience Platform Identity Service private graph.
@@ -165,7 +162,6 @@ Recommended preparation:
 
 ### Section 4: Activation (13%)
 
-<br>&nbsp;
 +++4.1 Destinations and segment activation
 
 You should be able to understand both types of destinations, Profile Exports and Segment Exports. You should also be able to demonstrate use cases for each destination type.
@@ -204,7 +200,6 @@ Adobe has provided additional study aids to help you prepare for your certificat
 
 ### Section 1: Validation (30%)
 
-<br>&nbsp;
 +++1.1 Apply concepts required to validate Profile has the proper attributes and segments
 
 You should be able to describe the role and use of Real-time customer profile in Experience Platform. You should also be able to describe how profile validation works.
@@ -274,7 +269,6 @@ Recommended preparation:
 
 ### Section 2: Segmentation (41%)
 
-<br>&nbsp;
 +++2.1 Demonstrate an understanding of how to create segments based on business requirements
 
 You should be able to create segments in Adobe Experience Platform. You should also be able to build segment rules and apply them to your real-time customer profiles to produce the audiences that will power customer experiences.
@@ -306,7 +300,6 @@ Recommended preparation:
 
 ### Section 3: Destinations (29%)
 
-<br>&nbsp;
 +++3.1 Apply concepts required to configure one or more Destinations when sending/exporting audiences based on business use cases
 
 You should be able to describe the types of destinations, how to configure and create a destination in Real-time CDP.
