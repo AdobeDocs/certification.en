@@ -344,26 +344,22 @@ Go to the Adobe [Credential Management System](https://www.certmetrics.com/adobe
 ## Already certified?
 
 <table>
- <tr style="border: 0;">
+ <tr>
     <td style="align: left">
     <p align="center" style="font-size: medium;font-weight: 700; color: #002191">Get Your Badge</p> 
     <p>Once you earn a credential you can download your digital badge. You can use your badge on social profiles and verify your achievement to your employer and customers that you are skilled in this application.</p>
-    </td>
-    <td style="border: 0;background-color: #F8F8F8;">
     </td>
     <td style="align: right">
     <p align="center" style="font-size: medium;font-weight: 700; color: #002191">Renew this Certification</p>
     <p>Adobe certifications expire after two years. Take the shorter, lower-cost renewal exam that demonstrates your knowledge of newer capabilities and commitment to keeping your skills current.</p>
     </td>
  </tr>
- <tr style="border: 0;background-color: white;">
+ <tr>
     <td>
     <p align="center">
     <a href="https://www.credly.com/organizations/adobe/badges" target="_blank" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Get Badge</span></a>
     </p>
     </td>
-    <td style="border: 0;background-color: #F8F8F8;">
-    </td>                        
     <td>
     <p align="center">
     <a href="https://experienceleague.corp.adobe.com/docs/certification/certification/technical-certifications/customer-journeys/overview.html" target="_blank" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Renew Today</span></a>
