@@ -10,11 +10,11 @@ recommendations: disable, exclude
 
 ## Exam scope and recommended preparation
 
-## Requirement 1: AD0-E600 Adobe Experience Platform Technical Foundations
+### Requirement 1: AD0-E600 Adobe Experience Platform Technical Foundations
 
 The exam covers four domains: business analysis, reporting and dashboarding, segmentation and calculated metrics, general tool knowledge, and reporting.
 
-### Section 1: Data Modeling (27%)
+#### Section 1: Data Modeling (27%)
 
 +++1.1 Schemas and Classes
 
@@ -30,7 +30,7 @@ Recommended preparation:
 * Experience League Tutorial: [Schema and XDM Overview](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/schemas-and-experience-data-model.html)
 +++
 
-### Section 2: Data Ingestion (29%)
+#### Section 2: Data Ingestion (29%)
 
 +++2.1 Ingestion types and connectors functionality
 
@@ -44,7 +44,7 @@ Recommended preparation:
 * SPP On Demand: [Adobe Experience Platform: Data Modeling and Ingestion](https://solutionpartners.adobe.com/training/learning_program/learningProgram83768.html)
 +++
 
-### Section 3: Unifying Profiles (31%)
+#### Section 3: Unifying Profiles (31%)
 
 +++3.1 Identity graphs and profile services
 
@@ -73,7 +73,7 @@ Recommended preparation:
 * Experience League Tutorial: [Create machine learned segments using Real-time Customer Profile](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-science-workspace/dsw-profile-segmentation.html?lang=en)
 +++
 
-### Section 4: Activation (13%)
+#### Section 4: Activation (13%)
 
 +++4.1 Destinations and segment activation
 
@@ -109,9 +109,9 @@ Adobe has provided additional study aids to help you prepare for your certificat
 * [Data Science Workspace Guide](https://experienceleague.adobe.com/docs/experience-platform/data-science-workspace/home.html?lang=en)
 * [Data access guide](https://experienceleague.adobe.com/docs/experience-platform/data-access/home.html?lang=en)
 
-## Requirement 1: AD0-E600 Adobe Experience Platform Technical Foundations
+### Requirement 2: AD7-E601 Adobe Real-Time CDP Technical Practioner
 
-### Section 1: Validation (30%)
+#### Section 1: Validation (30%)
 
 +++1.1 Apply concepts required to validate Profile has the proper attributes and segments
 
@@ -180,7 +180,7 @@ Recommended preparation:
 * Course: [Create and Activate Segments in Adobe Experience Platform](https://learning.adobe.com/catalog/adobe_experienceplatform/cours000000000097681.html)
 +++
 
-### Section 2: Segmentation (41%)
+#### Section 2: Segmentation (41%)
 
 +++2.1 Demonstrate an understanding of how to create segments based on business requirements
 
@@ -211,7 +211,7 @@ Recommended preparation:
 * Documentation: [Evaluate a segment](https://experienceleague.adobe.com/docs/experience-platform/segmentation/tutorials/evaluate-a-segment.html)
 +++
 
-### Section 3: Destinations (29%)
+#### Section 3: Destinations (29%)
 
 +++3.1 Apply concepts required to configure one or more Destinations when sending/exporting audiences based on business use cases
 

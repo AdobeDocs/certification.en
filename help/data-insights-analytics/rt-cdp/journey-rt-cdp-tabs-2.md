@@ -332,8 +332,6 @@ Go to the Adobe [Credential Management System](https://www.certmetrics.com/adobe
 
 >[!ENDTABS]
 
->[!BEGINSHADEBOX]
-
 ## Already certified?
 
 <table>
@@ -365,12 +363,6 @@ Go to the Adobe [Credential Management System](https://www.certmetrics.com/adobe
  </tr>
 </table>
 
-<br>&nbsp;
-
 <a href="https://www.adobe.com">View the certification</a> FAQ if you have any questions about credentials, prepaid vouchers, discounts, and bulk orders.
-
-<br>&nbsp;
-
->[!ENDSHADEBOX]
 
 Have a question about Adobe Certification? Please email <a href="mailto:certif@adobe.com">certif@adobe.com</a> for additional details about the program.<br/>
