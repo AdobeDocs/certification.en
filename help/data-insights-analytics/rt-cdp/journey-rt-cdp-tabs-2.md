@@ -7,16 +7,20 @@ recommendations: disable, exclude
 ---
 # Certification Journey - Adobe Real-Time Customer Data Platform {#rtcdp-certification}
 
-To earn certification, you need to pass 2 distinct exams with a proctor present, online or on-site, where available. Purchase your exam voucher at Adobe Certification Voucher Center, if you have a discount it will apply at checkout. Apply the voucher code when you schedule your exam. If an exam is marked as Retiring, you can still take it and your certification will be valid for two years from when you pass. We recommend taking the newer version, when possible, because it covers newer product capabilities.</p>
+To earn certification, you need to pass 2 distinct exams with a proctor present, online or on-site, where available.
 
-## Get started on your journey to being certified. Here's what you need to know
+Purchase your exam voucher at Adobe Certification Voucher Center, if you have a discount it will apply at checkout. Apply the voucher code when you schedule your exam. 
+
+If an exam is marked as retiring, you can still take it and your certification will be valid for two years from when you pass. We recommend taking the newer version, when possible, because it covers newer product capabilities.</p>
+
+## Get started on your journey to being certified, here's what you need to know.
 
 If you have technical knowledge about audience segmentation, destination exports, and activation on real time basis for unified profiles that adhere to data and privacy regulations, customer data platforms (CDP) and knowledge of Adobe Experience Platform. This is the certification for YOU!
 
 <table>
 <tr  style="border: 0">
 <td style="width: 160px;text-align: right">
-  <img alt="Certification Badge" style="width: 120px" src="/help/assets/acp-badge.png" />
+  <img alt="Certification Badge" style="width: 120px" src="/help/assets/expert-badge.png" />
 </td>
 <td style="width: 400px;">
   <strong>Level of Experience: </strong> 1-3 years
@@ -30,7 +34,7 @@ If you have technical knowledge about audience segmentation, destination exports
 <table>
  <tr  style="border: 0;">
     <td> <strong>Adobe Experience Platform</strong> </td>
-    <td> <p align="center" style="font-size: medium;font-weight: 700; color: red">AND</p> </td>
+    <td></td>
     <td> <strong>Adobe Real-Time Customer Data Platform</strong> </td>
  </tr>
 
@@ -42,7 +46,7 @@ If you have technical knowledge about audience segmentation, destination exports
     Cost: $225 (global) and $150 (India)<br>
     Exam ID: AD0-E600
     </td>
-    <td>
+    <td><p align="center" style="font-size: medium;font-weight: 700; color: red">AND</p>
     </td>
     <td>
     Exam Details: <br>
@@ -61,12 +65,73 @@ If you have technical knowledge about audience segmentation, destination exports
 
 >[!TAB Get Ready]
 
-Review exam topics, understand the minimum qualified candidate, and take a readiness questionnaire.
+## Exam Purpose
 
-## Exam Guides
+An official Adobe Real-Time CDP Expert designation acknowledges your understanding of Adobe Experience Platform and Adobe Real-time Customer Data Platform, which is an application built on Adobe Experience Platform. This certification has 2 requirements.  To achieve this certification, you will need to pass both exams.
 
-* [Adobe Experience Platform Technical Foundations](exam-guide-ad0-e600.md)
-* [Adobe Real-Time CDP Technical Practitioner](exam-guide-ad7-e601.md)
+**Requirement 1: AD0-E600 Adobe Experience Platform Technical Foundations**
+
+The AD0-E600 exam validates skills and knowledge covering the basic features and frequently performed tasks of Adobe Experience Platform at the Expert level.
+
+**Requirement 2: AD7-E601 Adobe Real-Time CDP Technical Practitioner**
+
+The AD7-E601 exam covers the creation, management and understanding of customer profile, segmentation, destinations across sources, and other topics. The exam validates the foundational skills and knowledge needed to employ Real-time CDP for audience segmentation, destination exports, and activation on a real-time basis for unified profiles that adhere to data and privacy regulations. Candidates should have experience with Customer Data Platforms (CDP) and knowledge of Adobe Experience Platform.
+
+## Minimum Candidate Experience
+
+Defined by a team of subject matter experts, the candidate who is ready to pass has the following qualifications, at a minimum:
+
+### Requirement 1: AD0-E600 Adobe Experience Platform Technical Foundations
+
+* Basic know-how of Experience Platform and can navigate through the UI
+* A high-level understanding of each UI component
+* Understanding of Adobe Experience Platform application services
+* Industry knowledge in database tools/BI tools, data science modeling tools
+* Familiarity with how data relationships work, and also with ETL (Extract Transform and Load)
+* An overview and understanding about XDM data model and the ability to identify schemas, classes, and field groups
+* Knowledge of identities and profiles
+* Knowledge of datasets
+* Ability to ingest batch and stream data
+* Ability to perform action using APIs
+* Ability to execute queries using SQL
+* An awareness of the source and destination
+* Ability to monitor dataflow
+
+**Exam Sections**
+
+* Section 1: Data Modeling (27%)
+* Section 2: Data Ingestion (29%)
+* Section 3: Unifying Profiles (31%)
+* Section 4: Activation (13%)
+
+### Readiness Questionnaire
+
+Take a readiness questionnaire to find out if you meet the minimum qualifications.
+
+### Requirement 2: AD0-E601 Adobe Real-Time CDP Technical Practitioner
+
+* Basic know-how of Experience Platform and can navigate through the UI
+* Ability to create segments and build audiences (logic included in that)
+* Ability to configure destinations
+* Ability to connect segments to destinations
+* Ability to build insights/events to respond and react in real time
+* Understanding of DULE setup during data ingestion, segment limitation during activations
+* Understanding of opt-in requirements by channel
+* Ability to design/understand the data that needs to be captured and activated upon using best practices for use case data frequency and volume
+* Ability to understand data needed in different channels
+* Ability to determine what profile attributes are needed
+* Knowledge of frequency of sending segments out through destinations
+* Knowledge of how often segment membership is updated
+
+**Exam Sections**
+
+* Section 1: Validation(30%)
+* Section 2: Segmentation (41%)
+* Section 3: Destinations (29%)
+
+### Readiness Questionnaire
+
+Take a readiness questionnaire to find out if you meet the minimum qualifications.
 
 >[!TAB Get Set]
 
@@ -164,6 +229,8 @@ Recommended preparation:
 
 Adobe has provided additional study aids to help you prepare for your certification exam. These include content from Adobe Experience League, Adobe Digital Learning Solutions, and technical documentation
 
++++See Resources
+
 * [Adobe Experience Platform Enablement (Partners Only)](https://solutionpartners.adobe.com/training/courses/course5250864.html)
 * [Experience Data Model (XDM) Guide](https://experienceleague.adobe.com/docs/experience-platform/xdm/home.html?lang=en)
 * [Identity Service Overview](https://experienceleague.adobe.com/docs/experience-platform/identity/home.html?lang=en)
@@ -179,6 +246,7 @@ Adobe has provided additional study aids to help you prepare for your certificat
 * [Segmentation Service Guide](https://experienceleague.adobe.com/docs/experience-platform/segmentation/home.html?lang=en)
 * [Data Science Workspace Guide](https://experienceleague.adobe.com/docs/experience-platform/data-science-workspace/home.html?lang=en)
 * [Data access guide](https://experienceleague.adobe.com/docs/experience-platform/data-access/home.html?lang=en)
++++
 
 ## Requirement 2: AD7-E601 Adobe Real-Time CDP Technical Practioner
 
@@ -316,6 +384,8 @@ Adobe has provided additional study aids to help you prepare for your certificat
 
 ### Additional Study Aid Resources
 
++++ See Resources
+
 * [Data Governance Guide](https://experienceleague.adobe.com/docs/experience-platform/data-governance/home.html?lang=en)
 * [Data Ingestion Guide](https://experienceleague.adobe.com/docs/experience-platform/ingestion/home.html?lang=en)
 * [Dataflows Guide](https://experienceleague.adobe.com/docs/experience-platform/dataflows/home.html?lang=en)
@@ -324,10 +394,11 @@ Adobe has provided additional study aids to help you prepare for your certificat
 * [Segment Builder Overview](https://experienceleague.adobe.com/docs/platform-learn/tutorials/segments/segment-builder-overview.html?lang=en)
 * [Source Connector Guide](https://experienceleague.adobe.com/docs/experience-platform/sources/home.html?lang=en)
 * [Experience Data Model (XDM) Guide](https://experienceleague.adobe.com/docs/experience-platform/xdm/home.html?lang=en)
++++
 
 ## Practice Test
 
-We are excited to offer free practice tests and provide a detailed coaching report upon completion of each one. You will have unlimited access to all available practice tests for Adobe’s expert-level exams. Our practice tests are developed from the same blueprints as the live exams, so they can help you gauge how you are doing in each topic area. However, taking a practice test does not guarantee that you will pass the certification exam.
+We are excited to offer free practice tests and provide a detailed coaching report upon completion of each one. You will have unlimited access to all available practice tests for Adobe's expert-level exams. Our practice tests are developed from the same blueprints as the live exams, so they can help you gauge how you are doing in each topic area. However, taking a practice test does not guarantee that you will pass the certification exam.
 
 Go to the Adobe [Credential Management System](https://www.certmetrics.com/adobe/) to launch a practice test.
 
