@@ -31,6 +31,14 @@ user-guide-description: Certification
     + Marketing Workflow {#marketing-workflow}
       + [Certifications](marketing-workflow/overview.md)
       + [Adobe Workfront](https://experienceleague.corp.adobe.com)
++ Technical Certifications 2 {#technical-certifications}
+    + [Certifications](data-insights-analytics/overview.md)
+    + Data Insights & Analytics {#data-insights-analytics}
+      + Adobe Real-Time CDP
+        + [Get Ready](data-insights-analytics/rt-cdp/get-ready.md)
+        + [Get Prepped](data-insights-analytics/rt-cdp/get-prepped.md)
+        + [Get Certified](data-insights-analytics/rt-cdp/get-certified.md)
+        + [Renew Your Certification](data-insights-analytics/rt-cdp/renew.md)
 + [Your Certification Profile](profile.md)
 
 + Hidden {#hidden}
