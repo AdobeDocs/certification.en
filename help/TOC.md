@@ -51,7 +51,6 @@ user-guide-description: Certification
   + [Certification Journey RT-CDP 2](data-insights-analytics/rt-cdp/old-builds/journey-rt-cdp-2.md)
   + [Certification Journey RT-CDP 3](data-insights-analytics/rt-cdp/old-builds/journey-rt-cdp-3.md)
   + [image file](images.md)
-  + [Certifications](data-insights-analytics/overview.md)
   + [Adobe Real-time CDP Certification Journey](/help/data-insights-analytics/rt-cdp/journey-rt-cdp.md)
   + [Adobe Real-time CDP Certification Journey tabs](/help/data-insights-analytics/rt-cdp/journey-rt-cdp-tabs.md)
   + [Adobe Real-time CDP Certification Journey tabs 2](/help/data-insights-analytics/rt-cdp/journey-rt-cdp-tabs-2.md)
