@@ -8,20 +8,31 @@ user-guide-description: Certification
 
 + [Overview](overview.md)
 + [Getting Started](getting-started.md)
++ [Renew Your Certification](renew.md)
++ [Get Your Badge](get-badge.md)
 + Technical Certifications {#technical-certifications}
+    + Data Insights & Analytics {#data-insights-analytics}
+      + [Available Certifications](data-insights-analytics/overview.md)
+      + Adobe Analytics {#adobe-aa}
+        + [Get Ready](https://experienceleague.corp.adobe.com)
+        + [Get Prepped](https://experienceleague.corp.adobe.com)
+        + [Get Certified](https://experienceleague.corp.adobe.com)
+      + Adobe Real-Time CDP {#adobe-rt-cdp}
+        + [Get Ready](data-insights-analytics/rt-cdp/get-ready.md)
+        + [Get Prepped](data-insights-analytics/rt-cdp/get-prepped.md)
+        + [Get Certified](data-insights-analytics/rt-cdp/get-certified.md)
+      + Adobe Audience Manager {#adobe-aam}
+        + [Get Ready](https://experienceleague.corp.adobe.com)
+        + [Get Prepped](https://experienceleague.corp.adobe.com)
+        + [Get Certified](https://experienceleague.corp.adobe.com)
+      + Adobe Advertising Cloud {#adobe-adv-cloud}
+        + [Get Ready](https://experienceleague.corp.adobe.com)
+        + [Get Prepped](https://experienceleague.corp.adobe.com)
+        + [Get Certified](https://experienceleague.corp.adobe.com)
     + Content & Commerce {#content-commerce}
       + [Certifications](content-and-commerce/overview.md)
       + [Adobe Experience Manager](https://experienceleague.corp.adobe.com)
       + [Adobe Commerce](https://experienceleague.corp.adobe.com)
-    + Data Insights & Analytics {#data-insights-analytics}
-      + [Certifications](data-insights-analytics/overview.md)
-      + [Adobe Analytics](https://experienceleague.corp.adobe.com)
-      + [Adobe Real-time CDP Certification Journey](/help/data-insights-analytics/rt-cdp/journey-rt-cdp.md)
-      + [Adobe Real-time CDP Certification Journey tabs](/help/data-insights-analytics/rt-cdp/journey-rt-cdp-tabs.md)
-      + [Adobe Real-time CDP Certification Journey tabs 2](/help/data-insights-analytics/rt-cdp/journey-rt-cdp-tabs-2.md)
-      + [Adobe RTCDP Get Set](/help/data-insights-analytics/rt-cdp/get-set-rt-cdp.md)
-      + [Adobe Audience Manager](https://experienceleague.corp.adobe.com)
-      + [Adobe Advertising Cloud](https://experienceleague.corp.adobe.com)
     + Customer Journeys {#customer-journeys}
       + [Certifications](customer-journeys/overview.md)
       + [Adobe Journey Optimizer](https://experienceleague.corp.adobe.com)
@@ -31,14 +42,6 @@ user-guide-description: Certification
     + Marketing Workflow {#marketing-workflow}
       + [Certifications](marketing-workflow/overview.md)
       + [Adobe Workfront](https://experienceleague.corp.adobe.com)
-+ Technical Certifications 2 {#technical-certifications}
-    + [Certifications](data-insights-analytics/overview2.md)
-    + Data Insights & Analytics {#data-insights-analytics}
-      + Adobe Real-Time CDP {#adobe-real-time-cdp}
-        + [Get Ready](data-insights-analytics/rt-cdp/get-ready.md)
-        + [Get Prepped](data-insights-analytics/rt-cdp/get-prepped.md)
-        + [Get Certified](data-insights-analytics/rt-cdp/get-certified.md)
-        + [Renew Your Certification](data-insights-analytics/rt-cdp/renew.md)
 + [Your Certification Profile](profile.md)
 
 + Hidden {#hidden}
@@ -48,3 +51,8 @@ user-guide-description: Certification
   + [Certification Journey RT-CDP 2](data-insights-analytics/rt-cdp/old-builds/journey-rt-cdp-2.md)
   + [Certification Journey RT-CDP 3](data-insights-analytics/rt-cdp/old-builds/journey-rt-cdp-3.md)
   + [image file](images.md)
+  + [Certifications](data-insights-analytics/overview.md)
+  + [Adobe Real-time CDP Certification Journey](/help/data-insights-analytics/rt-cdp/journey-rt-cdp.md)
+  + [Adobe Real-time CDP Certification Journey tabs](/help/data-insights-analytics/rt-cdp/journey-rt-cdp-tabs.md)
+  + [Adobe Real-time CDP Certification Journey tabs 2](/help/data-insights-analytics/rt-cdp/journey-rt-cdp-tabs-2.md)
+  + [Adobe RTCDP Get Set](/help/data-insights-analytics/rt-cdp/get-set-rt-cdp.md)

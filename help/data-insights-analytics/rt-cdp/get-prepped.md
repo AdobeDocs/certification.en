@@ -1,21 +1,25 @@
 ---
-title: Adobe Real-Time Customer Data Platform Certification
-description: You have technical knowledge about audience segmentation, destination exports, and activation on real time basis for unified profiles that adhere to data and privacy regulations, customer data platforms (CDP) and knowledge of Adobe Experience Platform.
+title: Adobe Real-Time Customer Data Platform Certification - Get Prepped
+description: You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
 solution: Real-time Customer Data Platform
 role: Developer
 recommendations: disable, exclude
 ---
-# Get Prepped {#rtcdp-get-prepped}
+# How to Prepare for the exam
 
-Get prepped section description
+You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
 
-## Exam scope and recommended preparation
+Here are some suggested resources to help you prepare:
 
-## Requirement 1: AD0-E600 Adobe Experience Platform Technical Foundations
+>[!BEGINTABS]
+
+>[!TAB Requirement 1]
+
+<strong>AD0-E600 Adobe Experience Platform Technical Foundations</strong>
 
 The exam covers four domains: business analysis, reporting and dashboarding, segmentation and calculated metrics, general tool knowledge, and reporting.
 
-### Section 1: Data Modeling (27%)
+<strong>Section 1: Data Modeling (27%)</strong>
 
 <p></p>
 
@@ -33,8 +37,7 @@ Recommended preparation:
 * Experience League Tutorial: [Schema and XDM Overview](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/schemas-and-experience-data-model.html)
 +++
 
-
-### Section 2: Data Ingestion (29%)
+<strong>Section 2: Data Ingestion (29%)</strong>
 
 <p></p>
 
@@ -50,7 +53,7 @@ Recommended preparation:
 * SPP On Demand: [Adobe Experience Platform: Data Modeling and Ingestion](https://solutionpartners.adobe.com/training/learning_program/learningProgram83768.html)
 +++
 
-### Section 3: Unifying Profiles (31%)
+<strong>Section 3: Unifying Profiles (31%)</strong>
 
 <p></p>
 
@@ -81,7 +84,7 @@ Recommended preparation:
 * Experience League Tutorial: [Create machine learned segments using Real-time Customer Profile](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-science-workspace/dsw-profile-segmentation.html?lang=en)
 +++
 
-### Section 4: Activation (13%)
+<strong>Section 4: Activation (13%)</strong>
 
 <p></p>
 
@@ -99,7 +102,7 @@ Recommended preparation:
 * Experience League Tutorial: [Destinations overview](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/understanding-destinations.html?lang=en)
 +++
 
-### Additional Study Aid Resources
+<strong>Additional Study Aid Resources</strong>
 
 Adobe has provided additional study aids to help you prepare for your certification exam. These include content from Adobe Experience League, Adobe Digital Learning Solutions, and technical documentation
 
@@ -121,10 +124,11 @@ Adobe has provided additional study aids to help you prepare for your certificat
 * [Data Science Workspace Guide](https://experienceleague.adobe.com/docs/experience-platform/data-science-workspace/home.html?lang=en)
 * [Data access guide](https://experienceleague.adobe.com/docs/experience-platform/data-access/home.html?lang=en)
 +++
+>[!TAB Requirement 2]
 
-## Requirement 2: AD7-E601 Adobe Real-Time CDP Technical Practioner
+<strong>AD7-E601 Adobe Real-Time CDP Technical Practioner</strong>
 
-### Section 1: Validation (30%)
+<strong>Section 1: Validation (30%)</strong>
 
   +++1.1 Apply concepts required to validate Profile has the proper attributes and segments
 
@@ -194,7 +198,7 @@ Adobe has provided additional study aids to help you prepare for your certificat
   * Course: [Create and Activate Segments in Adobe Experience Platform](https://learning.adobe.com/catalog/adobe_experienceplatform/cours000000000097681.html)
   +++
 
-### Section 2: Segmentation (41%)
+<strong>Section 2: Segmentation (41%)</strong>
 
   +++2.1 Demonstrate an understanding of how to create segments based on business requirements
 
@@ -225,7 +229,7 @@ Adobe has provided additional study aids to help you prepare for your certificat
   * Documentation: [Evaluate a segment](https://experienceleague.adobe.com/docs/experience-platform/segmentation/tutorials/evaluate-a-segment.html)
   +++
 
-### Section 3: Destinations (29%)
+<strong>Section 3: Destinations (29%)</strong>
 
   +++3.1 Apply concepts required to configure one or more Destinations when sending/exporting audiences based on business use cases
 
@@ -256,7 +260,7 @@ Adobe has provided additional study aids to help you prepare for your certificat
   * Experience League Tutorials: [Activate profiles and segments to a destination](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/activate-profiles-and-segments-to-a-destination.html), [Integrate Google Customer Match](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/integrate-with-google-customer-match.html), [Configure Azure Blob destination](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/configure-the-azure-blob-destination.html), [Configure Marketo destination](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/configure-the-marketo-destination.html), [Configure file-based cloud storage or email marketing destination](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/configuring-file-based-cloud-storage-or-email-marketing-destinations.html), [Configure a social destination](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/configure-a-social-destination.html), [Activate data to non-Adobe application](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/activate-data-to-non-adobe-applications.html)
   +++
 
-### Additional Study Aid Resources
+<strong>Additional Study Aid Resources</strong>
 
 +++ See Resources
 
@@ -270,9 +274,11 @@ Adobe has provided additional study aids to help you prepare for your certificat
 * [Experience Data Model (XDM) Guide](https://experienceleague.adobe.com/docs/experience-platform/xdm/home.html?lang=en)
 +++
 
+>[!ENDTABS]
+
 ## Practice Test
 
-We are excited to offer free practice tests and provide a detailed coaching report upon completion of each one. You will have unlimited access to all available practice tests for Adobe's expert-level exams. Our practice tests are developed from the same blueprints as the live exams, so they can help you gauge how you are doing in each topic area. However, taking a practice test does not guarantee that you will pass the certification exam.
+We are excited to offer free practice tests and provide a detailed coaching report upon completion of each one. You will have unlimited access to all available practice tests for Adobe’s expert-level exams. Our practice tests are developed from the same blueprints as the live exams, so they can help you gauge how you are doing in each topic area. However, taking a practice test does not guarantee that you will pass the certification exam.
 
 Go to the Adobe [Credential Management System](https://www.certmetrics.com/adobe/) to launch a practice test.
 

@@ -131,7 +131,7 @@ description: Getting started with technical certifications
                             <p>Timing is everything with delivering the right content. Our solutions help you analyze, automate, and deliver comprehensive experiences that track every step of your customer journey.</p>
                         </td>
                         <td>
-                            <strong>Data Insights &amp; Analytics</strong><br>&nbsp;
+                            <strong>Marketing Workflow</strong><br>&nbsp;
                             <p>The best customer experience will never happen if your team can’t get on the same page. Our work management solution helps you get projects organized, built right, and delivered on time.</p>
                         </td>
                     </tr>
