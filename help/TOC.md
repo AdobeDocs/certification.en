@@ -18,18 +18,76 @@ user-guide-description: Certification
       + [Business Practitioner (DSP)](/help/aac/aac-dsp-p-business.md)
     + Renewal {#aac-renewal}
       + [Business Practitioner (Search)](/help/aac/aac-search-p-business-renew.md)
+  + Adobe Analytics {#aa}
+    + Professional {#aa-professional}
+      + [Business Practitioner](/help/aa/aa-p-business.md)
+      + [Developer](/help/aa/aa-p-developer.md)
+    + Expert {#aa-professional}
+      + [Business Practitioner](/help/aa/aa-e-business.md)
+      + [Developer](/help/aa/aa-e-developer.md)
+    + Master {#aa-professional}
+      + [Architect](/help/aa/aa-m-architect.md)
+    + Renewal {#aa-renewal}
+      + [Business Practitioner](/help/aa/aa-e-business-renew.md)
+      + [Developer](/help/aa/aa-e-developer-renew.md)
+      + [Architect](/help/aa/aa-m-architect-renew.md)
+  + Adobe Audience Manager {#aam}
+    + Professional {#aam-professional}
+      + [Business Practitioner](/help/aam/aam-p-business.md)
+    + Expert {#aam-professional}
+      + [Business Practitioner](/help/aam/aam-e-business.md)
+    + Master {#aam-professional}
+      + [Architect](/help/aam/aam-m-architect.md)
+    + Renewal {#aam-renewal}
+      + [Business Practitioner](/help/aam/aam-e-business-renew.md)
+      + [Architect](/help/aam/aam-m-architect-renew.md)
   + Adobe Campaign Classic {#acc}
     + Professional {#acc-professional}
       + [Business Practitioner](/help/acc/acc-p-business.md)
       + [Developer](/help/acc/acc-p-developer.md)
     + Expert {#acc-expert}
-      + [Business Practitioner](https://experienceleague.corp.adobe.com)
-      + [Developer](https://experienceleague.corp.adobe.com)
+      + [Business Practitioner](/help/acc/acc-e-business.md)
+      + [Developer](/help/acc/acc-e-developer.md)
     + Master {#acc-master}
-      + [Architect](https://experienceleague.corp.adobe.com)
+      + [Developer](/help/acc/acc-m-developer.md)
     + Renewal {#acc-renewal}
-      + [Business Practitioner](https://experienceleague.corp.adobe.com)
-      + [Developer](https://experienceleague.corp.adobe.com)
+      + [Expert and Master](/help/acc/acc-renew.md)
+  + Adobe Campaign Standard {#acs}
+    + Expert {#acs-expert}
+      + [Business Practitioner](/help/acs/acs-e-business.md)
+      + [Developer](/help/acs/acs-e-developer.md)
+    + Renewal {#acs-renewal}
+      + [Business Practitioner](/help/acs/acs-e-business-renew.md)
+      + [Developer](/help/acs/acs-e-developer-renew.md)
+  + Adobe Commerce {#ac}
+    + Professional {#ac-professional}
+      + [Business Practitioner](/help/ac/ac-p-business.md)
+      + [Developer](/help/ac/ac-p-developer.md)
+      + [Front-end Developer](/help/ac/ac-p-fedeveloper.md)
+    + Expert {#ac-professional}
+      + [Business Practitioner](/help/ac/ac-e-business.md)
+      + [Developer](/help/ac/ac-e-developer.md)
+      + [Front-end Developer](/help/ac/ac-e-fedeveloper.md)
+    + Master {#ac-professional}
+      + [Architect](/help/ac/ac-m-architect.md)
+  + Adobe Experience Manager {#aem}
+    + Professional {#aem-professional}
+      + [Business Practitioner](/help/aem/aem-p-business.md)
+      + [Developer (Sites)](/help/aem/aem-sites-p-developer.md)
+      + [Developer (Assets)](/help/aem/aem-assets-p-developer.md)
+      + [Back-end Developer (Forms)](/help/aem/aem-forms-p-bedeveloper.md)
+      + [Technical Foundations](/help/aem/aem-p-foundations.md)
+    + Expert {#aem-professional}
+      + [Business Practitioner (Sites)](/help/aem/aem-sites-e-business.md)
+      + [Developer (Sites)](/help/aem/aem-sites-e-developer.md)
+      + [DevOps](/help/aem/aem-devops-e-engineer.md)
+      + [Developer (Forms)](/help/aem/aem-forms-e-developer.md)
+      + [Cloud Service Migration](/help/aem/aem-cs-e-migration.md)
+    + Master {#aem-professional}
+      + [Architect (Sites)](/help/aem/aem-sites-m-archtiect.md)
+    + Renewal {#aem-renewal}
+      + [Business Practitioner (Sites)](/help/aem/aem-sites-e-business-renew.md)
+      + [DevOps](/help/aem/aem-devops-e-engineer-renew.md)
  <!--- 
     + Data Insights & Analytics {#data-insights-analytics}
       + [Available Certifications](data-insights-analytics/overview.md)
