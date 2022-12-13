@@ -14,7 +14,7 @@ user-guide-description: Certification
 + [Get Reinstated](get-reinstated.md)
 + Technical Certifications {#technical-certifications}
     + Adobe Campaign Classic {#adobe-campaign-classic}
-    + Professional {acc-professional}
+    + Professional {#acc-professional}
       + [Business Practitioner](https://experienceleague.corp.adobe.com)
       + [Developer](https://experienceleague.corp.adobe.com)
     + Expert {acc-expert}
