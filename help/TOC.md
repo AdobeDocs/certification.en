@@ -10,9 +10,15 @@ user-guide-description: Certification
 + [Getting Started](getting-started.md)
 + [Get Your Badge](get-badge.md)
 + [Get Certified](get-certified.md)
-+ [Get Reinstated](get-reinstated.md)
++ [Restart Program](restart-program.md)
 + Technical Certifications {#technical-certifications}
-  + Adobe Campaign Classic {#adobe-campaign-classic}
+  + Adobe Advertising Cloud {#aac}
+    + Professional {#aac-professional}
+      + [Business Practitioner (Search)](/help/aac/aac-search-p-business.md)
+      + [Business Practitioner (DSP)](/help/aac/aac-dsp-p-business.md)
+    + Renewal {#aac-renewal}
+      + [Business Practitioner (Search)](/help/aac/aac-search-p-business-renew.md)
+  + Adobe Campaign Classic {#acc}
     + Professional {#acc-professional}
       + [Business Practitioner](/help/acc/acc-p-business.md)
       + [Developer](/help/acc/acc-p-developer.md)
