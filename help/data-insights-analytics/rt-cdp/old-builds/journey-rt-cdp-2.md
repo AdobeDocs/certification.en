@@ -4,7 +4,7 @@ description: You have technical knowledge about audience segmentation, destinati
 solution: Real-time Customer Data Platform
 role: Developer
 recommendations: disable, exclude
-hidefromtoc: true
+hidefromtoc: false
 ---
 # Adobe Real-Time Customer Data Platform Certification {#rtcdp-certification}
 

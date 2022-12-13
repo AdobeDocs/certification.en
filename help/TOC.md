@@ -44,7 +44,7 @@ user-guide-description: Certification
       + [Adobe Workfront](https://experienceleague.corp.adobe.com)
 + [Your Certification Profile](profile.md)
 
-+ Hidden {#hidden}
++ Not Used {#notused}
   + [RT-CDP Exam Prep Guide](/help/data-insights-analytics/rt-cdp/exam-prep-guide-rt-cdp-exam.md)
   + [Exam Guide - Adobe Experience Platform Technical Foundations](/help/data-insights-analytics/rt-cdp/exam-guide-ad0-e600.md)
   + [Exam Guide - Adobe Real-Time CDP Technical Practitioner](/help/data-insights-analytics/rt-cdp/exam-guide-ad7-e601.md)

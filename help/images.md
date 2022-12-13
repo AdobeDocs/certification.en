@@ -1,7 +1,7 @@
 ---
 title: foo
 description: foo foo
-hidefromtoc: true
+hidefromtoc: false
 index: false
 ---
 

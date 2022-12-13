@@ -3,7 +3,7 @@ title: Adobe Real-Time CDP Expert Certification
 description: Adobe Real-Time CDP Expert Certification Exam Prep Guide
 solution: Real-time Customer Data Platform
 role: Developer
-hidefromtoc: true
+hidefromtoc: false
 recommendations: disable, exclude
 ---
 # Adobe Real-Time CDP Expert Certification Exam Prep Guide {#rtcdp-exam-prep-guide}
