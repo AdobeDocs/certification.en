@@ -73,7 +73,7 @@ The AD0-E600 exam validates skills and knowledge covering the basic features and
 
 The AD7-E601 exam covers the creation, management and understanding of customer profile, segmentation, destinations across sources, and other topics. The exam validates the foundational skills and knowledge needed to employ Real-time CDP for audience segmentation, destination exports, and activation on a real-time basis for unified profiles that adhere to data and privacy regulations. Candidates should have experience with Customer Data Platforms (CDP) and knowledge of Adobe Experience Platform.
 
-## Get Prepped
+## Get Ready
 
 >[!BEGINTABS]
 
@@ -169,7 +169,7 @@ Take a readiness questionnaire to find out if you meet the minimum qualification
 
 >[!ENDTABS]
 
-# Get Prepped
+## Get Prepped
 
 You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
 
