@@ -8,21 +8,20 @@ user-guide-description: Certification
 
 + [Overview](overview.md)
 + [Getting Started](getting-started.md)
-+ [Renew Your Certification](renew.md)
 + [Get Your Badge](get-badge.md)
 + [Get Certified](get-certified.md)
 + [Get Reinstated](get-reinstated.md)
 + Technical Certifications {#technical-certifications}
-  + Adobe Campaign Classic {#adobe-campaign-classic}
-    + Professional {#acc-professional}
+  + Adobe Campaign Classic
+    + Professional
       + [Business Practitioner](https://experienceleague.corp.adobe.com)
       + [Developer](https://experienceleague.corp.adobe.com)
-    + Expert {#acc-expert}
+    + Expert
       + [Business Practitioner](https://experienceleague.corp.adobe.com)
       + [Developer](https://experienceleague.corp.adobe.com)
-    + Master {#acc-master}
+    + Master
       + [Architect](https://experienceleague.corp.adobe.com)
-    + Renewal {#acc-renewal}
+    + Renewal
       + [Business Practitioner](https://experienceleague.corp.adobe.com)
       + [Developer](https://experienceleague.corp.adobe.com)
  <!--- 
