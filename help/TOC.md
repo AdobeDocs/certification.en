@@ -17,7 +17,7 @@ user-guide-description: Certification
     + Professional {#acc-professional}
       + [Business Practitioner](https://experienceleague.corp.adobe.com)
       + [Developer](https://experienceleague.corp.adobe.com)
-    + Expert {acc-expert}
+    + Expert {#acc-expert}
       + [Business Practitioner](https://experienceleague.corp.adobe.com)
       + [Developer](https://experienceleague.corp.adobe.com)
     + Master {#acc-master}
