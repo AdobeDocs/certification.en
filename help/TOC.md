@@ -13,7 +13,7 @@ user-guide-description: Certification
 + [Get Certified](get-certified.md)
 + [Get Reinstated](get-reinstated.md)
 + Technical Certifications {#technical-certifications}
-    + Adobe Campaign Classic {#adobe-campaign-classic}
+  + Adobe Campaign Classic {#adobe-campaign-classic}
     + Professional {#acc-professional}
       + [Business Practitioner](https://experienceleague.corp.adobe.com)
       + [Developer](https://experienceleague.corp.adobe.com)
@@ -25,6 +25,7 @@ user-guide-description: Certification
     + Renewal {#acc-renewal}
       + [Business Practitioner](https://experienceleague.corp.adobe.com)
       + [Developer](https://experienceleague.corp.adobe.com)
+ <!--- 
     + Data Insights & Analytics {#data-insights-analytics}
       + [Available Certifications](data-insights-analytics/overview.md)
       + Adobe Analytics {#adobe-aa}
@@ -66,6 +67,7 @@ user-guide-description: Certification
       + [Adobe Workfront](https://experienceleague.corp.adobe.com)
         + [Get Ready](https://experienceleague.corp.adobe.com)
         + [Get Prepped](https://experienceleague.corp.adobe.com)
+--->
 
 + Not Used {#notused}
   + [RT-CDP Exam Prep Guide](/help/data-insights-analytics/rt-cdp/exam-prep-guide-rt-cdp-exam.md)
