@@ -12,8 +12,7 @@ description: Getting started with technical certifications
 <table>
 <tr  style="border: 0;">
   <td>
-  <img alt="three certification levels"  src="/help/assets/levels.png" />
-
+ 
   With three levels to choose from, there's a certification for YOU!
   </td>
 
