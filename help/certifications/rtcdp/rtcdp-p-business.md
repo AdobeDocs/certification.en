@@ -5,6 +5,7 @@ solution: Real-time Customer Data Platform
 role: Developer
 recommendations: disable, exclude
 ---
+
 # Certification Journey - Adobe Real-Time Customer Data Platform {#rtcdp-get-ready}
 
 ## Start Your Journey toward Certification
