@@ -126,23 +126,3 @@ user-guide-description: Certification
     + Expert {#aw-expert}
       + [Developer (Core)](/help/aw/aw-core-e-developer.md)
       + [AEM enhanced connector](/help/aw/aw-aem-e-connector.md)
-  + Creative Cloud {#cc}
-    + Expert {#cc-expert}
-      + [Design and Layout Solutions](/help/cc/cc-e-design-layout.md)
-      + [Video Editing](/help/cc/cc-e-video-editing.md)
-      + [Adobe XD](/help/cc/cc-e-adobe-xd.md)
-  + Other {#other}
-    + Professional {#other-professional}
-    + [Adobe Captivate](/help/other/other-p-captivate.md)
-    + [Adobe ColdFusion](/help/other/other-p-coldfusion.md)
-+ Not Used {#notused}
-  + [RT-CDP Exam Prep Guide](/help/data-insights-analytics/rt-cdp/exam-prep-guide-rt-cdp-exam.md)
-  + [Exam Guide - Adobe Experience Platform Technical Foundations](/help/data-insights-analytics/rt-cdp/exam-guide-ad0-e600.md)
-  + [Exam Guide - Adobe Real-Time CDP Technical Practitioner](/help/data-insights-analytics/rt-cdp/exam-guide-ad7-e601.md)
-  + [Certification Journey RT-CDP 2](data-insights-analytics/rt-cdp/old-builds/journey-rt-cdp-2.md)
-  + [Certification Journey RT-CDP 3](data-insights-analytics/rt-cdp/old-builds/journey-rt-cdp-3.md)
-  + [image file](images.md)
-  + [Adobe Real-time CDP Certification Journey](/help/data-insights-analytics/rt-cdp/journey-rt-cdp.md)
-  + [Adobe Real-time CDP Certification Journey tabs](/help/data-insights-analytics/rt-cdp/journey-rt-cdp-tabs.md)
-  + [Adobe Real-time CDP Certification Journey tabs 2](/help/data-insights-analytics/rt-cdp/journey-rt-cdp-tabs-2.md)
-  + [Adobe RTCDP Get Set](/help/data-insights-analytics/rt-cdp/get-set-rt-cdp.md)

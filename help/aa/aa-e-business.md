@@ -1,11 +1,11 @@
 ---
-title: Adobe Real-Time Customer Data Platform Certification
+title: Adobe Analytics Certification
 description: You have technical knowledge about audience segmentation, destination exports, and activation on real time basis for unified profiles that adhere to data and privacy regulations, customer data platforms (CDP) and knowledge of Adobe Experience Platform.
-solution: Real-time Customer Data Platform
+solution: Analytics
 role: Developer
 recommendations: disable, exclude
 ---
-# Certification Journey - Adobe Real-Time Customer Data Platform {#rtcdp-get-ready}
+# Certification Journey - Adobe Analytics {#aa-get-ready}
 
 ## Start Your Journey toward Certification
 
