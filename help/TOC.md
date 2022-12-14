@@ -22,10 +22,10 @@ user-guide-description: Certification
     + Professional {#aa-professional}
       + [Business Practitioner](/help/aa/aa-p-business.md)
       + [Developer](/help/aa/aa-p-developer.md)
-    + Expert {#aa-professional}
+    + Expert {#aa-expert}
       + [Business Practitioner](/help/aa/aa-e-business.md)
       + [Developer](/help/aa/aa-e-developer.md)
-    + Master {#aa-professional}
+    + Master {#aa-master}
       + [Architect](/help/aa/aa-m-architect.md)
     + Renewal {#aa-renewal}
       + [Business Practitioner](/help/aa/aa-e-business-renew.md)
@@ -34,9 +34,9 @@ user-guide-description: Certification
   + Adobe Audience Manager {#aam}
     + Professional {#aam-professional}
       + [Business Practitioner](/help/aam/aam-p-business.md)
-    + Expert {#aam-professional}
+    + Expert {#aam-expert}
       + [Business Practitioner](/help/aam/aam-e-business.md)
-    + Master {#aam-professional}
+    + Master {#aam-master}
       + [Architect](/help/aam/aam-m-architect.md)
     + Renewal {#aam-renewal}
       + [Business Practitioner](/help/aam/aam-e-business-renew.md)
@@ -64,11 +64,11 @@ user-guide-description: Certification
       + [Business Practitioner](/help/ac/ac-p-business.md)
       + [Developer](/help/ac/ac-p-developer.md)
       + [Front-end Developer](/help/ac/ac-p-fedeveloper.md)
-    + Expert {#ac-professional}
+    + Expert {#ac-expert}
       + [Business Practitioner](/help/ac/ac-e-business.md)
       + [Developer](/help/ac/ac-e-developer.md)
       + [Front-end Developer](/help/ac/ac-e-fedeveloper.md)
-    + Master {#ac-professional}
+    + Master {#ac-master}
       + [Architect](/help/ac/ac-m-architect.md)
   + Adobe Experience Manager {#aem}
     + Professional {#aem-professional}
@@ -77,61 +77,64 @@ user-guide-description: Certification
       + [Developer (Assets)](/help/aem/aem-assets-p-developer.md)
       + [Back-end Developer (Forms)](/help/aem/aem-forms-p-bedeveloper.md)
       + [Technical Foundations](/help/aem/aem-p-foundations.md)
-    + Expert {#aem-professional}
+    + Expert {#aem-expert}
       + [Business Practitioner (Sites)](/help/aem/aem-sites-e-business.md)
       + [Developer (Sites)](/help/aem/aem-sites-e-developer.md)
       + [DevOps](/help/aem/aem-devops-e-engineer.md)
       + [Developer (Forms)](/help/aem/aem-forms-e-developer.md)
       + [Cloud Service Migration](/help/aem/aem-cs-e-migration.md)
-    + Master {#aem-professional}
+    + Master {#aem-master}
       + [Architect (Sites)](/help/aem/aem-sites-m-archtiect.md)
     + Renewal {#aem-renewal}
       + [Business Practitioner (Sites)](/help/aem/aem-sites-e-business-renew.md)
       + [DevOps](/help/aem/aem-devops-e-engineer-renew.md)
- <!--- 
-    + Data Insights & Analytics {#data-insights-analytics}
-      + [Available Certifications](data-insights-analytics/overview.md)
-      + Adobe Analytics {#adobe-aa}
-        + [Get Ready](https://experienceleague.corp.adobe.com)
-        + [Get Prepped](https://experienceleague.corp.adobe.com)
-      + Adobe Real-Time CDP {#adobe-rt-cdp}
-        + [Get Ready](data-insights-analytics/rt-cdp/get-ready.md)
-        + [Get Prepped](data-insights-analytics/rt-cdp/get-prepped.md)
-      + Adobe Audience Manager {#adobe-aam}
-        + [Get Ready](https://experienceleague.corp.adobe.com)
-        + [Get Prepped](https://experienceleague.corp.adobe.com)
-      + Adobe Advertising Cloud {#adobe-adv-cloud}
-        + [Get Ready](https://experienceleague.corp.adobe.com)
-        + [Get Prepped](https://experienceleague.corp.adobe.com)
-    + Content & Commerce {#content-commerce}
-      + [Certifications](content-and-commerce/overview.md)
-      + [Adobe Experience Manager](https://experienceleague.corp.adobe.com)
-        + [Get Ready](https://experienceleague.corp.adobe.com)
-        + [Get Prepped](https://experienceleague.corp.adobe.com)
-      + [Adobe Commerce](https://experienceleague.corp.adobe.com)
-        + [Get Ready](https://experienceleague.corp.adobe.com)
-        + [Get Prepped](https://experienceleague.corp.adobe.com)
-    + Customer Journeys {#customer-journeys}
-      + [Certifications](customer-journeys/overview.md)
-      + [Adobe Journey Optimizer](https://experienceleague.corp.adobe.com)
-        + [Get Ready](https://experienceleague.corp.adobe.com)
-        + [Get Prepped](https://experienceleague.corp.adobe.com)
-      + [Adobe Marketo Engage](https://experienceleague.corp.adobe.com)
-        + [Get Ready](https://experienceleague.corp.adobe.com)
-        + [Get Prepped](https://experienceleague.corp.adobe.com)
-      + [Adobe Campaign](https://experienceleague.corp.adobe.com)
-        + [Get Ready](https://experienceleague.corp.adobe.com)
-        + [Get Prepped](https://experienceleague.corp.adobe.com)
-      + [Adobe Target](https://experienceleague.corp.adobe.com)
-        + [Get Ready](https://experienceleague.corp.adobe.com)
-        + [Get Prepped](https://experienceleague.corp.adobe.com)
-    + Marketing Workflow {#marketing-workflow}
-      + [Certifications](marketing-workflow/overview.md)
-      + [Adobe Workfront](https://experienceleague.corp.adobe.com)
-        + [Get Ready](https://experienceleague.corp.adobe.com)
-        + [Get Prepped](https://experienceleague.corp.adobe.com)
---->
-
+  + Adobe Experience Platform {#aep}
+    + Professional {#aem-professional}
+      + [Technical Foundations](/help/aep/aep-p-foundations.md)
+  + Adobe Marketo Engage {#ame}
+    + Professional {#ame-professional}
+      + [Certified Professional](/help/ame/ame-p.md)
+    + Expert {#ame-expert}
+      + [Business Practitioner](/help/ame/ame-e-business.md)
+    + Master {#ame-master}
+      + [Architect)](/help/ame/ame-m-archtiect.md)
+  + Adobe Sign {#sign}
+    + [Essentials](/help/ame/sign-essentials.md)
+  + Adobe Real-Time CDP {#rtcdp}
+    + Professional {#rtcdp-professional}
+      + [Business Practitioner](/help/rtcdp/rtcdp-p-business.md)
+    + Expert {#rtcdp-expert}
+      + [Technical Practitioner](/help/rtcdp/rtcdp-e-technical.md)
+  + Adobe Journey Optimizer {#ajo}
+    + Expert {#ajo-expert}
+      + [Developer](/help/rtcdp/ajo-e-developer.md)
+  + Adobe Target {#at}
+    + Professional {#at-professional}
+      + [Business Practitioner](/help/at/at-p-business.md)
+    + Expert {#at-expert}
+      + [Business Practitioner](/help/at/at-e-business.md)
+    + Master {#at-master}
+      + [Architect](/help/at/at-m-architect.md)
+    + Renewal {#aem-renewal}
+      + [Business Practitioner](/help/at/at-e-business-renew.md)
+      + [Architect](/help/at/at-m-architect-renew.md)
+  + Adobe Workfront {#aw}
+    + Professional {#aw-professional}
+      + [Developer (Fusion)](/help/aw/aw-fusion-p-developer.md)
+      + [Project Manager](/help/aw/aw-p-project-manager.md)
+      + [Developer (Core)](/help/aw/aw-core-p-developer.md)
+    + Expert {#aw-expert}
+      + [Developer (Core)](/help/aw/aw-core-e-developer.md)
+      + [AEM enhanced connector](/help/aw/aw-aem-e-connector.md)
+  + Creative Cloud {#cc}
+    + Expert {#cc-expert}
+      + [Design and Layout Solutions](/help/cc/cc-e-design-layout.md)
+      + [Video Editing](/help/cc/cc-e-video-editing.md)
+      + [Adobe XD](/help/cc/cc-e-adobe-xd.md)
+  + Other {#other}
+    + Professional {#other-professional}
+    + [Adobe Captivate](/help/cc/other-p-captivate.md)
+    + [Adobe ColdFusion](/help/cc/other-p-coldfusion.md)
 + Not Used {#notused}
   + [RT-CDP Exam Prep Guide](/help/data-insights-analytics/rt-cdp/exam-prep-guide-rt-cdp-exam.md)
   + [Exam Guide - Adobe Experience Platform Technical Foundations](/help/data-insights-analytics/rt-cdp/exam-guide-ad0-e600.md)
