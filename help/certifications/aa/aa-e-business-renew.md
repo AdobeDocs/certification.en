@@ -13,20 +13,6 @@ Bacon ipsum dolor amet buffalo short loin meatloaf, t-bone turkey pork hamburger
 <table>
 <tr  style="border: 0">
 <td style="width: 160px;text-align: left">
-  <img alt="Certification Badge" style="width: 120px" src="/help/certifications/assets/expert-badge.png" />
-</td>
-<td style="width: 400px;">
-  <strong>Level of Experience: </strong> 1-3 years
-
-  <strong>Intended Audience:</strong>
-  Data Architect/Engineer, Solution Architect or MSA, 
-  Enterprise Architect, Product Manager, Marketing Technology Lead
-</tr>
-</table>
-
-<table>
-<tr  style="border: 0">
-<td style="width: 160px;text-align: left">
 
 <!--- TO CHANGE BADGE : change "expert-badge.png" to "master-badge.png" or "professional-badge.png --->
 
