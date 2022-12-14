@@ -22,7 +22,7 @@ This is the certification for YOU!
 <table>
 <tr  style="border: 0">
 <td style="width: 160px;text-align: left">
-  <img alt="Certification Badge" style="width: 120px" src="/help/assets/expert-badge.png" />
+  <img alt="Certification Badge" style="width: 120px" src="/help/certifications/assets/expert-badge.png" />
 </td>
 <td style="width: 400px;">
   <strong>Level of Experience: </strong> 1-3 years
