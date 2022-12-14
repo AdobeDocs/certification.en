@@ -1,10 +1,10 @@
 ---
-title: Adobe Analytics Certification
+title: Adobe Audience Manager Certification
 description: You have technical knowledge about audience segmentation, destination exports, and activation on real time basis for unified profiles that adhere to data and privacy regulations, customer data platforms (CDP) and knowledge of Adobe Experience Platform.
-solution: Analytics
+solution: Audience Manager
 role: Developer
 ---
-# Certification Journey - Adobe Analytics {#aa-get-ready}
+# Certification Journey - Adobe Audience Manager {#aam-get-ready}
 
 ## Start Your Journey toward Certification
 
@@ -129,12 +129,12 @@ Adobe has provided additional study aids to help you prepare for your certificat
 
 {{$include /help/_includes/questions.md}}
 ---
-title: Adobe Analytics Certification
+title: Adobe Audience Manager Certification
 description: You have technical knowledge about audience segmentation, destination exports, and activation on real time basis for unified profiles that adhere to data and privacy regulations, customer data platforms (CDP) and knowledge of Adobe Experience Platform.
-solution: Analytics
+solution: Audience Manager
 role: Developer
 ---
-# Certification Journey - Adobe Analytics {#aa-get-ready}
+# Certification Journey - Adobe Audience Manager {#aam-get-ready}
 
 ## Start Your Journey toward Certification
 
