@@ -4,7 +4,7 @@ description: You have technical knowledge about audience segmentation, destinati
 solution: Analytics
 role: Developer
 ---
-# Certification Journey - Adobe Analytics {#aa-get-ready}
+# Certification Journey - Adobe Analytics
 
 ## Start Your Journey toward Certification
 
@@ -134,7 +134,7 @@ description: You have technical knowledge about audience segmentation, destinati
 solution: Analytics
 role: Developer
 ---
-# Certification Journey - Adobe Analytics {#aa-get-ready}
+# Certification Journey - Adobe Analytics
 
 ## Start Your Journey toward Certification
 
