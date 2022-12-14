@@ -97,9 +97,9 @@ user-guide-description: Certification
     + Expert {#ame-expert}
       + [Business Practitioner](/help/ame/ame-e-business.md)
     + Master {#ame-master}
-      + [Architect)](/help/ame/ame-m-archtiect.md)
+      + [Architect)](/help/ame/ame-m-architect.md)
   + Adobe Sign {#sign}
-    + [Essentials](/help/ame/sign-essentials.md)
+    + [Essentials](/help/sign/sign-essentials.md)
   + Adobe Real-Time CDP {#rtcdp}
     + Professional {#rtcdp-professional}
       + [Business Practitioner](/help/rtcdp/rtcdp-p-business.md)
@@ -107,7 +107,7 @@ user-guide-description: Certification
       + [Technical Practitioner](/help/rtcdp/rtcdp-e-technical.md)
   + Adobe Journey Optimizer {#ajo}
     + Expert {#ajo-expert}
-      + [Developer](/help/rtcdp/ajo-e-developer.md)
+      + [Developer](/help/ajo/ajo-e-developer.md)
   + Adobe Target {#at}
     + Professional {#at-professional}
       + [Business Practitioner](/help/at/at-p-business.md)
@@ -133,8 +133,8 @@ user-guide-description: Certification
       + [Adobe XD](/help/cc/cc-e-adobe-xd.md)
   + Other {#other}
     + Professional {#other-professional}
-    + [Adobe Captivate](/help/cc/other-p-captivate.md)
-    + [Adobe ColdFusion](/help/cc/other-p-coldfusion.md)
+    + [Adobe Captivate](/help/other/other-p-captivate.md)
+    + [Adobe ColdFusion](/help/other/other-p-coldfusion.md)
 + Not Used {#notused}
   + [RT-CDP Exam Prep Guide](/help/data-insights-analytics/rt-cdp/exam-prep-guide-rt-cdp-exam.md)
   + [Exam Guide - Adobe Experience Platform Technical Foundations](/help/data-insights-analytics/rt-cdp/exam-guide-ad0-e600.md)
