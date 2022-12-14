@@ -4,7 +4,7 @@ description: You have technical knowledge about audience segmentation, destinati
 solution: Audience Manager
 role: Developer
 ---
-# Certification Journey - Adobe Audience Manager {#aam-get-ready}
+# Certification Journey - Adobe Audience Manager
 
 ## Start Your Journey toward Certification
 
