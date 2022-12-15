@@ -1,10 +1,10 @@
 ---
-title: Adobe Analytics Certification
+title: Adobe Campaign Classic Certification
 description: You have technical knowledge about audience segmentation, destination exports, and activation on real time basis for unified profiles that adhere to data and privacy regulations, customer data platforms (CDP) and knowledge of Adobe Experience Platform.
-solution: Analytics
+solution: Campaign Classic
 role: Developer
 ---
-# Certification Journey - Adobe Analytics
+# Certification Journey - Adobe Campaign Classic
 
 ## Start Your Journey toward Certification
 
