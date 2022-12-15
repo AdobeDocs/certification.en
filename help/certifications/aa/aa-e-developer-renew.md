@@ -128,3 +128,4 @@ Adobe has provided additional study aids to help you prepare for your certificat
 {{$include /help/_includes/get-certified.md}}
 
 {{$include /help/_includes/questions.md}}
+
