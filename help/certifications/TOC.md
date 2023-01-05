@@ -9,7 +9,8 @@ user-guide-description: Certification
 + [Overview](overview.md)
 + [Getting Started](getting-started.md)
 + [Get Your Badge](get-badge.md)
-+ [Get Certified](get-certified.md)
++ [Renew Your Certification](renew.md)
+<!--- + [Get Certified](get-certified.md) --->
 + [Restart Program](restart-program.md)
 + Technical Certifications {#technical-certifications}
   + Adobe Advertising Cloud {#aac}
