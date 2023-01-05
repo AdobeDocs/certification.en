@@ -108,58 +108,6 @@ description: Getting started with technical certifications
 
 >[!BEGINSHADEBOX]
 
-<p align="left" style="font-size: xx-large;font-weight: 700;">Choose from products in all DX Categories...
-<table>
-    <tr style="border: 0;">
-        <td>
-            <strong>Data Insights &amp; Analytics</strong><br>&nbsp;
-            <p>Great experiences start with the right data. It takes unifying your data into comprehensive customer profiles and visualizations, so you can discover insights and create the right experience for each customer.</p>
-        </td>
-        <td>
-            <strong>Content &amp; Commerce</strong><br>&nbsp;
-            <p>Your content is what delivers value to your customer. With content management you can bring personalized experiences to life—at scale. And AI-powered commerce will help you deliver flexible shopping experiences that grow your business.</p>
-        </td>
-        <td>
-            <strong>Customer Journeys</strong><br>&nbsp;
-            <p>Timing is everything with delivering the right content. Our solutions help you analyze, automate, and deliver comprehensive experiences that track every step of your customer journey.</p>
-        </td>
-        <td>
-            <strong>Marketing Workflow</strong><br>&nbsp;
-            <p>The best customer experience will never happen if your team can’t get on the same page. Our work management solution helps you get projects organized, built right, and delivered on time.</p>
-        </td>
-    </tr>
-    <tr style="border: 0;background-color: white;">
-        <td>
-            <a href="https://experienceleague.corp.adobe.com/docs/certification/certification/technical-certifications/data-insights-analytics/overview.html"
-                target="_blank"
-                class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM"><span
-                    class="spectrum-Button-label has-no-wrap has-text-weight-bold">See
-                    Certifications</span></a>
-        </td>
-        <td>
-            <a href="https://experienceleague.corp.adobe.com/docs/certification/certification/technical-certifications/content-commerce/overview.html"
-                target="_blank"
-                class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM"><span
-                    class="spectrum-Button-label has-no-wrap has-text-weight-bold">See
-                    Certifications</span></a>
-        </td>
-        <td>
-            <a href="https://experienceleague.corp.adobe.com/docs/certification/certification/technical-certifications/customer-journeys/overview.html"
-                target="_blank"
-                class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM"><span
-                    class="spectrum-Button-label has-no-wrap has-text-weight-bold">See
-                    Certifications</span></a>
-        </td>
-        <td>
-            <a href="https://experienceleague.corp.adobe.com/docs/certification/certification/technical-certifications/marketing-workflow/overview.html"
-                target="_blank"
-                class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM"><span
-                    class="spectrum-Button-label has-no-wrap has-text-weight-bold">See
-                    Certifications</span></a>
-        </td>
-    </tr>
-</table>
-
 </p>
 <table>
     <tr style="border: 0;">
