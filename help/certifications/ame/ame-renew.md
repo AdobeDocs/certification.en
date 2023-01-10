@@ -1,10 +1,10 @@
 ---
-title: Adobe Target Certification
+title: Adobe Marketo Engage Certification
 description: You have technical knowledge about audience segmentation, destination exports, and activation on real time basis for unified profiles that adhere to data and privacy regulations, customer data platforms (CDP) and knowledge of Adobe Experience Platform.
-solution: Target
+solution: Marketo Engage
 role: Developer
 ---
-# Certification Journey - Adobe Target
+# Certification Journey - Adobe Marketo Engage
 
 ## Start Your Journey toward Certification
 
