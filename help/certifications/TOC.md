@@ -16,8 +16,7 @@ user-guide-description: Certification
     + Professional {#aac-professional}
       + [Business Practitioner (Search)](/help/certifications/aac/aac-search-p-business.md)
       + [Business Practitioner (DSP)](/help/certifications/aac/aac-dsp-p-business.md)
-    + Renewal {#aac-renewal}
-      + [Business Practitioner (Search)](/help/certifications/aac/aac-search-p-business-renew.md)
+    + [Renewal](/help/certifications/aac/aac-renew.md)
   + Adobe Analytics {#aa}
     + Professional {#aa-professional}
       + [Business Practitioner](/help/certifications/aa/aa-p-business.md)
