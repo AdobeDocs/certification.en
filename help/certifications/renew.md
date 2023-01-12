@@ -7,4 +7,4 @@ recommendations: disable, exclude
 ---
 # Get Certified {#rtcdp-get-certified}
 
-   Take the next step...get certified TODAY!
+   Take the next step...get certified TODAY! 

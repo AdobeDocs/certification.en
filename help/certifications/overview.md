@@ -3,9 +3,9 @@ title: Certification overview
 description: This is the article overview for certification.
 ---
 
-# Certification overview {#certification-overview}
+# Certification at Adobe {#certification-overview}
 
-## What's New
+## What's new
 
 Spicy jalapeno bacon ipsum dolor amet ground round chuck landjaeger fatback. Meatball chislic pork, sirloin burgdoggen chicken short ribs doner corned beef pancetta. Meatball shoulder t-bone pastrami shankle chislic kevin burgdoggen. Shankle filet mignon ham cupim prosciutto pig. Flank chicken drumstick, cow leberkas short loin picanha.
 
@@ -17,7 +17,7 @@ Spicy jalapeno bacon ipsum dolor amet ground round chuck landjaeger fatback. Mea
 
 Spicy jalapeno bacon ipsum dolor amet ground round chuck landjaeger fatback. Meatball chislic pork, sirloin burgdoggen chicken short ribs doner corned beef pancetta. Meatball shoulder t-bone pastrami shankle chislic kevin burgdoggen. Shankle filet mignon ham cupim prosciutto pig. Flank chicken drumstick, cow leberkas short loin picanha.
 
-## Program Framework
+## Program framework
 
 Spicy jalapeno bacon ipsum dolor amet ground round chuck landjaeger fatback. Meatball chislic pork, sirloin burgdoggen chicken short ribs doner corned beef pancetta. Meatball shoulder t-bone pastrami shankle chislic kevin burgdoggen. Shankle filet mignon ham cupim prosciutto pig. Flank chicken drumstick, cow leberkas short loin picanha.
 
