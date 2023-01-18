@@ -13,7 +13,7 @@ description: Get started with technical certifications
 <tr  style="border: 0;">
   <td>
  
-  With three levels to choose from, there's a certification for YOU!
+With three levels to choose from, there's a certification for YOU!
   </td>
 
   <td style="background-color: lightgray;border-color: white;border-style: solid;">

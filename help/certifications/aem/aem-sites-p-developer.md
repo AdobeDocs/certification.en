@@ -4,41 +4,43 @@ description: You have technical knowledge about audience segmentation, destinati
 solution: Experience Manager Sites
 role: Developer
 ---
-# Certification Journey - Adobe Experience Manager Sites
+# Certification Journey - Adobe Experience Manager Sites Developer
 
 ## Start Your Journey toward Certification
 
-Bacon ipsum dolor amet buffalo short loin meatloaf, t-bone turkey pork hamburger boudin pork chop venison ribeye cow pork belly. Chuck alcatra bacon, frankfurter t-bone salami tri-tip spare ribs ribeye venison sausage strip steak meatball landjaeger cupim. Picanha tri-tip cow fatback, swine pork loin andouille pork tail. Bresaola chicken leberkas, ground round ball tip brisket meatball corned beef sausage andouille porchetta frankfurter doner strip steak burgdoggen. Boudin landjaeger leberkas salami.
+Purchase your exam voucher at Adobe Certification Voucher Center, if you have a discount, it will apply at checkout. Apply the voucher code when you schedule your exam.
+
+If an exam is marked as retiring, you can still take it and your certification will be valid for two years from when you pass. We recommend taking the newer version, when possible, because it covers newer product capabilities.
+
+If you are an application developer with 0-12 months of experience working with the AEM Platform, are able to perform component development, have a basic understanding of the MVC framework, life cycle frameworks and libraries in AEM. 
+
+This is the certification for YOU!
 
 <table>
 <tr  style="border: 0">
 <td style="width: 160px;text-align: left">
-
-<!--- TO CHANGE BADGE : change "expert-badge.png" to "master-badge.png" or "professional-badge.png --->
-
-  <img alt="Certification Badge" style="width: 120px" src="/help/certifications/assets/expert-badge.png" />
+  <img alt="Certification Badge" style="width: 120px" src="/help/certifications/assets/professional-badge.png" />
 </td>
 <td style="width: 400px;">
   <strong>Level of Experience: </strong> 1-3 years
 
   <strong>Intended Audience:</strong>
-  Data Architect/Engineer, Solution Architect or MSA, 
-  Enterprise Architect, Product Manager, Marketing Technology Lead
+  AEM Developers, Front End Developers and Software Engineers
 </tr>
 </table>
 
 <table>
  <tr  style="border: 0;">
-    <td> <strong>Adobe Experience Platform</strong> </td>
+    <td> <strong>Adobe Experience Platform Sites Developer</strong> </td>
  </tr>
 
  <tr style="border: 0;background-color: white;">
     <td>
     Exam Details:<br>
-    Passing Score: 35/50<br>
-    Time: 105 mins<br>
+    Passing Score: 31/50<br>
+    Time: 100 mins<br>
     Cost: $225 (global) and $150 (India)<br>
-    Exam ID: AD0-E600
+    Exam ID: AD0-E123
     </td>
  </tr>
 
