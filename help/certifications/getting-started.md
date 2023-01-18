@@ -58,7 +58,7 @@ With three levels to choose from, there's a certification for YOU!
 </p>
 
 
-<p align="center" style="font-size: xx-large;font-weight: 700;color: red">Job Roles</p>
+<p align="center" style="font-size: xx-large;font-weight: 700;color: black">Job Roles</p>
 
 <p align="center">
 <table>
