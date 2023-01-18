@@ -147,7 +147,7 @@ The sample questions allow you to see the type and format of items that you will
 * On the last question, click Submit Exam to submit all your answers.
 * Answer the short survey.
 
-**Schedule your exam**
+**Get Certified**
 
 To schedule your exam you will click on "Schedule" below. This will redirect you to the Adobe Credential Management system where you will click scheduling>then search for this exam to schedule.
 
