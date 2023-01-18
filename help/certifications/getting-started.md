@@ -1,9 +1,9 @@
 ---
-title: Getting Started
-description: Getting started with technical certifications
+title: Get Started
+description: Get started with technical certifications
 ---
 
-# Getting Started {#getting-started}
+# Get started {#getting-started}
 
 <p align="left" style="font-size: xx-large;font-weight: 700">As you gain more experience, you can grow your career...</p>
 

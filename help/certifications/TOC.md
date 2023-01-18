@@ -6,12 +6,12 @@ user-guide-description: Certification
 
 # Certification {#certification}
 
-+ [Overview](overview.md)
-+ [Getting Started](getting-started.md)
-+ [Get Your Badge](get-badge.md)
-+ [Renew Your Certification](renew.md)
-+ [Restart Program](restart-program.md)
-+ Technical Certifications {#technical-certifications}
++ [Certification home](overview.md)
++ [Get started](getting-started.md)
++ [Get your badge](get-badge.md)
++ [Renew your certification](renew.md)
++ [Restart program](restart-program.md)
++ Technical certifications {#technical-certifications}
   + Adobe Advertising Cloud {#aac}
     + Professional {#aac-professional}
       + [Business Practitioner (Search)](/help/certifications/aac/aac-search-p-business.md)

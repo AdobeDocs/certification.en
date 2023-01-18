@@ -1,5 +1,5 @@
 ---
-title: Certification overview
+title: Certification Home
 description: This is the article overview for certification.
 ---
 
