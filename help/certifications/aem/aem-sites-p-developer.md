@@ -10,7 +10,9 @@ role: Developer
 
 Purchase your exam voucher at Adobe Certification Voucher Center, if you have a discount, it will apply at checkout. Apply the voucher code when you schedule your exam.
 
-If an exam is marked as retiring, you can still take it and your certification will be valid for two years from when you pass. We recommend taking the newer version, when possible, because it covers newer product capabilities.
+If an exam is marked as retiring you will see a note at the top of this page. This indicates that you can still take it until the date specified in the note. 
+
+Your certification will be valid for two years from when you pass. We recommend taking the newer version, when possible, because it covers newer product capabilities.
 
 If you are an application developer with 0-12 months of experience working with the AEM Platform, are able to perform component development, have a basic understanding of the MVC framework, life cycle frameworks and libraries in AEM. 
 
@@ -22,7 +24,7 @@ This is the certification for YOU!
   <img alt="Certification Badge" style="width: 120px" src="/help/certifications/assets/professional-badge.png" />
 </td>
 <td style="width: 400px;">
-  <strong>Level of Experience: </strong> 1-3 years
+  <strong>Level of Experience: </strong> 0-12 months
 
   <strong>Intended Audience:</strong>
   AEM Developers, Front End Developers and Software Engineers
@@ -52,7 +54,7 @@ Bacon ipsum dolor amet buffalo short loin meatloaf, t-bone turkey pork hamburger
 
 ## Get Ready
 
-**AD0-E600 Adobe Experience Platform Technical Foundations**
+**AD0-E123 Adobe Experience Platform Sites Developer**
 
 **Minimum Candidate Experience**
 
@@ -63,24 +65,30 @@ Defined by a team of subject matter experts, the candidate who is ready to pass 
 
 **Exam Objectives and Scope**
 
-Section 1: Data Modeling (20%)
-* Analyze source data to evaluate primary and secondary identity for profile stitching
-* Demonstrate an understanding of how to use the UI to create/edit XDM Schemas.
-* Identify DULE Guidance
+Section 1: Configurations (26%)
+* Recognize the purpose of AEM dispatcher configurations and caching
+* Determine the correct steps to configure multi-site in AEM
+* Explain how to create and manage OSGi configurations
+* Determine the correct steps to to manage custom OAK indices
+* Determine the correct steps to configure OOTB SAML or IMS integration
 
-Section 2: Data Ingestion (36%)
-* Demonstrate how to format and prepare data for ingestion
-* Demonstrate how to connect data sources using OOTB connectors
+Section 2: AEM Development (40%)
+* Determine the correct steps to implement core-based components
+* Connect component functionality including the HTL, models, and services
+* Given a scenario, determine the correct steps to develop workflows
+* Given a scenario, outline the purpose of content fragments or experience fragments
 
-Section 3: Unifying Profiles (34%)
-* Validate Profiles and Event data post ingestion
-* Define identity name spaces
+Section 3: Build and Deployment (12%)
+* Define Maven project structure
+* Configure projects from archetypes
 
-Section 4: Activation (10%)
-* Demonstrate how to set up a destination and how segment activation works
-* Demonstrate and understanding of data access API and exporting data via Real-Time CDP
+Section 4: Environment Maintenance (22%)
+* Given a scenario, determine the steps required to debug issues in AEM environments
+* Explain AEM maintenance releases
+* Identify how to configure AEM across topologies
+* Determine the steps required around planning and migrating to AEM as a Cloud Service
 
-Take a readiness questionnaire to find out if you meet the minimum qualifications.
+Take a [readiness questionnaire](https://scorpion.caveon.com/launchpad/ad-q-e123-readiness-questionnaire-for-adobe-experience-manager-sites-developer-professional-exam) to find out if you meet the minimum qualifications.
 
 ## Get Prepped
 
@@ -88,45 +96,63 @@ You are not required to complete training before taking the exam, and training a
 
 Here are some suggested resources to help you prepare:
 
-**AD0-E600 Adobe Experience Platform Technical Foundations**
+**AD0-E123 Adobe Experience Platform Technical Foundations**
 
 The exam covers four domains: business analysis, reporting and dashboarding, segmentation and calculated metrics, general tool knowledge, and reporting.
 
-**Section 1: Data Modeling**
+**Section 1: Configurations**
 
-* Documentation: [Understanding Schemas](https://experienceleague.adobe.com/docs/experience-platform/xdm/schema/composition.html)
-* SPP On Demand: [Schema and XDM Overview / Adobe Experience Platform: Data Modeling and Ingestion](https://video.tv.adobe.com/v/27105)
-* SPP Challenge/Hands On: [Model data in Schemas](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/model-data-in-schemas.html)
-* Experience League Tutorial: [Schema and XDM Overview](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/schemas-and-experience-data-model.html)
+* [AEM 6.4 Administering User Guide](https://experienceleague.adobe.com/docs/experience-manager-64/administering/home.html?lang=en)
+* [AEM 6.4 Deploying User Guide](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/home.html?lang=en)
+* [Dispatcher Overview](https://experienceleague.adobe.com/docs/experience-manager-dispatcher/using/dispatcher.html?lang=en)
 
-**Section 2: Data Ingestion**
+**Section 2: AEM Development**
 
-* Documentation: [Data Ingestion](https://experienceleague.adobe.com/docs/experience-platform/ingestion/home.html?lang=en)
-* SPP On Demand: [Adobe Experience Platform: Data Modeling and Ingestion](https://solutionpartners.adobe.com/training/learning_program/learningProgram83768.html)
+* [AEM 6.4 Administering User Guide](https://experienceleague.adobe.com/docs/experience-manager-64/administering/home.html?lang=en)
+* [AEM 6.5 Deploying User Guide](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html?lang=en)
+* [AEM 6.5 Developing User Guide](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html?lang=en)
+* [Core Components Guide](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/introduction.html?lang=en)
+* [HTL Guide](https://experienceleague.adobe.com/docs/experience-manager-htl/using/overview.html?lang=en)
+* [AEM Sites Component Basics](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-wknd-tutorial-develop/project-archetype/component-basics.html?lang=en)
 
-**Section 3: Unifying Profiles**
+**Section 3: Build and Deployment**
 
-* Documentation: [Identity and identity graphs](https://experienceleague.adobe.com/docs/platform-learn/tutorials/identities/understanding-identity-and-identity-graphs.html?lang=en)
-* SPP On Demand: [Experience Platform: Create and Manage Real-time Customer Profile](https://cpcontents.adobe.com/public/newlearner/newlearner_de10804e.html?accountId=32503#/course/1175314/overview?cert_id=undefined&lp_id=undefined)
+* [AEM Project Structure](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/introduction.html?lang=en)
+* [Core Components Introduction](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/introduction.html?lang=en)
+* [Getting Started with AEM Sites - WKND Tutorial](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-wknd-tutorial-develop/overview.html)
 
 
-**Section 4: Activation**
+**Section 4: Environment Maintenance**
 
-* Documentation: [Destinations](https://experienceleague.adobe.com/docs/experience-platform/destinations/home.html?lang=en)
-* SPP On Demand: [Adobe Experience Platform: Segmentation for Developers](https://solutionpartners.adobe.com/training/learning_program/learningProgram83769.html)
+* [AEM 6.4 Deploying User Guide](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/home.html?lang=en)
+* [AEM 6.4 Developing User Guide](https://experienceleague.adobe.com/docs/experience-manager-64/developing/home.html?lang=en)
+* [Operations Dashboard](https://experienceleague.adobe.com/docs/experience-manager-65/administering/operations/operations-dashboard.html?lang=en%20(Automated%20Maintenance%20Tasks))
+* [Release Notes for Adobe Experience Manager 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html)
+* [Experience Manager as a Cloud Service Overview](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=en)
+* [Core Components Introduction](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/introduction.html?lang=en)
+* [AEM as Cloud Service Videos and Tutorials](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/overview.html?lang=en)
+* [Adobe Experience Manager Release Updates and Roadmap](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/home.html?lang=en)
 
-**Additional Study Aid Resources**
+**Online Sample Questions**
 
-Adobe has provided additional study aids to help you prepare for your certification exam. These include content from Adobe Experience League, Adobe Digital Learning Solutions, and technical documentation
+The sample questions allow you to see the type and format of items that you will encounter in the actual exam. There is no sign-on needed. The results of the sample questions are not stored, and do not predict your actual test results.
 
-+++See Resources
+[See Sample Questions](https://scorpion.caveon.com/launchpad/ad3-e123-adobe-experience-manager-sites-developer-professional-sample-questions)
 
-* [Adobe Experience Platform Enablement (Partners Only)](https://solutionpartners.adobe.com/training/courses/course5250864.html)
-* [Experience Data Model (XDM) Guide](https://experienceleague.adobe.com/docs/experience-platform/xdm/home.html?lang=en)
-+++
+* Provide your email address.
+* Answer the candidate agreement.
+* Start the test.
+* Mark your answer in each question.
+* Click Next on the upper portion of the screen to save your answer and move to the next question. You may return and revise your question within the specified time.
+* On the last question, click Submit Exam to submit all your answers.
+* Answer the short survey.
 
-{{$include /help/_includes/take-a-practice-test.md}}
+**Schedule your exam**
 
-{{$include /help/_includes/get-certified.md}}
+To schedule your exam you will click on "Schedule" below. This will redirect you to the Adobe Credential Management system where you will click scheduling>then search for this exam to schedule.
 
-{{$include /help/_includes/questions.md}}
+[Schedule AD0-E123](https://learning.adobe.com/api.certify.json)
+
+**Questions**
+
+Please [contact](https://learning.adobe.com/products-resources/contact-us.html?contactType=certificationLl3OYi/) the Adobe Credential Program Customer Support team.
