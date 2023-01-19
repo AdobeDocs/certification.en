@@ -189,7 +189,7 @@ The exam covers four domains: business analysis, reporting and dashboarding, seg
 * [Understanding Schemas](https://experienceleague.adobe.com/docs/experience-platform/xdm/schema/composition.html){target="_blank"}
 * [Schema and XDM Overview / Adobe Experience Platform: Data Modeling and Ingestion](https://video.tv.adobe.com/v/27105){target="_blank"}
 * [Model data in Schemas](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/model-data-in-schemas.html){target="_blank"}
-*[Schema and XDM Overview](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/schemas-and-experience-data-model.html){target="_blank"}
+* [Schema and XDM Overview](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/schemas-and-experience-data-model.html){target="_blank"}
 
 **Section 2: Data Ingestion**
 
@@ -209,10 +209,10 @@ The exam covers four domains: business analysis, reporting and dashboarding, seg
 
 **Section 4: Activation**
 
-*[Destinations](https://experienceleague.adobe.com/docs/experience-platform/destinations/home.html?lang=en){target="_blank"}
-*[Adobe Experience Platform: Segmentation for Developers](https://solutionpartners.adobe.com/training/learning_program/learningProgram83769.html){target="_blank"}
-*[Real-time CDP: Destinations](https://cpcontents.adobe.com/public/newlearner/newlearner_de10804e.html?accountId=32503#/course/1358382/instance/1463643/preview){target="_blank"}
-*[Destinations overview](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/understanding-destinations.html?lang=en){target="_blank"}
+* [Destinations](https://experienceleague.adobe.com/docs/experience-platform/destinations/home.html?lang=en){target="_blank"}
+* [Adobe Experience Platform: Segmentation for Developers](https://solutionpartners.adobe.com/training/learning_program/learningProgram83769.html){target="_blank"}
+* [Real-time CDP: Destinations](https://cpcontents.adobe.com/public/newlearner/newlearner_de10804e.html?accountId=32503#/course/1358382/instance/1463643/preview){target="_blank"}
+* [Destinations overview](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/understanding-destinations.html?lang=en){target="_blank"}
 
 
 **Additional Study Aid Resources**
@@ -249,7 +249,7 @@ Adobe has provided additional study aids to help you prepare for your certificat
 * [Profile and Segmentation guardrails](https://experienceleague.adobe.com/docs/experience-platform/profile/guardrails.html?lang=en)
 * [Create and Manage Real Time Customer Profile](https://solutionpartners.adobe.com/training/courses/course1175314.html){target="_blank"}
 * [Enable Real Time Customer Profile](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/enable-profiles.html?lang=en){target="_blank"}
-*[Real-Time Customer Data Platform Overview](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/overview.html?lang=en){target="_blank"}
+* [Real-Time Customer Data Platform Overview](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/overview.html?lang=en){target="_blank"}
 * [AEP Application Services: Real-Time CDP](https://solutionpartners.adobe.com/content/solution/us/en/training/courses/course3569029.html){target="_blank"}
 * [Getting started with Real-Time CDP](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/intro/rtcdp-intro/get-started.html?lang=en){target="_blank"} 
 * [Metrics overview](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/intro/rtcdp-intro/home-page-dashboards.html?lang=en){target="_blank"}
@@ -258,7 +258,8 @@ Adobe has provided additional study aids to help you prepare for your certificat
 * [Privacy overview](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/privacy/privacy-overview.html?lang=en){target="_blank"}
 * [Data Governance in Real-time CDP](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/privacy/data-governance-overview.html?lang=en){target="_blank"}
 * [Apply data governance framework](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/apply-data-governance-framework.html?lang=en){target="_blank"}
-* [Getting started with data governance](https://video.tv.adobe.com/v/333350/), [Data Governance overview](https://video.tv.adobe.com/v/29708/){target="_blank"}
+* [Getting started with data governance](https://video.tv.adobe.com/v/333350/){target="_blank"}
+* [Data Governance overview](https://video.tv.adobe.com/v/29708/){target="_blank"}
 * [Data Governance demo](https://video.tv.adobe.com/v/36653/){target="_blank"}
 * [Classify data using governance label](https://video.tv.adobe.com/v/29709/){target="_blank"}
 * [Create data usage policies](https://video.tv.adobe.com/v/32977/){target="_blank"}
@@ -282,7 +283,7 @@ Adobe has provided additional study aids to help you prepare for your certificat
 * [Create segments with B2B data](https://video.tv.adobe.com/v/338252/){target="_blank"} 
 * [Demo of streaming segmentation](https://video.tv.adobe.com/v/36184){target="_blank"}
 * [Create and Activate Segments in Adobe Experience Platform](https://learning.adobe.com/catalog/adobe_experienceplatform/cours000000000097681.html){target="_blank"}
-  * [Evaluate a segment](https://experienceleague.adobe.com/docs/experience-platform/segmentation/tutorials/evaluate-a-segment.html){target="_blank"}
+* [Evaluate a segment](https://experienceleague.adobe.com/docs/experience-platform/segmentation/tutorials/evaluate-a-segment.html){target="_blank"}
 
 **Section 3: Destinations**
 
