@@ -327,11 +327,9 @@ We are excited to offer free practice tests and provide a detailed coaching repo
 
 Go to the [Adobe Credential Managment System](http://www.certmetrics.com/adobe/){target="_blank"} to launch a practice test.
 
-
 >[!NOTE]
 >
 >Go to the Scheduling Page > Practice Tests > Adobe Certification Prep Portal > click on Launch Adobe Exam Prep Portal (on the far-right side).
-
 
 ## Get Certified
 
