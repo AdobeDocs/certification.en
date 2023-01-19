@@ -4,7 +4,7 @@ description: You have technical knowledge about audience segmentation, destinati
 solution: Experience Manager Sites
 role: Developer
 ---
-# Certification Journey - Adobe Experience Manager Sites Developer
+# Certification Journey - Adobe Experience Manager Sites Developer - AD0-E123
 
 ## Start Your Journey toward Certification
 
