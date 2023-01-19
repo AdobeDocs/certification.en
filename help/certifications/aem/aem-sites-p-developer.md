@@ -88,7 +88,7 @@ Section 4: Environment Maintenance (22%)
 * Identify how to configure AEM across topologies
 * Determine the steps required around planning and migrating to AEM as a Cloud Service
 
-Take a [readiness questionnaire](https://scorpion.caveon.com/launchpad/ad-q-e123-readiness-questionnaire-for-adobe-experience-manager-sites-developer-professional-exam) to find out if you meet the minimum qualifications.
+Take a [readiness questionnaire](https://scorpion.caveon.com/launchpad/ad-q-e123-readiness-questionnaire-for-adobe-experience-manager-sites-developer-professional-exam){target="_blank"} to find out if you meet the minimum qualifications.
 
 ## Get Prepped
 
@@ -102,42 +102,42 @@ The exam covers four domains: business analysis, reporting and dashboarding, seg
 
 **Section 1: Configurations**
 
-* [AEM 6.4 Administering User Guide](https://experienceleague.adobe.com/docs/experience-manager-64/administering/home.html?lang=en)
-* [AEM 6.4 Deploying User Guide](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/home.html?lang=en)
-* [Dispatcher Overview](https://experienceleague.adobe.com/docs/experience-manager-dispatcher/using/dispatcher.html?lang=en)
+* [AEM 6.4 Administering User Guide](https://experienceleague.adobe.com/docs/experience-manager-64/administering/home.html?lang=en){target="_blank"}
+* [AEM 6.4 Deploying User Guide](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/home.html?lang=en){target="_blank"}
+* [Dispatcher Overview](https://experienceleague.adobe.com/docs/experience-manager-dispatcher/using/dispatcher.html?lang=en){target="_blank"}
 
 **Section 2: AEM Development**
 
-* [AEM 6.4 Administering User Guide](https://experienceleague.adobe.com/docs/experience-manager-64/administering/home.html?lang=en)
-* [AEM 6.5 Deploying User Guide](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html?lang=en)
-* [AEM 6.5 Developing User Guide](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html?lang=en)
-* [Core Components Guide](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/introduction.html?lang=en)
-* [HTL Guide](https://experienceleague.adobe.com/docs/experience-manager-htl/using/overview.html?lang=en)
-* [AEM Sites Component Basics](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-wknd-tutorial-develop/project-archetype/component-basics.html?lang=en)
+* [AEM 6.4 Administering User Guide](https://experienceleague.adobe.com/docs/experience-manager-64/administering/home.html?lang=en){target="_blank"}
+* [AEM 6.5 Deploying User Guide](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html?lang=en){target="_blank"}
+* [AEM 6.5 Developing User Guide](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html?lang=en){target="_blank"}
+* [Core Components Guide](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/introduction.html?lang=en){target="_blank"}
+* [HTL Guide](https://experienceleague.adobe.com/docs/experience-manager-htl/using/overview.html?lang=en){target="_blank"}
+* [AEM Sites Component Basics](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-wknd-tutorial-develop/project-archetype/component-basics.html?lang=en){target="_blank"}
 
 **Section 3: Build and Deployment**
 
-* [AEM Project Structure](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/introduction.html?lang=en)
-* [Core Components Introduction](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/introduction.html?lang=en)
-* [Getting Started with AEM Sites - WKND Tutorial](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-wknd-tutorial-develop/overview.html)
+* [AEM Project Structure](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/introduction.html?lang=en){target="_blank"}
+* [Core Components Introduction](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/introduction.html?lang=en){target="_blank"}
+* [Getting Started with AEM Sites - WKND Tutorial](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-wknd-tutorial-develop/overview.html){target="_blank"}
 
 
 **Section 4: Environment Maintenance**
 
-* [AEM 6.4 Deploying User Guide](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/home.html?lang=en)
-* [AEM 6.4 Developing User Guide](https://experienceleague.adobe.com/docs/experience-manager-64/developing/home.html?lang=en)
-* [Operations Dashboard](https://experienceleague.adobe.com/docs/experience-manager-65/administering/operations/operations-dashboard.html?lang=en%20(Automated%20Maintenance%20Tasks))
-* [Release Notes for Adobe Experience Manager 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html)
-* [Experience Manager as a Cloud Service Overview](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=en)
+* [AEM 6.4 Deploying User Guide](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/home.html?lang=en){target="_blank"}
+* [AEM 6.4 Developing User Guide](https://experienceleague.adobe.com/docs/experience-manager-64/developing/home.html?lang=en){target="_blank"}
+* [Operations Dashboard](https://experienceleague.adobe.com/docs/experience-manager-65/administering/operations/operations-dashboard.html?lang=en%20(Automated%20Maintenance%20Tasks)){target="_blank"}
+* [Release Notes for Adobe Experience Manager 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html){target="_blank"}
+* [Experience Manager as a Cloud Service Overview](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=en){target="_blank"}
 * [Core Components Introduction](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/introduction.html?lang=en)
-* [AEM as Cloud Service Videos and Tutorials](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/overview.html?lang=en)
-* [Adobe Experience Manager Release Updates and Roadmap](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/home.html?lang=en)
+* [AEM as Cloud Service Videos and Tutorials](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/overview.html?lang=en){target="_blank"}
+* [Adobe Experience Manager Release Updates and Roadmap](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/home.html?lang=en){target="_blank"}
 
 **Online Sample Questions**
 
 The sample questions allow you to see the type and format of items that you will encounter in the actual exam. There is no sign-on needed. The results of the sample questions are not stored, and do not predict your actual test results.
 
-[See Sample Questions](https://scorpion.caveon.com/launchpad/ad3-e123-adobe-experience-manager-sites-developer-professional-sample-questions)
+[See Sample Questions](https://scorpion.caveon.com/launchpad/ad3-e123-adobe-experience-manager-sites-developer-professional-sample-questions){target="_blank"}
 
 * Provide your email address.
 * Answer the candidate agreement.
@@ -151,10 +151,10 @@ The sample questions allow you to see the type and format of items that you will
 
 To schedule your exam you will click on "Schedule" below. This will redirect you to the Adobe Credential Management system where you will click scheduling>then search for this exam to schedule.
 
-[Schedule AD0-E123](https://learning.adobe.com/api.certify.json)
+[Schedule AD0-E123](https://learning.adobe.com/api.certify.json){target="_blank"}
 
 **Questions**
 
 Have a question about Adobe Certification? Please email `certif@adobe.com` for additional details about the program.
 
-View the certification [FAQs](https://solutionpartners.adobe.com/solution-partners/training_and_certification/certification/certification_faq.html#).
+View the certification [FAQs](https://solutionpartners.adobe.com/solution-partners/training_and_certification/certification/certification_faq.html#){target="_blank"}.
