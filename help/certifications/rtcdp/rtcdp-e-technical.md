@@ -290,9 +290,6 @@ Adobe has provided additional study aids to help you prepare for your certificat
 
 >[!ENDTABS]
 
+Have a question about Adobe Certification? Please email `certif@adobe.com` for additional details about the program.
 
-{{$include /help/_includes/take-a-practice-test.md}}
-
-{{$include /help/_includes/get-certified.md}}
-
-{{$include /help/_includes/questions.md}}
+View the certification [FAQs](https://solutionpartners.adobe.com/solution-partners/training_and_certification/certification/certification_faq.html#).

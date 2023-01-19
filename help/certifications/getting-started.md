@@ -1,9 +1,9 @@
 ---
-title: Getting Started
-description: Getting started with technical certifications
+title: Get Started
+description: Get started with technical certifications
 ---
 
-# Getting Started {#getting-started}
+# Get started {#getting-started}
 
 <p align="left" style="font-size: xx-large;font-weight: 700">As you gain more experience, you can grow your career...</p>
 
@@ -13,7 +13,7 @@ description: Getting started with technical certifications
 <tr  style="border: 0;">
   <td>
  
-  With three levels to choose from, there's a certification for YOU!
+With three levels to choose from, there's a certification for YOU!
   </td>
 
   <td style="background-color: lightgray;border-color: white;border-style: solid;">
@@ -58,7 +58,7 @@ description: Getting started with technical certifications
 </p>
 
 
-<p align="center" style="font-size: xx-large;font-weight: 700;color: red">Job Roles</p>
+<p align="center" style="font-size: xx-large;font-weight: 700;color: black">Job Roles</p>
 
 <p align="center">
 <table>
