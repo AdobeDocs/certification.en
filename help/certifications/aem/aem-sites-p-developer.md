@@ -155,4 +155,6 @@ To schedule your exam you will click on "Schedule" below. This will redirect you
 
 **Questions**
 
-For questions please refer to these [FAQs](https://solutionpartners.adobe.com/solution-partners/training_and_certification/certification/certification_faq.html#), or [contact](https://learning.adobe.com/products-resources/contact-us.html?contactType=certificationLl3OYi/) the Adobe Credential Program Customer Support team.
+Have a question about Adobe Certification? Please [email](certif@adobe.com) for additional details about the program.
+
+View the certification [FAQs](https://solutionpartners.adobe.com/solution-partners/training_and_certification/certification/certification_faq.html#).
