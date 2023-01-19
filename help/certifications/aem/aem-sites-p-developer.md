@@ -133,7 +133,7 @@ The exam covers four domains: business analysis, reporting and dashboarding, seg
 * [AEM as Cloud Service Videos and Tutorials](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/overview.html?lang=en){target="_blank"}
 * [Adobe Experience Manager Release Updates and Roadmap](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/home.html?lang=en){target="_blank"}
 
-**Online Sample Questions**
+## Sample Questions
 
 The sample questions allow you to see the type and format of items that you will encounter in the actual exam. There is no sign-on needed. The results of the sample questions are not stored, and do not predict your actual test results.
 
@@ -147,13 +147,13 @@ The sample questions allow you to see the type and format of items that you will
 * On the last question, click Submit Exam to submit all your answers.
 * Answer the short survey.
 
-**Get Certified**
+## Get Certified
 
 To schedule your exam you will click on "Schedule" below. This will redirect you to the Adobe Credential Management system where you will click scheduling>then search for this exam to schedule.
 
 [Schedule AD0-E123](https://learning.adobe.com/api.certify.json){target="_blank"}
 
-**Questions**
+## Questions
 
 Have a question about Adobe Certification? Please email `certif@adobe.com` for additional details about the program.
 
