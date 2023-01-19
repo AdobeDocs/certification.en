@@ -322,6 +322,7 @@ Adobe has provided additional study aids to help you prepare for your certificat
 >[!ENDTABS]
 
 ## Take a Practice Test
+
 We are excited to offer free practice tests and provide a detailed coaching report upon completion of each one. You will have unlimited access to all available practice tests for Adobe's expert-level exams. Our practice tests are developed from the same blueprints as the live exams, so they can help you gauge how you are doing in each topic area. However, taking a practice test does not guarantee that you will pass the certification exam.
 
 Go to the [Adobe Credential Managment System](http://www.certmetrics.com/adobe/){target="_blank"} to launch a practice test.
@@ -332,12 +333,14 @@ Go to the [Adobe Credential Managment System](http://www.certmetrics.com/adobe/)
 
 
 ## Get Certified
+
 To schedule your exam you will click on "Schedule" below. This will redirect you to the Adobe Credential Management system where you will click scheduling>then search for this exam to schedule.
 
 * [Schedule AD7-E601](http://www.certmetrics.com/adobe/)
 * [Schedule AD0-E600](http://www.certmetrics.com/adobe/)
 
 ## Questions
+
 Have a question about Adobe Certification? Please email `certif@adobe.com` for additional details about the program.
 
 View the certification [FAQs](https://solutionpartners.adobe.com/solution-partners/training_and_certification/certification/certification_faq.html#){target="_blank"}.
