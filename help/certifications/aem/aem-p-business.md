@@ -5,6 +5,7 @@ solution: Experience Manager
 role: Developer
 ---
 # Certification Journey - Adobe Experience Manager Business Practitioner
+
 <td><p align="left" style="font-size: large;font-weight: 700; color: red">AD0-E126</p>
     </td>
     <td
