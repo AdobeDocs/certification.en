@@ -6,7 +6,10 @@ role: Developer
 recommendations: disable, exclude
 ---
 
-# Certification Journey - Adobe Real-Time Customer Data Platform - AD0-600 & AD7-E601
+# Certification Journey - Adobe Real-Time Customer Data Platform 
+<td><p align="left" style="font-size: large;font-weight: 700; color: red">AD0-600 & AD7-E601</p>
+    </td>
+    <td
 
 ## Start Your Journey toward Certification
 
