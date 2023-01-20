@@ -6,7 +6,7 @@ role: Developer
 recommendations: disable, exclude
 ---
 
-# Certification Journey - Adobe Real-Time Customer Data Platform 
+# Certification Journey - Adobe Real-Time Customer Data Platform Expert
 
 <td><p align="left" style="font-size: large;font-weight: 700; color: red">AD0-600 & AD7-E601</p>
     </td>
@@ -170,9 +170,12 @@ Section 3: Destinations (27%)
 * Apply concepts required to configure one or more Destinations when sending/exporting audiences based on business use cases
 * Demonstrate an understanding of exporting segments through Destination
 
-Take a readiness questionnaire to find out if you meet the minimum qualifications.
 
 >[!ENDTABS]
+
+## Readiness Self-Assessment
+
+Complete the [online readiness questionnaire](https://scorpion.caveon.com/launchpad/ad-q-e601-readiness-questionnaire-for-adobe-real-time-cdp-technical-practitioner-exam/ad-q-e601-readiness-questionnaire-for-adobe-real-time-cdp-technical-practitioner-exam){target="_blank"} to see if your current experience matches the recommended minimum candidate qualification.
 
 ## Get Prepped
 

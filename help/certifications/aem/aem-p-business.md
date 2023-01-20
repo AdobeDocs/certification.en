@@ -4,7 +4,7 @@ description: You have technical knowledge about audience segmentation, destinati
 solution: Experience Manager
 role: Developer
 ---
-# Certification Journey - Adobe Experience Manager Business Practitioner
+# Certification Journey - Adobe Experience Manager Business Practitioner Professional
 
 <td><p align="left" style="font-size: large;font-weight: 700; color: red">AD0-E126</p>
     </td>
