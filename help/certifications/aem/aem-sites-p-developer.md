@@ -5,6 +5,7 @@ solution: Experience Manager Sites
 role: Developer
 ---
 # Certification Journey - Adobe Experience Manager Sites Developer
+
 <td><p align="left" style="font-size: large;font-weight: 700; color: red">AD0-E123</p>
     </td>
     <td
