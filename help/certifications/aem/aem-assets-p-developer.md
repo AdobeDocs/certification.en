@@ -4,7 +4,11 @@ description: You have technical knowledge about audience segmentation, destinati
 solution: Experience Manager Assets
 role: Developer
 ---
-# Certification Journey - Adobe Experience Manager Assets
+# Certification Journey - Adobe Experience Manager Assets Developer Professional
+
+<td><p align="left" style="font-size: large;font-weight: 700; color: red">AD0-E129</p>
+    </td>
+    <td
 
 ## Start Your Journey toward Certification
 
