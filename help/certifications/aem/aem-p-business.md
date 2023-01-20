@@ -4,8 +4,10 @@ description: You have technical knowledge about audience segmentation, destinati
 solution: Experience Manager
 role: Developer
 ---
-# Certification Journey - Adobe Experience Manager Business Practitioner - AD0-E126
-
+# Certification Journey - Adobe Experience Manager Business Practitioner
+<td><p align="left" style="font-size: large;font-weight: 700; color: red">AD0-E126</p>
+    </td>
+    <td
 ## Start Your Journey toward Certification
 
 Purchase your exam voucher at Adobe Certification Voucher Center, if you have a discount, it will apply at checkout. Apply the voucher code when you schedule your exam.
