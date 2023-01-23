@@ -55,7 +55,7 @@ This is the certification for YOU!
     Exam Details:<br>
     Passing Score: 33/50<br>
     Time: 110 mins<br>
-    Cost: $225 (global) and $150 (India)<br>
+    Cost: $125 (global) and $95 (India)<br>
     Exam ID: AD0-E126
     </td>
  </tr>

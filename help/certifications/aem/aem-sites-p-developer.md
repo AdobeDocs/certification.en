@@ -45,7 +45,7 @@ This is the certification for YOU!
     Exam Details:<br>
     Passing Score: 31/50<br>
     Time: 100 mins<br>
-    Cost: $225 (global) and $150 (India)<br>
+    Cost: $125 (global) and $95 (India)<br>
     Exam ID: AD0-E123
     </td>
  </tr>
@@ -59,13 +59,6 @@ Bacon ipsum dolor amet buffalo short loin meatloaf, t-bone turkey pork hamburger
 ## Get Ready
 
 **AD0-E123 Adobe Experience Platform Sites Developer**
-
-**Minimum Candidate Experience**
-
-Defined by a team of subject matter experts, the candidate who is ready to pass the Adobe Experience Platform - Adobe Qualified exam has the following qualifications, at a minimum:
-
-* Basic know-how of Experience Platform and can navigate through the UI
-* A high-level understanding of each UI component
 
 **Exam Objectives and Scope**
 
@@ -101,8 +94,6 @@ You are not required to complete training before taking the exam, and training a
 Here are some suggested resources to help you prepare:
 
 **AD0-E123 Adobe Experience Platform Technical Foundations**
-
-The exam covers four domains: business analysis, reporting and dashboarding, segmentation and calculated metrics, general tool knowledge, and reporting.
 
 **Section 1: Configurations**
 

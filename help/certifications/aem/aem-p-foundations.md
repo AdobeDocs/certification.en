@@ -4,41 +4,58 @@ description: You have technical knowledge about audience segmentation, destinati
 solution: Experience Manager
 role: Developer
 ---
-# Certification Journey - Adobe Experience Manager
+# Certification Journey - Adobe Experience Manager Technical Foundations Professional
+
+<td><p align="left" style="font-size: large;font-weight: 700; color: red">AD0-E132</p>
+    </td>
+    <td
 
 ## Start Your Journey toward Certification
 
-Bacon ipsum dolor amet buffalo short loin meatloaf, t-bone turkey pork hamburger boudin pork chop venison ribeye cow pork belly. Chuck alcatra bacon, frankfurter t-bone salami tri-tip spare ribs ribeye venison sausage strip steak meatball landjaeger cupim. Picanha tri-tip cow fatback, swine pork loin andouille pork tail. Bresaola chicken leberkas, ground round ball tip brisket meatball corned beef sausage andouille porchetta frankfurter doner strip steak burgdoggen. Boudin landjaeger leberkas salami.
+Purchase your exam voucher at Adobe Certification Voucher Center, if you have a discount, it will apply at checkout. Apply the voucher code when you schedule your exam.
+
+If an exam is marked as retiring you will see a note at the top of this page. This indicates that you can still take it until the date specified in the note. 
+
+Your certification will be valid for two years from when you pass. We recommend taking the newer version, when possible, because it covers newer product capabilities.
+
+If you are application developer with a minimum of 12 months experience working with the AEM Platform, able to perform advanced component development, have a deep understanding of the MVC framework, aware of frameworks and libraries in AEM. If you have an understanding of the AEM development life cycle. Additionally, candidates should be familiar with the following technologies and environments:
+
+* Maven
+* Git
+* Development and packaging tools
+* Command line tools
+* JVM
+* Staging environments
+* Different AEM hosting capabilities
+* Sync content/environments together
+
+This is the certification for YOU!
 
 <table>
 <tr  style="border: 0">
 <td style="width: 160px;text-align: left">
-
-<!--- TO CHANGE BADGE : change "expert-badge.png" to "master-badge.png" or "professional-badge.png --->
-
-  <img alt="Certification Badge" style="width: 120px" src="/help/certifications/assets/expert-badge.png" />
+  <img alt="Certification Badge" style="width: 120px" src="/help/certifications/assets/professional-badge.png" />
 </td>
 <td style="width: 400px;">
-  <strong>Level of Experience: </strong> 1-3 years
+  <strong>Level of Experience: </strong> 0-12 months
 
   <strong>Intended Audience:</strong>
-  Data Architect/Engineer, Solution Architect or MSA, 
-  Enterprise Architect, Product Manager, Marketing Technology Lead
+  AEM Developers, Technical Leads
 </tr>
 </table>
 
 <table>
  <tr  style="border: 0;">
-    <td> <strong>Adobe Experience Platform</strong> </td>
+    <td> <strong>Adobe Experience Manager Technical Foundations</strong> </td>
  </tr>
 
  <tr style="border: 0;background-color: white;">
     <td>
     Exam Details:<br>
-    Passing Score: 35/50<br>
-    Time: 105 mins<br>
-    Cost: $225 (global) and $150 (India)<br>
-    Exam ID: AD0-E600
+    Passing Score: 38/60<br>
+    Time: 120 mins<br>
+    Cost: $125 (global) and $95 (India)<br>
+    Exam ID: AD0-E132
     </td>
  </tr>
 
@@ -50,35 +67,39 @@ Bacon ipsum dolor amet buffalo short loin meatloaf, t-bone turkey pork hamburger
 
 ## Get Ready
 
-**AD0-E600 Adobe Experience Platform Technical Foundations**
-
-**Minimum Candidate Experience**
-
-Defined by a team of subject matter experts, the candidate who is ready to pass the Adobe Experience Platform - Adobe Qualified exam has the following qualifications, at a minimum:
-
-* Basic know-how of Experience Platform and can navigate through the UI
-* A high-level understanding of each UI component
+**AD0-E132 Adobe Experience Manager Technical Foundations**
 
 **Exam Objectives and Scope**
 
-Section 1: Data Modeling (20%)
-* Analyze source data to evaluate primary and secondary identity for profile stitching
-* Demonstrate an understanding of how to use the UI to create/edit XDM Schemas.
-* Identify DULE Guidance
+Section 1: Content Creation (33%)
+* Manage content pages
+* Replicate content
+* Configure policies
+* Use DAM to upload and publish assets
+* Use content fragments
+* Apply procedural concepts to use components
+* Apply procedural concepts to translate content
+* Use multi-sites and live copies
 
-Section 2: Data Ingestion (36%)
-* Demonstrate how to format and prepare data for ingestion
-* Demonstrate how to connect data sources using OOTB connectors
+Section 2: Implementation (42%)
+* Apply procedural concepts to create components
+* Create editable templates
+* Create client libraries
+* Update content in CRX-DE Lite
+* Use JCR structure to navigate to nodes
+* Create experience and content fragments
+* Extend core components
+* Structure content modeling
 
-Section 3: Unifying Profiles (34%)
-* Validate Profiles and Event data post ingestion
-* Define identity name spaces
+Section 3: Setup and Deployment (13%)
+* Install bundles
+* Deploy packages
+* Install AEM instances
 
-Section 4: Activation (10%)
-* Demonstrate how to set up a destination and how segment activation works
-* Demonstrate and understanding of data access API and exporting data via Real-Time CDP
-
-Take a readiness questionnaire to find out if you meet the minimum qualifications.
+Section 4: Maintenance and User Administration (12%)
+* Manage user access
+* Modify OSGI configurations
+* Create queries
 
 ## Get Prepped
 
@@ -86,45 +107,20 @@ You are not required to complete training before taking the exam, and training a
 
 Here are some suggested resources to help you prepare:
 
-**AD0-E600 Adobe Experience Platform Technical Foundations**
+**AD0-E129 Adobe Experience Manager Assets Developers**
 
-The exam covers four domains: business analysis, reporting and dashboarding, segmentation and calculated metrics, general tool knowledge, and reporting.
+* [AEM 6.4: Back-end development for Developers](https://solutionpartners.adobe.com/training/learning_program/learningProgram52530.html){target="_blank"} 
+* [AEM as a Cloud Service: Developing for AEM](https://solutionpartners.adobe.com/training/learning_program/learningProgram53130.html){target="_blank"} 
+* [AEM 6.4: SPA: Release for Tech](https://solutionpartners.adobe.com/training/learning_program/learningProgram20014.html){target="_blank"} 
 
-**Section 1: Data Modeling**
+## Get Certified
 
-* Documentation: [Understanding Schemas](https://experienceleague.adobe.com/docs/experience-platform/xdm/schema/composition.html)
-* SPP On Demand: [Schema and XDM Overview / Adobe Experience Platform: Data Modeling and Ingestion](https://video.tv.adobe.com/v/27105)
-* SPP Challenge/Hands On: [Model data in Schemas](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/model-data-in-schemas.html)
-* Experience League Tutorial: [Schema and XDM Overview](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/schemas-and-experience-data-model.html)
+To schedule your exam you will click on "Schedule" below. This will redirect you to the Adobe Credential Management system where you will click scheduling>then search for this exam to schedule.
 
-**Section 2: Data Ingestion**
+[Schedule AD0-E132](https://learning.adobe.com/api.certify.json){target="_blank"}
 
-* Documentation: [Data Ingestion](https://experienceleague.adobe.com/docs/experience-platform/ingestion/home.html?lang=en)
-* SPP On Demand: [Adobe Experience Platform: Data Modeling and Ingestion](https://solutionpartners.adobe.com/training/learning_program/learningProgram83768.html)
+## Questions
 
-**Section 3: Unifying Profiles**
+Have a question about Adobe Certification? Please email `certif@adobe.com` for additional details about the program.
 
-* Documentation: [Identity and identity graphs](https://experienceleague.adobe.com/docs/platform-learn/tutorials/identities/understanding-identity-and-identity-graphs.html?lang=en)
-* SPP On Demand: [Experience Platform: Create and Manage Real-time Customer Profile](https://cpcontents.adobe.com/public/newlearner/newlearner_de10804e.html?accountId=32503#/course/1175314/overview?cert_id=undefined&lp_id=undefined)
-
-
-**Section 4: Activation**
-
-* Documentation: [Destinations](https://experienceleague.adobe.com/docs/experience-platform/destinations/home.html?lang=en)
-* SPP On Demand: [Adobe Experience Platform: Segmentation for Developers](https://solutionpartners.adobe.com/training/learning_program/learningProgram83769.html)
-
-**Additional Study Aid Resources**
-
-Adobe has provided additional study aids to help you prepare for your certification exam. These include content from Adobe Experience League, Adobe Digital Learning Solutions, and technical documentation
-
-+++See Resources
-
-* [Adobe Experience Platform Enablement (Partners Only)](https://solutionpartners.adobe.com/training/courses/course5250864.html)
-* [Experience Data Model (XDM) Guide](https://experienceleague.adobe.com/docs/experience-platform/xdm/home.html?lang=en)
-+++
-
-{{$include /help/_includes/take-a-practice-test.md}}
-
-{{$include /help/_includes/get-certified.md}}
-
-{{$include /help/_includes/questions.md}}
+View the certification [FAQs](https://solutionpartners.adobe.com/solution-partners/training_and_certification/certification/certification_faq.html#){target="_blank"}.

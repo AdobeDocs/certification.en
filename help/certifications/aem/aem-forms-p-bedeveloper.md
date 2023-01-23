@@ -59,7 +59,7 @@ Additionally, you should be comfortable working in Adobe Managed Services and Ad
     Exam Details:<br>
     Passing Score: 29/50<br>
     Time: 100 mins<br>
-    Cost: $225 (global) and $150 (India)<br>
+    Cost: $125 (global) and $95 (India)<br>
     Exam ID: AD0-E127
     </td>
  </tr>
@@ -111,8 +111,6 @@ You are not required to complete training before taking the exam, and training a
 Here are some suggested resources to help you prepare:
 
 **AD0-E127 Adobe Experience Manager Backend Developer**
-
-Adobe has provided additional study aids to help you prepare for your certification exam. They include content from Adobe Experience League, Adobe Digital Learning Solutions, and technical documentation. Here are some suggested resources to help you prepare:
 
 **Section 1: Forms Creation and Management**
 

@@ -62,7 +62,7 @@ This is the certification for YOU!
     Exam Details:<br>
     Passing Score: 30/50<br>
     Time: 100 mins<br>
-    Cost: $225 (global) and $150 (India)<br>
+    Cost: $125 (global) and $95 (India)<br>
     Exam ID: AD0-E129
     </td>
  </tr>
@@ -120,8 +120,6 @@ You are not required to complete training before taking the exam, and training a
 Here are some suggested resources to help you prepare:
 
 **AD0-E129 Adobe Experience Manager Assets Developers**
-
-The exam covers four domains: business analysis, reporting and dashboarding, segmentation and calculated metrics, general tool knowledge, and reporting.
 
 **Section 1: Asset Workflows**
 
