@@ -110,6 +110,7 @@ Section 5: Asset Feature Sets and Capabilities (12%)
 * Describe options to leverage AEM using Creative Cloud
 
 ## Readiness Self Assessment
+
 Take the [online readiness questionnaire](https://scorpion.caveon.com/launchpad/ad-q-e208-readiness-questionnaire-for-adobe-analytics-business-practitioner-expert-exam-copy-b9x6ey/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam){target="_blank"} to check if your current experience matches the recommended minimum candidate qualification.
 
 ## Get Prepped
