@@ -56,7 +56,7 @@ Time: 100 mins
 Cost: $225 (global) and $150 (India)
 Exam ID: AD0-E121
 
-``````    
+```
 
 ## Exam purpose
 
