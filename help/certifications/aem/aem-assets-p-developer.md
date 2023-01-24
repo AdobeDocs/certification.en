@@ -55,7 +55,7 @@ Exam ID: AD0-E129
 
 ```
 
-## Exam Purpose
+## Exam purpose
 
 Bacon ipsum dolor amet buffalo short loin meatloaf, t-bone turkey pork hamburger boudin pork chop venison ribeye cow pork belly. Chuck alcatra bacon, frankfurter t-bone salami tri-tip spare ribs ribeye venison sausage strip steak meatball landjaeger cupim. Picanha tri-tip cow fatback, swine pork loin andouille pork tail. Bresaola chicken leberkas, ground round ball tip brisket meatball corned beef sausage andouille porchetta frankfurter doner strip steak burgdoggen. Boudin landjaeger leberkas salami.
 
@@ -65,32 +65,32 @@ Bacon ipsum dolor amet buffalo short loin meatloaf, t-bone turkey pork hamburger
 
 **Exam objectives and scope**
 
-Section 1: Asset Workflows (24%)
+Section 1: Asset workflows (24%)
 * Explain the process to customize OOTB workflows
 * Identify when to create or customize Asset workflows to implement customer requirements
 * Describe the purpose of workflow launchers and how to configure them
 * Differentiate between cloud and on-premise workflows
 * Describe how to use the Workflow console to monitor status and progress
 
-Section 2: Asset Organization and the Asset Console (22%)
+Section 2: Asset organization and the asset console (22%)
 * Demonstrate how to create and organize Assets in Collections
 * Demonstrate how to organize Assets using Tags
 * Identify how to leverage OOTB Search Filters and facets
 * Describe how to Configure and Generate AEM Asset Reports
 * Describe how to manage User Permissions on Asset Folders
 
-Section 3: Asset Metadata (24%)
+Section 3: Asset metadata (24%)
 * Define Metadata schemas
 * Given a scenario, determine how to adjust the appropriate Metadata schema
 * Given a scenario, determine how Metadata profiles can be leveraged to meet requirements
 * Understand how Cascading Metadata schemas work
 
-Section 4: Asset Types (18%)
-* Describe OOTB features available for Asset Types
+Section 4: Asset types (18%)
+* Describe OOTB features available for asset types
 * Explain content fragments and content fragment models
 * Demonstrate how and when to use content fragment variations
 
-Section 5: Asset Feature Sets and Capabilities (12%)
+Section 5: Asset feature sets and capabilities (12%)
 * Describe the common use cases and benefits of using Brand Portal
 * Describe the common use cases and benefits of using Dynamic Media
 * Describe options to leverage AEM using Creative Cloud
@@ -109,13 +109,13 @@ Here are some suggested resources to help you prepare:
 
 **Section 1: Asset workflows**
 
-* [Understanding Programs](http://docs.marketo.com/display/public/DOCS/Understanding+Programs)){target="_blank"}
-* [Smart Campaign Checklist](http://docs.marketo.com/display/public/DOCS/Smart+Campaign+Checklist)){target="_blank"}
-* [Understanding Smart Campaigns](http://docs.marketo.com/display/public/DOCS/Understanding+Smart+Campaigns)){target="_blank"}
-* [Create a New Smart Campaign](http://docs.marketo.com/display/public/DOCS/Create+a+New+Smart+Campaign)){target="_blank"}
-* [Understanding Email Programs](http://docs.marketo.com/display/DOCS/Email+Programs)){target="_blank"}
-* [Understanding Event Programs](http://docs.marketo.com/display/public/DOCS/Understanding+Event+Programs)){target="_blank"}
-* [Understanding Engagement Programs](http://docs.marketo.com/display/public/DOCS/Understanding+Engagement+Programs)){target="_blank"}
+* [Understanding Programs](http://docs.marketo.com/display/public/DOCS/Understanding+Programs){target="_blank"}
+* [Smart Campaign Checklist](http://docs.marketo.com/display/public/DOCS/Smart+Campaign+Checklist){target="_blank"}
+* [Understanding Smart Campaigns](http://docs.marketo.com/display/public/DOCS/Understanding+Smart+Campaigns){target="_blank"}
+* [Create a New Smart Campaignn](http://docs.marketo.com/display/public/DOCS/Create+a+New+Smart+Campaign){target="_blank"}
+* [Marketo Product Docs](http://docs.marketo.com/display/DOCS/Email+Programs){target="_blank"}
+* [Understanding Event Programs](http://docs.marketo.com/display/public/DOCS/Understanding+Event+Programs){target="_blank"}
+* [Understanding Engagement Programs](http://docs.marketo.com/display/public/DOCS/Understanding+Engagement+Programs){target="_blank"}
 
 **Section 2: Asset organization and the asset console**
 
@@ -125,33 +125,30 @@ Here are some suggested resources to help you prepare:
 
 **Section 3: Asset metadata**
 
-* [Basic Reporting](http://docs.marketo.com/display/public/DOCS/Reporting){target="_blank"}
-* [Report Types](http://docs.marketo.com/display/DOCS/Report+Types){target="_blank"}
+* [Marketo Product Docs](http://docs.marketo.com/display/public/DOCS/Reporting){target="_blank"}
 * [Manage Report Subscriptions](http://docs.marketo.com/display/public/DOCS/Manage+Report+Subscriptions){target="_blank"}
-* [Filter Leads In a Report With a Smart List](http://docs.marketo.com/display/public/DOCS/Filter+Leads+in+a+Report+with+a+Smart+List){target="_blank"}
 
 
 **Section 4: Asset types**
 
-* [Definitive Guide to Lead Scoring](https://www.marketo.com/definitive-guides/lead-scoring/){target="_blank"}
-* [Simple Scoring](http://docs.marketo.com/display/public/DOCS/Simple+Scoring){target="_blank"}
+* [The Definitive Guide to Lead Scoring](https://www.marketo.com/definitive-guides/lead-scoring/){target="_blank"}
+* [Marketo Product Docs](http://docs.marketo.com/display/public/DOCS/Simple+Scoring){target="_blank"}
 * [Change Score](http://docs.marketo.com/display/DOCS/Change+Score){target="_blank"}
-* [Using the Lead Detail Page](http://docs.marketo.com/display/DOCS/Using+the+Lead+Detail+Page){target="_blank"}
 
 **Section 5: Asset feature sets and capabilities**
 
-* [The Definitive Guide to Marketing Automation](https://www.marketo.com/definitive-guides/marketing-automation/){target="_blank"}
-* [Blog Email Marketing vs. Marketing Automation – Marketo](http://blog.marketo.com/2012/11/what-is-the-difference-between-email-marketing-and-marketing-automation.html){target="_blank"}
+* [The Definitive Guide to Lead Scoring](https://www.marketo.com/definitive-guides/marketing-automation/){target="_blank"}
+* [Adobe Experience Cloud Blog](http://blog.marketo.com/2012/11/what-is-the-difference-between-email-marketing-and-marketing-automation.html){target="_blank"}
 * [Understanding Email Event Logging](http://docs.marketo.com/display/DOCS/Understanding+Email+Event+Logging){target="_blank"}
 * [Make an Email Operational](http://docs.marketo.com/display/DOCS/Make+an+Email+Operational){target="_blank"}
-* [Forms](http://docs.marketo.com/display/DOCS/Forms){target="_blank"}
+* [Marketo Product Docs](http://docs.marketo.com/display/DOCS/Forms){target="_blank"}
 * [Understanding Local Assets in a Program](http://docs.marketo.com/display/DOCS/Understanding+Local+Assets+in+a+Program){target="_blank"}
 
 ## Sample questions
 
 The sample questions allow you to see the type and format of items that you will encounter in the actual exam. There is no sign-on needed. The results of the sample questions are not stored, and do not predict your actual test results.
 
-[See Sample Questions](https://scorpion.caveon.com/launchpad/ad0-e129-adobe-experience-manager-assets-developer-professional-copy-ms27zq){target="_blank"}
+[See sample questions](https://scorpion.caveon.com/launchpad/ad0-e129-adobe-experience-manager-assets-developer-professional-copy-ms27zq){target="_blank"}
 
 * Provide your email address.
 * Answer the candidate agreement.
@@ -163,7 +160,7 @@ The sample questions allow you to see the type and format of items that you will
 
 ## Get certified
 
-To schedule your exam you will click on "Schedule" below. This will redirect you to the Adobe Credential Management system where you will click scheduling>then search for this exam to schedule.
+To schedule your exam you will click on "schedule" below. This will redirect you to the Adobe Credential Management system where you will click scheduling>then search for this exam to schedule.
 
 [Schedule AD0-E123](https://learning.adobe.com/api.certify.json){target="_blank"}
 
