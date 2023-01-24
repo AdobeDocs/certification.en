@@ -52,13 +52,13 @@ This is the certification for YOU!
 
 **Exam details - AD0-E121 Adobe Experience Manager Sites Business Practitioner**
  
-
 ```
 Passing Score: 32/50
 Time: 100 mins
 Cost: $225 (global) and $150 (India)
 Exam ID: AD0-E121
 ```    
+
 ## Exam purpose
 
 Bacon ipsum dolor amet buffalo short loin meatloaf, t-bone turkey pork hamburger boudin pork chop venison ribeye cow pork belly. Chuck alcatra bacon, frankfurter t-bone salami tri-tip spare ribs ribeye venison sausage strip steak meatball landjaeger cupim. Picanha tri-tip cow fatback, swine pork loin andouille pork tail. Bresaola chicken leberkas, ground round ball tip brisket meatball corned beef sausage andouille porchetta frankfurter doner strip steak burgdoggen. Boudin landjaeger leberkas salami.
