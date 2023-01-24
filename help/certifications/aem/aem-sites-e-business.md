@@ -49,11 +49,15 @@ This is the certification for YOU!
 **Intended audience:** Solution consultants, Consumer experience professionals, Product owners of solution being designed and implemented, Business analysts, Solution architects, Individuals in partner organizations and freelancers who perform an analyst job role for AEM solutions, Marketing specialists who know the features and capabilities needed to engage developers to define a solution for business needs, Customers who use the product (i.e., Power Users)
 
 **Exam details - AD0-E121 Adobe Experience Manager Sites Business Practitioner**
- 
-* Passing Score: 32/50
-* Time: 100 mins
-* Cost: $225 (global) and $150 (India)
-* Exam ID: AD0-E121
+  
+```
+
+Passing Score: 32/50
+Time: 100 mins
+Cost: $225 (global) and $150 (India)
+Exam ID: AD0-E121
+
+```
 
 ## Exam purpose
 
