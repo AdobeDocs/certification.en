@@ -4,13 +4,11 @@ description: You have technical knowledge about audience segmentation, destinati
 solution: Experience Manager Assets
 role: Developer
 ---
-# Certification Journey - Adobe Experience Manager Assets Developer Professional
+# Certification journey - Adobe Experience Manager Assets Developer professional
 
-<td><p align="left" style="font-size: large;font-weight: 700; color: red">AD0-E129</p>
-    </td>
-    <td
+Exam ID: AD0-E129
 
-## Start Your Journey toward Certification
+## Start your journey toward certification
 
 Purchase your exam voucher at Adobe Certification Voucher Center, if you have a discount, it will apply at checkout. Apply the voucher code when you schedule your exam.
 
@@ -39,45 +37,33 @@ Additionally, if you have experience with the following technologies and environ
 
 This is the certification for YOU!
 
-<table>
-<tr  style="border: 0">
-<td style="width: 160px;text-align: left">
-  <img alt="Certification Badge" style="width: 120px" src="/help/certifications/assets/professional-badge.png" />
-</td>
-<td style="width: 400px;">
-  <strong>Level of Experience: </strong> 0-12 months
+![Certification Expert Badge](/help/certifications/assets/professional-badge-small.png)
 
-  <strong>Intended Audience:</strong>
-  AEM Developers, DevOps Engineers, AEM Architects, Cloud Engineers, Site Reliability Engineers, Technical Managers, Application Operations Engineers, Systems Engineers
-</tr>
-</table>
+**Level of experience**: 0-12 months
 
-<table>
- <tr  style="border: 0;">
-    <td> <strong>Adobe Experience Manager Assets Developer</strong> </td>
- </tr>
+**Intended audience:**
+AEM Developers, DevOps Engineers, AEM Architects, Cloud Engineers, Site Reliability Engineers, Technical Managers, Application Operations Engineers, Systems Engineers
 
- <tr style="border: 0;background-color: white;">
-    <td>
-    Exam Details:<br>
-    Passing Score: 30/50<br>
-    Time: 100 mins<br>
-    Cost: $125 (global) and $95 (India)<br>
-    Exam ID: AD0-E129
-    </td>
- </tr>
+**Exam details - Adobe Experience Manager Assets Developer**
 
-</table>
+```
+
+Passing Score: 30/50
+Time: 100 mins
+Cost: $125 (global) and $95 (India)
+Exam ID: AD0-E129
+
+```
 
 ## Exam Purpose
 
 Bacon ipsum dolor amet buffalo short loin meatloaf, t-bone turkey pork hamburger boudin pork chop venison ribeye cow pork belly. Chuck alcatra bacon, frankfurter t-bone salami tri-tip spare ribs ribeye venison sausage strip steak meatball landjaeger cupim. Picanha tri-tip cow fatback, swine pork loin andouille pork tail. Bresaola chicken leberkas, ground round ball tip brisket meatball corned beef sausage andouille porchetta frankfurter doner strip steak burgdoggen. Boudin landjaeger leberkas salami.
 
-## Get Ready
+## Get ready
 
 **AD0-E129 Adobe Experience Manager Assets Developer**
 
-**Exam Objectives and Scope**
+**Exam objectives and scope**
 
 Section 1: Asset Workflows (24%)
 * Explain the process to customize OOTB workflows
@@ -109,11 +95,11 @@ Section 5: Asset Feature Sets and Capabilities (12%)
 * Describe the common use cases and benefits of using Dynamic Media
 * Describe options to leverage AEM using Creative Cloud
 
-## Readiness Self Assessment
+## Readiness self assessment
 
 Take the [online readiness questionnaire](https://scorpion.caveon.com/launchpad/ad-q-e208-readiness-questionnaire-for-adobe-analytics-business-practitioner-expert-exam-copy-b9x6ey/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam){target="_blank"} to check if your current experience matches the recommended minimum candidate qualification.
 
-## Get Prepped
+## Get prepped
 
 You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
 
@@ -121,7 +107,7 @@ Here are some suggested resources to help you prepare:
 
 **AD0-E129 Adobe Experience Manager Assets Developers**
 
-**Section 1: Asset Workflows**
+**Section 1: Asset workflows**
 
 * [Understanding Programs](http://docs.marketo.com/display/public/DOCS/Understanding+Programs)){target="_blank"}
 * [Smart Campaign Checklist](http://docs.marketo.com/display/public/DOCS/Smart+Campaign+Checklist)){target="_blank"}
@@ -131,13 +117,13 @@ Here are some suggested resources to help you prepare:
 * [Understanding Event Programs](http://docs.marketo.com/display/public/DOCS/Understanding+Event+Programs)){target="_blank"}
 * [Understanding Engagement Programs](http://docs.marketo.com/display/public/DOCS/Understanding+Engagement+Programs)){target="_blank"}
 
-**Section 2: Asset Organization and the Asset Console**
+**Section 2: Asset organization and the asset console**
 
 * [Understanding Dynamic Content](http://docs.marketo.com/display/DOCS/Understanding+Dynamic+Content){target="_blank"}
 * [Best Practices for Smart Lists](http://docs.marketo.com/display/DOCS/Best+Practices+for+Smart+Lists){target="_blank"}
 * [Tokens Overview](http://docs.marketo.com/display/DOCS/Tokens+Overview){target="_blank"}
 
-**Section 3: Asset Metadata**
+**Section 3: Asset metadata**
 
 * [Basic Reporting](http://docs.marketo.com/display/public/DOCS/Reporting){target="_blank"}
 * [Report Types](http://docs.marketo.com/display/DOCS/Report+Types){target="_blank"}
@@ -145,14 +131,14 @@ Here are some suggested resources to help you prepare:
 * [Filter Leads In a Report With a Smart List](http://docs.marketo.com/display/public/DOCS/Filter+Leads+in+a+Report+with+a+Smart+List){target="_blank"}
 
 
-**Section 4: Asset Types**
+**Section 4: Asset types**
 
 * [Definitive Guide to Lead Scoring](https://www.marketo.com/definitive-guides/lead-scoring/){target="_blank"}
 * [Simple Scoring](http://docs.marketo.com/display/public/DOCS/Simple+Scoring){target="_blank"}
 * [Change Score](http://docs.marketo.com/display/DOCS/Change+Score){target="_blank"}
 * [Using the Lead Detail Page](http://docs.marketo.com/display/DOCS/Using+the+Lead+Detail+Page){target="_blank"}
 
-**Section 5: Asset Feature Sets and Capabilities**
+**Section 5: Asset feature sets and capabilities**
 
 * [The Definitive Guide to Marketing Automation](https://www.marketo.com/definitive-guides/marketing-automation/){target="_blank"}
 * [Blog Email Marketing vs. Marketing Automation – Marketo](http://blog.marketo.com/2012/11/what-is-the-difference-between-email-marketing-and-marketing-automation.html){target="_blank"}
@@ -161,7 +147,7 @@ Here are some suggested resources to help you prepare:
 * [Forms](http://docs.marketo.com/display/DOCS/Forms){target="_blank"}
 * [Understanding Local Assets in a Program](http://docs.marketo.com/display/DOCS/Understanding+Local+Assets+in+a+Program){target="_blank"}
 
-## Sample Questions
+## Sample questions
 
 The sample questions allow you to see the type and format of items that you will encounter in the actual exam. There is no sign-on needed. The results of the sample questions are not stored, and do not predict your actual test results.
 
@@ -175,7 +161,7 @@ The sample questions allow you to see the type and format of items that you will
 * On the last question, click Submit Exam to submit all your answers.
 * Answer the short survey.
 
-## Get Certified
+## Get certified
 
 To schedule your exam you will click on "Schedule" below. This will redirect you to the Adobe Credential Management system where you will click scheduling>then search for this exam to schedule.
 
