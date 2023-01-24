@@ -4,13 +4,11 @@ description: You have technical knowledge about audience segmentation, destinati
 solution: Experience Manager Sites
 role: Developer
 ---
-# Certification Journey - Adobe Experience Manager Sites Developer Professional
+# Certification Journey - Adobe Experience Manager Sites Developer professional
 
-<td><p align="left" style="font-size: large;font-weight: 700; color: red">AD0-E123</p>
-    </td>
-    <td
-    
-## Start Your Journey toward Certification
+Exam ID: AD0-E123
+
+## Start Your journey toward certification
 
 Purchase your exam voucher at Adobe Certification Voucher Center, if you have a discount, it will apply at checkout. Apply the voucher code when you schedule your exam.
 
@@ -22,45 +20,33 @@ If you are an application developer with 0-12 months of experience working with 
 
 This is the certification for YOU!
 
-<table>
-<tr  style="border: 0">
-<td style="width: 160px;text-align: left">
-  <img alt="Certification Badge" style="width: 120px" src="/help/certifications/assets/professional-badge.png" />
-</td>
-<td style="width: 400px;">
-  <strong>Level of Experience: </strong> 0-12 months
+![Certification Expert Badge](/help/certifications/assets/professional-badge-small.png)
 
-  <strong>Intended Audience:</strong>
-  AEM Developers, Front End Developers and Software Engineers
-</tr>
-</table>
+**Level of experience:** 0-12 months
 
-<table>
- <tr  style="border: 0;">
-    <td> <strong>Adobe Experience Platform Sites Developer</strong> </td>
- </tr>
+**Intended Audience:**
+AEM Developers, Front End Developers and Software Engineers
 
- <tr style="border: 0;background-color: white;">
-    <td>
-    Exam Details:<br>
-    Passing Score: 31/50<br>
-    Time: 100 mins<br>
-    Cost: $125 (global) and $95 (India)<br>
-    Exam ID: AD0-E123
-    </td>
- </tr>
+**Exam details - Adobe Experience Platform Sites Developer**
 
-</table>
+```
 
-## Exam Purpose
+Passing Score: 31/50
+Time: 100 mins
+Cost: $125 (global) and $95 (India)
+Exam ID: AD0-E123
+
+```
+
+## Exam purpose
 
 Bacon ipsum dolor amet buffalo short loin meatloaf, t-bone turkey pork hamburger boudin pork chop venison ribeye cow pork belly. Chuck alcatra bacon, frankfurter t-bone salami tri-tip spare ribs ribeye venison sausage strip steak meatball landjaeger cupim. Picanha tri-tip cow fatback, swine pork loin andouille pork tail. Bresaola chicken leberkas, ground round ball tip brisket meatball corned beef sausage andouille porchetta frankfurter doner strip steak burgdoggen. Boudin landjaeger leberkas salami.
 
-## Get Ready
+## Get ready
 
 **AD0-E123 Adobe Experience Platform Sites Developer**
 
-**Exam Objectives and Scope**
+**Exam objectives and scope**
 
 Section 1: Configurations (26%)
 * Recognize the purpose of AEM dispatcher configurations and caching
@@ -87,7 +73,7 @@ Section 4: Environment Maintenance (22%)
 
 Take a [readiness questionnaire](https://scorpion.caveon.com/launchpad/ad-q-e123-readiness-questionnaire-for-adobe-experience-manager-sites-developer-professional-exam){target="_blank"} to find out if you meet the minimum qualifications.
 
-## Get Prepped
+## Get prepped
 
 You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
 
@@ -128,7 +114,7 @@ Here are some suggested resources to help you prepare:
 * [AEM as Cloud Service Videos and Tutorials](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/overview.html?lang=en){target="_blank"}
 * [Adobe Experience Manager Release Updates and Roadmap](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/home.html?lang=en){target="_blank"}
 
-## Sample Questions
+## Sample questions
 
 The sample questions allow you to see the type and format of items that you will encounter in the actual exam. There is no sign-on needed. The results of the sample questions are not stored, and do not predict your actual test results.
 
@@ -142,7 +128,7 @@ The sample questions allow you to see the type and format of items that you will
 * On the last question, click Submit Exam to submit all your answers.
 * Answer the short survey.
 
-## Get Certified
+## Get certified
 
 To schedule your exam you will click on "Schedule" below. This will redirect you to the Adobe Credential Management system where you will click scheduling>then search for this exam to schedule.
 
