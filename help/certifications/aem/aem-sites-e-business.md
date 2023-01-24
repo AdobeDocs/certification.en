@@ -4,13 +4,11 @@ description: You have technical knowledge about audience segmentation, destinati
 solution: Experience Manager Sites
 role: Developer
 ---
-# Certification Journey - Adobe Experience Manager Sites Business Practitioner Expert
+# Certification journey - Adobe Experience Manager Sites Business Practitioner expert
 
-<td><p align="left" style="font-size: large;font-weight: 700; color: red">AD0-E121</p>
-    </td>
-    <td
+Exam ID: AD0-E121
     
-## Start Your Journey toward Certification
+## Start your journey toward certification
 
 Purchase your exam voucher at Adobe Certification Voucher Center, if you have a discount, it will apply at checkout. Apply the voucher code when you schedule your exam.
 
@@ -44,46 +42,31 @@ Additionally, are familiar with the following technologies and environments:
 
 This is the certification for YOU!
 
-<table>
-<tr  style="border: 0">
-<td style="width: 160px;text-align: left">
-  <img alt="Certification Badge" style="width: 120px" src="/help/certifications/assets/expert-badge.png" />
-</td>
-<td style="width: 400px;">
-  <strong>Level of Experience: </strong> 1-3 years
+![Certification Expert Badge](/help/certifications/assets/expert-badge-small.png)
 
-  <strong>Intended Audience:</strong>
-  Solution consultants, Consumer experience professionals, Product owners of solution being designed and implemented, Business analysts, Solution architects, Individuals in partner organizations and freelancers who perform an analyst job role for AEM solutions, Marketing specialists who know the features and capabilities needed to engage developers to define a solution for business needs, Customers who use the product (i.e., Power Users)
 
-</tr>
-</table>
 
-<table>
- <tr  style="border: 0;">
-    <td> <strong>Adobe Experience Manager Sites Business Practitioner</strong> </td>
- </tr>
+**Level of experience**: 1-3 years
 
- <tr style="border: 0;background-color: white;">
-    <td>
-    Exam Details:<br>
-    Passing Score: 32/50<br>
-    Time: 100 mins<br>
-    Cost: $225 (global) and $150 (India)<br>
+**Intended audience:** Solution consultants, Consumer experience professionals, Product owners of solution being designed and implemented, Business analysts, Solution architects, Individuals in partner organizations and freelancers who perform an analyst job role for AEM solutions, Marketing specialists who know the features and capabilities needed to engage developers to define a solution for business needs, Customers who use the product (i.e., Power Users)
+
+**Exam details - AD0-E121 Adobe Experience Manager Sites Business Practitioner**
+ 
+
+    Passing Score: 32/50
+    Time: 100 mins
+    Cost: $225 (global) and $150 (India)
     Exam ID: AD0-E121
-    </td>
- </tr>
-
-</table>
-
-## Exam Purpose
+    
+## Exam purpose
 
 Bacon ipsum dolor amet buffalo short loin meatloaf, t-bone turkey pork hamburger boudin pork chop venison ribeye cow pork belly. Chuck alcatra bacon, frankfurter t-bone salami tri-tip spare ribs ribeye venison sausage strip steak meatball landjaeger cupim. Picanha tri-tip cow fatback, swine pork loin andouille pork tail. Bresaola chicken leberkas, ground round ball tip brisket meatball corned beef sausage andouille porchetta frankfurter doner strip steak burgdoggen. Boudin landjaeger leberkas salami.
 
-## Get Ready
+## Get ready
 
 **AD0-E121 Adobe Experience Manager Sites Business Practitioner**
 
-**Exam Objectives and Scope**
+**Exam objectives and scope**
 
 Section 1: Education (22%)
 * List relevant AEM features and capabilities
@@ -110,7 +93,7 @@ Section 4: Setup and Implementation (16%)
 
 Complete the [online readiness questionnaire](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-wdx3m2/ad-q-e121-readiness-questionnaire-for-adobe-aem-business-practitioner-expert-exam){target="_blank"} to see if your current experience matches the recommended minimum candidate qualification.
 
-## Get Prepped
+## Get prepped
 
 You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
 
@@ -147,7 +130,7 @@ Here are some suggested resources to help you prepare:
 * [Chapter 2 – Infrastructure Setting up a Caching Infrastructure](https://experienceleague.adobe.com/docs/experience-manager-learn/dispatcher-tutorial/chapter-2.html){target="_blank"} 
 * [Chapter 3 - Advanced Caching Topics](https://experienceleague.adobe.com/docs/experience-manager-learn/dispatcher-tutorial/chapter-3.html){target="_blank"} 
 
-**Section 3: Business Analysis**
+**Section 3: Business analysis**
 
 * [Develop Global Websites in AEM](https://learning.adobe.com/catalog/adobe_experiencemanager/cours000000000087076.html){target="_blank"} 
 * [AEM Core Concepts](https://experienceleague.adobe.com/docs/experience-manager-65/developing/introduction/the-basics.html?lang=en){target="_blank"} 
@@ -166,7 +149,7 @@ Here are some suggested resources to help you prepare:
 * [AEM - What will you be using?](https://experienceleague.adobe.com/docs/experience-manager-64/managing/managing-best-practices-checklist/best-practices-further-reference.html?lang=en){target="_blank"} 
 
 
-**Section 4: Setup and Implementation**
+**Section 4: Setup and implementation**
 
 * [AEM 6.4 Developing User Guide](https://experienceleague.adobe.com/docs/experience-manager-64/developing/home.html?lang=en){target="_blank"} 
 * [AEM Development](https://experienceleague.adobe.com/docs/experience-manager-65/developing/introduction/dev-guidelines-bestpractices.html?lang=en){target="_blank"} 
@@ -177,7 +160,7 @@ Here are some suggested resources to help you prepare:
 * [Search Feature](https://experienceleague.adobe.com/docs/experience-manager-64/communities/authoring/search.html?lang=en){target="_blank"} 
 * [AEM Development](https://experienceleague.adobe.com/docs/experience-manager-65/developing/introduction/dev-guidelines-bestpractices.html?lang=en){target="_blank"} 
 
-## Take a Practice Test
+## Take a practice test
 
 We are excited to offer free practice tests and provide a detailed coaching report upon completion of each one. You will have unlimited access to all available practice tests for Adobe's expert-level exams. Our practice tests are developed from the same blueprints as the live exams, so they can help you gauge how you are doing in each topic area. However, taking a practice test does not guarantee that you will pass the certification exam.
 
@@ -185,10 +168,10 @@ Go to the [Adobe Credential Managment System](http://www.certmetrics.com/adobe/)
 
 >[!NOTE]
 >
->Go to the Scheduling Page > Practice Tests > Adobe Certification Prep Portal > click on Launch Adobe Exam Prep Portal (on the far-right side).
+>Go to the scheduling page > practice tests > Adobe Certification Prep Portal > click on launch Adobe Exam Prep Portal (on the far-right side).
 
 
-## Get Certified
+## Get certified
 
 To schedule your exam you will click on "Schedule" below. This will redirect you to the Adobe Credential Management system where you will click scheduling>then search for this exam to schedule.
 
@@ -197,3 +180,5 @@ To schedule your exam you will click on "Schedule" below. This will redirect you
 ## Questions
 
 Have a question about Adobe Certification? Please email `certif@adobe.com` for additional details about the program.
+
+View the certification [FAQs](https://solutionpartners.adobe.com/solution-partners/training_and_certification/certification/certification_faq.html#){target="_blank"}.
