@@ -4,11 +4,11 @@ description: You have technical knowledge about audience segmentation, destinati
 solution: Experience Manager Sites
 role: Developer
 ---
-# Certification Journey - Adobe Experience Manager Sites Developer professional
+# Certification journey - Adobe Experience Manager Sites Developer professional
 
 Exam ID: AD0-E123
 
-## Start Your journey toward certification
+## Start your journey toward certification
 
 Purchase your exam voucher at Adobe Certification Voucher Center, if you have a discount, it will apply at checkout. Apply the voucher code when you schedule your exam.
 
@@ -24,7 +24,7 @@ This is the certification for YOU!
 
 **Level of experience:** 0-12 months
 
-**Intended Audience:**
+**Intended audience:**
 AEM Developers, Front End Developers and Software Engineers
 
 **Exam details - Adobe Experience Platform Sites Developer**
@@ -87,7 +87,7 @@ Here are some suggested resources to help you prepare:
 * [AEM 6.4 Deploying User Guide](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/home.html?lang=en){target="_blank"}
 * [Dispatcher Overview](https://experienceleague.adobe.com/docs/experience-manager-dispatcher/using/dispatcher.html?lang=en){target="_blank"}
 
-**Section 2: AEM Development**
+**Section 2: AEM development**
 
 * [AEM 6.4 Administering User Guide](https://experienceleague.adobe.com/docs/experience-manager-64/administering/home.html?lang=en){target="_blank"}
 * [AEM 6.5 Deploying User Guide](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html?lang=en){target="_blank"}
@@ -96,14 +96,14 @@ Here are some suggested resources to help you prepare:
 * [HTL Guide](https://experienceleague.adobe.com/docs/experience-manager-htl/using/overview.html?lang=en){target="_blank"}
 * [AEM Sites Component Basics](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-wknd-tutorial-develop/project-archetype/component-basics.html?lang=en){target="_blank"}
 
-**Section 3: Build and Deployment**
+**Section 3: Build and deployment**
 
 * [AEM Project Structure](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/introduction.html?lang=en){target="_blank"}
 * [Core Components Introduction](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/introduction.html?lang=en){target="_blank"}
 * [Getting Started with AEM Sites - WKND Tutorial](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-wknd-tutorial-develop/overview.html){target="_blank"}
 
 
-**Section 4: Environment Maintenance**
+**Section 4: Environment maintenance**
 
 * [AEM 6.4 Deploying User Guide](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/home.html?lang=en){target="_blank"}
 * [AEM 6.4 Developing User Guide](https://experienceleague.adobe.com/docs/experience-manager-64/developing/home.html?lang=en){target="_blank"}
