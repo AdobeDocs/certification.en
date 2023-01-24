@@ -44,8 +44,6 @@ This is the certification for YOU!
 
 ![Certification Expert Badge](/help/certifications/assets/expert-badge-small.png)
 
-
-
 **Level of experience**: 1-3 years
 
 **Intended audience:** Solution consultants, Consumer experience professionals, Product owners of solution being designed and implemented, Business analysts, Solution architects, Individuals in partner organizations and freelancers who perform an analyst job role for AEM solutions, Marketing specialists who know the features and capabilities needed to engage developers to define a solution for business needs, Customers who use the product (i.e., Power Users)
