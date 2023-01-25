@@ -5,7 +5,7 @@ description: Get started with technical certifications
 
 # Get started {#getting-started}
 
-# As you gain more experience, you can grow your career. 
+As you gain more experience, you can grow your career. 
 
 
 
