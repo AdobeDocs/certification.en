@@ -6,10 +6,9 @@ role: Developer
 ---
 # Certification Journey - Adobe Experience Manager Business Practitioner Professional
 
-<td><p align="left" style="font-size: large;font-weight: 700; color: red">AD0-E126</p>
-    </td>
-    <td
-## Start Your Journey toward Certification
+Exam ID: AD0-E126
+
+## Start your journey toward certification
 
 Purchase your exam voucher at Adobe Certification Voucher Center, if you have a discount, it will apply at checkout. Apply the voucher code when you schedule your exam.
 
@@ -29,48 +28,32 @@ And, if you are able to use AEM products to manage content to drive digital expe
 
 This is the certification for YOU!
 
-<table>
-<tr  style="border: 0">
-<td style="width: 160px;text-align: left">
+![Certification Expert Badge](/help/certifications/assets/professional-badge-small.png)
 
+**Level of experience:** 0-12 months
 
+**Intended audience:**
+Solution consultant, consumer experience, product owner for a solution being designed and implemented, business analyst, solution architect
 
-  <img alt="Certification Badge" style="width: 120px" src="/help/certifications/assets/professional-badge.png" />
-</td>
-<td style="width: 400px;">
-  <strong>Level of Experience: </strong> 0-12 months
+**Exam details - Adobe Experience Manager Business Practitioner**
 
-  <strong>Intended Audience:</strong>
-  Solution consultant, consumer experience, product owner for a solution being designed and implemented, business analyst, solution architect
-</tr>
-</table>
+```
+Passing Score: 33/50<br>
+Time: 110 mins<br>
+Cost: $125 (global) and $95 (India)<br>
+Exam ID: AD0-E126
 
-<table>
- <tr  style="border: 0;">
-    <td> <strong>Adobe Experience Manager Business Practitioner</strong> </td>
- </tr>
+```
 
- <tr style="border: 0;background-color: white;">
-    <td>
-    Exam Details:<br>
-    Passing Score: 33/50<br>
-    Time: 110 mins<br>
-    Cost: $125 (global) and $95 (India)<br>
-    Exam ID: AD0-E126
-    </td>
- </tr>
-
-</table>
-
-## Exam Purpose
+## Exam purpose
 
 Bacon ipsum dolor amet buffalo short loin meatloaf, t-bone turkey pork hamburger boudin pork chop venison ribeye cow pork belly. Chuck alcatra bacon, frankfurter t-bone salami tri-tip spare ribs ribeye venison sausage strip steak meatball landjaeger cupim. Picanha tri-tip cow fatback, swine pork loin andouille pork tail. Bresaola chicken leberkas, ground round ball tip brisket meatball corned beef sausage andouille porchetta frankfurter doner strip steak burgdoggen. Boudin landjaeger leberkas salami.
 
-## Get Ready
+## Get ready
 
 **AD0-E126 Adobe Experience Manager Business Practitioner**
 
-**Exam Objectives and Scope**
+**Exam objectives and scope**
 
 Section 1: Education (22%)
 * Identify AEM features and capabilities
@@ -83,15 +66,15 @@ Section 2: Architecture (22%)
 * Identify where to define roles and permissions
 * Given a scenario, define available caching approaches
 
-Section 3: Setup and Implementation (13%)
+Section 3: Setup and implementation (13%)
 * Identify best AEM practices to use content components
 * Given a scenario, identify the correct implementation of a feature
 
-Section 4: Setup and Implementation (13%)
+Section 4: Setup and implementation (13%)
 * Identify best AEM practices to use content components
 * Given a scenario, identify the correct implementation of a feature
 
-## Get Prepped
+## Get prepped
 
 You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
 
@@ -105,20 +88,20 @@ The exam covers four domains: business analysis, reporting and dashboarding, seg
 
 * [Authoring Guide Overview](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html?lang=en){target="_blank"} 
 * [Basic Configuration Concepts](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/configuring/configuring.html?lang=en){target="_blank"}
-* [Upgrading to AEM 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/upgrading/upgrade.html?lang=en)){target="_blank"} 
+* [Upgrading to AEM 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/upgrading/upgrade.html?lang=en){target="_blank"} 
 * [Learn About AEM 6.5 Capabilities](https://experienceleague.adobe.com/docs/experience-manager-65/user-guide/troubleshooting/learn.html?lang=en){target="_blank"}
 * [Adobe Experience Manager as a Cloud Service - Terminology](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/terminology.html?lang=en){target="_blank"}
-* [Experience Manager as a Cloud Service Overview](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=en){target="_blank"}
-* [Manage assets using Adobe Asset](https://helpx.adobe.com/enterprise/using/manage-assets-using-adobe-asset-link.html){target="_blank"}
+* [Experience Manager as a Cloud Service documentation](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=en){target="_blank"}
+* [Manage assets using Adobe Asset Link](https://helpx.adobe.com/enterprise/using/manage-assets-using-adobe-asset-link.html){target="_blank"}
 
 **Section 2: Architecture**
 
 * [AEM 6.4 Administering User Guide](https://experienceleague.adobe.com/docs/experience-manager-64/administering/home.html?lang=en){target="_blank"}
 * [Assets Guide](https://experienceleague.adobe.com/docs/experience-manager-64/assets/home.html?lang=en){target="_blank"}
-* [Experience Manager as a Cloud Service Overview](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=en){target="_blank"}
+* [Experience Manager as a Cloud Service documentation](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=en){target="_blank"}
 * [Dispatcher Overview](https://experienceleague.adobe.com/docs/experience-manager-dispatcher/using/dispatcher.html?lang=en){target="_blank"}
 
-**Section 3: Business Analysis**
+**Section 3: Business analysis**
 
 * [AEM 6.4 Managing User Guide](https://experienceleague.adobe.com/docs/experience-manager-64/managing/home.html?lang=en){target="_blank"}
 * [AEM 6.5 Administering User Guide](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html?lang=en){target="_blank"}
@@ -126,26 +109,26 @@ The exam covers four domains: business analysis, reporting and dashboarding, seg
 * [AEM 6.5 Authoring User Guide](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html?lang=en){target="_blank"}
 * [Adobe Experience Manager 6.5 Communities Guide](https://experienceleague.adobe.com/docs/experience-manager-65/communities/home.html?lang=en){target="_blank"}
 * [AEM 6.5 Developing User Guide](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html?lang=en){target="_blank"}
-* [Forms Guide](https://experienceleague.adobe.com/docs/experience-manager-65/forms/home.html?lang=en)){target="_blank"}
-* [AEM 6.5 Managing User Guide](https://experienceleague.adobe.com/docs/experience-manager-65/managing/home.html?lang=en)){target="_blank"}
-* [Introduction to Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/using/introduction-to-cloud-manager.html?lang=en){target="_blank"}
-* [Experience Manager as a Cloud Service Overview](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=en){target="_blank"}
+* [Adobe Experience Manager 6.5 Forms Guide](https://experienceleague.adobe.com/docs/experience-manager-65/forms/home.html?lang=en){target="_blank"}
+* [AEM 6.5 Managing User Guide](https://experienceleague.adobe.com/docs/experience-manager-65/managing/home.html?lang=en){target="_blank"}
+* [Introduction to Cloud Manager for AMS](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/using/introduction-to-cloud-manager.html?lang=en){target="_blank"}
+* [Experience Manager as a Cloud Service documentation](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=en){target="_blank"}
 * [AEM Screens and Best Practices Guide](https://experienceleague.adobe.com/docs/experience-manager-screens/using/about-guide.html?lang=en){target="_blank"}
 
-**Section 4: Setup and Implementation**
+**Section 4: Setup and implementation**
 
 * [AEM 6.4 Authoring User Guide](https://experienceleague.adobe.com/docs/experience-manager-64/authoring/home.html?lang=en){target="_blank"}
 * [AEM 6.4 Developing User Guide](https://experienceleague.adobe.com/docs/experience-manager-64/developing/home.html?lang=en){target="_blank"}
 * [AEM 6.5 Administering User Guide](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html?lang=en){target="_blank"}
 * [AEM Development - Guidelines and Best Practices](https://experienceleague.adobe.com/docs/experience-manager-65/developing/introduction/dev-guidelines-bestpractices.html?lang=en){target="_blank"}
 * [Integrating with Adobe Target](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/sites/integrations/integrating-adobe-target.html?lang=en){target="_blank"}
-* [AEM Sites Videos and Tutorials](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/overview.html?lang=en){target="_blank"}
+* [AEM Sites videos and tutorials](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/overview.html?lang=en){target="_blank"}
 
-## Sample Questions
+## Sample questions
 
 The sample questions allow you to see the type and format of items that you will encounter in the actual exam. There is no sign-on needed. The results of the sample questions are not stored, and do not predict your actual test results.
 
-[See Sample Questions](https://scorpion.caveon.com/launchpad/ad0-e126-adobe-experience-manager-business-practitioner-professional-copy-ddww4w){target="_blank"}
+[See sample questions](https://scorpion.caveon.com/launchpad/ad0-e126-adobe-experience-manager-business-practitioner-professional-copy-ddww4w){target="_blank"}
 
 * Provide your email address.
 * Answer the candidate agreement.
@@ -155,9 +138,9 @@ The sample questions allow you to see the type and format of items that you will
 * On the last question, click Submit Exam to submit all your answers.
 * Answer the short survey.
 
-## Get Certified
+## Get certified
 
-To schedule your exam you will click on "Schedule" below. This will redirect you to the Adobe Credential Management system where you will click scheduling>then search for this exam to schedule.
+To schedule your exam you will click on "schedule" below. This will redirect you to the Adobe Credential Management system where you will click scheduling>then search for this exam to schedule.
 
 [Schedule AD0-E126](https://learning.adobe.com/api.certify.json){target="_blank"}
 
