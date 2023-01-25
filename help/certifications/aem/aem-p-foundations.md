@@ -4,13 +4,11 @@ description: You have technical knowledge about audience segmentation, destinati
 solution: Experience Manager
 role: Developer
 ---
-# Certification Journey - Adobe Experience Manager Technical Foundations Professional
+# Certification journey - Adobe Experience Manager Technical Foundations Professional
 
-<td><p align="left" style="font-size: large;font-weight: 700; color: red">AD0-E132</p>
-    </td>
-    <td
+Exam ID: AD0-E132</p>
 
-## Start Your Journey toward Certification
+## Start your journey toward certification
 
 Purchase your exam voucher at Adobe Certification Voucher Center, if you have a discount, it will apply at checkout. Apply the voucher code when you schedule your exam.
 
@@ -31,47 +29,30 @@ If you are application developer with a minimum of 12 months experience working 
 
 This is the certification for YOU!
 
-<table>
-<tr  style="border: 0">
-<td style="width: 160px;text-align: left">
-  <img alt="Certification Badge" style="width: 120px" src="/help/certifications/assets/professional-badge.png" />
-</td>
-<td style="width: 400px;">
-  <strong>Level of Experience: </strong> 0-12 months
+![Certification Expert Badge](/help/certifications/assets/professional-badge-small.png)
 
-  <strong>Intended Audience:</strong>
-  AEM Developers, Technical Leads
-</tr>
-</table>
+**Level of experience:** 0-12 months
 
-<table>
- <tr  style="border: 0;">
-    <td> <strong>Adobe Experience Manager Technical Foundations</strong> </td>
- </tr>
+**Intended audience:**
+AEM Developers, Technical Leads
 
- <tr style="border: 0;background-color: white;">
-    <td>
-    Exam Details:<br>
-    Passing Score: 38/60<br>
-    Time: 120 mins<br>
-    Cost: $125 (global) and $95 (India)<br>
-    Exam ID: AD0-E132
-    </td>
- </tr>
+**Exam details:** Adobe Experience Manager Technical Foundations
 
-</table>
+```
+Passing Score: 38/60
+Time: 120 mins
+Cost: $125 (global) and $95 (India)
+Exam ID: AD0-E132
 
-## Exam Purpose
+```
 
-Bacon ipsum dolor amet buffalo short loin meatloaf, t-bone turkey pork hamburger boudin pork chop venison ribeye cow pork belly. Chuck alcatra bacon, frankfurter t-bone salami tri-tip spare ribs ribeye venison sausage strip steak meatball landjaeger cupim. Picanha tri-tip cow fatback, swine pork loin andouille pork tail. Bresaola chicken leberkas, ground round ball tip brisket meatball corned beef sausage andouille porchetta frankfurter doner strip steak burgdoggen. Boudin landjaeger leberkas salami.
-
-## Get Ready
+## Get ready
 
 **AD0-E132 Adobe Experience Manager Technical Foundations**
 
-**Exam Objectives and Scope**
+**Exam objectives and scope**
 
-Section 1: Content Creation (33%)
+Section 1: Content creation (33%)
 * Manage content pages
 * Replicate content
 * Configure policies
@@ -91,17 +72,17 @@ Section 2: Implementation (42%)
 * Extend core components
 * Structure content modeling
 
-Section 3: Setup and Deployment (13%)
+Section 3: Setup and deployment (13%)
 * Install bundles
 * Deploy packages
 * Install AEM instances
 
-Section 4: Maintenance and User Administration (12%)
+Section 4: Maintenance and user administration (12%)
 * Manage user access
 * Modify OSGI configurations
 * Create queries
 
-## Get Prepped
+## Get prepped
 
 You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
 
@@ -113,9 +94,9 @@ Here are some suggested resources to help you prepare:
 * [AEM as a Cloud Service: Developing for AEM](https://solutionpartners.adobe.com/training/learning_program/learningProgram53130.html){target="_blank"} 
 * [AEM 6.4: SPA: Release for Tech](https://solutionpartners.adobe.com/training/learning_program/learningProgram20014.html){target="_blank"} 
 
-## Get Certified
+## Get certified
 
-To schedule your exam you will click on "Schedule" below. This will redirect you to the Adobe Credential Management system where you will click scheduling>then search for this exam to schedule.
+To schedule your exam you will click on "schedule" below. This will redirect you to the Adobe Credential Management system where you will click scheduling>then search for this exam to schedule.
 
 [Schedule AD0-E132](https://learning.adobe.com/api.certify.json){target="_blank"}
 
