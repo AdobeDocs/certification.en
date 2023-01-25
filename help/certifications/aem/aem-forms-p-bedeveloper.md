@@ -4,7 +4,7 @@ description: You have technical knowledge about audience segmentation, destinati
 solution: Experience Manager Forms
 role: Developer
 ---
-# Certification Journey - Adobe Experience Manager Backend Forms Developer professional
+# Certification journey - Adobe Experience Manager Backend Forms Developer professional
 
 Exam ID: AD0-E127
 
@@ -39,7 +39,7 @@ This is the certification for YOU!
 **Intended audience:**
 AEM Developer, DevOps Engineer, AEM Architect, Cloud Engineer, Site Reliability Engineer, Technical Manager, Application Operations Engineer, Systems Engineer
 
-**Exam details - Adobe Experience Manager Backend Developer**
+**Exam details: Adobe Experience Manager Backend Developer**
  
 ```
 Passing Score: 29/50
