@@ -12,7 +12,7 @@ user-guide-description: Certification
 + [Renew your certification](renew.md)
 + [Restart program](restart-program.md)
 + Technical certifications {#technical-certifications}
-  + Adobe Advertising Cloud {#aac}
+  + Adobe Advertising {#aac}
     + Professional {#aac-professional}
       + [Business Practitioner (Search)](/help/certifications/aac/aac-search-p-business.md)
       + [Business Practitioner (DSP)](/help/certifications/aac/aac-dsp-p-business.md)
