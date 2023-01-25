@@ -60,10 +60,6 @@ Exam ID: AD0-E121
 
 ```
 
-## Exam purpose
-
-Bacon ipsum dolor amet buffalo short loin meatloaf, t-bone turkey pork hamburger boudin pork chop venison ribeye cow pork belly. Chuck alcatra bacon, frankfurter t-bone salami tri-tip spare ribs ribeye venison sausage strip steak meatball landjaeger cupim. Picanha tri-tip cow fatback, swine pork loin andouille pork tail. Bresaola chicken leberkas, ground round ball tip brisket meatball corned beef sausage andouille porchetta frankfurter doner strip steak burgdoggen. Boudin landjaeger leberkas salami.
-
 ## Get ready
 
 **AD0-E121 Adobe Experience Manager Sites Business Practitioner**
@@ -105,62 +101,61 @@ Here are some suggested resources to help you prepare:
 
 **Section 1: Education**
 
-* [AEM 6.5 developing user guide](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html?lang=en){target="_blank"} 
-* [Learn about AEM 6.5 capabilities](https://experienceleague.adobe.com/docs/experience-manager-65/user-guide/troubleshooting/learn.html?lang=en){target="_blank"} 
+* [AEM 6.5 Developing User Guide](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html?lang=en){target="_blank"} 
+* [Learn about AEM 6.5 Capabilities](https://experienceleague.adobe.com/docs/experience-manager-65/user-guide/troubleshooting/learn.html?lang=en){target="_blank"} 
 * [AEM Sites videos and tutorials](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/overview.html?lang=en){target="_blank"} 
 * [Launches](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/page-authoring/launches.html?lang=en){target="_blank"} 
-* [First steps for authors](https://experienceleague.adobe.com/docs/experience-manager-64/authoring/essentials/first-steps.html?lang=en){target="_blank"} 
+* [First Steps for Authors](https://experienceleague.adobe.com/docs/experience-manager-64/authoring/essentials/first-steps.html?lang=en){target="_blank"} 
 * [Content editing best practices](https://experienceleague.adobe.com/docs/campaign-classic/using/designing-content/editing-html-content/content-editing-best-practices.html?lang=en){target="_blank"} 
-* [Creating and organizing pages](https://experienceleague.adobe.com/docs/experience-manager-64/authoring/authoring/managing-pages.html?lang=en){target="_blank"} 
-* [Concept of authoring and publishing](https://experienceleague.adobe.com/docs/experience-manager-64/authoring/essentials/author.html?lang=en){target="_blank"} 
+* [Creating and Organizing Pages](https://experienceleague.adobe.com/docs/experience-manager-64/authoring/authoring/managing-pages.html?lang=en){target="_blank"} 
+* [Concept of Authoring and Publishing](https://experienceleague.adobe.com/docs/experience-manager-64/authoring/essentials/author.html?lang=en){target="_blank"} 
 
 **Section 2: Architecture**
 
-* [AEM as a Cloud service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/overview/introduction.html){target="_blank"} 
-* [AEM 6.5 capabilities](https://experienceleague.adobe.com/docs/experience-manager-65/user-guide/troubleshooting/learn.html?lang=en){target="_blank"} 
-* [Adobe Experience Manager documentation](https://experienceleague.adobe.com/docs/experience-manager.html?lang=en){target="_blank"} 
+* [An Introduction to Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/overview/introduction.html){target="_blank"} 
+* [Learn About AEM 6.5 Capabilities](https://experienceleague.adobe.com/docs/experience-manager-65/user-guide/troubleshooting/learn.html?lang=en){target="_blank"} 
+* [Adobe Experience Manager Documentation](https://experienceleague.adobe.com/docs/experience-manager.html?lang=en){target="_blank"} 
 * [Key features and capabilities](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/key-features.html?lang=en){target="_blank"} 
-* [Integrating with third-party services](https://experienceleague.adobe.com/docs/experience-manager-64/administering/integration/third-party-services.html?lang=en)
-* [Solutions integration](https://experienceleague.adobe.com/docs/experience-manager-64/administering/integration/integration.html?lang=en){target="_blank"} 
+* [Integrating with Third-Party Services](https://experienceleague.adobe.com/docs/experience-manager-64/administering/integration/third-party-services.html?lang=en)
+* [Solutions Integration](https://experienceleague.adobe.com/docs/experience-manager-64/administering/integration/integration.html?lang=en){target="_blank"} 
 * [Experience Cloud integrations overview](https://experienceleague.adobe.com/docs/core-services/interface/administration/marketing-cloud-integrations.html?lang=en){target="_blank"} 
-* [Managing user roles and permissions](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.html?lang=en){target="_blank"} 
+* [Managing User Roles and Permissions](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.html?lang=en){target="_blank"} 
 * [Roles and permissions](https://experienceleague.adobe.com/docs/mobile-services/using/get-started-ug/c-mob-roles-and-permissions.html?lang=en){target="_blank"} 
 * [Users, roles, and permissions](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/admin/users-roles-permissions.html){target="_blank"} 
-* [Manage users, groups, and user roles](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/admin-tools/brand-portal-adding-users.html?lang=en){target="_blank"} 
-* [Caching secured content](https://experienceleague.adobe.com/docs/experience-manager-dispatcher/using/configuring/permissions-cache.html?lang=en){target="_blank"} 
-* [Chapter 1 - Dispatcher concepts, patterns and antipatterns](https://experienceleague.adobe.com/docs/experience-manager-learn/dispatcher-tutorial/chapter-1.html){target="_blank"} 
-* [Chapter 2 – Infrastructure setting up a caching infrastructure](https://experienceleague.adobe.com/docs/experience-manager-learn/dispatcher-tutorial/chapter-2.html){target="_blank"} 
-* [Chapter 3 - Advanced caching topics](https://experienceleague.adobe.com/docs/experience-manager-learn/dispatcher-tutorial/chapter-3.html){target="_blank"} 
+* [Manage Users, Groups, and User Roles](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/admin-tools/brand-portal-adding-users.html?lang=en){target="_blank"} 
+* [Caching Secured Content](https://experienceleague.adobe.com/docs/experience-manager-dispatcher/using/configuring/permissions-cache.html?lang=en){target="_blank"} 
+* [Chapter 1 - Dispatcher Concepts, Patterns and Antipatterns](https://experienceleague.adobe.com/docs/experience-manager-learn/dispatcher-tutorial/chapter-1.html){target="_blank"} 
+* [Chapter 2 – Infrastructure](https://experienceleague.adobe.com/docs/experience-manager-learn/dispatcher-tutorial/chapter-2.html){target="_blank"} 
+* [Chapter 3 - Advanced Caching Topics](https://experienceleague.adobe.com/docs/experience-manager-learn/dispatcher-tutorial/chapter-3.html){target="_blank"} 
 
 **Section 3: Business analysis**
 
-* [Develop global websites in AEM](https://learning.adobe.com/catalog/adobe_experiencemanager/cours000000000087076.html){target="_blank"} 
-* [AEM core concepts](https://experienceleague.adobe.com/docs/experience-manager-65/developing/introduction/the-basics.html?lang=en){target="_blank"} 
-* [Components overview](https://experienceleague.adobe.com/docs/experience-manager-64/developing/components/components.html?lang=en){target="_blank"} 
-* [Content architecture](https://experienceleague.adobe.com/docs/experience-manager-64/developing/bestpractices/content-architecture.html?lang=en){target="_blank"} 
-* [Managing projects - best practices checklist](https://experienceleague.adobe.com/docs/experience-manager-64/managing/managing-best-practices-checklist/best-practices.html?lang=en){target="_blank"} 
-* [Considerations as projects are scoped](https://experienceleague.adobe.com/docs/experience-manager-screens/using/strategic-brief/pre-sales-considerations.html?lang=en){target="_blank"} 
+* [Develop Global Websites in AEM](https://learning.adobe.com/catalog/adobe_experiencemanager/cours000000000087076.html){target="_blank"} 
+* [AEM Core Concepts](https://experienceleague.adobe.com/docs/experience-manager-65/developing/introduction/the-basics.html?lang=en){target="_blank"} 
+* [Components Overview](https://experienceleague.adobe.com/docs/experience-manager-64/developing/components/components.html?lang=en){target="_blank"} 
+* [Content Architecture](https://experienceleague.adobe.com/docs/experience-manager-64/developing/bestpractices/content-architecture.html?lang=en){target="_blank"} 
+* [Managing Projects - Best Practices Checklist](https://experienceleague.adobe.com/docs/experience-manager-64/managing/managing-best-practices-checklist/best-practices.html?lang=en){target="_blank"} 
+* [Considerations as Projects are Scoped](https://experienceleague.adobe.com/docs/experience-manager-screens/using/strategic-brief/pre-sales-considerations.html?lang=en){target="_blank"} 
 * [Delivery and planning approach](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/planning/delivery.html){target="_blank"} 
-* [User experience prototyping](https://experienceleague.adobe.com/docs/experience-manager-screens/using/design-brief/prototypes.html?lang=en){target="_blank"} 
+* [User Experience Prototyping](https://experienceleague.adobe.com/docs/experience-manager-screens/using/design-brief/prototypes.html?lang=en){target="_blank"} 
 * [Managing legal contracts](https://experienceleague.adobe.com/docs/document-services/tutorials/usecases/legal.html?lang=en){target="_blank"} 
-* [Roles and project phases](https://experienceleague.adobe.com/docs/platform-learn/tutorials/intro-to-platform/roles-and-project-phases.html?lang=en){target="_blank"} 
+* [Roles and Project Phases](https://experienceleague.adobe.com/docs/platform-learn/tutorials/intro-to-platform/roles-and-project-phases.html?lang=en){target="_blank"} 
 * [Adobe Experience Manager and Creative Cloud integration best practices](https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/aem-cc-integration-best-practices.html?lang=en){target="_blank"} 
-* [Managing projects - best practices checklist](https://experienceleague.adobe.com/docs/experience-manager-64/managing/managing-best-practices-checklist/best-practices.html?lang=en){target="_blank"} 
+* [Managing Projects - Best Practices Checklist](https://experienceleague.adobe.com/docs/experience-manager-64/managing/managing-best-practices-checklist/best-practices.html?lang=en){target="_blank"} 
 * [Resources](https://experienceleague.adobe.com/docs/commerce-operations/operational-playbook/people/resources.html?lang=en){target="_blank"} 
-* [Adobe Experience Manager Sites: Phase 1](https://experienceleague.adobe.com/welcome/aem/part5.html){target="_blank"} 
-* [AEM - What will you be using?](https://experienceleague.adobe.com/docs/experience-manager-64/managing/managing-best-practices-checklist/best-practices-further-reference.html?lang=en){target="_blank"} 
+* [Guided Onboarding for Deployment Leaders: Adobe Experience Manager](https://experienceleague.adobe.com/welcome/aem/part5.html){target="_blank"} 
+* [The Checklist - Further Reference](https://experienceleague.adobe.com/docs/experience-manager-64/managing/managing-best-practices-checklist/best-practices-further-reference.html?lang=en){target="_blank"} 
 
 
 **Section 4: Setup and implementation**
 
-* [AEM 6.4 developing user guide](https://experienceleague.adobe.com/docs/experience-manager-64/developing/home.html?lang=en){target="_blank"} 
-* [AEM development](https://experienceleague.adobe.com/docs/experience-manager-65/developing/introduction/dev-guidelines-bestpractices.html?lang=en){target="_blank"} 
-* [Components overview](https://experienceleague.adobe.com/docs/experience-manager-64/developing/components/components.html?lang=en){target="_blank"} 
-* [Component guidelines](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/developing/guidelines.html?lang=en){target="_blank"} 
+* [AEM 6.4 Developing User Guide](https://experienceleague.adobe.com/docs/experience-manager-64/developing/home.html?lang=en){target="_blank"} 
+* [AEM Development - Guidelines and Best Practices](https://experienceleague.adobe.com/docs/experience-manager-65/developing/introduction/dev-guidelines-bestpractices.html?lang=en){target="_blank"} 
+* [Components Overview](https://experienceleague.adobe.com/docs/experience-manager-64/developing/components/components.html?lang=en){target="_blank"} 
+* [Component Guidelines](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/developing/guidelines.html?lang=en){target="_blank"} 
 * [Components](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/sites/authoring/fundamentals/components.html?lang=en){target="_blank"} 
-* [Features of the core components](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/get-started/localization.html?lang=en){target="_blank"} 
-* [Search feature](https://experienceleague.adobe.com/docs/experience-manager-64/communities/authoring/search.html?lang=en){target="_blank"} 
-* [AEM development](https://experienceleague.adobe.com/docs/experience-manager-65/developing/introduction/dev-guidelines-bestpractices.html?lang=en){target="_blank"} 
+* [Localization Features of the Core Componentss](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/get-started/localization.html?lang=en){target="_blank"} 
+* [Search Feature](https://experienceleague.adobe.com/docs/experience-manager-64/communities/authoring/search.html?lang=en){target="_blank"} 
 
 ## Take a practice test
 
