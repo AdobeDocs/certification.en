@@ -30,7 +30,6 @@ AEM Developers, Front End Developers and Software Engineers
 **Exam details - Adobe Experience Platform Sites Developer**
 
 ```
-
 Passing Score: 31/50
 Time: 100 mins
 Cost: $125 (global) and $95 (India)

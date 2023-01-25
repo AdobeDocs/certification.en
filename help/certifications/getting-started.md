@@ -5,8 +5,14 @@ description: Get started with technical certifications
 
 # Get started {#getting-started}
 
-<p align="left" style="font-size: xx-large;font-weight: 700">As you gain more experience, you can grow your career...</p>
+# As you gain more experience, you can grow your career. 
 
+With three levels to choose from, there's a certification for YOU!</p>
+
+
+![Alt text](assets/Level-new%20colors.png)
+
+Or stay with this one?
 
 <p align="center">
 <table>
