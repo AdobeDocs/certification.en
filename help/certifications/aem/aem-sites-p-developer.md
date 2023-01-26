@@ -25,7 +25,9 @@ This is the certification for YOU!
 **Level of experience:** 0-12 months
 
 **Intended audience:**
-AEM Developers, Front End Developers and Software Engineers
+* AEM Developers
+* Front End Developers
+* Software Engineers
 
 **Exam details - Adobe Experience Platform Sites Developer**
 
@@ -44,6 +46,7 @@ Exam ID: AD0-E123
 **Exam objectives and scope**
 
 Section 1: Configurations (26%)
+
 * Recognize the purpose of AEM dispatcher configurations and caching
 * Determine the correct steps to configure multi-site in AEM
 * Explain how to create and manage OSGi configurations
@@ -51,16 +54,19 @@ Section 1: Configurations (26%)
 * Determine the correct steps to configure OOTB SAML or IMS integration
 
 Section 2: AEM development (40%)
+
 * Determine the correct steps to implement core-based components
 * Connect component functionality including the HTL, models, and services
 * Given a scenario, determine the correct steps to develop workflows
 * Given a scenario, outline the purpose of content fragments or experience fragments
 
 Section 3: Build and deployment (12%)
+
 * Define Maven project structure
 * Configure projects from archetypes
 
 Section 4: Environment maintenance (22%)
+
 * Given a scenario, determine the steps required to debug issues in AEM environments
 * Explain AEM maintenance releases
 * Identify how to configure AEM across topologies
