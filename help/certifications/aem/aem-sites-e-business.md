@@ -55,6 +55,7 @@ Solution consultants, Consumer experience professionals, Product owners of solut
 
 Passing Score: 32/50
 Time: 100 mins
+Available languages: English & Japanese
 Cost: $225 (global) and $150 (India)
 Exam ID: AD0-E121
 
