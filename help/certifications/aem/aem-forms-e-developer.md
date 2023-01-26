@@ -109,6 +109,28 @@ Complete the [online readiness questionnaire](https://scorpion.caveon.com/launch
 
 You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
 
+**AD0-E125 Adobe Experience Manager Forms Developer**
+
+**Section 1: Forms creation and management**
+
+* [AEM 6.5 Developing User Guide](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html?lang=en){target="_blank"} 
+
+**Section 2: Processes and workflow**
+
+* [An Introduction to Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/overview/introduction.html){target="_blank"} 
+
+**Section 3: Administration and troubleshooting**
+
+* [Develop Global Websites in AEM](https://learning.adobe.com/catalog/adobe_experiencemanager/cours000000000087076.html){target="_blank"} 
+
+**Section 4: API endpoints and integrations**
+
+* [AEM 6.4 Developing User Guide](https://experienceleague.adobe.com/docs/experience-manager-64/developing/home.html?lang=en){target="_blank"} 
+
+**Section 5: Interactive Communication**
+
+* [AEM 6.4 Developing User Guide](https://experienceleague.adobe.com/docs/experience-manager-64/developing/home.html?lang=en){target="_blank"} 
+
 ## Take a practice test
 
 We are excited to offer free practice tests and provide a detailed coaching report upon completion of each one. You will have unlimited access to all available practice tests for Adobe's expert-level exams. Our practice tests are developed from the same blueprints as the live exams, so they can help you gauge how you are doing in each topic area. However, taking a practice test does not guarantee that you will pass the certification exam.
