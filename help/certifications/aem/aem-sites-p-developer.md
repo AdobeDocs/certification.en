@@ -25,6 +25,7 @@ This is the certification for YOU!
 **Level of experience:** 0-12 months
 
 **Intended audience:**
+
 * AEM Developers
 * Front End Developers
 * Software Engineers

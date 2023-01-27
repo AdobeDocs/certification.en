@@ -4,9 +4,9 @@ description: You have technical knowledge about audience segmentation, destinati
 solution: Experience Manager
 role: Developer
 ---
-# Certification journey - Adobe Experience Manager Technical Foundations Professional
+# Certification journey - Adobe Experience Manager Technical Foundations professional
 
-Exam ID: AD0-E132</p>
+Exam ID: AD0-E132
 
 ## Start your journey toward certification
 
@@ -34,7 +34,9 @@ This is the certification for YOU!
 **Level of experience:** 0-12 months
 
 **Intended audience:**
-AEM Developers, Technical Leads
+
+* AEM Developers
+* Technical Leads
 
 **Exam details:** Adobe Experience Manager Technical Foundations
 

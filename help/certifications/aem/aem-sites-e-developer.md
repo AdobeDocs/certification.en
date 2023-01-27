@@ -45,7 +45,10 @@ This is the certification for YOU!
 **Level of experience**: 1-3 years
 
 **Intended audience:** 
-Senior AEM Developers, Tech leads, Junior Architects
+
+* Senior AEM Developers
+* Tech leads
+* Junior Architects
 
 **Exam details - Adobe Experience Manager Sites Developer**
   

@@ -42,7 +42,14 @@ This is the certification for YOU!
 **Level of experience**: 1-3 years
 
 **Intended audience:** 
-Solution consultants, Consumer experience professionals, Product owners of solution being designed and implemented, Business analysts, Solution architects, Individuals in partner organizations and freelancers who perform an analyst job role for AEM solutions, Marketing specialists who know the features and capabilities needed to engage developers to define a solution for business needs, Customers who use the product (i.e., Power Users)
+
+* Solution consultants
+* Consumer experience professionals
+* Product owners of solution being designed and implemented
+* Business analysts
+* Solution architects
+* Individuals in partner organizations and freelancers who perform an analyst job role for AEM solutions
+* Marketing specialists who know the features and capabilities needed to engage developers to define a solution for business needs, Customers who use the product (i.e., Power Users)
 
 **Exam details - Adobe Experience Manager DevOps Engineer**
   

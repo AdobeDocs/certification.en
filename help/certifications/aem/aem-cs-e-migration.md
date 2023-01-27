@@ -44,6 +44,7 @@ This is the certification for YOU!
 **Level of experience:** 1-3 years
 
 **Intended audience:**
+
 * Developers who have experience with Adobe Experience Manager
 * Developers who have participated in at least one Cloud Migration
 * Adobe Experience Manager Sites Developers

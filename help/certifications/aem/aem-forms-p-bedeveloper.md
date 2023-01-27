@@ -37,7 +37,15 @@ This is the certification for YOU!
 **Level of experience:** 0-12 months
 
 **Intended audience:**
-AEM Developer, DevOps Engineer, AEM Architect, Cloud Engineer, Site Reliability Engineer, Technical Manager, Application Operations Engineer, Systems Engineer
+
+* AEM Developer
+* DevOps Engineer
+* AEM Architect
+* Cloud Engineer
+* Site Reliability Engineer
+* Technical Manager
+* Application Operations Engineer
+* Systems Engineer
 
 **Exam details: Adobe Experience Manager Backend Developer**
  
