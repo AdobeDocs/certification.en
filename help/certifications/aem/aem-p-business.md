@@ -4,7 +4,7 @@ description: You have technical knowledge about audience segmentation, destinati
 solution: Experience Manager
 role: Developer
 ---
-# Certification Journey - Adobe Experience Manager Business Practitioner Professional
+# Certification journey - Adobe Experience Manager Business Practitioner professional
 
 Exam ID: AD0-E126
 
@@ -33,7 +33,10 @@ This is the certification for YOU!
 **Level of experience:** 0-12 months
 
 **Intended audience:**
-Solution consultant, consumer experience, product owner for a solution being designed and implemented, business analyst, solution architect
+
+* Solution consultant
+* Consumer experience
+* Product owner for a solution being designed and implemented, business analyst, solution architect
 
 **Exam details - Adobe Experience Manager Business Practitioner**
 

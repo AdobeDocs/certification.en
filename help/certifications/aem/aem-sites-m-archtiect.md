@@ -55,6 +55,7 @@ This is the certification for YOU!
 **Level of experience**: 3-5 years
 
 **Intended audience:**
+
 * AEM Architects
 * Lead Developers
 * Technical Architects

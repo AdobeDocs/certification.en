@@ -51,7 +51,11 @@ This is the certification for YOU!
 **Level of experience**: 1-3 years
 
 **Intended audience:** 
-AEM Developers, Senior AEM Developers, AEM Consultants, AEM Architects
+
+* AEM Developers
+* Senior AEM Developers
+* AEM Consultants
+* AEM Architects
 
 **Exam details - Adobe Experience Manager Forms Developer**
   

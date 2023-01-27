@@ -42,7 +42,15 @@ This is the certification for YOU!
 **Level of experience**: 0-12 months
 
 **Intended audience:**
-AEM Developers, DevOps Engineers, AEM Architects, Cloud Engineers, Site Reliability Engineers, Technical Managers, Application Operations Engineers, Systems Engineers
+
+* AEM Developers
+* DevOps Engineers
+* AEM Architects
+* Cloud Engineers
+* Site Reliability Engineers
+* Technical Managers
+* Application Operations Engineers
+* Systems Engineers
 
 **Exam details - Adobe Experience Manager Assets Developer**
 
