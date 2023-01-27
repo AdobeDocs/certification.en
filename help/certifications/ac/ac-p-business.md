@@ -4,127 +4,178 @@ description: You have technical knowledge about audience segmentation, destinati
 solution: Adobe Commerce
 role: Developer
 ---
-# Certification Journey - Adobe Commerce
+# Certification journey - Adobe Commerce Business Practitioner
 
-## Start Your Journey toward Certification
+Exam ID: AD0-E712
 
-Bacon ipsum dolor amet buffalo short loin meatloaf, t-bone turkey pork hamburger boudin pork chop venison ribeye cow pork belly. Chuck alcatra bacon, frankfurter t-bone salami tri-tip spare ribs ribeye venison sausage strip steak meatball landjaeger cupim. Picanha tri-tip cow fatback, swine pork loin andouille pork tail. Bresaola chicken leberkas, ground round ball tip brisket meatball corned beef sausage andouille porchetta frankfurter doner strip steak burgdoggen. Boudin landjaeger leberkas salami.
+## Start your journey toward certification
 
-<table>
-<tr  style="border: 0">
-<td style="width: 160px;text-align: left">
+Purchase your exam voucher at Adobe Certification Voucher Center, if you have a discount, it will apply at checkout. Apply the voucher code when you schedule your exam.
 
-<!--- TO CHANGE BADGE : change "expert-badge.png" to "master-badge.png" or "professional-badge.png --->
+If an exam is marked as retiring you will see a note at the top of this page. This indicates that you can still take it until the date specified in the note. 
 
-  <img alt="Certification Badge" style="width: 120px" src="/help/certifications/assets/expert-badge.png" />
-</td>
-<td style="width: 400px;">
-  <strong>Level of Experience: </strong> 1-3 years
+Your certification will be valid for two years from when you pass. We recommend taking the newer version, when possible, because it covers newer product capabilities.
 
-  <strong>Intended Audience:</strong>
-  Data Architect/Engineer, Solution Architect or MSA, 
-  Enterprise Architect, Product Manager, Marketing Technology Lead
-</tr>
-</table>
+If have a minimum of 6 months hands-on experience with Magento Open Source version 2.4.3 using the LUMA or BLANK theme and basic understanding of Adobe Commerce version 2.4.3. 
 
-<table>
- <tr  style="border: 0;">
-    <td> <strong>Adobe Experience Platform</strong> </td>
- </tr>
+Additionally, if you have a basic understanding of the eCommerce experience, as well as familiarity with the following concepts:
 
- <tr style="border: 0;background-color: white;">
-    <td>
-    Exam Details:<br>
-    Passing Score: 35/50<br>
-    Time: 105 mins<br>
-    Cost: $225 (global) and $150 (India)<br>
-    Exam ID: AD0-E600
-    </td>
- </tr>
+* Digital marketing (SEO, CMS, email marketing, sales techniques [cross-sell, upsell], analytics, reporting, and monitoring)
+* Ecommerce terminology (sales/marketing strategies like omnichannel and multichannel)
+* Pricing and promotion
+* Customer purchase journey
+* Order life cycle
+* Magento Marketplace and third-party extensions
+* Security and compliance (GDPR, ADA, PCI DSS v3.2.1, PSD2)
+* Pricing and promotion
 
-</table>
+This is the certification for YOU!
 
-## Exam Purpose
+![Certification Professional Badge](/help/certifications/assets/professional-badge-small.png)
 
-Bacon ipsum dolor amet buffalo short loin meatloaf, t-bone turkey pork hamburger boudin pork chop venison ribeye cow pork belly. Chuck alcatra bacon, frankfurter t-bone salami tri-tip spare ribs ribeye venison sausage strip steak meatball landjaeger cupim. Picanha tri-tip cow fatback, swine pork loin andouille pork tail. Bresaola chicken leberkas, ground round ball tip brisket meatball corned beef sausage andouille porchetta frankfurter doner strip steak burgdoggen. Boudin landjaeger leberkas salami.
+**Level of experience:** 0-12 months
 
-## Get Ready
+**Intended audience:**
 
-**AD0-E600 Adobe Experience Platform Technical Foundations**
+* Business Analysts
+* Project Managers
+* Product Owners
+* Consultants
+* Commerce strategists
+* eCommerce Admin/Director/Manager/Consultants
+* Digital Marketing Director/Manager/Developers
+* Solution Specialists
+* Technical Account Managers
 
-**Minimum Candidate Experience**
+**Exam details - Adobe Commerce Business Practitioner**
 
-Defined by a team of subject matter experts, the candidate who is ready to pass the Adobe Experience Platform - Adobe Qualified exam has the following qualifications, at a minimum:
+```
+Passing Score: 30/50
+Time: 100 mins
+Cost: $125 (global) and $95 (India)
+Exam ID: AD0-E712
 
-* Basic know-how of Experience Platform and can navigate through the UI
-* A high-level understanding of each UI component
+```
 
-**Exam Objectives and Scope**
+## Get ready
 
-Section 1: Data Modeling (20%)
-* Analyze source data to evaluate primary and secondary identity for profile stitching
-* Demonstrate an understanding of how to use the UI to create/edit XDM Schemas.
-* Identify DULE Guidance
+**AD0-E712 Adobe Commerce Business Practitioner**
 
-Section 2: Data Ingestion (36%)
-* Demonstrate how to format and prepare data for ingestion
-* Demonstrate how to connect data sources using OOTB connectors
+**Exam objectives and scope**
 
-Section 3: Unifying Profiles (34%)
-* Validate Profiles and Event data post ingestion
-* Define identity name spaces
+Section 1: Magento open source core feature (49%)
 
-Section 4: Activation (10%)
-* Demonstrate how to set up a destination and how segment activation works
-* Demonstrate and understanding of data access API and exporting data via Real-Time CDP
+* Identify the features of Magento Open Source
+* Distinguish the correct scope and when to use each
+* Demonstrate knowledge of Catalog Management
+* Manipulate pricing by using Magento Open Source features
+* Describe the standard customer journey
+* Describe the standard order lifecycle
+* Describe the day-to-day tasks involved in Store maintenance
+* Explain the different types of content elements and when to use
 
-Take a readiness questionnaire to find out if you meet the minimum qualifications.
+Section 2: Adobe Commerce basics (14%)
 
-## Get Prepped
+* Identify the key features available in Adobe Commerce
+* Identify service Add-ons in Adobe Commerce
+* Identify hosting options for Adobe Commerce
+
+Section 3: Digital marketing and eCommerce fundamentals (24%)
+
+* Identify the basic uses of Digital Marketing tools (Google Analytics/Adobe Analytics, Google Tag Manager, Email marketing, Segmentation, Social plugins)
+* Explain the basic principles of SEO
+* Identify the basic uses of common eCommerce tools (i.e., such as shopping feeds)
+* Identify the key features of an eCommerce website
+* Identify the basic eCommerce concepts (including storefront options)
+
+Section 4: Compliance/security basics (13%)
+
+* Understand basics of compliance for privacy laws and payment security
+* Identify common security aspects of an Adobe Commerce project
+* Identify best practices and legal requirements of accessibility compliance
+
+Take a [readiness questionnaire](https://scorpion.caveon.com/launchpad/ad-q-e712-readiness-questionnaire-for-adobe-commerce-business-practitioner-professional-exam/ad-q-e712-readiness-questionnaire-for-adobe-commerce-business-practitioner-professional-exam){target="_blank"} to find out if you meet the minimum qualifications.
+
+## Get prepped
 
 You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
 
 Here are some suggested resources to help you prepare:
 
-**AD0-E600 Adobe Experience Platform Technical Foundations**
+**AD0-E712 Adobe Commerce Business Practitioner**
 
-The exam covers four domains: business analysis, reporting and dashboarding, segmentation and calculated metrics, general tool knowledge, and reporting.
+**Section 1: Magento open source core feature**
 
-**Section 1: Data Modeling**
+* [Attributes](https://docs.magento.com/user-guide/stores/attributes.html){target="_blank"}
+* [Magento 2 Module Development - Simple Hello World Module](https://www.mageplaza.com/magento-2-module-development/){target="_blank"}
+* [Related Products, Up-Sells, and Cross-Sells](https://docs.magento.com/user-guide/catalog/related-products-up-sells-cross-sells.html){target="_blank"}
+* [Point of Purchase](https://docs.magento.com/user-guide/sales/point-of-purchase.html){target="_blank"}
+* [Offline Payment Methods](https://docs.magento.com/user-guide/payment/offline-payment-methods.html){target="_blank"}
+* [SEO and Search](https://docs.magento.com/user-guide/marketing/seo-search.html){target="_blank"}
+* [Page Builder](https://docs.magento.com/user-guide/cms/page-builder.html){target="_blank"}
+* [Payments](https://docs.magento.com/user-guide/payment/payments.html){target="_blank"}
+* [Promotions](https://docs.magento.com/user-guide/marketing/promotions.html){target="_blank"}
+* [Cart Price Rules](https://docs.magento.com/user-guide/marketing/price-rules-cart.html){target="_blank"}
+* [Customers](https://docs.magento.com/user-guide/configuration/customers.html){target="_blank"}
+* [Scope](https://docs.magento.com/user-guide/configuration/scope.html){target="_blank"}
+* [All Stores](https://docs.magento.com/user-guide/stores/stores-all-stores.html){target="_blank"}
+* [Adding Store Views](https://docs.magento.com/user-guide/stores/stores-all-create-view.html){target="_blank"}
+* [Search Terms](https://docs.magento.com/user-guide/marketing/search-terms.html){target="_blank"}
 
-* Documentation: [Understanding Schemas](https://experienceleague.adobe.com/docs/experience-platform/xdm/schema/composition.html)
-* SPP On Demand: [Schema and XDM Overview / Adobe Experience Platform: Data Modeling and Ingestion](https://video.tv.adobe.com/v/27105)
-* SPP Challenge/Hands On: [Model data in Schemas](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/model-data-in-schemas.html)
-* Experience League Tutorial: [Schema and XDM Overview](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/schemas-and-experience-data-model.html)
+**Section 2: Adobe Commerce basics**
 
-**Section 2: Data Ingestion**
+* [Cloud Guide for Commerce](https://devdocs.magento.com/cloud/bk-cloud.html){target="_blank"}
+* [Magento Business Intelligence Introduction](https://docs.magento.com/mbi/getting-started/getting-started.html){target="_blank"}
+* [Content Elements](https://docs.magento.com/user-guide/cms/content-elements.html){target="_blank"}
+* [Catalog](https://docs.magento.com/user-guide/configuration/catalog.html){target="_blank"}
+* [Customers](https://docs.magento.com/user-guide/configuration/customers.html){target="_blank"}
+* [Live Search](https://docs.magento.com/user-guide/live-search/overview.html){target="_blank"}
+* [Introduction to Commerce Merchandising and Promotions](https://docs.magento.com/user-guide/marketing/merchandising.html){target="_blank"}
+* [Checkout](https://docs.magento.com/user-guide/sales/checkout-process.html){target="_blank"}
+* [Adobe Commerce Admin Systems Guide](https://docs.magento.com/user-guide/system/system.html){target="_blank"}
 
-* Documentation: [Data Ingestion](https://experienceleague.adobe.com/docs/experience-platform/ingestion/home.html?lang=en)
-* SPP On Demand: [Adobe Experience Platform: Data Modeling and Ingestion](https://solutionpartners.adobe.com/training/learning_program/learningProgram83768.html)
+**Section 3: Digital marketing and eCommerce fundamentals**
 
-**Section 3: Unifying Profiles**
+* [Promotions](https://docs.magento.com/user-guide/marketing/promotions.html){target="_blank"}
+* [Shopping Tools](https://docs.magento.com/user-guide/marketing/shopping-tools.html){target="_blank"}
+* [Communications](https://docs.magento.com/user-guide/marketing/communications.html){target="_blank"}
+* [SEO Best Practices](https://docs.magento.com/user-guide/marketing/seo-best-practices.html){target="_blank"}
+* [Using a Site Map](https://docs.magento.com/user-guide/marketing/sitemap-xml.html){target="_blank"}
+* [Customer Journey](https://docs.magento.com/user-guide/quick-tour/customer-journey.html){target="_blank"}
+* [Business Intelligence Tools](https://docs.magento.com/user-guide/reports/business-intelligence.html){target="_blank"}
+* [Checkout Options](https://docs.magento.com/user-guide/sales/checkout-options.html){target="_blank"}
+* [Basic Delivery Methods](https://docs.magento.com/user-guide/shipping/shipping-flat-rate.html){target="_blank"}
 
-* Documentation: [Identity and identity graphs](https://experienceleague.adobe.com/docs/platform-learn/tutorials/identities/understanding-identity-and-identity-graphs.html?lang=en)
-* SPP On Demand: [Experience Platform: Create and Manage Real-time Customer Profile](https://cpcontents.adobe.com/public/newlearner/newlearner_de10804e.html?accountId=32503#/course/1175314/overview?cert_id=undefined&lp_id=undefined)
 
+**Section 4: Compliance/security basics**
 
-**Section 4: Activation**
+* [Accessibility Guidelines](https://devdocs.magento.com/guides/v2.4/pattern-library/general/accessibilityguideline/accessibilityGuideline.html#visual){target="_blank"}
+* [Security](https://docs.magento.com/user-guide/stores/security.html){target="_blank"}
+* [Understanding ADA Compliance and How It Relates to eCommerce Websites](https://magento.com/blog/best-practices/understanding-ada-compliance-and-how-it-relates-ecommerce-websites){target="_blank"}
+* [Adobe Commerce Security Best Practices Guide](https://www.adobe.com/content/dam/cc/en/security/pdfs/Adobe-Magento-Commerce-Best-Practices-Guide.pdf){target="_blank"}
 
-* Documentation: [Destinations](https://experienceleague.adobe.com/docs/experience-platform/destinations/home.html?lang=en)
-* SPP On Demand: [Adobe Experience Platform: Segmentation for Developers](https://solutionpartners.adobe.com/training/learning_program/learningProgram83769.html)
+## Sample questions
 
-**Additional Study Aid Resources**
+The sample questions allow you to see the type and format of items that you will encounter in the actual exam. There is no sign-on needed. The results of the sample questions are not stored, and do not predict your actual test results.
 
-Adobe has provided additional study aids to help you prepare for your certification exam. These include content from Adobe Experience League, Adobe Digital Learning Solutions, and technical documentation
+[See sample questions](https://scorpion.caveon.com/launchpad/ad0-e712-adobe-commerce-business-practitioner-professional-copy-bujt66){target="_blank"}
 
-+++See Resources
+* Provide your email address.
+* Answer the candidate agreement.
+* Start the test.
+* Mark your answer in each question.
+* Click Next on the upper portion of the screen to save your answer and move to the next question. You may return and revise your question within the specified time.
+* On the last question, click Submit Exam to submit all your answers.
+* Answer the short survey.
 
-* [Adobe Experience Platform Enablement (Partners Only)](https://solutionpartners.adobe.com/training/courses/course5250864.html)
-* [Experience Data Model (XDM) Guide](https://experienceleague.adobe.com/docs/experience-platform/xdm/home.html?lang=en)
-+++
+## Get certified
 
-{{$include /help/_includes/take-a-practice-test.md}}
+To schedule your exam you will click on "schedule" below. This will redirect you to the Adobe Credential Management system where you will click scheduling>then search for this exam to schedule.
 
-{{$include /help/_includes/get-certified.md}}
+[Schedule AD0-E712](https://learning.adobe.com/api.certify.json){target="_blank"}
 
-{{$include /help/_includes/questions.md}}
+## Questions
+
+Have a question about Adobe Certification? Please email `certif@adobe.com` for additional details about the program.
+
+View the certification [FAQs](https://solutionpartners.adobe.com/solution-partners/training_and_certification/certification/certification_faq.html#){target="_blank"}.
