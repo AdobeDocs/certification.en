@@ -20,7 +20,7 @@ If you are an application developer with 0-12 months of experience working with 
 
 This is the certification for YOU!
 
-![Certification Expert Badge](/help/certifications/assets/professional-badge-small.png)
+![Certification Professional Badge](/help/certifications/assets/professional-badge-small.png)
 
 **Level of experience:** 0-12 months
 
