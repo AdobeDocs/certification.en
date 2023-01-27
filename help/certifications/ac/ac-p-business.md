@@ -4,7 +4,7 @@ description: You have technical knowledge about audience segmentation, destinati
 solution: Adobe Commerce
 role: Developer
 ---
-# Certification journey - Adobe Commerce Business Practitioner
+# Certification journey - Adobe Commerce Business Practitioner professional
 
 Exam ID: AD0-E712
 
