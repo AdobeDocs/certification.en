@@ -16,14 +16,15 @@ If an exam is marked as retiring you will see a note at the top of this page. Th
 
 Your certification will be valid for two years from when you pass. We recommend taking the newer version, when possible, because it covers newer product capabilities.
 
-If you have at least 3–6 months of experience with Adobe Commerce Development and are comfortable working in Adobe Commerce, have basic understanding of Adobe Commerce admin development, architecture, EAV/database, layout/UI, checkout and sales, and catalog. 
+If you are comfortable working in Adobe Commerce and have a basic understanding of Adobe Commerce admin development, architecture, EAV/database, layout/UI, checkout and sales, and catalog. 
 
-Additionally, you are familiar with the following technologies and environments:
+Additionally, if you are familiar with the following technologies and environments:
 
-* Adobe Commerce - version 2.
+* Adobe Commerce - version 2.4
 * Good understanding of PHP
 * Knowledge of MYSQL
 * Knowledge of Object-Oriented Programming
+* Knowledge of Cloud Architecture
 
 This is the certification for YOU!
 
@@ -36,17 +37,17 @@ This is the certification for YOU!
 * Developers
 * Lead Developers
 * Backend Developer
-* Full Stack Developer
 * Solution Architects
 * Technical Leaders
 
 **Exam details - Adobe Commerce Developer**
 
 ```
-Passing Score: 39/60
-Time: 120 mins
+Passing Score: 50/77
+Time: 154 mins
+Delivery: Online proctored (requires camera access)
 Cost: $125 (global) and $95 (India)
-Exam ID: AD0-E711
+Exam ID: AD0-E717
 
 ```
 
@@ -56,13 +57,13 @@ Exam ID: AD0-E711
 
 **Exam objectives and scope**
 
-Section 1: Working with Admin (6%)
+Section 1: Working with Admin (5%)
 
 * Describe how the ACL works with roles and resources
 * Identify the components to use when creating or modifying the admin grid/form
 * Identify the files to use when creating a store/admin config and menu items
 
-Section 2: Architecture (37%)
+Section 2: Architecture (29%)
 
 * Describe Magento file structure
 * Describe Magento CLI commands
@@ -78,7 +79,7 @@ Section 2: Architecture (37%)
 * Describe the Magento caching system
 * Describe stores, websites, and store views (basic understanding)
 
-Section 3: EAV/database (17%)
+Section 3: EAV/database (13%)
 
 * Given a scenario, change/add/remove attribute sets and/or attributes
 * Describe different types of attributes
@@ -86,16 +87,14 @@ Section 3: EAV/database (17%)
 * Describe models, resource models, and collections
 * Describe basics of Entity Attribute Value (EAV)
 
-Section 4: Layout/UI (18%)
+Section 4: Layout/UI (15%)
 
-* Describe usage of CMS pages and blocks
-* Given a scenario, modify layout
-* Given a scenario, modify page style
-* Describe theme structure
-* Given a scenario, work with JavaScript files (basic)
-* Describe front-end usage of customer data
+* Apply changes to existing product types and create new ones
+* Modify and extend existing Catalog entities
+* Demonstrate the ability to manage Indexes and customize price output
+* Explain how multi-source inventory impacts stock (program level)
 
-Section 5: Checkout and sales (12%)
+Section 5: Checkout and sales (8%)
 
 * Describe cart components
 * Describe a cart promo rule
@@ -104,12 +103,41 @@ Section 5: Checkout and sales (12%)
 * Given a scenario, configure the payment and shipping methods
 * Given a scenario, configure tax rules, currencies, cart, and/or checkout
 
-Section 6: Catalog(10%)
+Section 6: Catalog(8%)
 
 * Identify the basics of category management and products management
 * Describe product types
 * Describe price rules
 * Describe price types
+
+Section 7: Adobe Commerce Cloud architecture (12%)
+
+* Define Adobe Commerce architecture/environment workflow
+* Describe cloud project files, permission, and structure
+* List services available on Adobe Commerce on Cloud
+* Describe how to access different types of logs
+* Describe steps for applying patches (Identify which folder to put patches in)
+* Describe how to Maintain and upgrade ECE tools
+* Identify when to call support *Yaml files and limitations (DIY vs Support tickets)
+
+Section 8: Setup/Configuring Adobe Commerce Cloud (4%)
+
+* Identify how to setup/configure Adobe Commerce Cloud
+* Define Basic Cloud troubleshooting (Hierarchy of web UI and variables, configurations precedence)
+* Recognize basic knowledge of cloud user management and onboarding UI
+* Describe environment Management using UI
+* Describe branching using UI
+* Identify Adobe commerce Cloud Plan capabilities
+
+Section 9: Commerce Cloud CLI tool (Managing part) (6%)
+
+* Describe exclusive features of Adobe Commerce Cloud CLI tool (CLI exclusive features: activate emails, rebase environments, snapshot, db dump, local environment setup)
+* Describe branching using the Adobe Commerce Cloud CLI tool
+* Identify ways to connect to cloud services? (My SQL, Redis, tunnel:info)
+
+## Readiness Self-Assessment
+
+Complete the [online readiness questionnaire](https://scorpion.caveon.com/launchpad/ad-q-e717-readiness-questionnaire-for-adobe-commerce-developer-professional/ad-q-e717-readiness-questionnaire-for-adobe-commerce-developer-professional) to see if your current experience matches the recommended minimum candidate qualification.
 
 ## Get prepped
 
@@ -117,7 +145,7 @@ You are not required to complete training before taking the exam, and training a
 
 Here are some suggested resources to help you prepare:
 
-**AD0-E711 Adobe Commerce Developer**
+**AD0-E717 Adobe Commerce Developer**
 
 **Section 1: Working with Admin**
 
@@ -186,11 +214,22 @@ Here are some suggested resources to help you prepare:
 * [Catalog Price Rules](https://docs.magento.com/user-guide/marketing/price-rules-catalog.html){target="_blank"}
 * [Advanced Pricing](https://docs.magento.com/user-guide/catalog/pricing.html){target="_blank"}
 
+**Additional resources**
+
+* [Component Development](https://developer.adobe.com/commerce/php/development/components/){target="_blank"}
+* [Deployment Overview: Pipeline Deployment](https://devdocs.magento.com/guides/v2.4/config-guide/deployment/){target="_blank"}
+* [Introduction to UI components](https://devdocs.magento.com/guides/v2.4/ui_comp_guide/bk-ui_comps.html){target="_blank"}
+* [Admin development](https://developer.adobe.com/commerce/php/tutorials/admin/){target="_blank"}
+* [Frontend development](https://developer.adobe.com/commerce/php/tutorials/frontend/){target="_blank"}
+* [Order Management](https://docs.magento.com/user-guide/sales/order-management.html){target="_blank"}
+* [Deployment Best Practices](https://devdocs.magento.com/cloud/trouble/trouble.html){target="_blank"}
+* [Commerce on Cloud Infrastructure](https://devdocs.magento.com/cloud/bk-cloud.html){target="_blank"}
+
 ## Sample questions
 
 The sample questions allow you to see the type and format of items that you will encounter in the actual exam. There is no sign-on needed. The results of the sample questions are not stored, and do not predict your actual test results.
 
-[See sample questions](https://scorpion.caveon.com/launchpad/ad3-e711-adobe-commerce-developer-certified-professional-sample-questions){target="_blank"}
+[See sample questions](https://scorpion.caveon.com/launchpad/template-for-exam-projects-copy-1fgbcj){target="_blank"}
 
 * Provide your email address.
 * Answer the candidate agreement.
@@ -204,7 +243,7 @@ The sample questions allow you to see the type and format of items that you will
 
 To schedule your exam you will click on "schedule" below. This will redirect you to the Adobe Credential Management system where you will click scheduling>then search for this exam to schedule.
 
-[Schedule AD0-E711](https://learning.adobe.com/api.certify.json){target="_blank"}
+[Schedule AD0-E717](https://learning.adobe.com/api.certify.json){target="_blank"}
 
 ## Questions
 

@@ -93,6 +93,8 @@ Section 4: Environment maintenance (24%)
 * Recommend and implement solutions to sync content/configurations across AEM environments
 * Determine the steps required around planning and implementing AEM upgrades and repository migration activities/tasks
 
+## Readiness Self-Assessment
+
 Complete the [online readiness questionnaire](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-9ts38u/ad-q-e116-readiness-questionnaire-for-adobe-aem-developer-expert-exam){target="_blank"} to see if your current experience matches the recommended minimum candidate qualification.
 
 ## Get prepped
