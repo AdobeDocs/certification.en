@@ -6,7 +6,7 @@ role: Developer
 ---
 # Certification journey - Adobe Commerce Developer professional
 
-Exam ID: AD0-E711
+Exam ID: AD0-E717
 
 ## Start your journey toward certification
 
