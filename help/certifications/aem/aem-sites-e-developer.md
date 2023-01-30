@@ -56,6 +56,7 @@ This is the certification for YOU!
 
 Passing Score: 32/50
 Time: 100 mins
+Delivery: Online proctored (requires camera access) or test center proctored
 Available languages: English & Japanese
 Cost: $225 (global) and $150 (India)
 Exam ID: AD0-E116
@@ -69,6 +70,7 @@ Exam ID: AD0-E116
 **Exam objectives and scope**
 
 Section 1: Configurations (22%)
+
 * Identify the steps to create and manage AEM dispatcher configurations
 * Determine the correct steps to configure multi-tenancy
 * Explain how to create and manage OSGi configurations
@@ -76,6 +78,7 @@ Section 1: Configurations (22%)
 * Determine the correct steps to configure OOTB SAML and LDAP integration
 
 Section 2: AEM development (46%)
+
 * Determine the correct steps to implement SPA structure and components
 * Given a design, create complex components including the HTL, models, and services
 * Determine the correct method to create unit tests and map mock data
@@ -84,10 +87,12 @@ Section 2: AEM development (46%)
 * Determine the approach to implement a headless or hybrid implementation
 
 Section 3: Build and deployment (8%)
+
 * Identify the steps to set up and maintain front-end and back-end dependency management
 * Determine the correct usage of each archetype when building projects
 
 Section 4: Environment maintenance (24%)
+
 * Given a scenario, determine the steps required to manage AEM environments
 * Explain the setup steps around release management
 * Recommend and implement solutions to sync content/configurations across AEM environments
