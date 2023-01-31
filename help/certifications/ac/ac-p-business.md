@@ -16,7 +16,7 @@ If an exam is marked as retiring you will see a note at the top of this page. Th
 
 Your certification will be valid for two years from when you pass. We recommend taking the newer version, when possible, because it covers newer product capabilities.
 
-If have a minimum of 6 months hands-on experience with Magento Open Source version 2.4.3 using the LUMA or BLANK theme and basic understanding of Adobe Commerce version 2.4.3. 
+If you have a minimum of 6 months hands-on experience with Magento Open Source version 2.4.3 using the LUMA or BLANK theme and basic understanding of Adobe Commerce version 2.4.3. 
 
 Additionally, if you have a basic understanding of the eCommerce experience, as well as familiarity with the following concepts:
 
