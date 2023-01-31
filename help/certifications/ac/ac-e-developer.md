@@ -6,8 +6,8 @@ role: Developer
 ---
 # Certification journey - Adobe Commerce Developer expert
 
-Exam ID: AD0-E
-
+Exam ID: AD0-E716
+    
 ## Start your journey toward certification
 
 Purchase your exam voucher at Adobe Certification Voucher Center, if you have a discount, it will apply at checkout. Apply the voucher code when you schedule your exam.
@@ -16,163 +16,261 @@ If an exam is marked as retiring you will see a note at the top of this page. Th
 
 Your certification will be valid for two years from when you pass. We recommend taking the newer version, when possible, because it covers newer product capabilities.
 
-If have a minimum of 6 months hands-on experience with Magento Open Source version 2.4.3 using the LUMA or BLANK theme and basic understanding of Adobe Commerce version 2.4.3. 
+If you have at least 2 years of experience with Adobe Commerce Development and you're with the following technologies and environments:
 
-Additionally, if you have a basic understanding of the eCommerce experience, as well as familiarity with the following concepts:
-
-* Digital marketing (SEO, CMS, email marketing, sales techniques [cross-sell, upsell], analytics, reporting, and monitoring)
-* Ecommerce terminology (sales/marketing strategies like omnichannel and multichannel)
-* Pricing and promotion
-* Customer purchase journey
-* Order life cycle
-* Magento Marketplace and third-party extensions
-* Security and compliance (GDPR, ADA, PCI DSS v3.2.1, PSD2)
-* Pricing and promotion
+* Adobe Commerce - version 2.4
+* PHP
+* XDebug/PHP debugging tools, browser debugging tools
+* Linting tools
+* Composer
+* SSH, basic Linux
+* Redis, Elasticsearch, SQL, Varnish, RabbitMQ
+* API validation tools, API client tools (Postman)
+* Version control software such as Git
+* Cloud Architecture
 
 This is the certification for YOU!
 
-![Certification Professional Badge](/help/certifications/assets/professional-badge-small.png)
+![Certification Expert Badge](/help/certifications/assets/expert-badge-small.png)
 
-**Level of experience:** 0-12 months
+**Level of experience**: 1-3 years
 
-**Intended audience:**
+**Intended audience:** 
 
-* Business Analysts
-* Project Managers
-* Product Owners
-* Consultants
-* Commerce strategists
-* eCommerce Admin/Director/Manager/Consultants
-* Digital Marketing Director/Manager/Developers
-* Solution Specialists
-* Technical Account Managers
+* Developers
+* Lead Developers
+* Backend Developer
+* Solution Architects
+* Technical Leaders
 
-**Exam details - Adobe Commerce Business Practitioner**
-
+**Exam details - Adobe Commerce Developer**
+  
 ```
-Passing Score: 30/50
-Time: 100 mins
-Cost: $125 (global) and $95 (India)
-Exam ID: AD0-E712
+
+Passing Score: 41/69
+Time: 138 mins
+Delivery: Online proctored (requires camera access)
+Available languages: English
+Cost: $225 (global) and $150 (India)
+Exam ID: AD0-E716
 
 ```
 
 ## Get ready
 
-**AD0-E712 Adobe Commerce Business Practitioner**
+**AD0-E716 Adobe Commerce Developer expert**
 
 **Exam objectives and scope**
 
-Section 1: Magento open source core feature (49%)
+Section 1: Adobe Commerce Architecture and Customization Techniques (36%)
 
-* Identify the features of Magento Open Source
-* Distinguish the correct scope and when to use each
-* Demonstrate knowledge of Catalog Management
-* Manipulate pricing by using Magento Open Source features
-* Describe the standard customer journey
-* Describe the standard order lifecycle
-* Describe the day-to-day tasks involved in Store maintenance
-* Explain the different types of content elements and when to use
+* Demonstrate how to effectively use cache in Adobe Commerce
+* Build, use, and manipulate custom extension attributes
+* Recommend solutions for how to apply theme custom updates to product/category pages
+* Correctly apply observers, preferences, and plugins (effects of sort order)
+* Demonstrate the ability to use the configuration layer in Adobe Commerce
+* Demonstrate knowledge of how routes work in Adobe Commerce
+* Demonstrate ability to customize pagebuilder
+* Determine the effects and constraints of configuring multiple sites on a single instance
+* Describe the capabilities and constraints of dependency injection
+* Describe how to add and configure fields in store settings
+* Explain the use cases for Git patches and the file level modifications in Composer
+* Create new commands in CLI
+* Demonstrate how to write an integration test
+* Identify Adobe Commerce security feature (CSP, escaping, form keys, sanitization, reCAPTCHA, input validation)
+* Explain how the CRON scheduling system works
+* Demonstrate the ability to load and manipulate data
+* Demonstrate the ability to use App emulation
 
-Section 2: Adobe Commerce basics (14%)
+Section 2: Working with Databases and EAV (10%)
 
-* Identify the key features available in Adobe Commerce
-* Identify service Add-ons in Adobe Commerce
-* Identify hosting options for Adobe Commerce
+* Manipulate EAV attributes and attribute sets programmatically
+* Demonstrate the ability to extend the database schema
+* Demonstrate the ability to import / export data from Adobe Commerce
+* Describe how to use patches and recurring set ups to modify the database
 
-Section 3: Digital marketing and eCommerce fundamentals (24%)
+Section 3: Developing with Admin (6%)
 
-* Identify the basic uses of Digital Marketing tools (Google Analytics/Adobe Analytics, Google Tag Manager, Email marketing, Segmentation, Social plugins)
-* Explain the basic principles of SEO
-* Identify the basic uses of common eCommerce tools (i.e., such as shopping feeds)
-* Identify the key features of an eCommerce website
-* Identify the basic eCommerce concepts (including storefront options)
+* Demonstrate the ability to update and create grids and forms
+* Extend Grid actions
+* Demonstrate the ability to create modifier classes
+* Demonstrate the ability to restrict access to ACL
 
-Section 4: Compliance/security basics (13%)
+Section 4: Customizing the Catalog (6%)
 
-* Understand basics of compliance for privacy laws and payment security
-* Identify common security aspects of an Adobe Commerce project
-* Identify best practices and legal requirements of accessibility compliance
+* Apply changes to existing product types and create new ones
+* Modify and extend existing Catalog entities
+* Demonstrate the ability to manage Indexes and customize price output
+* Explain how multi-source inventory impacts stock (program level)
 
-Take a [readiness questionnaire](https://scorpion.caveon.com/launchpad/ad-q-e712-readiness-questionnaire-for-adobe-commerce-business-practitioner-professional-exam/ad-q-e712-readiness-questionnaire-for-adobe-commerce-business-practitioner-professional-exam){target="_blank"} to find out if you meet the minimum qualifications.
+Section 5: Customizing Sales Operations 6%)
+
+* Demonstrate the ability to develop new payment methods or customize existing payment methods
+* Demonstrate the ability to add and customize shipping methods
+* Demonstrate the ability to customize sales operations
+* Explain how to customize totals
+
+Section 6: APIs and Services (4%)
+
+* Demonstrate the ability to create new APIs or extend existing APIs
+* Demonstrate the ability to use the queuing system
+
+Section 7: Adobe Commerce Cloud architecture (16%)
+
+* Demonstrate knowledge of Adobe Commerce architecture/environment workflow
+* Demonstrate a working knowledge of cloud project files, permission, and structure
+* Demonstrate the ability to setup multi domain based stores on Adobe Commerce Cloud (multi domain sites mix of dev work and support)
+* Demonstrate a general knowledge of application services and how to manage them (YAML , PHP, MariaDB, Redis, RabbitMQ, etc)
+* Identify how to access different types of logs
+* Demonstrate the ability to deploy a project (Main steps of deployment)
+* Define features provided by ECE tools
+* Identify uses for ECE patches (Security breach)
+* Describe how to Maintain and upgrade ECE tools
+* Distinguish when to contact support *Yaml files and limitations (DIY vs Support tickets)
+* Demonstrate basic knowledge of OOTB FASTLY features configuration and installation
+
+Section 8: Setup/Configuring Adobe Commerce Cloud (10%)
+
+* Describe how to setup/configure Adobe Commerce Cloud
+* Apply Basic Cloud troubleshooting knowledge (Hierarchy of web UI and variables, configurations precedence)
+* Demonstrate understanding of cloud user management and onboarding UI
+* Describe how to update cloud variables using UI
+* Describe environment Management using UI
+* Demonstrate understanding of branching using UI
+* Identify Adobe commerce Cloud Plan capabilities
+
+Section 9: Commerce Cloud CLI tool (Managing part) (6%)
+
+* Demonstrate understanding of updating cloud variables using CLI
+* Demonstrate understanding of environment Management using CLI (CLI exclusive features :activate emails, rebase environments, snapshot, db dump, local environment setup)
+* Demonstrate understanding of branching using CLI
+* Demonstrate how to troubleshoot to cloud services? (My SQL, Redis, tunnel:info)
+
+## Readiness Self-Assessment
+
+Complete the [online readiness questionnaire](https://scorpion.caveon.com/launchpad/ad-q-e716-readiness-questionnaire-for-adobe-commerce-developer-expert/ad-q-e716-readiness-questionnaire-for-adobe-commerce-developer-expert){target="_blank"} to see if your current experience matches the recommended minimum candidate qualification.
 
 ## Get prepped
 
 You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
 
-Here are some suggested resources to help you prepare:
+**AD0-E716 Adobe Commerce Developer expert**
 
-**AD0-E712 Adobe Commerce Business Practitioner**
+**Section 1: Adobe Commerce Architecture and customization techniques**
 
-**Section 1: Magento open source core feature**
+* [ Commerce for developers - Overview](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-1-1-overview.html?lang=en#video-content){target="_blank"}
+* [Commerce for developers - Development workflow](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-1-2-workflow.html?lang=en){target="_blank"}
+* [Commerce for developers - Code base](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-4-code-base.html?lang=en){target="_blank"}
+* [Commerce for developers - Exercises](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-6-practice.html?lang=en){target="_blank"} 
+* [Magento 2 Development Essentials](https://learning.adobe.com/catalog/adobe_commerce/cours000000000096867.html){target="_blank"} 
+* [Adobe Commerce Cloud: Magento Commerce - Back-End Developer](https://learning.adobe.com/learning-path/adobe_commerce/curra000000000006251.html){target="_blank"} 
+* [Adobe Commerce 2.4 Developer Guide](https://devdocs.magento.com/){target="_blank"} 
+* [Partial caching](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/cache/partial-caching.html){target="_blank"} 
+* [Page Caching](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/cache/page-caching.html){target="_blank"} 
+* [Add extension attributes to entities](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/extension_attributes/adding-attributes.html){target="_blank"} 
+* [Categories - Design settings](https://docs.magento.com/user-guide/catalog/categories-custom-design.html){target="_blank"} 
+* [Create a module](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/create-module.html?lang=en){target="_blank"} 
+* [Component development](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/module-development.html){target="_blank"} 
+* [Commerce for developers - development basics](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-5-1-dev-basics.html?lang=en){target="_blank"} 
+* [Commerce for developers - Post install](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-3-post-install.html?lang=en){target="_blank"} 
+* [Commerce for developers - Routing](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-5-3-routing.html?lang=en){target="_blank"} 
+* [Create a New Page](https://devdocs.magento.com/videos/fundamentals/create-a-new-page/){target="_blank"} 
+* [Page Builder](https://docs.magento.com/user-guide/cms/page-builder.html){target="_blank"} 
+* [What is Page Builder](https://devdocs.magento.com/page-builder/docs/){target="_blank"} 
+* [Set up multiple websites or stores](https://devdocs.magento.com/cloud/project/project-multi-sites.html){target="_blank"} 
+* [Multiple websites or stores](https://devdocs.magento.com/guides/v2.4/config-guide/multi-site/ms_over.html){target="_blank"} 
+* [Dependency injection example](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/dependency-injection.html?lang=en){target="_blank"} 
+* [System.xml reference](https://devdocs.magento.com/guides/v2.4/config-guide/prod/config-reference-systemxml.html){target="_blank"} 
+* [Commerce for developers - Installation](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-2-install.html?lang=en){target="_blank"} 
+* [Apply patches](https://devdocs.magento.com/cloud/project/project-patch.html){target="_blank"} 
+* [Add CLI Commands](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/cli-cmds/cli-add.html){target="_blank"} 
+* [Integration testing](https://devdocs.magento.com/guides/v2.4/test/integration/integration_test_execution.html){target="_blank"} 
+* [Security](https://devdocs.magento.com/guides/v2.4/architecture/security_intro.html){target="_blank"} 
+* [Cron (scheduled tasks)](https://docs.magento.com/user-guide/system/cron.html){target="_blank"} 
+* [Configure cron jobs](https://devdocs.magento.com/guides/v2.4/config-guide/cli/config-cli-subcommands-cron.html){target="_blank"} 
+* [Cron jobs](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/crons/custom-cron.html){target="_blank"} 
+* [Crons property](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/app/properties/crons-property.html){target="_blank"} 
+* [Architectural layers overview](https://developer.adobe.com/commerce/php/architecture/layers/){target="_blank"} 
+* [Modules and areas](https://developer.adobe.com/commerce/php/architecture/modules/areas/){target="_blank"} 
 
-* [Attributes](https://docs.magento.com/user-guide/stores/attributes.html){target="_blank"}
-* [Magento 2 Module Development - Simple Hello World Module](https://www.mageplaza.com/magento-2-module-development/){target="_blank"}
-* [Related Products, Up-Sells, and Cross-Sells](https://docs.magento.com/user-guide/catalog/related-products-up-sells-cross-sells.html){target="_blank"}
-* [Point of Purchase](https://docs.magento.com/user-guide/sales/point-of-purchase.html){target="_blank"}
-* [Offline Payment Methods](https://docs.magento.com/user-guide/payment/offline-payment-methods.html){target="_blank"}
-* [SEO and Search](https://docs.magento.com/user-guide/marketing/seo-search.html){target="_blank"}
-* [Page Builder](https://docs.magento.com/user-guide/cms/page-builder.html){target="_blank"}
-* [Payments](https://docs.magento.com/user-guide/payment/payments.html){target="_blank"}
-* [Promotions](https://docs.magento.com/user-guide/marketing/promotions.html){target="_blank"}
-* [Cart Price Rules](https://docs.magento.com/user-guide/marketing/price-rules-cart.html){target="_blank"}
-* [Customers](https://docs.magento.com/user-guide/configuration/customers.html){target="_blank"}
-* [Scope](https://docs.magento.com/user-guide/configuration/scope.html){target="_blank"}
-* [All Stores](https://docs.magento.com/user-guide/stores/stores-all-stores.html){target="_blank"}
-* [Adding Store Views](https://docs.magento.com/user-guide/stores/stores-all-create-view.html){target="_blank"}
-* [Search Terms](https://docs.magento.com/user-guide/marketing/search-terms.html){target="_blank"}
+**Section 2: Working with databases and EAV**
 
-**Section 2: Adobe Commerce basics**
+* [Create a product attribute](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/add-product-attribute.html?lang=en){target="_blank"}
+* [EAV and extension attributes](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/attributes.html){target="_blank"}
+* [How to add a new product attribute](https://devdocs.magento.com/videos/fundamentals/add-new-product-attribute/){target="_blank"}
+* [Add a custom text field attribute](https://devdocs.magento.com/guides/v2.4/howdoi/custom-attributes/text-field.html){target="_blank"}
+* [Commerce for developers - Declarative schema](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-5-2-declarative-schema.html?lang=en){target="_blank"}
+* [Add a new table to a database](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/new-db-table.html?lang=en){target="_blank"}
+* [Declarative Schema](https://developer.adobe.com/commerce/php/development/components/declarative-schema/){target="_blank"}
+* [Data Transfer](https://docs.magento.com/user-guide/system/data-transfer.html){target="_blank"}
+* [Custom import entity](https://devdocs.magento.com/guides/v2.4/ext-best-practices/tutorials/custom-import-entity.html){target="_blank"}
+* [Importing and Exporting Inventory](https://docs.magento.com/user-guide/catalog/inventory-import-export.html){target="_blank"}
+* [Develop data and schema patches](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/declarative-schema/data-patches.html){target="_blank"}
 
-* [Cloud Guide for Commerce](https://devdocs.magento.com/cloud/bk-cloud.html){target="_blank"}
-* [Magento Business Intelligence Introduction](https://docs.magento.com/mbi/getting-started/getting-started.html){target="_blank"}
-* [Content Elements](https://docs.magento.com/user-guide/cms/content-elements.html){target="_blank"}
-* [Catalog](https://docs.magento.com/user-guide/configuration/catalog.html){target="_blank"}
-* [Customers](https://docs.magento.com/user-guide/configuration/customers.html){target="_blank"}
-* [Live Search](https://docs.magento.com/user-guide/live-search/overview.html){target="_blank"}
-* [Introduction to Commerce Merchandising and Promotions](https://docs.magento.com/user-guide/marketing/merchandising.html){target="_blank"}
-* [Checkout](https://docs.magento.com/user-guide/sales/checkout-process.html){target="_blank"}
-* [Adobe Commerce Admin Systems Guide](https://docs.magento.com/user-guide/system/system.html){target="_blank"}
+**Section 3: Developing with admin**
 
-**Section 3: Digital marketing and eCommerce fundamentals**
+* [Commerce for developers - Create an Admin Page](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-5-4-admin-page.html?lang=en){target="_blank"}
+* [Add an Admin grid](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/admin-grid.html){target="_blank"}
+* [Listing (grid) component](https://devdocs.magento.com/guides/v2.4/ui_comp_guide/components/ui-listing-grid.html){target="_blank"}
+* [Form component](https://devdocs.magento.com/guides/v2.4/ui_comp_guide/components/ui-form.html){target="_blank"}
+* [ActionsColumn component](https://devdocs.magento.com/guides/v2.4/ui_comp_guide/components/ui-actionscolumn.html){target="_blank"}
+* [PHP modifiers](https://devdocs.magento.com/guides/v2.4/ui_comp_guide/concepts/ui_comp_modifier_concept.html){target="_blank"}
+* [Customize using a modifier class](https://devdocs.magento.com/guides/v2.4/howdoi/customize-modifier-class.html){target="_blank"}
+* [Create an access control list (ACL) rule](https://devdocs.magento.com/guides/v2.4/ext-best-practices/tutorials/create-access-control-list-rule.html){target="_blank"}
 
-* [Promotions](https://docs.magento.com/user-guide/marketing/promotions.html){target="_blank"}
-* [Shopping Tools](https://docs.magento.com/user-guide/marketing/shopping-tools.html){target="_blank"}
-* [Communications](https://docs.magento.com/user-guide/marketing/communications.html){target="_blank"}
-* [SEO Best Practices](https://docs.magento.com/user-guide/marketing/seo-best-practices.html){target="_blank"}
-* [Using a Site Map](https://docs.magento.com/user-guide/marketing/sitemap-xml.html){target="_blank"}
-* [Customer Journey](https://docs.magento.com/user-guide/quick-tour/customer-journey.html){target="_blank"}
-* [Business Intelligence Tools](https://docs.magento.com/user-guide/reports/business-intelligence.html){target="_blank"}
-* [Checkout Options](https://docs.magento.com/user-guide/sales/checkout-options.html){target="_blank"}
-* [Basic Delivery Methods](https://docs.magento.com/user-guide/shipping/shipping-flat-rate.html){target="_blank"}
+**Section 4: Customizing the catalog**
 
+* [Creating a products](https://docs.magento.com/user-guide/catalog/product-create.html){target="_blank"}
+* [Adding extension attributes to entities](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/extension_attributes/adding-attributes.html){target="_blank"}
+* [Indexing](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/indexing.html){target="_blank"}
+* [Indexer optimization](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/indexer-optimization.html){target="_blank"}
+* [Adding a custom indexer](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/indexing-custom.html){target="_blank"}
+* [Manage the indexers](https://devdocs.magento.com/guides/v2.4/config-guide/cli/config-cli-subcommands-index.html){target="_blank"}
+* [Index management](https://docs.magento.com/user-guide/system/index-management.html){target="_blank"}
+* [Render prices on the frontend](https://devdocs.magento.com/guides/v2.4/ui_comp_guide/howto/price_rendering.html){target="_blank"}
+* [Introduction to Inventory Management](https://docs.magento.com/user-guide/catalog/inventory-management.html){target="_blank"}
 
-**Section 4: Compliance/security basics**
+**Section 5: Customizing sales operations**
 
-* [Accessibility Guidelines](https://devdocs.magento.com/guides/v2.4/pattern-library/general/accessibilityguideline/accessibilityGuideline.html#visual){target="_blank"}
-* [Security](https://docs.magento.com/user-guide/stores/security.html){target="_blank"}
-* [Understanding ADA Compliance and How It Relates to eCommerce Websites](https://magento.com/blog/best-practices/understanding-ada-compliance-and-how-it-relates-ecommerce-websites){target="_blank"}
-* [Adobe Commerce Security Best Practices Guide](https://www.adobe.com/content/dam/cc/en/security/pdfs/Adobe-Magento-Commerce-Best-Practices-Guide.pdf){target="_blank"}
+* [Customize checkout](https://devdocs.magento.com/guides/v2.4/howdoi/checkout/checkout_overview.html){target="_blank"}
+* [Add a custom payment method to checkout](https://devdocs.magento.com/guides/v2.4/howdoi/checkout/checkout_payment.html){target="_blank"}
+* [Adding a new payment integration (payment method)](https://devdocs.magento.com/guides/v2.4/payments-integrations/base-integration/integration-intro.html){target="_blank"}
+* [Add custom shipping carrier](https://devdocs.magento.com/guides/v2.4/howdoi/checkout/checkout-add-custom-carrier.html){target="_blank"}
+* [Add custom shipping carrier validations](https://devdocs.magento.com/guides/v2.4/howdoi/checkout/checkout_carrier.html){target="_blank"}
+* [Customize the view of a checkout step](https://devdocs.magento.com/guides/v2.4/howdoi/checkout/checkout_customize.html){target="_blank"}
+* [Sort order for checkout totals](https://docs.magento.com/user-guide/sales/checkout-totals-sort-order.html){target="_blank"}
 
-## Sample questions
+**Section 6: APIs and services**
 
-The sample questions allow you to see the type and format of items that you will encounter in the actual exam. There is no sign-on needed. The results of the sample questions are not stored, and do not predict your actual test results.
+* [Getting started with Adobe Commerce web APIs](https://devdocs.magento.com/guides/v2.4/get-started/bk-get-started-api.html)
+* [REST API Overview](https://devdocs.magento.com/guides/v2.4/rest/bk-rest.html)
+* [Using SOAP services](https://devdocs.magento.com/guides/v2.4/soap/bk-soap.html)
+* [GraphQL overview](https://devdocs.magento.com/guides/v2.4/graphql/)
+* [Message queues](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/message-queues/message-queues.html)
+* [Bulk operations](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/message-queues/bulk-operations.html)
 
-[See sample questions](https://scorpion.caveon.com/launchpad/ad0-e712-adobe-commerce-business-practitioner-professional-copy-bujt66){target="_blank"}
+**Section 7:**
 
-* Provide your email address.
-* Answer the candidate agreement.
-* Start the test.
-* Mark your answer in each question.
-* Click Next on the upper portion of the screen to save your answer and move to the next question. You may return and revise your question within the specified time.
-* On the last question, click Submit Exam to submit all your answers.
-* Answer the short survey.
+**Section 8:**
+
+**Section 9:**
+
+## Take a practice test
+
+We are excited to offer free practice tests and provide a detailed coaching report upon completion of each one. You will have unlimited access to all available practice tests for Adobe's expert-level exams. Our practice tests are developed from the same blueprints as the live exams, so they can help you gauge how you are doing in each topic area. However, taking a practice test does not guarantee that you will pass the certification exam.
+
+Go to the [Adobe Credential Managment System](http://www.certmetrics.com/adobe/){target="_blank"} to launch a practice test.
+
+>[!NOTE]
+>
+>Go to the scheduling page > practice tests > Adobe Certification Prep Portal > click on launch Adobe Exam Prep Portal (on the far-right side).
+
 
 ## Get certified
 
 To schedule your exam you will click on "schedule" below. This will redirect you to the Adobe Credential Management system where you will click scheduling>then search for this exam to schedule.
 
-[Schedule AD0-E712](https://learning.adobe.com/api.certify.json){target="_blank"}
+* [Schedule AD0-E716](https://learning.adobe.com/api.certify.json)
 
 ## Questions
 

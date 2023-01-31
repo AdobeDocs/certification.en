@@ -135,7 +135,7 @@ You are not required to complete training before taking the exam, and training a
 
 **AD0-E710 Adobe Commerce Frontend Developer**
 
-**Section 1: Theme management (Theme hierarchy, image configuration, translations)
+**Section 1: Theme management (Theme hierarchy, image configuration, translations)**
 
 * [Theme structure](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/themes/theme-structure.html){target="_blank"} 
 * [Create a new storefront theme](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/themes/theme-create.html){target="_blank"} 
