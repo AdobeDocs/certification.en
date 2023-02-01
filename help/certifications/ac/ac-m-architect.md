@@ -16,7 +16,7 @@ If an exam is marked as retiring you will see a note at the top of this page. Th
 
 Your certification will be valid for two years from when you pass. We recommend taking the newer version, when possible, because it covers newer product capabilities.
 
-If you have least 1 year experience leading Commerce development projects and are able to design, integrate, implement, and explain solutions to business problems by utilizing Adobe Commerce along with associated services.
+If you have at least 1 year experience leading Commerce development projects and are able to design, integrate, implement, and explain solutions to business problems by utilizing Adobe Commerce along with associated services.
 
 Additionally, if you're very familiar with the following activities and technologies:
 
@@ -48,7 +48,7 @@ Additionally, if you're very familiar with the following activities and technolo
 
 This is the certification for YOU!
 
-![Certification Professional Badge](/help/certifications/assets/master-badge-small.png)
+![Certification Master Badge](/help/certifications/assets/master-badge-small.png)
 
 **Level of experience:** 3-5 years
 
@@ -113,7 +113,9 @@ Section 4: Compliance/security basics (13%)
 * Identify common security aspects of an Adobe Commerce project
 * Identify best practices and legal requirements of accessibility compliance
 
-Take a [readiness questionnaire](https://scorpion.caveon.com/launchpad/ad-q-e718-readiness-questionnaire-for-adobe-commerce-architect-master-exam){target="_blank"} to find out if you meet the minimum qualifications.
+## Readiness Self-Assessment
+
+Complete the [online readiness questionnaire](https://scorpion.caveon.com/launchpad/ad-q-e718-readiness-questionnaire-for-adobe-commerce-architect-master-exam){target="_blank"} to see if your current experience matches the recommended minimum candidate qualification.
 
 ## Get prepped
 
