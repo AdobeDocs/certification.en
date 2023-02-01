@@ -4,9 +4,15 @@ description: You have technical knowledge about audience segmentation, destinati
 solution: Experience Manager Sites
 role: Developer
 ---
+
+>[!NOTE]
+>
+>Previous retired exam - AD0-E116 Adobe Experience Manager Sites Developer expert
+
+
 # Certification journey - Adobe Experience Manager Sites Developer expert
 
-Exam ID: AD0-E116
+Exam ID: AD0-E134
     
 ## Start your journey toward certification
 
@@ -16,23 +22,14 @@ If an exam is marked as retiring you will see a note at the top of this page. Th
 
 Your certification will be valid for two years from when you pass. We recommend taking the newer version, when possible, because it covers newer product capabilities.
 
-If you have a minimum of 12 months experience working with the AEM Platform. Are able to perform advanced component development, have a deep understanding of the MVC framework, and are aware of frameworks and libraries in AEM. In addition, you have an understanding of the AEM development life cycle and familiarity with the following technologies and environments:
+If you have a minimum of 12 months experience working with the AEM Platform. Are able to perform advanced component development, have a deep understanding of the Model View Controller (MVC) framework, be aware of frameworks and libraries in AEM. In addition, the candidate will have an understanding of the AEM development life cycle.
 
-* Set up local AEM environments
-* Create basic components based on core OOTB components
-* Create and maintain LESS files
-* Define the developer's process
-* Set up a new project structure
-* Create and edit a dispatcher rule
-* Configure workflows and create custom workflow steps
-* Determine the difference between a traditional AEM components and SPA components
-* Work with Assets API
-* Set up ACLs and permissions including third-party IDPs
-* Set up Multi-site manager for languages and brands
-* Set up maintenance tasks
-* Third-party integrations
-* Implement Cloud Configuration
-* Set up Cloud Manager Pipelines deployments
+The candidate should have familiarity with the following technologies and environments:
+
+* JVM
+* Lower/pre-production environments
+* Different AEM hosting capabilities
+* Sync content/environments together
 * Maven
 * Git
 * Development and packaging tools
@@ -46,9 +43,9 @@ This is the certification for YOU!
 
 **Intended audience:** 
 
-* Senior AEM Developers
-* Tech leads
-* Junior Architects
+* AEM Developers
+* AEM Senior Developers
+* AEM Lead Developers
 
 **Exam details - Adobe Experience Manager Sites Developer**
   
@@ -59,13 +56,13 @@ Time: 100 mins
 Delivery: Online proctored (requires camera access) or test center proctored
 Available languages: English & Japanese
 Cost: $225 (global) and $150 (India)
-Exam ID: AD0-E116
+Exam ID: AD0-E134
 
 ```
 
 ## Get ready
 
-**AD0-E121 Adobe Experience Manager Sites Developer**
+**AD0-E134 Adobe Experience Manager Sites Developer**
 
 **Exam objectives and scope**
 
@@ -77,21 +74,21 @@ Section 1: Configurations (22%)
 * Given a scenario, determine the correct method to Create and manage custom OAK indices
 * Determine the correct steps to configure OOTB SAML and LDAP integration
 
-Section 2: AEM development (46%)
+Section 2: AEM development (44%)
 
-* Determine the correct steps to implement SPA structure and components
-* Given a design, create complex components including the HTL, models, and services
+* Determine the correct steps to implement SPA structure, templates, and components
+* Given a design, create custom components including the HTL, models, and services
 * Determine the correct method to create unit tests and map mock data
-* Given a scenario, determine the correct method to develop workflows
+* Given a scenario, determine the correct steps to develop workflows
 * Given a scenario, determine the approach for any third-party integration
 * Determine the approach to implement a headless or hybrid implementation
 
-Section 3: Build and deployment (8%)
+Section 3: Build and deployment (14%)
 
-* Identify the steps to set up and maintain front-end and back-end dependency management
-* Determine the correct usage of each archetype when building projects
+* Identify the steps to set-up and maintain front-end and back-end dependency management
+* Determine the correct archetype when building projects
 
-Section 4: Environment maintenance (24%)
+Section 4: Environment maintenance (22%)
 
 * Given a scenario, determine the steps required to manage AEM environments
 * Explain the setup steps around release management
@@ -105,6 +102,42 @@ Complete the [online readiness questionnaire](https://scorpion.caveon.com/launch
 ## Get prepped
 
 You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
+
+**AD0-E134 Adobe Experience Manager Sites Developer**
+
+**Section 1: Configuration**
+
+* [Introduction to Dispatcher](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/underlying-technology/introduction-dispatcher.html?lang=en){target="_blank"} 
+* [Dispatcher Overview](https://experienceleague.adobe.com/docs/experience-manager-dispatcher/using/dispatcher.html?lang=en){target="_blank"} 
+* [AEM Assets videos and tutorials](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/overview.html?lang=en){target="_blank"} 
+* [Assets Guide](https://experienceleague.adobe.com/docs/experience-manager-64/assets/home.html?lang=en){target="_blank"} 
+* [AEM 6.5 Deploying User Guide](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html?lang=en){target="_blank"} 
+* [AEM 6.5 Administering User Guide](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html?lang=en){target="_blank"} 
+
+**Section 2: AEM development**
+
+* [AEM 6.5 Developing User Guide](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html?lang=en){target="_blank"}
+* [Get started with AEM Sites - WKND Tutorial](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-wknd-tutorial-develop/overview.html?lang=en){target="_blank"}
+* [AEM 6.5 Authoring User Guide](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html?lang=en){target="_blank"}
+* [AEM 6.5 Administering User Guide](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html?lang=en){target="_blank"}
+* [Experience Manager as a Cloud Service documentation](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=en){target="_blank"}
+
+**Section 3: Build and deployment**
+
+* [Core Components Introduction](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/introduction.html?lang=en){target="_blank"}
+* [AEM 6.5 Developing User Guide](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html?lang=en){target="_blank"}
+* [AEM 6.5 Administering User Guide](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html?lang=en){target="_blank"}
+* [Adobe Experience Manager as a Cloud Service Videos and Tutorials](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/overview.html?lang=en){target="_blank"}
+* [AEM 6.5 Deploying User Guide](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html?lang=en){target="_blank"}
+
+**Section 4: Environment Maintenance**
+
+* [Experience Manager as a Cloud Service documentation](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=en){target="_blank"}
+* [AEM Foundation videos and tutorials](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/overview.html?lang=en){target="_blank"}
+* [Deploying and Maintaining](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/deploying/deploy.html?lang=en){target="_blank"}
+* [Introduction to Cloud Manager for AMS](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/using/introduction-to-cloud-manager.html?lang=en){target="_blank"}
+* [AEM 6.5 Administering User Guide](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html?lang=en){target="_blank"}
+* [AEM 6.5 Deploying User Guide](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html?lang=en){target="_blank"}
 
 ## Take a practice test
 
@@ -121,7 +154,7 @@ Go to the [Adobe Credential Managment System](http://www.certmetrics.com/adobe/)
 
 To schedule your exam you will click on "schedule" below. This will redirect you to the Adobe Credential Management system where you will click scheduling>then search for this exam to schedule.
 
-* [Schedule AD0-E116](https://learning.adobe.com/api.certify.json)
+* [Schedule AD0-E134](https://learning.adobe.com/api.certify.json)
 
 ## Questions
 
