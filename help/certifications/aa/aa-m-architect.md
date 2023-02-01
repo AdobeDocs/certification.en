@@ -120,6 +120,7 @@ Here are some suggested resources to help you prepare:
 * [Analytics Admin Guide](https://experienceleague.adobe.com/docs/analytics/admin/home.html?lang=en){target="_blank"}
 * [The Event-Driven Data Layer](https://jimalytics.com/tag-management/the-event-driven-data-layer/){target="_blank"}
 * [Analytics Export Guide](https://experienceleague.adobe.com/docs/analytics/export/home.html?lang=en){target="_blank"}
+* [Adobe Target Business Practitioner Guide](https://experienceleague.adobe.com/docs/target/using/target-home.html?lang=en){target="_blank"}
 * [Adobe Experience Cloud Identity Service](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=en){target="_blank"}
 * [Analytics Import Guide](https://experienceleague.adobe.com/docs/analytics/import/home.html?lang=en){target="_blank"}
 * [Analytics Tools Guide](https://experienceleague.adobe.com/docs/analytics/analyze/home.html?lang=en){target="_blank"}

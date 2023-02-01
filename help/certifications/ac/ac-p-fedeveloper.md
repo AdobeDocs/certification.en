@@ -137,36 +137,36 @@ Here are some suggested resources to help you prepare:
 **Section 3: Styles**
 
 * [Variables](https://lesscss.org/features/#features-overview-feature){target="_blank"} 
-* [Responsive web design](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/responsive-web-design/rwd_overview.html)
-* [Cascading style sheets (CSS)](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/css-topics/css-overview.html)
-* [Quickstart](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/css-guide/css_quick_guide_overview.html)
-* [Frontend Developer Guide](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/bk-frontend-dev-guide.html)
-* [Themes](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/themes/theme-overview.html)
-* [What is Page Builder?](https://devdocs.magento.com/page-builder/docs/)
+* [Responsive web design](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/responsive-web-design/rwd_overview.html)){target="_blank"}
+* [Cascading style sheets (CSS)](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/css-topics/css-overview.html)){target="_blank"}
+* [Quickstart](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/css-guide/css_quick_guide_overview.html)){target="_blank"}
+* [Frontend Developer Guide](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/bk-frontend-dev-guide.html)){target="_blank"}
+* [Themes](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/themes/theme-overview.html)){target="_blank"}
+* [What is Page Builder?](https://devdocs.magento.com/page-builder/docs/)){target="_blank"}
 
 **Section 4: JavaScript**
 
-* [JavaScript](https://devdocs.magento.com/guides/v2.4/javascript-dev-guide/javascript/js_overview.html)
-* [Translations](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/translations/xlate.html)
-* [Introduction to UI components](https://devdocs.magento.com/guides/v2.4/ui_comp_guide/bk-ui_comps.html)
-* [Introduction to JavaScript](https://devdocs.magento.com/guides/v2.4/javascript-dev-guide/bk-javascript-dev-guide.html)
-* [jQuery widgets](https://devdocs.magento.com/guides/v2.4/javascript-dev-guide/widgets/jquery-widgets-about.html)
+* [JavaScript](https://devdocs.magento.com/guides/v2.4/javascript-dev-guide/javascript/js_overview.html)){target="_blank"}
+* [Translations](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/translations/xlate.html)){target="_blank"}
+* [Introduction to UI components](https://devdocs.magento.com/guides/v2.4/ui_comp_guide/bk-ui_comps.html)){target="_blank"}
+* [Introduction to JavaScript](https://devdocs.magento.com/guides/v2.4/javascript-dev-guide/bk-javascript-dev-guide.html)){target="_blank"}
+* [jQuery widgets](https://devdocs.magento.com/guides/v2.4/javascript-dev-guide/widgets/jquery-widgets-about.html)){target="_blank"}
 
 **Section 5: Admin configuration and pagebuilder**
 
-* [Configuration Reference Guide](https://docs.magento.com/user-guide/configuration/general.html)
-* [Introduction to Page Builder](https://docs.magento.com/user-guide/cms/page-builder.html)
-* [Walkthrough Part 1: Simple Page](https://docs.magento.com/user-guide/cms/page-builder-learn.html)
-* [Themes](https://docs.magento.com/user-guide/design/themes.html)
-* [Categories overview](https://docs.magento.com/user-guide/catalog/categories.html)
-* [Design](https://docs.magento.com/user-guide/design/design-theme.html)
-* [Templates](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/templates/template-overview.html)
+* [Configuration Reference Guide](https://docs.magento.com/user-guide/configuration/general.html)){target="_blank"}
+* [Introduction to Page Builder](https://docs.magento.com/user-guide/cms/page-builder.html)){target="_blank"}
+* [Walkthrough Part 1: Simple Page](https://docs.magento.com/user-guide/cms/page-builder-learn.html)){target="_blank"}
+* [Themes](https://docs.magento.com/user-guide/design/themes.html)){target="_blank"}
+* [Categories overview](https://docs.magento.com/user-guide/catalog/categories.html)){target="_blank"}
+* [Design](https://docs.magento.com/user-guide/design/design-theme.html)){target="_blank"}
+* [Templates](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/templates/template-overview.html)){target="_blank"}
 
 **Section 6: Tools (CLI and Grunt)**
 
-* [Command-line configuration](https://devdocs.magento.com/guides/v2.4/config-guide/cli/config-cli.html)
-* [Overview of store options and configuration management](https://devdocs.magento.com/cloud/configure/configuration-overview.html)
-* [Overview of initialization and bootstrap](https://devdocs.magento.com/guides/v2.4/config-guide/bootstrap/magento-bootstrap.html)
+* [Command-line configuration](https://devdocs.magento.com/guides/v2.4/config-guide/cli/config-cli.html)){target="_blank"}
+* [Overview of store options and configuration management](https://devdocs.magento.com/cloud/configure/configuration-overview.html)){target="_blank"}
+* [Overview of initialization and bootstrap](https://devdocs.magento.com/guides/v2.4/config-guide/bootstrap/magento-bootstrap.html)){target="_blank"}
 
 ## Sample questions
 

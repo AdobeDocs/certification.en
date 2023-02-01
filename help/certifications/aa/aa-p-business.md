@@ -112,20 +112,20 @@ Here are some suggested resources to help you prepare:
 
 **Section 2: Reporting and Dashboarding for Projects**
 
-* [Analytics Admin Guide](https://experienceleague.adobe.com/docs/analytics/admin/home.html?lang=en)
-* [Analytics Tools Guide](https://experienceleague.adobe.com/docs/analytics/analyze/home.html?lang=en)
-* [Visualization Overview](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/freeform-analysis-visualizations.html?lang=en#quick-viz)
-* [Analytics Components Guide](https://experienceleague.adobe.com/docs/analytics/components/home.html?lang=en)
-* [Customer Journey Analytics Guide](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=en)
+* [Analytics Admin Guide](https://experienceleague.adobe.com/docs/analytics/admin/home.html?lang=en)){target="_blank"}
+* [Analytics Tools Guide](https://experienceleague.adobe.com/docs/analytics/analyze/home.html?lang=en)){target="_blank"}
+* [Visualization Overview](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/freeform-analysis-visualizations.html?lang=en#quick-viz)){target="_blank"}
+* [Analytics Components Guide](https://experienceleague.adobe.com/docs/analytics/components/home.html?lang=en)){target="_blank"}
+* [Customer Journey Analytics Guide](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=en)){target="_blank"}
 
 **Section 3: Segmentation and Calculated Metrics**
 
-* [Analytics Components Guide](https://experienceleague.adobe.com/docs/analytics/components/home.html?lang=en)
+* [Analytics Components Guide](https://experienceleague.adobe.com/docs/analytics/components/home.html?lang=en)){target="_blank"}
 
 **Section 4: General Tool Knowledge and Troubleshooting**
 
-* [Implement Adobe Analytics](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=en)
-* [Analytics Components Guide](https://experienceleague.adobe.com/docs/analytics/components/home.html?lang=en)
+* [Implement Adobe Analytics](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=en)){target="_blank"}
+* [Analytics Components Guide](https://experienceleague.adobe.com/docs/analytics/components/home.html?lang=en)){target="_blank"}
 
 ## Sample questions
 
