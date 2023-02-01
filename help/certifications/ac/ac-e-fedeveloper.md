@@ -125,7 +125,7 @@ Section 6: Tools (CLI and Grunt) (8%)
 * Differentiate the appropriate use case for deploy modes
 * Define Grunt setup and usage
 
-## Readiness Self-Assessment
+## Readiness self-assessment
 
 Complete the [online readiness questionnaire](https://scorpion.caveon.com/launchpad/ad0-e710-adobe-commerce-front-end-developer-expert-copy-jtnjz6){target="_blank"} to see if your current experience matches the recommended minimum candidate qualification.
 

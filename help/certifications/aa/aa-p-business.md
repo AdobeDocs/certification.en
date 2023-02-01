@@ -91,7 +91,7 @@ Section 4: General Tool Knowledge and Troubleshooting (9%)
 * Understand different types of dimensions and parameters existing in Adobe Analytics (evars, props, and events)
 * Determine how to export data from Adobe Analytics
 
-## Readiness Self-Assessment
+## Readiness self-assessment
 
 Complete the [online readiness questionnaire](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-w9tako/ad-q-e212-readiness-questionnaire-for-adobe-analytics-business-practitioner-professional-exam){target="_blank"} to see if your current experience matches the recommended minimum candidate qualification.
 

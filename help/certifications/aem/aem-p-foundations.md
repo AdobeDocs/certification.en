@@ -29,7 +29,7 @@ If you are application developer with a minimum of 12 months experience working 
 
 This is the certification for YOU!
 
-![Certification Expert Badge](/help/certifications/assets/professional-badge-small.png)
+![Certification Professional Badge](/help/certifications/assets/professional-badge-small.png)
 
 **Level of experience:** 0-12 months
 
@@ -43,6 +43,8 @@ This is the certification for YOU!
 ```
 Passing Score: 38/60
 Time: 120 mins
+Delivery: Online proctored (requires camera access)
+Available languages: English
 Cost: $125 (global) and $95 (India)
 Exam ID: AD0-E132
 
@@ -55,6 +57,7 @@ Exam ID: AD0-E132
 **Exam objectives and scope**
 
 Section 1: Content creation (33%)
+
 * Manage content pages
 * Replicate content
 * Configure policies
@@ -65,6 +68,7 @@ Section 1: Content creation (33%)
 * Use multi-sites and live copies
 
 Section 2: Implementation (42%)
+
 * Apply procedural concepts to create components
 * Create editable templates
 * Create client libraries
@@ -75,11 +79,13 @@ Section 2: Implementation (42%)
 * Structure content modeling
 
 Section 3: Setup and deployment (13%)
+
 * Install bundles
 * Deploy packages
 * Install AEM instances
 
 Section 4: Maintenance and user administration (12%)
+
 * Manage user access
 * Modify OSGI configurations
 * Create queries

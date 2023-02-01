@@ -63,6 +63,8 @@ This is the certification for YOU!
 
 Passing Score: 27/50
 Time: 100 mins
+Delivery: Online proctored (requires camera access) or test center proctored
+Available languages: English
 Cost: $225 (global) and $150 (India)
 Exam ID: AD0-E125
 
@@ -107,6 +109,8 @@ Section 5: Interactive Communication (4%)
 
 * Design, demonstrate, and implement processes for the Interactive Communication
 
+## Readiness self-assessment
+
 Complete the [online readiness questionnaire](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-x38d6m/ad-q-e125-readiness-questionnaire-for-adobe-aem-forms-developer-expert-exam){target="_blank"} to see if your current experience matches the recommended minimum candidate qualification.
 
 ## Get prepped
@@ -117,23 +121,32 @@ You are not required to complete training before taking the exam, and training a
 
 **Section 1: Forms creation and management**
 
-* [AEM 6.5 Developing User Guide](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html?lang=en){target="_blank"} 
+* [Adobe Experience Manager 6.4 Forms Guide](https://experienceleague.adobe.com/docs/experience-manager-64/forms/home.html?lang=en){target="_blank"} 
+* [AEM Forms Data Integration](https://experienceleague.adobe.com/docs/experience-manager-65/forms/form-data-model/data-integration.html?lang=en){target="_blank"} 
+* [Introduction to publishing forms](https://experienceleague.adobe.com/docs/experience-manager-64/forms/publish-process-aem-forms/introduction-publishing-forms.html?lang=en#aem-forms-portal-components-overview){target="_blank"} 
+* [Using Client-Side Libraries](https://experienceleague.adobe.com/docs/experience-manager-65/developing/introduction/clientlibs.html?lang=en#locating-a-client-library-folder-and-using-the-proxy-client-libraries-servlet){target="_blank"} 
 
 **Section 2: Processes and workflow**
 
-* [An Introduction to Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/overview/introduction.html){target="_blank"} 
+* [AEM Forms Tutorials and Videos](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/overview.html?lang=en){target="_blank"}
+* [Custom storage for drafts and submissions](https://experienceleague.adobe.com/docs/experience-manager-64/forms/use-forms-portal/adding-custom-storage-provider-forms.html?lang=en){target="_blank"}
+* [Output Service](https://experienceleague.adobe.com/docs/experience-manager-65/forms/use-document-services/output-service.html?lang=en#generating-non-interactive-form-documents){target="_blank"}
 
 **Section 3: Administration and troubleshooting**
 
-* [Develop Global Websites in AEM](https://learning.adobe.com/catalog/adobe_experiencemanager/cours000000000087076.html){target="_blank"} 
+* [Debugging AEM as a Cloud Service using logs](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/debugging/debugging-aem-as-a-cloud-service/logs.html?lang=en#:~:text=aemerror%20is%20the%20Java%20error%20log%20%28found%20at,log%20levels%20for%20custom%20loggers%20per%20environment%20type%3A){target="_blank"}
+* [Enable Logging for HTML5 Forms](https://experienceleague.adobe.com/docs/experience-manager-65/forms/html5-forms/enable-logs.html?lang=en){target="_blank"}
+* [Adobe Experience Manager 6.5 Latest Service Pack Release Notes](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html){target="_blank"}
+* [Configuring Dispatcher](https://experienceleague.adobe.com/docs/experience-manager-dispatcher/using/configuring/dispatcher-configuration.html?lang=en){target="_blank"}
 
 **Section 4: API endpoints and integrations**
 
-* [AEM 6.4 Developing User Guide](https://experienceleague.adobe.com/docs/experience-manager-64/developing/home.html?lang=en){target="_blank"} 
+* [Integrate Adobe Sign with AEM Forms as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-forms-cloud-service/forms/adobe-sign-integration-adaptive-forms.html){target="_blank"}
 
 **Section 5: Interactive Communication**
 
-* [AEM 6.4 Developing User Guide](https://experienceleague.adobe.com/docs/experience-manager-64/developing/home.html?lang=en){target="_blank"} 
+* [Interaction Communications Overview](https://experienceleague.adobe.com/docs/experience-manager-64/forms/getting-started/interactive-communications-overview.html?lang=en){target="_blank"}
+* [Conditions in Interactive Communications](https://experienceleague.adobe.com/docs/experience-manager-65/forms/interactive-communications/conditions-interactive-communications.html?lang=en){target="_blank"}
 
 ## Take a practice test
 

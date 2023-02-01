@@ -52,6 +52,8 @@ This is the certification for YOU!
 ```
 Passing Score: 30/50
 Time: 100 mins
+Delivery: Online proctored (requires camera access) or test center proctored
+Available languages: English
 Cost: $125 (global) and $95 (India)
 Exam ID: AD0-E712
 
@@ -94,7 +96,9 @@ Section 4: Compliance/security basics (13%)
 * Identify common security aspects of an Adobe Commerce project
 * Identify best practices and legal requirements of accessibility compliance
 
-Take a [readiness questionnaire](https://scorpion.caveon.com/launchpad/ad-q-e712-readiness-questionnaire-for-adobe-commerce-business-practitioner-professional-exam/ad-q-e712-readiness-questionnaire-for-adobe-commerce-business-practitioner-professional-exam){target="_blank"} to find out if you meet the minimum qualifications.
+## Readiness self-assessment
+
+Complete the [online readiness questionnaire](https://scorpion.caveon.com/launchpad/ad-q-e712-readiness-questionnaire-for-adobe-commerce-business-practitioner-professional-exam/ad-q-e712-readiness-questionnaire-for-adobe-commerce-business-practitioner-professional-exam){target="_blank"} to see if your current experience matches the recommended minimum candidate qualification.
 
 ## Get prepped
 

@@ -46,6 +46,7 @@ This is the certification for YOU!
 Passing Score: 50/77
 Time: 154 mins
 Delivery: Online proctored (requires camera access)
+Available languages: English
 Cost: $125 (global) and $95 (India)
 Exam ID: AD0-E717
 
@@ -135,7 +136,7 @@ Section 9: Commerce Cloud CLI tool (Managing part) (6%)
 * Describe branching using the Adobe Commerce Cloud CLI tool
 * Identify ways to connect to cloud services? (My SQL, Redis, tunnel:info)
 
-## Readiness Self-Assessment
+## Readiness self-assessment
 
 Complete the [online readiness questionnaire](https://scorpion.caveon.com/launchpad/ad-q-e717-readiness-questionnaire-for-adobe-commerce-developer-professional/ad-q-e717-readiness-questionnaire-for-adobe-commerce-developer-professional) to see if your current experience matches the recommended minimum candidate qualification.
 

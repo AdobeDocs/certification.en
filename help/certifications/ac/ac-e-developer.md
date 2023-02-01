@@ -146,7 +146,7 @@ Section 9: Commerce Cloud CLI tool (Managing part) (6%)
 * Demonstrate understanding of branching using CLI
 * Demonstrate how to troubleshoot to cloud services? (My SQL, Redis, tunnel:info)
 
-## Readiness Self-Assessment
+## Readiness self-assessment
 
 Complete the [online readiness questionnaire](https://scorpion.caveon.com/launchpad/ad-q-e716-readiness-questionnaire-for-adobe-commerce-developer-expert/ad-q-e716-readiness-questionnaire-for-adobe-commerce-developer-expert){target="_blank"} to see if your current experience matches the recommended minimum candidate qualification.
 

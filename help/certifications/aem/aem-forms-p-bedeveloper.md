@@ -52,6 +52,8 @@ This is the certification for YOU!
 ```
 Passing Score: 29/50
 Time: 100 mins
+Delivery: Online proctored (requires camera access)
+Available languages: English
 Cost: $125 (global) and $95 (India)
 Exam ID: AD0-E127
 

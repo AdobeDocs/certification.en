@@ -63,6 +63,7 @@ This is the certification for YOU!
 
 Passing Score: 32/50
 Time: 100 mins
+Delivery: Online proctored (requires camera access) or test center proctored
 Available languages: English & Japanese
 Cost: $225 (global) and $150 (India)
 Exam ID: AD0-E121
@@ -97,6 +98,8 @@ Section 3: Business Analysis (38%)
 Section 4: Setup and Implementation (16%)
 * Determine how to configure and use content components to show best practices of AEM
 * Verify the correct implementation of features, and locate and describe occurring errors
+
+## Readiness self-assessment
 
 Complete the [online readiness questionnaire](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-wdx3m2/ad-q-e121-readiness-questionnaire-for-adobe-aem-business-practitioner-expert-exam){target="_blank"} to see if your current experience matches the recommended minimum candidate qualification.
 
