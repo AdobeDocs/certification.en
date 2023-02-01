@@ -48,6 +48,9 @@ This is the certification for YOU!
 **Intended audience:**
 
 * Developer
+* Front-end Developers
+* Full Stack Developers
+* PWA Developers
 
 **Exam details - Adobe Commerce Front-end Developer**
 
