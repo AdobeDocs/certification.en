@@ -4,16 +4,16 @@ description: You have technical knowledge about audience segmentation, destinati
 solution: Experience Manager Sites
 role: Developer
 ---
+# Certification journey - Adobe Experience Manager Sites Developer expert
+
+Exam ID: AD0-E134
+
 
 >[!NOTE]
 >
 >Previous retired exam - AD0-E116 Adobe Experience Manager Sites Developer expert
 
-
-# Certification journey - Adobe Experience Manager Sites Developer expert
-
-Exam ID: AD0-E134
-    
+   
 ## Start your journey toward certification
 
 Purchase your exam voucher at Adobe Certification Voucher Center, if you have a discount, it will apply at checkout. Apply the voucher code when you schedule your exam.
