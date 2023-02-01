@@ -113,7 +113,7 @@ Section 4: Analyzing and building reports (9%)
 * Comprehend Dashboard information and metrics (Email Program Dashboard, Engagement Program Dashboard)
 * Comprehend Email Insights metrics
 
-## Readiness Self-Assessment
+## Readiness self-assessment
 
 Complete the [online readiness questionnaire](https://scorpion.caveon.com/launchpad/ad-q-e555-readiness-questionnaire-for-adobe-marketo-engage-professional-exam/ad-q-e555-readiness-questionnaire-for-adobe-marketo-engage-professional-exam){target="_blank"} to see if your current experience matches the recommended minimum candidate qualification.
 

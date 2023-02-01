@@ -58,6 +58,8 @@ This is the certification for YOU!
 
 Passing Score: 30/50
 Time: 100 mins
+Delivery: Online proctored (requires camera access)
+Available languages: English
 Cost: $125 (global) and $95 (India)
 Exam ID: AD0-E129
 
@@ -101,7 +103,7 @@ Section 5: Asset feature sets and capabilities (12%)
 
 ## Readiness self assessment
 
-Take the [online readiness questionnaire](https://scorpion.caveon.com/launchpad/ad-q-e208-readiness-questionnaire-for-adobe-analytics-business-practitioner-expert-exam-copy-b9x6ey/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam){target="_blank"} to check if your current experience matches the recommended minimum candidate qualification.
+Complete the [online readiness questionnaire](https://scorpion.caveon.com/launchpad/ad-q-e208-readiness-questionnaire-for-adobe-analytics-business-practitioner-expert-exam-copy-b9x6ey/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam){target="_blank"} to see if your current experience matches the recommended minimum candidate qualification.
 
 ## Get prepped
 
@@ -166,7 +168,7 @@ The sample questions allow you to see the type and format of items that you will
 
 To schedule your exam you will click on "schedule" below. This will redirect you to the Adobe Credential Management system where you will click scheduling>then search for this exam to schedule.
 
-[Schedule AD0-E123](https://learning.adobe.com/api.certify.json){target="_blank"}
+[Schedule AD0-E129](https://learning.adobe.com/api.certify.json){target="_blank"}
 
 ## Questions
 

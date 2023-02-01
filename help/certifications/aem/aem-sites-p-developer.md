@@ -35,6 +35,8 @@ This is the certification for YOU!
 ```
 Passing Score: 31/50
 Time: 100 mins
+Delivery: Online proctored (requires camera access)
+Available languages: English
 Cost: $125 (global) and $95 (India)
 Exam ID: AD0-E123
 
@@ -73,7 +75,9 @@ Section 4: Environment maintenance (22%)
 * Identify how to configure AEM across topologies
 * Determine the steps required around planning and migrating to AEM as a Cloud Service
 
-Take a [readiness questionnaire](https://scorpion.caveon.com/launchpad/ad-q-e123-readiness-questionnaire-for-adobe-experience-manager-sites-developer-professional-exam){target="_blank"} to find out if you meet the minimum qualifications.
+## Readiness self-assessment
+
+Complete the [online readiness questionnaire](https://scorpion.caveon.com/launchpad/ad-q-e123-readiness-questionnaire-for-adobe-experience-manager-sites-developer-professional-exam){target="_blank"} to see if your current experience matches the recommended minimum candidate qualification.
 
 ## Get prepped
 

@@ -28,7 +28,7 @@ And, if you are able to use AEM products to manage content to drive digital expe
 
 This is the certification for YOU!
 
-![Certification Expert Badge](/help/certifications/assets/professional-badge-small.png)
+![Certification Professional Badge](/help/certifications/assets/professional-badge-small.png)
 
 **Level of experience:** 0-12 months
 
@@ -41,9 +41,11 @@ This is the certification for YOU!
 **Exam details - Adobe Experience Manager Business Practitioner**
 
 ```
-Passing Score: 33/50<br>
-Time: 110 mins<br>
-Cost: $125 (global) and $95 (India)<br>
+Passing Score: 33/50
+Time: 110 mins
+Delivery: Online proctored (requires camera access)
+Available languages: English
+Cost: $125 (global) and $95 (India
 Exam ID: AD0-E126
 
 ```

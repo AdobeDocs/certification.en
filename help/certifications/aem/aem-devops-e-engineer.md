@@ -57,6 +57,8 @@ This is the certification for YOU!
 
 Passing Score: 30/50
 Time: 100 mins
+Delivery: Online proctored (requires camera access) or test center proctored
+Available languages: English
 Cost: $225 (global) and $150 (India)
 Exam ID: AD0-E124
 
@@ -99,6 +101,8 @@ Section 6: Operate the Admin Console (8%)
 
 * Determine the correct method to submit a support request in the Admin Console
 * Determine the correct method to configure federated SSO and sync Adobe Experience Manager users and groups
+
+## Readiness self-assessment
 
 Complete the [online readiness questionnaire](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-ejk3tx/ad-q-e124-readiness-questionnaire-for-adobe-aem-devops-engineer-expert-exam){target="_blank"} to see if your current experience matches the recommended minimum candidate qualification.
 

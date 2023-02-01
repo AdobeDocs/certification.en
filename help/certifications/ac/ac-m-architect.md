@@ -113,7 +113,7 @@ Section 4: Compliance/security basics (13%)
 * Identify common security aspects of an Adobe Commerce project
 * Identify best practices and legal requirements of accessibility compliance
 
-## Readiness Self-Assessment
+## Readiness self-assessment
 
 Complete the [online readiness questionnaire](https://scorpion.caveon.com/launchpad/ad-q-e718-readiness-questionnaire-for-adobe-commerce-architect-master-exam){target="_blank"} to see if your current experience matches the recommended minimum candidate qualification.
 
@@ -149,12 +149,12 @@ Here are some suggested resources to help you prepare:
 
 **Section 3: Configure and Deploy**
 
-* [Configuration Reference Guide](https://docs.magento.com/user-guide/configuration/general.html)
-* [Configuration files for deployment](https://devdocs.magento.com/guides/v2.4/config-guide/config/config-magento.html)
-* [Configure Redis](https://devdocs.magento.com/guides/v2.4/config-guide/redis/config-redis.html)
-* [Currency](https://docs.magento.com/user-guide/stores/currency.html)
-* [Overview of initialization and bootstrap](https://devdocs.magento.com/guides/v2.4/config-guide/bootstrap/magento-bootstrap.html)
-* [Fastly services overview](https://devdocs.magento.com/cloud/cdn/cloud-fastly.html)
+* [Configuration Reference Guide](https://docs.magento.com/user-guide/configuration/general.html){target="_blank"}
+* [Configuration files for deployment](https://devdocs.magento.com/guides/v2.4/config-guide/config/config-magento.html){target="_blank"}
+* [Configure Redis](https://devdocs.magento.com/guides/v2.4/config-guide/redis/config-redis.html){target="_blank"}
+* [Currency](https://docs.magento.com/user-guide/stores/currency.html){target="_blank"}
+* [Overview of initialization and bootstrap](https://devdocs.magento.com/guides/v2.4/config-guide/bootstrap/magento-bootstrap.html){target="_blank"}
+* [Fastly services overview](https://devdocs.magento.com/cloud/cdn/cloud-fastly.html){target="_blank"}
 
 ## Sample questions
 
