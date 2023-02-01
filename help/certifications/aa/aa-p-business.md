@@ -4,127 +4,151 @@ description: You have technical knowledge about audience segmentation, destinati
 solution: Analytics
 role: Developer
 ---
-# Certification Journey - Adobe Analytics
+# Certification journey - Adobe Analytics Business Practitioner professional
 
-## Start Your Journey toward Certification
+Exam ID: AD0-E212
 
-Bacon ipsum dolor amet buffalo short loin meatloaf, t-bone turkey pork hamburger boudin pork chop venison ribeye cow pork belly. Chuck alcatra bacon, frankfurter t-bone salami tri-tip spare ribs ribeye venison sausage strip steak meatball landjaeger cupim. Picanha tri-tip cow fatback, swine pork loin andouille pork tail. Bresaola chicken leberkas, ground round ball tip brisket meatball corned beef sausage andouille porchetta frankfurter doner strip steak burgdoggen. Boudin landjaeger leberkas salami.
+## Start your journey toward certification
 
-<table>
-<tr  style="border: 0">
-<td style="width: 160px;text-align: left">
+Purchase your exam voucher at Adobe Certification Voucher Center, if you have a discount, it will apply at checkout. Apply the voucher code when you schedule your exam.
 
-<!--- TO CHANGE BADGE : change "expert-badge.png" to "master-badge.png" or "professional-badge.png --->
+If an exam is marked as retiring you will see a note at the top of this page. This indicates that you can still take it until the date specified in the note. 
 
-  <img alt="Certification Badge" style="width: 120px" src="/help/certifications/assets/expert-badge.png" />
-</td>
-<td style="width: 400px;">
-  <strong>Level of Experience: </strong> 1-3 years
+Your certification will be valid for two years from when you pass. We recommend taking the newer version, when possible, because it covers newer product capabilities.
 
-  <strong>Intended Audience:</strong>
-  Data Architect/Engineer, Solution Architect or MSA, 
-  Enterprise Architect, Product Manager, Marketing Technology Lead
-</tr>
-</table>
+If you have a minimum of 3 months of experience in Adobe Analytics and the following experience:
 
-<table>
- <tr  style="border: 0;">
-    <td> <strong>Adobe Experience Platform</strong> </td>
- </tr>
+* A marketing background or come from a marketing role but can come from a variety of job roles.
+* A basic familiarity with digital analytics metrics and dimensions.
+* Are able to use Analytics to build reports and answer business questions, and communicate the results.
+* Understand basic digital analytics concepts—e.g. segmentation, report building, standard metric definitions.
 
- <tr style="border: 0;background-color: white;">
-    <td>
-    Exam Details:<br>
-    Passing Score: 35/50<br>
-    Time: 105 mins<br>
-    Cost: $225 (global) and $150 (India)<br>
-    Exam ID: AD0-E600
-    </td>
- </tr>
+This is the certification for YOU!
 
-</table>
+![Certification Professional Badge](/help/certifications/assets/professional-badge-small.png)
 
-## Exam Purpose
+**Level of experience:** 0-12 months
 
-Bacon ipsum dolor amet buffalo short loin meatloaf, t-bone turkey pork hamburger boudin pork chop venison ribeye cow pork belly. Chuck alcatra bacon, frankfurter t-bone salami tri-tip spare ribs ribeye venison sausage strip steak meatball landjaeger cupim. Picanha tri-tip cow fatback, swine pork loin andouille pork tail. Bresaola chicken leberkas, ground round ball tip brisket meatball corned beef sausage andouille porchetta frankfurter doner strip steak burgdoggen. Boudin landjaeger leberkas salami.
+**Intended audience:**
 
-## Get Ready
+* Digital marketers
+* Business analysts
+* Business consultants
+* Data analysts
+* Web analysts
+* Digital analysts
+* Media / marketing analysts
+* Product owners and managers
+* UI analysts
+* Conversion / optimization specialists
 
-**AD0-E600 Adobe Experience Platform Technical Foundations**
+**Exam details - Adobe Analytics Business Practitioner**
 
-**Minimum Candidate Experience**
+```
+Passing Score: 31/50
+Time: 100 mins
+Delivery: Online proctored (requires camera access)
+Available languages: English
+Cost: $125 (global) and $95 (India)
+Exam ID: AD0-E212
 
-Defined by a team of subject matter experts, the candidate who is ready to pass the Adobe Experience Platform - Adobe Qualified exam has the following qualifications, at a minimum:
+```
 
-* Basic know-how of Experience Platform and can navigate through the UI
-* A high-level understanding of each UI component
+## Get ready
 
-**Exam Objectives and Scope**
+**AD0-E212 Adobe Analytics Business Practitioner**
 
-Section 1: Data Modeling (20%)
-* Analyze source data to evaluate primary and secondary identity for profile stitching
-* Demonstrate an understanding of how to use the UI to create/edit XDM Schemas.
-* Identify DULE Guidance
+**Exam objectives and scope**
 
-Section 2: Data Ingestion (36%)
-* Demonstrate how to format and prepare data for ingestion
-* Demonstrate how to connect data sources using OOTB connectors
+Section 1: Business analysis (34%)
 
-Section 3: Unifying Profiles (34%)
-* Validate Profiles and Event data post ingestion
-* Define identity name spaces
+* Given a business need/question, identify an appropriate reporting strategy to perform an analysis
+* Analyze data to answer business questions
+* Identify conversion funnels (as a concept to understand business analysis)
+* Consult the Solution Design Reference (SDR) to determine what data is available in reports
+* Analyze report data to summarize and draw conclusions
+* Recognize outliers and anomalies in reports
 
-Section 4: Activation (10%)
-* Demonstrate how to set up a destination and how segment activation works
-* Demonstrate and understanding of data access API and exporting data via Real-Time CDP
+Section 2: Reporting and dashboarding for projects (38%)
 
-Take a readiness questionnaire to find out if you meet the minimum qualifications.
+* Consider the advantages of using specific visualizations based on a given scenario
+* Compare fallout and flow visualization
+* Apply the process to schedule and share Projects for different users and/or groups
+* Apply the process to look up and combine dimensions, metrics, date ranges, and segments
+* Apply the process to create a visualization
+* Given a scenario, determine the appropriate item to use
+* Report on marketing campaign performance
 
-## Get Prepped
+Section 3: Segmentation and Calculated Metrics (19%)
+
+* Determine how to develop and configure basic segments using best practices
+* Apply the process to share segments with others in the organization
+* Apply segments to Projects and Components
+* Apply the process to generate basic calculated and/or segmented metrics
+
+Section 4: General Tool Knowledge and Troubleshooting (9%)
+
+* Understand different types of dimensions and parameters existing in Adobe Analytics (evars, props, and events)
+* Determine how to export data from Adobe Analytics
+
+## Readiness Self-Assessment
+
+Complete the [online readiness questionnaire](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-w9tako/ad-q-e212-readiness-questionnaire-for-adobe-analytics-business-practitioner-professional-exam){target="_blank"} to see if your current experience matches the recommended minimum candidate qualification.
+
+## Get prepped
 
 You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
 
 Here are some suggested resources to help you prepare:
 
-**AD0-E600 Adobe Experience Platform Technical Foundations**
+**AD0-E212 Adobe Analytics Business Practitioner**
 
-The exam covers four domains: business analysis, reporting and dashboarding, segmentation and calculated metrics, general tool knowledge, and reporting.
+**Section 1: Business Analysis**
 
-**Section 1: Data Modeling**
+* [Analytics Tools Guide](https://experienceleague.adobe.com/docs/analytics/analyze/home.html?lang=en){target="_blank"} 
+* [Analytics Components Guide](https://experienceleague.adobe.com/docs/analytics/components/home.html?lang=en){target="_blank"} 
+* [Implement Adobe Analytics](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=en){target="_blank"} 
+* [Data Workbench Help](https://experienceleague.adobe.com/docs/data-workbench/using/home.html?lang=en){target="_blank"} 
 
-* Documentation: [Understanding Schemas](https://experienceleague.adobe.com/docs/experience-platform/xdm/schema/composition.html)
-* SPP On Demand: [Schema and XDM Overview / Adobe Experience Platform: Data Modeling and Ingestion](https://video.tv.adobe.com/v/27105)
-* SPP Challenge/Hands On: [Model data in Schemas](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/model-data-in-schemas.html)
-* Experience League Tutorial: [Schema and XDM Overview](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/schemas-and-experience-data-model.html)
+**Section 2: Reporting and Dashboarding for Projects**
 
-**Section 2: Data Ingestion**
+* [Analytics Admin Guide](https://experienceleague.adobe.com/docs/analytics/admin/home.html?lang=en)
+* [Analytics Tools Guide](https://experienceleague.adobe.com/docs/analytics/analyze/home.html?lang=en)
+* [Visualization Overview](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/freeform-analysis-visualizations.html?lang=en#quick-viz)
+* [Analytics Components Guide](https://experienceleague.adobe.com/docs/analytics/components/home.html?lang=en)
+* [Customer Journey Analytics Guide](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=en)
 
-* Documentation: [Data Ingestion](https://experienceleague.adobe.com/docs/experience-platform/ingestion/home.html?lang=en)
-* SPP On Demand: [Adobe Experience Platform: Data Modeling and Ingestion](https://solutionpartners.adobe.com/training/learning_program/learningProgram83768.html)
+**Section 3: Segmentation and Calculated Metrics**
 
-**Section 3: Unifying Profiles**
+* [Analytics Components Guide](https://experienceleague.adobe.com/docs/analytics/components/home.html?lang=en)
 
-* Documentation: [Identity and identity graphs](https://experienceleague.adobe.com/docs/platform-learn/tutorials/identities/understanding-identity-and-identity-graphs.html?lang=en)
-* SPP On Demand: [Experience Platform: Create and Manage Real-time Customer Profile](https://cpcontents.adobe.com/public/newlearner/newlearner_de10804e.html?accountId=32503#/course/1175314/overview?cert_id=undefined&lp_id=undefined)
+**Section 4: General Tool Knowledge and Troubleshooting**
 
+* [Implement Adobe Analytics](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=en)
+* [Analytics Components Guide](https://experienceleague.adobe.com/docs/analytics/components/home.html?lang=en)
 
-**Section 4: Activation**
+## Sample questions
 
-* Documentation: [Destinations](https://experienceleague.adobe.com/docs/experience-platform/destinations/home.html?lang=en)
-* SPP On Demand: [Adobe Experience Platform: Segmentation for Developers](https://solutionpartners.adobe.com/training/learning_program/learningProgram83769.html)
+The sample questions allow you to see the type and format of items that you will encounter in the actual exam. There is no sign-on needed. The results of the sample questions are not stored, and do not predict your actual test results.
 
-**Additional Study Aid Resources**
+[See sample questions](https://scorpion.caveon.com/launchpad/ad0-e212-adobe-analytics-business-practitioner-professional-copy-th4xdu){target="_blank"}
 
-Adobe has provided additional study aids to help you prepare for your certification exam. These include content from Adobe Experience League, Adobe Digital Learning Solutions, and technical documentation
+* Provide your email address.
+* Answer the candidate agreement.
+* Start the test.
+* Mark your answer in each question.
+* Click Next on the upper portion of the screen to save your answer and move to the next question. You may return and revise your question within the specified time.
+* On the last question, click Submit Exam to submit all your answers.
+* Answer the short survey.
 
-+++See Resources
+## Get certified
 
-* [Adobe Experience Platform Enablement (Partners Only)](https://solutionpartners.adobe.com/training/courses/course5250864.html)
-* [Experience Data Model (XDM) Guide](https://experienceleague.adobe.com/docs/experience-platform/xdm/home.html?lang=en)
-+++
+To schedule your exam you will click on "schedule" below. This will redirect you to the Adobe Credential Management system where you will click scheduling>then search for this exam to schedule.
 
-{{$include /help/_includes/take-a-practice-test.md}}
+[Schedule AD0-E212](https://learning.adobe.com/api.certify.json){target="_blank"}
 
-{{$include /help/_includes/get-certified.md}}
+## Questions
 
-{{$include /help/_includes/questions.md}}
+Have a question about Adobe Certification? Please email `certif@adobe.com` for additional details about the program.
+
+View the certification [FAQs](https://solutionpartners.adobe.com/solution-partners/training_and_certification/certification/certification_faq.html#){target="_blank"}.
