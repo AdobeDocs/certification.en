@@ -4,6 +4,7 @@ description: You have technical knowledge about audience segmentation, destinati
 solution: Adobe Commerce
 role: Developer
 ---
+
 # Certification journey - Adobe Commerce Front-end Developer professional
 
 Exam ID: AD0-E719
@@ -47,7 +48,6 @@ This is the certification for YOU!
 **Intended audience:**
 
 * Developer
-* 
 
 **Exam details - Adobe Commerce Front-end Developer**
 
