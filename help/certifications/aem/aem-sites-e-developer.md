@@ -11,7 +11,7 @@ Exam ID: AD0-E134
 
 >[!NOTE]
 >
->This exam has recently replaced a previous version. The exam that is now retired is AD0-E116 Adobe Experience Manager Sites Developer expert.
+>This exam has recently replaced a previous version. The exam that is now retired is AD0-E116 Adobe Experience Manager Sites Developer expert. This is the newest version.
 
    
 ## Start your journey toward certification
