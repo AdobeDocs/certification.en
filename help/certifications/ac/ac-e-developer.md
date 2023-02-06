@@ -242,18 +242,34 @@ You are not required to complete training before taking the exam, and training a
 
 **Section 6: APIs and services**
 
-* [Getting started with Adobe Commerce web APIs](https://devdocs.magento.com/guides/v2.4/get-started/bk-get-started-api.html)
-* [REST API Overview](https://devdocs.magento.com/guides/v2.4/rest/bk-rest.html)
-* [Using SOAP services](https://devdocs.magento.com/guides/v2.4/soap/bk-soap.html)
-* [GraphQL overview](https://devdocs.magento.com/guides/v2.4/graphql/)
-* [Message queues](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/message-queues/message-queues.html)
-* [Bulk operations](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/message-queues/bulk-operations.html)
+* [Getting started with Adobe Commerce web APIs](https://devdocs.magento.com/guides/v2.4/get-started/bk-get-started-api.html){target="_blank"}
+* [REST API Overview](https://devdocs.magento.com/guides/v2.4/rest/bk-rest.html){target="_blank"}
+* [Using SOAP services](https://devdocs.magento.com/guides/v2.4/soap/bk-soap.html){target="_blank"}
+* [GraphQL overview](https://devdocs.magento.com/guides/v2.4/graphql/){target="_blank"}
+* [Message queues](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/message-queues/message-queues.html){target="_blank"}
+* [Bulk operations](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/message-queues/bulk-operations.html){target="_blank"}
 
 **Section 7:**
 
+* [Pro project workflow](https://devdocs.magento.com/cloud/architecture/pro-develop-deploy-workflow.html){target="_blank"}
+* [Cloud CLI](https://devdocs.magento.com/cloud/reference/cli-ref-topic.html){target="_blank"}
+* [Commerce on Cloud Infrastructure](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/overview.html?lang=en){target="_blank"}
+* [ECE-Tools Package](https://devdocs.magento.com/cloud/reference/ece-tools-reference.html){target="_blank"}
+
+
 **Section 8:**
 
+* [Manage user access](https://devdocs.magento.com/cloud/project/user-admin.html#cloud-user-webinterface){target="_blank"}
+* [Secure connections to remote environments](https://devdocs.magento.com/cloud/before/before-workspace-ssh.html#add-key-web){target="_blank"}
+* [Cloud infrastructure project](https://devdocs.magento.com/cloud/setup/first-time-setup-import-prepare.html#add-authentication-keys){target="_blank"}
+* [Manage branches with the CLI](https://devdocs.magento.com/cloud/project/project-webint-branch.html){target="_blank"}
+
+
 **Section 9:**
+
+* [Snapshots and backup management](https://devdocs.magento.com/cloud/project/project-webint-snap.html){target="_blank"}
+* [Manage disk space](https://devdocs.magento.com/cloud/project/manage-disk-space.html){target="_blank"}
+
 
 ## Take a practice test
 
