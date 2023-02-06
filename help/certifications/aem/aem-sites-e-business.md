@@ -77,17 +77,20 @@ Exam ID: AD0-E121
 **Exam objectives and scope**
 
 Section 1: Education (22%)
+
 * List relevant AEM features and capabilities
 * Recommend how to leverage AEM features to meet business needs
 * Apply procedural concepts necessary to conduct training for content editors
 
 Section 2: Architecture (24%)
+
 * Recommend an Information Architecture to leverage AEM Standard Features to meet business needs using on-prem or Adobe hosted (Cloud) environment
 * Describe how AEM integrates with third-party services
 * Determine how to define roles and permissions
 * Describe caching approaches
 
 Section 3: Business Analysis (38%)
+
 * Map standard modules of AEM to different business problems for the customer
 * Apply content management concepts for AEM modules
 * Identify typical project stakeholders
@@ -96,6 +99,7 @@ Section 3: Business Analysis (38%)
 * Determine how questions from developers should be answered with respect to the business goals
 
 Section 4: Setup and Implementation (16%)
+
 * Determine how to configure and use content components to show best practices of AEM
 * Verify the correct implementation of features, and locate and describe occurring errors
 
