@@ -70,7 +70,7 @@ Passing Score: 29/50
 Time: 100 mins
 Delivery: Online proctored (requires camera access) or test center proctored
 Available languages: English, Japanese
-Cost: $125 (global) and $95 (India)
+Cost: $225 (global) and $150 (India)
 Exam ID: AD0-E117
 
 ```
