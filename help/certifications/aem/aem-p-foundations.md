@@ -98,9 +98,34 @@ Here are some suggested resources to help you prepare:
 
 **AD0-E129 Adobe Experience Manager Assets Developers**
 
-* [AEM 6.4: Back-end development for Developers](https://solutionpartners.adobe.com/training/learning_program/learningProgram52530.html){target="_blank"} 
-* [AEM as a Cloud Service: Developing for AEM](https://solutionpartners.adobe.com/training/learning_program/learningProgram53130.html){target="_blank"} 
-* [AEM 6.4: SPA: Release for Tech](https://solutionpartners.adobe.com/training/learning_program/learningProgram20014.html){target="_blank"} 
+
+**Section 1: Content creation**
+
+
+* [AEM 6.4 Deploying User Guide](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/home.html?lang=en){target="_blank"} 
+* [AEM 6.5 Authoring User Guide](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html?lang=en){target="_blank"} 
+* [Getting started with Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=en){target="_blank"} 
+* [Assets Guide](https://experienceleague.adobe.com/docs/experience-manager-65/assets/home.html?lang=en){target="_blank"} 
+
+**Section 2: Implementation**
+
+* [AEM Components—The Basics](https://experienceleague.adobe.com/docs/experience-manager-65/developing/components/components-basics.html?lang=en){target="_blank"}
+* [Tutorials for Headless in AEM](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/overview.html?lang=en){target="_blank"}
+* [Creating Page Templates](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/siteandpage/templates.html?lang=en#creating-and-managing-templates){target="_blank"}
+* [Using Client-Side Libraries](https://experienceleague.adobe.com/docs/experience-manager-65/developing/introduction/clientlibs.html?lang=en){target="_blank"}
+
+**Section 3: Setup and deployment**
+
+* [Web Console](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/configuring/web-console.html?lang=en){target="_blank"}
+* [AEM Project Structure](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/developing/aem-project-content-package-structure.html?lang=en#embedding-3rd-party-packages){target="_blank"}
+* [Package Manager](https://experienceleague.adobe.com/docs/experience-manager-65/administering/contentmanagement/package-manager.html?lang=en#what-are-packages){target="_blank"}
+
+**Section 4: Maintenance and User Administration**
+
+* [Manage users, groups, and user roles](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/admin-tools/brand-portal-adding-users.html?lang=en#add-a-user){target="_blank"}
+* [User Administration and Security](https://experienceleague.adobe.com/docs/experience-manager-65/administering/security/security.html?lang=en){target="_blank"}
+* [OSGi Configuration Settings](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/configuring/osgi-configuration-settings.html?lang=en){target="_blank"}
+
 
 ## Get certified
 
