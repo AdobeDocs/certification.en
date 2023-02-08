@@ -116,27 +116,40 @@ Here are some suggested resources to help you prepare:
 
 **Section 1: Configure Adobe Experience Manager**
 
-* [AEM 6.5 Developing User Guide](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html?lang=en){target="_blank"} 
+* [Basic Configuration Concepts](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/configuring/configuring.html?lang=en){target="_blank"} 
+* [Troubleshooting AEM](https://experienceleague.adobe.com/docs/experience-manager-65/administering/operations/troubleshoot.html?lang=en){target="_blank"} 
+* [Configuring OSGi in AEM](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/configuring/configuring-osgi.html?lang=en){target="_blank"} 
 
 **Section 2: Operate Cloud Manager and Cloud Manager API**
 
-* [An Introduction to Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/overview/introduction.html){target="_blank"} 
+* [Managing Environments](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/manage-environments.html?lang=en){target="_blank"} 
+* [Environment Provisioning](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/using/requirements/environments-provisioned.html?lang=en){target="_blank"} 
+* [Getting Started with the Migration Journey to AEM as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/migration-journey/getting-started.html?lang=en){target="_blank"} 
+* [Adobe I/O integration overview](https://experienceleague.adobe.com/docs/places/using/web-service-api/adobe-i-o-integration.html?lang=en){target="_blank"} 
 
 **Section 3: Configure the web proxy infrastructure**
 
-* [Develop Global Websites in AEM](https://learning.adobe.com/catalog/adobe_experiencemanager/cours000000000087076.html){target="_blank"} 
+* [Dispatcher Configurations](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/using/getting-started/dispatcher-configurations.html?lang=en){target="_blank"}
+* [Troubleshooting caching performance](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/troubleshooting-aem-forms-cloud-service/troubleshooting-caching-performance.html?lang=en){target="_blank"}
 
 **Section 4: Build and deployments**
 
-* [AEM 6.4 Developing User Guide](https://experienceleague.adobe.com/docs/experience-manager-64/developing/home.html?lang=en){target="_blank"} 
+* [Code Deployment](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/using/how-to-use/deploying-code.html?lang=en){target="_blank"}
+* [Configuring Production Pipelines](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/using/how-to-use/configuring-pipeline.html?lang=en){target="_blank"}
+* [How to Work with Packages](https://experienceleague.adobe.com/docs/experience-manager-64/administering/contentmanagement/package-manager.html?lang=en){target="_blank"}
+* [AEM Project Structure](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/developing/aem-project-content-package-structure.html?lang=en){target="_blank"}
 
 **Section 5: Monitor and report on quality metric**
 
-* [AEM 6.4 Developing User Guide](https://experienceleague.adobe.com/docs/experience-manager-64/developing/home.html?lang=en){target="_blank"}
+* [Monitoring and Maintaining Your AEM Instance](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/configuring/monitoring-and-maintaining.html#using-rlog-jar-to-find-requests-with-long-duration-times){target="_blank"}
+* [Tough Day: Adding Multiple Instances of the Same Test](https://experienceleague.adobe.com/docs/experience-manager-65/developing/testing/tough-day.html?lang=en#adding-multiple-instances-of-the-same-test){target="_blank"}
+* [Introduction to the Architecture of AEM as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/core-concepts/architecture.html?lang=en){target="_blank"}
+* [Introduction to Cloud Manager for AMS](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/using/introduction-to-cloud-manager.html?lang=en#autoscaling){target="_blank"}
 
 **Section 6: Operate the Admin Console**
 
-* [AEM 6.4 Developing User Guide](https://experienceleague.adobe.com/docs/experience-manager-64/developing/home.html?lang=en){target="_blank"}
+* [IMS Support for AEM as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/security/ims-support.html?lang=en#accessing-cloud-manager){target="_blank"}
+* [Adobe IMS user groups and AEM](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/accessing/adobe-ims-user-groups.html?lang=en){target="_blank"}
 
 ## Take a practice test
 
