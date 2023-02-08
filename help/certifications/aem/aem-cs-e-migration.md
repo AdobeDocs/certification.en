@@ -4,7 +4,7 @@ description: You have technical knowledge about audience segmentation, destinati
 solution: Experience Manager as a Cloud Service
 role: Developer
 ---
-# Certification journey - Adobe Experience Manager as a Cloud Service Migration
+# Certification journey - Adobe Experience Manager as a Cloud Service Migration expert
 
 Exam ID: AD0-E136
 
@@ -39,7 +39,7 @@ Additionally, you are familiar with the following technologies and environments:
 
 This is the certification for YOU!
 
-![Certification Expert Badge](/help/certifications/assets/professional-badge-small.png)
+![Certification Expert Badge](/help/certifications/assets/expert-badge-small.png)
 
 **Level of experience:** 1-3 years
 
@@ -58,6 +58,8 @@ This is the certification for YOU!
 ```
 Passing Score: 31/50
 Time: 100 mins
+Delivery: Online proctored (requires camera access) or test center proctored
+Available languages: English
 Cost: $125 (global) and $95 (India)
 Exam ID: AD0-E136
 
@@ -111,12 +113,42 @@ Section 5: Implementation (16%)
 
 You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
 
+**AD0-E136 Adobe Experience Manager as a Cloud Service Migration**
+
+**Section 1: Assessment**
+
+
+* [Experience Manager as a Cloud Service User Guide](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=en){target="_blank"} 
+* [Migration Guide to Adobe Experience Manager as a Cloud Service for Partners](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/migration-journey/getting-started-partners.html?lang=en){target="_blank"} 
+* [ Notable Changes to AEM as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/aem-cloud-changes.html?lang=en){target="_blank"} 
+
+**Section 2: Design**
+
+* [Adobe Experience Manager as a Cloud Service Documentation](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=en){target="_blank"}
+* [Introduction](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/content-delivery/caching.html){target="_blank"}
+
+**Section 3: Deployment**
+
+* [Code Quality Testing](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/test-results/code-quality-testing.html?lang=en){target="_blank"}
+* [Adding a Custom Domain Name](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/custom-domain-names/add-custom-domain-name.html?lang=en){target="_blank"}
+* [Configuring DNS Settings](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/custom-domain-names/configure-dns-settings.html?lang=en){target="_blank"}
+
+**Section 4: Migration**
+
+* [Running the Content Transfer Tool on a Publish Instance](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/migration-journey/cloud-migration/content-transfer-tool/running-content-transfer-tool-publish-instance.html?lang=en){target="_blank"}
+* [Prerequisites for Content Transfer Tool](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/migration-journey/cloud-migration/content-transfer-tool/prerequisites-content-transfer-tool.html?lang=en){target="_blank"}
+* [Debugging AEM as a Cloud Service using logs](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/debugging/debugging-aem-as-a-cloud-service/logs.html?lang=en){target="_blank"}
+
+**Section 5: Implementation**
+
+* [Use the CI/CD Pipeline in Adobe Cloud Manager](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/cloud-manager/use-the-cicd-pipeline-in-cloud-manager-for-aem.html?lang=en){target="_blank"}
+* [Deploying to AEM as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/deploying/overview.html?lang=en){target="_blank"}
 
 ## Get certified
 
 To schedule your exam you will click on "schedule" below. This will redirect you to the Adobe Credential Management system where you will click scheduling>then search for this exam to schedule.
 
-[Schedule AD0-E123](https://learning.adobe.com/api.certify.json){target="_blank"}
+[Schedule AD0-E136](https://learning.adobe.com/api.certify.json){target="_blank"}
 
 ## Questions
 

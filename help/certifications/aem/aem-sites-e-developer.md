@@ -51,10 +51,10 @@ This is the certification for YOU!
   
 ```
 
-Passing Score: 32/50
+Passing Score: 26/50
 Time: 100 mins
 Delivery: Online proctored (requires camera access) or test center proctored
-Available languages: English & Japanese
+Available languages: English
 Cost: $225 (global) and $150 (India)
 Exam ID: AD0-E134
 
