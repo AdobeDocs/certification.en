@@ -18,7 +18,7 @@ Your certification will be valid for two years from when you pass. We recommend 
 
 If you have experience working in a channel delivery environment (email, direct mail, mobile, and social); familiarity with marketing campaign tactics such as multi-touch, life cycle, and reactivation; and an understanding of marketing metrics such as ROI, clickthrough rates, and conversion.
 
-Additionally if you have;
+Additionally if you have:
 
 * Field experience working with Campaign Standard with regular frequency
 * An ability to process data files

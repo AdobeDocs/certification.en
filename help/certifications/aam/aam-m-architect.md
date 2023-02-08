@@ -16,35 +16,18 @@ If an exam is marked as retiring you will see a note at the top of this page. Th
 
 Your certification will be valid for two years from when you pass. We recommend taking the newer version, when possible, because it covers newer product capabilities.
 
-If you have at least 1 year experience leading Commerce development projects and are able to design, integrate, implement, and explain solutions to business problems by utilizing Adobe Commerce along with associated services.
+If you have at least 3 years of experience with data collection methods, data management platforms, and digital marketing technology stacks across Adobe and non-Adobe marketing platforms. You understand clients' unique technical and business requirements and develop customized solutions.
 
-Additionally, if you're very familiar with the following activities and technologies:
+You should be able to complete the following tasks:
 
-* Extend core features
-* Configure Adobe Commerce fully
-* Create full blueprint of how an extension should work, requirements of company to blueprint of how it should work, without having to go into the code
-* Understand business needs/features
-* Performance implications of solutions and extensions
-* Service contracts logic
-* GraphQL
-* Understand Composer as a dependency tool
-* Set up and configure working instance of Adobe Commerce from scratch
-* Customize admin dashboard, creating grids and forms
-* Cache and index management; creating custom index
-* Create new cache type
-* Troubleshoot and debug various problems in environment
-* Extend and manage database schema
-* Security features, provide secure installation and development extension
-* Perform server-based services which Commerce connects (Redis, Varnish configuration management)
-* Aware of best coding standard practice, Coding standards, PSR, SOLID principle
-* Set up and use Commerce Services Connector (and associated services)
-* Staging content management
-* Understanding Adobe Commerce defaults, when its' available and not available
-* Broad grasp of any related Commerce domain
-* Design project architecture
-* Optimize performance of Adobe Commerce default
-* Creating and modifying B2B
-* AMQP protocol and adapters in Adobe Commerce (S3)
+* Analyze business requirements to understand existing data and the additional data that is required
+* Design and develop specific implementations to meet customer requirements
+* Implement Adobe Audience Manager using different methodologies
+* Create segments
+* Activate audience segments across different Adobe and non-Adobe cloud solutions
+* Generate and analyze different reports within Audience Manager
+* Understand data collection strategies
+
 
 This is the certification for YOU!
 
@@ -54,23 +37,22 @@ This is the certification for YOU!
 
 **Intended audience:**
 
-* Lead Software/Commerce Architect
+* Audience Manager Consultant
+* Multi-solution Architect
+* Adobe Practice Lead
+* Enterprise Architect
+* Martech Architect
+* Technical Product Owner
+* Digital Marketing Specialist
 * Technical Architect
-* Solution Architect
-* Technical Lead
-* Technical Expert
-* Full Stack Developer
-* Lead Engineer
-* Associate Technical Architect
-* Senior Backend Developer
-* Backend Software Engineer
-* Senior Technical Consultant
+* Technical Consultant
+* Marketing Technologist
 
 **Exam details - Adobe Audience Manager Architect**
 
 ```
 Passing Score: 29/50
-Time: 120 mins
+Time: 100 mins
 Delivery: Online proctored (requires camera access)
 Available languages: English
 Cost: $225 (global) and $150 (India)
@@ -84,38 +66,42 @@ Exam ID: AD0-E454
 
 **Exam objectives and scope**
 
-Section 1: Design (46%)
+Section 1: Implementation analysis (26%)
 
-* Design and implement optimal solutions for Adobe Commerce to meet business needs
-* Design logical and technical flows
-* Customize Commerce features
-* Integrate Adobe Commerce with external systems and services
-* Troubleshoot design flows
+* Determine how to guide and support implementation of AAM as a stand-alone product or as part of a cloud solution
+* Analyze outbound destination options and recommend an AAM implementation approach
+* Determine a data onboarding strategy for a business use case
+* Identify features such as visitor profile viewer, tags, RBAC, etc. to align with business goals
+* Determine how to design and test pixels required to create segments and traits
 
-Section 2- Review (32%)
+Section 2: Solution design and recommendations (18%)
 
-* Review and refactor existing Adobe Commerce customizations
-* Utilize Commerce test frameworks throughout the whole workflow
-* Optimize performance and scalability for Adobe Commerce
-* Troubleshoot to identify the root cause of issues with Adobe Commerce
-* Enforce coding standards
+* Determine AAM capabilities based on customer use case for audience and activation
+* Apply procedural concepts to utilize audience identity solutions to complement design architecture
+* Identify attribute and behavioral data and map it to specific business use cases
+* Apply procedural concepts to design folder taxonomy and naming convention
 
-Section 3: Configure and Deploy (22%)
+Section 3: Segmentation and activation (30%)
 
-* Configure Adobe Commerce and make sure the project is set up optimally
-* Configure all aspects of Adobe Commerce Cloud
-* Oversee and improve deployment process
-* Troubleshoot infrastructure and configuration issues
+* Apply procedural concepts to create destinations in Audience Manager
+* Identify signals to create Rule-Based, Onboarded, and Algorithmic Traits
+* Apply procedural concepts to create segments using frequency/recency
+* Determine how to create segments using profile merge rules
+* Apply procedural concepts to create an algorithmic or predictive model
+* Determine segmentation logic based on use cases
 
-Section 4: Compliance/security basics (13%)
+Section 4: Privacy and data governance (8%)
 
-* Understand basics of compliance for privacy laws and payment security
-* Identify common security aspects of an Adobe Commerce project
-* Identify best practices and legal requirements of accessibility compliance
+* Recommend Audience Manager capabilities as it relates to governance, privacy, and security
+* Identify customer data policies that are in line with government regulations
+
+Section 5: Performance and reporting (18%)
+
+* Determine how to configure reports in AAM to gather signal, traits, and segment performance per business requirements
 
 ## Readiness self-assessment
 
-Complete the [online readiness questionnaire](https://scorpion.caveon.com/launchpad/ad-q-e718-readiness-questionnaire-for-adobe-commerce-architect-master-exam){target="_blank"} to see if your current experience matches the recommended minimum candidate qualification.
+Complete the [online readiness questionnaire](https://scorpion.caveon.com/launchpad/ad-q-e407-readiness-questionnaire-for-adobe-target-architect-master-exam-copy-b5z40t/ad-q-e454-readiness-questionnaire-for-adobe-audience-manager-architect-master){target="_blank"} to see if your current experience matches the recommended minimum candidate qualification.
 
 ## Get prepped
 
@@ -125,56 +111,38 @@ Here are some suggested resources to help you prepare:
 
 **AD0-E454 Adobe Commerce Architect**
 
-**Section 1: Design**
+**Section 1: Implementation Analysis**
 
-* [Create a product](https://docs.magento.com/user-guide/catalog/product-create.html){target="_blank"} 
-* [Page caching](https://developer.adobe.com/commerce/php/development/cache/page/){target="_blank"} 
-* [Introduction to Commerce Customer Management](https://docs.magento.com/user-guide/customers/customers-menu.html){target="_blank"} 
-* [Events and observers](https://developer.adobe.com/commerce/php/development/components/events-and-observers/){target="_blank"} 
-* [SEO overview](https://docs.magento.com/user-guide/marketing/seo-search.html){target="_blank"} 
-* [Store Details](https://docs.magento.com/user-guide/configuration/configuration-basic.html){target="_blank"} 
-* [Pages](https://docs.magento.com/user-guide/cms/content-elements.html){target="_blank"} 
-* [Adding a new payment integration (payment method))](https://devdocs.magento.com/guides/v2.4/payments-integrations/base-integration/integration-intro.html){target="_blank"} 
-* [Authentication](https://devdocs.magento.com/guides/v2.4/get-started/authentication/gs-authentication.html){target="_blank"} 
-* [GraphQL overview](https://devdocs.magento.com/guides/v2.4/graphql/index.html){target="_blank"} 
+* [Audience Manager Guide](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html?lang=en){target="_blank"}
+* [Analytics Integration](https://experienceleague.adobe.com/docs/analytics/integration/home.html?lang=en){target="_blank"}
+* [Adobe Experience Cloud Identity Service](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=en){target="_blank"}
 
-**Section 2: Review**
+**Section 2: Solution Design and Recommendations**
 
-* [Introduction](https://developer.adobe.com/commerce/php/module-reference/){target="_blank"} 
-* [Add a custom text field attribute](https://devdocs.magento.com/guides/v2.4/howdoi/custom-attributes/introduction.html){target="_blank"}
-* [Application Testing Guide introduction](https://devdocs.magento.com/guides/v2.4/test/testing.html){target="_blank"}
-* [Component development](https://developer.adobe.com/commerce/php/development/components/){target="_blank"}
-* [Best Practices](https://support.magento.com/hc/en-us/categories/360002582351-Best-Practices-){target="_blank"}
-* [Configure Varnish](https://devdocs.magento.com/guides/v2.4/config-guide/varnish/config-varnish.html){target="_blank"}
+* [Audience Manager Guide](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html?lang=en){target="_blank"}
+* [Audience Manager tutorials](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/overview.html?lang=en){target="_blank"}
 
-**Section 3: Configure and Deploy**
+**Section 3: Segmentation and Activation**
 
-* [Configuration Reference Guide](https://docs.magento.com/user-guide/configuration/general.html){target="_blank"}
-* [Configuration files for deployment](https://devdocs.magento.com/guides/v2.4/config-guide/config/config-magento.html){target="_blank"}
-* [Configure Redis](https://devdocs.magento.com/guides/v2.4/config-guide/redis/config-redis.html){target="_blank"}
-* [Currency](https://docs.magento.com/user-guide/stores/currency.html){target="_blank"}
-* [Overview of initialization and bootstrap](https://devdocs.magento.com/guides/v2.4/config-guide/bootstrap/magento-bootstrap.html){target="_blank"}
-* [Fastly services overview](https://devdocs.magento.com/cloud/cdn/cloud-fastly.html){target="_blank"}
+* [Audience Manager Guide](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html?lang=en){target="_blank"}
+* [Adobe Audience Manager](https://experienceleaguecommunities.adobe.com/t5/adobe-audience-manager/ct-p/adobe-audience-manager-community){target="_blank"}
+* [Audience Manager tutorials](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/overview.html?lang=en){target="_blank"}
 
-## Sample questions
+**Section 4: Privacy and Data Governance**
 
-The sample questions allow you to see the type and format of items that you will encounter in the actual exam. There is no sign-on needed. The results of the sample questions are not stored, and do not predict your actual test results.
+* [Audience Manager Guide](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html?lang=en){target="_blank"}
+* [Audience Manager REST API](https://bank.demdex.com/portal/swagger/index.html#/Segments%20API){target="_blank"}
+* [Analytics Admin Guide](https://experienceleague.adobe.com/docs/analytics/admin/home.html?lang=en){target="_blank"}
 
-[See sample questions](https://scorpion.caveon.com/launchpad/ad0-e718-adobe-commerce-architect-master-copy-kzcvh7){target="_blank"}
+**Section 5: Performance and Reporting**
 
-* Provide your email address.
-* Answer the candidate agreement.
-* Start the test.
-* Mark your answer in each question.
-* Click Next on the upper portion of the screen to save your answer and move to the next question. You may return and revise your question within the specified time.
-* On the last question, click Submit Exam to submit all your answers.
-* Answer the short survey.
+* [Adobe Experience Cloud Identity Service](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=en){target="_blank"}
 
 ## Get certified
 
 To schedule your exam you will click on "schedule" below. This will redirect you to the Adobe Credential Management system where you will click scheduling>then search for this exam to schedule.
 
-[Schedule AD0-E718](https://learning.adobe.com/api.certify.json){target="_blank"}
+[Schedule AD0-E454](https://learning.adobe.com/api.certify.json){target="_blank"}
 
 ## Questions
 
