@@ -58,7 +58,7 @@ Exam ID: AD0-E716
 
 ## Get ready
 
-**AD0-E716 Adobe Commerce Developer expert**
+**AD0-E716 Adobe Commerce Developer**
 
 **Exam objectives and scope**
 
@@ -129,7 +129,7 @@ Section 7: Adobe Commerce Cloud architecture (16%)
 * Distinguish when to contact support *Yaml files and limitations (DIY vs Support tickets)
 * Demonstrate basic knowledge of OOTB FASTLY features configuration and installation
 
-Section 8: Setup/Configuring Adobe Commerce Cloud (10%)
+Section 8: Setup/configuring Adobe Commerce Cloud (10%)
 
 * Describe how to setup/configure Adobe Commerce Cloud
 * Apply Basic Cloud troubleshooting knowledge (Hierarchy of web UI and variables, configurations precedence)
@@ -139,7 +139,7 @@ Section 8: Setup/Configuring Adobe Commerce Cloud (10%)
 * Demonstrate understanding of branching using UI
 * Identify Adobe commerce Cloud Plan capabilities
 
-Section 9: Commerce Cloud CLI tool (Managing part) (6%)
+Section 9: Commerce Cloud CLI tool (managing part) (6%)
 
 * Demonstrate understanding of updating cloud variables using CLI
 * Demonstrate understanding of environment Management using CLI (CLI exclusive features :activate emails, rebase environments, snapshot, db dump, local environment setup)
@@ -154,9 +154,9 @@ Complete the [online readiness questionnaire](https://scorpion.caveon.com/launch
 
 You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
 
-**AD0-E716 Adobe Commerce Developer expert**
+**AD0-E716 Adobe Commerce Developer**
 
-**Section 1: Adobe Commerce Architecture and customization techniques**
+**Section 1: Adobe Commerce architecture and customization techniques**
 
 * [ Commerce for developers - Overview](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-1-1-overview.html?lang=en#video-content){target="_blank"}
 * [Commerce for developers - Development workflow](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-1-2-workflow.html?lang=en){target="_blank"}
@@ -249,7 +249,7 @@ You are not required to complete training before taking the exam, and training a
 * [Message queues](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/message-queues/message-queues.html){target="_blank"}
 * [Bulk operations](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/message-queues/bulk-operations.html){target="_blank"}
 
-**Section 7:**
+**Section 7: Adobe Commerce Cloud architecture**
 
 * [Pro project workflow](https://devdocs.magento.com/cloud/architecture/pro-develop-deploy-workflow.html){target="_blank"}
 * [Cloud CLI](https://devdocs.magento.com/cloud/reference/cli-ref-topic.html){target="_blank"}
@@ -257,7 +257,7 @@ You are not required to complete training before taking the exam, and training a
 * [ECE-Tools Package](https://devdocs.magento.com/cloud/reference/ece-tools-reference.html){target="_blank"}
 
 
-**Section 8:**
+**Section 8: Setup/configuring Adobe Commerce Cloud**
 
 * [Manage user access](https://devdocs.magento.com/cloud/project/user-admin.html#cloud-user-webinterface){target="_blank"}
 * [Secure connections to remote environments](https://devdocs.magento.com/cloud/before/before-workspace-ssh.html#add-key-web){target="_blank"}
@@ -265,7 +265,7 @@ You are not required to complete training before taking the exam, and training a
 * [Manage branches with the CLI](https://devdocs.magento.com/cloud/project/project-webint-branch.html){target="_blank"}
 
 
-**Section 9:**
+**Section 9: Commerce Cloud CLI tool (managing part)**
 
 * [Snapshots and backup management](https://devdocs.magento.com/cloud/project/project-webint-snap.html){target="_blank"}
 * [Manage disk space](https://devdocs.magento.com/cloud/project/manage-disk-space.html){target="_blank"}
