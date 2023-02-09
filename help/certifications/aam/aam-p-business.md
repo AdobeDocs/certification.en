@@ -4,127 +4,147 @@ description: You have technical knowledge about audience segmentation, destinati
 solution: Audience Manager
 role: Developer
 ---
-# Certification Journey - Adobe Audience Manager
+# Certification journey - Adobe Audience Manager Business Practitioner professional
 
-## Start Your Journey toward Certification
+Exam ID: AD0-E458
 
-Bacon ipsum dolor amet buffalo short loin meatloaf, t-bone turkey pork hamburger boudin pork chop venison ribeye cow pork belly. Chuck alcatra bacon, frankfurter t-bone salami tri-tip spare ribs ribeye venison sausage strip steak meatball landjaeger cupim. Picanha tri-tip cow fatback, swine pork loin andouille pork tail. Bresaola chicken leberkas, ground round ball tip brisket meatball corned beef sausage andouille porchetta frankfurter doner strip steak burgdoggen. Boudin landjaeger leberkas salami.
+## Start your journey toward certification
 
-<table>
-<tr  style="border: 0">
-<td style="width: 160px;text-align: left">
+Purchase your exam voucher at Adobe Certification Voucher Center, if you have a discount, it will apply at checkout. Apply the voucher code when you schedule your exam.
 
-<!--- TO CHANGE BADGE : change "expert-badge.png" to "master-badge.png" or "professional-badge.png --->
+If an exam is marked as retiring you will see a note at the top of this page. This indicates that you can still take it until the date specified in the note. 
 
-  <img alt="Certification Badge" style="width: 120px" src="/help/certifications/assets/expert-badge.png" />
-</td>
-<td style="width: 400px;">
-  <strong>Level of Experience: </strong> 1-3 years
+Your certification will be valid for two years from when you pass. We recommend taking the newer version, when possible, because it covers newer product capabilities.
 
-  <strong>Intended Audience:</strong>
-  Data Architect/Engineer, Solution Architect or MSA, 
-  Enterprise Architect, Product Manager, Marketing Technology Lead
-</tr>
-</table>
+If you have a minimum of 
 
-<table>
- <tr  style="border: 0;">
-    <td> <strong>Adobe Experience Platform</strong> </td>
- </tr>
+This is the certification for YOU!
 
- <tr style="border: 0;background-color: white;">
-    <td>
-    Exam Details:<br>
-    Passing Score: 35/50<br>
-    Time: 105 mins<br>
-    Cost: $225 (global) and $150 (India)<br>
-    Exam ID: AD0-E600
-    </td>
- </tr>
+![Certification Professional Badge](/help/certifications/assets/professional-badge-small.png)
 
-</table>
+**Level of experience:** 0-12 months
 
-## Exam Purpose
+**Intended audience:**
 
-Bacon ipsum dolor amet buffalo short loin meatloaf, t-bone turkey pork hamburger boudin pork chop venison ribeye cow pork belly. Chuck alcatra bacon, frankfurter t-bone salami tri-tip spare ribs ribeye venison sausage strip steak meatball landjaeger cupim. Picanha tri-tip cow fatback, swine pork loin andouille pork tail. Bresaola chicken leberkas, ground round ball tip brisket meatball corned beef sausage andouille porchetta frankfurter doner strip steak burgdoggen. Boudin landjaeger leberkas salami.
+* Digital Marketing Specialist
+* Marketing Technology Consultant
+* Audience Strategist
+* Behavioral Consultant
+* Digital Marketing Analyst
+* Marketing Data Analyst
+* Data Platforms Manager
 
-## Get Ready
+**Exam details - Adobe Audience Manager Business Practitioner**
 
-**AD0-E600 Adobe Experience Platform Technical Foundations**
+```
+Passing Score: 31/50
+Time: 100 mins
+Delivery: Online proctored (requires camera access)
+Available languages: English
+Cost: $125 (global) and $95 (India)
+Exam ID: AD0-E458
 
-**Minimum Candidate Experience**
+```
 
-Defined by a team of subject matter experts, the candidate who is ready to pass the Adobe Experience Platform - Adobe Qualified exam has the following qualifications, at a minimum:
+## Get ready
 
-* Basic know-how of Experience Platform and can navigate through the UI
-* A high-level understanding of each UI component
+**AD0-E458 Adobe Audience Manager Business Practitioner**
 
-**Exam Objectives and Scope**
+**Exam objectives and scope**
 
-Section 1: Data Modeling (20%)
-* Analyze source data to evaluate primary and secondary identity for profile stitching
-* Demonstrate an understanding of how to use the UI to create/edit XDM Schemas.
-* Identify DULE Guidance
+Section 1: Segment Creation and Syndication (32%)
 
-Section 2: Data Ingestion (36%)
-* Demonstrate how to format and prepare data for ingestion
-* Demonstrate how to connect data sources using OOTB connectors
+* Identify ways to utilize first-, second-, and third-party data for targeting and analytical purposes
+* Describe the basic process for the activation of business or campaign goals
+* Differentiate the methods for segment activation
+* Identify the different types of destinations
+* Identify the different types of sources
 
-Section 3: Unifying Profiles (34%)
-* Validate Profiles and Event data post ingestion
-* Define identity name spaces
+Section 2: Trait Creation (16%)
 
-Section 4: Activation (10%)
-* Demonstrate how to set up a destination and how segment activation works
-* Demonstrate and understanding of data access API and exporting data via Real-Time CDP
+* Given a scenario, identify signals, traits, segments, and audiences
+* Identify the uses of different types of traits
 
-Take a readiness questionnaire to find out if you meet the minimum qualifications.
+Section 3: Reporting and Measurements (16%)
 
-## Get Prepped
+* Given a scenario, generate reports to measure activation or campaign goals
+* Given a scenario, compare audiences on the basis of match rates
+
+Section 4: Troubleshooting (10%)
+
+* Given a scenario, troubleshoot inbound data from different sources and source types
+* Validate format for inbound data files
+
+Section 5: Taxonomy (12%)
+
+* Determine the appropriate structure to create traits and segments that utilize a clear and consistent nomenclature
+* Determine the correct technique to maintain an organized platform using a clear folder structure
+
+Section 6: Profile Merge, ID Sync, and Audience Marketplace
+
+* Organize user traits into a single unified profile to create household- or device-based audiences
+* Identify activation using Audience Marketplace
+
+## Get prepped
 
 You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
 
 Here are some suggested resources to help you prepare:
 
-**AD0-E600 Adobe Experience Platform Technical Foundations**
+**AD0-E458 Adobe Audience Manager Business Practitioner**
 
-The exam covers four domains: business analysis, reporting and dashboarding, segmentation and calculated metrics, general tool knowledge, and reporting.
+**Section 1: Segment Creation and Syndication**
 
-**Section 1: Data Modeling**
+* [Audience Manager Guide](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html?lang=en){target="_blank"} 
+* [Destinations overview](https://experienceleague.adobe.com/docs/experience-platform/destinations/home.html?lang=en){target="_blank"} 
 
-* Documentation: [Understanding Schemas](https://experienceleague.adobe.com/docs/experience-platform/xdm/schema/composition.html)
-* SPP On Demand: [Schema and XDM Overview / Adobe Experience Platform: Data Modeling and Ingestion](https://video.tv.adobe.com/v/27105)
-* SPP Challenge/Hands On: [Model data in Schemas](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/model-data-in-schemas.html)
-* Experience League Tutorial: [Schema and XDM Overview](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/schemas-and-experience-data-model.html)
+**Section 2: Trait Creation**
 
-**Section 2: Data Ingestion**
+* [Audience Manager Guide](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html?lang=en){target="_blank"} 
+* [Analytics Integration](https://experienceleague.adobe.com/docs/analytics/integration/home.html?lang=en){target="_blank"} 
 
-* Documentation: [Data Ingestion](https://experienceleague.adobe.com/docs/experience-platform/ingestion/home.html?lang=en)
-* SPP On Demand: [Adobe Experience Platform: Data Modeling and Ingestion](https://solutionpartners.adobe.com/training/learning_program/learningProgram83768.html)
+**Section 3: Reporting and Measurements**
 
-**Section 3: Unifying Profiles**
+* [Analytics Tech Notes](https://experienceleague.adobe.com/docs/analytics/technotes/home.html?lang=en){target="_blank"} 
+* [Digital Experience blueprints](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/overview.html?lang=en){target="_blank"} 
+* [Audience Manager tutorials](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/overview.html?lang=en){target="_blank"} 
 
-* Documentation: [Identity and identity graphs](https://experienceleague.adobe.com/docs/platform-learn/tutorials/identities/understanding-identity-and-identity-graphs.html?lang=en)
-* SPP On Demand: [Experience Platform: Create and Manage Real-time Customer Profile](https://cpcontents.adobe.com/public/newlearner/newlearner_de10804e.html?accountId=32503#/course/1175314/overview?cert_id=undefined&lp_id=undefined)
+**Section 4: Troubleshooting**
 
+* [Audience Manager Guide](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html?lang=en){target="_blank"} 
 
-**Section 4: Activation**
+**Section 5: Taxonomy**
 
-* Documentation: [Destinations](https://experienceleague.adobe.com/docs/experience-platform/destinations/home.html?lang=en)
-* SPP On Demand: [Adobe Experience Platform: Segmentation for Developers](https://solutionpartners.adobe.com/training/learning_program/learningProgram83769.html)
+* [Audience Manager tutorials](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/overview.html?lang=en){target="_blank"} 
+* [Audience Manager Guide](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html?lang=en){target="_blank"} 
+* [Analytics Components Guide](https://experienceleague.adobe.com/docs/analytics/components/home.html?lang=en){target="_blank"} 
 
-**Additional Study Aid Resources**
+**Section 6: Profile Merge, ID Sync, and Audience Marketplace**
 
-Adobe has provided additional study aids to help you prepare for your certification exam. These include content from Adobe Experience League, Adobe Digital Learning Solutions, and technical documentation
+* [Audience Manager Guide](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html?lang=en){target="_blank"} 
 
-+++See Resources
+## Sample questions
 
-* [Adobe Experience Platform Enablement (Partners Only)](https://solutionpartners.adobe.com/training/courses/course5250864.html)
-* [Experience Data Model (XDM) Guide](https://experienceleague.adobe.com/docs/experience-platform/xdm/home.html?lang=en)
-+++
+The sample questions allow you to see the type and format of items that you will encounter in the actual exam. There is no sign-on needed. The results of the sample questions are not stored, and do not predict your actual test results.
 
-{{$include /help/_includes/take-a-practice-test.md}}
+[See sample questions](https://scorpion.caveon.com/launchpad/ad0-e458-adobe-audience-manager-business-practitioner-professional-copy-dvaivw){target="_blank"}
 
-{{$include /help/_includes/get-certified.md}}
+* Provide your email address.
+* Answer the candidate agreement.
+* Start the test.
+* Mark your answer in each question.
+* Click Next on the upper portion of the screen to save your answer and move to the next question. You may return and revise your question within the specified time.
+* On the last question, click Submit Exam to submit all your answers.
+* Answer the short survey.
 
-{{$include /help/_includes/questions.md}}
+## Get certified
+
+To schedule your exam you will click on "schedule" below. This will redirect you to the Adobe Credential Management system where you will click scheduling>then search for this exam to schedule.
+
+[Schedule AD0-E458](https://learning.adobe.com/api.certify.json){target="_blank"}
+
+## Questions
+
+Have a question about Adobe Certification? Please email `certif@adobe.com` for additional details about the program.
+
+View the certification [FAQs](https://solutionpartners.adobe.com/solution-partners/training_and_certification/certification/certification_faq.html#){target="_blank"}.
