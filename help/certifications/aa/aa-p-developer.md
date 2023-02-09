@@ -4,127 +4,182 @@ description: You have technical knowledge about audience segmentation, destinati
 solution: Analytics
 role: Developer
 ---
-# Certification Journey - Adobe Analytics
+# Certification journey - Adobe Analytics Developer professional
 
-## Start Your Journey toward Certification
+Exam ID: AD0-E213
+    
+## Start your journey toward certification
 
-Bacon ipsum dolor amet buffalo short loin meatloaf, t-bone turkey pork hamburger boudin pork chop venison ribeye cow pork belly. Chuck alcatra bacon, frankfurter t-bone salami tri-tip spare ribs ribeye venison sausage strip steak meatball landjaeger cupim. Picanha tri-tip cow fatback, swine pork loin andouille pork tail. Bresaola chicken leberkas, ground round ball tip brisket meatball corned beef sausage andouille porchetta frankfurter doner strip steak burgdoggen. Boudin landjaeger leberkas salami.
+Purchase your exam voucher at Adobe Certification Voucher Center, if you have a discount, it will apply at checkout. Apply the voucher code when you schedule your exam.
 
-<table>
-<tr  style="border: 0">
-<td style="width: 160px;text-align: left">
+If an exam is marked as retiring you will see a note at the top of this page. This indicates that you can still take it until the date specified in the note. 
 
-<!--- TO CHANGE BADGE : change "expert-badge.png" to "master-badge.png" or "professional-badge.png --->
+Your certification will be valid for two years from when you pass. We recommend taking the newer version, when possible, because it covers newer product capabilities.
 
-  <img alt="Certification Badge" style="width: 120px" src="/help/certifications/assets/expert-badge.png" />
-</td>
-<td style="width: 400px;">
-  <strong>Level of Experience: </strong> 1-3 years
+If you have at least 2 years of experience with Adobe Commerce Development and you're with the following technologies and environments:
 
-  <strong>Intended Audience:</strong>
-  Data Architect/Engineer, Solution Architect or MSA, 
-  Enterprise Architect, Product Manager, Marketing Technology Lead
-</tr>
-</table>
+* Adobe Commerce - version 2.4
+* PHP
+* XDebug/PHP debugging tools, browser debugging tools
+* Linting tools
+* Composer
+* SSH, basic Linux
+* Redis, Elasticsearch, SQL, Varnish, RabbitMQ
+* API validation tools, API client tools (Postman)
+* Version control software such as Git
+* Cloud Architecture
 
-<table>
- <tr  style="border: 0;">
-    <td> <strong>Adobe Experience Platform</strong> </td>
- </tr>
+This is the certification for YOU!
 
- <tr style="border: 0;background-color: white;">
-    <td>
-    Exam Details:<br>
-    Passing Score: 35/50<br>
-    Time: 105 mins<br>
-    Cost: $225 (global) and $150 (India)<br>
-    Exam ID: AD0-E600
-    </td>
- </tr>
+![Certification professional Badge](/help/certifications/assets/professional-badge-small.png)
 
-</table>
+**Level of experience**: 0-12 months
 
-## Exam Purpose
+**Intended audience:** 
 
-Bacon ipsum dolor amet buffalo short loin meatloaf, t-bone turkey pork hamburger boudin pork chop venison ribeye cow pork belly. Chuck alcatra bacon, frankfurter t-bone salami tri-tip spare ribs ribeye venison sausage strip steak meatball landjaeger cupim. Picanha tri-tip cow fatback, swine pork loin andouille pork tail. Bresaola chicken leberkas, ground round ball tip brisket meatball corned beef sausage andouille porchetta frankfurter doner strip steak burgdoggen. Boudin landjaeger leberkas salami.
+* Developers
+* Lead Developers
+* Backend Developer
+* Solution Architects
+* Technical Leaders
 
-## Get Ready
+**Exam details - Adobe Analytics Developer**
+  
+```
 
-**AD0-E600 Adobe Experience Platform Technical Foundations**
+Passing Score: 31/69
+Time: 100 mins
+Delivery: Online proctored (requires camera access)
+Available languages: English
+Cost: $125 (global) and $950 (India)
+Exam ID: AD0-E213
 
-**Minimum Candidate Experience**
+```
 
-Defined by a team of subject matter experts, the candidate who is ready to pass the Adobe Experience Platform - Adobe Qualified exam has the following qualifications, at a minimum:
+## Get ready
 
-* Basic know-how of Experience Platform and can navigate through the UI
-* A high-level understanding of each UI component
+**AD0-E213 Adobe Analytics Developer**
 
-**Exam Objectives and Scope**
+**Exam objectives and scope**
 
-Section 1: Data Modeling (20%)
-* Analyze source data to evaluate primary and secondary identity for profile stitching
-* Demonstrate an understanding of how to use the UI to create/edit XDM Schemas.
-* Identify DULE Guidance
+Section 1: Analytics in the Adobe Experience Cloud ecosystem (14%)
 
-Section 2: Data Ingestion (36%)
-* Demonstrate how to format and prepare data for ingestion
-* Demonstrate how to connect data sources using OOTB connectors
+* Identify features and capabilities of Adobe Experience Cloud ID
+* Identify uses for Adobe Launch
+* Identify how to enable / support Adobe Analytics tags in the Adobe Experience Cloud Ecosystem
 
-Section 3: Unifying Profiles (34%)
-* Validate Profiles and Event data post ingestion
-* Define identity name spaces
+Section 2: Analytics strategy and design based on a solution design reference (12%)
 
-Section 4: Activation (10%)
-* Demonstrate how to set up a destination and how segment activation works
-* Demonstrate and understanding of data access API and exporting data via Real-Time CDP
+* Given a Solution Design Reference, identify which data objects have to be populated
+* Given a part of a Tech Spec document, identify how to implement the data capture
 
-Take a readiness questionnaire to find out if you meet the minimum qualifications.
+Section 3: Analytics implementation and configuration (30%)
 
-## Get Prepped
+* Identify the steps to deploy Adobe Analytics Code
+* Identify functions of minimal deployment code for Analytics tracking
+* Identify the steps to configure various components within Adobe Analytics UI
+* Identify functions of Adobe Analytics report suite and variable settings
+* Identify the characteristics of a data layer and data layer values
+* Identify App Measurement functions for tracking features such as link tracking and e-commerce tracking
+
+Section 4: Tag management systems (18%)
+
+* Identify if requirements have been met using tag audits
+* Identify the steps to configure website tagging with Adobe Launch
+* Given a scenario, identify how to enable, modify, and troubleshoot extensions in Adobe Launch
+Identify how to create rules and data elements
+
+Section 5: Mobile services and API (8%)
+
+* Identify the functions of Adobe Analytics API (data feed, warehouse, data sources, reports)
+* Identify the characteristics of processing rules and mobile services
+
+Section 6: Testing, validation, and troubleshooting (18%)
+
+* Identify the meaning of common JavaScript errors
+* Identify the meaning of common Adobe Analytics variables errors
+* Given a scenario, identify testing and debugging validation best practices that should be followed
+* Identify how to track an Adobe Analytics server call across its lifecycle (i.e. from beacon request to showing up in the report)
+
+## Readiness self-assessment
+
+Complete the [online readiness questionnaire](https://scorpion.caveon.com/launchpad/ad3-e213-adobe-analytics-developer-professional-sample-questions){target="_blank"} to see if your current experience matches the recommended minimum candidate qualification.
+
+## Get prepped
 
 You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
 
-Here are some suggested resources to help you prepare:
+**AD0-E213 Adobe Analytics Developer**
 
-**AD0-E600 Adobe Experience Platform Technical Foundations**
+**Section 1: Analytics in the Adobe Experience Cloud ecosystem**
 
-The exam covers four domains: business analysis, reporting and dashboarding, segmentation and calculated metrics, general tool knowledge, and reporting.
+* [Adobe Experience Cloud Identity Service](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=en){target="_blank"} 
+* [Identity Service FAQs](https://experienceleague.adobe.com/docs/id-service/using/faqs/faq-intro.html?lang=en){target="_blank"} 
+* [AEM 6.5 Authoring User Guide](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html?lang=en){target="_blank"} 
+* [Overview: Implement the Experience Cloud in Websites with Tags](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/overview.html?lang=en){target="_blank"} 
+* [Tags overview](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html?lang=en){target="_blank"} 
+* [Implement Adobe Analytics](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=en){target="_blank"} 
 
-**Section 1: Data Modeling**
+**Section 2: Analytics strategy and design based on a solution design reference**
 
-* Documentation: [Understanding Schemas](https://experienceleague.adobe.com/docs/experience-platform/xdm/schema/composition.html)){target="_blank"}
-* SPP On Demand: [Schema and XDM Overview / Adobe Experience Platform: Data Modeling and Ingestion](https://video.tv.adobe.com/v/27105)){target="_blank"}
-* SPP Challenge/Hands On: [Model data in Schemas](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/model-data-in-schemas.html)){target="_blank"}
-* Experience League Tutorial: [Schema and XDM Overview](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/schemas-and-experience-data-model.html)){target="_blank"}
+* Analytics tutorials
+* Implement Adobe Analytics
+* Analytics Admin Guide
 
-**Section 2: Data Ingestion**
+**Section 3: Analytics implementation and configuration**
 
-* Documentation: [Data Ingestion](https://experienceleague.adobe.com/docs/experience-platform/ingestion/home.html?lang=en)){target="_blank"}
-* SPP On Demand: [Adobe Experience Platform: Data Modeling and Ingestion](https://solutionpartners.adobe.com/training/learning_program/learningProgram83768.html)){target="_blank"}
+* Implement Adobe Analytics
+* Tags overview
+* Analytics Tool Guide
+* Analytics Admin Guide
+* Developers Live: Adobe Client Data Layer: Track your visitor data
+* Quick tip – Passing Data into Launch Rules
 
-**Section 3: Unifying Profiles**
+**Section 4: Tag management systems**
 
-* Documentation: [Identity and identity graphs](https://experienceleague.adobe.com/docs/platform-learn/tutorials/identities/understanding-identity-and-identity-graphs.html?lang=en)){target="_blank"}
-* SPP On Demand: [Experience Platform: Create and Manage Real-time Customer Profile](https://cpcontents.adobe.com/public/newlearner/newlearner_de10804e.html?accountId=32503#/course/1175314/overview?cert_id=undefined&lp_id=undefined)){target="_blank"}
+* Tags overview
+* Tag Management
+* Overview: Implement the Experience Cloud in Websites with Tags
+* Analytics tutorials
+
+**Section 5: Mobile services and API**
+
+* Adobe Analytics: Email Marketing (ESP) Integration Case Study
+* Adobe Analytics APIs
+* Welcome to the enterprise and teams admin guide
+* Getting started with the Analytics API
+* Analytics Admin Guide
+
+**Section 6: Testing, validation, and troubleshooting**
+
+* JavaScript error reference
+* Analytics Tech Notes
+* Implement Adobe Analytics
 
 
-**Section 4: Activation**
+## Sample questions
 
-* Documentation: [Destinations](https://experienceleague.adobe.com/docs/experience-platform/destinations/home.html?lang=en)){target="_blank"}
-* SPP On Demand: [Adobe Experience Platform: Segmentation for Developers](https://solutionpartners.adobe.com/training/learning_program/learningProgram83769.html)){target="_blank"}
+The sample questions allow you to see the type and format of items that you will encounter in the actual exam. There is no sign-on needed. The results of the sample questions are not stored, and do not predict your actual test results.
 
-**Additional Study Aid Resources**
+[See sample questions](https://scorpion.caveon.com/launchpad/ad3-e213-adobe-analytics-developer-professional-sample-questions){target="_blank"}
 
-Adobe has provided additional study aids to help you prepare for your certification exam. These include content from Adobe Experience League, Adobe Digital Learning Solutions, and technical documentation
+* Provide your email address.
+* Answer the candidate agreement.
+* Start the test.
+* Mark your answer in each question.
+* Click Next on the upper portion of the screen to save your answer and move to the next question. You may return and revise your question within the specified time.
+* On the last question, click Submit Exam to submit all your answers.
+* Answer the short survey.
 
-+++See Resources
 
-* [Adobe Experience Platform Enablement (Partners Only)](https://solutionpartners.adobe.com/training/courses/course5250864.html)
-* [Experience Data Model (XDM) Guide](https://experienceleague.adobe.com/docs/experience-platform/xdm/home.html?lang=en)
-+++
+## Get certified
 
-{{$include /help/_includes/take-a-practice-test.md}}
+To schedule your exam you will click on "schedule" below. This will redirect you to the Adobe Credential Management system where you will click scheduling>then search for this exam to schedule.
 
-{{$include /help/_includes/get-certified.md}}
+* [Schedule AD0-E213](https://learning.adobe.com/api.certify.json)
 
-{{$include /help/_includes/questions.md}}
+## Questions
+
+Have a question about Adobe Certification? Please email `certif@adobe.com` for additional details about the program.
+
+View the certification [FAQs](https://solutionpartners.adobe.com/solution-partners/training_and_certification/certification/certification_faq.html#){target="_blank"}.
