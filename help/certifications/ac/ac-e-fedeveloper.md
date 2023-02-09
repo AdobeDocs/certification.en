@@ -141,9 +141,9 @@ You are not required to complete training before taking the exam, and training a
 * [Create a new storefront theme](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/themes/theme-create.html){target="_blank"} 
 * [Theme inheritance](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/themes/theme-inherit.html){target="_blank"} 
 * [Extend a layout](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/layouts/layout-extend.html){target="_blank"} 
-* [Commerce for business users - Email communications](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/5-3-store-communications.html?lang=en){target="_blank"} 
+* [Email communications](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/5-3-store-communications.html?lang=en){target="_blank"} 
 * [Customize email templates](https://docs.magento.com/user-guide/marketing/email-template-custom.html){target="_blank"} 
-* [Email template list](https://docs.magento.com/user-guide/marketing/email-template-list.html){target="_blank"} 
+* [Email templates](https://docs.magento.com/user-guide/marketing/email-template-list.html){target="_blank"} 
 * [Translations](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/translations/xlate.html){target="_blank"} 
 * [Create your component file structure](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/build/module-file-structure.html#root-directory-location){target="_blank"}
 
@@ -154,8 +154,8 @@ You are not required to complete training before taking the exam, and training a
 * [Layout file types](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/layouts/layout-types.html){target="_blank"} 
 * [Extend a layout](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/layouts/layout-extend.html){target="_blank"} 
 * [Override a layout](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/layouts/layout-override.html){target="_blank"} 
-* [Common layout customization tasks](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/layouts/xml-manage.html){target="_blank"} 
-* [Basic concepts](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/templates/template-override.html#getter){target="_blank"} 
+* [Common customization tasks](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/layouts/xml-manage.html){target="_blank"} 
+* [Basic template concepts](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/templates/template-override.html#getter){target="_blank"} 
 * [Templates](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/templates/template-overview.html){target="_blank"} 
 * [Templates customization example](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/templates/template-sample.html){target="_blank"} 
 * [Cross-site scripting (XSS)](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/xss-protection.html){target="_blank"} 
@@ -192,10 +192,9 @@ You are not required to complete training before taking the exam, and training a
 * [Design Configuration](https://docs.magento.com/user-guide/design/configuration.html){target="_blank"}
 * [Page Layout](https://docs.magento.com/user-guide/design/page-layout.html){target="_blank"}
 * [Add styles](https://devdocs.magento.com/page-builder/docs/content-types/create/add-styles.html){target="_blank"}
-* [Optimizing resource files](https://docs.magento.com/user-guide/system/file-optimization.html){target="_blank"}
+* [Developer tools](https://docs.magento.com/user-guide/system/file-optimization.html){target="_blank"}
 * [JavaScript bundling](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/themes/js-bundling.html){target="_blank"}
 * [Email templates](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/templates/template-email.html){target="_blank"}
-* [Developer tools](https://docs.magento.com/user-guide/system/developer-tools.html){target="_blank"}
 
 **Section 6: Tools (CLI and Grunt)**
 
