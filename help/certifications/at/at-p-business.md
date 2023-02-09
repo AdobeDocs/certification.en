@@ -111,33 +111,33 @@ The exam covers four domains: business analysis, reporting and dashboarding, seg
 
 **Section 1: Planning and strategy**
 
-* [Adobe Target Guide](https://experienceleague.adobe.com/docs/target/using/target-home.html?lang=en){target="_blank"}
+* [Adobe Target Business Practitioner Guide](https://experienceleague.adobe.com/docs/target/using/target-home.html?lang=en){target="_blank"}
 * [Adobe Target Documentation](https://experienceleague.adobe.com/docs/target.html?lang=en){target="_blank"}
 * [Visitor Profiles](https://experienceleague.adobe.com/docs/target/using/audiences/visitor-profiles/visitor-profile.html?lang=en){target="_blank"}
 * [Adobe Target welcome kit](https://experienceleague.adobe.com/docs/target/using/introduction/welcome/target-welcome-kit.html?lang=en){target="_blank"}
 * [Success Metrics](https://experienceleague.adobe.com/docs/target/using/activities/success-metrics/success-metrics.html?lang=en){target="_blank"}
-* [Categories for Audiences Overview](https://experienceleague.adobe.com/docs/target/using/audiences/create-audiences/categories-audiences/target-rules.html?lang=en){target="_blank"}
+* [Categories for audiences](https://experienceleague.adobe.com/docs/target/using/audiences/create-audiences/categories-audiences/target-rules.html?lang=en){target="_blank"}
 
 **Section 2: Configuring, executing and managing**
 
-* [Visual Experience Composer Overview](https://experienceleague.adobe.com/docs/target/using/experiences/vec/visual-experience-composer.html?lang=en){target="_blank"}
-* [Adobe Target Welcome Kit](https://experienceleague.adobe.com/docs/target/using/introduction/welcome/target-welcome-kit.html?lang=en){target="_blank"}
-* [A/B Test Overview](https://experienceleague.adobe.com/docs/target/using/activities/abtest/test-ab.html?lang=en){target="_blank"}
+* [Visual Experience Composer (VEC))](https://experienceleague.adobe.com/docs/target/using/experiences/vec/visual-experience-composer.html?lang=en){target="_blank"}
+* [Adobe Target welcome kit](https://experienceleague.adobe.com/docs/target/using/introduction/welcome/target-welcome-kit.html?lang=en){target="_blank"}
+* [A/B Test overview](https://experienceleague.adobe.com/docs/target/using/activities/abtest/test-ab.html?lang=en){target="_blank"}
 * [Create an Experience Targeting activity](https://experienceleague.adobe.com/docs/target/using/activities/experience-targeting/create-targeting/xt-create.html?lang=en){target="_blank"}
 * [Multivariate Test overview](https://experienceleague.adobe.com/docs/target/using/activities/multivariate-test/multivariate-testing.html?lang=en){target="_blank"}
-* [Recommendations Overview](https://experienceleague.adobe.com/docs/target/using/recommendations/recommendations.html?lang=en){target="_blank"}
-* [Create Audiences Overview](https://experienceleague.adobe.com/docs/target/using/audiences/create-audiences/audiences.html?lang=en){target="_blank"}
-* [Activity QA Overview](https://experienceleague.adobe.com/docs/target/using/activities/activity-qa/activity-qa.html?lang=en){target="_blank"}
+* [Recommendations](https://experienceleague.adobe.com/docs/target/using/recommendations/recommendations.html?lang=en){target="_blank"}
+* [Create audiences](https://experienceleague.adobe.com/docs/target/using/audiences/create-audiences/audiences.html?lang=en){target="_blank"}
+* [Activity QA](https://experienceleague.adobe.com/docs/target/using/activities/activity-qa/activity-qa.html?lang=en){target="_blank"}
 
 **Section 3: Analyzing and reporting**
 
-* [Report Settings Overview](https://experienceleague.adobe.com/docs/target/using/reports/settings/report-settings.html?lang=en){target="_blank"}
-* [A/B Test Overview](https://experienceleague.adobe.com/docs/target/using/activities/abtest/test-ab.html?lang=en){target="_blank"}
+* [Report settings](https://experienceleague.adobe.com/docs/target/using/reports/settings/report-settings.html?lang=en){target="_blank"}
+* [A/B Test overview](https://experienceleague.adobe.com/docs/target/using/activities/abtest/test-ab.html?lang=en){target="_blank"}
 
 **Section 4: Troubleshooting**
 
-* [Adobe Target Guide](https://experienceleague.adobe.com/docs/target/using/target-home.html?lang=en){target="_blank"}
-* [Adobe Experience Cloud Debugger Extension](https://experienceleague.adobe.com/docs/debugger/using/experience-cloud-debugger.html?lang=en){target="_blank"}
+* [Adobe Target Business Practitioner Guide](https://experienceleague.adobe.com/docs/target/using/target-home.html?lang=en){target="_blank"}
+* [Adobe Experience Cloud Debugger overview](https://experienceleague.adobe.com/docs/debugger/using/experience-cloud-debugger.html?lang=en){target="_blank"}
 
 ## Sample questions
 
