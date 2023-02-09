@@ -57,21 +57,25 @@ Exam ID: AD0-E126
 **Exam objectives and scope**
 
 Section 1: Education (22%)
+
 * Identify AEM features and capabilities
 *Describe AEM features that meet business needs
 * Describe procedural concepts necessary to conduct training for content editors
 
 Section 2: Architecture (22%)
+
 * Identify information architecture appropriate to meet business needs using either on-prem or Adobe hosted (Cloud) environment
 * Describe how AEM connects with third-party services
 * Identify where to define roles and permissions
 * Given a scenario, define available caching approaches
 
 Section 3: Setup and implementation (13%)
+
 * Identify best AEM practices to use content components
 * Given a scenario, identify the correct implementation of a feature
 
 Section 4: Setup and implementation (13%)
+
 * Identify best AEM practices to use content components
 * Given a scenario, identify the correct implementation of a feature
 
