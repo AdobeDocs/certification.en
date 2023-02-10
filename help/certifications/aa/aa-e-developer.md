@@ -79,8 +79,8 @@ Section 1: Understanding Analytics in the Adobe Experience Cloud Ecosystem (10%)
 * Demonstrate knowledge on utilizing the Adobe Experience Cloud ID
 * Demonstrate understanding of Adobe Launch
 * Demonstrate understanding of common integrations across the Adobe Experience Cloud Ecosystem
-* Section 2: Strategy and Design based on a Solution Design 
 
+* Section 2: Strategy and Design based on a Solution Design 
 Reference (SDR) (6%)
 
 * Interpret a Solution Design Reference to develop efficient code for data capture
@@ -116,7 +116,7 @@ Section 6: Testing, Validation, and Troubleshooting (20%)
 
 ## Readiness self-assessment
 
-Complete the [online readiness questionnaire](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-hp0hz5/ad-q-e209-readiness-questionnaire-for-adobe-analytics-developer-expert-examk){target="_blank"} to see if your current experience matches the recommended minimum candidate qualification.
+Complete the [online readiness questionnaire](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-hp0hz5/ad-q-e209-readiness-questionnaire-for-adobe-analytics-developer-expert-exam){target="_blank"} to see if your current experience matches the recommended minimum candidate qualification.
 
 ## Get prepped
 
