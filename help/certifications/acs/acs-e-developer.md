@@ -69,7 +69,7 @@ Exam ID: AD0-E306
 
 **Exam objectives and scope**
 
-Section 1: Data Modeling and Management (26%)
+Section 1: Data modeling and management (26%)
 
 * Given a scenario, transform a client requirement into a custom resource
 * Determine how to configure screen and filter definitions
@@ -78,7 +78,7 @@ Section 1: Data Modeling and Management (26%)
 * Troubleshoot data modeling issues
 * Determine the correct approach to build technical workflows
 
-Section 2: Campaign Management (50%)
+Section 2: Campaign management (50%)
 
 * Troubleshoot workflow errors
 * Determine the correct approach to build campaigns
@@ -112,7 +112,7 @@ You are not required to complete training before taking the exam, and training a
 
 **AD0-E306 Campaign Standard Developer**
 
-**Section 1: Data Modeling and Management**
+**Section 1: Data modeling and management**
 
 * [Creating a custom resource](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/creating-a-custom-resource.html?lang=en){target="_blank"}
 * [Creating or extending the resource](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/creating-or-extending-the-resource.html?lang=en){target="_blank"}
@@ -125,7 +125,7 @@ You are not required to complete training before taking the exam, and training a
 * [Updating the database structure](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/updating-the-database-structure.html?lang=en){target="_blank"}
 * [Technical workflows](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/application-settings/technical-workflows.html?lang=en){target="_blank"}
 
-**Section 2: Campaign Management**
+**Section 2: Campaign management**
 
 * [Manage resources](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&topicId=Content%2FResource_Mgmt%2F_manage-resources.htm&_LANG=en){target="_blank"}
 * [Workflows best practices](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/workflow-general-operation/best-practices-workflows.html?lang=en){target="_blank"}

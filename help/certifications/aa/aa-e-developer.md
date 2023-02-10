@@ -80,8 +80,8 @@ Section 1: Understanding Analytics in the Adobe Experience Cloud Ecosystem (10%)
 * Demonstrate understanding of Adobe Launch
 * Demonstrate understanding of common integrations across the Adobe Experience Cloud Ecosystem
 
-Section 2: Strategy and Design based on a Solution Design 
-Reference (SDR) (6%)
+Section 2: Strategy and design based on a solution design 
+reference (SDR) (6%)
 
 * Interpret a Solution Design Reference to develop efficient code for data capture
 * Use the Tech Spec for populating data objects
@@ -95,19 +95,19 @@ Section 3: Analytics Implementation and Configuration (36%)
 * Utilize a data layer within a deployment
 * Execute advanced tracking features such as link tracking and product strings
 
-Section 4: Tag Management Systems (20%)
+Section 4: Tag management systems (20%)
 
 * Enumerate requirements to deploy Adobe Experience Platform Launch in Adobe Analytics
 * Apply processes to configure website tagging with Adobe Launch
 * Enumerate requirements to enable extensions and Adobe Launch
 * Create rules and data elements
 
-Section 5: Mobile Services (8%)
+Section 5: Mobile services (8%)
 
 * Apply processes to configure and execute a base pre-deployment code for mobile
 * Demonstrate understanding of processing rules and mobile services
 
-Section 6: Testing, Validation, and Troubleshooting (20%)
+Section 6: Testing, validation, and troubleshooting (20%)
 
 * Troubleshoot JavaScript errors
 * Troubleshoot Adobe Analytics variables
@@ -129,19 +129,19 @@ You are not required to complete training before taking the exam, and training a
 * [Creating a custom resource](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/creating-a-custom-resource.html?lang=en){target="_blank"}
 
 
-**Section 2: Strategy and Design based on a Solution Design Reference (SDR)**
+**Section 2: Strategy and design based on a solution design reference (SDR)**
 
 * [Manage resources](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&topicId=Content%2FResource_Mgmt%2F_manage-resources.htm&_LANG=en){target="_blank"}
 
-**Section 3: Analytics Implementation and Configuration**
+**Section 3: Analytics implementation and configuration**
 
 * [Managing groups and users](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/users-and-security/managing-groups-and-users.html?lang=en){target="_blank"}
 
-**Section 4: Tag Management Systems**
+**Section 4: Tag management systems**
 
-**Section 5: Mobile Services**
+**Section 5: Mobile services**
 
-**Section 6: Testing, Validation, and Troubleshooting**
+**Section 6: Testing, validation, and troubleshooting**
 
 
 
