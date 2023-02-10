@@ -47,8 +47,8 @@ user-guide-description: Certification
     + [Renewal](/help/certifications/acc/acc-renew.md)
   + Adobe Campaign Standard {#acs}
     + Expert {#acs-expert}
-      + [Business Practitioner](/help/certifications/acs/acs-e-business.md)
-      + [Developer](/help/certifications/acs/acs-e-developer.md)
+      + [Business Practitioner](/help/certifications/acs/acs-expert/acs-e-business.md)
+      + [Developer](/help/certifications/acs/acs-expert/acs-e-developer.md)
     + [Renewal](/help/certifications/acs/acs-renew.md)
   + Adobe Commerce {#ac}
     + Professional {#ac-professional}
