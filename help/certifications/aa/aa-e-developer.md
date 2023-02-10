@@ -80,7 +80,7 @@ Section 1: Understanding Analytics in the Adobe Experience Cloud Ecosystem (10%)
 * Demonstrate understanding of Adobe Launch
 * Demonstrate understanding of common integrations across the Adobe Experience Cloud Ecosystem
 
-* Section 2: Strategy and Design based on a Solution Design 
+Section 2: Strategy and Design based on a Solution Design 
 Reference (SDR) (6%)
 
 * Interpret a Solution Design Reference to develop efficient code for data capture
