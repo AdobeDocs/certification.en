@@ -1,6 +1,6 @@
 ---
 title: Adobe Campaign Standard Certification 
-description: You have technical knowledge about audience segmentation, destination exports, and activation on real time basis for unified profiles that adhere to data and privacy regulations, customer data platforms (CDP) and knowledge of Adobe Experience Platform.
+description: Gain technical knowledge about audience segmentation, destination exports, and activation on real-time basis for unified profiles that adhere to data and privacy regulations, customer data platforms (CDP) and knowledge of Adobe Experience Platform.
 solution: Campaign Standard
 role: Developer
 ---
@@ -10,11 +10,11 @@ Exam ID: AD0-E306
     
 ## Start your journey toward certification
 
-Purchase your exam voucher at Adobe Certification Voucher Center, if you have a discount, it will apply at checkout. Apply the voucher code when you schedule your exam.
+Purchase your exam voucher at Adobe Certification Voucher Center. If you have a discount, it is applied at checkout. Apply the voucher code when you schedule your exam.
 
 If an exam is marked as retiring you will see a note at the top of this page. This indicates that you can still take it until the date specified in the note. 
 
-Your certification will be valid for two years from when you pass. We recommend taking the newer version, when possible, because it covers newer product capabilities.
+Your certification is valid for two years from the date you pass. We recommend taking the newer version, when possible, because it covers newer product capabilities.
 
 If you have:
 
@@ -23,7 +23,7 @@ If you have:
 * The ability to perform tasks in Adobe Campaign including template development, technical workflows, schema development, and integrations, and be able to monitor the instance using control panel
 * Experience working in a channel delivery environment (email, direct mail, mobile, and social)
 * Familiarity with marketing campaign tactics such as multi-touch, life cycle, and reactivation
-* An understanding of marketing metrics such as ROI, clickthrough rates, and conversion.
+* An understanding of marketing metrics such as ROI, click-through rates, and conversion.
 * Experience administering a marketing automation platform
 * Basic knowledge of CSS, HTML, and JavaScript, emails
 * Basic knowledge of relational database and data modeling
@@ -54,7 +54,6 @@ This is the certification for YOU!
 **Exam details - Campaign Standard Developer**
   
 ```
-
 Passing Score: 29/50
 Time: 100 mins
 Delivery: Online proctored (requires camera access) or test center proctored
@@ -103,7 +102,9 @@ Section 3: Administration (24%)
 
 ## Readiness self-assessment
 
-Complete the [online readiness questionnaire](add link){target="_blank"} to see if your current experience matches the recommended minimum candidate qualification.
+Complete the online readiness questionnaire to see if your current experience matches the recommended minimum candidate qualification.
+
+<!-- Add link to questionnaire. -->
 
 ## Get prepped
 
@@ -111,7 +112,7 @@ You are not required to complete training before taking the exam, and training a
 
 **AD0-E306 Campaign Standard Developer**
 
-**Section 1: Data Modeling and Management**
+### Section 1: Data Modeling and Management
 
 * [Creating a custom resource](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/creating-a-custom-resource.html?lang=en){target="_blank"}
 * [Creating or extending the resource](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/creating-or-extending-the-resource.html?lang=en){target="_blank"}
@@ -124,7 +125,7 @@ You are not required to complete training before taking the exam, and training a
 * [Updating the database structure](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/updating-the-database-structure.html?lang=en){target="_blank"}
 * [Technical workflows](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/application-settings/technical-workflows.html?lang=en){target="_blank"}
 
-**Section 2: Campaign Management**
+### Section 2: Campaign Management
 
 * [Manage resources](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&topicId=Content%2FResource_Mgmt%2F_manage-resources.htm&_LANG=en){target="_blank"}
 * [Workflows best practices](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/workflow-general-operation/best-practices-workflows.html?lang=en){target="_blank"}
@@ -141,7 +142,7 @@ You are not required to complete training before taking the exam, and training a
 * [Campaign Email Designer](https://experienceleague.adobe.com/docs/campaign-standard/using/designing-content/designing-content-in-adobe-campaign.html?lang=en){target="_blank"}
 * [Get started with dynamic reports](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/about-reporting/about-dynamic-reports.html?lang=en){target="_blank"}
 
-**Section 3: Administration**
+## Section 3: Administration
 
 * [Managing groups and users](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/users-and-security/managing-groups-and-users.html?lang=en){target="_blank"}
 * [Organizational units](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/users-and-security/organizational-units.html?lang=en){target="_blank"}
@@ -154,23 +155,23 @@ You are not required to complete training before taking the exam, and training a
 * [About channel configuration](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/configuring-channels/about-channel-configuration.html?lang=en){target="_blank"}
 * [Get started with communication channels](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/get-started-communication-channels.html?lang=en){target="_blank"}
 
-
 ## Take a practice test
 
 We are excited to offer free practice tests and provide a detailed coaching report upon completion of each one. You will have unlimited access to all available practice tests for Adobe's expert-level exams. Our practice tests are developed from the same blueprints as the live exams, so they can help you gauge how you are doing in each topic area. However, taking a practice test does not guarantee that you will pass the certification exam.
 
-Go to the [Adobe Credential Managment System](http://www.certmetrics.com/adobe/){target="_blank"} to launch a practice test.
+Go to the [Adobe Credential Management System](http://www.certmetrics.com/adobe/){target="_blank"} to launch a practice test.
 
 >[!NOTE]
 >
 >Go to the scheduling page > practice tests > Adobe Certification Prep Portal > click on launch Adobe Exam Prep Portal (on the far-right side).
 
-
 ## Get certified
 
-To schedule your exam you will click on "schedule" below. This will redirect you to the Adobe Credential Management system where you will click scheduling>then search for this exam to schedule.
+To schedule your exam, click the following link: 
 
 * [Schedule AD0-E306](https://learning.adobe.com/api.certify.json)
+
+This redirects you to the Adobe Credential Management system where you can click **Scheduling**, then search for this exam to schedule.
 
 ## Questions
 
