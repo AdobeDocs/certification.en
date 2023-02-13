@@ -1,130 +1,175 @@
 ---
-title: Adobe Workfront Certification
-description: You have technical knowledge about audience segmentation, destination exports, and activation on real time basis for unified profiles that adhere to data and privacy regulations, customer data platforms (CDP) and knowledge of Adobe Experience Platform.
+title: Learn how to get certified in Adobe Workfront Fusion Developer professional.
+description: Discover the steps to getting certified in Adobe Workfront Fusion Developer professional.
 solution: Workfront
 role: Developer
 ---
-# Certification Journey - Adobe Workfront
+# Certification journey - Adobe Workfront Fusion Developer professional
 
-## Start Your Journey toward Certification
+Exam ID: AD0-E902
 
-Bacon ipsum dolor amet buffalo short loin meatloaf, t-bone turkey pork hamburger boudin pork chop venison ribeye cow pork belly. Chuck alcatra bacon, frankfurter t-bone salami tri-tip spare ribs ribeye venison sausage strip steak meatball landjaeger cupim. Picanha tri-tip cow fatback, swine pork loin andouille pork tail. Bresaola chicken leberkas, ground round ball tip brisket meatball corned beef sausage andouille porchetta frankfurter doner strip steak burgdoggen. Boudin landjaeger leberkas salami.
+## Start your journey toward certification
 
-<table>
-<tr  style="border: 0">
-<td style="width: 160px;text-align: left">
+Purchase your exam voucher at Adobe Certification Voucher Center, if you have a discount, it will apply at checkout. Apply the voucher code when you schedule your exam.
 
-<!--- TO CHANGE BADGE : change "expert-badge.png" to "master-badge.png" or "professional-badge.png --->
+If an exam is marked as retiring you will see a note at the top of this page. This indicates that you can still take it until the date specified in the note. 
 
-  <img alt="Certification Badge" style="width: 120px" src="/help/certifications/assets/expert-badge.png" />
-</td>
-<td style="width: 400px;">
-  <strong>Level of Experience: </strong> 1-3 years
+Your certification will be valid for two years from when you pass. We recommend taking the newer version, when possible, because it covers newer product capabilities.
 
-  <strong>Intended Audience:</strong>
-  Data Architect/Engineer, Solution Architect or MSA, 
-  Enterprise Architect, Product Manager, Marketing Technology Lead
-</tr>
-</table>
+If you have:
 
-<table>
- <tr  style="border: 0;">
-    <td> <strong>Adobe Experience Platform</strong> </td>
- </tr>
+* The ability to with Workfront API and API explorer, but not necessarily proficient in API calls
+* The ability to use custom API calls for working with Workfront and other APIs
+* The ability to use modules for the Workfront app and other actions like create, read, update, delete, and search
+* The ability to build viable solutions that produce business outcomes without hitting Fusion guardrails
+* The ability to select appropriate trigger module to accomplish business outcomes
+* An understanding of how to use flow control (routes, iterators/aggregators, explain flow)
+* The ability to conduct basic troubleshooting and error handling
+* The ability to effectively test and go live with a scenario
+* The ability to manage organization teams and users
+* An understanding of the purpose and use of universal connectors for REST API Oauth2
 
- <tr style="border: 0;background-color: white;">
-    <td>
-    Exam Details:<br>
-    Passing Score: 35/50<br>
-    Time: 105 mins<br>
-    Cost: $225 (global) and $150 (India)<br>
-    Exam ID: AD0-E600
-    </td>
- </tr>
+This is the certification for YOU!
 
-</table>
+![Certification Professional Badge](/help/certifications/assets/professional-badge-small.png)
 
-## Exam Purpose
+**Level of experience:** 0-12 months
 
-Bacon ipsum dolor amet buffalo short loin meatloaf, t-bone turkey pork hamburger boudin pork chop venison ribeye cow pork belly. Chuck alcatra bacon, frankfurter t-bone salami tri-tip spare ribs ribeye venison sausage strip steak meatball landjaeger cupim. Picanha tri-tip cow fatback, swine pork loin andouille pork tail. Bresaola chicken leberkas, ground round ball tip brisket meatball corned beef sausage andouille porchetta frankfurter doner strip steak burgdoggen. Boudin landjaeger leberkas salami.
+**Intended audience:**
 
-## Get Ready
+* Developer, Automation Engineer
+* Automator, Process optimization and automation manager
+* Integration consultants, Consultants, Partners
+* System integrators/Partners
+* Business analysts, applied business analysts
+* System administrator (IT, MIS, Technology, Knowledge Systems, AI administrators)
 
-**AD0-E600 Adobe Experience Platform Technical Foundations**
+**Exam details:** Adobe Workfront Fusion Developer
 
-**Minimum Candidate Experience**
+```
+Passing Score: 33/51
+Time: 102 mins
+Delivery: Online proctored (requires camera access) or test center proctored
+Available languages: English
+Cost: $125 (global) and $95 (India)
+Exam ID: AD0-E902
 
-Defined by a team of subject matter experts, the candidate who is ready to pass the Adobe Experience Platform - Adobe Qualified exam has the following qualifications, at a minimum:
+```
 
-* Basic know-how of Experience Platform and can navigate through the UI
-* A high-level understanding of each UI component
+## Get ready
 
-**Exam Objectives and Scope**
+**AD0-E902 Adobe Workfront Fusion Developer**
 
-Section 1: Data Modeling (20%)
-* Analyze source data to evaluate primary and secondary identity for profile stitching
-* Demonstrate an understanding of how to use the UI to create/edit XDM Schemas.
-* Identify DULE Guidance
+**Exam objectives and scope**
 
-Section 2: Data Ingestion (36%)
-* Demonstrate how to format and prepare data for ingestion
-* Demonstrate how to connect data sources using OOTB connectors
+Section 1: Foundational technical concepts (39%)
 
-Section 3: Unifying Profiles (34%)
-* Validate Profiles and Event data post ingestion
-* Define identity name spaces
+* Given a Fusion scenario with one field format that needs to be in another field format, provide the possible functions that could be used to transform the data correctly
+* Given a Fusion scenario that requires a function to be nested inside another function, select the properly formed expression
+* Identify ways to use teams to control access to connections and other Fusion features
+* Given a Fusion scenario, identify system and feature limitations
+* Given a Fusion scenario that requires timezone manipulation, distinguish between the user, visible organization, and where overriding the timezone is needed
+* Given a Fusion scenario, select the appropriate Workfront module(s) or action(s)
+* Given a Fusion scenario, select the Mapping Panel expression and/or module(s) that would appropriately transform input data to output data
+* Identify the correct way(s) to utilize the Fusion Dev Tool to troubleshoot errors in execution or determine calls and responses made to third-party systems
+* Given a Fusion scenario where data in one path is needed in another path, provide a set-get solution for making that data available on additional routing paths
+* Identify the ways to use or produce a Fusion template for a business need
+* Given a Fusion scenario, identify what to do to view executions and/or resolve errors
+* Identify the different options in the Fusion scenario settings to address scenario needs
+* Given a Fusion scenario, select the appropriate flow control and/or determine the correct combination of flow control module(s)
 
-Section 4: Activation (10%)
-* Demonstrate how to set up a destination and how segment activation works
-* Demonstrate and understanding of data access API and exporting data via Real-Time CDP
+Section 2: Scenario design and architecture (35%)
 
-Take a readiness questionnaire to find out if you meet the minimum qualifications.
+* Given a list of steps, choose the correct sequence to parse JSON and convert to bundles
+* Given a set of requirements, identify the correct data look up method
+* Identify differences between instant and scheduled triggers
+* Identify a correct module for uploading a document to Workfront
+* Given a business requirement, identify the correct approach to track that Fusion processed a record (not a user) and when
+* Given a Fusion scenario, identify an opportunity to simplify the design and/or optimize for maintenance
+* Identify Fusion best practices for documenting scenarios
+* Given a situation, identify an opportunity to reduce data flow through a scenario
+* Given an example of the number of bundles shown on a search module and a following aggregator, explain the changes in the number of operations processed and displayed by the bundle inspector
+* Identify information that is found in the bundle inspector
+* Given a description of a need to archive a scenario for longer than 60 days and select the only possible way (import/export blueprint)
+* Given an example of an Error 403: Forbidden, correctly select the origin of the error message and cause
 
-## Get Prepped
+Section 3: Testing and error handling (16%)
+
+* Identify the elements of a test plan
+* Identify the elements of a test case
+* Given a Fusion scenario, correctly identify the appropriate directive to handle an unreliable service
+* Identify the process to add custom error handling in a Fusion scenario
+* Identify how to track, read, and resolve incomplete executions
+* Given a Fusion scenario with missing required data, select ways to handle the invalid data
+
+Section 4: Working with APIs (10%)
+
+* Given a third-party API that returns a 429: Too Many Requests, identify a solution to prevent or handle the error
+* Given a Fusion scenario where new functionality is not available in the Workfront module, identify the correct reference and module type to use the new functionality
+* Given a third-party system that does not have a dedicated app, identify the HTTP app and select the appropriate module
+* Identify the difference between CRUD operations and other common capabilities of REST APIs
+
+## Get prepped
 
 You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
 
 Here are some suggested resources to help you prepare:
 
-**AD0-E600 Adobe Experience Platform Technical Foundations**
+**AD0-E902 Adobe Workfront Fusion Developer**
 
-The exam covers four domains: business analysis, reporting and dashboarding, segmentation and calculated metrics, general tool knowledge, and reporting.
+**Section 1: Foundational technical concepts**
 
-**Section 1: Data Modeling**
+* [Mapping in Adobe Workfront Fusion](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&topicId=Content%2FWorkfront_Fusion%2FMapping%2F_mapping.htm&_LANG=en){target="_blank"}
+* [Functions in Adobe Workfront Fusion](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&topicId=Content%2FWorkfront_Fusion%2FFunctions%2F_Functions.htm&_LANG=en){target="_blank"}
+* [Organizations in Adobe Workfront Fusion](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&topicId=Content%2FWorkfront_Fusion%2FOrganizations%2F_organizations.htm&_LANG=enus){target="_blank"}
+* [Get started with Adobe Workfront Fusion](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&topicId=Content%2FWorkfront_Fusion%2FGet_Started%2F_Get_started.htm&_LANG=en){target="_blank"}
+* [Apps and their modules](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&topicId=Content%2FWorkfront_Fusion%2FApps_and_their_modules%2F_apps-and-their-modules.htm&_LANG=en){target="_blank"}
+* [Scenarios in Adobe Workfront Fusion](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&topicId=Content%2FWorkfront_Fusion%2FScenarios%2F_Scenarios.htm&_LANG=en){target="_blank"}
+* [Modules in Adobe Workfront Fusion](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&topicId=Content%2FWorkfront_Fusion%2FModules%2F_modules.htm&_LANG=en){target="_blank"}
 
-* Documentation: [Understanding Schemas](https://experienceleague.adobe.com/docs/experience-platform/xdm/schema/composition.html)
-* SPP On Demand: [Schema and XDM Overview / Adobe Experience Platform: Data Modeling and Ingestion](https://video.tv.adobe.com/v/27105)
-* SPP Challenge/Hands On: [Model data in Schemas](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/model-data-in-schemas.html)
-* Experience League Tutorial: [Schema and XDM Overview](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/schemas-and-experience-data-model.html)
+**Section 2: Scenario design and architecture**
 
-**Section 2: Data Ingestion**
+* [Apps and their modules](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&topicId=Content%2FWorkfront_Fusion%2FApps_and_their_modules%2F_apps-and-their-modules.htm&_LANG=en){target="_blank"}
+* [Modules in Adobe Workfront Fusion](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&topicId=Content%2FWorkfront_Fusion%2FModules%2F_modules.htm&_LANG=en){target="_blank"}
+* [Functions in Adobe Workfront Fusion](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&topicId=Content%2FWorkfront_Fusion%2FFunctions%2F_Functions.htm&_LANG=en){target="_blank"}
+* [Update work items and view updates](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&topicId=Content%2FWorkfront_basics%2FUpdating_Work_Items_and_Viewing_Updates%2F_update-work-items-and-view-updates.htm&_LANG=en){target="_blank"}
+* [System-tracked updates feeds](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&topicId=Content%2FAdministration_and_Setup%2FSet_up_Workfront%2FSystem-Tracked_Update_Feeds%2F_system-tracked-updates-feeds.htm&_LANG=en){target="_blank"}
+* [Scenarios in Adobe Workfront Fusion](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&topicId=Content%2FWorkfront_Fusion%2FScenarios%2F_Scenarios.htm&_LANG=en){target="_blank"}
 
-* Documentation: [Data Ingestion](https://experienceleague.adobe.com/docs/experience-platform/ingestion/home.html?lang=en)
-* SPP On Demand: [Adobe Experience Platform: Data Modeling and Ingestion](https://solutionpartners.adobe.com/training/learning_program/learningProgram83768.html)
+**Section 3: Testing and error handling**
 
-**Section 3: Unifying Profiles**
+* [Errors in Adobe Workfront Fusion](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&topicId=Content%2FWorkfront_Fusion%2FErrors%2F_errors.htm&_LANG=en){target="_blank"}
+* [Scenarios in Adobe Workfront Fusion](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&topicId=Content%2FWorkfront_Fusion%2FScenarios%2F_Scenarios.htm&_LANG=en){target="_blank"}
+* [Apps and their modules](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&topicId=Content%2FWorkfront_Fusion%2FApps_and_their_modules%2F_apps-and-their-modules.htm&_LANG=en){target="_blank"}
+* [Mapping in Adobe Workfront Fusion](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&topicId=Content%2FWorkfront_Fusion%2FMapping%2F_mapping.htm&_LANG=en){target="_blank"}
 
-* Documentation: [Identity and identity graphs](https://experienceleague.adobe.com/docs/platform-learn/tutorials/identities/understanding-identity-and-identity-graphs.html?lang=en)
-* SPP On Demand: [Experience Platform: Create and Manage Real-time Customer Profile](https://cpcontents.adobe.com/public/newlearner/newlearner_de10804e.html?accountId=32503#/course/1175314/overview?cert_id=undefined&lp_id=undefined)
+**Section 4: Working with APIs**
 
+* [Apps and their modules](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&topicId=Content%2FWorkfront_Fusion%2FApps_and_their_modules%2F_apps-and-their-modules.htm&_LANG=enus){target="_blank"}
+* [Modules in Adobe Workfront Fusion](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&topicId=Content%2FWorkfront_Fusion%2FModules%2F_modules.htm&_LANG=en){target="_blank"}
 
-**Section 4: Activation**
+## Sample questions
 
-* Documentation: [Destinations](https://experienceleague.adobe.com/docs/experience-platform/destinations/home.html?lang=en)
-* SPP On Demand: [Adobe Experience Platform: Segmentation for Developers](https://solutionpartners.adobe.com/training/learning_program/learningProgram83769.html)
+The sample questions allow you to see the type and format of items that you will encounter in the actual exam. There is no sign-on needed. The results of the sample questions are not stored, and do not predict your actual test results.
 
-**Additional Study Aid Resources**
+[See sample questions](https://scorpion.caveon.com/launchpad/ad0-e902-adobe-workfront-fusion-developer-professional-copy-exs5g8){target="_blank"}
 
-Adobe has provided additional study aids to help you prepare for your certification exam. These include content from Adobe Experience League, Adobe Digital Learning Solutions, and technical documentation
+* Provide your email address.
+* Answer the candidate agreement.
+* Start the test.
+* Mark your answer in each question.
+* Click Next on the upper portion of the screen to save your answer and move to the next question. You may return and revise your question within the specified time.
+* On the last question, click Submit Exam to submit all your answers.
+* Answer the short survey.
 
-+++See Resources
+## Get certified
 
-* [Adobe Experience Platform Enablement (Partners Only)](https://solutionpartners.adobe.com/training/courses/course5250864.html)
-* [Experience Data Model (XDM) Guide](https://experienceleague.adobe.com/docs/experience-platform/xdm/home.html?lang=en)
-+++
+To schedule your exam you will click on "schedule" below. This will redirect you to the Adobe Credential Management system where you will click scheduling>then search for this exam to schedule.
 
-{{$include /help/_includes/take-a-practice-test.md}}
+[Schedule AD0-E902](https://learning.adobe.com/api.certify.json){target="_blank"}
 
-{{$include /help/_includes/get-certified.md}}
+## Questions
 
-{{$include /help/_includes/questions.md}}
+Have a question about Adobe Certification? Please email `certif@adobe.com` for additional details about the program.
+
+View the certification [FAQs](https://solutionpartners.adobe.com/solution-partners/training_and_certification/certification/certification_faq.html#){target="_blank"}.
