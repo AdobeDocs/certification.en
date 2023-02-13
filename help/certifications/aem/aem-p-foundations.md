@@ -16,7 +16,14 @@ If an exam is marked as retiring you will see a note at the top of this page. Th
 
 Your certification will be valid for two years from when you pass. We recommend taking the newer version, when possible, because it covers newer product capabilities.
 
-If you are application developer with a minimum of 12 months experience working with the AEM Platform, able to perform advanced component development, have a deep understanding of the MVC framework, aware of frameworks and libraries in AEM. If you have an understanding of the AEM development life cycle. Additionally, candidates should be familiar with the following technologies and environments:
+If you are an application developer with a minimum of 12 months experience working with the AEM Platform and have:
+
+* The ability to perform advanced component development
+* A deep understanding of the MVC framework
+* The awarenes of frameworks and libraries in AEM
+* An understanding of the AEM development life cycle
+ 
+ Additionally, if you're familiar with the following technologies and environments:
 
 * Maven
 * Git
@@ -96,7 +103,7 @@ You are not required to complete training before taking the exam, and training a
 
 Here are some suggested resources to help you prepare:
 
-**AD0-E129 Adobe Experience Manager Assets Developers**
+**AD0-E132 Adobe Experience Manager Assets Developers**
 
 
 **Section 1: Content creation**
