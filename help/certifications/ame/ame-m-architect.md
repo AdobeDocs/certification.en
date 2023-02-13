@@ -1,6 +1,6 @@
 ---
-title: Adobe Marketo Engage Certification
-description: You have technical knowledge about audience segmentation, destination exports, and activation on real time basis for unified profiles that adhere to data and privacy regulations, customer data platforms (CDP) and knowledge of Adobe Experience Platform.
+title: Learn how to get certified in Adobe Marketo Engage Architect master.
+description: Discover the steps to getting certified in Adobe Marketo Engage Architect master.
 solution: Marketo Engage
 role: Developer
 ---
