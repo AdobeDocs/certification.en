@@ -115,40 +115,32 @@ Here are some suggested resources to help you prepare:
 
 **Section 1: Asset workflows**
 
-* [Understanding Programs](http://docs.marketo.com/display/public/DOCS/Understanding+Programs){target="_blank"}
-* [Smart Campaign Checklist](http://docs.marketo.com/display/public/DOCS/Smart+Campaign+Checklist){target="_blank"}
-* [Understanding Smart Campaigns](http://docs.marketo.com/display/public/DOCS/Understanding+Smart+Campaigns){target="_blank"}
-* [Create a New Smart Campaignn](http://docs.marketo.com/display/public/DOCS/Create+a+New+Smart+Campaign){target="_blank"}
-* [Marketo Product Docs](http://docs.marketo.com/display/DOCS/Email+Programs){target="_blank"}
-* [Understanding Event Programs](http://docs.marketo.com/display/public/DOCS/Understanding+Event+Programs){target="_blank"}
-* [Understanding Engagement Programs](http://docs.marketo.com/display/public/DOCS/Understanding+Engagement+Programs){target="_blank"}
+* [Creating Workflow Models](https://experienceleague.adobe.com/docs/experience-manager-64/developing/extending-aem/extending-workflows/workflows-models.html?lang=en#sync-your-workflow-generate-a-runtime-model){target="_blank"}
+* [Assets Guide](https://experienceleague.adobe.com/docs/experience-manager-64/assets/home.html?lang=en){target="_blank"}
 
 **Section 2: Asset organization and the asset console**
 
-* [Understanding Dynamic Content](http://docs.marketo.com/display/DOCS/Understanding+Dynamic+Content){target="_blank"}
-* [Best Practices for Smart Lists](http://docs.marketo.com/display/DOCS/Best+Practices+for+Smart+Lists){target="_blank"}
-* [Tokens Overview](http://docs.marketo.com/display/DOCS/Tokens+Overview){target="_blank"}
+* [AEM Assets videos and tutorials](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/overview.html?lang=en){target="_blank"}
+* [Search facets](https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/search-facets.html?lang=en#restoring-default-search-facets){target="_blank"}
+* [Asset reports](https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/asset-reports.html?lang=en){target="_blank"}
 
 **Section 3: Asset metadata**
 
-* [Marketo Product Docs](http://docs.marketo.com/display/public/DOCS/Reporting){target="_blank"}
-* [Manage Report Subscriptions](http://docs.marketo.com/display/public/DOCS/Manage+Report+Subscriptions){target="_blank"}
-
+* [Metadata schemas](https://experienceleague.adobe.com/docs/experience-manager-64/assets/administer/metadata-schemas.html?lang=en#default-metadata-schema-forms){target="_blank"}
+* [Understand metadata concepts](https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/metadata-concepts.html?lang=en){target="_blank"}
+* [Metadata profiles](https://experienceleague.adobe.com/docs/experience-manager-64/assets/administer/metadata-profiles.html?lang=en#:~:text=Add%20a%20metadata%20profile.%20Tap%20or%20click%20the,and%20configure%20its%20properties%20in%20the%20Settings%20tab.){target="_blank"}
 
 **Section 4: Asset types**
 
-* [The Definitive Guide to Lead Scoring](https://www.marketo.com/definitive-guides/lead-scoring/){target="_blank"}
-* [Marketo Product Docs](http://docs.marketo.com/display/public/DOCS/Simple+Scoring){target="_blank"}
-* [Change Score](http://docs.marketo.com/display/DOCS/Change+Score){target="_blank"}
+* [Manage video assets](https://experienceleague.adobe.com/docs/experience-manager-64/assets/managing/managing-video-assets.html?lang=en#uploading-and-previewing-video-assets){target="_blank"}
+* [Content Fragment Models](https://experienceleague.adobe.com/docs/experience-manager-65/assets/content-fragments/content-fragments-models.html?lang=en#creating-a-content-fragment-model){target="_blank"}
+* [Variations - Authoring Fragment Content](https://experienceleague.adobe.com/docs/experience-manager-65/assets/content-fragments/content-fragments-variations.html?lang=en#managing-variations){target="_blank"}
 
 **Section 5: Asset feature sets and capabilities**
 
-* [The Definitive Guide to Lead Scoring](https://www.marketo.com/definitive-guides/marketing-automation/){target="_blank"}
-* [Adobe Experience Cloud Blog](http://blog.marketo.com/2012/11/what-is-the-difference-between-email-marketing-and-marketing-automation.html){target="_blank"}
-* [Understanding Email Event Logging](http://docs.marketo.com/display/DOCS/Understanding+Email+Event+Logging){target="_blank"}
-* [Make an Email Operational](http://docs.marketo.com/display/DOCS/Make+an+Email+Operational){target="_blank"}
-* [Marketo Product Docs](http://docs.marketo.com/display/DOCS/Forms){target="_blank"}
-* [Understanding Local Assets in a Program](http://docs.marketo.com/display/DOCS/Understanding+Local+Assets+in+a+Program){target="_blank"}
+* [Overview of Experience Manager Assets Brand Portal](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/brand-portal.html?lang=en){target="_blank"}
+* [Supported file formats](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/brand-portal-supported-formats.html?lang=en){target="_blank"}
+* [Dynamic Media Video Profiles](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/dynamicmedia/video-profiles.html?lang=en){target="_blank"}
 
 ## Sample questions
 
