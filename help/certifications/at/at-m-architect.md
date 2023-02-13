@@ -4,127 +4,186 @@ description: You have technical knowledge about audience segmentation, destinati
 solution: Target
 role: Developer
 ---
-# Certification Journey - Adobe Target
+# Certification journey - Adobe Target Architect master
 
-## Start Your Journey toward Certification
+Exam ID: AD0-E407
 
-Bacon ipsum dolor amet buffalo short loin meatloaf, t-bone turkey pork hamburger boudin pork chop venison ribeye cow pork belly. Chuck alcatra bacon, frankfurter t-bone salami tri-tip spare ribs ribeye venison sausage strip steak meatball landjaeger cupim. Picanha tri-tip cow fatback, swine pork loin andouille pork tail. Bresaola chicken leberkas, ground round ball tip brisket meatball corned beef sausage andouille porchetta frankfurter doner strip steak burgdoggen. Boudin landjaeger leberkas salami.
+## Start your journey toward certification
 
-<table>
-<tr  style="border: 0">
-<td style="width: 160px;text-align: left">
+Purchase your exam voucher at Adobe Certification Voucher Center, if you have a discount, it will apply at checkout. Apply the voucher code when you schedule your exam.
 
-<!--- TO CHANGE BADGE : change "expert-badge.png" to "master-badge.png" or "professional-badge.png --->
+If an exam is marked as retiring you will see a note at the top of this page. This indicates that you can still take it until the date specified in the note. 
 
-  <img alt="Certification Badge" style="width: 120px" src="/help/certifications/assets/expert-badge.png" />
-</td>
-<td style="width: 400px;">
-  <strong>Level of Experience: </strong> 1-3 years
+Your certification will be valid for two years from when you pass. We recommend taking the newer version, when possible, because it covers newer product capabilities.
 
-  <strong>Intended Audience:</strong>
-  Data Architect/Engineer, Solution Architect or MSA, 
-  Enterprise Architect, Product Manager, Marketing Technology Lead
-</tr>
-</table>
+If you have:
 
-<table>
- <tr  style="border: 0;">
-    <td> <strong>Adobe Experience Platform</strong> </td>
- </tr>
+* At least three years of digital marketing optimization experience including implementing Adobe Target activities
+* At least two years' experience (or five engagements) implementing, deploying, and troubleshooting Adobe Target
+* Experience integrating Target with the Adobe Experience Cloud
+* Fundamental understanding of JavaScript, HTML, CSS, and front-end web development
+* Familiarity with/awareness of Adobe Target APIs/SDKs, server-side integration, reporting, and administration
+* Knowledge of implementing Adobe Target with Single Page Application (SPA) frameworks, mobile and email, and recommendations
 
- <tr style="border: 0;background-color: white;">
-    <td>
-    Exam Details:<br>
-    Passing Score: 35/50<br>
-    Time: 105 mins<br>
-    Cost: $225 (global) and $150 (India)<br>
-    Exam ID: AD0-E600
-    </td>
- </tr>
+Additionally, if you're familiar with the following technologies and environments:
 
-</table>
+Technologies
 
-## Exam Purpose
+* Multiple Adobe Experience Cloud Programs (e.g. Adobe Analytics, Adobe Campaign, Adobe Experience Manager, Adobe Experience Cloud Debugger, Target APIs)
+* JavaScript (Ajax, JQuery, etc.)
+* Browser-based debugging tools (e.g. Chrome developer tools, VEC helper), JSON for debugging responses from Target
+* Debugging tools for native apps (e.g. Charles Proxy, Fiddler)
+* HTML, CSS, HTTP, XML configuration
+* Native mobile development IDEs, basics of iOS development, basics of Android development
+* API tools like Postman
+* VEC helper
 
-Bacon ipsum dolor amet buffalo short loin meatloaf, t-bone turkey pork hamburger boudin pork chop venison ribeye cow pork belly. Chuck alcatra bacon, frankfurter t-bone salami tri-tip spare ribs ribeye venison sausage strip steak meatball landjaeger cupim. Picanha tri-tip cow fatback, swine pork loin andouille pork tail. Bresaola chicken leberkas, ground round ball tip brisket meatball corned beef sausage andouille porchetta frankfurter doner strip steak burgdoggen. Boudin landjaeger leberkas salami.
+Environments
 
-## Get Ready
+* Adobe Experience Cloud
+* Client-side implementation without tag manager
+* Tag Management Systems, especially Launch (IF)
+* Server-side environments (for API usage)
+* Email
+* Web and mobile environments
+* AMS hosted environment
+* Adobe I/O Runtime
 
-**AD0-E600 Adobe Experience Platform Technical Foundations**
+This is the certification for YOU!
 
-**Minimum Candidate Experience**
+![Certification Master Badge](/help/certifications/assets/master-badge-small.png)
 
-Defined by a team of subject matter experts, the candidate who is ready to pass the Adobe Experience Platform - Adobe Qualified exam has the following qualifications, at a minimum:
+**Level of experience:** 3-5 years
 
-* Basic know-how of Experience Platform and can navigate through the UI
-* A high-level understanding of each UI component
+**Intended audience:**
 
-**Exam Objectives and Scope**
+* Conversion rate optimization engineer/architect
+* Personalization engineer/architect
+* Digital solutions architect
+* Digital transformation consultant
+* Experience optimization lead
+* Optimization manager
+* Online campaign manager
 
-Section 1: Data Modeling (20%)
-* Analyze source data to evaluate primary and secondary identity for profile stitching
-* Demonstrate an understanding of how to use the UI to create/edit XDM Schemas.
-* Identify DULE Guidance
+**Exam details - Adobe Target Architect**
 
-Section 2: Data Ingestion (36%)
-* Demonstrate how to format and prepare data for ingestion
-* Demonstrate how to connect data sources using OOTB connectors
+```
+Passing Score: 34/50
+Time: 100 mins
+Delivery: Online proctored (requires camera access) or test center proctored
+Available languages: English
+Cost: $225 (global) and $150 (India)
+Exam ID: AD0-E407
 
-Section 3: Unifying Profiles (34%)
-* Validate Profiles and Event data post ingestion
-* Define identity name spaces
+```
 
-Section 4: Activation (10%)
-* Demonstrate how to set up a destination and how segment activation works
-* Demonstrate and understanding of data access API and exporting data via Real-Time CDP
+## Get ready
 
-Take a readiness questionnaire to find out if you meet the minimum qualifications.
+**AD0-E407 Adobe Target Architect**
 
-## Get Prepped
+**Exam objectives and scope**
+
+Section 1: Adobe Target fundamentals (12%)
+
+* Identify the appropriate Adobe Target usage for a given scenario
+* Explain the fundamental technologies of an Adobe Target implementation
+
+Section 2: Integrating with Adobe Target (16%)
+
+* Apply the process to integrate Adobe Target with Adobe Analytics (A4T)
+* Apply the process to integrate Adobe Target to Adobe Experience Manager
+* Describe integration with other Adobe Experience Cloud Solutions
+* Describe the integration with Adobe Experience Cloud Audiences
+
+Section 3: Adobe Target administration and governance (13%)
+
+* Define an ongoing Adobe Target implementation strategy and system governance
+* Apply the process and best practices to manage users
+* Describe the administration aspects of the implementation setup
+
+Section 4: Adobe Target and supported touch points (15%)
+
+* Describe client-side delivery implementation
+* Describe server-side delivery implementation
+* Describe implementation requirements for mobile, email targeting, and APIs
+
+Section 5: Leverage Adobe Target recommendations (9%)
+
+* Demonstrate an understanding of recommendations, catalogs, and environments
+* Apply the process to configure Target recommendations
+
+Section 6: Architect, design and implement Adobe Target (15%)
+
+* Select the correct mbox implementation
+* Demonstrate designing an Adobe Target implementation
+* Describe the implementation of Adobe Target in Native Mobile Apps
+
+Section 7: Troubleshooting (20%)
+
+* Troubleshoot mbox errors
+* Troubleshoot activity errors
+* Understand integration errors
+* Troubleshoot Adobe Target Recommendations Errors
+
+## Get prepped
 
 You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
 
 Here are some suggested resources to help you prepare:
 
-**AD0-E600 Adobe Experience Platform Technical Foundations**
+**AD0-E407 Adobe Target Architect**
 
-The exam covers four domains: business analysis, reporting and dashboarding, segmentation and calculated metrics, general tool knowledge, and reporting.
+**Section 1: Adobe Target fundamentals**
 
-**Section 1: Data Modeling**
+* [Add resources](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=en){target="_blank"} 
 
-* Documentation: [Understanding Schemas](https://experienceleague.adobe.com/docs/experience-platform/xdm/schema/composition.html)
-* SPP On Demand: [Schema and XDM Overview / Adobe Experience Platform: Data Modeling and Ingestion](https://video.tv.adobe.com/v/27105)
-* SPP Challenge/Hands On: [Model data in Schemas](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/model-data-in-schemas.html)
-* Experience League Tutorial: [Schema and XDM Overview](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/schemas-and-experience-data-model.html)
+**Section 2: Integrating with Adobe Target**
 
-**Section 2: Data Ingestion**
+* [Add resources](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=en){target="_blank"} 
 
-* Documentation: [Data Ingestion](https://experienceleague.adobe.com/docs/experience-platform/ingestion/home.html?lang=en)
-* SPP On Demand: [Adobe Experience Platform: Data Modeling and Ingestion](https://solutionpartners.adobe.com/training/learning_program/learningProgram83768.html)
+**Section 3: Adobe Target administration and governance**
 
-**Section 3: Unifying Profiles**
+* [Add resources](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=en){target="_blank"}
 
-* Documentation: [Identity and identity graphs](https://experienceleague.adobe.com/docs/platform-learn/tutorials/identities/understanding-identity-and-identity-graphs.html?lang=en)
-* SPP On Demand: [Experience Platform: Create and Manage Real-time Customer Profile](https://cpcontents.adobe.com/public/newlearner/newlearner_de10804e.html?accountId=32503#/course/1175314/overview?cert_id=undefined&lp_id=undefined)
+**Section 4: Adobe Target and supported touch points**
+
+* [Add resources](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=en){target="_blank"}
+
+**Section 5: Leverage Adobe Target recommendations**
+
+* [Add resources](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=en){target="_blank"}
+
+**Section 6: Architect, design and implement Adobe Target**
+
+* [Add resources](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=en){target="_blank"}
+
+**Section 7: Troubleshooting**
+
+* [Add resources](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=en){target="_blank"}
 
 
-**Section 4: Activation**
+## Sample questions
 
-* Documentation: [Destinations](https://experienceleague.adobe.com/docs/experience-platform/destinations/home.html?lang=en)
-* SPP On Demand: [Adobe Experience Platform: Segmentation for Developers](https://solutionpartners.adobe.com/training/learning_program/learningProgram83769.html)
+The sample questions allow you to see the type and format of items that you will encounter in the actual exam. There is no sign-on needed. The results of the sample questions are not stored, and do not predict your actual test results.
 
-**Additional Study Aid Resources**
+[See sample questions](https://scorpion.caveon.com/launchpad/ad0-e407-adobe-target-architect-sample-exam/adobe-target-architect-sample-exam){target="_blank"}
 
-Adobe has provided additional study aids to help you prepare for your certification exam. These include content from Adobe Experience League, Adobe Digital Learning Solutions, and technical documentation
+* Provide your email address.
+* Answer the candidate agreement.
+* Start the test.
+* Mark your answer in each question.
+* Click Next on the upper portion of the screen to save your answer and move to the next question. You may return and revise your question within the specified time.
+* On the last question, click Submit Exam to submit all your answers.
+* Answer the short survey.
 
-+++See Resources
+## Get certified
 
-* [Adobe Experience Platform Enablement (Partners Only)](https://solutionpartners.adobe.com/training/courses/course5250864.html)
-* [Experience Data Model (XDM) Guide](https://experienceleague.adobe.com/docs/experience-platform/xdm/home.html?lang=en)
-+++
+To schedule your exam you will click on "schedule" below. This will redirect you to the Adobe Credential Management system where you will click scheduling>then search for this exam to schedule.
 
-{{$include /help/_includes/take-a-practice-test.md}}
+[Schedule AD0-E407](https://learning.adobe.com/api.certify.json){target="_blank"}
 
-{{$include /help/_includes/get-certified.md}}
+## Questions
 
-{{$include /help/_includes/questions.md}}
+Have a question about Adobe Certification? Please email `certif@adobe.com` for additional details about the program.
+
+View the certification [FAQs](https://solutionpartners.adobe.com/solution-partners/training_and_certification/certification/certification_faq.html#){target="_blank"}.
