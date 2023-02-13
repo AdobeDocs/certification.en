@@ -1,6 +1,6 @@
 ---
-title: Adobe Experience Manager Certification 
-description: You have technical knowledge about audience segmentation, destination exports, and activation on real time basis for unified profiles that adhere to data and privacy regulations, customer data platforms (CDP) and knowledge of Adobe Experience Platform.
+title: Learn how to get certified in Adobe Experience Manager Assets Developer.
+description: Discover the steps to getting certified in Adobe Experience Manager Assets Developer.
 solution: Experience Manager Assets
 role: Developer
 ---
