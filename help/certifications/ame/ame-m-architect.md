@@ -21,7 +21,7 @@ If you are a current Marketo Engage Business Practitioner Certified Expert with 
 If you can conceptualize a solution and translate to a Marketo Engage architecture, understand the business processes impacted by integrations
 and understand the principles of architecting an instance.
 
-Additionally, if you are familiar with the following tools and technologies:
+Additionally, if you're familiar with the following tools and technologies:
 
 * Adobe Marketo Engage features, functionality, and apps
 * Database systems
@@ -60,7 +60,7 @@ This is the certification for YOU!
 Passing Score: 30/50
 Time: 150 mins
 Delivery: Online proctored (requires camera access) or test center proctored
-Available languages: English, Japanese
+Available languages: English
 Cost: $225 (global) and $150 (India)
 Exam ID: AD0-E556
 
@@ -72,37 +72,47 @@ Exam ID: AD0-E556
 
 **Exam objectives and scope**
 
-Section 1: Discovery (18%)
+Section 1: Project Leadership (16%)
 
-* Translate high-level business goals to functional requirements
-* Given a scenario, assess the current state of an architecture
-* Determine non-functional technical requirements for solution design
+* Given a case study, identify the right stakeholders
+* Evaluate a set of requirements and recommend project boundaries, budget, resources, and scope
+* Given a modified process, determine who needs enablement and efficient enablement rollout plan
+* Evaluate an audit and recommend priorities and timeline
 
-Section 2: Solution Design (44%)
+Section 2: Marketo Engage Architecture Design (48%)
 
-* Given business requirements, design detailed architecture and solution
-* Given a scenario, determine appropriate security solutions for a design
-* Apply procedural concepts to incorporate integration requirements into a solution design
-* Determine which types of performance and testing requirements should be included in a solution
-* Apply procedural concepts for designing scalable and resilient architecture
-* Given a scenario, recommend migration strategies
+* Gather requirements/needs and recommend a lead management and lifecycle design
+* Review an existing implementation and provide findings
+* Given a business need, identify the different behaviors for scoring
+* Review an existing implementation, recommend actions to scale campaign execution
+* Outline an operational procedure for lead routing multiple countries
+* Given a scenario, evaluate the impact and requirements to incorporate new technology to the instance
+* Identify the different types of integrations and when to use them
+* Given a scenario, outline various stages in the person lifecycle impacted by proposed changes/requirements
+* Appraise a set of requirements and recommend an approach to campaign logic
 
-Section 3: Implementation (22%)
+Section 3: Reporting and Attribution (20%)
 
-* Given a scenario, identify and resolve design issues revealed during implementation stage
-* Given a scenario, recommend implementation approaches based on requirements
-* Determine appropriate methods to use to prototype solutions for proof of concepts
-* Given a scenario, diagnose and resolve issues encountered during implementation
+* Given a model to review, explain the concept of detours in the lifecycle modeler
+* Given an online advertising or organic social or content, recommend an approach for reporting
+* Illustrate how to validate Marketo Engage reporting in tracking lifecycle changes
+* Identify metrics to use in a given report type
+* Identify how to track multi-channel attribution to evaluate ROI
+* Identify and describe the pros and cons of different attribution models
+* Given a business requirement, describe the effects of channel set up to reporting
 
-Section 4: Maintenance (16%)
+Section 4: Advanced Operations (16%)
 
-* Given a scenario, diagnose and resolve issues encountered in production environment
-* Apply procedural concepts to plan for use of new features and upgrades
-* Given a scenario, optimize solution for non-functional requirements
+* Given a scenario, identify appropriate steps to improve management or governance
+* Given a set of requirements, recommend an efficient data schema
+* Evaluate a customer's implementation and recommend actions to improve deliverability
+* Evaluate a customer's implementation and recommend actions to improve administration management
+* Gather information about a client's implementation and recommend security practices
+* Explain the applicability of workspace and partitions for a given scenario
 
 ## Readiness self assessment
 
-Complete the [online readiness questionnaire](https://scorpion.caveon.com/launchpad/ad0-e556-adobe-marketo-engage-architect-master-exam-copy-pewwl4){target="_blank"} to see if your current experience matches the recommended minimum candidate qualification.
+Complete the [online readiness questionnaire](https://scorpion.caveon.com/launchpad/ad-q-e556-readiness-questionnaire-for-adobe-marketo-engage-architect-master-exam/ad-q-e556-readiness-questionnaire-for-adobe-marketo-engage-architect-master-exam){target="_blank"} to see if your current experience matches the recommended minimum candidate qualification.
 
 ## Get prepped
 
@@ -112,95 +122,33 @@ Here are some suggested resources to help you prepare:
 
 **AD0-E556 Adobe Marketo Engage Architect**
 
-**Section 1: Discovery**
+**Section 1: Project Leadership**
 
-* [AEM 6.5 Developing User Guide](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html?lang=en){target="_blank"}
-* [Assets Guide](https://experienceleague.adobe.com/docs/experience-manager-65/assets/home.html?lang=en){target="_blank"}
-* [AEM 6.4 Mobile User Guide](https://experienceleague.adobe.com/docs/experience-manager-64/mobile/home.html?lang=en){target="_blank"}
-* [AEM Assets videos and tutorials](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/overview.html?lang=en){target="_blank"}
-* [Experience Manager as a Cloud Service documentation](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=en){target="_blank"}
-* [Adobe Experience Manager 6.5 Communities Guide](https://experienceleague.adobe.com/docs/experience-manager-65/communities/home.html?lang=en){target="_blank"}
-* [AEM Sites videos and tutorials](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/overview.html?lang=en){target="_blank"}
-* [AEM 6.5 Managing User Guide](https://experienceleague.adobe.com/docs/experience-manager-65/communities/home.html?lang=en){target="_blank"}
-* [Introducing AEM as a cloud service](http://www.jetteroheller.com/introducing-aem-as-a-cloud-service/){target="_blank"}
-* [Introduction to Cloud Manager](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/using/introduction-to-cloud-manager.html?lang=en){target="_blank"}
-* [AEM Foundation videos and tutorials](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/overview.html?lang=en){target="_blank"}
-* [Introduction to HTTP/2](https://developers.google.com/web/fundamentals/performance/http2){target="_blank"}
-* [Tags overview](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html?lang=en){target="_blank"}
-* [Getting Started with AEM and Adobe Target](https://experienceleague.adobe.com/docs/experience-manager-learn/aem-target-tutorial/overview.html?lang=en){target="_blank"}
+* [Champion Blog - Marketo Nation](https://nation.marketo.com/t5/champion-blog/ct-p/champion-program){target="_blank"}
+* [Marketo Product Docs](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=en){target="_blank"}
+* [Documentation - REST API](https://developers.marketo.com/rest-api/){target="_blank"}
 
-**Section 2: Solution design**
+**Section 2: Adobe Marketo Engage Architecture Design**
 
-* [AEM Assets videos and tutorials](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/overview.html?lang=en){target="_blank"}
-* [SPA/SEO: A Single-Page App Guide to Google's 1st Page](https://snipcart.com/spa-seo){target="_blank"}
-* [Sling Context-Aware configuration](https://cqdump.wordpress.com/2018/04/24/sling-context-aware-configuration/){target="_blank"}
-* [Conference Talk: Sling Context-Aware Configuration](https://adapt.to/2016/en/schedule/sling-context-aware-configuration.html){target="_blank"}
-* [AEM 6.5 Authoring User Guide](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html?lang=en){target="_blank"}
-* [AEM Sites videos and tutorials](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/overview.html?lang=en){target="_blank"}
-* [How to show/hide page properties based on template in AEM 6.4](https://blogs.perficient.com/2019/01/03/how-to-show-hide-page-properties-based-on-page-template-in-aem-6-4/){target="_blank"}
-* [AEM Granite Custom Render Conditions](http://www.nateyolles.com/blog/2016/07/aem-granite-custom-render-conditions){target="_blank"}
-* [AEM 6.5 Developing User Guide](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html?lang=en){target="_blank"}
-* [Preventing XSS in React Applications](https://dev.to/spukas/preventing-xss-in-react-applications-5f5j)){target="_blank"}
-* [AEM 6.5 Administering User Guide](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html?lang=en)){target="_blank"}
-* [AEM 6.4 Mobile User Guide](https://experienceleague.adobe.com/docs/experience-manager-64/mobile/home.html?lang=en){target="_blank"}
-* [AEM 6.4 Developing User Guide](https://experienceleague.adobe.com/docs/experience-manager-64/developing/home.html?lang=en)
-* [AEM Sites videos and tutorials](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/overview.html?lang=en){target="_blank"}
-* [Core Components Introduction](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/introduction.html?lang=en){target="_blank"}
-* [AEM 6.5 Authoring User Guide](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html?lang=en){target="_blank"}
-* [AEM Sites videos and tutorials](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/overview.html?lang=en){target="_blank"}
-* [AEM Screens Best Practices](https://experienceleague.adobe.com/docs/experience-manager-screens/using/about-guide.html?lang=en){target="_blank"}
-* [Adobe Help Documents](https://helpx.adobe.com/enterprise/using/adobe-asset-link.html){target="_blank"}
-* [AEM 6.5 Forms Guide](https://experienceleague.adobe.com/docs/experience-manager-65/forms/home.html?lang=en){target="_blank"}
-* [Introduction to Cloud Manager](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/using/introduction-to-cloud-manager.html?lang=en){target="_blank"}
-* [AEM 6.5 Administering User Guide](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html?lang=en){target="_blank"}
-* [Dispatcher Overview](https://experienceleague.adobe.com/docs/experience-manager-dispatcher/using/dispatcher.html?lang=en){target="_blank"}
-* [AEM 6.5 Deploying User Guide](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html?lang=en){target="_blank"}
-* [How to Clear Dispatcher Cache in AEM](https://www.axamit.com/blog/adobe/dispatcher-4#:~:text=At%20the%20low%20level%20dispatcher,the%20root%20of%20htdocs%20directory.){target="_blank"}
-* [AEM Cloud Service Dispatcher Converter](https://github.com/adobe/aem-cloud-service-dispatcher-converter){target="_blank"}
-* [Experience Manager as a Cloud Service Overview](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=en){target="_blank"}
-* [HTL Guide](https://experienceleague.adobe.com/docs/experience-manager-htl/content/overview.html?lang=en){target="_blank"}
-* [AEM Sites as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/sites/home.html?lang=en){target="_blank"}
-* [AEM 6.4 Deploying User Guide](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/home.html?lang=en){target="_blank"}
+* [Instructions for Creating a Custom Sync Rule](https://nation.marketo.com/t5/product-blogs/instructions-for-creating-a-custom-sync-rule/ba-p/242758#:~:text=First%2C%20what%20is%20a%20custom,have%20them%20sync%20to%20Marketo.){target="_blank"}
+* [The Definitive Guide to Lead Scoring](https://business.adobe.com/resources/guides/lead-scoring.html){target="_blank"}
 
-**Section 3: Implementation**
+**Section 3: Reporting and Attribution**
 
-* [AEM 6.5 Deploying User Guide](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html?lang=en){target="_blank"}
-* [Adobe Enterprise Documentation](https://experienceleague.adobe.com/docs/?lang=en){target="_blank"}
-* [Adobe Experience Manager desktop app overview](https://experienceleague.adobe.com/docs/experience-manager-desktop-app/using/introduction.html?lang=en){target="_blank"}
-* [AEM Foundation Videos and Tutorials](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/overview.html?lang=en){target="_blank"}
-* [Identity Types on Adobe Admin Console](https://helpx.adobe.com/ca/enterprise/using/identity.html){target="_blank"}
-* [Dispatcher Overview](https://experienceleague.adobe.com/docs/experience-manager-dispatcher/using/dispatcher.html?lang=en){target="_blank"}
-* [AEM Sites Videos and Tutorials](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/overview.html?lang=en){target="_blank"}
-* [Introduction to Cloud Manager](https://docs.adobe.com/content/help/en/experience-manager-cloud-manager/using/introduction-to-cloud-manager.html){target="_blank"}
-* [Adobe Target Guide](https://experienceleague.adobe.com/docs/target/using/target-home.html?lang=en){target="_blank"}
-* [AEM 6.5 Authoring User Guide](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html?lang=en){target="_blank"}
-* [Assets Guide](https://experienceleague.adobe.com/docs/experience-manager-65/assets/home.html?lang=en){target="_blank"}
-* [AEM Assets Videos and Tutorials](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/overview.html?lang=en){target="_blank"}
-* [AEM 6.4 Deploying User Guide](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/home.html?lang=en){target="_blank"}
-* [Experience Manager as a Cloud Service Overview](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=en){target="_blank"}
+* [Marketo Product Docs](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=en){target="_blank"}
+* [Champion Blog - Marketo Nation](https://nation.marketo.com/t5/champion-blog/ct-p/champion-program){target="_blank"}
 
+**Section 4: Advanced Operations**
 
-**Section 4: Asset types**
-
-* [AEM 6.5 Administering User Guide](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html?lang=en){target="_blank"}
-* [Oak TarMK Memory Mapped Files](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/oak-tarmk-memory-mapped-files/td-p/218220){target="_blank"}
-* [Dispatcher Overview](https://experienceleague.adobe.com/docs/experience-manager-dispatcher/using/dispatcher.html?lang=en){target="_blank"}
-* [Apache Sling: Mappings for Resource Resolution](https://sling.apache.org/documentation/the-sling-engine/mappings-for-resource-resolution.html){target="_blank"}
-* [AEM Search vs. Solr Search](https://blog.3sharecorp.com/aem-search-vs.-solr-search){target="_blank"}
-* [TarMK: Facts and Figures](https://adapt.to/content/dam/adaptto/production/presentations/2017/adaptTo2017-TarMK-Facts-and-Figures-Michael-Duerig-Valentin-Olteanu-notes.pdf/_jcr_content/renditions/original./adaptTo2017-TarMK-Facts-and-Figures-Michael-Duerig-Valentin-Olteanu-notes.pdf){target="_blank"}
-* [Introduction to Cloud Manager](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/using/introduction-to-cloud-manager.html?lang=en){target="_blank"}
-* [Cloud Manager: Getting Started](https://developer.adobe.com/experience-cloud/cloud-manager/guides/getting-started/){target="_blank"}
-* [CQBufferedImageCache Consumes Heap During Asset Uploads](https://helpx.adobe.com/experience-manager/kb/cqbufferedimagecache-consumes-heap-during-asset-uploads.html){target="_blank"}
-* [Assets Guide](https://experienceleague.adobe.com/docs/experience-manager-65/assets/home.html?lang=en){target="_blank"}
-* [AEM Dispatcher Cache Tutorial](https://experienceleague.adobe.com/docs/experience-manager-learn/dispatcher-tutorial/overview.html?lang=en){target="_blank"}
-* [Lucene Index](https://jackrabbit.apache.org/oak/docs/query/lucene.html){target="_blank"}
-* [AEM 6.4 Developing User Guide](https://experienceleague.adobe.com/docs/experience-manager-64/developing/home.html?lang=en){target="_blank"}
+* [Marketo Product Docs](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=en){target="_blank"}
+* [Suppressing Soft Bounces](https://nation.marketo.com/t5/product-discussions/suppressing-soft-bounces-any-email-min-3x-encouraged/m-p/209411#M153533){target="_blank"}
+* [Understanding Workspaces and Person Partitions](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.html?lang=en){target="_blank"}
 
 ## Sample questions
 
 The sample questions allow you to see the type and format of items that you will encounter in the actual exam. There is no sign-on needed. The results of the sample questions are not stored, and do not predict your actual test results.
 
-[See sample questions](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-ycpz52/ad-q-e117-readiness-questionnaire-for-adobe-aem-architect-master-exam){target="_blank"}
+[See sample questions](https://scorpion.caveon.com/launchpad/ad0-e556-adobe-marketo-engage-architect-master-exam-copy-pewwl4){target="_blank"}
 
 * Provide your email address.
 * Answer the candidate agreement.
