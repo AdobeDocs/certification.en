@@ -6,13 +6,11 @@ role: Developer
 recommendations: disable, exclude
 ---
 
-# Certification Journey - Adobe Real-Time Customer Data Platform Expert
+# Certification journey - Adobe Real-Time Customer Data Platform expert
 
-<td><p align="left" style="font-size: large;font-weight: 700; color: red">AD0-600 & AD7-E601</p>
-    </td>
-    <td
+Exam ID: AD0-600 & Exam ID: AD7-E601
 
-## Start Your Journey toward Certification
+## Start your journey toward certification
 
 To earn certification, you need to pass 2 distinct exams with a proctor present, online or on-site, where available.
 
@@ -20,55 +18,36 @@ Purchase your exam voucher at Adobe Certification Voucher Center, if you have a 
 
 If an exam is marked as retiring, you can still take it and your certification will be valid for two years from when you pass. We recommend taking the newer version, when possible, because it covers newer product capabilities.
 
-If you have technical knowledge about audience segmentation, destination exports, and activation on real time basis for unified profiles that adhere to data and privacy regulations, customer data platforms (CDP) and knowledge of Adobe Experience Platform. 
+If you have:
+
+* Basic know-how of Experience Platform and can navigate through the UI
+* The ability to create segments and build audiences (logic included in that)
+* The ability to configure destinations
+* The ability to connect segments to destinations
+* The ability to build insights/events to respond and react in real time
+* The understanding of DULE set-up during data ingestion, segment limitation during activations
+* The understanding of opt-in requirements by channel
+* The ability to design/understand the data that needs to be captured and activated upon using best practices for use case data frequency and volume
+* The ability to understand data needed in different channels
+* The ability to determine what profile attributes are needed
+* Knowledge of frequency of sending segments out through destinations
+* Knowledge of how often segment membership is updated
 
 This is the certification for YOU!
 
-<table>
-<tr  style="border: 0">
-<td style="width: 160px;text-align: left">
-  <img alt="Certification Badge" style="width: 120px" src="/help/certifications/assets/expert-badge.png" />
-</td>
-<td style="width: 400px;">
-  <strong>Level of Experience: </strong> 1-3 years
+![Certification Expert Badge](/help/certifications/assets/expert-badge-small.png)
 
-  <strong>Intended Audience:</strong>
-  Data Architect/Engineer, Solution Architect or MSA, 
-  Enterprise Architect, Product Manager, Marketing Technology Lead
-</tr>
-</table>
+**Level of Experience:** 1-3 years
 
-<table>
- <tr  style="border: 0;">
-    <td> <strong>Adobe Experience Platform</strong> </td>
-    <td></td>
-    <td> <strong>Adobe Real-Time Customer Data Platform</strong> </td>
- </tr>
+**Intended Audience:**
 
- <tr style="border: 0;background-color: white;">
-    <td>
-    Exam Details:<br>
-    Passing Score: 35/50<br>
-    Time: 105 mins<br>
-    Cost: $225 (global) and $150 (India)<br>
-    Exam ID: AD0-E600
-    </td>
-    <td><p align="center" style="font-size: medium;font-weight: 700; color: red">AND</p>
-    </td>
-    <td>
-    Exam Details: <br>
-    Passing Score: 25/34<br>
-    Time: 51 mins<br>
-    Cost: $225 (global) and $150 (India)<br>
-    Exam ID: AD7-E601
-    </td>
- </tr>
+* Data Architect/Engineer
+* Solution Architect or MSA
+* Enterprise Architect
+* Product Manager
+* Marketing Technology Lead
+* Technical Consultant
 
-</table>
-
-## Exam Purpose
-
-An official Adobe Real-Time CDP Expert designation acknowledges your understanding of Adobe Experience Platform and Adobe Real-time Customer Data Platform, which is an application built on Adobe Experience Platform. This certification has 2 requirements.  To achieve this certification, you will need to pass both exams.
 
 **Requirement 1: AD0-E600 Adobe Experience Platform Technical Foundations**
 
@@ -78,6 +57,32 @@ The AD0-E600 exam validates skills and knowledge covering the basic features and
 
 The AD7-E601 exam covers the creation, management and understanding of customer profile, segmentation, destinations across sources, and other topics. The exam validates the foundational skills and knowledge needed to employ Real-time CDP for audience segmentation, destination exports, and activation on a real-time basis for unified profiles that adhere to data and privacy regulations. Candidates should have experience with Customer Data Platforms (CDP) and knowledge of Adobe Experience Platform.
 
+**Exam Details: Adobe Experience Platform**
+
+```
+Passing Score: 35/50
+Time: 105 mins
+Delivery: Online proctored (requires camera access) or test center proctored
+Language: English
+Cost: $225 (global) and $150 (India)
+Exam ID: AD0-E600
+
+```
+
+_AND_
+
+**Exam Details: Adobe Real-Time CDP Technical Practitioner**
+
+```
+Passing Score: 25/34
+Time: 51 mins
+Delivery: Online proctored (requires camera access) or test center proctored
+Language: English
+Cost: $225 (global) and $150 (India)
+Exam ID: AD7-E601
+
+```
+
 ## Get Ready
 
 >[!BEGINTABS]
@@ -86,32 +91,16 @@ The AD7-E601 exam covers the creation, management and understanding of customer 
 
 **AD0-E600 Adobe Experience Platform Technical Foundations**
 
-**Minimum Candidate Experience**
-
-Defined by a team of subject matter experts, the candidate who is ready to pass the Adobe Experience Platform - Adobe Qualified exam has the following qualifications, at a minimum:
-
-* Basic know-how of Experience Platform and can navigate through the UI
-* A high-level understanding of each UI component
-* Understanding of Adobe Experience Platform application services
-* Industry knowledge in database tools/BI tools, data science modeling tools
-* Familiarity with how data relationships work, and also with ETL (Extract Transform and Load)
-* An overview and understanding about XDM data model and the ability to identify schemas, classes, and field groups
-* Knowledge of identities and profiles
-* Knowledge of datasets
-* Ability to ingest batch and stream data
-* Ability to perform action using APIs
-* Ability to execute queries using SQL
-* An awareness of the source and destination
-* Ability to monitor dataflow
-
 **Exam Objectives and Scope**
 
 Section 1: Data Modeling (20%)
+
 * Analyze source data to evaluate primary and secondary identity for profile stitching
 * Demonstrate an understanding of how to use the UI to create/edit XDM Schemas.
 * Identify DULE Guidance
 
 Section 2: Data Ingestion (36%)
+
 * Demonstrate how to format and prepare data for ingestion
 * Demonstrate how to connect data sources using OOTB connectors
 * Demonstrate how to ingest source data via Batch and Streaming
@@ -120,6 +109,7 @@ Section 2: Data Ingestion (36%)
 * Demonstrate how to transform data to match XDM
 
 Section 3: Unifying Profiles (34%)
+
 * Validate Profiles and Event data post ingestion
 * Define identity name spaces
 * Explain how identity graphs are used by profile service
@@ -127,6 +117,7 @@ Section 3: Unifying Profiles (34%)
 * Demonstrate how to build a segment with Segment Builder and how the segmentation service works
 
 Section 4: Activation (10%)
+
 * Demonstrate how to set up a destination and how segment activation works
 * Demonstrate and understanding of data access API and exporting data via Real-Time CDP
 
@@ -136,26 +127,10 @@ Take a readiness questionnaire to find out if you meet the minimum qualification
 
 **AD7-E601 Adobe Real-Time CDP Technical Practioner**
 
-**Minimum Candidate Experience**
-
-Defined by a team of subject matter experts, the candidate who is ready to pass has the following qualifications, at a minimum:
-
-* Basic know-how of Experience Platform and can navigate through the UI
-* Ability to create segments and build audiences (logic included in that)
-* Ability to configure destinations
-* Ability to connect segments to destinations
-* Ability to build insights/events to respond and react in real time
-* Understanding of DULE setup during data ingestion, segment limitation during activations
-* Understanding of opt-in requirements by channel
-* Ability to design/understand the data that needs to be captured and activated upon using best practices for use case data frequency and volume
-* Ability to understand data needed in different channels
-* Ability to determine what profile attributes are needed
-* Knowledge of frequency of sending segments out through destinations
-* Knowledge of how often segment membership is updated
-
 **Exam Sections**
 
 Section 1: Validation(41%)
+
 * Apply concepts required to validate Profile has the proper attributes and segments
 * Demonstrate an understanding of how to validate deployment strategy based on functional or technical requirements
 * Analyze relevant variables to implement the End to End (E2E) Flow of RTCDP
@@ -163,10 +138,12 @@ Section 1: Validation(41%)
 * Apply concepts required to validate data governance policies
 
 Section 2: Segmentation (32%)
+
 * Demonstrate an understanding of how to create segments based on business requirements
 * Demonstrate an understanding of how to determine segment evaluations based on data ingested
 
 Section 3: Destinations (27%)
+
 * Apply concepts required to configure one or more Destinations when sending/exporting audiences based on business use cases
 * Demonstrate an understanding of exporting segments through Destination
 
@@ -201,49 +178,18 @@ The exam covers four domains: business analysis, reporting and dashboarding, seg
 **Section 2: Data Ingestion**
 
 * [Data Ingestion](https://experienceleague.adobe.com/docs/experience-platform/ingestion/home.html?lang=en){target="_blank"}
-* [Adobe Experience Platform: Data Modeling and Ingestion](https://solutionpartners.adobe.com/training/learning_program/learningProgram83768.html){target="_blank"}
 
 **Section 3: Unifying Profiles**
 
 * [Identity and identity graphs](https://experienceleague.adobe.com/docs/platform-learn/tutorials/identities/understanding-identity-and-identity-graphs.html?lang=en){target="_blank"}
-* [Experience Platform: Create and Manage Real-time Customer Profile](https://cpcontents.adobe.com/public/newlearner/newlearner_de10804e.html?accountId=32503#/course/1175314/overview?cert_id=undefined&lp_id=undefined){target="_blank"}
 * [Map identities](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/map-identities.html?lang=en){target="_blank"}
 * [Label, Ingest, and Verify Identity Data](https://experienceleague.adobe.com/docs/platform-learn/tutorials/identities/label-ingest-and-verify-identity-data.html?lang=en){target="_blank"}
 * [Create a dataset for exporting an audience segment](https://experienceleague.adobe.com/docs/experience-platform/segmentation/tutorials/create-dataset-export-segment.html){target="_blank"}
-* [Experience Platform: Create and Manage Real-time Customer Profile](https://cpcontents.adobe.com/public/newlearner/newlearner_de10804e.html?accountId=32503#/course/1175314/overview?cert_id=undefined&lp_id=undefined){target="_blank"}
 * [Create machine learned segments using Real-time Customer Profile](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-science-workspace/dsw-profile-segmentation.html?lang=en){target="_blank"}
-
 
 **Section 4: Activation**
 
-* [Destinations](https://experienceleague.adobe.com/docs/experience-platform/destinations/home.html?lang=en){target="_blank"}
-* [Adobe Experience Platform: Segmentation for Developers](https://solutionpartners.adobe.com/training/learning_program/learningProgram83769.html){target="_blank"}
-* [Real-time CDP: Destinations](https://cpcontents.adobe.com/public/newlearner/newlearner_de10804e.html?accountId=32503#/course/1358382/instance/1463643/preview){target="_blank"}
-* [Destinations overview](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/understanding-destinations.html?lang=en){target="_blank"}
-
-
-**Additional Study Aid Resources**
-
-Adobe has provided additional study aids to help you prepare for your certification exam. These include content from Adobe Experience League, Adobe Digital Learning Solutions, and technical documentation
-
-+++See Resources
-
-* [Adobe Experience Platform Enablement (Partners Only)](https://solutionpartners.adobe.com/training/courses/course5250864.html)
-* [Experience Data Model (XDM) Guide](https://experienceleague.adobe.com/docs/experience-platform/xdm/home.html?lang=en)
-* [Identity Service Overview](https://experienceleague.adobe.com/docs/experience-platform/identity/home.html?lang=en)
-* [Intelligent Services Overview](https://experienceleague.adobe.com/docs/experience-platform/intelligent-services/home.html?lang=en)
-* [Data Governance Guide](https://experienceleague.adobe.com/docs/experience-platform/data-governance/home.html?lang=en)
-* [Source Connector Guide](https://experienceleague.adobe.com/docs/experience-platform/sources/home.html?lang=en)
-* [Data Prep Guide](https://experienceleague.adobe.com/docs/experience-platform/data-prep/home.html?lang=en)
-* [Access Control Guide](https://experienceleague.adobe.com/docs/experience-platform/access-control/home.html?lang=en)
-* [Dataflows Guide](https://experienceleague.adobe.com/docs/experience-platform/dataflows/ui/monitor-sources.html?lang=en)
-* [Catalog and Dataset Guide](https://experienceleague.adobe.com/docs/experience-platform/catalog/home.html?lang=en)
-* [API References](https://developer.adobe.com/experience-platform-apis/)
-* [Real-Time Customer Data Platform Guide](https://experienceleague.adobe.com/docs/experience-platform/profile/ui/user-guide.html?lang=en)
-* [Segmentation Service Guide](https://experienceleague.adobe.com/docs/experience-platform/segmentation/home.html?lang=en)
-* [Data Science Workspace Guide](https://experienceleague.adobe.com/docs/experience-platform/data-science-workspace/home.html?lang=en)
-* [Data access guide](https://experienceleague.adobe.com/docs/experience-platform/data-access/home.html?lang=en)
-+++
+* [Destinations overview](https://experienceleague.adobe.com/docs/experience-platform/destinations/home.html?lang=en){target="_blank"}
 
 >[!TAB Requirement 2]
 
@@ -251,15 +197,14 @@ Adobe has provided additional study aids to help you prepare for your certificat
 
 **Section 1: Validation**
 
-* [Profile overview](https://experienceleague.adobe.com/docs/experience-platform/profile/home.html?lang=en){target="_blank"}
+* [Real-Time Customer Profile overview](https://experienceleague.adobe.com/docs/experience-platform/profile/home.html?lang=en){target="_blank"}
 * [Profile dashboard](https://experienceleague.adobe.com/docs/experience-platform/dashboards/guides/profiles.html?lang=en){target="_blank"}
-* [Profile and Segmentation guardrails](https://experienceleague.adobe.com/docs/experience-platform/profile/guardrails.html?lang=en)
-* [Create and Manage Real Time Customer Profile](https://solutionpartners.adobe.com/training/courses/course1175314.html){target="_blank"}
+* [Default Guardrails for Real-Time Customer Profile data](https://experienceleague.adobe.com/docs/experience-platform/profile/guardrails.html?lang=en)
 * [Enable Real Time Customer Profile](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/enable-profiles.html?lang=en){target="_blank"}
 * [Real-Time Customer Data Platform Overview](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/overview.html?lang=en){target="_blank"}
 * [AEP Application Services: Real-Time CDP](https://solutionpartners.adobe.com/content/solution/us/en/training/courses/course3569029.html){target="_blank"}
 * [Getting started with Real-Time CDP](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/intro/rtcdp-intro/get-started.html?lang=en){target="_blank"} 
-* [Metrics overview](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/intro/rtcdp-intro/home-page-dashboards.html?lang=en){target="_blank"}
+* [Real-Time Customer Data Platform home page and dashboards](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/intro/rtcdp-intro/home-page-dashboards.html?lang=en){target="_blank"}
 * [Monitor dataflows for destinations in the UI](https://experienceleague.adobe.com/docs/experience-platform/dataflows/ui/monitor-destinations.html?lang=en){target="_blank"}
 * [Create and Activate Segments in Adobe Experience Platform](https://learning.adobe.com/catalog/adobe_experienceplatform/cours000000000097681.html){target="_blank"}
 * [Privacy overview](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/privacy/privacy-overview.html?lang=en){target="_blank"}
@@ -271,11 +216,10 @@ Adobe has provided additional study aids to help you prepare for your certificat
 * [Classify data using governance label](https://video.tv.adobe.com/v/29709/){target="_blank"}
 * [Create data usage policies](https://video.tv.adobe.com/v/32977/){target="_blank"}
 * [Enforce data usage policies](https://video.tv.adobe.com/v/33631/){target="_blank"}
-* [Create and Activate Segments in Adobe Experience Platform](https://learning.adobe.com/catalog/adobe_experienceplatform/cours000000000097681.html){target="_blank"}
 
 **Section 2: Segmentation**
 
-* [Segmentation overview](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/segmentation/segmentation-overview.html?lang=en){target="_blank"}
+* [Segmentation Service in Real-Time Customer Data Platform](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/segmentation/segmentation-overview.html?lang=en){target="_blank"}
 * [Segment Builder UI guide](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/segment-builder.html?lang=en){target="_blank"}
 * [Segmentation in real time CDP B2B edition](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/segmentation/b2b.html?lang=en){target="_blank"}
 * [Build segments](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/build-segments.html?lang=en){target="_blank"}
@@ -301,7 +245,7 @@ Adobe has provided additional study aids to help you prepare for your certificat
 * [Real-time CDP: Destinations](https://solutionpartners.adobe.com/training/courses/course1358382.html){target="_blank"}
 * [Destination Overview](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/understanding-destinations.html){target="_blank"}
 * [Create destination and activate data](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/create-destinations-and-activate-data.html){target="_blank"}
-* [Audience activation overview](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/activate/activation-overview.html?lang=en){target="_blank"}
+* [Activation overview](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/activate/activation-overview.html?lang=en){target="_blank"}
 * [Destination catalog overview](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/overview.html?lang=en){target="_blank"}
 * [Activate profiles and segments to a destination](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/activate-profiles-and-segments-to-a-destination.html){target="_blank"}
 * [Integrate Google Customer Match](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/integrate-with-google-customer-match.html){target="_blank"}
@@ -324,6 +268,7 @@ Adobe has provided additional study aids to help you prepare for your certificat
 * [Segment Builder Overview](https://experienceleague.adobe.com/docs/platform-learn/tutorials/segments/segment-builder-overview.html?lang=en){target="_blank"}
 * [Source Connector Guide](https://experienceleague.adobe.com/docs/experience-platform/sources/home.html?lang=en){target="_blank"}
 * [Experience Data Model (XDM) Guide](https://experienceleague.adobe.com/docs/experience-platform/xdm/home.html?lang=en){target="_blank"}
+
 +++
 
 >[!ENDTABS]
