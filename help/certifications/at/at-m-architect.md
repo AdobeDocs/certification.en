@@ -135,31 +135,62 @@ Here are some suggested resources to help you prepare:
 
 **Section 1: Adobe Target fundamentals**
 
-* [Add resources](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=en){target="_blank"} 
+* [Adobe Target Business Practitioner Guide](https://experienceleague.adobe.com/docs/target/using/target-home.html?lang=en){target="_blank"}
+* [Learn How to use Adobe Target](https://experienceleague.adobe.com/docs/target-learn/tutorials/overview.html?lang=en){target="_blank"}
 
 **Section 2: Integrating with Adobe Target**
 
-* [Add resources](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=en){target="_blank"} 
+* [Adobe Target Business Practitioner Guide](https://experienceleague.adobe.com/docs/target/using/target-home.html?lang=en){target="_blank"}
+* [AEM Sites videos and tutorials](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/overview.html?lang=en){target="_blank"}
+* [Audience creation options](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-16471.html?lang=en){target="_blank"}
+* [Adobe Experience Cloud Audiences](https://experienceleague.adobe.com/docs/core-services/interface/services/audiences/audience-library.html?lang=en){target="_blank"}
+* [Integrate Audience Manager with Target](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/integration-other-solutions/aam-target-integration.html){target="_blank"}
+* [Adobe.IO Integration](http://developers.adobetarget.com/api/#introduction){target="_blank"}
+* [Exporting Experience Fragments to Adobe Target](https://experienceleague.adobe.com/docs/experience-manager-65/administering/integration/experience-fragments-target.html?lang=en#deleting-an-experience-fragment-already-exported-to-adobe-target){target="_blank"}
+* [Integrating Experience Platform Launch and AEM](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/integrations/experience-platform-launch/overview.html?lang=en){target="_blank"}
+* [Publish segments to the Experience Cloud](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-publish.html){target="_blank"}
+* [Manually Configuring the Integration with Adobe Target](https://experienceleague.adobe.com/docs/experience-manager-65/administering/integration/target-configuring.html?lang=en){target="_blank"}
+* [Types of Data Collected](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/data-types-collected.html?lang=en){target="_blank"}
+
 
 **Section 3: Adobe Target administration and governance**
 
-* [Add resources](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=en){target="_blank"}
+* [Adobe Target Business Practitioner Guide](https://experienceleague.adobe.com/docs/target/using/target-home.html?lang=en){target="_blank"}
+* [Adobe Target Security Overview](https://www.adobe.com/content/dam/cc/en/security/pdfs/AdobeTargetSecurityOverview.pdf)){target="_blank"}
+* [Adobe Admin Console users](https://helpx.adobe.com/enterprise/using/users.html)){target="_blank"}
+* [AEM 6.5 Administering User Guide](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html?lang=en)){target="_blank"}
 
 **Section 4: Adobe Target and supported touch points**
 
-* [Add resources](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=en){target="_blank"}
+* [Adobe Target Business Practitioner Guide](https://experienceleague.adobe.com/docs/target/using/target-home.html?lang=en){target="_blank"}
+* [Solved: Adobe Target iframe](https://experienceleaguecommunities.adobe.com/t5/adobe-target-questions/adobe-target-iframe/m-p/327224){target="_blank"}
+* [Implement Adobe Experience Cloud in mobile apps tutorial](https://experienceleague.adobe.com/docs/platform-learn/implement-mobile-sdk/overview.html?lang=en){target="_blank"}
+* [Target API reference](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-target/target-api-reference#getthirdpartyid){target="_blank"}
 
 **Section 5: Leverage Adobe Target recommendations**
 
-* [Add resources](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=en){target="_blank"}
+* [Adobe Target Business Practitioner Guide](https://experienceleague.adobe.com/docs/target/using/target-home.html?lang=en){target="_blank"}
 
 **Section 6: Architect, design and implement Adobe Target**
 
-* [Add resources](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=en){target="_blank"}
+* [Adobe Target Business Practitioner Guide](https://experienceleague.adobe.com/docs/target/using/target-home.html?lang=en){target="_blank"}
+* [Add Adobe Target with tags](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/implement-solutions/target.html?lang=en){target="_blank"}
+* [Customer IDs and Authentication States](https://experienceleague.adobe.com/docs/id-service/using/reference/authenticated-state.html?lang=en){target="_blank"}
+* [Learn How to use Adobe Target](https://experienceleague.adobe.com/docs/target-learn/tutorials/overview.html?lang=en){target="_blank"}
+* [Target API reference](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-target/target-api-reference#getthirdpartyid){target="_blank"}
+* [Adobe Target Extension Overview](https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/adobe/target/overview.html?lang=en){target="_blank"}
+* [Introduction to on-device decisioning](https://adobetarget-sdks.gitbook.io/docs/on-device-decisioning/introduction-to-on-device-decisioning){target="_blank"}
+* [When to use on-device vs. edge decisioning](https://adobetarget-sdks.gitbook.io/docs/best-practices/when-to-use-server-side-vs-on-device-decisioning){target="_blank"}
+* [Solved: JWT access token](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-questions/jwt-access-token-how-can-i-change-the-expiration/m-p/324806){target="_blank"}
 
 **Section 7: Troubleshooting**
 
-* [Add resources](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=en){target="_blank"}
+* [Adobe Target Business Practitioner Guide](https://experienceleague.adobe.com/docs/target/using/target-home.html?lang=en){target="_blank"}
+* [Adobe Target Tutorials](https://experienceleague.adobe.com/docs/target-learn/tutorials/overview.html?lang=en){target="_blank"}
+* [Clear cache and cookies for various Browsers](https://helpx.adobe.com/sign/kb/how-to-clear-Cache-Cookies-for-various-Browsers.html){target="_blank"}
+* [Exporting Experience Fragments to Adobe Target](https://experienceleague.adobe.com/docs/experience-manager-65/administering/integration/experience-fragments-target.html?lang=en#prerequisites){target="_blank"}
+* [Solved: Why is my historical audience showing as "collecting data"?](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-cloud-audiences/why-is-my-historical-audience-showing-as-quot-collecting-data/m-p/286891){target="_blank"}
+* [Adobe Experience Cloud Audiences](https://experienceleague.adobe.com/docs/core-services/interface/services/audiences/audience-library.html?lang=en){target="_blank"}
 
 
 ## Sample questions
