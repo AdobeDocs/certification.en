@@ -283,7 +283,6 @@ Go to the [Adobe Credential Managment System](http://www.certmetrics.com/adobe/)
 >
 >Go to the Scheduling Page > Practice Tests > Adobe Certification Prep Portal > click on Launch Adobe Exam Prep Portal (on the far-right side).
 
-
 ## Get Certified
 
 To schedule your exam you will click on "Schedule" below. This will redirect you to the Adobe Credential Management system where you will click scheduling>then search for this exam to schedule.
