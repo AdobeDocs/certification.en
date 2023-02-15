@@ -16,18 +16,24 @@ If an exam is marked as retiring you will see a note at the top of this page. Th
 
 Your certification will be valid for two years from when you pass. We recommend taking the newer version, when possible, because it covers newer product capabilities.
 
-If you have at least 2 years of experience with Adobe Commerce Development and you're with the following technologies and environments:
+If you have 6-12 months' experience in Adobe Analytics implementation (web and mobile app). If you act as a player supporting Analytics Implementation teams in bridging between IT and the business to understand how business requirements translate into a technical solution (SDR), and based on requirements provided by the analyst, understand which type of variable is needed, where and how to collect the data, design the data model (data layer), configure, and maintain the tag management solution.
 
-* Adobe Commerce - version 2.4
-* PHP
-* XDebug/PHP debugging tools, browser debugging tools
-* Linting tools
-* Composer
-* SSH, basic Linux
-* Redis, Elasticsearch, SQL, Varnish, RabbitMQ
-* API validation tools, API client tools (Postman)
-* Version control software such as Git
-* Cloud Architecture
+I you're able to complete the following tasks:
+
+* Interpret a Solutions Design Document (SDR) and understand the purpose of all Adobe Analytics variables collected
+* Understand and work with Adobe (Experience Platform) Launch
+* Understand configuration of baseline Adobe Analytics dimensions and events (Page Name, Link Name, Activity Map, etc., but will work with expert developers for more customer implementations - Variable mapping is still owned by Expert level developers
+* Create and configure rules within Launch following the design provided by an AA expert
+* Test and validate the data being captured in variable and events firing by leveraging web console debuggers or mobile app systems like charles logs
+* Understand what a data layer is and knows how to read a JavaScript object
+* Share reports, segments, and the process to request access, but not how to manage user groups, governance protocols, as well as manage the SDR
+* Provide guidance and configure mobile/SDK solution
+* Understand general framework behind Video tracking (event-based) given knowledge base documentation
+* Perform basic reporting from Analysis Workspace and understanding the data outputs available from the Adobe Analytics Data Warehouse
+
+And, if you have an understandiing and basic experience with the following:
+
+* Adobe Experience Platform Launch (Adobe Launch)
 
 This is the certification for YOU!
 
@@ -37,17 +43,15 @@ This is the certification for YOU!
 
 **Intended audience:** 
 
+* Implementation Specialists/Engineers
 * Developers
-* Lead Developers
-* Backend Developer
-* Solution Architects
-* Technical Leaders
+* Architects
 
 **Exam details - Adobe Analytics Developer**
   
 ```
 
-Passing Score: 31/69
+Passing Score: 31/50
 Time: 100 mins
 Delivery: Online proctored (requires camera access)
 Available languages: English
@@ -100,10 +104,6 @@ Section 6: Testing, validation, and troubleshooting (18%)
 * Identify the meaning of common Adobe Analytics variables errors
 * Given a scenario, identify testing and debugging validation best practices that should be followed
 * Identify how to track an Adobe Analytics server call across its lifecycle (i.e. from beacon request to showing up in the report)
-
-## Readiness self-assessment
-
-Complete the [online readiness questionnaire](https://scorpion.caveon.com/launchpad/ad3-e213-adobe-analytics-developer-professional-sample-questions){target="_blank"} to see if your current experience matches the recommended minimum candidate qualification.
 
 ## Get prepped
 
