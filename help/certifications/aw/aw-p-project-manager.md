@@ -4,127 +4,177 @@ description: You have technical knowledge about audience segmentation, destinati
 solution: Workfront
 role: Developer
 ---
-# Certification Journey - Adobe Workfront
+# Certification journey - Adobe Workfront Project Manager professional
 
-## Start Your Journey toward Certification
+Exam ID: AD0-E903
 
-Bacon ipsum dolor amet buffalo short loin meatloaf, t-bone turkey pork hamburger boudin pork chop venison ribeye cow pork belly. Chuck alcatra bacon, frankfurter t-bone salami tri-tip spare ribs ribeye venison sausage strip steak meatball landjaeger cupim. Picanha tri-tip cow fatback, swine pork loin andouille pork tail. Bresaola chicken leberkas, ground round ball tip brisket meatball corned beef sausage andouille porchetta frankfurter doner strip steak burgdoggen. Boudin landjaeger leberkas salami.
+## Start your journey toward certification
 
-<table>
-<tr  style="border: 0">
-<td style="width: 160px;text-align: left">
+Purchase your exam voucher at Adobe Certification Voucher Center, if you have a discount, it will apply at checkout. Apply the voucher code when you schedule your exam.
 
-<!--- TO CHANGE BADGE : change "expert-badge.png" to "master-badge.png" or "professional-badge.png --->
+If an exam is marked as retiring you will see a note at the top of this page. This indicates that you can still take it until the date specified in the note. 
 
-  <img alt="Certification Badge" style="width: 120px" src="/help/certifications/assets/expert-badge.png" />
-</td>
-<td style="width: 400px;">
-  <strong>Level of Experience: </strong> 1-3 years
+Your certification will be valid for two years from when you pass. We recommend taking the newer version, when possible, because it covers newer product capabilities.
 
-  <strong>Intended Audience:</strong>
-  Data Architect/Engineer, Solution Architect or MSA, 
-  Enterprise Architect, Product Manager, Marketing Technology Lead
-</tr>
-</table>
+If you have:
 
-<table>
- <tr  style="border: 0;">
-    <td> <strong>Adobe Experience Platform</strong> </td>
- </tr>
+* An understanding about work process from an initial work request through completion or has had exposure to project or work management
+* Completed self-guided training or bootcamp or have been a Workfront user for 6-12 months so they understand basic functionality
+* An understanding of how to configure, track, and monitor report data
 
- <tr style="border: 0;background-color: white;">
-    <td>
-    Exam Details:<br>
-    Passing Score: 35/50<br>
-    Time: 105 mins<br>
-    Cost: $225 (global) and $150 (India)<br>
-    Exam ID: AD0-E600
-    </td>
- </tr>
+This is the certification for YOU!
 
-</table>
+![Certification Professional Badge](/help/certifications/assets/professional-badge-small.png)
 
-## Exam Purpose
+**Level of experience:** 0-12 months
 
-Bacon ipsum dolor amet buffalo short loin meatloaf, t-bone turkey pork hamburger boudin pork chop venison ribeye cow pork belly. Chuck alcatra bacon, frankfurter t-bone salami tri-tip spare ribs ribeye venison sausage strip steak meatball landjaeger cupim. Picanha tri-tip cow fatback, swine pork loin andouille pork tail. Bresaola chicken leberkas, ground round ball tip brisket meatball corned beef sausage andouille porchetta frankfurter doner strip steak burgdoggen. Boudin landjaeger leberkas salami.
+**Intended audience:**
 
-## Get Ready
+* Project manager, work manager, planner
+* SCRUM master
+* Workfront power user
+* System admin
+* Program manager, portfolio manager
+* Director, manager
+* Resource manager, traffic manager
 
-**AD0-E600 Adobe Experience Platform Technical Foundations**
+**Exam details - Adobe Workfront Project Manager**
 
-**Minimum Candidate Experience**
+```
+Passing Score: 45/70
+Time: 140 mins
+Delivery: Online proctored (requires camera access)
+Available languages: English
+Cost: $125 (global) and $95 (India
+Exam ID: AD0-E903
 
-Defined by a team of subject matter experts, the candidate who is ready to pass the Adobe Experience Platform - Adobe Qualified exam has the following qualifications, at a minimum:
+```
 
-* Basic know-how of Experience Platform and can navigate through the UI
-* A high-level understanding of each UI component
+## Get ready
 
-**Exam Objectives and Scope**
+**AD0-E903 Adobe Workfront Project Manager**
 
-Section 1: Data Modeling (20%)
-* Analyze source data to evaluate primary and secondary identity for profile stitching
-* Demonstrate an understanding of how to use the UI to create/edit XDM Schemas.
-* Identify DULE Guidance
+**Exam objectives and scope**
 
-Section 2: Data Ingestion (36%)
-* Demonstrate how to format and prepare data for ingestion
-* Demonstrate how to connect data sources using OOTB connectors
+Section 1: Intake and planning (30%)
 
-Section 3: Unifying Profiles (34%)
-* Validate Profiles and Event data post ingestion
-* Define identity name spaces
+* Identify different ways to be notified of a work request
+* Given a request, review the custom data to determine the appropriate action
+* Given a scenario, determine the sharing permissions that are required for an activity
+* Given a scenario, determine the appropriate task settings to plan the execution of a task in a specific time frame
+* Identify ways to locate key data on a project
+* Identify different ways to track project risk
+* Identify the correct hierarchy of objects in Workfront
+* Identify the appropriate field to view a specific assigned resource
+* Given a persona, determine the intake or planning reports/dashboards that are helpful for the persona during the work intake or planning stage of the project/work process
 
-Section 4: Activation (10%)
-* Demonstrate how to set up a destination and how segment activation works
-* Demonstrate and understanding of data access API and exporting data via Real-Time CDP
+Section 2: Execute (50%)
 
-Take a readiness questionnaire to find out if you meet the minimum qualifications.
+* Identify ways to understand, apply, and measure of Milestones on a Project
+* Create Workfront Single Use Approvals and when an Approval would be used
+* Identify how different date types are used by the system
+* Given a scenario, identify the information that date types convey to a project manager
+* Given a scenario, determine how different Task Constraints affect the project timeline when used
+* Given a scenario, demonstrate how to find project teams and how to notify them of work assignments, updates, or completion of work items
+* Given a scenario, describe how to upload a document and generate a proof
+* Identify the different ways to manage a project
+* Given a scenario, determine the Planned Variance for a specific job role within an individual project
+* Given a scenario, locate the specific financial element in Workfront
+* Given a Gantt chart, explain the object relationships on the chart
+* Compare differences between Condition and Progress Status
+* Identify how Workfront teams and Workfront groups can be used
+* Given a scenario, describe how to provide stakeholders the information they require
+* Given a scenario, determine how date types and durations impact project conditions
+* Given a scenario, determine the custom statuses are required
+* Identify the various types of reports available within Workfront
+* Given a scenario, describe the steps to build a custom report
 
-## Get Prepped
+Section 3: Closeout (20%)
+
+* Given a particular object status, determine what activities need to be executed or what actions are triggered
+* Given a scenario, determine the type of report and the reporting element to use to modify a task list or report
+* Identify the different wildcards that can be used in reporting
+* Identify the project elements that can be used to measure project success
+
+## Readiness self-assessment
+
+Complete the [online readiness questionnaire](https://scorpion.caveon.com/launchpad/ad-q-e903-readiness-questionnaire-for-adobe-workfront-project-manager-professional/ad-q-e903-readiness-questionnaire-for-adobe-workfront-project-manager-professional){target="_blank"} to see if your current experience matches the recommended minimum candidate qualification.
+
+## Get prepped
 
 You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
 
 Here are some suggested resources to help you prepare:
 
-**AD0-E600 Adobe Experience Platform Technical Foundations**
+**AD0-E903 Adobe Workfront Project Manager**
 
 The exam covers four domains: business analysis, reporting and dashboarding, segmentation and calculated metrics, general tool knowledge, and reporting.
 
-**Section 1: Data Modeling**
+**Section 1: Intake and planning**
 
-* Documentation: [Understanding Schemas](https://experienceleague.adobe.com/docs/experience-platform/xdm/schema/composition.html)
-* SPP On Demand: [Schema and XDM Overview / Adobe Experience Platform: Data Modeling and Ingestion](https://video.tv.adobe.com/v/27105)
-* SPP Challenge/Hands On: [Model data in Schemas](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/model-data-in-schemas.html)
-* Experience League Tutorial: [Schema and XDM Overview](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/schemas-and-experience-data-model.html)
+* [Use notifications](https://one.workfront.com/s/document-item?bundleId=workfront-classic&topicId=Content%2FWorkfront_basics%2FUsing_Notifications%2F_use-notifications.htm&_LANG=en){target="_blank"}
+* [Task Duration and Duration Types](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&topicId=Content%2FManage_work%2FTasks%2FTaskDurtn%2F_task-duration-duration-type.htm&_LANG=en){target="_blank"}
+* [Use task predecessors](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&topicId=Content%2FManage_work%2FTasks%2FUse_Prdcssrs%2F_use-task-predecessors.htm&_LANG=en){target="_blank"}
+* [Task information](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&topicId=Content%2FManage_work%2FTasks%2FTask_information%2F_task-information.htm&_LANG=en){target="_blank"}
+* [Update work on a project](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&topicId=Content%2FManage_work%2FProjects%2FUpdating_Work_in_a_Project%2F_update-work-on-project.htm&_LANG=en){target="_blank"}
+* [Manage projects](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&topicId=Content%2FManage_work%2FProjects%2FManage_projects%2F_manage-projects-overview.htm&_LANG=en){target="_blank"}
+* [Adobe Workfront basics](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&topicId=Content%2FWorkfront_basics%2F_workfront-basics.htm&_LANG=en){target="_blank"}
+* [Navigate Adobe Workfront](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&topicId=Content%2FWorkfront_basics%2FNavigate_Workfront%2F_navigate-workfront.htm&_LANG=en){target="_blank"}
+* [Assign tasks](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&topicId=Content%2FManage_work%2FTasks%2FAssign_tasks%2F_assign-tasks.htm&_LANG=en){target="_blank"}
+* [Get started with agile in Adobe Workfront](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&topicId=Content%2FAgile%2FGet_Started_with_Agile_in_Workfront%2F_get-started-with-agile.htm&_LANG=en){target="_blank"}
+* [Create and manage reports](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&topicId=Content%2FReports_and_Dashboards%2FReports%2FCreating_and_Managing_Reports%2F_create-manage-reports.htm&_LANG=en){target="_blank"}
 
-**Section 2: Data Ingestion**
+**Section 2: Execute**
 
-* Documentation: [Data Ingestion](https://experienceleague.adobe.com/docs/experience-platform/ingestion/home.html?lang=en)
-* SPP On Demand: [Adobe Experience Platform: Data Modeling and Ingestion](https://solutionpartners.adobe.com/training/learning_program/learningProgram83768.html)
+* [Approval processes and milestone paths](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&topicId=Content%2FAdministration_and_Setup%2FCustomize_Workfront%2FConfigure_approval_milestone_processes%2F_config-approval-milestone-paths.htm&_LANG=en){target="_blank"}
+* [Manage tasks](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&topicId=Content%2FManage_work%2FTasks%2FManage_tasks%2F_manage-tasks.htm&_LANG=en){target="_blank"}
+* [Manage projects](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&topicId=Content%2FManage_work%2FProjects%2FManage_projects%2F_manage-projects-overview.htm&_LANG=en){target="_blank"}
+* [Task information](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&topicId=Content%2FManage_work%2FTasks%2FTask_information%2F_task-information.htm&_LANG=en){target="_blank"}
+* [Tasks](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&topicId=Content%2FManage_work%2FTasks%2F_tasks-overview.htm&_LANG=en){target="_blank"}
+* [Task Constraints](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&topicId=Content%2FManage_work%2FTasks%2FTask_Constraints%2F_task-constraints.htm&_LANG=en){target="_blank"}
+* [Use the Home area](https://one.workfront.com/s/document-item?bundleId=workfront-classic&topicId=Content%2FWorkfront_basics%2FUsing_Home%2FUsing_the_Home_Area%2F_use-the-home-area.htm&_LANG=en){target="_blank"}
+* [Add new documents to Adobe Workfront](https://one.workfront.com/s/document-item?bundleId=workfront-classic&topicId=Content%2FDocuments%2FAdding_Documents_to_Workfront%2F_add-new-documents-_to-workfront.htm&_LANG=en){target="_blank"}
+* [Burndown](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&topicId=Content%2FAgile%2FUse_Scrum_in_an_Agile_Team%2FBurndown%2F_burndown.htm&_LANG=en){target="_blank"}
+* [Resource Utilization](https://one.workfront.com/s/document-item?bundleId=workfront-classic&topicId=Content%2FResource_Mgmt%2FResource_utilization%2F_resource-utilization.htm&_LANG=en){target="_blank"}
+* [Project finances](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&topicId=Content%2FManage_work%2FProjects%2FProject_Finances%2F_project-finances-overview.htm&_LANG=en){target="_blank"}
+* [Workfront documentation](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&topic[%C3%A2%E2%82%AC%C2%A6]urce_utilization%2Fview-utilization-information.htm&_LANG=en){target="_blank"}
+* [Gantt Chart overview](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&topicId=Content%2FManage_work%2FGantt_Chart%2FUse_the_Gantt_Chart%2F_gantt-chart-overview.htm&_LANG=en){target="_blank"}
+* [Group roles](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&topicId=Content%2FAdministration_and_Setup%2FManage_groups%2FGroup_roles%2F_group-roles.htm&_LANG=en){target="_blank"}
+* [Work with a group's objects](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&topicId=Content%2FAdministration_and_Setup%2FManage_groups%2FWork_with_group_objects%2F_work-with-a-groups-objects.htm&_LANG=en){target="_blank"}
+* [Work with groups and teams](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&topicId=Content%2FPeople_Teams_and_Groups%2FWork_with_Groups_and_Teams%2F_work-with-groups-and-teams.htm&_LANG=en){target="_blank"}
+* [Update work on a project](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&topicId=Content%2FManage_work%2FProjects%2FUpdating_Work_in_a_Project%2F_update-work-on-project.htm&_LANG=en){target="_blank"}
+* [Statuses and priority labels](https://one.workfront.com/s/document-item?bundleId=workfront-classic&topicId=Content%2FAdministration_and_Setup%2FCustomize_Workfront%2FCreating_Custom_Status_and_Priority_Labels%2F_create-custom-status-and-priority-labels.htm&_LANG=en){target="_blank"}
 
-**Section 3: Unifying Profiles**
+**Section 3: Closeout**
 
-* Documentation: [Identity and identity graphs](https://experienceleague.adobe.com/docs/platform-learn/tutorials/identities/understanding-identity-and-identity-graphs.html?lang=en)
-* SPP On Demand: [Experience Platform: Create and Manage Real-time Customer Profile](https://cpcontents.adobe.com/public/newlearner/newlearner_de10804e.html?accountId=32503#/course/1175314/overview?cert_id=undefined&lp_id=undefined)
+* [Reporting elements overview](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&topicId=Content%2FReports_and_Dashboards%2FReports%2FReporting_Elements%2F_reporting-elements-overview.htm&_LANG=en){target="_blank"}
+* [Create and manage timesheets in Adobe Workfront](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&topicId=Content%2FTimesheets%2FCreate_and_Manage_Timesheets%2F_create-and-manage-timesheets.htm&_LANG=en){target="_blank"}
+* [Portfolio Management](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&topicId=Content%2FManage_work%2FPortfolios%2F_portfolio-management-overview.htm&_LANG=en){target="_blank"}
+* [Project Timeline](https://www.workfront.com/project-management/knowledge-areas/time-management/project-timeline){target="_blank"}
+* [Create projects](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&topicId=Content%2FManage_work%2FProjects%2FCreate_projects%2F_create-projects-overview.htm&_LANG=enus){target="_blank"}
 
+## Sample questions
 
-**Section 4: Activation**
+The sample questions allow you to see the type and format of items that you will encounter in the actual exam. There is no sign-on needed. The results of the sample questions are not stored, and do not predict your actual test results.
 
-* Documentation: [Destinations](https://experienceleague.adobe.com/docs/experience-platform/destinations/home.html?lang=en)
-* SPP On Demand: [Adobe Experience Platform: Segmentation for Developers](https://solutionpartners.adobe.com/training/learning_program/learningProgram83769.html)
+[See sample questions](https://scorpion.caveon.com/launchpad/ad4-e903-adobe-workfront-project-manager-certified-professional-exam-sample-exam){target="_blank"}
 
-**Additional Study Aid Resources**
+* Provide your email address.
+* Answer the candidate agreement.
+* Start the test.
+* Mark your answer in each question.
+* Click Next on the upper portion of the screen to save your answer and move to the next question. You may return and revise your question within the specified time.
+* On the last question, click Submit Exam to submit all your answers.
+* Answer the short survey.
 
-Adobe has provided additional study aids to help you prepare for your certification exam. These include content from Adobe Experience League, Adobe Digital Learning Solutions, and technical documentation
+## Get certified
 
-+++See Resources
+To schedule your exam you will click on "schedule" below. This will redirect you to the Adobe Credential Management system where you will click scheduling>then search for this exam to schedule.
 
-* [Adobe Experience Platform Enablement (Partners Only)](https://solutionpartners.adobe.com/training/courses/course5250864.html)
-* [Experience Data Model (XDM) Guide](https://experienceleague.adobe.com/docs/experience-platform/xdm/home.html?lang=en)
-+++
+[Schedule AD0-E903](https://learning.adobe.com/api.certify.json){target="_blank"}
 
-{{$include /help/_includes/take-a-practice-test.md}}
+## Questions
 
-{{$include /help/_includes/get-certified.md}}
+Have a question about Adobe Certification? Please email `certif@adobe.com` for additional details about the program.
 
-{{$include /help/_includes/questions.md}}
+View the certification [FAQs](https://solutionpartners.adobe.com/solution-partners/training_and_certification/certification/certification_faq.html#){target="_blank"}.
