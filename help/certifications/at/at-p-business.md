@@ -105,7 +105,7 @@ You are not required to complete training before taking the exam, and training a
 
 Here are some suggested resources to help you prepare:
 
-**AD0-E126 Adobe Experience Manager Business Practitioner**
+**AD0-E408 Adobe Target Business Practitioner**
 
 The exam covers four domains: business analysis, reporting and dashboarding, segmentation and calculated metrics, general tool knowledge, and reporting.
 
