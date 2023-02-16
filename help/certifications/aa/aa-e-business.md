@@ -86,7 +86,7 @@ Section 1: Understanding Analytics in the Adobe Experience Cloud Ecosystem (10%)
 * Demonstrate understanding of Adobe Launch
 * Demonstrate understanding of common integrations across the Adobe Experience Cloud Ecosystem
 
-Section 2: Reporting and Dashboarding for Projects (30%)
+Section 2: Reporting and dashboarding for projects (30%)
 
 * Consider the advantages of using a reporting tool based on a given scenario
 * Compare fallout and flow visualization and appropriate variable types for reporting
@@ -98,7 +98,7 @@ Section 2: Reporting and Dashboarding for Projects (30%)
 * Given a scenario, determine the appropriate item to use
 * Apply the process to create, configure, and use mobile scorecards
 
-Section 3: Segmentation and Calculated Metrics (22%)
+Section 3: Segmentation and calculated metrics (22%)
 
 * Determine how to develop and configure segments
 * Apply the process to share segments with others in the organization
@@ -106,7 +106,7 @@ Section 3: Segmentation and Calculated Metrics (22%)
 * Apply segments to Projects and Components
 * Apply the process to generate calculated and/or segmented metrics
 
-Section 4: General Tool Knowledge and Troubleshooting (12%)
+Section 4: General tool knowledge and troubleshooting (12%)
 
 * Analyze reports and identify data quality issues
 * Define different types of dimensions and parameters existing in Adobe Analytics (evars, props and events)
@@ -131,23 +131,36 @@ You are not required to complete training before taking the exam, and training a
 
 **AD0-E208 Adobe Analytics Business Practitioner**
 
-**Section 1: Business Analysis**
+**Section 1: Business analysis**
 
-* [Creating a custom resource](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/creating-a-custom-resource.html?lang=en){target="_blank"}
+* [Which Adobe Analytics tool should I use?](https://experienceleague.adobe.com/docs/analytics/analyze/admin-overview/which-analytics-tool.html?lang=en){target="_blank"}
+* [Adobe Analytics Documentation](https://helpx.adobe.com/support/analytics.html){target="_blank"}
+* [About Data Collection](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/reporting-interface/overview-data-collection.html?lang=en){target="_blank"}
+* [Analytics Data Feed overview](https://experienceleague.adobe.com/docs/analytics/export/analytics-data-feed/data-feed-overview.html?lang=en){target="_blank"}
 
+**Section 2: Reporting and dashboarding for projects**
 
-**Section 2: Reporting and Dashboarding for Projects**
+* [Get started with Reports & Analytics](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/getting-started.html?lang=en){target="_blank"}
+* [Adobe Analytics dashboards - Overview](https://experienceleague.adobe.com/docs/analytics/analyze/mobapp/home.html?lang=en){target="_blank"}
+* [Projects overview](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/build-workspace-project/freeform-overview.html?lang=en){target="_blank"}
+* [Visualizations overview](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/freeform-analysis-visualizations.html?lang=en){target="_blank"}
+* [Intelligent Alerts overview](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/intelligent-alerts/intellligent-alerts.html?lang=en){target="_blank"}
 
-* [Manage resources](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&topicId=Content%2FResource_Mgmt%2F_manage-resources.htm&_LANG=en){target="_blank"}
+**Section 3: Segmentation and calculated metric**
 
-**Section 3: Segmentation and Calculated Metric**
+* [Analytics segmentation](https://experienceleague.adobe.com/docs/analytics/components/segmentation/seg-home.html?lang=en){target="_blank"}
+* [Calculated and Advanced Calculated (Derived) Metrics](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/cm-overview.html?lang=en){target="_blank"}
 
-* [Managing groups and users](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/users-and-security/managing-groups-and-users.html?lang=en){target="_blank"}
+**Section 4: General tool knowledge and troubleshooting**
 
-**Section 4: General Tool Knowledge and Troubleshooting**
+* [Analytics Tools Guide](https://experienceleague.adobe.com/docs/analytics/analyze/home.html?lang=en){target="_blank"}
+* [Analysis Workspace Overview](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/intelligent-alerts/intellligent-alerts.html?lang=en){target="_blank"}
 
 **Section 5: Administration**
 
+* [Analytics Admin Guide](https://experienceleague.adobe.com/docs/analytics/admin/home.html?lang=en){target="_blank"}
+* [Data Governance FAQ](https://experienceleague.adobe.com/docs/analytics/technotes/data-governance/gdpr-faq.html?lang=en){target="_blank"}
+* [Classification Rule Builder workflow](https://experienceleague.adobe.com/docs/analytics/components/classifications/classifications-rulebuilder/classification-rule-builder.html?lang=en){target="_blank"}
 
 ## Take a practice test
 
