@@ -123,7 +123,7 @@ Here are some suggested resources to help you prepare:
 
 **Section 2: Trait creation**
 
-* ADD
+* ADD Resources
 
 **Section 3: Reporting and measurements**
 
