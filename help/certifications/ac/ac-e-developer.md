@@ -161,7 +161,7 @@ You are not required to complete training before taking the exam, and training a
 * [ Commerce for developers - Overview](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-1-1-overview.html?lang=en#video-content){target="_blank"}
 * [Commerce for developers - Development workflow](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-1-2-workflow.html?lang=en){target="_blank"}
 * [Commerce for developers - Code base](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-4-code-base.html?lang=en){target="_blank"}
-* [Commerce for developers - Exercises](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-6-practice.html?lang=en){target="_blank"} 
+* [Commerce for developers - Exercises](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-6-practice.html?lang=en){target="_blank"}
 * [Magento 2 Development Essentials](https://learning.adobe.com/catalog/adobe_commerce/cours000000000096867.html){target="_blank"} 
 * [Adobe Commerce Cloud: Magento Commerce - Back-End Developer](https://learning.adobe.com/learning-path/adobe_commerce/curra000000000006251.html){target="_blank"} 
 * [Adobe Commerce 2.4 Developer Guide](https://devdocs.magento.com/){target="_blank"} 
