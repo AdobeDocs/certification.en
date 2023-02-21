@@ -4,127 +4,182 @@ description: You have technical knowledge about audience segmentation, destinati
 solution: Workfront
 role: Developer
 ---
-# Certification Journey - Adobe Workfront
+# Certification journey - Adobe Workfront Core Developer expert
 
-## Start Your Journey toward Certification
+Exam ID: AD0-E904
+    
+## Start your journey toward certification
 
-Bacon ipsum dolor amet buffalo short loin meatloaf, t-bone turkey pork hamburger boudin pork chop venison ribeye cow pork belly. Chuck alcatra bacon, frankfurter t-bone salami tri-tip spare ribs ribeye venison sausage strip steak meatball landjaeger cupim. Picanha tri-tip cow fatback, swine pork loin andouille pork tail. Bresaola chicken leberkas, ground round ball tip brisket meatball corned beef sausage andouille porchetta frankfurter doner strip steak burgdoggen. Boudin landjaeger leberkas salami.
+Purchase your exam voucher at Adobe Certification Voucher Center, if you have a discount, it will apply at checkout. Apply the voucher code when you schedule your exam.
 
-<table>
-<tr  style="border: 0">
-<td style="width: 160px;text-align: left">
+If an exam is marked as retiring you will see a note at the top of this page. This indicates that you can still take it until the date specified in the note. 
 
-<!--- TO CHANGE BADGE : change "expert-badge.png" to "master-badge.png" or "professional-badge.png --->
+Your certification will be valid for two years from when you pass. We recommend taking the newer version, when possible, because it covers newer product capabilities.
 
-  <img alt="Certification Badge" style="width: 120px" src="/help/certifications/assets/expert-badge.png" />
-</td>
-<td style="width: 400px;">
-  <strong>Level of Experience: </strong> 1-3 years
+If you have at least 18-24 months experience with Workfront, and can:
 
-  <strong>Intended Audience:</strong>
-  Data Architect/Engineer, Solution Architect or MSA, 
-  Enterprise Architect, Product Manager, Marketing Technology Lead
-</tr>
-</table>
+* Navigate the Workfront system, understanding where its functionality resides
+* Configure all aspects of the system
+* Discuss requirements with customers and translate those into a viable solution
+* Elicit and modify existing process for improvement in a collaborative way
+* Understand and apply the marketing and PMO uses cases
+* Recommend and create reports that support customer processes
 
-<table>
- <tr  style="border: 0;">
-    <td> <strong>Adobe Experience Platform</strong> </td>
- </tr>
+This is the certification for YOU!
 
- <tr style="border: 0;background-color: white;">
-    <td>
-    Exam Details:<br>
-    Passing Score: 35/50<br>
-    Time: 105 mins<br>
-    Cost: $225 (global) and $150 (India)<br>
-    Exam ID: AD0-E600
-    </td>
- </tr>
+![Certification Expert Badge](/help/certifications/assets/expert-badge-small.png)
 
-</table>
+**Level of experience**: 1-3 years
 
-## Exam Purpose
+**Intended audience:** 
 
-Bacon ipsum dolor amet buffalo short loin meatloaf, t-bone turkey pork hamburger boudin pork chop venison ribeye cow pork belly. Chuck alcatra bacon, frankfurter t-bone salami tri-tip spare ribs ribeye venison sausage strip steak meatball landjaeger cupim. Picanha tri-tip cow fatback, swine pork loin andouille pork tail. Bresaola chicken leberkas, ground round ball tip brisket meatball corned beef sausage andouille porchetta frankfurter doner strip steak burgdoggen. Boudin landjaeger leberkas salami.
+* Workfront System Administrators specializing in implementation, and new or updated instance configuration
+* Process designer/architect
+* Business analyst
+* Technical consultant
+* Configuration consultant
 
-## Get Ready
+**Exam details - Adobe Experience Manager DevOps Engineer**
+  
+```
 
-**AD0-E600 Adobe Experience Platform Technical Foundations**
+Passing Score: 36/64
+Time: 130 mins
+Delivery: Online proctored (requires camera access) or test center proctored
+Available languages: English
+Cost: $225 (global) and $150 (India)
+Exam ID: AD0-E904
 
-**Minimum Candidate Experience**
+```
 
-Defined by a team of subject matter experts, the candidate who is ready to pass the Adobe Experience Platform - Adobe Qualified exam has the following qualifications, at a minimum:
+## Get ready
 
-* Basic know-how of Experience Platform and can navigate through the UI
-* A high-level understanding of each UI component
+**AD0-E904 Adobe Workfront Core Developer**
 
-**Exam Objectives and Scope**
+**Exam objectives and scope**
 
-Section 1: Data Modeling (20%)
-* Analyze source data to evaluate primary and secondary identity for profile stitching
-* Demonstrate an understanding of how to use the UI to create/edit XDM Schemas.
-* Identify DULE Guidance
+Section 1: Core system administration and setup (17%)
 
-Section 2: Data Ingestion (36%)
-* Demonstrate how to format and prepare data for ingestion
-* Demonstrate how to connect data sources using OOTB connectors
+* Given a scenario, describe ways to effectively share permissions and access.
+* Given a diagram, select the correct hierarchy order of access.
+* Given a scenario, identify when a group status vs. a system status should be used.
+* Given a data set, demonstrate the capabilities of kickstarts.
+* Given a scenario, identify best practices for auto-provisioning users.
+* Given a scenario, demonstrate how Groups and Teams within a user's profile can impact what can be seen or done within Workfront
+* Given a scenario, recommend whether a Team should be standard, Kanban, or Scrum.
+* Given a scenario, determine the best practice for deploying Agile team custom storyboards.
 
-Section 3: Unifying Profiles (34%)
-* Validate Profiles and Event data post ingestion
-* Define identity name spaces
+Section 2: Intake, custom forms, and project management (17%)
 
-Section 4: Activation (10%)
-* Demonstrate how to set up a destination and how segment activation works
-* Demonstrate and understanding of data access API and exporting data via Real-Time CDP
+* Given a scenario, identify the configuration areas needed to support the work allocations.
+* Given a scenario, identify the necessary settings.
+* Given a scenario, identify how a value is passed to a project custom form.
+* Given a scenario, describe what must be done to address reporting and calculation errors.
+* Given a scenario, identify supporting elements that lend themselves to templates.
 
-Take a readiness questionnaire to find out if you meet the minimum qualifications.
+Section 3: Strategic functionality - portfolio and program management, resource management (13%)
 
-## Get Prepped
+* Given a scenario, determine how to capture post-project KPIs that are reflected in the Portfolio Optimizer.
+* Given a scenario, adjust the business case to reflect a change in the project scope.
+* Given a scenario, create a view that identifies within a portfolio whether a project meets the average level of requisite criteria to be executed.
+* Given a scenario, describe ways to manage risk qualitatively or quantitatively.
+* Given a scenario, provide a mechanism to ensure the highest priority projects are fully staffed.
+* Given a scenario, determine the root cause.
+* Given a scenario, determine why a user is over allocated.
+
+Section 4: Document management and proof (13%)
+
+* Given a scenario, demonstrate when to utilize document management versus proofing
+* Given a scenario, identify best practices for using the proofing viewer, settings, and markup functionality
+* Given a scenario, demonstrate how to edit and set permissions on a file.
+* Given a scenario, demonstrate how to setup external document storage with security restrictions
+
+Section 5: Reporting (13%)
+
+* Given a scenario, describe ways to combine multiple columns of data into a single column.
+* Given a report or filter, demonstrate the merits of using wildcard values.
+* Identify parent-to-child relationships in a report.
+* Given a scenario, describe how reporting facilitates efficient execution of work.
+* Given a scenario, illustrate Workfront Reporting to monitor and improve user adoption.
+
+Section 6: Methodology / best practices / use cases (20%)
+
+* Given a scenario within Workfront, demonstrate functionality for setting up tracking of deliverables that are part of a single campaign.
+* Given a scenario within Workfront, demonstrate functionality around strategic prioritization and justification of work.
+* Given a scenario within Workfront, demonstrate functionality around financials, utilization, forecasting, billing rates/records
+* Given a scenario within Workfront, demonstrate functionality around setting up workflow and approvals.
+* Given a scenario for Agile, identify native features to show progress.
+* Given a scenario, recommend a framework for governance around system administration when expanding a client's instance.
+* Given a scenario, identify areas for consideration when expanding a client's instance to enable additional teams to work together.
+
+Section 7: Business consulting (8%)
+
+* Given a scenario, describe the process needed to fully support that effort.
+* Given a scenario, explain how to adapt an existing Workflow to meet a recent change in a critical, inflight business process.
+* Given a scenario, identify configuration settings that are most difficult to change to a given instance.
+* Given a scenario, identify the key considerations of change management for a Workfront implementation
+* Given a scenario, provide a recommendation.
+
+## Readiness self-assessment
+
+Complete the [online readiness questionnaire](https://scorpion.caveon.com/launchpad/ad-q-e904-readiness-questionnaire-for-adobe-workfront-core-developer-expert/ad-q-e904-readiness-questionnaire-for-adobe-workfront-core-developer-expert){target="_blank"} to see if your current experience matches the recommended minimum candidate qualification.
+
+## Get prepped
 
 You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
 
 Here are some suggested resources to help you prepare:
 
-**AD0-E600 Adobe Experience Platform Technical Foundations**
+**AD0-E904  Adobe Workfront Core Developer**
 
-The exam covers four domains: business analysis, reporting and dashboarding, segmentation and calculated metrics, general tool knowledge, and reporting.
+**Section 1: Core system administration and setup**
 
-**Section 1: Data Modeling**
+* [Add resources](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/configuring/configuring.html?lang=en){target="_blank"} 
 
-* Documentation: [Understanding Schemas](https://experienceleague.adobe.com/docs/experience-platform/xdm/schema/composition.html)
-* SPP On Demand: [Schema and XDM Overview / Adobe Experience Platform: Data Modeling and Ingestion](https://video.tv.adobe.com/v/27105)
-* SPP Challenge/Hands On: [Model data in Schemas](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/model-data-in-schemas.html)
-* Experience League Tutorial: [Schema and XDM Overview](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/schemas-and-experience-data-model.html)
+**Section 2: Intake, custom forms, and project management**
 
-**Section 2: Data Ingestion**
+* [Add resources](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/configuring/configuring.html?lang=en){target="_blank"} 
 
-* Documentation: [Data Ingestion](https://experienceleague.adobe.com/docs/experience-platform/ingestion/home.html?lang=en)
-* SPP On Demand: [Adobe Experience Platform: Data Modeling and Ingestion](https://solutionpartners.adobe.com/training/learning_program/learningProgram83768.html)
+**Section 3: Strategic functionality - portfolio and program management, resource management**
 
-**Section 3: Unifying Profiles**
+* [Add resources](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/configuring/configuring.html?lang=en){target="_blank"} 
 
-* Documentation: [Identity and identity graphs](https://experienceleague.adobe.com/docs/platform-learn/tutorials/identities/understanding-identity-and-identity-graphs.html?lang=en)
-* SPP On Demand: [Experience Platform: Create and Manage Real-time Customer Profile](https://cpcontents.adobe.com/public/newlearner/newlearner_de10804e.html?accountId=32503#/course/1175314/overview?cert_id=undefined&lp_id=undefined)
+**Section 4: Document management and proof** 
+
+* [Add resources](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/configuring/configuring.html?lang=en){target="_blank"} 
+
+**Section 5: Reporting**
+
+* [Add resources](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/configuring/configuring.html?lang=en){target="_blank"} 
+
+**Section 6: Methodology / best practices / use cases**
+
+* [Add resources](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/configuring/configuring.html?lang=en){target="_blank"} 
+
+**Section 7: Business consulting**
+
+* [Add resources](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/configuring/configuring.html?lang=en){target="_blank"} 
 
 
-**Section 4: Activation**
+## Take a practice test
 
-* Documentation: [Destinations](https://experienceleague.adobe.com/docs/experience-platform/destinations/home.html?lang=en)
-* SPP On Demand: [Adobe Experience Platform: Segmentation for Developers](https://solutionpartners.adobe.com/training/learning_program/learningProgram83769.html)
+We are excited to offer free practice tests and provide a detailed coaching report upon completion of each one. You will have unlimited access to all available practice tests for Adobe's expert-level exams. Our practice tests are developed from the same blueprints as the live exams, so they can help you gauge how you are doing in each topic area. However, taking a practice test does not guarantee that you will pass the certification exam.
 
-**Additional Study Aid Resources**
+Go to the [Adobe Credential Managment System](http://www.certmetrics.com/adobe/){target="_blank"} to launch a practice test.
 
-Adobe has provided additional study aids to help you prepare for your certification exam. These include content from Adobe Experience League, Adobe Digital Learning Solutions, and technical documentation
+>[!NOTE]
+>
+>Go to the scheduling page > practice tests > Adobe Certification Prep Portal > click on launch Adobe Exam Prep Portal (on the far-right side).
 
-+++See Resources
 
-* [Adobe Experience Platform Enablement (Partners Only)](https://solutionpartners.adobe.com/training/courses/course5250864.html)
-* [Experience Data Model (XDM) Guide](https://experienceleague.adobe.com/docs/experience-platform/xdm/home.html?lang=en)
-+++
+## Get certified
 
-{{$include /help/_includes/take-a-practice-test.md}}
+To schedule your exam you will click on "schedule" below. This will redirect you to the Adobe Credential Management system where you will click scheduling>then search for this exam to schedule.
 
-{{$include /help/_includes/get-certified.md}}
+* [Schedule AD0-E904](https://learning.adobe.com/api.certify.json)
 
-{{$include /help/_includes/questions.md}}
+## Questions
+
+Have a question about Adobe Certification? Please email `certif@adobe.com` for additional details about the program.
+
+View the certification [FAQs](https://solutionpartners.adobe.com/solution-partners/training_and_certification/certification/certification_faq.html#){target="_blank"}.
