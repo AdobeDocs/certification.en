@@ -97,6 +97,9 @@ Section 4: Build and deployments (28%)
 
 Section 5: Monitor and report on quality metrics (14%)
 
+* Determine the correct method to collect performance metrics and reports
+* Determine the correct method to scale infrastructure
+
 Section 6: Operate the Admin Console (8%)
 
 * Determine the correct method to submit a support request in the Admin Console
