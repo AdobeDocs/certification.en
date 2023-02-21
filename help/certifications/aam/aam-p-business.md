@@ -93,17 +93,17 @@ Here are some suggested resources to help you prepare:
 
 **AD0-E458 Adobe Audience Manager Business Practitioner**
 
-**Section 1: Segment Creation and Syndication**
+**Section 1: Segment creation and syndication**
 
 * [Audience Manager Guide](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html?lang=en){target="_blank"} 
 * [Destinations overview](https://experienceleague.adobe.com/docs/experience-platform/destinations/home.html?lang=en){target="_blank"} 
 
-**Section 2: Trait Creation**
+**Section 2: Trait creation**
 
 * [Audience Manager Guide](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html?lang=en){target="_blank"} 
 * [Analytics Integration](https://experienceleague.adobe.com/docs/analytics/integration/home.html?lang=en){target="_blank"} 
 
-**Section 3: Reporting and Measurements**
+**Section 3: Reporting and measurements**
 
 * [Analytics Tech Notes](https://experienceleague.adobe.com/docs/analytics/technotes/home.html?lang=en){target="_blank"} 
 * [Digital Experience blueprints](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/overview.html?lang=en){target="_blank"} 
@@ -119,7 +119,7 @@ Here are some suggested resources to help you prepare:
 * [Audience Manager Guide](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html?lang=en){target="_blank"} 
 * [Analytics Components Guide](https://experienceleague.adobe.com/docs/analytics/components/home.html?lang=en){target="_blank"} 
 
-**Section 6: Profile Merge, ID Sync, and Audience Marketplace**
+**Section 6: Profile merge, ID sync, and Audience marketplace**
 
 * [Audience Manager Guide](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html?lang=en){target="_blank"} 
 
