@@ -139,7 +139,6 @@ Here are some suggested resources to help you prepare:
 
 * [Add resource](https://experienceleague.adobe.com/docs/experience-manager-65/administering/security/security.html?lang=en){target="_blank"}
 
-
 ## Sample Questions
 
 The sample questions allow you to see the type and format of items that you will encounter in the actual exam. There is no sign-on needed. The results of the sample questions are not stored, and do not predict your actual test results.
