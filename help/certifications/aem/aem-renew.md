@@ -8,18 +8,20 @@ role: Developer
 
 ## Start your journey toward renewing your certification
 
-Your certification is valid for two years from when you pass. We recommend taking the newer version, when possible, because it covers newer product capabilities. You also have the option of renewing your current certification before it expires.
+When you pass a certification exam, your certification is valid for two years.
 
-We're happy to announce that you are now able to renew your certification via a new, no-cost format. It involves using on-demand Adobe Experience League courses and tutorials—simply complete three activities to renew your certification at no cost. You must renew your certification before your certification expires, otherwise, you will need to take the full exam to become certified again. 
+We're happy to announce that you are now able to renew your certification via a new, no-cost format. It involves using on-demand Adobe Experience League courses and tutorials—simply complete three activities to renew your certification at no cost. You must renew before your certification expires, or you will need to take the full exam to become certified again. 
 
 If you are currently certified (not expired) in:
 
-* Adobe Experience Manager Expert (in Assets Developer
-* Dev/Ops Engineer
-* Forms Developer, Sites Developer and Sites Business Practitioner
-* Adobe Experience Manager Master
+* Adobe Experience Manager Assets Developer expert
+* Adobe Experience Manager Dev/Ops Engineer expert
+* Adobe Experience Manager Forms Developer expert
+* Adobe Experience Manager Sites Developer expert
+* Adobe Experience Manager Sites Business Practitioner expert
+* Adobe Experience Manager Architect master
 
-This is the renewal path for YOU!
+...this is the renewal path for YOU!
 
 ![Certification Expert Badge](/help/certifications/assets/expert-badge-small.png) ![Certification Master Badge](/help/certifications/assets/master-badge-small.png)
 
@@ -41,9 +43,12 @@ Refer to the "renew your certification" section below to redirect to the Adobe C
 
 **Courses and course assessments:**
 
-* [Course 1: Moving to Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-d-1-2021-1-migration.html?lang=en){target="_blank"}
+
+
+* [Course: Moving to Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-d-1-2021-1-migration.html?lang=en){target="_blank"}
 
    ADR-EA101 - Moving to Adobe Experience Manager as a Cloud Service Course Assessment
+
 
 * [Course 2: Planning Your Move to Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-a-1-2021-1-migration.html?lang=en){target="_blank"}
 
@@ -75,7 +80,7 @@ Refer to the "renew your certification" section below to redirect to the Adobe C
 
 **Customer reference form:**
 
-For some Adobe Experience Cloud certifications, the Adobe Credential Program accepts customer references which validate your continued work as an Adobe certified individual leading, managing and/or participating on an Adobe Experience Cloud implementation project.
+For certain Adobe Experience Cloud certifications, the Adobe Credential Program accepts customer references that validate your continued work as an Adobe certified individual leading, managing and/or participating on an Adobe Experience Cloud implementation project.
 
 You are required to provide a customer reference affirming you have participated in at least 100 hours of demonstrated project engagement during your certification renewal 2-year interval.
 
@@ -85,7 +90,7 @@ Once your customer reference has been reviewed you will be notified by the Adobe
 
 ## Renew your certification
 
-To renew your exam click on the "Renew your certification" link below. This will redirect you to the Adobe Credential Management system where you will click "renew your certification" > then search for ADOBE EXPERIENCE MANAGER to take the course assessments that are aligned to the courses above.
+To renew your exam click on the "Renew your certification" link below. This will redirect you to the Adobe Credential Management system where you will click "renew your certification" > then search for ADOBE EXPERIENCE MANAGER to see the course assessments that are aligned to the courses above.
 
 * [Renew your certification](https://learning.adobe.com/api.certify.json){target="_blank"}
 
@@ -96,6 +101,6 @@ To renew your exam click on the "Renew your certification" link below. This will
 
 ## Questions
 
-Have a question about Adobe Certification? Please email `certif@adobe.com` for additional details about the program.
+Have a question about Adobe Certification? Please email `certif@adobe.com`.
 
 View the certification [FAQs](https://solutionpartners.adobe.com/solution-partners/training_and_certification/certification/certification_faq.html#){target="_blank"}.
