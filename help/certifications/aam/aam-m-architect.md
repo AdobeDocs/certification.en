@@ -18,7 +18,7 @@ Your certification will be valid for two years from when you pass. We recommend 
 
 If you have at least 3 years of experience with data collection methods, data management platforms, and digital marketing technology stacks across Adobe and non-Adobe marketing platforms. You understand clients' unique technical and business requirements and develop customized solutions.
 
-You should be able to complete the following tasks:
+Additionally, you're able to complete the following tasks:
 
 * Analyze business requirements to understand existing data and the additional data that is required
 * Design and develop specific implementations to meet customer requirements
@@ -29,7 +29,7 @@ You should be able to complete the following tasks:
 * Understand data collection strategies
 
 
-This is the certification for YOU!
+...this is the certification for YOU!
 
 ![Certification Master Badge](/help/certifications/assets/master-badge-small.png)
 
@@ -146,6 +146,6 @@ To schedule your exam you will click on "schedule" below. This will redirect you
 
 ## Questions
 
-Have a question about Adobe Certification? Please email `certif@adobe.com` for additional details about the program.
+Have a question about Adobe Certification? Please email `certif@adobe.com`.
 
 View the certification [FAQs](https://solutionpartners.adobe.com/solution-partners/training_and_certification/certification/certification_faq.html#){target="_blank"}.

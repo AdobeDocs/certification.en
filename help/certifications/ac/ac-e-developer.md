@@ -16,7 +16,7 @@ If an exam is marked as retiring you will see a note at the top of this page. Th
 
 Your certification will be valid for two years from when you pass. We recommend taking the newer version, when possible, because it covers newer product capabilities.
 
-If you have at least 2 years of experience with Adobe Commerce Development and you're with the following technologies and environments:
+If you have at least 2 years of experience with Adobe Commerce Development and you're familiar with the following technologies and environments:
 
 * Adobe Commerce - version 2.4
 * PHP
@@ -29,7 +29,7 @@ If you have at least 2 years of experience with Adobe Commerce Development and y
 * Version control software such as Git
 * Cloud Architecture
 
-This is the certification for YOU!
+...this is the certification for YOU!
 
 ![Certification Expert Badge](/help/certifications/assets/expert-badge-small.png)
 
@@ -286,10 +286,10 @@ Go to the [Adobe Credential Managment System](http://www.certmetrics.com/adobe/)
 
 To schedule your exam you will click on "schedule" below. This will redirect you to the Adobe Credential Management system where you will click scheduling>then search for this exam to schedule.
 
-* [Schedule AD0-E716](https://learning.adobe.com/api.certify.json)
+* [Schedule AD0-E716](https://learning.adobe.com/api.certify.json){target="_blank"}
 
 ## Questions
 
-Have a question about Adobe Certification? Please email `certif@adobe.com` for additional details about the program.
+Have a question about Adobe Certification? Please email `certif@adobe.com`.
 
 View the certification [FAQs](https://solutionpartners.adobe.com/solution-partners/training_and_certification/certification/certification_faq.html#){target="_blank"}.

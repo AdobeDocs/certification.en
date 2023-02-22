@@ -20,9 +20,9 @@ If you are an implementation consultant in a hybrid role with about 2 years' exp
 
 You, as the Analytics Developer rarely implement the tags on the page; instead, they are implemented by IT or the system integrator.
 
-You should be familiar with the following tools and environments:
+You're familiar with the following tools and environments:
 
-Tools
+Tools:
 
 * Adobe Experience Platform Launch (Adobe Launch)
 * Debugging tools relevant to Adobe Analytics (Packet monitor such as Adobe Debugger, browser developer tools, Charles)
@@ -36,14 +36,14 @@ Tools
 * Basic understanding of the available Adobe Analytics related APIs
 * Adobe I/O integration
 
-Environments
+Environments:
 
 * Front-end web development environments
 * Knowledge of mobile application (limitations and differences, e.g., why it is different than web)
 * The field of digital marketing
 * Minimal knowledge of backend development environments including PC, Mac, Android/iOS operating systems (basic operations, not development)
 
-This is the certification for YOU!
+...this is the certification for YOU!
 
 ![Certification Expert Badge](/help/certifications/assets/expert-badge-small.png)
 
@@ -173,10 +173,10 @@ Go to the [Adobe Credential Managment System](http://www.certmetrics.com/adobe/)
 
 To schedule your exam you will click on "schedule" below. This will redirect you to the Adobe Credential Management system where you will click scheduling>then search for this exam to schedule.
 
-* [Schedule AD0-E209](https://learning.adobe.com/api.certify.json)
+* [Schedule AD0-E209](https://learning.adobe.com/api.certify.json){target="_blank"}
 
 ## Questions
 
-Have a question about Adobe Certification? Please email `certif@adobe.com` for additional details about the program.
+Have a question about Adobe Certification? Please email `certif@adobe.com`.
 
 View the certification [FAQs](https://solutionpartners.adobe.com/solution-partners/training_and_certification/certification/certification_faq.html#){target="_blank"}.

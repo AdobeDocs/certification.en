@@ -20,10 +20,10 @@ If you have a minimum of 3 months of experience in Adobe Analytics and the follo
 
 * A marketing background or come from a marketing role but can come from a variety of job roles.
 * A basic familiarity with digital analytics metrics and dimensions.
-* Are able to use Analytics to build reports and answer business questions, and communicate the results.
-* Understand basic digital analytics concepts—e.g. segmentation, report building, standard metric definitions.
+* The ablility to use Analytics to build reports and answer business questions, and communicate the results.
+* An understanding of basic digital analytics concepts—e.g. segmentation, report building, standard metric definitions.
 
-This is the certification for YOU!
+...this is the certification for YOU!
 
 ![Certification Professional Badge](/help/certifications/assets/professional-badge-small.png)
 
@@ -149,6 +149,6 @@ To schedule your exam you will click on "schedule" below. This will redirect you
 
 ## Questions
 
-Have a question about Adobe Certification? Please email `certif@adobe.com` for additional details about the program.
+Have a question about Adobe Certification? Please email `certif@adobe.com`.
 
 View the certification [FAQs](https://solutionpartners.adobe.com/solution-partners/training_and_certification/certification/certification_faq.html#){target="_blank"}.
