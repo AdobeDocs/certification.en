@@ -25,7 +25,7 @@ This is the renewal path for YOU!
 
 >[!NOTE]
 >
->Currently Adobe Certified Professional certification is not included in this program.
+>Adobe Certified Professional renewal option is **coming soon**!
 
 ## Get ready
 
