@@ -16,14 +16,14 @@ If an exam is marked as retiring you will see a note at the top of this page. Th
 
 Your certification will be valid for two years from when you pass. We recommend taking the newer version, when possible, because it covers newer product capabilities.
 
-If you have 
+If you have: 
 
 * At least one year of experience using and configuring Adobe Cloud Manager
 * At least two years of experience configuring, implementing, and managing Continuous Integration/Continuous Deployment tasks
 
-If you are comfortable working in Adobe Managed Services and Adobe Experience Manager as a Cloud Service, and are able to set up Adobe Experience Manager environments and infrastructure.
+If you're comfortable working in Adobe Managed Services and Adobe Experience Manager as a Cloud Service, and are able to set up Adobe Experience Manager environments and infrastructure.
 
-If you have familiarity with the following technologies and environments:
+And, if you have familiarity with the following technologies and environments:
 
 * Cloud Manager
 * Adobe IO CLI
@@ -35,7 +35,7 @@ If you have familiarity with the following technologies and environments:
 * Dev sandbox
 * Local environment
 
-This is the certification for YOU!
+...this is the certification for YOU!
 
 ![Certification Expert Badge](/help/certifications/assets/expert-badge-small.png)
 
@@ -169,10 +169,10 @@ Go to the [Adobe Credential Managment System](http://www.certmetrics.com/adobe/)
 
 To schedule your exam you will click on "schedule" below. This will redirect you to the Adobe Credential Management system where you will click scheduling>then search for this exam to schedule.
 
-* [Schedule AD0-E124](https://learning.adobe.com/api.certify.json)
+* [Schedule AD0-E124](https://learning.adobe.com/api.certify.json){target="_blank"}
 
 ## Questions
 
-Have a question about Adobe Certification? Please email `certif@adobe.com` for additional details about the program.
+Have a question about Adobe Certification? Please email `certif@adobe.com`.
 
 View the certification [FAQs](https://solutionpartners.adobe.com/solution-partners/training_and_certification/certification/certification_faq.html#){target="_blank"}.

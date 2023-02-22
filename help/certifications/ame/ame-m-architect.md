@@ -16,12 +16,14 @@ If an exam is marked as retiring you will see a note at the top of this page. Th
 
 Your certification will be valid for two years from when you pass. We recommend taking the newer version, when possible, because it covers newer product capabilities.
 
-If you are a current Marketo Engage Business Practitioner Certified Expert with at least five years of experience preferably with multiple instances of Marketo Engage and understand the business impact and effectively explain/communicate their solution to the stakeholders (technical and non-technical) at different levels.
+If you're a current Marketo Engage Business Practitioner Certified Expert and have
 
-If you can conceptualize a solution and translate to a Marketo Engage architecture, understand the business processes impacted by integrations
-and understand the principles of architecting an instance.
+* At least five years of experience preferably with multiple instances of Marketo Engage
+* An understanding of the business impact and effectively explain/communicate their solution to the stakeholders (technical and non-technical) at different levels
+* The ability to conceptualize a solution and translate to a Marketo Engage architecture, understand the business processes impacted by integrations
+* An understanding of the principles of architecting an instance
 
-Additionally, if you're familiar with the following tools and technologies:
+Additionally, you're familiar with the following tools and technologies:
 
 * Adobe Marketo Engage features, functionality, and apps
 * Database systems
@@ -29,7 +31,7 @@ Additionally, if you're familiar with the following tools and technologies:
 * CRM platform
 * Marketing technology platforms
 
-This is the certification for YOU!
+...this is the certification for YOU!
 
 ![Alt text](../assets/master-badge-small.png)
 
@@ -166,6 +168,6 @@ To schedule your exam you will click on "schedule" below. This will redirect you
 
 ## Questions
 
-Have a question about Adobe Certification? Please email `certif@adobe.com` for additional details about the program.
+Have a question about Adobe Certification? Please email `certif@adobe.com`.
 
 View the certification [FAQs](https://solutionpartners.adobe.com/solution-partners/training_and_certification/certification/certification_faq.html#){target="_blank"}.

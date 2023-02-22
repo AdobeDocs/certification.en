@@ -20,20 +20,20 @@ If you have:
 
 * At least 3 - 6 months of hands-on experience using Adobe Workfront
 * Experience with Adobe Workfront functionality and connectivity through intake, approval, planning, executing, and reporting
-* In-depth understanding of Adobe Workfront object types, including custom forms and approval workflows, templates, durations, work effort/planned hours
-* In-depth understanding of Adobe Workfront Setup, including access levels, layout templates, project preferences, and other methods to achieve simplicity of end-user design
+* An in-depth understanding of Adobe Workfront object types, including custom forms and approval workflows, templates, durations, work effort/planned hours
+* An in-depth understanding of Adobe Workfront Setup, including access levels, layout templates, project preferences, and other methods to achieve simplicity of end-user design
 * An understanding of and experience with process mapping
 * An understanding of different Adobe Workfront personas and how to engage in support
 
-And, if you're: 
+And, you have: 
 
-* Familiar with Workfront API and API explorer, but not necessarily proficient in API calls
-* Able to use custom API calls for working with Workfront and other APIs
-* Familiar with Adobe Workfront
+* Familiarity with Workfront API and API explorer, but not necessarily proficient in API calls
+* The ability to use custom API calls for working with Workfront and other APIs
+* Familiarity with Adobe Workfront
 * Familiarity with native connectors and other Adobe Workfront products and services
 * Familiarity with project management including agile and waterfall, and resource management concepts
 
-This is the certification for YOU!
+...this is the certification for YOU!
 
 ![Certification Professional Badge](/help/certifications/assets/professional-badge-small.png)
 
@@ -162,6 +162,6 @@ To schedule your exam you will click on "schedule" below. This will redirect you
 
 ## Questions
 
-Have a question about Adobe Certification? Please email `certif@adobe.com` for additional details about the program.
+Have a question about Adobe Certification? Please email `certif@adobe.com`.
 
 View the certification [FAQs](https://solutionpartners.adobe.com/solution-partners/training_and_certification/certification/certification_faq.html#){target="_blank"}.

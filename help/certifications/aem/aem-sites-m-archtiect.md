@@ -16,9 +16,13 @@ If an exam is marked as retiring you will see a note at the top of this page. Th
 
 Your certification will be valid for two years from when you pass. We recommend taking the newer version, when possible, because it covers newer product capabilities.
 
-If you have at least 3 years of experience architecting AEM Sites, are comfortable working in Adobe Managed Services and Adobe Experience Manager as a Cloud Service, and are able to set up Adobe Experience Manager environments and infrastructure.
+If you have:
 
-Additionally, you are able to perform the following tasks:
+* At least 3 years of experience architecting AEM Sites
+* The ability to work in Adobe Managed Services and Adobe Experience Manager as a Cloud Service
+* The ability to set up Adobe Experience Manager environments and infrastructure
+
+Additionally, you have the ability to perform the following tasks:
 
 * Design a software change process for customers (on-prem and cloud)
 * Define a content model for content/assets that can accommodate future requirements
@@ -41,7 +45,7 @@ Additionally, you are able to perform the following tasks:
 * Reuse content across multiple channels
 * Account for cloud-focused considerations, such as: Auto-scaling, Replication, Asset management, the implications and differences between on-premises and managed services, Cloud Manager, Package management
 
-This is the certification for YOU!
+...this is the certification for YOU!
 
 
 >[!NOTE]
@@ -227,6 +231,6 @@ To schedule your exam you will click on "schedule" below. This will redirect you
 
 ## Questions
 
-Have a question about Adobe Certification? Please email `certif@adobe.com` for additional details about the program.
+Have a question about Adobe Certification? Please email `certif@adobe.com`.
 
 View the certification [FAQs](https://solutionpartners.adobe.com/solution-partners/training_and_certification/certification/certification_faq.html#){target="_blank"}.

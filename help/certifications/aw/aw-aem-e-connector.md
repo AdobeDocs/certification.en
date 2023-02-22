@@ -33,7 +33,7 @@ And, if you have:
 * An understanding of taxonomies and AEM tagging, AEM workflows, JCR, Sling, OSGi and databases
 * An understanding of work management best practices
 
-This is the certification for YOU!
+...this is the certification for YOU!
 
 ![Certification Expert Badge](/help/certifications/assets/expert-badge-small.png)
 
@@ -135,10 +135,10 @@ The sample questions allow you to see the type and format of items that you will
 
 To schedule your exam you will click on "schedule" below. This will redirect you to the Adobe Credential Management system where you will click scheduling>then search for this exam to schedule.
 
-* [Schedule AD0-E906](https://learning.adobe.com/api.certify.json)
+* [Schedule AD0-E906](https://learning.adobe.com/api.certify.json){target="_blank"}
 
 ## Questions
 
-Have a question about Adobe Certification? Please email `certif@adobe.com` for additional details about the program.
+Have a question about Adobe Certification? Please email `certif@adobe.com`.
 
 View the certification [FAQs](https://solutionpartners.adobe.com/solution-partners/training_and_certification/certification/certification_faq.html#){target="_blank"}.

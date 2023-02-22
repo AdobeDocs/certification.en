@@ -16,9 +16,14 @@ If an exam is marked as retiring you will see a note at the top of this page. Th
 
 Your certification will be valid for two years from when you pass. We recommend taking the newer version, when possible, because it covers newer product capabilities.
 
-If you have experience with AEM features and capabilities needed to engage developers to find business solutions, are able to use AEM products to manage content to drive digital experiences, have an understanding of what modules are present, and have a deeper insight into modules such as Sites, Assets, and Forms.
+If you have:
 
-Additionally, are familiar with the following technologies and environments: 
+* Experience with AEM features and capabilities needed to engage developers to find business solutions
+* The ability to use AEM products to manage content to drive digital experiences
+* An understanding of what modules are present
+* A deeper insight into modules such as Sites, Assets, and Forms
+
+Additionally, you're familiar with the following technologies and environments: 
 
 * Content management tools
 * Digital asset management tools
@@ -40,7 +45,7 @@ Additionally, are familiar with the following technologies and environments:
 * General understanding of the Web
 * Responsive web design concepts
 
-This is the certification for YOU!
+...this is the certification for YOU!
 
 ![Certification Expert Badge](/help/certifications/assets/expert-badge-small.png)
 
@@ -188,10 +193,10 @@ Go to the [Adobe Credential Managment System](http://www.certmetrics.com/adobe/)
 
 To schedule your exam you will click on "schedule" below. This will redirect you to the Adobe Credential Management system where you will click scheduling>then search for this exam to schedule.
 
-* [Schedule AD0-E121](https://learning.adobe.com/api.certify.json)
+* [Schedule AD0-E121](https://learning.adobe.com/api.certify.json){target="_blank"}
 
 ## Questions
 
-Have a question about Adobe Certification? Please email `certif@adobe.com` for additional details about the program.
+Have a question about Adobe Certification? Please email `certif@adobe.com`.
 
 View the certification [FAQs](https://solutionpartners.adobe.com/solution-partners/training_and_certification/certification/certification_faq.html#){target="_blank"}.

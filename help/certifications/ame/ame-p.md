@@ -16,24 +16,24 @@ If an exam is marked as retiring you will see a note at the top of this page. Th
 
 Your certification will be valid for two years from when you pass. We recommend taking the newer version, when possible, because it covers newer product capabilities.
 
-If you have approximately 6 months' hands-on experience, the ability to understand the marketing needs expressed by task requirements in order to apply a technical solution. 
+If you have:
 
-If you also have:
-
-* Ability to build a simple program from beginning to end
-* Ability to create a Smart List and Smart Campaign
-* Know-how of creating segmentations
-* Understanding of Data review (cleanup)
-* Understanding of Database (how to create people, Activity Log, unsubscribe, Blocklist, email invalid concepts)
-* Ability to understand the importance of privacy regulations
+* Approximately 6 months' hands-on experience
+* The ability to understand the marketing needs expressed by task requirements in order to apply a technical solution
+* The ability to build a simple program from beginning to end
+* The ability to create a Smart List and Smart Campaign
+* Knowledge of how to create segmentations
+* An understanding of Data review (cleanup)
+* An understanding of Database (how to create people, Activity Log, unsubscribe, Blocklist, email invalid concepts)
+* The Ability to understand the importance of privacy regulations
 * Understanding of Email marketing
 
-And, have familiarity with the following tools and technologies:
+And, you're familiar with the following tools and technologies:
 
 * Adobe Marketo Engage
 * Excel or Google Sheets/Doc
 
-This is the certification for YOU!
+...this is the certification for YOU!
 
 ![Certification Professional Badge](/help/certifications/assets/professional-badge-small.png)
 
@@ -178,6 +178,6 @@ To schedule your exam you will click on "schedule" below. This will redirect you
 
 ## Questions
 
-Have a question about Adobe Certification? Please email `certif@adobe.com` for additional details about the program.
+Have a question about Adobe Certification? Please email `certif@adobe.com`.
 
 View the certification [FAQs](https://solutionpartners.adobe.com/solution-partners/training_and_certification/certification/certification_faq.html#){target="_blank"}.
