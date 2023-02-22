@@ -35,17 +35,43 @@ These course assessments are free. There is no need to schedule them, and they a
 
 ## Get prepped
 
-Select **three activities** (course assessments or customer reference) to complete. Study the courses in Experience League. Then log in and pass the course assessments from the Credential Management System.
+Select **three activities** (course assessments or customer reference) to complete. Study the courses in Experience League. Then log in and pass the course assessments from the Adobe Credential Management System. 
 
-**Courses:**
+Refer to the "renew your certification" section below to redirect to the Adobe Credential Managment System for the course assessments after competing your course.
+
+**Courses and course assessments:**
 
 * [Course 1: Moving to Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-d-1-2021-1-migration.html?lang=en){target="_blank"}
+
+   ADR-EA101 - Moving to Adobe Experience Manager as a Cloud Service Course Assessment
+
 * [Course 2: Planning Your Move to Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-a-1-2021-1-migration.html?lang=en){target="_blank"}
+
+  Course assessment: ADR-EA102 Planning Your Move to Adobe Experience Manager as a Cloud Service Course Assessment
+
 * [Course 3: Introduction to Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/overview/introduction.html?lang=en){target="_blank"}
+
+  ADR-EA103 Introduction to Adobe Experience Manager as a Cloud Service Course Assessment
+
 * [Course 4: Headless content management using GraphQL APIs](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-d-1-2020-1-headless.html?lang=en){target="_blank"}
+
+  ADR-EA104 Headless content management using GraphQL APIs Course Assessment
+
 * [Course 5: Personalize Experiences with Adobe Experience Manager and Adobe Target](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-d-1-2020-1-personalization.html?lang=en){target="_blank"}
+
+  ADR-EA105 Personalize experiences with Adobe Experience Manager and Adobe Target Course Assessment
+
 * [Course 6: Integrate Experience Manager Forms Cloud Service with Salesforce](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-d-1-2021-formscs-salesforce.html?lang=en){target="_blank"}
+
+  ADR-EA106 Integrate Experience Manager Forms Cloud Service with Salesforce Course Assessment
+
 * [Course 7: Adobe Experience Manager Cloud Manager Skill Builder](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-u-1-2019-1-cloudmgr-builder.html?lang=en){target="_blank"}
+
+  ADR-EA107 Adobe Experience Manager Cloud Manager Skill Builder Course Assessment
+
+* [Course 8: Adobe Experience Manager Sites for Architects](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-d-1-2019-1-architect.html?lang=en){target="_blank"}
+
+  ADR-EA108 Adobe Experience Manager Sites for Architects Course Assessment
 
 **Customer reference form:**
 
