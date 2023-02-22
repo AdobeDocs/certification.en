@@ -11,7 +11,7 @@ Exam ID: AD0-E134
 
 >[!NOTE]
 >
->This exam has recently replaced a previous version. The exam that is now retired is AD0-E116 Adobe Experience Manager Sites Developer expert. This is the newest version.
+>You are viewing the **newest version** of this certification exam. AD0-E116 Adobe Experience Manager Sites Developer expert is the previous version and has now retired.
 
    
 ## Start your journey toward certification
@@ -22,9 +22,15 @@ If an exam is marked as retiring you will see a note at the top of this page. Th
 
 Your certification will be valid for two years from when you pass. We recommend taking the newer version, when possible, because it covers newer product capabilities.
 
-If you have a minimum of 12 months experience working with the AEM Platform. Are able to perform advanced component development, have a deep understanding of the Model View Controller (MVC) framework, be aware of frameworks and libraries in AEM. In addition, the candidate will have an understanding of the AEM development life cycle.
+If you have:
 
-The candidate should have familiarity with the following technologies and environments:
+* A minimum of 12 months experience working with the AEM Platform
+* The ability to perform advanced component development
+* A deep understanding of the Model View Controller (MVC) framework
+* The knowledgge of frameworks and libraries in AEM
+* An understanding of the AEM development life cycle
+
+Additionally, you're familiar with the following technologies and environments:
 
 * JVM
 * Lower/pre-production environments
@@ -35,7 +41,7 @@ The candidate should have familiarity with the following technologies and enviro
 * Development and packaging tools
 * Command line tools
 
-This is the certification for YOU!
+...this is the certification for YOU!
 
 ![Certification Expert Badge](/help/certifications/assets/expert-badge-small.png)
 
@@ -154,10 +160,10 @@ Go to the [Adobe Credential Managment System](http://www.certmetrics.com/adobe/)
 
 To schedule your exam you will click on "schedule" below. This will redirect you to the Adobe Credential Management system where you will click scheduling>then search for this exam to schedule.
 
-* [Schedule AD0-E134](https://learning.adobe.com/api.certify.json)
+* [Schedule AD0-E134](https://learning.adobe.com/api.certify.json){target="_blank"}
 
 ## Questions
 
-Have a question about Adobe Certification? Please email `certif@adobe.com` for additional details about the program.
+Have a question about Adobe Certification? Please email `certif@adobe.com`.
 
 View the certification [FAQs](https://solutionpartners.adobe.com/solution-partners/training_and_certification/certification/certification_faq.html#){target="_blank"}.

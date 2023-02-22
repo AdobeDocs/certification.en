@@ -16,7 +16,9 @@ If an exam is marked as retiring you will see a note at the top of this page. Th
 
 Your certification will be valid for two years from when you pass. We recommend taking the newer version, when possible, because it covers newer product capabilities.
 
-If you are comfortable working in Adobe Managed Services and Adobe Experience Manager as a Cloud Service, and are able to set up Adobe Experience Manager environments and infrastructure. If you have:
+If you're comfortable working in Adobe Managed Services and Adobe Experience Manager as a Cloud Service, and are able to set up Adobe Experience Manager environments and infrastructure. 
+
+If you have:
 
 * 6 months+ CMS experience
 * 6 months+ AEM Assets experience
@@ -35,7 +37,7 @@ Additionally, if you have experience with the following technologies and environ
 * Dev sandbox
 * Local environment
 
-This is the certification for YOU!
+...this is the certification for YOU!
 
 ![Certification Expert Badge](/help/certifications/assets/professional-badge-small.png)
 
@@ -164,6 +166,6 @@ To schedule your exam you will click on "schedule" below. This will redirect you
 
 ## Questions
 
-Have a question about Adobe Certification? Please email `certif@adobe.com` for additional details about the program.
+Have a question about Adobe Certification? Please email `certif@adobe.com`.
 
 View the certification [FAQs](https://solutionpartners.adobe.com/solution-partners/training_and_certification/certification/certification_faq.html#){target="_blank"}.

@@ -25,7 +25,7 @@ If you have:
 * A basic knowledge of the three-step workflow (experiences, targeting, and goals and settings, including all reporting sources)
 * The ability to read and understand Activity reporting results
 
-This is the certification for YOU!
+...this is the certification for YOU!
 
 ![Certification Professional Badge](/help/certifications/assets/professional-badge-small.png)
 
@@ -161,6 +161,6 @@ To schedule your exam you will click on "schedule" below. This will redirect you
 
 ## Questions
 
-Have a question about Adobe Certification? Please email `certif@adobe.com` for additional details about the program.
+Have a question about Adobe Certification? Please email `certif@adobe.com`.
 
 View the certification [FAQs](https://solutionpartners.adobe.com/solution-partners/training_and_certification/certification/certification_faq.html#){target="_blank"}.

@@ -16,17 +16,21 @@ If an exam is marked as retiring you will see a note at the top of this page. Th
 
 Your certification will be valid for two years from when you pass. We recommend taking the newer version, when possible, because it covers newer product capabilities.
 
-* If have at least 12 months of experience using and configuring Adobe Cloud Manager
+If you have:
 
+* At least 12 months of experience using and configuring Adobe Cloud Manager
 * At least 12 months of experience with AEM features and capabilities needed to engage developers to find buisness solutions
-
 * At least 24 months of experience configuring, implementing, and managing Countinuous Integration/Continuous Deployment tasks 
 
-If you are comfortable working in Adobe Managed Services and Adobe Experience Manager as a Cloud Service, and able to set up Adobe Experience Manager environments and infrastructure.
+If you're comfortable working in Adobe Managed Services and Adobe Experience Manager as a Cloud Service, and are able to set up Adobe Experience Manager environments and infrastructure.
 
-And, if you are able to use AEM products to manage content to drive digital experiences and have an understanding of what modules are present, and have a deeper insight into modules such as Sites, Assets, and Forms.
+Additionally, you have:
 
-This is the certification for YOU!
+* The ability use AEM products to manage content to drive digital experiences
+* An understanding of what modules are present
+* A deeper insight into modules such as Sites, Assets, and Forms
+
+...this is the certification for YOU!
 
 ![Certification Professional Badge](/help/certifications/assets/professional-badge-small.png)
 
@@ -59,7 +63,7 @@ Exam ID: AD0-E126
 Section 1: Education (22%)
 
 * Identify AEM features and capabilities
-*Describe AEM features that meet business needs
+* Describe AEM features that meet business needs
 * Describe procedural concepts necessary to conduct training for content editors
 
 Section 2: Architecture (22%)
@@ -151,6 +155,6 @@ To schedule your exam you will click on "schedule" below. This will redirect you
 
 ## Questions
 
-Have a question about Adobe Certification? Please email `certif@adobe.com` for additional details about the program.
+Have a question about Adobe Certification? Please email `certif@adobe.com`.
 
 View the certification [FAQs](https://solutionpartners.adobe.com/solution-partners/training_and_certification/certification/certification_faq.html#){target="_blank"}.

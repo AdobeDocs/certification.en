@@ -25,9 +25,9 @@ If you have:
 * Familiarity with/awareness of Adobe Target APIs/SDKs, server-side integration, reporting, and administration
 * Knowledge of implementing Adobe Target with Single Page Application (SPA) frameworks, mobile and email, and recommendations
 
-Additionally, if you're familiar with the following technologies and environments:
+Additionally, you're familiar with the following technologies and environments:
 
-Technologies
+Technologies:
 
 * Multiple Adobe Experience Cloud Programs (e.g. Adobe Analytics, Adobe Campaign, Adobe Experience Manager, Adobe Experience Cloud Debugger, Target APIs)
 * JavaScript (Ajax, JQuery, etc.)
@@ -38,7 +38,7 @@ Technologies
 * API tools like Postman
 * VEC helper
 
-Environments
+Environments:
 
 * Adobe Experience Cloud
 * Client-side implementation without tag manager
@@ -49,7 +49,7 @@ Environments
 * AMS hosted environment
 * Adobe I/O Runtime
 
-This is the certification for YOU!
+...this is the certification for YOU!
 
 ![Certification Master Badge](/help/certifications/assets/master-badge-small.png)
 
@@ -215,6 +215,6 @@ To schedule your exam you will click on "schedule" below. This will redirect you
 
 ## Questions
 
-Have a question about Adobe Certification? Please email `certif@adobe.com` for additional details about the program.
+Have a question about Adobe Certification? Please email `certif@adobe.com`.
 
 View the certification [FAQs](https://solutionpartners.adobe.com/solution-partners/training_and_certification/certification/certification_faq.html#){target="_blank"}.

@@ -16,9 +16,14 @@ If an exam is marked as retiring you will see a note at the top of this page. Th
 
 Your certification will be valid for two years from when you pass. We recommend taking the newer version, when possible, because it covers newer product capabilities.
 
-If you have an understanding of the overall changes to the architecture and features when moving from any AEM service (self-managed, AMS or any third-party cloud) to AEM as a Cloud Service. In addition, you have 2-3 years of web application development experience using Adobe Experience Manager, and have hands on experience using AEM Forms, Assets, and Sites. You are able to guide customers through the migration process advising and participating in all phases of an AEM project. 
+If you have:
 
-Additionally, you are familiar with the following technologies and environments:
+* An understanding of the overall changes to the architecture and features when moving from any AEM service (self-managed, AMS or any third-party cloud) to AEM as a Cloud Service. 
+* 2-3 years of web application development experience using Adobe Experience Manager
+* Hands on experience using AEM Forms, Assets, and Sites
+* The ability to guide customers through the migration process advising and participating in all phases of an AEM project 
+
+Additionally, you're familiar with the following technologies and environments:
 
 * Index conversion tools
 * Workflow conversion tools
@@ -37,7 +42,7 @@ Additionally, you are familiar with the following technologies and environments:
 * Tailing Cloud logs in local environment
 * Cloud console interfaces
 
-This is the certification for YOU!
+...this is the certification for YOU!
 
 ![Certification Expert Badge](/help/certifications/assets/expert-badge-small.png)
 
@@ -152,6 +157,6 @@ To schedule your exam you will click on "schedule" below. This will redirect you
 
 ## Questions
 
-Have a question about Adobe Certification? Please email `certif@adobe.com` for additional details about the program.
+Have a question about Adobe Certification? Please email `certif@adobe.com`.
 
-View the certification [FAQs](https://solutionpartners.adobe.com/solution-partners/training_and_certification/certification/certification_faq.html#){target="_blank"}.**
+View the certification [FAQs](https://solutionpartners.adobe.com/solution-partners/training_and_certification/certification/certification_faq.html#){target="_blank"}.

@@ -20,7 +20,7 @@ If an exam is marked as retiring, you can still take it and your certification w
 
 If you have:
 
-* Basic know-how of Experience Platform and can navigate through the UI
+* Basic knowledge of Experience Platform and can navigate through the UI
 * The ability to create segments and build audiences (logic included in that)
 * The ability to configure destinations
 * The ability to connect segments to destinations
@@ -33,7 +33,7 @@ If you have:
 * Knowledge of frequency of sending segments out through destinations
 * Knowledge of how often segment membership is updated
 
-This is the certification for YOU!
+...this is the certification for YOU!
 
 ![Certification Expert Badge](/help/certifications/assets/expert-badge-small.png)
 
@@ -287,11 +287,11 @@ Go to the [Adobe Credential Managment System](http://www.certmetrics.com/adobe/)
 
 To schedule your exam you will click on "Schedule" below. This will redirect you to the Adobe Credential Management system where you will click scheduling>then search for this exam to schedule.
 
-* [Schedule AD0-E600](http://www.certmetrics.com/adobe/)
-* [Schedule AD7-E601](http://www.certmetrics.com/adobe/)
+* [Schedule AD0-E600](http://www.certmetrics.com/adobe/){target="_blank"}
+* [Schedule AD7-E601](http://www.certmetrics.com/adobe/){target="_blank"}
 
 ## Questions
 
-Have a question about Adobe Certification? Please email `certif@adobe.com` for additional details about the program.
+Have a question about Adobe Certification? Please email `certif@adobe.com`.
 
 View the certification [FAQs](https://solutionpartners.adobe.com/solution-partners/training_and_certification/certification/certification_faq.html#){target="_blank"}.

@@ -16,8 +16,9 @@ If an exam is marked as retiring you will see a note at the top of this page. Th
 
 Your certification will be valid for two years from when you pass. We recommend taking the newer version, when possible, because it covers newer product capabilities.
 
-If you are an application developer with a minimum of 12 months experience working with the AEM Platform and have:
+If you're an application developerand have:
 
+* A minimum of 12 months experience working with the AEM Platform
 * The ability to perform advanced component development
 * A deep understanding of the MVC framework
 * The awarenes of frameworks and libraries in AEM
@@ -34,7 +35,7 @@ If you are an application developer with a minimum of 12 months experience worki
 * Different AEM hosting capabilities
 * Sync content/environments together
 
-This is the certification for YOU!
+...this is the certification for YOU!
 
 ![Certification Professional Badge](/help/certifications/assets/professional-badge-small.png)
 
@@ -142,6 +143,6 @@ To schedule your exam you will click on "schedule" below. This will redirect you
 
 ## Questions
 
-Have a question about Adobe Certification? Please email `certif@adobe.com` for additional details about the program.
+Have a question about Adobe Certification? Please email `certif@adobe.com`.
 
 View the certification [FAQs](https://solutionpartners.adobe.com/solution-partners/training_and_certification/certification/certification_faq.html#){target="_blank"}.

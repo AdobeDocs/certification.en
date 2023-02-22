@@ -36,7 +36,7 @@ If you have:
 * Experience with transactional messaging, and message delivery on multi-channels
 * Experience with managed packages
 
-This is the certification for YOU!
+...this is the certification for YOU!
 
 ![Certification Expert Badge](/help/certifications/assets/expert-badge-small.png)
 
@@ -167,12 +167,12 @@ Go to the [Adobe Credential Management System](http://www.certmetrics.com/adobe/
 
 To schedule your exam, click the following link: 
 
-* [Schedule AD0-E306](https://learning.adobe.com/api.certify.json)
+* [Schedule AD0-E306](https://learning.adobe.com/api.certify.json){target="_blank"}
 
 This redirects you to the Adobe Credential Management system where you can click **Scheduling**, then search for this exam to schedule.
 
 ## Questions
 
-Have a question about Adobe Certification? Please email `certif@adobe.com` for additional details about the program.
+Have a question about Adobe Certification? Please email `certif@adobe.com`.
 
 View the certification [FAQs](https://solutionpartners.adobe.com/solution-partners/training_and_certification/certification/certification_faq.html#){target="_blank"}.

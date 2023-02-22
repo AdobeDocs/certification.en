@@ -16,9 +16,15 @@ If an exam is marked as retiring you will see a note at the top of this page. Th
 
 Your certification will be valid for two years from when you pass. We recommend taking the newer version, when possible, because it covers newer product capabilities.
 
-If you are an backend forms developer with 0-12 months of experience working with the AEM Platform, with 12 months experience using and configuring Adobe Cloud Manager, have at least 24 months experience configuring, implementing, and managing Continuous Integration/Continuous Deployment tasks. 
+If you're a backend forms developer and have:
 
-Additionally, are comfortable working in Adobe Managed Services and Adobe Experience Manager as a Cloud Service, and able to set up Adobe Experience Manager environments and infrastructure. If you are familiar with the following technologies and environments:
+* 0-12 months of experience working with the AEM Platform
+* 12 months experience using and configuring Adobe Cloud Manager
+* At least 24 months experience configuring, implementing, and managing Continuous Integration/Continuous Deployment tasks 
+
+Additionally, you're comfortable working in Adobe Managed Services and Adobe Experience Manager as a Cloud Service. Are able to set up Adobe Experience Manager environments and infrastructure. 
+
+If you're familiar with the following technologies and environments:
 
 * Cloud Manager
 * Adobe IO CLI
@@ -30,7 +36,7 @@ Additionally, are comfortable working in Adobe Managed Services and Adobe Experi
 * Dev sandbox
 * Local environment
 
-This is the certification for YOU!
+...this is the certification for YOU!
 
 ![Certification Expert Badge](/help/certifications/assets/professional-badge-small.png)
 
@@ -66,12 +72,14 @@ Exam ID: AD0-E127
 **Exam objectives and scope**
 
 Section 1: Forms creation and management (26%)
+
 * Given a scenario, identify steps needed to build AEM Forms
 * Describe Forms Data Model
 * Identify steps to customize AEM Forms
 * Given a scenario, identify steps to use Javascript ClientLib leveraging GuideBridge API
 
 Section 2: Processes and workflows (34%)
+
 * Given a scenario, identify the steps for a Form approval workflow
 * Identify features of an OSGi bundle using Document Services API
 * Given a scenario, schedule different asynchronous batch processes using Watchfolder endpoint
@@ -80,6 +88,7 @@ Section 2: Processes and workflows (34%)
 * Describe ways to implement JDBC services
 
 Section 3: Administration and troubleshooting (21%)
+
 * Identify issues generated in log files
 * Given a scenario, identify the steps to perform administration activities
 * Identify the features of Service Packs in AEM Forms
@@ -87,10 +96,12 @@ Section 3: Administration and troubleshooting (21%)
 * Describe the steps to navigate different consoles
 
 Section 4: API endpoints and integrations (10%)
+
 * Given a scenario, describe the flow to integrate AEM Form with Adobe Experience Cloud
 * Identify the steps to generate various endpoint services
 
 Section 5: Interactive communication (9%)
+
 * Given a scenario, demonstrate and implement processes for Interactive Communication
 
 ## Get prepped
@@ -151,6 +162,6 @@ To schedule your exam you will click on "schedule" below. This will redirect you
 
 ## Questions
 
-Have a question about Adobe Certification? Please email `certif@adobe.com` for additional details about the program.
+Have a question about Adobe Certification? Please email `certif@adobe.com`.
 
 View the certification [FAQs](https://solutionpartners.adobe.com/solution-partners/training_and_certification/certification/certification_faq.html#){target="_blank"}.
