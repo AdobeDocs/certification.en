@@ -18,7 +18,7 @@ Your certification will be valid for two years from when you pass. We recommend 
 
 If you have a minimum 3-4 years of experience designing Adobe Analytics architecture, data layer specifications, and tag management, as well as a basic understanding of JavaScript code. 
 
-Additionally, if you're responsible for translating business requirements into tracking specifications and Adobe Analytics variables, and you're familiar with the following technologies and environments:
+Additionally, you're responsible for translating business requirements into tracking specifications and Adobe Analytics variables, and you're familiar with the following technologies and environments:
 
 * Web Analytics Applications
 * Adobe Experience Cloud
@@ -28,7 +28,7 @@ Additionally, if you're responsible for translating business requirements into t
 * Optimization tools
 * Code editors
 
-This is the certification for YOU!
+...this is the certification for YOU!
 
 ![Certification Master Badge](/help/certifications/assets/master-badge-small.png)
 
@@ -149,6 +149,6 @@ To schedule your exam you will click on "schedule" below. This will redirect you
 
 ## Questions
 
-Have a question about Adobe Certification? Please email `certif@adobe.com` for additional details about the program.
+Have a question about Adobe Certification? Please email `certif@adobe.com`.
 
 View the certification [FAQs](https://solutionpartners.adobe.com/solution-partners/training_and_certification/certification/certification_faq.html#){target="_blank"}.

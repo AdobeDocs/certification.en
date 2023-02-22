@@ -39,7 +39,7 @@ Additionally, you exhibit knowledge of the following technologies:
 * Basic understanding of out-of-the-box SEO, optimization and performance techniques
 * Basic understanding of canonical links, as well as merging JavaScript and CSS
 
-This is the certification for YOU!
+...this is the certification for YOU!
 
 ![Certification Professional Badge](/help/certifications/assets/professional-badge-small.png)
 
@@ -190,6 +190,6 @@ To schedule your exam you will click on "schedule" below. This will redirect you
 
 ## Questions
 
-Have a question about Adobe Certification? Please email `certif@adobe.com` for additional details about the program.
+Have a question about Adobe Certification? Please email `certif@adobe.com`.
 
 View the certification [FAQs](https://solutionpartners.adobe.com/solution-partners/training_and_certification/certification/certification_faq.html#){target="_blank"}.

@@ -16,7 +16,11 @@ If an exam is marked as retiring you will see a note at the top of this page. Th
 
 Your certification will be valid for two years from when you pass. We recommend taking the newer version, when possible, because it covers newer product capabilities.
 
-If you have 6-12 months' experience in Adobe Analytics implementation (web and mobile app). If you act as a player supporting Analytics Implementation teams in bridging between IT and the business to understand how business requirements translate into a technical solution (SDR), and based on requirements provided by the analyst, understand which type of variable is needed, where and how to collect the data, design the data model (data layer), configure, and maintain the tag management solution.
+If you:
+
+* Have 6-12 months' experience in Adobe Analytics implementation (web and mobile app)
+* Act as a player supporting Analytics Implementation teams in bridging between IT and the business to understand how business requirements translate into a technical solution (SDR), and based on requirements provided by the analyst
+* Understand which type of variable is needed, where and how to collect the data, design the data model (data layer), configure, and maintain the tag management solution
 
 I you're able to complete the following tasks:
 
@@ -35,7 +39,7 @@ And, if you have an understandiing and basic experience with the following:
 
 * Adobe Experience Platform Launch (Adobe Launch)
 
-This is the certification for YOU!
+...this is the certification for YOU!
 
 ![Certification professional Badge](/help/certifications/assets/professional-badge-small.png)
 
@@ -176,10 +180,10 @@ The sample questions allow you to see the type and format of items that you will
 
 To schedule your exam you will click on "schedule" below. This will redirect you to the Adobe Credential Management system where you will click scheduling>then search for this exam to schedule.
 
-* [Schedule AD0-E213](https://learning.adobe.com/api.certify.json)
+* [Schedule AD0-E213](https://learning.adobe.com/api.certify.json){target="_blank"}
 
 ## Questions
 
-Have a question about Adobe Certification? Please email `certif@adobe.com` for additional details about the program.
+Have a question about Adobe Certification? Please email `certif@adobe.com`.
 
 View the certification [FAQs](https://solutionpartners.adobe.com/solution-partners/training_and_certification/certification/certification_faq.html#){target="_blank"}.

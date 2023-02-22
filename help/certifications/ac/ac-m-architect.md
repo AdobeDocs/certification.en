@@ -46,7 +46,7 @@ Additionally, if you're very familiar with the following activities and technolo
 * Creating and modifying B2B
 * AMQP protocol and adapters in Adobe Commerce (S3)
 
-This is the certification for YOU!
+...this is the certification for YOU!
 
 ![Certification Master Badge](/help/certifications/assets/master-badge-small.png)
 
@@ -178,6 +178,6 @@ To schedule your exam you will click on "schedule" below. This will redirect you
 
 ## Questions
 
-Have a question about Adobe Certification? Please email `certif@adobe.com` for additional details about the program.
+Have a question about Adobe Certification? Please email `certif@adobe.com`.
 
 View the certification [FAQs](https://solutionpartners.adobe.com/solution-partners/training_and_certification/certification/certification_faq.html#){target="_blank"}.

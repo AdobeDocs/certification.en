@@ -16,9 +16,9 @@ If an exam is marked as retiring you will see a note at the top of this page. Th
 
 Your certification will be valid for two years from when you pass. We recommend taking the newer version, when possible, because it covers newer product capabilities.
 
-If you have a minimum of 
+If you have a basic understanding of data flows, business objectives and KPIs, with some experience around data analytics and strategies.
 
-This is the certification for YOU!
+...this is the certification for YOU!
 
 ![Certification Professional Badge](/help/certifications/assets/professional-badge-small.png)
 
@@ -145,6 +145,6 @@ To schedule your exam you will click on "schedule" below. This will redirect you
 
 ## Questions
 
-Have a question about Adobe Certification? Please email `certif@adobe.com` for additional details about the program.
+Have a question about Adobe Certification? Please email `certif@adobe.com`.
 
 View the certification [FAQs](https://solutionpartners.adobe.com/solution-partners/training_and_certification/certification/certification_faq.html#){target="_blank"}.

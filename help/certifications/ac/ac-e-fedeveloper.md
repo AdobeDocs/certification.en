@@ -35,7 +35,7 @@ Additionally, if you're comfortable using the following technologies:
 * Implement translation
 * Understanding how to work with email templates
 
-This is the certification for YOU!
+...this is the certification for YOU!
 
 ![Certification Expert Badge](/help/certifications/assets/expert-badge-small.png)
 
@@ -221,10 +221,10 @@ Go to the [Adobe Credential Managment System](http://www.certmetrics.com/adobe/)
 
 To schedule your exam you will click on "schedule" below. This will redirect you to the Adobe Credential Management system where you will click scheduling>then search for this exam to schedule.
 
-* [Schedule AD0-E710](https://learning.adobe.com/api.certify.json)
+* [Schedule AD0-E710](https://learning.adobe.com/api.certify.json){target="_blank"}
 
 ## Questions
 
-Have a question about Adobe Certification? Please email `certif@adobe.com` for additional details about the program.
+Have a question about Adobe Certification? Please email `certif@adobe.com`.
 
 View the certification [FAQs](https://solutionpartners.adobe.com/solution-partners/training_and_certification/certification/certification_faq.html#){target="_blank"}.

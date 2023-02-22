@@ -18,7 +18,7 @@ Your certification will be valid for two years from when you pass. We recommend 
 
 If you have approximately 3 years of hands-on Commerce experience and a broad understanding of the e-commerce experience. 
 
-If you experience in:
+If you have experience in:
 
 * Digital marketing: SEO, CMS, sales techniques like cross-selling and up-selling, understanding Google Analytics, email templates
 * Security, compliance, and privacy laws, such as PCI, GDPR, ADA, CAN-SPAM, PSD2
@@ -28,14 +28,14 @@ If you experience in:
 * Basic understanding of customizable applications, cloud, and server infrastructure
 * Modern e-commerce terminology
 
-And, if you feel comfortable using the following technologies:
+And, if you're comfortable using the following technologies:
 
 * Adobe Commerce - version 2.4
 * Analytics and performance tools: Google Analytics, tag manager, SWAT, New Relic, Fastly, Google Lighthouse
 * Security tools: PCI compliance, ADA, GDPR, etc.
 * Cloud or on-premise architecture
 
-This is the certification for YOU!
+...this is the certification for YOU!
 
 ![Certification Expert Badge](/help/certifications/assets/expert-badge-small.png)
 
@@ -225,10 +225,10 @@ Go to the [Adobe Credential Managment System](http://www.certmetrics.com/adobe/)
 
 To schedule your exam you will click on "schedule" below. This will redirect you to the Adobe Credential Management system where you will click scheduling>then search for this exam to schedule.
 
-* [Schedule AD0-E708](https://learning.adobe.com/api.certify.json)
+* [Schedule AD0-E708](https://learning.adobe.com/api.certify.json){target="_blank"}
 
 ## Questions
 
-Have a question about Adobe Certification? Please email `certif@adobe.com` for additional details about the program.
+Have a question about Adobe Certification? Please email `certif@adobe.com`.
 
 View the certification [FAQs](https://solutionpartners.adobe.com/solution-partners/training_and_certification/certification/certification_faq.html#){target="_blank"}.
