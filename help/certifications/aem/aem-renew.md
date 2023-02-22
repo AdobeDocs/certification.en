@@ -47,7 +47,7 @@ Select **three activities** (course assessments or customer reference) to comple
 * [Course 6: Integrate Experience Manager Forms Cloud Service with Salesforce](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-d-1-2021-formscs-salesforce.html?lang=en){target="_blank"}
 * [Course 7: Adobe Experience Manager Cloud Manager Skill Builder](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-u-1-2019-1-cloudmgr-builder.html?lang=en){target="_blank"}
 
-**Form:**
+**Customer reference form:**
 
 For some Adobe Experience Cloud certifications, the Adobe Credential Program accepts customer references which validate your continued work as an Adobe certified individual leading, managing and/or participating on an Adobe Experience Cloud implementation project.
 
