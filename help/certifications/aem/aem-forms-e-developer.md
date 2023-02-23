@@ -18,11 +18,11 @@ Your certification will be valid for two years from when you pass. We recommend 
 
 If you have:
 
- * 2-3 years' of experience with AEM Forms
- * At least 5 years of work experience in the IT industry
- * The ability to lead the development, configuration, testing, and deployment of customized forms solutions
- * The ability to configure a form, translate business requirements into workflows, integrate with external systems
- * An understanding of AEM Forms foundation components
+* 2-3 years' of experience with AEM Forms
+* At least 5 years of work experience in the IT industry
+* The ability to lead the development, configuration, testing, and deployment of customized forms solutions
+* The ability to configure a form, translate business requirements into workflows, integrate with external systems
+* An understanding of AEM Forms foundation components
 
 Additionally, if you are familiar with the following technologies and environments:
 
