@@ -48,12 +48,12 @@ If you have:
 * Business practitioner
 * CRM project manager
 
-**Exam details - Campaign Classic Business Practitioner**
+**Exam details - Adobe Campaign Classic Business Practitioner**
 
 ```
 Passing Score: 32/50
 Time: 100 mins
-Delivery: Online proctored (requires camera access)
+Delivery: Online proctored (requires camera access)) or test center 
 Available languages: English
 Cost: $125 (global) and $95 (India
 Exam ID: AD0-E329
@@ -62,11 +62,11 @@ Exam ID: AD0-E329
 
 ## Get ready
 
-**AD0-E329 Campaign Classic Business Practitioner**
+**AD0-E329 Adobe Campaign Classic Business Practitioner**
 
 **Exam objectives and scope**
 
-Section 1: Build a campaign (29%)
+Section 1: Build a Campaign (29%)
 
 * Recognize the different Digital Marketing concepts and objectives
 * Identify and define key tool features and structure, in relation to the interface
@@ -122,13 +122,13 @@ You are not required to complete training before taking the exam, and training a
 
 Here are some suggested resources to help you prepare:
 
-**AD0-E329 Campaign Classic Business Practitioner**
+**AD0-E329 Adobe Campaign Classic Business Practitioner**
 
-**Section 1: Build a campaign**
+**Section 1: Build a Campaign**
 
 * [Add resources](https://one.workfront.com/s/document-item?bundleId=workfront-classic&topicId=Content%2FWorkfront_basics%2FUsing_Notifications%2F_use-notifications.htm&_LANG=en){target="_blank"}
 
-**Section 2: Workflow Management and Platform Capabilities**
+**Section 2: Workflow management and platform capabilities**
 
 * [Add resources](https://one.workfront.com/s/document-item?bundleId=workfront-classic&topicId=Content%2FWorkfront_basics%2FUsing_Notifications%2F_use-notifications.htm&_LANG=en){target="_blank"}
 
