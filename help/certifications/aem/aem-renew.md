@@ -43,6 +43,7 @@ Refer to the "renew your certification" section below to redirect to the Adobe C
 
 **Courses and course assessments:**
 
+
 | Course | Assessment |
 | ------- | ------- |
 | [Moving to Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-d-1-2021-1-migration.html?lang=en){target="_blank"} | ADR-EA101 - Moving to Adobe Experience Manager as a Cloud Service |
@@ -53,6 +54,7 @@ Refer to the "renew your certification" section below to redirect to the Adobe C
 | [Integrate Experience Manager Forms Cloud Service with Salesforce](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-d-1-2021-formscs-salesforce.html?lang=en){target="_blank"} | ADR-EA106 Integrate Experience Manager Forms Cloud Service with Salesforce |
 | [Adobe Experience Manager Cloud Manager Skill Builder](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-u-1-2019-1-cloudmgr-builder.html?lang=en){target="_blank"} | ADR-EA107 Adobe Experience Manager Cloud Manager Skill Builder |
 | [Adobe Experience Manager Sites for Architects](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-d-1-2019-1-architect.html?lang=en){target="_blank"} | ADR-EA108 Adobe Experience Manager Sites for Architects |
+
 
 **Customer reference form:**
 
@@ -66,7 +68,7 @@ Once your customer reference has been reviewed you will be notified by the Adobe
 
 ## Renew your certification
 
-To renew your exam click on the "Renew your certification" link below. This will redirect you to the Adobe Credential Management system where you will click "renew your certification" > then search for ADOBE EXPERIENCE MANAGER to see the course assessments that are aligned to the courses above.
+To renew your exam click on the "Renew your certification" link below. This will redirect you to the Adobe Credential Management system where you will click "renew your certification" tab on the right side of the screen > then search for ADOBE EXPERIENCE MANAGER to see the course assessments that are aligned to the courses above.
 
 * [Renew your certification](https://learning.adobe.com/api.certify.json){target="_blank"}
 
