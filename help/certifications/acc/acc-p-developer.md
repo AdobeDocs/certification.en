@@ -3,7 +3,7 @@ title: Adobe Campaign Classic Certification
 description: You have technical knowledge about audience segmentation, destination exports, and activation on real time basis for unified profiles that adhere to data and privacy regulations, customer data platforms (CDP) and knowledge of Adobe Experience Platform.
 solution: Campaign Classic
 role: Developer
-badge: "Exam ID: AD0-E331" type="Positve"
+badge: label="Exam ID: AD0-E331" type="Positive"
 ---
 # Certification journey - Adobe Campaign Classic Developer professional
 
