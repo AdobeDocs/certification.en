@@ -108,8 +108,6 @@ Here are some suggested resources to help you prepare:
 
 **AD0-E903 Adobe Workfront Project Manager**
 
-The exam covers four domains: business analysis, reporting and dashboarding, segmentation and calculated metrics, general tool knowledge, and reporting.
-
 **Section 1: Intake and planning**
 
 * [Use notifications](https://one.workfront.com/s/document-item?bundleId=workfront-classic&topicId=Content%2FWorkfront_basics%2FUsing_Notifications%2F_use-notifications.htm&_LANG=en){target="_blank"}

@@ -4,127 +4,172 @@ description: You have technical knowledge about audience segmentation, destinati
 solution: Campaign Classic
 role: Developer
 ---
-# Certification Journey - Adobe Campaign Classic
+# Certification journey - Adobe Campaign Classic Business Practitioner professional
 
-## Start Your Journey toward Certification
+Exam ID: AD0-E329
 
-Bacon ipsum dolor amet buffalo short loin meatloaf, t-bone turkey pork hamburger boudin pork chop venison ribeye cow pork belly. Chuck alcatra bacon, frankfurter t-bone salami tri-tip spare ribs ribeye venison sausage strip steak meatball landjaeger cupim. Picanha tri-tip cow fatback, swine pork loin andouille pork tail. Bresaola chicken leberkas, ground round ball tip brisket meatball corned beef sausage andouille porchetta frankfurter doner strip steak burgdoggen. Boudin landjaeger leberkas salami.
+## Start your journey toward certification
 
-<table>
-<tr  style="border: 0">
-<td style="width: 160px;text-align: left">
+Purchase your exam voucher at Adobe Certification Voucher Center, if you have a discount, it will apply at checkout. Apply the voucher code when you schedule your exam.
 
-<!--- TO CHANGE BADGE : change "expert-badge.png" to "master-badge.png" or "professional-badge.png --->
+If an exam is marked as retiring you will see a note at the top of this page. This indicates that you can still take it until the date specified in the note. 
 
-  <img alt="Certification Badge" style="width: 120px" src="/help/certifications/assets/expert-badge.png" />
-</td>
-<td style="width: 400px;">
-  <strong>Level of Experience: </strong> 1-3 years
+Your certification will be valid for two years from when you pass. We recommend taking the newer version, when possible, because it covers newer product capabilities.
 
-  <strong>Intended Audience:</strong>
-  Data Architect/Engineer, Solution Architect or MSA, 
-  Enterprise Architect, Product Manager, Marketing Technology Lead
-</tr>
-</table>
+If you have:
 
-<table>
- <tr  style="border: 0;">
-    <td> <strong>Adobe Experience Platform</strong> </td>
- </tr>
+* A minimum of one year of foundational Campaign software experience
+* An understanding of how to run a query
+* An understanding of the toolkit that Adobe Campaign offers
+* Knowledge of how to translate business objectives into workflow
+* An understanding about targeting and segmenting an audience
+* Experience with testing and sending a delivery
+* Hands-on experience setting up cross- channel, personalized workflows and sending deliveries
+* Experience analyzing and monitoring logs and errors
+* An understanding of digital marketing concepts and tactics
+* Basic understanding automation, metrics, and campaign tactics (capabilities around data management, cloud services, approvals, etc.)
+* An understanding of basic relational databases and of targeting queries in a campaign
+* Experience with basic HTML and personalization
+* Subscription service management (opt in/opt out)
 
- <tr style="border: 0;background-color: white;">
-    <td>
-    Exam Details:<br>
-    Passing Score: 35/50<br>
-    Time: 105 mins<br>
-    Cost: $225 (global) and $150 (India)<br>
-    Exam ID: AD0-E600
-    </td>
- </tr>
+...this is the certification for YOU!
 
-</table>
+![Certification Professional Badge](/help/certifications/assets/professional-badge-small.png)
 
-## Exam Purpose
+**Level of experience:** 0-12 months
 
-Bacon ipsum dolor amet buffalo short loin meatloaf, t-bone turkey pork hamburger boudin pork chop venison ribeye cow pork belly. Chuck alcatra bacon, frankfurter t-bone salami tri-tip spare ribs ribeye venison sausage strip steak meatball landjaeger cupim. Picanha tri-tip cow fatback, swine pork loin andouille pork tail. Bresaola chicken leberkas, ground round ball tip brisket meatball corned beef sausage andouille porchetta frankfurter doner strip steak burgdoggen. Boudin landjaeger leberkas salami.
+**Intended audience:**
 
-## Get Ready
+* Business consultant
+* Business analyst
+* Interaction manager
+* Campaign manager
+* Database marketer
+* Business practitioner
+* CRM project manager
 
-**AD0-E600 Adobe Experience Platform Technical Foundations**
+**Exam details - Campaign Classic Business Practitioner**
 
-**Minimum Candidate Experience**
+```
+Passing Score: 32/50
+Time: 100 mins
+Delivery: Online proctored (requires camera access)
+Available languages: English
+Cost: $125 (global) and $95 (India
+Exam ID: AD0-E329
 
-Defined by a team of subject matter experts, the candidate who is ready to pass the Adobe Experience Platform - Adobe Qualified exam has the following qualifications, at a minimum:
+```
 
-* Basic know-how of Experience Platform and can navigate through the UI
-* A high-level understanding of each UI component
+## Get ready
 
-**Exam Objectives and Scope**
+**AD0-E329 Campaign Classic Business Practitioner**
 
-Section 1: Data Modeling (20%)
-* Analyze source data to evaluate primary and secondary identity for profile stitching
-* Demonstrate an understanding of how to use the UI to create/edit XDM Schemas.
-* Identify DULE Guidance
+**Exam objectives and scope**
 
-Section 2: Data Ingestion (36%)
-* Demonstrate how to format and prepare data for ingestion
-* Demonstrate how to connect data sources using OOTB connectors
+Section 1: Build a campaign (29%)
 
-Section 3: Unifying Profiles (34%)
-* Validate Profiles and Event data post ingestion
-* Define identity name spaces
+* Recognize the different Digital Marketing concepts and objectives
+* Identify and define key tool features and structure, in relation to the interface
+* Determine the appropriate delivery template with subdomain to use given Business Requirements
+* Identify the appropriate delivery preparation or personalization requirements given Business Requirements
+* Determine the correct target audience among profiles and analyze the results of the expected outcomes
+* Recommend and apply the correct campaign approval settings
+* Determine scheduling based on campaign requirements
+* Recognize where to locate delivery results or output
+* Differentiate between different error and warning types (delivery, campaign, and workflow level)
 
-Section 4: Activation (10%)
-* Demonstrate how to set up a destination and how segment activation works
-* Demonstrate and understanding of data access API and exporting data via Real-Time CDP
+Section 2: Workflow management and platform capabilities (16%)
 
-Take a readiness questionnaire to find out if you meet the minimum qualifications.
+* Given a scenario, determine which workflow activities should be selected
+* Differentiate between campaign and technical workflows
+* Given a scenario, determine which workflow solution is optimal for continuous, waits, recurring, aborts situations
+* Identify the new capabilities and features of Campaign V8 compared to previous versions
 
-## Get Prepped
+Section 3: Data operations (20%)
+
+* Determine how to modify columns within a view in order to test data/output
+* Describe the purposes of the union, intersection, exclusion, and split workflow targeting activities
+* Determine appropriate method to reconcile data, generate a complement, deduplicate, and import data
+* Given a scenario, identify which data enrichment rule should be used
+* Given a scenario, determine how to segment an audience and store as a list and cells
+* Given a scenario, determine the best method to export data to destinations by configuring them
+
+Section 4: Delivery configuration (28%)
+
+* Given a scenario, determine the correct delivery type
+* Given business requirements, determine how to create templates
+* Given business requirements, determine the correct delivery properties
+* Identify and apply OOTB personalization options available for a delivery (link to mirror page, greeting, un-sub link)
+* Given a scenario, determine the appropriate typology rule (control, filtering, pressure, capacity)
+* Identify the cause of a recipients' exclusion of a delivery in the log and check delivery diagnostics
+* Indicate where/how to test delivery content and personalization
+* Differentiate among the various delivery states that occur during processing and apply actions
+
+Section 5: Administration and reporting (7%)
+
+* Identify common OOTB reports and where to access them
+* Determine which OOTB report is needed based on reporting requirements
+* Identify the Descriptive Analysis functionality inside Adobe Campaign
+* Given a scenario, apply the right authorizations to limit/allow access to Campaign objects
+
+## Readiness self-assessment
+
+Complete the [online readiness questionnaire](https://scorpion.caveon.com/launchpad/ad-q-e315-readiness-questionnaire-for-adobe-campaign-classic-business-practitioner-professional-exam/ad-q-e315-readiness-questionnaire-for-adobe-campaign-classic-business-practitioner-professional-exam){target="_blank"} to see if your current experience matches the recommended minimum candidate qualification.
+
+## Get prepped
 
 You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
 
 Here are some suggested resources to help you prepare:
 
-**AD0-E600 Adobe Experience Platform Technical Foundations**
+**AD0-E329 Campaign Classic Business Practitioner**
 
-The exam covers four domains: business analysis, reporting and dashboarding, segmentation and calculated metrics, general tool knowledge, and reporting.
+**Section 1: Build a campaign**
 
-**Section 1: Data Modeling**
+* [Add resources](https://one.workfront.com/s/document-item?bundleId=workfront-classic&topicId=Content%2FWorkfront_basics%2FUsing_Notifications%2F_use-notifications.htm&_LANG=en){target="_blank"}
 
-* Documentation: [Understanding Schemas](https://experienceleague.adobe.com/docs/experience-platform/xdm/schema/composition.html)
-* SPP On Demand: [Schema and XDM Overview / Adobe Experience Platform: Data Modeling and Ingestion](https://video.tv.adobe.com/v/27105)
-* SPP Challenge/Hands On: [Model data in Schemas](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/model-data-in-schemas.html)
-* Experience League Tutorial: [Schema and XDM Overview](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/schemas-and-experience-data-model.html)
+**Section 2: Workflow Management and Platform Capabilities**
 
-**Section 2: Data Ingestion**
+* [Add resources](https://one.workfront.com/s/document-item?bundleId=workfront-classic&topicId=Content%2FWorkfront_basics%2FUsing_Notifications%2F_use-notifications.htm&_LANG=en){target="_blank"}
 
-* Documentation: [Data Ingestion](https://experienceleague.adobe.com/docs/experience-platform/ingestion/home.html?lang=en)
-* SPP On Demand: [Adobe Experience Platform: Data Modeling and Ingestion](https://solutionpartners.adobe.com/training/learning_program/learningProgram83768.html)
+**Section 3: Closeout**
 
-**Section 3: Unifying Profiles**
+* [Add resources](https://one.workfront.com/s/document-item?bundleId=workfront-classic&topicId=Content%2FWorkfront_basics%2FUsing_Notifications%2F_use-notifications.htm&_LANG=en){target="_blank"}
 
-* Documentation: [Identity and identity graphs](https://experienceleague.adobe.com/docs/platform-learn/tutorials/identities/understanding-identity-and-identity-graphs.html?lang=en)
-* SPP On Demand: [Experience Platform: Create and Manage Real-time Customer Profile](https://cpcontents.adobe.com/public/newlearner/newlearner_de10804e.html?accountId=32503#/course/1175314/overview?cert_id=undefined&lp_id=undefined)
+**Section 3: Data operations**
 
+* [Add resources](https://one.workfront.com/s/document-item?bundleId=workfront-classic&topicId=Content%2FWorkfront_basics%2FUsing_Notifications%2F_use-notifications.htm&_LANG=en){target="_blank"}
 
-**Section 4: Activation**
+**Section 4: Delivery configuration**
 
-* Documentation: [Destinations](https://experienceleague.adobe.com/docs/experience-platform/destinations/home.html?lang=en)
-* SPP On Demand: [Adobe Experience Platform: Segmentation for Developers](https://solutionpartners.adobe.com/training/learning_program/learningProgram83769.html)
+* [Add resources](https://one.workfront.com/s/document-item?bundleId=workfront-classic&topicId=Content%2FWorkfront_basics%2FUsing_Notifications%2F_use-notifications.htm&_LANG=en){target="_blank"}
 
-**Additional Study Aid Resources**
+**Section 5: Administration and reporting**
 
-Adobe has provided additional study aids to help you prepare for your certification exam. These include content from Adobe Experience League, Adobe Digital Learning Solutions, and technical documentation
+* [Add resources](https://one.workfront.com/s/document-item?bundleId=workfront-classic&topicId=Content%2FWorkfront_basics%2FUsing_Notifications%2F_use-notifications.htm&_LANG=en){target="_blank"}
 
-+++See Resources
+## Sample questions
 
-* [Adobe Experience Platform Enablement (Partners Only)](https://solutionpartners.adobe.com/training/courses/course5250864.html)
-* [Experience Data Model (XDM) Guide](https://experienceleague.adobe.com/docs/experience-platform/xdm/home.html?lang=en)
-+++
+The sample questions allow you to see the type and format of items that you will encounter in the actual exam. There is no sign-on needed. The results of the sample questions are not stored, and do not predict your actual test results.
 
-{{$include /help/_includes/take-a-practice-test.md}}
+[See sample questions](https://scorpion.caveon.com/launchpad/ad0-e329-adobe-campaign-classic-business-practitioner-professional-copy-k5cx2p){target="_blank"}
 
-{{$include /help/_includes/get-certified.md}}
+* Provide your email address.
+* Answer the candidate agreement.
+* Start the test.
+* Mark your answer in each question.
+* Click Next on the upper portion of the screen to save your answer and move to the next question. You may return and revise your question within the specified time.
+* On the last question, click Submit Exam to submit all your answers.
+* Answer the short survey.
 
-{{$include /help/_includes/questions.md}}
+## Get certified
+
+To schedule your exam you will click on "schedule" below. This will redirect you to the Adobe Credential Management system where you will click scheduling>then search for this exam to schedule.
+
+[Schedule AD0-E329](https://learning.adobe.com/api.certify.json){target="_blank"}
+
+## Questions
+
+Have a question about Adobe Certification? Please email `certif@adobe.com`.
+
+View the certification [FAQs](https://solutionpartners.adobe.com/solution-partners/training_and_certification/certification/certification_faq.html#){target="_blank"}.

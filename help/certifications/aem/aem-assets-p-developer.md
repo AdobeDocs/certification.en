@@ -74,6 +74,7 @@ Exam ID: AD0-E129
 **Exam objectives and scope**
 
 Section 1: Asset workflows (24%)
+
 * Explain the process to customize OOTB workflows
 * Identify when to create or customize Asset workflows to implement customer requirements
 * Describe the purpose of workflow launchers and how to configure them
@@ -81,6 +82,7 @@ Section 1: Asset workflows (24%)
 * Describe how to use the Workflow console to monitor status and progress
 
 Section 2: Asset organization and the asset console (22%)
+
 * Demonstrate how to create and organize Assets in Collections
 * Demonstrate how to organize Assets using Tags
 * Identify how to leverage OOTB Search Filters and facets
@@ -88,17 +90,20 @@ Section 2: Asset organization and the asset console (22%)
 * Describe how to manage User Permissions on Asset Folders
 
 Section 3: Asset metadata (24%)
+
 * Define Metadata schemas
 * Given a scenario, determine how to adjust the appropriate Metadata schema
 * Given a scenario, determine how Metadata profiles can be leveraged to meet requirements
 * Understand how Cascading Metadata schemas work
 
 Section 4: Asset types (18%)
+
 * Describe OOTB features available for asset types
 * Explain content fragments and content fragment models
 * Demonstrate how and when to use content fragment variations
 
 Section 5: Asset feature sets and capabilities (12%)
+
 * Describe the common use cases and benefits of using Brand Portal
 * Describe the common use cases and benefits of using Dynamic Media
 * Describe options to leverage AEM using Creative Cloud
