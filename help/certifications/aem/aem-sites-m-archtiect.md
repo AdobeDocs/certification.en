@@ -3,6 +3,7 @@ title: Adobe Experience Manager Certification
 description: You have technical knowledge about audience segmentation, destination exports, and activation on real time basis for unified profiles that adhere to data and privacy regulations, customer data platforms (CDP) and knowledge of Adobe Experience Platform.
 solution: Experience Manager Sites
 role: Developer
+badge: label="Exam ADO-E117" type="positive"
 ---
 # Certification journey - Adobe Experience Manager Architect master
 

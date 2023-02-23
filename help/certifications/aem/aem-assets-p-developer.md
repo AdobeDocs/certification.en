@@ -3,6 +3,7 @@ title: Learn how to get certified in Adobe Experience Manager Assets Developer.
 description: Discover the steps to getting certified in Adobe Experience Manager Assets Developer.
 solution: Experience Manager Assets
 role: Developer
+badge: label="Exam ADO-E129" type="positive"
 ---
 # Certification journey - Adobe Experience Manager Assets Developer professional
 
