@@ -3,6 +3,7 @@ title: Learn how to get certified in Adobe Marketo Engage Architect master.
 description: Discover the steps to getting certified in Adobe Marketo Engage Architect master.
 solution: Marketo Engage
 role: Developer
+badge: label="Exam ADO-E556" type="positive"
 ---
 # Certification journey - Adobe Marketo Engage Architect master
 
