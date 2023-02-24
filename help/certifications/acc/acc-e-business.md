@@ -49,7 +49,7 @@ If you have:
 Passing Score: 32/50
 Time: 100 mins
 Delivery: Online proctored (requires camera access) or test center proctored
-Available languages: English & Japanese
+Available languages: English
 Cost: $225 (global) and $150 (India)
 Exam ID: AD0-E327
 
@@ -129,7 +129,7 @@ Here are some suggested resources to help you prepare:
 * [Add resource](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html?lang=en){target="_blank"}understanding-revenue-models.html?lang=en){target="_blank"}
 
 
-**Section 4:Delivery management**
+**Section 4: Delivery management**
 
 * [Add resource](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html?lang=en){target="_blank"}
 
