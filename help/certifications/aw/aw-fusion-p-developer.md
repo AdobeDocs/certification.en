@@ -3,6 +3,7 @@ title: Learn how to get certified in Adobe Workfront Fusion Developer profession
 description: Discover the steps to getting certified in Adobe Workfront Fusion Developer professional.
 solution: Workfront
 role: Developer
+badge: label="Exam ADO-E902" type="positive"
 ---
 # Certification journey - Adobe Workfront Fusion Developer professional
 
