@@ -2,7 +2,7 @@
 title: Learn how to get certified in Adobe Marketo Engage Architect master.
 description: Discover the steps to getting certified in Adobe Marketo Engage Architect master.
 solution: Marketo Engage
-role: Developer
+role: Architect
 badge: label="Exam ADO-E556" type="positive"
 ---
 # Certification journey - Adobe Marketo Engage Architect master
@@ -17,7 +17,7 @@ If an exam is marked as retiring you will see a note at the top of this page. Th
 
 Your certification will be valid for two years from when you pass. We recommend taking the newer version, when possible, because it covers newer product capabilities.
 
-If you're a current Marketo Engage Business Practitioner Certified Expert and have
+If you're a current Marketo Engage Business Practitioner Certified Expert and have:
 
 * At least five years of experience preferably with multiple instances of Marketo Engage
 * An understanding of the business impact and effectively explain/communicate their solution to the stakeholders (technical and non-technical) at different levels
