@@ -5,127 +5,163 @@ solution: Campaign Classic
 role: Developer
 badge: label="Exam ADO-E327" type="positive"
 ---
-# Certification Journey - Adobe Campaign Classic
+# Certification journey - Adobe Campaign Classic Business Practitioner expert
 
-## Start Your Journey toward Certification
+Exam ID: AD0-E327
+    
+## Start your journey toward certification
 
-Bacon ipsum dolor amet buffalo short loin meatloaf, t-bone turkey pork hamburger boudin pork chop venison ribeye cow pork belly. Chuck alcatra bacon, frankfurter t-bone salami tri-tip spare ribs ribeye venison sausage strip steak meatball landjaeger cupim. Picanha tri-tip cow fatback, swine pork loin andouille pork tail. Bresaola chicken leberkas, ground round ball tip brisket meatball corned beef sausage andouille porchetta frankfurter doner strip steak burgdoggen. Boudin landjaeger leberkas salami.
+Purchase your exam voucher at Adobe Certification Voucher Center, if you have a discount, it will apply at checkout. Apply the voucher code when you schedule your exam.
 
-<table>
-<tr  style="border: 0">
-<td style="width: 160px;text-align: left">
+If an exam is marked as retiring you will see a note at the top of this page. This indicates that you can still take it until the date specified in the note. 
 
-<!--- TO CHANGE BADGE : change "expert-badge.png" to "master-badge.png" or "professional-badge.png --->
+Your certification will be valid for two years from when you pass. We recommend taking the newer version, when possible, because it covers newer product capabilities.
 
-  <img alt="Certification Badge" style="width: 120px" src="/help/certifications/assets/expert-badge.png" />
-</td>
-<td style="width: 400px;">
-  <strong>Level of Experience: </strong> 1-3 years
+If you have:
 
-  <strong>Intended Audience:</strong>
-  Data Architect/Engineer, Solution Architect or MSA, 
-  Enterprise Architect, Product Manager, Marketing Technology Lead
-</tr>
-</table>
+* At least 2 years of extensive Campaign Classic software experience
+* Multi-year experience developing marketing campaigns and tactics using digital omnichannel
+* Experience interpreting/translating business requirements to actionable Campaign deliverables
+* Experience with marketing metrics such as ROI, click-through rates, and conversion
+* An understanding of typology application, access management, web technologies and database marketing
+* An awareness of the legal and ethical guidelines for marketing
 
-<table>
- <tr  style="border: 0;">
-    <td> <strong>Adobe Experience Platform</strong> </td>
- </tr>
+...this is the certification for YOU!
 
- <tr style="border: 0;background-color: white;">
-    <td>
-    Exam Details:<br>
-    Passing Score: 35/50<br>
-    Time: 105 mins<br>
-    Cost: $225 (global) and $150 (India)<br>
-    Exam ID: AD0-E600
-    </td>
- </tr>
+![Certification Expert Badge](/help/certifications/assets/expert-badge-small.png)
 
-</table>
+**Level of experience**: 1-3 years
 
-## Exam Purpose
+**Intended audience:** 
 
-Bacon ipsum dolor amet buffalo short loin meatloaf, t-bone turkey pork hamburger boudin pork chop venison ribeye cow pork belly. Chuck alcatra bacon, frankfurter t-bone salami tri-tip spare ribs ribeye venison sausage strip steak meatball landjaeger cupim. Picanha tri-tip cow fatback, swine pork loin andouille pork tail. Bresaola chicken leberkas, ground round ball tip brisket meatball corned beef sausage andouille porchetta frankfurter doner strip steak burgdoggen. Boudin landjaeger leberkas salami.
+* Business consultant
+* Business analyst
+* Interaction manager
+* Campaign manager
+* Database marketer
+* Business practitioner
+* CRM project manager
 
-## Get Ready
+**Exam details - Adobe Campaign Classic Business Practitioner**
+  
+```
 
-**AD0-E600 Adobe Experience Platform Technical Foundations**
+Passing Score: 32/50
+Time: 100 mins
+Delivery: Online proctored (requires camera access) or test center proctored
+Available languages: English & Japanese
+Cost: $225 (global) and $150 (India)
+Exam ID: AD0-E327
 
-**Minimum Candidate Experience**
+```
 
-Defined by a team of subject matter experts, the candidate who is ready to pass the Adobe Experience Platform - Adobe Qualified exam has the following qualifications, at a minimum:
+## Get ready
 
-* Basic know-how of Experience Platform and can navigate through the UI
-* A high-level understanding of each UI component
+**AD0-E327 Adobe Campaign Classic Business Practitioner**
 
-**Exam Objectives and Scope**
+**Exam objectives and scope**
 
-Section 1: Data Modeling (20%)
-* Analyze source data to evaluate primary and secondary identity for profile stitching
-* Demonstrate an understanding of how to use the UI to create/edit XDM Schemas.
-* Identify DULE Guidance
+Section 1: Campaign management (20%)
 
-Section 2: Data Ingestion (36%)
-* Demonstrate how to format and prepare data for ingestion
-* Demonstrate how to connect data sources using OOTB connectors
+* Apply best practices to build a campaign
+* Given a scenario, determine the correct campaign template
+* Explain the importance of typologies
+* Describe target mappings
+* Explain how to configure web apps and web forms
 
-Section 3: Unifying Profiles (34%)
-* Validate Profiles and Event data post ingestion
-* Define identity name spaces
+Section 2: Workflow management (22%)
 
-Section 4: Activation (10%)
-* Demonstrate how to set up a destination and how segment activation works
-* Demonstrate and understanding of data access API and exporting data via Real-Time CDP
+* Evaluate a given set of campaign requirements and recommend the course of action
+* Given a scenario, analyze workflow errors
+* Given a set of campaign requirements, determine the correct design of a marketing workflow
+* Apply recommended practices in executing workflows
 
-Take a readiness questionnaire to find out if you meet the minimum qualifications.
+Section 3: Data management (24%)
 
-## Get Prepped
+* Explain the core concepts of relational databases
+* Determine the different sources of data that a workflow can access
+* Identify the correct method to export data
+* Given a scenario, determine the data investigation method to use
+* Apply best practices to create lists
+* Apply the steps to configure a predefined filter
+* Given a business requirement, identify the appropriate input form
+
+Section 4: Delivery management (14%)
+
+* Apply the steps to create/configure deliveries
+* Given a scenario, select and set up the appropriate proof audience for approvals
+* Analyze and interpret delivery audits
+
+Section 5: Reporting (12%)
+
+* Given a scenario, determine the appropriate report(s) to generate
+* Interpret built-in reports
+* Explain the impact of logs cleanup/purge to reporting
+
+Section 6: Administration (8%)
+
+* Given a scenario, explain the impact of logs purge to reports
+* Given business requirements, grant the right authorizations and accesses
+* Apply the steps to enable SFTP via the control panel
+
+## Readiness self-assessment
+
+Complete the [online readiness questionnaire](https://scorpion.caveon.com/launchpad/readiness-questionnaire-for-adobe-campaign-classic-business-practitioner-expert-exam){target="_blank"} to see if your current experience matches the recommended minimum candidate qualification.
+
+## Get prepped
 
 You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
 
 Here are some suggested resources to help you prepare:
 
-**AD0-E600 Adobe Experience Platform Technical Foundations**
+**AD0-E327 Adobe Campaign Classic Business Practitioner**
 
-The exam covers four domains: business analysis, reporting and dashboarding, segmentation and calculated metrics, general tool knowledge, and reporting.
+**Section 1: Campaign management**
 
-**Section 1: Data Modeling**
+* [Add resource](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html?lang=en){target="_blank"}
 
-* Documentation: [Understanding Schemas](https://experienceleague.adobe.com/docs/experience-platform/xdm/schema/composition.html)
-* SPP On Demand: [Schema and XDM Overview / Adobe Experience Platform: Data Modeling and Ingestion](https://video.tv.adobe.com/v/27105)
-* SPP Challenge/Hands On: [Model data in Schemas](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/model-data-in-schemas.html)
-* Experience League Tutorial: [Schema and XDM Overview](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/schemas-and-experience-data-model.html)
+**Section 2: Workflow management**
 
-**Section 2: Data Ingestion**
+* [Add resource](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html?lang=en){target="_blank"}
 
-* Documentation: [Data Ingestion](https://experienceleague.adobe.com/docs/experience-platform/ingestion/home.html?lang=en)
-* SPP On Demand: [Adobe Experience Platform: Data Modeling and Ingestion](https://solutionpartners.adobe.com/training/learning_program/learningProgram83768.html)
+**Section 3: Data management**
 
-**Section 3: Unifying Profiles**
-
-* Documentation: [Identity and identity graphs](https://experienceleague.adobe.com/docs/platform-learn/tutorials/identities/understanding-identity-and-identity-graphs.html?lang=en)
-* SPP On Demand: [Experience Platform: Create and Manage Real-time Customer Profile](https://cpcontents.adobe.com/public/newlearner/newlearner_de10804e.html?accountId=32503#/course/1175314/overview?cert_id=undefined&lp_id=undefined)
+* [Add resource](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html?lang=en){target="_blank"}understanding-revenue-models.html?lang=en){target="_blank"}
 
 
-**Section 4: Activation**
+**Section 4:Delivery management**
 
-* Documentation: [Destinations](https://experienceleague.adobe.com/docs/experience-platform/destinations/home.html?lang=en)
-* SPP On Demand: [Adobe Experience Platform: Segmentation for Developers](https://solutionpartners.adobe.com/training/learning_program/learningProgram83769.html)
+* [Add resource](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html?lang=en){target="_blank"}
 
-**Additional Study Aid Resources**
 
-Adobe has provided additional study aids to help you prepare for your certification exam. These include content from Adobe Experience League, Adobe Digital Learning Solutions, and technical documentation
+**Section 5: Reporting**
 
-+++See Resources
+* [Add resource](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html?lang=en){target="_blank"}
 
-* [Adobe Experience Platform Enablement (Partners Only)](https://solutionpartners.adobe.com/training/courses/course5250864.html)
-* [Experience Data Model (XDM) Guide](https://experienceleague.adobe.com/docs/experience-platform/xdm/home.html?lang=en)
-+++
+**Section 6: Administration**
 
-{{$include /help/_includes/take-a-practice-test.md}}
+* [Add resource](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html?lang=en){target="_blank"}
 
-{{$include /help/_includes/get-certified.md}}
 
-{{$include /help/_includes/questions.md}}
+## Take a practice test
+
+We are excited to offer free practice tests and provide a detailed coaching report upon completion of each one. You will have unlimited access to all available practice tests for Adobe's expert-level exams. Our practice tests are developed from the same blueprints as the live exams, so they can help you gauge how you are doing in each topic area. However, taking a practice test does not guarantee that you will pass the certification exam.
+
+Go to the [Adobe Credential Managment System](http://www.certmetrics.com/adobe/){target="_blank"} to launch a practice test.
+
+>[!NOTE]
+>
+>Go to the scheduling page > practice tests > Adobe Certification Prep Portal > click on launch Adobe Exam Prep Portal (on the far-right side).
+
+
+## Get certified
+
+To schedule your exam you will click on "schedule" below. This will redirect you to the Adobe Credential Management system where you will click scheduling>then search for this exam to schedule.
+
+* [Schedule AD0-E327](https://learning.adobe.com/api.certify.json){target="_blank"}
+
+## Questions
+
+Have a question about Adobe Certification? Please email `certif@adobe.com`.
+
+View the certification [FAQs](https://solutionpartners.adobe.com/solution-partners/training_and_certification/certification/certification_faq.html#){target="_blank"}.
