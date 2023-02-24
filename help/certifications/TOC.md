@@ -90,8 +90,8 @@ user-guide-description: Certification
     + Master {#ame-master}
       + [Architect)](/help/certifications/ame/ame-m-architect.md)
     + [Renewal](/help/certifications/ame/ame-renew.md)
-  + Adobe Sign {#sign}
-    + [Essentials](/help/certifications/sign/sign-essentials.md)
+  + Adobe Doc Cloud {#sign}
+    + [Professional](/help/certifications/sign/sign-essentials.md)
     + [Renewal](/help/certifications/sign/sign-renew.md)
   + Adobe Real-Time CDP {#rtcdp}
     + Professional {#rtcdp-professional}
