@@ -12,52 +12,120 @@ badge: label="Restart Program" type="positive"
 
 When you pass a certification exam, your certification is valid for two years. If you have not renewed your certification before the two year deadline, your certification expires. 
 
-We're happy to announce a limited-time offer, to those invited via email, to partipate allowing you to restart your certification in a new, no-cost format. 
+We're happy to announce a limited-time offer, to those invited via email, to participate allowing you to restart your certification in a new, no-cost format. 
 
 If you have:
 
 * Received an email invitation to participate
 * Passed one of the exams below 
-* You're certification has expired in April 2023 you 
-
-<table>
- <tbody>
-  <tr>
-   <th>Solution</th>
-   <th>Certification</th>
-   <th>Elegible exam</th>
-  </tr>
-  <tr>
-   <td><p>AEM</td>
-   <td><p>Adobe Certified Expert - Adobe Experience Manager Business Practitioner</td>
-   <td><p><ul><li>AD0-E121 Adobe Experience Manager Sites Business Practitioner Expert</li></ul><ul><li>AD0-E102 Adobe Experience Manager Sites Business Practitioner Expert - (Retired)</li></ul></p></td>
-  </tr>
-  <tr>
-   <td><p>AEM</td>
-   <td><p>Adobe Certified Expert - Adobe Experience Manager Developer</td>
-   <td><p><ul><li>AD0-E134 Adobe Experience Manager Sites Developer Expert</li></ul><ul><li>AD0-E103 Adobe Experience Manager Sites Developer Expert - (Retired)</li></ul><ul><li>AD0-E116 Adobe Experience Manager Sites Developer Expert</li></ul></p></td>
-  </tr>
-  <tr>
-   <td><p>AEM</td>
-   <td><p>String</td>
-   <td><p><i>(Required)</i> Identifies the scoring engine as either "basic" or "advanced". Set to "advanced" else the default is "basic".</p></td>
-  </tr>
-  <tr>
-   
-  <tr>
-   <td>AEM</td>
-   <td><ul><li>Adobe Certified Expert - Adobe Experience Manager Business Practitioner</li></ul><ul><li>Adobe Certified Expert - Adobe Experience Manager Developer</li></ul></td>
-   <td><p><ul><li>AD0-E121 Adobe Experience Manager Sites Business Practitioner Expert</li></ul><ul><li>AD0-E102 Adobe Experience Manager Sites Business Practitioner Expert - (Retired)</li></ul> </p></td>
-  </tr>
- </tbody>
-</table>
-
+* You're certification has expired in April 2023
 
 ...this is the renewal path for YOU!
 
 >[!NOTE]
 >
 >**This program is offered from April 4th, 2023 through October 1st, 2023.** 
+
+## Exams eligible to re-certify 
+
+>[!BEGINTABS]
+
+>[!TAB Adobe Experience Manager]
+
+<table>
+ <tbody>
+  <tr>
+   <th>Certification</th>
+   <th>Elegible exam</th>
+  </tr>
+  <tr>
+   <td><p>Adobe Certified Expert - Adobe Experience Manager Business Practitioner</td>
+   <td><p><ul><li>AD0-E121 Adobe Experience Manager Sites Business Practitioner Expert</li></ul><ul><li>AD0-E102 Adobe Experience Manager Sites Business Practitioner Expert (retired)</li></ul></p></td>
+  </tr>
+  <tr>
+   <td><p>Adobe Certified Expert - Adobe Experience Manager Developer</td>
+   <td><p><ul><li>AD0-E134 Adobe Experience Manager Sites Developer Expert</li></ul><ul><li>AD0-E103 Adobe Experience Manager Sites Developer Expert (retired)</li></ul><ul><li>AD0-E116 Adobe Experience Manager Sites Developer Expert</li></ul></p></td>
+  </tr>
+  <tr>
+   <td><p>Adobe Certified Expert - Adobe Experience Manager Dev/Ops Engineer</td>
+   <td><p><ul><li>AD0-E124 Adobe Experience Manager DevOps Engineer Expert</li></ul><ul><li>AD0-E106 Adobe Experience Manager Dev/Ops Engineer Expert (retired)</li></ul></p></td>
+  </tr>
+  <tr>
+  <tr>
+   <td><p>Adobe Certified Master - Adobe Experience Manager Sites Architect</td>
+   <td><p><ul><li>AD0-E117 Adobe Experience Manager Sites Architect Mastert</li></ul><ul><li>AD0-E104 Adobe Experience Manager Sites Architect Master (retired)</li></ul> </p></td>
+  </tr>
+ </tbody>
+</table>
+
+>[!TAB Analytics]
+
+<table>
+ <tbody>
+  <tr>
+   <th>Certification</th>
+   <th>Elegible exam</th>
+  </tr>
+  <tr>
+   <td><p>Adobe Certified Expert - Adobe Analytics Business Practitioner</td>
+   <td><p><ul><li>AD0-E208 Adobe Analytics Business Practitioner Expert</li></ul><ul><li>AD0-E202 Adobe Analytics Business Practitioner Expert (retired)</li></ul></p></td>
+  </tr>
+  <tr>
+   <td><p>Adobe Certified Expert - Adobe Analytics Developer</td>
+   <td><p><ul><li>AD0-E209 Adobe Analytics Developer Expert</li></ul><ul><li>AD0-E201 Adobe Analytics Developer Expert (retired)</li></ul></p></td>
+  </tr>
+  <tr>
+   <td><p>Adobe Certified Master - Adobe Analytics Architect</td>
+   <td><p><ul><li>AD0-E207 Adobe Analytics Architect Master</li></ul><ul><li>AD0-E200 Adobe Analytics Architect Master (retired)</li></ul></p></td>
+  </tr>
+  <tr>
+
+>[!TAB Audience Manager]
+
+<table>
+ <tbody>
+  <tr>
+   <th>Certification</th>
+   <th>Elegible exam</th>
+  </tr>
+  <tr>
+   <td><p>Adobe Certified Expert - Adobe Audience Manager Business Practitioner</td>
+   <td><p><ul><li>AD0-E457 Adobe Audience Manager Business Practitioner Expert</li></ul><ul><li>AD0-E453 Adobe Audience Manager Business Practitioner Expert - (retired)</li></ul></p></td>
+  </tr>
+  <tr>
+   <td><p>Adobe Certified Master - Adobe Audience Manager Architect</td>
+   <td><p><ul><li>AD0-E454 Adobe Audience Manager Architect Master</li></ul><ul><li>AD0-E452 Adobe Audience Manager Architect Master- (retired)</li></ul></p></td>
+  </tr>
+  <tr>
+   <td><p>Adobe Certified Master - Adobe Analytics Architect</td>
+   <td><p><ul><li>AD0-E207 Adobe Analytics Architect Master</li></ul><ul><li>AD0-E200 Adobe Analytics Architect Master - (Retired)</li></ul></p></td>
+  </tr>
+  <tr>
+
+>[!TAB Campaign]
+
+<table>
+ <tbody>
+  <tr>
+   <th>Certification</th>
+   <th>Elegible exam</th>
+  </tr>
+  <tr>
+   <td><p>Adobe Certified Expert - Adobe Audience Manager Business Practitioner</td>
+   <td><p><ul><li>AD0-E457 Adobe Audience Manager Business Practitioner Expert</li></ul><ul><li>AD0-E453 Adobe Audience Manager Business Practitioner Expert - (retired)</li></ul></p></td>
+  </tr>
+  <tr>
+   <td><p>Adobe Certified Master - Adobe Audience Manager Architect</td>
+   <td><p><ul><li>AD0-E454 Adobe Audience Manager Architect Master</li></ul><ul><li>AD0-E452 Adobe Audience Manager Architect Master- (retired)</li></ul></p></td>
+  </tr>
+  <tr>
+   <td><p>Adobe Certified Master - Adobe Analytics Architect</td>
+   <td><p><ul><li>AD0-E207 Adobe Analytics Architect Master</li></ul><ul><li>AD0-E200 Adobe Analytics Architect Master - (Retired)</li></ul></p></td>
+  </tr>
+  <tr>
+
+
+>[!ENDTABS]
 
 
 ![Certification Expert Badge](/help/certifications/assets/expert-badge-small.png) ![Certification Master Badge](/help/certifications/assets/master-badge-small.png)
