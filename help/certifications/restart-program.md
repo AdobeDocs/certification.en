@@ -30,9 +30,7 @@ If you have:
 
 ## Exams eligible to re-certify 
 
->[!BEGINTABS]
-
->[!TAB Adobe Experience Manager]
+**Adobe Experience Manager**
 
 <table>
  <tbody>
@@ -60,7 +58,7 @@ If you have:
  </tbody>
 </table>
 
->[!TAB Analytics]
+**Adobe Analytics**
 
 <table>
  <tbody>
@@ -82,7 +80,7 @@ If you have:
   </tr>
   <tr>
 
->[!TAB Audience Manager]
+**Adobe Audience Manager**
 
 <table>
  <tbody>
@@ -104,7 +102,7 @@ If you have:
   </tr>
   <tr>
 
->[!TAB Campaign]
+**Adobe Campaign**
 
 <table>
  <tbody>
@@ -126,9 +124,6 @@ If you have:
   </tr>
   <tr>
 
-+++
-
->[!ENDTABS]
 
 ## Get ready
 
@@ -153,41 +148,23 @@ Select **three activities** (course assessments or customer reference) to comple
 
 Refer to the "renew your certification" section below to redirect to the Adobe Credential Managment System for the course assessments after competing your course.
 
-**Courses and course assessments:**
+**Solution and restart requirement:**
 
-
-| Course | Assessment |
+| Certification by Solution | Requirement |
 | ------- | ------- |
-| [Moving to Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-d-1-2021-1-migration.html?lang=en){target="_blank"} | ADR-EA101 - Moving to Adobe Experience Manager as a Cloud Service |
-| [Planning Your Move to Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-a-1-2021-1-migration.html?lang=en){target="_blank"} | ADR-EA102 Planning Your Move to Adobe Experience Manager as a Cloud Service |
-| [Introduction to Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/overview/introduction.html?lang=en){target="_blank"} | ADR-EA103 Introduction to Adobe Experience Manager as a Cloud Service |
-| [Headless content management using GraphQL APIs](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-d-1-2020-1-headless.html?lang=en){target="_blank"} | ADR-EA104 Headless content management using GraphQL APIs |
-| [Personalize Experiences with Adobe Experience Manager and Adobe Target](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-d-1-2020-1-personalization.html?lang=en){target="_blank"} | ADR-EA105 Personalize experiences with Adobe Experience Manager and Adobe Target |
-| [Integrate Experience Manager Forms Cloud Service with Salesforce](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-d-1-2021-formscs-salesforce.html?lang=en){target="_blank"} | ADR-EA106 Integrate Experience Manager Forms Cloud Service with Salesforce |
-| [Adobe Experience Manager Cloud Manager Skill Builder](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-u-1-2019-1-cloudmgr-builder.html?lang=en){target="_blank"} | ADR-EA107 Adobe Experience Manager Cloud Manager Skill Builder |
-| [Adobe Experience Manager Sites for Architects](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-d-1-2019-1-architect.html?lang=en){target="_blank"} | ADR-EA108 Adobe Experience Manager Sites for Architects |
+| Adobe Experience Manager | Continuous learning |
+| Analytics | Continuous learning |
+| Target | Continuous learning |
+| Campaign Classic | On-demand exam |
+|Campaign Standard | On-demand exam |
+| Audience Manager | On-demand exam |
+| Marketo Engage | On-demand exam |
 
-
-**Customer reference form:**
-
-For certain Adobe Experience Cloud certifications, the Adobe Credential Program accepts customer references that validate your continued work as an Adobe certified individual leading, managing and/or participating on an Adobe Experience Cloud implementation project.
-
-You are required to provide a customer reference affirming you have participated in at least 100 hours of demonstrated project engagement during your certification renewal 2-year interval.
-
-Once your customer reference has been reviewed you will be notified by the Adobe Credential Team.
-
-* [Customer Reference Form (subject to Adobe verification)](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADR-EA100){target="_blank"}
-
-## Renew your certification
+## Restart your certification
 
 To renew your exam click on the "Renew your certification" link below. This will redirect you to the Adobe Credential Management system where you will click "renew your certification" tab on the right side of the screen > then search for ADOBE EXPERIENCE MANAGER to see the course assessments that are aligned to the courses above.
 
-* [Renew your certification](https://learning.adobe.com/api.certify.json){target="_blank"}
-
->[!NOTE]
->
->You can repeat until you have successfully completed three activities (course assessments or customer reference form).
-
+* [Restart your certification](https://learning.adobe.com/api.certify.json){target="_blank"}
 
 ## Questions
 
