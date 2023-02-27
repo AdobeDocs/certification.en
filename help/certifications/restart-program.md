@@ -98,11 +98,11 @@ If you have:
   </tr>
   <tr>
    <td><p>Adobe Certified Master - Adobe Audience Manager Architect</td>
-   <td><p><ul><li>AD0-E454 Adobe Audience Manager Architect Master</li></ul><ul><li>AD0-E452 Adobe Audience Manager Architect Master- (retired)</li></ul></p></td>
+   <td><p><ul><li>AD0-E454 Adobe Audience Manager Architect Master</li></ul><ul><li>AD0-E452 Adobe Audience Manager Architect Master (retired)</li></ul></p></td>
   </tr>
   <tr>
    <td><p>Adobe Certified Master - Adobe Analytics Architect</td>
-   <td><p><ul><li>AD0-E207 Adobe Analytics Architect Master</li></ul><ul><li>AD0-E200 Adobe Analytics Architect Master - (Retired)</li></ul></p></td>
+   <td><p><ul><li>AD0-E207 Adobe Analytics Architect Master</li></ul><ul><li>AD0-E200 Adobe Analytics Architect Master (retired)</li></ul></p></td>
   </tr>
   <tr>
   </tbody>
@@ -117,61 +117,147 @@ If you have:
    <th>Elegible exam</th>
   </tr>
   <tr>
-   <td><p>Adobe Certified Expert - Adobe Audience Manager Business Practitioner</td>
-   <td><p><ul><li>AD0-E457 Adobe Audience Manager Business Practitioner Expert</li></ul><ul><li>AD0-E453 Adobe Audience Manager Business Practitioner Expert - (retired)</li></ul></p></td>
+   <td><p>Adobe Certified Expert - Adobe Campaign Classic Business Practitioner</td>
+   <td><p><ul><li>AD0-E327 Adobe Campaign Classic Business Practitioner Expert</li></ul><ul><li>AD0-E300 Adobe Campaign Classic Business Practitioner Expert (retired)</li></ul><ul><li>AD0-E314 Adobe Campaign Classic Business Practitioner Expert (retired)</li></ul></p></td>
   </tr>
   <tr>
-   <td><p>Adobe Certified Master - Adobe Audience Manager Architect</td>
-   <td><p><ul><li>AD0-E454 Adobe Audience Manager Architect Master</li></ul><ul><li>AD0-E452 Adobe Audience Manager Architect Master- (retired)</li></ul></p></td>
+   <td><p>Adobe Certified Master - Adobe Campaign Classic Architect</td>
+   <td><p><ul><li>AD0-E328 Adobe Campaign Classic Architect Master</li></ul><ul><li>AD0-E318 Adobe Campaign Classic Architect Master (retired)</li></ul><ul><li>AD0-E303 Adobe Campaign Classic Architect Master (retired)</li></ul></p></td>
   </tr>
   <tr>
-   <td><p>Adobe Certified Master - Adobe Analytics Architect</td>
-   <td><p><ul><li>AD0-E207 Adobe Analytics Architect Master</li></ul><ul><li>AD0-E200 Adobe Analytics Architect Master - (Retired)</li></ul></p></td>
+   <td><p>Adobe Certified Expert - Adobe Campaign Classic Developer</td>
+   <td><p><ul><li>AD0-E330 Adobe Campaign Classic Developer Expert</li></ul><ul><li>AD0-E312 Adobe Campaign Classic Developer Expert (retired)</li></ul><ul><li>AD0-E308 Adobe Campaign Classic Developer Expert (retired)</li></ul></p></td>
+  </tr>
+  <tr>
+  <td><p>Adobe Certified Expert - Adobe Campaign Standard Business Practitioner</td>
+   <td><p><ul><li>AD0-E307 Adobe Campaign Standard Business Practitioner Expert</li></ul><ul><li>AD0-E302 Adobe Campaign Standard Business Practitioner Expert (retired)</li></ul></p></td>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+  <td><p>Adobe Certified Expert - Adobe Campaign Standard Developer</td>
+   <td><p><ul><li>AD0-E306 Adobe Campaign Standard Developer Expert</li></ul><ul><li>AD0-E301 Adobe Campaign Standard Developer Expert (retired)</li></ul></p></td>
   </tr>
   <tr>
   </tbody>
 </table>
 
+>[!TAB Commerce]
+
+<table>
+ <tbody>
+  <tr>
+   <th>Certification</th>
+   <th>Elegible exam</th>
+  </tr>
+  <tr>
+   <td><p>Adobe Certified Expert - Adobe Commerce Business Practitioner</td>
+   <td><p><ul><li>AD0-E708 Adobe Commerce Business Practitioner Expert</li></ul><ul><li>AD0-E700 Adobe Commerce Business Practitioner Expert</li></ul></p></td>
+  </tr>
+  <tr>
+   <td><p>Adobe Certified Expert - Adobe Commerce Developer</td>
+   <td><p><ul><li>AD0-E716 Adobe Commerce Developer Expert</li></ul><ul><li>AD0-E709 Adobe Commerce Developer Expert (retired)</li></ul></p></td>
+  </tr>
+  <tr>
+   <td><p>Adobe Certified Expert - Adobe Commerce Front End Developer</td>
+   <td><p><ul><li>AD0-E710 Adobe Commerce Front End Developer Expert</li></ul><ul><li>AD0-E701 Adobe Commerce Front End Developer Expert (retired)</li></ul></p></td>
+  </tr>
+  <tr>
+  <td><p>Adobe Certified Master - Adobe Commerce Architect</td>
+   <td><p><ul><li>AD0-E718 Adobe Commerce Architect Master</li></ul><ul><li>AD0-E704 Adobe Commerce Architect Master (retired)</li></ul></p></td>
+  </tr>
+  <tr>
+  </tbody>
+</table>
+
+>[!TAB Marketo Engage]
+
+<table>
+ <tbody>
+  <tr>
+   <th>Certification</th>
+   <th>Elegible exam</th>
+  </tr>
+  <tr>
+   <td><p>Adobe Certified Expert – Adobe Marketo Engage Business Practitioner</td>
+   <td><p><ul><li>AD0-E559 Adobe Marketo Engage Business Practitioner Expert</li></ul><ul><li>AD0-E552 Adobe Marketo Engage Business Practitioner (previously MCE)</li></ul><ul><li>AD0-E554 Adobe Marketo Engage Business Practitioner (new version)</li></ul><ul><li>AD0-E558 Adobe Marketo Engage Business Practitioner Expert (retired)</li></ul></p></td>
+  </tr>
+  <tr>
+  </tbody>
+</table>
+
+>[!TAB Target]
+
+<table>
+ <tbody>
+  <tr>
+   <th>Certification</th>
+   <th>Elegible exam</th>
+  </tr>
+  <tr>
+   <td><p>Adobe Certified Expert - Adobe Target Business Practitioner</td>
+   <td><p><ul><li>AD0-E406 Adobe Target Business Practitioner Expert</li></ul><ul><li>AD0-E401 Adobe Target Business Practitioner Expert (retired)</li></ul></p></td>
+  </tr>
+  <tr>
+   <td><p>Adobe Certified Master - Adobe Target Architect</td>
+   <td><p><ul><li>AD0-E407 Adobe Target Architect Master</li></ul><ul><li>AD0-E402 Adobe Target Architect Master (retired)</li></ul></p></td>
+  </tr>
+  <tr>
+  </tbody>
+</table>
 
 >[!ENDTABS]
 
 ## Get ready
 
-To restart your expired certification, we offer either Continuous learning activities or an OnDemand online exam based on solution/application area, both modalities are offered free of cost and non-proctored.
+To restart your expired certification, we offer either continuous learning activities or an on-demand online exam based on solution/application area, both modalities are offered free of cost and non-proctored.
 
-**Continuous learning activities** 
+**Steps for continuous learning activities** 
 
-* Set of short assessments based on the Adobe Experience league content 
+* A set of short assessments based on the Adobe Experience League content 
 * Submit a customer reference to validate active engagement 
 * Complete minimum required activities for reattaining certification
 
-**On-Demand Exam** 
+**Steps for on-demand exam** 
  
-* Exam available free of cost online with no proctor 
-* Single Campaign Classic OnDemand exam reinstates certifications for all job-roles (for those who have more than 1 certification across multiple job-roles) 
-* Audience Manager and Campaign Standard will have OnDemand Exams based on job-roles
+* The exam is available free of cost online with no proctor 
 
-## Get prepped
+>[!NOTE]
+>
+>A single Campaign Classic on-demand exam reinstates certifications for all job-roles (for those who have more than 1 certification across multiple job-roles) 
 
-Select **three activities** (course assessments or customer reference) to complete. Study the courses in Experience League. Then log in and pass the course assessments from the Adobe Credential Management System. 
 
-Refer to the "renew your certification" section below to redirect to the Adobe Credential Managment System for the course assessments after competing your course.
+>[!NOTE]
+>
+>Audience Manager and Campaign Standard will have on-demand exams based on job-roles
 
 **Solution and restart requirement:**
 
 | Certification by Solution | Requirement |
 | ------- | ------- |
-| Adobe Experience Manager | Continuous learning |
-| Analytics | Continuous learning |
-| Target | Continuous learning |
+| Adobe Experience Manager | Continuous learning (for all job roles) |
+| Analytics | Continuous learning (for all job roles) |
+| Target | Continuous learning (for all job roles)|
 | Campaign Classic | On-demand exam |
 |Campaign Standard | On-demand exam |
 | Audience Manager | On-demand exam |
 | Marketo Engage | On-demand exam |
 
+## Get prepped
+
+Here are some suggested resources to help you prepare:
+
+>[!BEGINTABS]
+
+>[!TAB Experience Manager]
+
+ADD content from guides
+
+>[!ENDTABS]
+
 ## Restart your certification
 
-To renew your exam click on the "Renew your certification" link below. This will redirect you to the Adobe Credential Management system where you will click "renew your certification" tab on the right side of the screen > then search for ADOBE EXPERIENCE MANAGER to see the course assessments that are aligned to the courses above.
+To renew your exam click on the "Restart your certification" link below. This will redirect you to the Adobe Credential Management system where you will click "renew your certification" tab on the right side of the screen > then search for RESTART PROGRAM to see the options from above.
 
 * [Restart your certification](https://learning.adobe.com/api.certify.json){target="_blank"}
 
