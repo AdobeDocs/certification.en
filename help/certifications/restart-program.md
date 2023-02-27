@@ -28,7 +28,7 @@ If you have:
 >
 >**This program is offered from April 4th, 2023 through October 1st, 2023.** 
 
-## Exams eligible to re-certify 
+## Eligible certifications
 
 >[!BEGINTABS]
 
