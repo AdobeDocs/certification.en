@@ -22,6 +22,8 @@ If you have:
 
 ...this is the renewal path for YOU!
 
+![Certification Expert Badge](/help/certifications/assets/expert-badge-small.png) ![Certification Master Badge](/help/certifications/assets/master-badge-small.png)
+
 >[!NOTE]
 >
 >**This program is offered from April 4th, 2023 through October 1st, 2023.** 
@@ -124,11 +126,9 @@ If you have:
   </tr>
   <tr>
 
++++
 
 >[!ENDTABS]
-
-
-![Certification Expert Badge](/help/certifications/assets/expert-badge-small.png) ![Certification Master Badge](/help/certifications/assets/master-badge-small.png)
 
 ## Get ready
 
