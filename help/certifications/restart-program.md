@@ -28,18 +28,18 @@ If you have:
    <th>Elegible exam</th>
   </tr>
   <tr>
-   <td>AEM</td>
-   <td>Adobe Certified Expert - Adobe Experience Manager Business Practitioner</td>
+   <td><p>AEM</td>
+   <td><p>Adobe Certified Expert - Adobe Experience Manager Business Practitioner</td>
    <td><p><ul><li>AD0-E121 Adobe Experience Manager Sites Business Practitioner Expert</li></ul><ul><li>AD0-E102 Adobe Experience Manager Sites Business Practitioner Expert - (Retired)</li></ul></p></td>
   </tr>
   <tr>
-   <td>AEM</td>
-   <td>Adobe Certified Expert - Adobe Experience Manager Developer</td>
+   <td><p>AEM</td>
+   <td><p>Adobe Certified Expert - Adobe Experience Manager Developer</td>
    <td><p><ul><li>AD0-E134 Adobe Experience Manager Sites Developer Expert</li></ul><ul><li>AD0-E103 Adobe Experience Manager Sites Developer Expert - (Retired)</li></ul><ul><li>AD0-E116 Adobe Experience Manager Sites Developer Expert</li></ul></p></td>
   </tr>
   <tr>
-   <td>AEM</td>
-   <td>String</td>
+   <td><p>AEM</td>
+   <td><p>String</td>
    <td><p><i>(Required)</i> Identifies the scoring engine as either "basic" or "advanced". Set to "advanced" else the default is "basic".</p></td>
   </tr>
   <tr>
