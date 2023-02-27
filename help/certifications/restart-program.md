@@ -102,6 +102,29 @@ If you have:
   </tr>
   <tr>
 
+>[!TAB Campaign]
+
+<table>
+ <tbody>
+  <tr>
+   <th>Certification</th>
+   <th>Elegible exam</th>
+  </tr>
+  <tr>
+   <td><p>Adobe Certified Expert - Adobe Audience Manager Business Practitioner</td>
+   <td><p><ul><li>AD0-E457 Adobe Audience Manager Business Practitioner Expert</li></ul><ul><li>AD0-E453 Adobe Audience Manager Business Practitioner Expert - (retired)</li></ul></p></td>
+  </tr>
+  <tr>
+   <td><p>Adobe Certified Master - Adobe Audience Manager Architect</td>
+   <td><p><ul><li>AD0-E454 Adobe Audience Manager Architect Master</li></ul><ul><li>AD0-E452 Adobe Audience Manager Architect Master- (retired)</li></ul></p></td>
+  </tr>
+  <tr>
+   <td><p>Adobe Certified Master - Adobe Analytics Architect</td>
+   <td><p><ul><li>AD0-E207 Adobe Analytics Architect Master</li></ul><ul><li>AD0-E200 Adobe Analytics Architect Master - (Retired)</li></ul></p></td>
+  </tr>
+  <tr>
+
+
 >[!ENDTABS]
 
 
