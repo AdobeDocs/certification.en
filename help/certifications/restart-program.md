@@ -30,7 +30,9 @@ If you have:
 
 ## Exams eligible to re-certify 
 
-**Adobe Experience Manager**
+>[!BEGINTABS]
+
+>[!TAB Experience Manager]
 
 <table>
  <tbody>
@@ -58,7 +60,7 @@ If you have:
  </tbody>
 </table>
 
-**Adobe Analytics**
+>[!TAB Analytics]
 
 <table>
  <tbody>
@@ -79,30 +81,10 @@ If you have:
    <td><p><ul><li>AD0-E207 Adobe Analytics Architect Master</li></ul><ul><li>AD0-E200 Adobe Analytics Architect Master (retired)</li></ul></p></td>
   </tr>
   <tr>
+</tbody>
+</table>
 
-**Adobe Audience Manager**
-
-<table>
- <tbody>
-  <tr>
-   <th>Certification</th>
-   <th>Elegible exam</th>
-  </tr>
-  <tr>
-   <td><p>Adobe Certified Expert - Adobe Audience Manager Business Practitioner</td>
-   <td><p><ul><li>AD0-E457 Adobe Audience Manager Business Practitioner Expert</li></ul><ul><li>AD0-E453 Adobe Audience Manager Business Practitioner Expert - (retired)</li></ul></p></td>
-  </tr>
-  <tr>
-   <td><p>Adobe Certified Master - Adobe Audience Manager Architect</td>
-   <td><p><ul><li>AD0-E454 Adobe Audience Manager Architect Master</li></ul><ul><li>AD0-E452 Adobe Audience Manager Architect Master- (retired)</li></ul></p></td>
-  </tr>
-  <tr>
-   <td><p>Adobe Certified Master - Adobe Analytics Architect</td>
-   <td><p><ul><li>AD0-E207 Adobe Analytics Architect Master</li></ul><ul><li>AD0-E200 Adobe Analytics Architect Master - (Retired)</li></ul></p></td>
-  </tr>
-  <tr>
-
-**Adobe Campaign**
+>[!TAB Audience Manager]
 
 <table>
  <tbody>
@@ -123,7 +105,35 @@ If you have:
    <td><p><ul><li>AD0-E207 Adobe Analytics Architect Master</li></ul><ul><li>AD0-E200 Adobe Analytics Architect Master - (Retired)</li></ul></p></td>
   </tr>
   <tr>
+  </tbody>
+</table>
 
+>[!TAB Campaign]
+
+<table>
+ <tbody>
+  <tr>
+   <th>Certification</th>
+   <th>Elegible exam</th>
+  </tr>
+  <tr>
+   <td><p>Adobe Certified Expert - Adobe Audience Manager Business Practitioner</td>
+   <td><p><ul><li>AD0-E457 Adobe Audience Manager Business Practitioner Expert</li></ul><ul><li>AD0-E453 Adobe Audience Manager Business Practitioner Expert - (retired)</li></ul></p></td>
+  </tr>
+  <tr>
+   <td><p>Adobe Certified Master - Adobe Audience Manager Architect</td>
+   <td><p><ul><li>AD0-E454 Adobe Audience Manager Architect Master</li></ul><ul><li>AD0-E452 Adobe Audience Manager Architect Master- (retired)</li></ul></p></td>
+  </tr>
+  <tr>
+   <td><p>Adobe Certified Master - Adobe Analytics Architect</td>
+   <td><p><ul><li>AD0-E207 Adobe Analytics Architect Master</li></ul><ul><li>AD0-E200 Adobe Analytics Architect Master - (Retired)</li></ul></p></td>
+  </tr>
+  <tr>
+  </tbody>
+</table>
+
+
+>[!ENDTABS]
 
 ## Get ready
 
@@ -140,7 +150,6 @@ To restart your expired certification, we offer either Continuous learning activ
 * Exam available free of cost online with no proctor 
 * Single Campaign Classic OnDemand exam reinstates certifications for all job-roles (for those who have more than 1 certification across multiple job-roles) 
 * Audience Manager and Campaign Standard will have OnDemand Exams based on job-roles
-
 
 ## Get prepped
 
