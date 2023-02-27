@@ -6,7 +6,7 @@ role: Developer
 recommendations: disable, exclude
 badge: label="Restart Program" type="positive"
 ---
-# Certification journey - Adobe Experience Manager renewal
+# Certification journey - Restart program
 
 ## Restart your certification journey by going from expired to certified
 
