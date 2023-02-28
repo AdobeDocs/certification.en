@@ -1,12 +1,11 @@
 ---
-title: Adobe Real-Time Customer Data Platform Certification
+title: Adobe Certification Restart Program
 description: You have technical knowledge about audience segmentation, destination exports, and activation on real time basis for unified profiles that adhere to data and privacy regulations, customer data platforms (CDP) and knowledge of Adobe Experience Platform.
-solution: Real-time Customer Data Platform
 role: Developer
 recommendations: disable, exclude
 badge: label="Restart Program" type="positive"
 ---
-# Certification journey - Adobe Experience Manager renewal
+# Certification journey - Adobe Certification Restart program
 
 ## Restart your certification journey by going from expired to certified
 
@@ -251,7 +250,31 @@ Here are some suggested resources to help you prepare:
 
 >[!TAB Experience Manager]
 
-ADD content from guides
+Add content from exam guides
+
+>[!TAB Analytics]
+
+Add content from exam guides
+
+>[!TAB Target]
+
+Add content from exam guides
+
+>[!TAB Campaign Classic]
+
+Add content from exam guides
+
+>[!TAB Standard]
+
+Add content from exam guides
+
+>[!TAB Audience Manager]
+
+Add content from exam guides
+
+>[!TAB Marketo Engage]
+
+Add content from exam guides
 
 >[!ENDTABS]
 
