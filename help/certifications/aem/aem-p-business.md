@@ -50,7 +50,7 @@ Passing Score: 33/50
 Time: 110 mins
 Delivery: Online proctored (requires camera access)
 Available languages: English
-Cost: $125 (global) and $95 (India
+Cost: $125 (global) and $95 (India)
 Exam ID: AD0-E126
 
 ```
@@ -91,8 +91,6 @@ You are not required to complete training before taking the exam, and training a
 Here are some suggested resources to help you prepare:
 
 **AD0-E126 Adobe Experience Manager Business Practitioner**
-
-The exam covers four domains: business analysis, reporting and dashboarding, segmentation and calculated metrics, general tool knowledge, and reporting.
 
 **Section 1: Education**
 
