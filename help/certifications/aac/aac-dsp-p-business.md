@@ -3,128 +3,130 @@ title: Adobe Advertising Cloud Certification
 description: You have technical knowledge about audience segmentation, destination exports, and activation on real time basis for unified profiles that adhere to data and privacy regulations, customer data platforms (CDP) and knowledge of Adobe Experience Platform.
 solution: Advertising Cloud
 role: Developer
+badge: label="Exam ADO-E502" type="positive"
 ---
-# Certification Journey - Adobe Advertising Cloud
+# Certification journey - Adobe Advertising DSP Business Practitioner professional
 
-## Start Your Journey toward Certification
+Exam ID: AD0-E502
 
-Bacon ipsum dolor amet buffalo short loin meatloaf, t-bone turkey pork hamburger boudin pork chop venison ribeye cow pork belly. Chuck alcatra bacon, frankfurter t-bone salami tri-tip spare ribs ribeye venison sausage strip steak meatball landjaeger cupim. Picanha tri-tip cow fatback, swine pork loin andouille pork tail. Bresaola chicken leberkas, ground round ball tip brisket meatball corned beef sausage andouille porchetta frankfurter doner strip steak burgdoggen. Boudin landjaeger leberkas salami.
+## Start your journey toward certification
 
-<table>
-<tr  style="border: 0">
-<td style="width: 160px;text-align: left">
+Purchase your exam voucher at Adobe Certification Voucher Center, if you have a discount, it will apply at checkout. Apply the voucher code when you schedule your exam.
 
-<!--- TO CHANGE BADGE : change "expert-badge.png" to "master-badge.png" or "professional-badge.png --->
+If an exam is marked as retiring you will see a note at the top of this page. This indicates that you can still take it until the date specified in the note. 
 
-  <img alt="Certification Badge" style="width: 120px" src="/help/certifications/assets/expert-badge.png" />
-</td>
-<td style="width: 400px;">
-  <strong>Level of Experience: </strong> 1-3 years
+Your certification will be valid for two years from when you pass. We recommend taking the newer version, when possible, because it covers newer product capabilities.
 
-  <strong>Intended Audience:</strong>
-  Data Architect/Engineer, Solution Architect or MSA, 
-  Enterprise Architect, Product Manager, Marketing Technology Lead
-</tr>
-</table>
+If you have:
 
-<table>
- <tr  style="border: 0;">
-    <td> <strong>Adobe Experience Platform</strong> </td>
- </tr>
+* 6+ months experience with Adobe Advertising
+* Experience in planning and or measuring key performance indicators in media buying software
 
- <tr style="border: 0;background-color: white;">
-    <td>
-    Exam Details:<br>
-    Passing Score: 35/50<br>
-    Time: 105 mins<br>
-    Cost: $225 (global) and $150 (India)<br>
-    Exam ID: AD0-E600
-    </td>
- </tr>
+Familiarity with the following tools and technologies:
 
-</table>
+* Ad testing/debugging software (e.g. VAST INSPECTOR, Chrome developer tools)
+* Analytics tools (e.g. Adobe Analytics, Google Analytics)
+* Third-party tagging software (e.g. Sizmek, Google tag manager)
+* Third-party media quality tools (e.g. IAS, MOAT)
+* Major browsers
+* Ad exchanges, SSPs, and DMPs
 
-## Exam Purpose
+...this is the certification for YOU!
 
-Bacon ipsum dolor amet buffalo short loin meatloaf, t-bone turkey pork hamburger boudin pork chop venison ribeye cow pork belly. Chuck alcatra bacon, frankfurter t-bone salami tri-tip spare ribs ribeye venison sausage strip steak meatball landjaeger cupim. Picanha tri-tip cow fatback, swine pork loin andouille pork tail. Bresaola chicken leberkas, ground round ball tip brisket meatball corned beef sausage andouille porchetta frankfurter doner strip steak burgdoggen. Boudin landjaeger leberkas salami.
+![Certification Professional Badge](/help/certifications/assets/professional-badge-small.png)
 
-## Get Ready
+**Level of experience:** 0-12 months
 
-**AD0-E600 Adobe Experience Platform Technical Foundations**
+**Intended audience:**
 
-**Minimum Candidate Experience**
+* Programmatic trader
+* Paid media specialist
+* Media director
+* Campaign director
+* Media buyer
 
-Defined by a team of subject matter experts, the candidate who is ready to pass the Adobe Experience Platform - Adobe Qualified exam has the following qualifications, at a minimum:
+**Exam details:** Adobe Advertising DSP Business Practitioner
 
-* Basic know-how of Experience Platform and can navigate through the UI
-* A high-level understanding of each UI component
+```
+Passing Score: 44/69
+Time: 138 mins
+Delivery: Online proctored (requires camera access) or test center proctored
+Available languages: English
+Cost: $125 (global) and $95 (India)
+Exam ID: AD0-E502
 
-**Exam Objectives and Scope**
+```
 
-Section 1: Data Modeling (20%)
-* Analyze source data to evaluate primary and secondary identity for profile stitching
-* Demonstrate an understanding of how to use the UI to create/edit XDM Schemas.
-* Identify DULE Guidance
+## Get ready
 
-Section 2: Data Ingestion (36%)
-* Demonstrate how to format and prepare data for ingestion
-* Demonstrate how to connect data sources using OOTB connectors
+**AD0-E502 Adobe Advertising DSP Business Practitioner**
 
-Section 3: Unifying Profiles (34%)
-* Validate Profiles and Event data post ingestion
-* Define identity name spaces
+**Exam objectives and scope**
 
-Section 4: Activation (10%)
-* Demonstrate how to set up a destination and how segment activation works
-* Demonstrate and understanding of data access API and exporting data via Real-Time CDP
+Section 1: Setting up campaigns (42%)
 
-Take a readiness questionnaire to find out if you meet the minimum qualifications.
+* Given the needs of a campaign, determine the strategy for that campaign
+* Given a scenario, create a new campaign
+* Given a scenario, create a package
+* Apply procedural concepts for creating and applying targeting to placements
+* Apply procedural concepts for attaching ads to placements
+* Given a scenario, duplicate and edit a campaign
+* Apply procedural concepts required to set up Private and On demand inventories for a campaign
 
-## Get Prepped
+Section 2: Running and optimizing campaigns (22%)
+
+* Apply procedural concepts to ensure that campaigns are running correctly
+* Apply procedural concepts to optimize a campaign
+* Apply procedural concepts to troubleshoot a campaign
+* Given a scenario, manage integrations with in-platform solutions
+
+Section 3: Reporting and analyzing (26%)
+
+* Given a scenario, read data within the platform
+* Given a scenario, create and read custom reports
+* Implement changes to a campaign
+* Given a scenario, evaluate the performance of a campaign
+* Apply procedural concepts for attributing performance to a campaign
+
+Section 4: Supplying recommendations for campaigns (10%)
+
+* Given a scenario, provide updates to clients based on a campaign
+* Given a scenario, adjust campaign strategy based on campaign performance
+
+## Get prepped
 
 You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
 
 Here are some suggested resources to help you prepare:
 
-**AD0-E600 Adobe Experience Platform Technical Foundations**
-
-The exam covers four domains: business analysis, reporting and dashboarding, segmentation and calculated metrics, general tool knowledge, and reporting.
-
-**Section 1: Data Modeling**
-
-* Documentation: [Understanding Schemas](https://experienceleague.adobe.com/docs/experience-platform/xdm/schema/composition.html)
-* SPP On Demand: [Schema and XDM Overview / Adobe Experience Platform: Data Modeling and Ingestion](https://video.tv.adobe.com/v/27105)
-* SPP Challenge/Hands On: [Model data in Schemas](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/model-data-in-schemas.html)
-* Experience League Tutorial: [Schema and XDM Overview](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/schemas-and-experience-data-model.html)
-
-**Section 2: Data Ingestion**
-
-* Documentation: [Data Ingestion](https://experienceleague.adobe.com/docs/experience-platform/ingestion/home.html?lang=en)
-* SPP On Demand: [Adobe Experience Platform: Data Modeling and Ingestion](https://solutionpartners.adobe.com/training/learning_program/learningProgram83768.html)
-
-**Section 3: Unifying Profiles**
-
-* Documentation: [Identity and identity graphs](https://experienceleague.adobe.com/docs/platform-learn/tutorials/identities/understanding-identity-and-identity-graphs.html?lang=en)
-* SPP On Demand: [Experience Platform: Create and Manage Real-time Customer Profile](https://cpcontents.adobe.com/public/newlearner/newlearner_de10804e.html?accountId=32503#/course/1175314/overview?cert_id=undefined&lp_id=undefined)
+**AD0-E502 Adobe Advertising DSP Business Practitioner**
 
 
-**Section 4: Activation**
+**Section 1: Setting up campaigns**
 
-* Documentation: [Destinations](https://experienceleague.adobe.com/docs/experience-platform/destinations/home.html?lang=en)
-* SPP On Demand: [Adobe Experience Platform: Segmentation for Developers](https://solutionpartners.adobe.com/training/learning_program/learningProgram83769.html)
 
-**Additional Study Aid Resources**
+* [Add resource](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/home.html?lang=en){target="_blank"} 
 
-Adobe has provided additional study aids to help you prepare for your certification exam. These include content from Adobe Experience League, Adobe Digital Learning Solutions, and technical documentation
+**Section 2: Running and optimizing campaigns**
 
-+++See Resources
+* [Add resource](https://experienceleague.adobe.com/docs/experience-manager-65/developing/components/components-basics.html?lang=en){target="_blank"}
 
-* [Adobe Experience Platform Enablement (Partners Only)](https://solutionpartners.adobe.com/training/courses/course5250864.html)
-* [Experience Data Model (XDM) Guide](https://experienceleague.adobe.com/docs/experience-platform/xdm/home.html?lang=en)
-+++
+**Section 3: Reporting and analyzing**
 
-{{$include /help/_includes/take-a-practice-test.md}}
+* [Web Console](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/configuring/web-console.html?lang=en){target="_blank"}
 
-{{$include /help/_includes/get-certified.md}}
+**Section 4: Supplying recommendations for campaigns**
 
-{{$include /help/_includes/questions.md}}
+* [Add resource](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/admin-tools/brand-portal-adding-users.html?lang=en#add-a-user){target="_blank"}
+
+## Get certified
+
+To schedule your exam you will click on "schedule" below. This will redirect you to the Adobe Credential Management system where you will click scheduling>then search for this exam to schedule.
+
+[Schedule AD0-E502](https://learning.adobe.com/api.certify.json){target="_blank"}
+
+## Questions
+
+Have a question about Adobe Certification? Please email `certif@adobe.com`.
+
+View the certification [FAQs](https://solutionpartners.adobe.com/solution-partners/training_and_certification/certification/certification_faq.html#){target="_blank"}.
