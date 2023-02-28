@@ -6,7 +6,7 @@ role: Developer
 recommendations: disable, exclude
 badge: label="Restart Program" type="positive"
 ---
-# Certification journey - Restart program
+# Certification journey - Adobe Experience Manager renewal
 
 ## Restart your certification journey by going from expired to certified
 
@@ -17,18 +17,18 @@ We're happy to announce a limited-time offer, to those invited via email, to par
 If you have:
 
 * Received an email invitation to participate
-* Passed one of the exams below but it's now expired
+* Passed one of the exams below 
+* You're certification has expired in April 2023
 
 ...this is the renewal path for YOU!
 
 ![Certification Expert Badge](/help/certifications/assets/expert-badge-small.png) ![Certification Master Badge](/help/certifications/assets/master-badge-small.png)
 
-
 >[!NOTE]
 >
->**This program will be available April 4th, 2023 - October 1st, 2023.** 
+>**This program is offered from April 4th, 2023 through October 1st, 2023.** 
 
-## Eligible certifications
+## Exams eligible to re-certify 
 
 >[!BEGINTABS]
 
