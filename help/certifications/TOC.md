@@ -8,7 +8,7 @@ user-guide-description: Certification
 
 + [Certification home](overview.md)
 + [Get started](getting-started.md)
-+ [Get your badge](get-badge.md)
++ [How to get certified](get-badge.md)
 + [Renew your certification](renew.md)
 + [Restart program](restart-program.md)
 + Technical certifications {#technical-certifications}
