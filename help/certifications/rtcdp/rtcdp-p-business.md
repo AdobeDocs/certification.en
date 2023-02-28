@@ -20,17 +20,20 @@ Your certification will be valid for two years from when you pass. We recommend 
 
 If you have:
 
-* 6+ months experience with Adobe Advertising
-* Experience in planning and or measuring key performance indicators in media buying software
+* Experience with one or more Real-Time CDP environments
+* Familiarity with digital marketing technology stacks and various platform integrations
+* An understanding of data flows (ID types,ID syncs, audiences, segments, data models)
+* 6-12 months of experience creating and activating audiences using a CDP
 
-Familiarity with the following tools and technologies:
+Experience with tasks that include:
 
-* Ad testing/debugging software (e.g. VAST INSPECTOR, Chrome developer tools)
-* Analytics tools (e.g. Adobe Analytics, Google Analytics)
-* Third-party tagging software (e.g. Sizmek, Google tag manager)
-* Third-party media quality tools (e.g. IAS, MOAT)
-* Major browsers
-* Ad exchanges, SSPs, and DMPs
+* Building audiences in Real-Time CDP (segments) mapping those to destinations (activating them)
+* Understanding and applying concepts of profile merge, how data stitching works in Real-Time CDP
+* Navigating the UI
+* Understanding policies (DULE) and applying them as applicable
+* Understanding concepts of Identity namespaces and Identity graphs
+* Understanding high level capability and features of AEP and its services
+* Configuring new destinations
 
 ...this is the certification for YOU!
 
@@ -40,17 +43,22 @@ Familiarity with the following tools and technologies:
 
 **Intended audience:**
 
-* Programmatic trader
-* Paid media specialist
-* Media director
-* Campaign director
-* Media buyer
+* Solutions Consultant
+* Data Analyst
+* Marketing Manager
+* Campaign Marketing Analyst
+* Business Analyst
+* Campaign Manager
+* CDP Consultant
+* Conversion/Optimization Consultant
+* Marketing Product Owner
+* Marketing Analyst
 
 **Exam details:** Adobe Real-Time CDP Business Practitioner
 
 ```
-Passing Score: 44/69
-Time: 138 mins
+Passing Score: 28/50
+Time: 100 mins
 Delivery: Online proctored (requires camera access) or test center proctored
 Available languages: English
 Cost: $125 (global) and $95 (India)
@@ -64,35 +72,28 @@ Exam ID: AD0-E602
 
 **Exam objectives and scope**
 
-Section 1: Setting up campaigns (42%)
+Section 1: Segments and activation (32%)
 
-* Given the needs of a campaign, determine the strategy for that campaign
-* Given a scenario, create a new campaign
-* Given a scenario, create a package
-* Apply procedural concepts for creating and applying targeting to placements
-* Apply procedural concepts for attaching ads to placements
-* Given a scenario, duplicate and edit a campaign
-* Apply procedural concepts required to set up Private and On demand inventories for a campaign
+* Create segment and activate to destination
+* Configure new destinations
+* Apply concepts required to target identities in destinations
+* Identify attribute mappings and scheduling of segments to destination
 
-Section 2: Running and optimizing campaigns (22%)
+Section 2: Privacy and data governance (20%)
 
-* Apply procedural concepts to ensure that campaigns are running correctly
-* Apply procedural concepts to optimize a campaign
-* Apply procedural concepts to troubleshoot a campaign
-* Given a scenario, manage integrations with in-platform solutions
+* Demonstrate an understanding of DULE policies and their impacts on data availability at destinations
+* Ensure privacy and data compliance measures are followed
 
-Section 3: Reporting and analyzing (26%)
+Section 3: Business analysis (30%)
 
-* Given a scenario, read data within the platform
-* Given a scenario, create and read custom reports
-* Implement changes to a campaign
-* Given a scenario, evaluate the performance of a campaign
-* Apply procedural concepts for attributing performance to a campaign
+* Identify use cases which tie back to business KPIs
+* Perform data analysis on customer segments in platform
+* Demonstrate an understanding of data flow concepts
 
-Section 4: Supplying recommendations for campaigns (10%)
+Section 4: Schemas and profiles (18%)
 
-* Given a scenario, provide updates to clients based on a campaign
-* Given a scenario, adjust campaign strategy based on campaign performance
+* Demonstrate an understanding of Adobe Experience Platform concepts
+* Use profile features
 
 ## Get prepped
 
@@ -103,22 +104,49 @@ Here are some suggested resources to help you prepare:
 **AD0-E602 Adobe Real-Time CDP Business Practitioner**
 
 
-**Section 1: Setting up campaigns**
+**Section 1: Segments and activation**
 
 
-* [Add resource](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/home.html?lang=en){target="_blank"} 
+* [Segmentation Service overview](https://experienceleague.adobe.com/docs/experience-platform/segmentation/home.html?lang=en){target="_blank"}
+* [Create sequential segments](https://experienceleague.adobe.com/docs/platform-learn/tutorials/segments/create-sequential-segments.html?lang=en){target="_blank"}
+* [Evaluate and access segment results](https://experienceleague.adobe.com/docs/experience-platform/segmentation/tutorials/evaluate-a-segment.html?lang=en){target="_blank"}
+* [Segmentation Service UI guide](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/overview.html?lang=en#scheduled-segmentation){target="_blank"}
+* [Destinations overview](https://experienceleague.adobe.com/docs/experience-platform/destinations/home.html?lang=en){target="_blank"}
+* [Destination types and categories](https://experienceleague.adobe.com/docs/experience-platform/destinations/destination-types.html?lang=en){target="_blank"}
+* [Activate audience data to streaming profile export destinations](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/activate/activate-streaming-profile-destinations.html?lang=en){target="_blank"}
+* [Creating a new destination connection](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/connect-destination.html?lang=en){target="_blank"}
 
-**Section 2: Running and optimizing campaigns**
+**Section 2: Identity and data governances**
 
-* [Add resource](https://experienceleague.adobe.com/docs/experience-manager-65/developing/components/components-basics.html?lang=en){target="_blank"}
+* [Identity namespace overview](https://experienceleague.adobe.com/docs/experience-platform/identity/namespaces.html?lang=en){target="_blank"}
+* [Data Governance overview](https://experienceleague.adobe.com/docs/experience-platform/data-governance/home.html?lang=en){target="_blank"}
 
-**Section 3: Reporting and analyzing**
+**Section 3: Business analysis**
 
-* [Web Console](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/configuring/web-console.html?lang=en){target="_blank"}
+* [Data Ingestion overview](https://experienceleague.adobe.com/docs/experience-platform/ingestion/home.html?lang=en){target="_blank"}
+* [Monitor data flows in Adobe Experience Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/monitoring/data-monitoring.html?lang=en){target="_blank"}
+* [Privacy Service and Experience Cloud applications](https://experienceleague.adobe.com/docs/experience-platform/privacy/experience-cloud-apps.html?lang=en){target="_blank"}
+* [Policy enforcement overview](https://experienceleague.adobe.com/docs/experience-platform/data-governance/enforcement/overview.html?lang=en){target="_blank"}
 
-**Section 4: Supplying recommendations for campaigns**
+**Section 4: Schemas and profiles**
 
-* [Add resource](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/admin-tools/brand-portal-adding-users.html?lang=en#add-a-user){target="_blank"}
+* [XDM System overview](https://experienceleague.adobe.com/docs/experience-platform/xdm/home.html?lang=en){target="_blank"}
+* [Real-Time Customer Profile overview](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/profile/profile-overview.html?lang=en){target="_blank"}
+* [Union schema UI guide](https://experienceleague.adobe.com/docs/experience-platform/profile/union-schemas/union-schema.html?lang=en){target="_blank"}
+
+## Sample questions
+
+The sample questions allow you to see the type and format of items that you will encounter in the actual exam. There is no sign-on needed. The results of the sample questions are not stored, and do not predict your actual test results.
+
+[See sample questions](https://scorpion.caveon.com/launchpad/ad3-e602-adobe-real-time-cdp-business-practitioner-professional-sample-questions){target="_blank"}
+
+* Provide your email address.
+* Answer the candidate agreement.
+* Start the test.
+* Mark your answer in each question.
+* Click Next on the upper portion of the screen to save your answer and move to the next question. You may return and revise your question within the specified time.
+* On the last question, click Submit Exam to submit all your answers.
+* Answer the short survey.
 
 ## Get certified
 
