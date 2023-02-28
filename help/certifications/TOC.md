@@ -43,7 +43,7 @@ user-guide-description: Certification
       + [Business Practitioner](/help/certifications/acc/acc-e-business.md)
       + [Developer](/help/certifications/acc/acc-e-developer.md)
     + Master {#acc-master}
-      + [Developer](/help/certifications/acc/acc-m-developer.md)
+      + [Architect](/help/certifications/acc/acc-m-developer.md)
     + [Renewal](/help/certifications/acc/acc-renew.md)
   + Adobe Campaign Standard {#acs}
     + Expert {#acs-expert}
