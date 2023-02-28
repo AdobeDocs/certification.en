@@ -65,7 +65,7 @@ You are required to provide a customer reference affirming you have participated
 
 Once your customer reference has been reviewed you will be notified by the Adobe Credential Team.
 
-* [Customer Reference Form (subject to Adobe verification)](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADR-EA100){target="_blank"}
+You can access the Customer Reference Form by clicking "Renew your certification" below. Follow the same instructions as you would to renew your exam. You will find the form in the same list as the course assessments.
 
 ## Renew your certification
 
