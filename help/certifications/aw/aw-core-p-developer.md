@@ -115,7 +115,7 @@ You are not required to complete training before taking the exam, and training a
 
 Here are some suggested resources to help you prepare:
 
-**AD0-E132 Adobe Experience Manager Assets Developers**
+**AD0-E905 Adobe Workfront Core Developer**
 
 
 **Section 1: Strategy and intake**
