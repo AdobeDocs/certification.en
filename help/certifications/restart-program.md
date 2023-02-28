@@ -25,7 +25,7 @@ If you have:
 
 >[!NOTE]
 >
->**This program is offered from April 4th, 2023 through October 1st, 2023.** 
+>**This program will be available April 4th, 2023 - October 1st, 2023.** 
 
 ## Eligible certifications
 
