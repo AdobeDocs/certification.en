@@ -6,7 +6,7 @@ role: Developer
 recommendations: disable, exclude
 badge: label="Restart Program" type="positive"
 ---
-# Certification journey - Adobe Experience Manager renewal
+# Certification journey - Restart program
 
 ## Restart your certification journey by going from expired to certified
 
@@ -17,8 +17,7 @@ We're happy to announce a limited-time offer, to those invited via email, to par
 If you have:
 
 * Received an email invitation to participate
-* Passed one of the exams below 
-* You're certification has expired in April 2023
+* Passed one of the exams below but it's now expired
 
 ...this is the renewal path for YOU!
 
