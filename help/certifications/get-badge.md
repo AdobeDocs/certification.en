@@ -5,6 +5,6 @@ solution: Real-time Customer Data Platform
 role: Developer
 recommendations: disable, exclude
 ---
-# Get your badge {#get-badge}
+# How to get certified {#how-to-get-certified}
 
 Once you earn a credential you can download your digital badge. You can use your badge on social profiles and verify your achievement to your employer and customers that you are skilled in this application.
