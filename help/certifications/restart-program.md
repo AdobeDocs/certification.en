@@ -23,6 +23,7 @@ If you have:
 
 ![Certification Expert Badge](/help/certifications/assets/expert-badge-small.png) ![Certification Master Badge](/help/certifications/assets/master-badge-small.png)
 
+
 >[!NOTE]
 >
 >**This program will be available April 4th, 2023 - October 1st, 2023.** 
