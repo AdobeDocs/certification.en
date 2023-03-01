@@ -40,9 +40,9 @@ If you have:
 
 ![Certification Expert Badge](/help/certifications/assets/expert-badge-small.png)
 
-**Level of Experience:** 1-3 years
+**Level of experience:** 1-3 years
 
-**Intended Audience:**
+**Intended audience:**
 
 * Data Architect/Engineer
 * Solution Architect or MSA
@@ -60,7 +60,7 @@ The AD0-E600 exam validates skills and knowledge covering the basic features and
 
 The AD7-E601 exam covers the creation, management and understanding of customer profile, segmentation, destinations across sources, and other topics. The exam validates the foundational skills and knowledge needed to employ Real-time CDP for audience segmentation, destination exports, and activation on a real-time basis for unified profiles that adhere to data and privacy regulations. Candidates should have experience with Customer Data Platforms (CDP) and knowledge of Adobe Experience Platform.
 
-**Exam Details: Adobe Experience Platform**
+**Exam details: Adobe Experience Platform**
 
 ```
 Passing Score: 35/50
@@ -74,7 +74,7 @@ Exam ID: AD0-E600
 
 _AND_
 
-**Exam Details: Adobe Real-Time CDP Technical Practitioner**
+**Exam details: Adobe Real-Time CDP Technical Practitioner**
 
 ```
 Passing Score: 25/34
@@ -86,7 +86,7 @@ Exam ID: AD7-E601
 
 ```
 
-## Get Ready
+## Get ready
 
 >[!BEGINTABS]
 
@@ -94,15 +94,15 @@ Exam ID: AD7-E601
 
 **AD0-E600 Adobe Experience Platform Technical Foundations**
 
-**Exam Objectives and Scope**
+**Exam Objectives and scope**
 
-Section 1: Data Modeling (20%)
+Section 1: Data modeling (20%)
 
 * Analyze source data to evaluate primary and secondary identity for profile stitching
 * Demonstrate an understanding of how to use the UI to create/edit XDM Schemas.
 * Identify DULE Guidance
 
-Section 2: Data Ingestion (36%)
+Section 2: Data ingestion (36%)
 
 * Demonstrate how to format and prepare data for ingestion
 * Demonstrate how to connect data sources using OOTB connectors
@@ -111,7 +111,7 @@ Section 2: Data Ingestion (36%)
 * Demonstrate how to perform data discovery on source data
 * Demonstrate how to transform data to match XDM
 
-Section 3: Unifying Profiles (34%)
+Section 3: Unifying profiles (34%)
 
 * Validate Profiles and Event data post ingestion
 * Define identity name spaces
@@ -130,7 +130,7 @@ Take a readiness questionnaire to find out if you meet the minimum qualification
 
 **AD7-E601 Adobe Real-Time CDP Technical Practioner**
 
-**Exam Sections**
+**Exam scope and objectives**
 
 Section 1: Validation(41%)
 
@@ -153,11 +153,11 @@ Section 3: Destinations (27%)
 
 >[!ENDTABS]
 
-## Readiness Self-Assessment
+## Readiness self-assessment
 
 Complete the [online readiness questionnaire](https://scorpion.caveon.com/launchpad/ad-q-e601-readiness-questionnaire-for-adobe-real-time-cdp-technical-practitioner-exam/ad-q-e601-readiness-questionnaire-for-adobe-real-time-cdp-technical-practitioner-exam){target="_blank"} to see if your current experience matches the recommended minimum candidate qualification.
 
-## Get Prepped
+## Get prepped
 
 You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
 
@@ -171,18 +171,18 @@ Here are some suggested resources to help you prepare:
 
 The exam covers four domains: business analysis, reporting and dashboarding, segmentation and calculated metrics, general tool knowledge, and reporting.
 
-**Section 1: Data Modeling**
+**Section 1: Data modeling**
 
 * [Understanding Schemas](https://experienceleague.adobe.com/docs/experience-platform/xdm/schema/composition.html){target="_blank"}
 * [Schema and XDM Overview / Adobe Experience Platform: Data Modeling and Ingestion](https://video.tv.adobe.com/v/27105){target="_blank"}
 * [Model data in Schemas](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/model-data-in-schemas.html){target="_blank"}
 * [Schema and XDM Overview](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/schemas-and-experience-data-model.html){target="_blank"}
 
-**Section 2: Data Ingestion**
+**Section 2: Data ingestion**
 
 * [Data Ingestion](https://experienceleague.adobe.com/docs/experience-platform/ingestion/home.html?lang=en){target="_blank"}
 
-**Section 3: Unifying Profiles**
+**Section 3: Unifying profiles**
 
 * [Identity and identity graphs](https://experienceleague.adobe.com/docs/platform-learn/tutorials/identities/understanding-identity-and-identity-graphs.html?lang=en){target="_blank"}
 * [Map identities](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/map-identities.html?lang=en){target="_blank"}
@@ -259,7 +259,7 @@ The exam covers four domains: business analysis, reporting and dashboarding, seg
 * [Activate data to non-Adobe application](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/activate-data-to-non-adobe-applications.html){target="_blank"}
 
 
-**Additional Study Aid Resources**
+**Additional study aid resources**
 
 +++ See Resources
 
@@ -276,7 +276,7 @@ The exam covers four domains: business analysis, reporting and dashboarding, seg
 
 >[!ENDTABS]
 
-## Take a Practice Test
+## Take a practice test
 
 We are excited to offer free practice tests and provide a detailed coaching report upon completion of each one. You will have unlimited access to all available practice tests for Adobe's expert-level exams. Our practice tests are developed from the same blueprints as the live exams, so they can help you gauge how you are doing in each topic area. However, taking a practice test does not guarantee that you will pass the certification exam.
 
@@ -286,7 +286,7 @@ Go to the [Adobe Credential Managment System](http://www.certmetrics.com/adobe/)
 >
 >Go to the Scheduling Page > Practice Tests > Adobe Certification Prep Portal > click on Launch Adobe Exam Prep Portal (on the far-right side).
 
-## Get Certified
+## Get certified
 
 To schedule your exam you will click on "Schedule" below. This will redirect you to the Adobe Credential Management system where you will click scheduling>then search for this exam to schedule.
 
