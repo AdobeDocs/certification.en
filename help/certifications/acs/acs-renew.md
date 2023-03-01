@@ -16,9 +16,6 @@ You must renew your certification before your certification expires, otherwise, 
 
 If you are currently certified (not expired) in:
 
-* Adobe Campaign Classic Developer expert
-* Adobe Campaign Classic Business Practitioner expert
-* Adobe Campaign Classic Architect master
 * Adobe Campaign Standard Business Practioner expert
 * Adobe Campaign Standard Developer expert
 
@@ -30,7 +27,7 @@ If you are currently certified (not expired) in:
 >
 >Adobe Campaign Certified Professional renewal **(coming in 2024)**!
 
-**Select the correct tab below for more information about the Adobe Campaign Classic, Adobe Campaign Standard Business Practitioner and Adobe Campaign Developer renewal exams.**
+**Select the correct tab below for more information about the Adobe Campaign Standard Business Practitioner and Adobe Campaign Standard Developer renewal exams.**
 
 >[!BEGINTABS]
 
