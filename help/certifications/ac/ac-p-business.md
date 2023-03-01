@@ -11,11 +11,11 @@ Exam ID: AD0-E712
 
 ## Start your journey toward certification
 
-Purchase your exam voucher at Adobe Certification Voucher Center, if you have a discount, it will apply at checkout. Apply the voucher code when you schedule your exam.
+Purchase your exam voucher at Adobe Certification Voucher Center. If you have a discount, it will apply at checkout. Apply the voucher code when you schedule your exam.
 
 If an exam is marked as retiring you will see a note at the top of this page. This indicates that you can still take it until the date specified in the note. 
 
-Your certification will be valid for two years from when you pass. We recommend taking the newer version, when possible, because it covers newer product capabilities.
+Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
 
 If you have a minimum of 6 months hands-on experience with Magento Open Source version 2.4.3 using the LUMA or BLANK theme and basic understanding of Adobe Commerce version 2.4.3. 
 

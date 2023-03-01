@@ -4,6 +4,7 @@ description: You have technical knowledge about audience segmentation, destinati
 solution: Real-time Customer Data Platform
 role: Developer
 recommendations: disable, exclude
+badge: label="Exam ADO-E600 & AD7-E601" type="positive"
 ---
 
 # Certification journey - Adobe Real-Time Customer Data Platform expert
@@ -14,9 +15,11 @@ Exam ID: AD0-600 & Exam ID: AD7-E601
 
 To earn certification, you need to pass 2 distinct exams with a proctor present, online or on-site, where available.
 
-Purchase your exam voucher at Adobe Certification Voucher Center, if you have a discount, it will apply at checkout. Apply the voucher code when you schedule your exam.
+Purchase your exam voucher at Adobe Certification Voucher Center. If you have a discount, it will apply at checkout. Apply the voucher code when you schedule your exam.
 
-If an exam is marked as retiring, you can still take it and your certification will be valid for two years from when you pass. We recommend taking the newer version, when possible, because it covers newer product capabilities.
+If an exam is marked as retiring you will see a note at the top of this page. This indicates that you can still take it until the date specified in the note. 
+
+Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
 
 If you have:
 
