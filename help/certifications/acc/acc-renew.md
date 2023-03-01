@@ -45,7 +45,7 @@ If you are currently certified (not expired) in:
   
 ```
 
-Passing Score: 41/55 or 75%
+Passing Score: 41/55
 Time: 110 mins
 Cost: FREE
 Delivery: On-demand
@@ -143,7 +143,7 @@ To renew your exam click on the "Campaign Classic renewal - AD5-823" link below.
   
 ```
 
-Passing Score: 23/30 or 75%
+Passing Score: 23/30
 Time: 110 mins
 Cost: FREE
 Delivery: On-demand
@@ -223,7 +223,7 @@ To renew your exam click on the "Campaign Standard Business Practitione renewal 
   
 ```
 
-Passing Score: 23/30 or 75%
+Passing Score: 23/30
 Time: 60 mins
 Cost: FREE
 Delivery: On-demand
