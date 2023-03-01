@@ -165,13 +165,10 @@ Go to the [Adobe Certification Exam Prep Portal](https://www.certmetrics.com/ado
 
 ## Get certified
 
-To schedule / reschedule / cancel 
-
 | Delivery vendors | schedule/reschedule/cancel |
 | ------- | ------- |
 | PSI | [AD0-E134 proctored online exam (test center, online)](https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&ec=AD0-E134){target="_blank"} |
 Examity | [AD0-E134 proctored online exam (online)](https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E134){target="_blank"}
-
 
 ## Questions
 
