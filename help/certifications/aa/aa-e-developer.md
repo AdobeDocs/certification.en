@@ -11,11 +11,11 @@ Exam ID: AD0-E209
     
 ## Start your journey toward certification
 
-Purchase your exam voucher at Adobe Certification Voucher Center, if you have a discount, it will apply at checkout. Apply the voucher code when you schedule your exam.
+Purchase your exam voucher at Adobe Certification Voucher Center. If you have a discount, it will apply at checkout. Apply the voucher code when you schedule your exam.
 
 If an exam is marked as retiring you will see a note at the top of this page. This indicates that you can still take it until the date specified in the note. 
 
-Your certification will be valid for two years from when you pass. We recommend taking the newer version, when possible, because it covers newer product capabilities.
+Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
 
 If you are an implementation consultant in a hybrid role with about 2 years' experience in Adobe Analytics implementation. You acts as the bridge between IT and the business, translate the business requirements into a technical solution (SDR), and based on requirements provided by the analyst, understand which type of variable is needed, where and how to collect the data, design the data model (data layer), configure and maintain the tag management solution. 
 
