@@ -20,8 +20,6 @@ If you are currently certified (not expired) in:
 * Adobe Campaign Classic Developer expert
 * Adobe Campaign Classic Business Practitioner expert
 * Adobe Campaign Classic Architect master
-* Adobe Campaign Standard Business Practioner expert
-* Adobe Campaign Standard Developer expert
 
 ...this is the renewal path for YOU!
 
@@ -31,11 +29,9 @@ If you are currently certified (not expired) in:
 >
 >Adobe Campaign Certified Professional renewal **(coming in 2024)**!
 
-**Select the correct tab below for more information about the Adobe Campaign Classic, Adobe Campaign Standard Business Practitioner and Adobe Campaign Developer renewal exams.**
-
 >[!NOTE]
 >
->IMPORTANT: You will only need to pass this one exam in order to renew all of your expert and master level Campaign Classic certifications.
+>IMPORTANT: You will only need to pass this one exam in order to renew any expert and master level Campaign Classic certifications.
 
 **Exam details - Adobe Campaign Classic renewal**
   
