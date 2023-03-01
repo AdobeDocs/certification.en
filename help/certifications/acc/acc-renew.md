@@ -31,7 +31,7 @@ If you are currently certified (not expired) in:
 >
 >Adobe Campaign Certified Professional renewal **(coming in 2024)**!
 
-**Select the tab below that aligns with your certification to find out more information for the renewal exam.**
+**Select the correct tab below for more information about the Adobe Campaign Classic, Adobe Campaign Standard Business Practitioner and Adobe Campaign Developer renewal exams.**
 
 >[!BEGINTABS]
 
