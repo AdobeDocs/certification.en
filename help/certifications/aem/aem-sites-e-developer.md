@@ -146,22 +146,32 @@ You are not required to complete training before taking the exam, and training a
 * [AEM 6.5 Administering User Guide](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html?lang=en){target="_blank"}
 * [AEM 6.5 Deploying User Guide](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html?lang=en){target="_blank"}
 
-## Take a practice test
-
-We are excited to offer free practice tests and provide a detailed coaching report upon completion of each one. You will have unlimited access to all available practice tests for Adobe's expert-level exams. Our practice tests are developed from the same blueprints as the live exams, so they can help you gauge how you are doing in each topic area. However, taking a practice test does not guarantee that you will pass the certification exam.
-
-Go to the [Adobe Credential Managment System](http://www.certmetrics.com/adobe/){target="_blank"} to launch a practice test.
-
 >[!NOTE]
 >
->Go to the scheduling page > practice tests > Adobe Certification Prep Portal > click on launch Adobe Exam Prep Portal (on the far-right side).
+>IMPORTANT NOTE: The following sections and links will **only** function after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
 
+
+**Now that you have successfully logged in the following links will be directly accessible.**
+
+## Take a practice test
+
+We recommend taking the free practice test before you start. You'll have unrestricted access to all available practice tests for Adobe's expert-level exams.
+
+Our practice tests are all developed from the same blueprint as the live exams. The practice test will help you understand the topics covered in the live exam.
+
+Please remember that passing a practice test does not guarantee you will pass the certification exam.
+
+Go to the [Adobe Certification Exam Prep Portal](https://www.certmetrics.com/adobe/candidate/gmetrix_sso.aspx){target="_blank"} now to take a practice test.
 
 ## Get certified
 
-To schedule your exam you will click on "schedule" below. This will redirect you to the Adobe Credential Management system where you will click scheduling>then search for this exam to schedule.
+To schedule / reschedule / cancel 
 
-* [Schedule AD0-E134](https://learning.adobe.com/api.certify.json){target="_blank"}
+| Delivery vendors | schedule/reschedule/cancel |
+| ------- | ------- |
+| PSI | [AD0-E134 proctored online exam (test center, online)](https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&ec=AD0-E134){target="_blank"} |
+Examity | [AD0-E134 proctored online exam (online)](https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E134){target="_blank"}
+
 
 ## Questions
 
