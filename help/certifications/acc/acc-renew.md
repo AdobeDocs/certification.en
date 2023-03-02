@@ -122,7 +122,7 @@ Here are some suggested resources to help you prepare:
 >
 >IMPORTANT NOTE: The following sections and links will only function after a successful login to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}.
 
-**Now that you have successfully logged in, the following links will be directly accessible.**
+**Now that you have successfully logged in, the following link will be directly accessible.**
 
 ## Renew your certification
 
