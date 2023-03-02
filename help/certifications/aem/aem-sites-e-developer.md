@@ -7,9 +7,9 @@ badge: label="Exam ADO-E134" type="positive"
 ---
 # Certification journey - Adobe Experience Manager Sites Developer expert
 
-Exam ID: AD0-E134
-
 ![Certification Expert Badge](/help/certifications/assets/expert-badge-Xsmall.png)
+
+Exam ID: AD0-E134
 
 ## Start your journey toward certification
 
