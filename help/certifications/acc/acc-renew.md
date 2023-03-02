@@ -118,11 +118,15 @@ Here are some suggested resources to help you prepare:
 
 * [Add resources](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=en){target="_blank"}
 
+>[!NOTE]
+>
+>IMPORTANT NOTE: The following sections and links will only function after a successful login to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}.
+
+**Now that you have successfully logged in, the following links will be directly accessible.**
+
 ## Renew your certification
 
-To renew your exam click on the "Campaign Classic renewal - AD5-823" link below. This will redirect you to the Adobe Credential Management system where you will click "renew your certification" tab on the right side of the screen > then search for Adobe Campaign to see the link to the renewal exam.
-
-* [Campaign Classic renewal - AD5-823](https://learning.adobe.com/api.certify.json){target="_blank"}
+[Take the Campaign Classic renewal exam now - AD5-823](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=AD5-E823){target="_blank"}
 
 >[!NOTE]
 >
