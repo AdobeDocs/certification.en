@@ -67,7 +67,9 @@ Exam ID: AD0-E134
 
 ```
 
-## Get ready
+>[!BEGINTABS]
+
+>[!TAB Get ready]
 
 **AD0-E134 Adobe Experience Manager Sites Developer**
 
@@ -106,7 +108,7 @@ Section 4: Environment maintenance (22%)
 
 Complete the [online readiness questionnaire](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-9ts38u/ad-q-e116-readiness-questionnaire-for-adobe-aem-developer-expert-exam){target="_blank"} to see if your current experience matches the recommended minimum candidate qualification.
 
-## Get prepped
+>[!TAB Get prepped]
 
 You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
 
@@ -146,6 +148,8 @@ You are not required to complete training before taking the exam, and training a
 * [AEM 6.5 Administering User Guide](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html?lang=en){target="_blank"}
 * [AEM 6.5 Deploying User Guide](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html?lang=en){target="_blank"}
 
+>[!TAB Get certified]
+
 >[!NOTE]
 >
 >IMPORTANT NOTE: The following sections and links will **only** function after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
@@ -163,12 +167,16 @@ Please remember that passing a practice test does not guarantee you will pass th
 
 Go to the [Adobe Certification Exam Prep Portal](https://www.certmetrics.com/adobe/candidate/gmetrix_sso.aspx){target="_blank"} now to take a practice test.
 
-## Get certified
+## Take the certification exam
 
-| Delivery vendors | schedule/reschedule/cancel |
-| ------- | ------- |
-| PSI | [AD0-E134 proctored online exam (test center, online)](https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&ec=AD0-E134){target="_blank"} |
-Examity | [AD0-E134 proctored online exam (online)](https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E134){target="_blank"}
+Adobe uses two vendors to administer proctored exams: PSI and Examity. PSI offers two options for taking exams: test center and remote online, while Examity only offers the remote online option.
+To schedule, reschedule, or cancel your exam, simply click on the vendor of choice, and follow the instructions provided on screen. It's that simple!
+
+Exam number: AD0-E134
+* [PSI](https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&ec=AD0-E134){target="_blank"} (Modality: Test Center, remote online)
+* [Examity](https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E134){target="_blank"} (Modality: Remote online)
+
+>[!ENDTABS]
 
 ## Questions
 
