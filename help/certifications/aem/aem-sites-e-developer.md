@@ -11,11 +11,10 @@ badge: label="Exam ADO-E134" type="positive"
 
 **Start your journey toward certification**
 
-Purchase your exam voucher at Adobe Certification Voucher Center. If you have a discount, it will apply at checkout. Apply the voucher code when you schedule your exam.
+>[!NOTE]
+>
+>Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
 
-If an exam is marked as retiring you will see a note at the top of this page. This indicates that you can still take it until the date specified in the note. 
-
-Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
 
 If you have:
 
@@ -36,6 +35,13 @@ Additionally, you're familiar with the following technologies and environments:
 * Development and packaging tools
 * Command line tools
 
+
+**Intended audience:** 
+
+* AEM Developers
+* AEM Senior Developers
+* AEM Lead Developers
+
 **Exam details**
   
 ```
@@ -49,14 +55,6 @@ Cost: $225 (global) and $150 (India)
 Exam ID: AD0-E134
 
 ```
-
-
-**Intended audience:** 
-
-* AEM Developers
-* AEM Senior Developers
-* AEM Lead Developers
-
 
 >[!BEGINTABS]
 
@@ -168,6 +166,8 @@ Exam number: AD0-E134
 * [Examity](https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E134){target="_blank"} (Modality: Remote online)
 
 >[!ENDTABS]
+
+Purchase your exam voucher at Adobe Certification Voucher Center. If you have a discount, it will apply at checkout. Apply the voucher code when you schedule your exam.
 
 **Questions**
 
