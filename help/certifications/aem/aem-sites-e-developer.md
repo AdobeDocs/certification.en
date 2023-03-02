@@ -11,11 +11,7 @@ Exam ID: AD0-E134
 
 ![Certification Expert Badge](/help/certifications/assets/expert-badge-small.png)
 
->[!NOTE]
->
->You are viewing the **newest version** of this certification exam. AD0-E116 Adobe Experience Manager Sites Developer expert is the previous version and has now retired.
-
-   
+ 
 ## Start your journey toward certification
 
 Purchase your exam voucher at Adobe Certification Voucher Center. If you have a discount, it will apply at checkout. Apply the voucher code when you schedule your exam.
