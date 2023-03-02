@@ -8,7 +8,9 @@ badge: label="Expert Exam ADO-E134" type="positive"
 # Certification journey - Adobe Experience Manager Sites Developer expert
 
 Exam ID: AD0-E134
- 
+
+![Certification Expert Badge](/help/certifications/assets/expert-badge-Xsmall.png)
+
 ## Start your journey toward certification
 
 Purchase your exam voucher at Adobe Certification Voucher Center. If you have a discount, it will apply at checkout. Apply the voucher code when you schedule your exam.
