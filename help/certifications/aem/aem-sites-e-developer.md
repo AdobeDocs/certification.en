@@ -9,9 +9,7 @@ badge: label="Exam ADO-E134" type="positive"
 
 ![Certification Expert Badge](/help/certifications/assets/expert-badge-Xsmall.png)
 
-Exam ID: AD0-E134
-
-## Start your journey toward certification
+**Start your journey toward certification**
 
 Purchase your exam voucher at Adobe Certification Voucher Center. If you have a discount, it will apply at checkout. Apply the voucher code when you schedule your exam.
 
@@ -38,19 +36,11 @@ Additionally, you're familiar with the following technologies and environments:
 * Development and packaging tools
 * Command line tools
 
-## Exam details 
-
-**Level of experience**: 1-3 years
-
-**Intended audience:** 
-
-* AEM Developers
-* AEM Senior Developers
-* AEM Lead Developers
-
+**Exam details**
   
 ```
 
+Level: Expert (1-3 years experience)
 Passing Score: 26/50
 Time: 100 mins
 Delivery: Online proctored (requires camera access) or test center proctored
@@ -59,6 +49,14 @@ Cost: $225 (global) and $150 (India)
 Exam ID: AD0-E134
 
 ```
+
+
+**Intended audience:** 
+
+* AEM Developers
+* AEM Senior Developers
+* AEM Lead Developers
+
 
 >[!BEGINTABS]
 
@@ -171,7 +169,7 @@ Exam number: AD0-E134
 
 >[!ENDTABS]
 
-## Questions
+**Questions**
 
 Have a question about Adobe Certification? Please email `certif@adobe.com`.
 
