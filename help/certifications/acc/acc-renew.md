@@ -5,7 +5,7 @@ solution: Campaign Classic
 role: Developer
 badge: label="Campaign Renewal" type="positive"
 ---
-# Certification journey - Adobe Campaign renewal
+# Certification journey - Adobe Campaign Classic renewal
 
 ## Start your journey toward renewing your certification
 
