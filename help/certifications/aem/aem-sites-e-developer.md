@@ -62,6 +62,10 @@ Exam ID: AD0-E134
 
 **AD0-E134 Adobe Experience Manager Sites Developer**
 
+**Readiness self-assessment**
+
+Complete the [online readiness questionnaire](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-9ts38u/ad-q-e116-readiness-questionnaire-for-adobe-aem-developer-expert-exam){target="_blank"} to see if your current experience matches the recommended minimum candidate qualification.
+
 **Exam objectives and scope**
 
 Section 1: Configurations (22%)
@@ -92,10 +96,6 @@ Section 4: Environment maintenance (22%)
 * Explain the setup steps around release management
 * Recommend and implement solutions to sync content/configurations across AEM environments
 * Determine the steps required around planning and implementing AEM upgrades and repository migration activities/tasks
-
-**Readiness self-assessment**
-
-Complete the [online readiness questionnaire](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-9ts38u/ad-q-e116-readiness-questionnaire-for-adobe-aem-developer-expert-exam){target="_blank"} to see if your current experience matches the recommended minimum candidate qualification.
 
 >[!TAB Get prepped]
 
