@@ -162,6 +162,7 @@ Adobe uses two vendors to administer proctored exams: PSI and Examity. PSI offer
 To schedule, reschedule, or cancel your exam, simply click on the vendor of choice, and follow the instructions provided on screen. It's that simple!
 
 Exam number: AD0-E134
+
 * [PSI](https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&ec=AD0-E134){target="_blank"} (Modality: Test Center, remote online)
 * [Examity](https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E134){target="_blank"} (Modality: Remote online)
 
@@ -171,6 +172,6 @@ Purchase your exam voucher at Adobe Certification Voucher Center. If you have a 
 
 **Questions**
 
-Have a question about Adobe Certification? Please email `certif@adobe.com`.
-
 View the certification [FAQs](https://solutionpartners.adobe.com/solution-partners/training_and_certification/certification/certification_faq.html#){target="_blank"}.
+
+Additional questions? Please email `certif@adobe.com`.
