@@ -130,7 +130,7 @@ Here are some suggested resources to help you prepare:
 
 >[!NOTE]
 >
->This exam is free, open book, and unproctored. You may take the exam up to three times. If you fail to receive 75% after three attempts, you must wait **30 days** to try again. Failure to comply might result in your certification being revoked.
+>This exam is free, open book, and unproctored. You may take the exam up to three times. If you are unsuccessful after the third attempt, you must wait **30 days** to try again. Failure to comply might result in your certification being revoked.
 
 ## Questions
 
