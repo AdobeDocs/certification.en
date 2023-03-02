@@ -97,7 +97,7 @@ Section 4: Environment maintenance (22%)
 * Recommend and implement solutions to sync content/configurations across AEM environments
 * Determine the steps required around planning and implementing AEM upgrades and repository migration activities/tasks
 
-## Readiness self-assessment
+**Readiness self-assessment**
 
 Complete the [online readiness questionnaire](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-9ts38u/ad-q-e116-readiness-questionnaire-for-adobe-aem-developer-expert-exam){target="_blank"} to see if your current experience matches the recommended minimum candidate qualification.
 
@@ -150,7 +150,7 @@ You are not required to complete training before taking the exam, and training a
 
 **Now that you have successfully logged in, the following links will be directly accessible.**
 
-## Take a practice test
+**Take a practice test**
 
 We recommend taking the free practice test before you start. You'll have unrestricted access to all available practice tests for Adobe's expert-level exams.
 
@@ -160,7 +160,7 @@ Please remember that passing a practice test does not guarantee you will pass th
 
 Go to the [Adobe Certification Exam Prep Portal](https://www.certmetrics.com/adobe/candidate/gmetrix_sso.aspx){target="_blank"} now to take a practice test.
 
-## Take the certification exam
+**Take the certification exam**
 
 Adobe uses two vendors to administer proctored exams: PSI and Examity. PSI offers two options for taking exams: test center and remote online, while Examity only offers the remote online option.
 To schedule, reschedule, or cancel your exam, simply click on the vendor of choice, and follow the instructions provided on screen. It's that simple!
