@@ -166,9 +166,11 @@ Exam number: AD0-E134
 * [PSI](https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&ec=AD0-E134){target="_blank"} (Modality: Test Center, remote online)
 * [Examity](https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E134){target="_blank"} (Modality: Remote online)
 
->[!ENDTABS]
+Purchase your exam voucher at [Adobe Certification Voucher Center](https://market.xvoucher.com/adobe/global){target="_blank"}. 
 
-Purchase your exam voucher at Adobe Certification Voucher Center. If you have a discount, it will apply at checkout. Apply the voucher code when you schedule your exam.
+Apply the voucher code when you schedule your exam. If you have a discount, it will apply at checkout.
+
+>[!ENDTABS]
 
 **Questions**
 
