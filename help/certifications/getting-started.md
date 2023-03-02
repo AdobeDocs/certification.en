@@ -7,7 +7,7 @@ description: Get started with technical certifications
 
 As you gain more experience, you can grow your career. 
 
-
+Add this information as well [What is the Adobe Experience Cloud](https://business.adobe.com/products/adobe-experience-cloud-products.html){target="_blank"} 
 
 <p align="center">
 <table>
