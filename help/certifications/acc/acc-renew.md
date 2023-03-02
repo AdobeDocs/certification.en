@@ -31,7 +31,7 @@ If you are currently certified (not expired) in:
 >Adobe Campaign Certified Professional renewal **(coming in 2024)**!
 
 
-**Exam details - Adobe Campaign Classic renewal**
+**Exam details - Adobe Campaign Classic renewal for Business Practitioner, Developer and Architect**
   
 ```
 
@@ -47,7 +47,7 @@ Exam ID: AD5-E823
 
 ## Get ready
 
-**AD5-E823 Adobe Campaign Classic renewal**
+**AD5-E823 Adobe Campaign Classic renewal for Business Practitioner, Developer and Architect**
 
 **Scope and objectives**
 
@@ -98,7 +98,7 @@ You are not required to complete training before taking the exam, and training a
 
 Here are some suggested resources to help you prepare:
 
-**AD5-E823 Adobe Campaign Classic renewal**
+**AD5-E823 Adobe Campaign Classic renewal for Business Practitioner, Developer and Architect**
 
 **Section 1: Installation and system configuration**
 
@@ -126,7 +126,7 @@ Here are some suggested resources to help you prepare:
 
 This exam is free, open book, and unproctored. You may take the exam up to three times. If you are unsuccessful after the third attempt, you must wait **30 days** to try again. Failure to comply might result in your certification being revoked.
 
-[Take the Campaign Classic renewal exam now - AD5-823](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=AD5-E823){target="_blank"}
+[Take the Adobe Campaign Classic renewal for Business Practitioner, Developer and Architect exam now - AD5-823](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=AD5-E823){target="_blank"}
 
 ## Questions
 
