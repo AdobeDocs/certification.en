@@ -46,8 +46,6 @@ Additionally, you're familiar with the following technologies and environments:
 * General understanding of the Web
 * Responsive web design concepts
 
-...this is the certification for YOU!
-
 ![Certification Expert Badge](/help/certifications/assets/expert-badge-small.png)
 
 **Level of experience**: 1-3 years

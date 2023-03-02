@@ -39,8 +39,6 @@ Additionally, you're familiar with the following technologies and environments:
 * Development and packaging tools
 * Command line tools
 
-...this is the certification for YOU!
-
 ## Exam details 
 
 **Level of experience**: 1-3 years
