@@ -9,6 +9,7 @@ badge: label="Exam ADO-E134" type="positive"
 
 Exam ID: AD0-E134
 
+![Certification Expert Badge](/help/certifications/assets/expert-badge-small.png)
 
 >[!NOTE]
 >
@@ -44,7 +45,7 @@ Additionally, you're familiar with the following technologies and environments:
 
 ...this is the certification for YOU!
 
-![Certification Expert Badge](/help/certifications/assets/expert-badge-small.png)
+## Exam details 
 
 **Level of experience**: 1-3 years
 
@@ -54,7 +55,6 @@ Additionally, you're familiar with the following technologies and environments:
 * AEM Senior Developers
 * AEM Lead Developers
 
-**Exam details - Adobe Experience Manager Sites Developer**
   
 ```
 
