@@ -25,13 +25,11 @@ If you are currently certified (not expired) in:
 
 ![Certification Expert Badge](/help/certifications/assets/expert-badge-small.png) ![Certification Master Badge](/help/certifications/assets/master-badge-small.png)
 
+
 >[!NOTE]
 >
 >Adobe Campaign Certified Professional renewal **(coming in 2024)**!
 
->[!NOTE]
->
->IMPORTANT: You will only need to pass this one exam in order to renew any expert and master level Campaign Classic certifications.
 
 **Exam details - Adobe Campaign Classic renewal**
   
