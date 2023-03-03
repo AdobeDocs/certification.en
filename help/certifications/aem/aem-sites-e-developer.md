@@ -13,7 +13,6 @@ badge: label="Exam ADO-E134" type="positive"
 >
 >Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
 
-
 You should have:
 
 * A minimum of 12 months experience working with the AEM Platform
