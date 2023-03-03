@@ -42,7 +42,7 @@ Additionally, you're familiar with the following technologies and environments:
 * AEM Senior Developers
 * AEM Lead Developers
 
-**Exam details**
+**Exam details:**
   
 ```
 
