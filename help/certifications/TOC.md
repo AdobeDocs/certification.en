@@ -2,7 +2,6 @@
 user-guide-title: Certification
 breadcrumb-title: Certification
 user-guide-description: Certification
-mini-toc-levels: 1
 ---
 
 # Certification {#certification}
