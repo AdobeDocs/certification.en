@@ -11,6 +11,7 @@ user-guide-description: Certification
 + [How to get certified](get-badge.md)
 + [Renew your certification](renew.md)
 + [Restart program](restart-program.md)
++ [My profile](my-profile.md)
 + Technical certifications {#technical-certifications}
   + Adobe Advertising {#aac}
     + Professional {#aac-professional}
