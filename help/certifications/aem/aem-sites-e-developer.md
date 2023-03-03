@@ -16,12 +16,12 @@ badge: label="Exam ADO-E134" type="positive"
 >Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
 
 
-If you have:
+You should have:
 
 * A minimum of 12 months experience working with the AEM Platform
 * The ability to perform advanced component development
 * A deep understanding of the Model View Controller (MVC) framework
-* The knowledgge of frameworks and libraries in AEM
+* The knowledge of frameworks and libraries in AEM
 * An understanding of the AEM development life cycle
 
 Additionally, you're familiar with the following technologies and environments:
@@ -51,7 +51,7 @@ Passing Score: 26/50
 Time: 100 mins
 Delivery: Online proctored (requires camera access) or test center proctored
 Available languages: English
-Cost: $225 (global) and $150 (India)
+Cost: $225 (global) / $150 (India)
 Exam ID: AD0-E134
 
 ```
