@@ -11,7 +11,7 @@ badge: label="Exam ADO-E207" type="positive"
 >
 >Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
 
-![Certification Master Badge](/help/certifications/assets/master-badge-xsmall.png)
+![Certification Master Badge](/help/certifications/assets/master-badge-Xsmall.png)
 
 You should have a minimum 3-4 years of experience designing Adobe Analytics architecture, data layer specifications, and tag management, as well as a basic understanding of JavaScript code. 
 
