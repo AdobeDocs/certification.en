@@ -56,7 +56,7 @@ Additionally, you're familiar with the following technologies and environments:
 * UI analysts
 * Conversion / optimization specialists
 
-**Exam details**
+**Exam details:**
   
 ```
 
