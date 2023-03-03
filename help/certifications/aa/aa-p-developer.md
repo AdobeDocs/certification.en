@@ -5,46 +5,34 @@ solution: Analytics
 role: Developer
 badge: label="Exam ADO-E213" type="positive"
 ---
-# Certification journey - Adobe Analytics Developer professional
-
-Exam ID: AD0-E213
+# Certification journey for Adobe Analytics Developer professional
     
-## Start your journey toward certification
+![Certification professional Badge](/help/certifications/assets/professional-badge-Xsmall.png)
 
-Purchase your exam voucher at Adobe Certification Voucher Center. If you have a discount, it will apply at checkout. Apply the voucher code when you schedule your exam.
+>[!NOTE]
+>
+>Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
 
-If an exam is marked as retiring you will see a note at the top of this page. This indicates that you can still take it until the date specified in the note. 
 
-Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
+You should have:
 
-If you:
+* 6-12 months' experience in Adobe Analytics implementation (web and mobile app)
+* Experience acting as a player supporting Analytics Implementation teams in bridging between IT and the business to understand how business requirements translate into a technical solution (SDR), and based on requirements provided by the analyst
+* Understaning of which type of variable is needed, where and how to collect the data, design the data model (data layer), configure, and maintain the tag management solution
 
-* Have 6-12 months' experience in Adobe Analytics implementation (web and mobile app)
-* Act as a player supporting Analytics Implementation teams in bridging between IT and the business to understand how business requirements translate into a technical solution (SDR), and based on requirements provided by the analyst
-* Understand which type of variable is needed, where and how to collect the data, design the data model (data layer), configure, and maintain the tag management solution
+Experience with the following tasks:
 
-I you're able to complete the following tasks:
-
-* Interpret a Solutions Design Document (SDR) and understand the purpose of all Adobe Analytics variables collected
-* Understand and work with Adobe (Experience Platform) Launch
-* Understand configuration of baseline Adobe Analytics dimensions and events (Page Name, Link Name, Activity Map, etc., but will work with expert developers for more customer implementations - Variable mapping is still owned by Expert level developers
-* Create and configure rules within Launch following the design provided by an AA expert
-* Test and validate the data being captured in variable and events firing by leveraging web console debuggers or mobile app systems like charles logs
-* Understand what a data layer is and knows how to read a JavaScript object
-* Share reports, segments, and the process to request access, but not how to manage user groups, governance protocols, as well as manage the SDR
-* Provide guidance and configure mobile/SDK solution
-* Understand general framework behind Video tracking (event-based) given knowledge base documentation
-* Perform basic reporting from Analysis Workspace and understanding the data outputs available from the Adobe Analytics Data Warehouse
-
-And, if you have an understandiing and basic experience with the following:
-
-* Adobe Experience Platform Launch (Adobe Launch)
-
-...this is the certification for YOU!
-
-![Certification professional Badge](/help/certifications/assets/professional-badge-small.png)
-
-**Level of experience**: 0-12 months
+* Interpreting a Solutions Design Document (SDR) and understand the purpose of all Adobe Analytics variables collected
+* Understanding and work with Adobe (Experience Platform) Launch
+* Understanding configuration of baseline Adobe Analytics dimensions and events Page Name, Link Name, Activity Map, etc., but will work with expert developers for more customer implementations - Variable mapping is still owned by Expert level developers
+* Creating and configuring rules within Launch following the design provided by an AA expert
+* Testing and validating the data being captured in variable and events firing by leveraging web console debuggers or mobile app systems like charles logs
+* Understanding what a data layer is and knows how to read a JavaScript object
+* Sharing reports, segments, and the process to request access, but not how to manage user groups, governance protocols, as well as manage the SDR
+* Providing guidance and configure mobile/SDK solution
+* Understanding general framework behind Video tracking (event-based) given knowledge base documentation
+* Performing basic reporting from Analysis Workspace and understanding the data outputs available from the Adobe Analytics Data Warehouse
+* Basic experience with Adobe Experience Platform Launch (Adobe Launch) 
 
 **Intended audience:** 
 
@@ -52,10 +40,10 @@ And, if you have an understandiing and basic experience with the following:
 * Developers
 * Architects
 
-**Exam details - Adobe Analytics Developer**
+**Exam details:**
   
 ```
-
+Level: Professional (0-12 months experience)
 Passing Score: 31/50
 Time: 100 mins
 Delivery: Online proctored (requires camera access)
@@ -65,7 +53,9 @@ Exam ID: AD0-E213
 
 ```
 
-## Get ready
+>[!BEGINTABS]
+
+>[!TAB Get ready]
 
 **AD0-E213 Adobe Analytics Developer**
 
@@ -96,7 +86,7 @@ Section 4: Tag management systems (18%)
 * Identify if requirements have been met using tag audits
 * Identify the steps to configure website tagging with Adobe Launch
 * Given a scenario, identify how to enable, modify, and troubleshoot extensions in Adobe Launch
-Identify how to create rules and data elements
+* Identify how to create rules and data elements
 
 Section 5: Mobile services and API (8%)
 
@@ -110,9 +100,17 @@ Section 6: Testing, validation, and troubleshooting (18%)
 * Given a scenario, identify testing and debugging validation best practices that should be followed
 * Identify how to track an Adobe Analytics server call across its lifecycle (i.e. from beacon request to showing up in the report)
 
-## Get prepped
+>[!TAB Get prepped]
 
 You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
+
+Here are some suggested resources to help you prepare:
+
+**Sample questions**
+
+The sample questions allow you to see the type and format of items that you will encounter in the actual exam. There is no sign-on needed. The results of the sample questions are not stored, and do not predict your actual test results.
+
+[See sample questions](https://scorpion.caveon.com/launchpad/ad3-e213-adobe-analytics-developer-professional-sample-questions){target="_blank"}
 
 **AD0-E213 Adobe Analytics Developer**
 
@@ -161,30 +159,33 @@ You are not required to complete training before taking the exam, and training a
 * [Analytics Tech Notes](https://experienceleague.adobe.com/docs/analytics/technotes/home.html?lang=en){target="_blank"}
 * [Implement Adobe Analytics](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=en){target="_blank"}
 
+>[!TAB Get certified]
 
-## Sample questions
-
-The sample questions allow you to see the type and format of items that you will encounter in the actual exam. There is no sign-on needed. The results of the sample questions are not stored, and do not predict your actual test results.
-
-[See sample questions](https://scorpion.caveon.com/launchpad/ad3-e213-adobe-analytics-developer-professional-sample-questions){target="_blank"}
-
-* Provide your email address.
-* Answer the candidate agreement.
-* Start the test.
-* Mark your answer in each question.
-* Click Next on the upper portion of the screen to save your answer and move to the next question. You may return and revise your question within the specified time.
-* On the last question, click Submit Exam to submit all your answers.
-* Answer the short survey.
+>[!NOTE]
+>
+>IMPORTANT NOTE: The following sections and links will **only** function after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
 
 
-## Get certified
+**Now that you have successfully logged in, the following links will be directly accessible.**
 
-To schedule your exam you will click on "schedule" below. This will redirect you to the Adobe Credential Management system where you will click scheduling>then search for this exam to schedule.
+**Take the certification exam**
 
-* [Schedule AD0-E213](https://learning.adobe.com/api.certify.json){target="_blank"}
+Adobe uses two vendors to administer proctored exams: PSI and Examity. PSI offers two options for taking exams: test center and remote online, while Examity only offers the remote online option.
+To schedule, reschedule, or cancel your exam, simply click on the vendor of choice, and follow the instructions provided on screen. It's that simple!
 
-## Questions
+Exam number: AD0-E213
 
-Have a question about Adobe Certification? Please email `certif@adobe.com`.
+* [PSI](https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&ec=AD0-E213){target="_blank"} (Modality: Test Center, remote online)
+* [Examity](https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E213){target="_blank"} (Modality: Remote online)
+
+Purchase your exam voucher at [Adobe Certification Voucher Center](https://market.xvoucher.com/adobe/global){target="_blank"}. 
+
+Apply the voucher code when you schedule your exam. If you have a discount, it will apply at checkout.
+
+>[!ENDTABS]
+
+**Questions**
 
 View the certification [FAQs](https://solutionpartners.adobe.com/solution-partners/training_and_certification/certification/certification_faq.html#){target="_blank"}.
+
+Additional questions? Please email `certif@adobe.com`.

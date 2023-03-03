@@ -95,7 +95,7 @@ You are not required to complete training before taking the exam, and training a
 
 Here are some suggested resources to help you prepare:
 
-## Sample questions
+**Sample questions**
 
 The sample questions allow you to see the type and format of items that you will encounter in the actual exam. There is no sign-on needed. The results of the sample questions are not stored, and do not predict your actual test results.
 
@@ -120,12 +120,12 @@ The sample questions allow you to see the type and format of items that you will
 
 **Section 3: Segmentation and calculated metrics**
 
-* [Analytics Components Guide](https://experienceleague.adobe.com/docs/analytics/components/home.html?lang=en)){target="_blank"}
+* [Analytics Components Guide](https://experienceleague.adobe.com/docs/analytics/components/home.html?lang=en){target="_blank"}
 
 **Section 4: General tool knowledge and troubleshooting**
 
-* [Implement Adobe Analytics](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=en)){target="_blank"}
-* [Analytics Components Guide](https://experienceleague.adobe.com/docs/analytics/components/home.html?lang=en)){target="_blank"}
+* [Implement Adobe Analytics](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=en){target="_blank"}
+* [Analytics Components Guide](https://experienceleague.adobe.com/docs/analytics/components/home.html?lang=en){target="_blank"}
 
 >[!TAB Get certified]
 
@@ -135,16 +135,6 @@ The sample questions allow you to see the type and format of items that you will
 
 
 **Now that you have successfully logged in, the following links will be directly accessible.**
-
-**Take a practice test**
-
-We recommend taking the free practice test before you start. You'll have unrestricted access to all available practice tests for Adobe's expert-level exams.
-
-Our practice tests are all developed from the same blueprint as the live exams. The practice test will help you understand the topics covered in the live exam.
-
-Please remember that passing a practice test does not guarantee you will pass the certification exam.
-
-Go to the [Adobe Certification Exam Prep Portal](https://www.certmetrics.com/adobe/candidate/gmetrix_sso.aspx){target="_blank"} now to take a practice test.
 
 **Take the certification exam**
 
