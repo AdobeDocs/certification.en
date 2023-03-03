@@ -5,19 +5,15 @@ solution: Analytics
 role: Developer
 badge: label="Exam ADO-E207" type="positive"
 ---
-# Certification journey - Adobe Analytics Architect master
+# Certification journey for Adobe Analytics Architect master
 
-Exam ID: AD0-E207
+>[!NOTE]
+>
+>Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
 
-## Start your journey toward certification
+![Certification Master Badge](/help/certifications/assets/master-badge-Xsmall.png)
 
-Purchase your exam voucher at Adobe Certification Voucher Center. If you have a discount, it will apply at checkout. Apply the voucher code when you schedule your exam.
-
-If an exam is marked as retiring you will see a note at the top of this page. This indicates that you can still take it until the date specified in the note. 
-
-Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
-
-If you have a minimum 3-4 years of experience designing Adobe Analytics architecture, data layer specifications, and tag management, as well as a basic understanding of JavaScript code. 
+You should have a minimum 3-4 years of experience designing Adobe Analytics architecture, data layer specifications, and tag management, as well as a basic understanding of JavaScript code. 
 
 Additionally, you're responsible for translating business requirements into tracking specifications and Adobe Analytics variables, and you're familiar with the following technologies and environments:
 
@@ -29,12 +25,6 @@ Additionally, you're responsible for translating business requirements into trac
 * Optimization tools
 * Code editors
 
-...this is the certification for YOU!
-
-![Certification Master Badge](/help/certifications/assets/master-badge-small.png)
-
-**Level of experience:** 3-5 years
-
 **Intended audience:**
 
 * Solutions Architect
@@ -44,9 +34,10 @@ Additionally, you're responsible for translating business requirements into trac
 * Analytics Strategist
 * Multi Solutions Engineer
 
-**Exam details - Adobe Commerce Architect**
+**Exam details:**
 
 ```
+Level: Expert (1-3 years experience)
 Passing Score: 33/50
 Time: 100 mins
 Delivery: Online proctored (requires camera access) or test center proctored
@@ -56,9 +47,11 @@ Exam ID: AD0-E207
 
 ```
 
-## Get ready
+>[!BEGINTABS]
 
-**AD0-E207 Adobe Analytics Architect**
+>[!TAB Get ready]
+
+**AD0-E207 Adobe Analytics architect**
 
 **Exam objectives and scope**
 
@@ -68,7 +61,7 @@ Section 1: Discovery (18%)
 * Investigate client needs to build business requirements
 * Given a scenario, create measurement framework
 
-Section 2: Solution Design 26%)
+Section 2: Solution design (26%)
 
 * Translate business requirements into variables and metrics
 * Demonstrate ability to manage report suites settings
@@ -77,7 +70,7 @@ Section 2: Solution Design 26%)
 * Write technical specifications for site developers
 * Create Experience Cloud users/groups
 
-Section 3: Post Implementation (28%)
+Section 3: Post implementation (28%)
 
 * Given a set of requirements, validate tracking through browser developer tools and Adobe reports
 * Apply procedural concepts to manage data extraction and relationships
@@ -85,11 +78,17 @@ Section 3: Post Implementation (28%)
 * Given a scenario, manage data sources and connectors
 * Configure necessary segments and calculated metrics to answer business requirements
 
-## Get prepped
+>[!TAB Get prepped]
 
 You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
 
 Here are some suggested resources to help you prepare:
+
+## Sample questions
+
+The sample questions allow you to see the type and format of items that you will encounter in the actual exam. There is no sign-on needed. The results of the sample questions are not stored, and do not predict your actual test results.
+
+[See sample questions](https://scorpion.caveon.com/launchpad/ad0-e207-adobe-analytics-architect-master-copy-y9f8t1){target="_blank"}
 
 **AD0-E207 Adobe Analytics Architect**
 
@@ -128,28 +127,43 @@ Here are some suggested resources to help you prepare:
 * [Data Insertion Process](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/data-insertion-api/overview/c_data_insertion_process.md){target="_blank"}
 * [Implement the Experience Cloud in Websites with Tags Tutorial](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/overview.html?lang=en){target="_blank"}
 
-## Sample questions
+>[!TAB Get certified]
 
-The sample questions allow you to see the type and format of items that you will encounter in the actual exam. There is no sign-on needed. The results of the sample questions are not stored, and do not predict your actual test results.
+>[!NOTE]
+>
+>IMPORTANT NOTE: The following sections and links will **only** function after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
 
-[See sample questions](https://scorpion.caveon.com/launchpad/ad0-e207-adobe-analytics-architect-master-copy-y9f8t1){target="_blank"}
 
-* Provide your email address.
-* Answer the candidate agreement.
-* Start the test.
-* Mark your answer in each question.
-* Click Next on the upper portion of the screen to save your answer and move to the next question. You may return and revise your question within the specified time.
-* On the last question, click Submit Exam to submit all your answers.
-* Answer the short survey.
+**Now that you have successfully logged in, the following links will be directly accessible.**
 
-## Get certified
+**Take a practice test**
 
-To schedule your exam you will click on "schedule" below. This will redirect you to the Adobe Credential Management system where you will click scheduling>then search for this exam to schedule.
+We recommend taking the free practice test before you start. You'll have unrestricted access to all available practice tests for Adobe's expert-level exams.
 
-[Schedule AD0-E207](https://learning.adobe.com/api.certify.json){target="_blank"}
+Our practice tests are all developed from the same blueprint as the live exams. The practice test will help you understand the topics covered in the live exam.
 
-## Questions
+Please remember that passing a practice test does not guarantee you will pass the certification exam.
 
-Have a question about Adobe Certification? Please email `certif@adobe.com`.
+Go to the [Adobe Certification Exam Prep Portal](https://www.certmetrics.com/adobe/candidate/gmetrix_sso.aspx){target="_blank"} now to take a practice test.
+
+**Take the certification exam**
+
+Adobe uses two vendors to administer proctored exams: PSI and Examity. PSI offers two options for taking exams: test center and remote online, while Examity only offers the remote online option.
+To schedule, reschedule, or cancel your exam, simply click on the vendor of choice, and follow the instructions provided on screen. It's that simple!
+
+Exam number: AD0-E207
+
+* [PSI](https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&ec=AD0-E207){target="_blank"} (Modality: Test Center, remote online)
+* [Examity](https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E207){target="_blank"} (Modality: Remote online)
+
+Purchase your exam voucher at [Adobe Certification Voucher Center](https://market.xvoucher.com/adobe/global){target="_blank"}. 
+
+Apply the voucher code when you schedule your exam. If you have a discount, it will apply at checkout.
+
+>[!ENDTABS]
+
+**Questions**
 
 View the certification [FAQs](https://solutionpartners.adobe.com/solution-partners/training_and_certification/certification/certification_faq.html#){target="_blank"}.
+
+Additional questions? Please email `certif@adobe.com`
