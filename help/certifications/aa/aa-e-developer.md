@@ -7,8 +7,6 @@ badge: label="Exam ADO-E209" type="positive"
 ---
 # Certification journey - Adobe Analytics Developer expert
 
-Exam ID: AD0-E209
-
 ![Certification Expert Badge](/help/certifications/assets/expert-badge-Xsmall.png)
 
 **Start your journey toward certification**
