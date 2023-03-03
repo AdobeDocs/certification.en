@@ -160,7 +160,7 @@ Purchase your exam voucher at [Adobe Certification Voucher Center](https://marke
 
 Apply the voucher code when you schedule your exam. If you have a discount, it will apply at checkout.
 
->[!ENDTABS].
+>[!ENDTABS]
 
 **Questions**
 
