@@ -7,8 +7,6 @@ badge: label="Exam ADO-E208" type="positive"
 ---
 # Certification journey - Adobe Analytics Business Practitioner expert
 
-Exam ID: AD0-E208
-
 ![Certification Expert Badge](/help/certifications/assets/expert-badge-Xsmall.png)
     
 **Start your journey toward certification**
