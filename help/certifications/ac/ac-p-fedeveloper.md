@@ -6,21 +6,17 @@ role: Developer
 badge: label="Exam ADO-E719" type="positive"
 ---
 
-# Certification journey - Adobe Commerce Front-end Developer professional
+# Certification journey for Adobe Commerce Front-end Developer professional
 
-Exam ID: AD0-E719
+![Certification Professional Badge](/help/certifications/assets/professional-badge-Xsmall.png)
 
-## Start your journey toward certification
+>[!NOTE]
+>
+>Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
 
-Purchase your exam voucher at Adobe Certification Voucher Center. If you have a discount, it will apply at checkout. Apply the voucher code when you schedule your exam.
+You should have 0-12 months of hands-on experience with Adobe Commerce Front-end development and the ability to work with technical solutions to deliver individual components.
 
-If an exam is marked as retiring you will see a note at the top of this page. This indicates that you can still take it until the date specified in the note. 
-
-Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
-
-If you have 0-12 months of hands-on experience with Adobe Commerce Front-end development and the ability to work with technical solutions to deliver individual components.
-
-Additionally, you exhibit knowledge of the following technologies:
+Additionally, you should exhibit knowledge of the following technologies:
 
 * Strong understanding of Adobe Commerce version 2.4.3
 * Basic understanding of the front-end structure and layout
@@ -40,12 +36,6 @@ Additionally, you exhibit knowledge of the following technologies:
 * Basic understanding of out-of-the-box SEO, optimization and performance techniques
 * Basic understanding of canonical links, as well as merging JavaScript and CSS
 
-...this is the certification for YOU!
-
-![Certification Professional Badge](/help/certifications/assets/professional-badge-small.png)
-
-**Level of experience:** 0-12 months
-
 **Intended audience:**
 
 * Developer
@@ -53,19 +43,22 @@ Additionally, you exhibit knowledge of the following technologies:
 * Full Stack Developers
 * PWA Developers
 
-**Exam details - Adobe Commerce Front-end Developer**
+**Exam details:**
 
 ```
+Level: Professional (0-12 months experience)
 Passing Score: 31/50
 Time: 100 mins
 Delivery: Online proctored (requires camera access)
 Available languages: English
-Cost: $125 (global) and $95 (India)
+Cost: $125 (global) / $95 (India)
 Exam ID: AD0-E719
 
 ```
 
-## Get ready
+>[!BEGINTABS]
+
+>[!TAB Get ready]
 
 **AD0-E719 Adobe Commerce Front-end Developer**
 
@@ -88,7 +81,7 @@ Section 2: Layout XML & Templates (28%)
 Section 3: Styles (24%)
 
 * Describe the purpose of styles-m.less, styles-l.less, print.less
-* Describe the difference between specific partial files (_extends.less, _extend.less,_theme.less,_widgets.less,_module.less)
+* Describe the difference between specific partial files (_extends.less,_extend.less,_theme.less,_widgets.less,_module.less)
 * Given a scenario, demonstrate the ability to override or extend Magento LESS
 * Describe the basic concepts of LESS
 * Explain the hierarchy of styles ( lib, modules, themes)
@@ -114,11 +107,17 @@ Section 6: Tools (CLI and Grunt) (6%)
 * Describe the usage of Composer commands (install, update, require, remove)
 * Differentiate the appropriate use case for deploy modes
 
-## Get prepped
+>[!TAB Get prepped]
 
 You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
 
 Here are some suggested resources to help you prepare:
+
+**Sample questions**
+
+The sample questions allow you to see the type and format of items that you will encounter in the actual exam. There is no sign-on needed. The results of the sample questions are not stored, and do not predict your actual test results.
+
+[See sample questions](https://scorpion.caveon.com/launchpad/ad0-e719-adobe-commerce-front-end-developer-professional-copy-cmkmys){target="_blank"}
 
 **AD0-E719 Adobe Commerce Front-end Developer**
 
@@ -169,28 +168,33 @@ Here are some suggested resources to help you prepare:
 * [Overview of store options and configuration management](https://devdocs.magento.com/cloud/configure/configuration-overview.html)){target="_blank"}
 * [Overview of initialization and bootstrap](https://devdocs.magento.com/guides/v2.4/config-guide/bootstrap/magento-bootstrap.html)){target="_blank"}
 
-## Sample questions
+>[!TAB Get certified]
 
-The sample questions allow you to see the type and format of items that you will encounter in the actual exam. There is no sign-on needed. The results of the sample questions are not stored, and do not predict your actual test results.
+>[!NOTE]
+>
+>IMPORTANT NOTE: The following sections and links will **only** function after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
 
-[See sample questions](https://scorpion.caveon.com/launchpad/ad0-e719-adobe-commerce-front-end-developer-professional-copy-cmkmys){target="_blank"}
 
-* Provide your email address.
-* Answer the candidate agreement.
-* Start the test.
-* Mark your answer in each question.
-* Click Next on the upper portion of the screen to save your answer and move to the next question. You may return and revise your question within the specified time.
-* On the last question, click Submit Exam to submit all your answers.
-* Answer the short survey.
+**Now that you have successfully logged in, the following links will be directly accessible.**
 
-## Get certified
+**Take the certification exam**
 
-To schedule your exam you will click on "schedule" below. This will redirect you to the Adobe Credential Management system where you will click scheduling>then search for this exam to schedule.
+Adobe uses two vendors to administer proctored exams: PSI and Examity. PSI offers two options for taking exams: test center and remote online, while Examity only offers the remote online option.
+To schedule, reschedule, or cancel your exam, simply click on the vendor of choice, and follow the instructions provided on screen. It's that simple!
 
-[Schedule AD0-E719](https://learning.adobe.com/api.certify.json){target="_blank"}
+Exam number: AD0-E719
 
-## Questions
+* [PSI](https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&ec=AD0-E719){target="_blank"} (Modality: Test Center, remote online)
+* [Examity](https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E719){target="_blank"} (Modality: Remote online)
 
-Have a question about Adobe Certification? Please email `certif@adobe.com`.
+Purchase your exam voucher at [Adobe Certification Voucher Center](https://market.xvoucher.com/adobe/global){target="_blank"}. 
+
+Apply the voucher code when you schedule your exam. If you have a discount, it will apply at checkout.
+
+>[!ENDTABS]
+
+**Questions**
 
 View the certification [FAQs](https://solutionpartners.adobe.com/solution-partners/training_and_certification/certification/certification_faq.html#){target="_blank"}.
+
+Additional questions? Please email `certif@adobe.com`.
