@@ -5,19 +5,15 @@ solution: Experience Manager
 role: Developer
 badge: label="Exam ADO-E126" type="positive"
 ---
-# Certification journey - Adobe Experience Manager Business Practitioner professional
+# Certification journey for Adobe Experience Manager Business Practitioner professional
 
-Exam ID: AD0-E126
+![Certification Expert Badge](/help/certifications/assets/professional-badge-Xsmall.png)
 
-## Start your journey toward certification
+>[!NOTE]
+>
+>Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
 
-Purchase your exam voucher at Adobe Certification Voucher Center. If you have a discount, it will apply at checkout. Apply the voucher code when you schedule your exam.
-
-If an exam is marked as retiring you will see a note at the top of this page. This indicates that you can still take it until the date specified in the note. 
-
-Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
-
-If you have:
+You should have:
 
 * At least 12 months of experience using and configuring Adobe Cloud Manager
 * At least 12 months of experience with AEM features and capabilities needed to engage developers to find buisness solutions
@@ -25,17 +21,11 @@ If you have:
 
 If you're comfortable working in Adobe Managed Services and Adobe Experience Manager as a Cloud Service, and are able to set up Adobe Experience Manager environments and infrastructure.
 
-Additionally, you have:
+Additionally, you should have:
 
 * The ability use AEM products to manage content to drive digital experiences
 * An understanding of what modules are present
 * A deeper insight into modules such as Sites, Assets, and Forms
-
-...this is the certification for YOU!
-
-![Certification Professional Badge](/help/certifications/assets/professional-badge-small.png)
-
-**Level of experience:** 0-12 months
 
 **Intended audience:**
 
@@ -43,19 +33,22 @@ Additionally, you have:
 * Consumer experience
 * Product owner for a solution being designed and implemented, business analyst, solution architect
 
-**Exam details - Adobe Experience Manager Business Practitioner**
+**Exam details:**
 
 ```
+Level: Professional (0-12 months experience)
 Passing Score: 33/50
 Time: 110 mins
 Delivery: Online proctored (requires camera access)
 Available languages: English
-Cost: $125 (global) and $95 (India)
+Cost: $125 (global) / $95 (India)
 Exam ID: AD0-E126
 
 ```
 
-## Get ready
+>[!BEGINTABS]
+
+>[!TAB Get ready]
 
 **AD0-E126 Adobe Experience Manager Business Practitioner**
 
@@ -84,11 +77,17 @@ Section 4: Setup and implementation (13%)
 * Identify best AEM practices to use content components
 * Given a scenario, identify the correct implementation of a feature
 
-## Get prepped
+>[!TAB Get prepped]
 
 You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
 
 Here are some suggested resources to help you prepare:
+
+**Sample questions**
+
+The sample questions allow you to see the type and format of items that you will encounter in the actual exam. There is no sign-on needed. The results of the sample questions are not stored, and do not predict your actual test results.
+
+[See sample questions](https://scorpion.caveon.com/launchpad/ad0-e126-adobe-experience-manager-business-practitioner-professional-copy-ddww4w){target="_blank"}
 
 **AD0-E126 Adobe Experience Manager Business Practitioner**
 
@@ -132,28 +131,32 @@ Here are some suggested resources to help you prepare:
 * [Integrating with Adobe Target](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/sites/integrations/integrating-adobe-target.html?lang=en){target="_blank"}
 * [AEM Sites videos and tutorials](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/overview.html?lang=en){target="_blank"}
 
-## Sample questions
+>[!TAB Get certified]
 
-The sample questions allow you to see the type and format of items that you will encounter in the actual exam. There is no sign-on needed. The results of the sample questions are not stored, and do not predict your actual test results.
+>[!NOTE]
+>
+>IMPORTANT NOTE: The following sections and links will **only** function after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
 
-[See sample questions](https://scorpion.caveon.com/launchpad/ad0-e126-adobe-experience-manager-business-practitioner-professional-copy-ddww4w){target="_blank"}
 
-* Provide your email address.
-* Answer the candidate agreement.
-* Start the test.
-* Mark your answer in each question.
-* Click Next on the upper portion of the screen to save your answer and move to the next question. You may return and revise your question within the specified time.
-* On the last question, click Submit Exam to submit all your answers.
-* Answer the short survey.
+**Now that you have successfully logged in, the following links will be directly accessible.**
 
-## Get certified
+**Take the certification exam**
 
-To schedule your exam you will click on "schedule" below. This will redirect you to the Adobe Credential Management system where you will click scheduling>then search for this exam to schedule.
+Adobe uses two vendors to administer proctored exams: PSI and Examity. PSI offers two options for taking exams: test center and remote online, while Examity only offers the remote online option.
+To schedule, reschedule, or cancel your exam, simply click on the vendor of choice, and follow the instructions provided on screen. It's that simple!
 
-[Schedule AD0-E126](https://learning.adobe.com/api.certify.json){target="_blank"}
+Exam number: AD0-E126
 
-## Questions
+* [Examity](https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E126){target="_blank"} (Modality: Remote online)
 
-Have a question about Adobe Certification? Please email `certif@adobe.com`.
+Purchase your exam voucher at [Adobe Certification Voucher Center](https://market.xvoucher.com/adobe/global){target="_blank"}. 
+
+Apply the voucher code when you schedule your exam. If you have a discount, it will apply at checkout.
+
+>[!ENDTABS]
+
+**Questions**
 
 View the certification [FAQs](https://solutionpartners.adobe.com/solution-partners/training_and_certification/certification/certification_faq.html#){target="_blank"}.
+
+Additional questions? Please email `certif@adobe.com`.

@@ -5,25 +5,21 @@ solution: Experience Manager Sites
 role: Developer
 badge: label="Exam ADO-E117" type="positive"
 ---
-# Certification journey - Adobe Experience Manager Architect master
+# Certification journey for Adobe Experience Manager Architect master
 
-Exam ID: AD0-E117
+![Certification Master Badge](/help/certifications/assets/master-badge-Xsmall.png)
 
-## Start your journey toward certification
+>[!NOTE]
+>
+>Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
 
-Purchase your exam voucher at Adobe Certification Voucher Center. If you have a discount, it will apply at checkout. Apply the voucher code when you schedule your exam.
-
-If an exam is marked as retiring you will see a note at the top of this page. This indicates that you can still take it until the date specified in the note. 
-
-Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
-
-If you have:
+You should have:
 
 * At least 3 years of experience architecting AEM Sites
 * The ability to work in Adobe Managed Services and Adobe Experience Manager as a Cloud Service
 * The ability to set up Adobe Experience Manager environments and infrastructure
 
-Additionally, you have the ability to perform the following tasks:
+Additionally, you should have the ability to perform the following tasks:
 
 * Design a software change process for customers (on-prem and cloud)
 * Define a content model for content/assets that can accommodate future requirements
@@ -46,18 +42,10 @@ Additionally, you have the ability to perform the following tasks:
 * Reuse content across multiple channels
 * Account for cloud-focused considerations, such as: Auto-scaling, Replication, Asset management, the implications and differences between on-premises and managed services, Cloud Manager, Package management
 
-...this is the certification for YOU!
-
-
 >[!NOTE]
 >
 >NOTE: This exam covers AEM 6.4, 6.5, and AEM as a Cloud Service.
 
-
-![Alt text](../assets/master-badge-small.png)
-
-
-**Level of experience**: 3-5 years
 
 **Intended audience:**
 
@@ -67,22 +55,28 @@ Additionally, you have the ability to perform the following tasks:
 * Solution Architects
 * Dev/Ops Lead Engineers
 
-**Exam details - Adobe Experience Manager Architect**
+**Exam details:**
 
 ```
-
+Level: Master (3-5 years experience)
 Passing Score: 29/50
 Time: 100 mins
 Delivery: Online proctored (requires camera access) or test center proctored
 Available languages: English, Japanese
-Cost: $225 (global) and $150 (India)
+Cost: $225 (global) / $150 (India)
 Exam ID: AD0-E117
 
 ```
 
-## Get ready
+>[!BEGINTABS]
+
+>[!TAB Get ready]
 
 **AD0-E117 Adobe Experience Manager Architect**
+
+**Readiness self assessment**
+
+Complete the [online readiness questionnaire](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-ycpz52/ad-q-e117-readiness-questionnaire-for-adobe-aem-architect-master-exam){target="_blank"} to see if your current experience matches the recommended minimum candidate qualification.
 
 **Exam objectives and scope**
 
@@ -92,7 +86,7 @@ Section 1: Discovery (18%)
 * Given a scenario, assess the current state of an architecture
 * Determine non-functional technical requirements for solution design
 
-Section 2: Solution Design (44%)
+Section 2: Solution design (44%)
 
 * Given business requirements, design detailed architecture and solution
 * Given a scenario, determine appropriate security solutions for a design
@@ -114,15 +108,17 @@ Section 4: Maintenance (16%)
 * Apply procedural concepts to plan for use of new features and upgrades
 * Given a scenario, optimize solution for non-functional requirements
 
-## Readiness self assessment
-
-Complete the [online readiness questionnaire](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-ycpz52/ad-q-e117-readiness-questionnaire-for-adobe-aem-architect-master-exam){target="_blank"} to see if your current experience matches the recommended minimum candidate qualification.
-
-## Get prepped
+>[!TAB Get prepped]
 
 You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
 
 Here are some suggested resources to help you prepare:
+
+**Sample questions**
+
+The sample questions allow you to see the type and format of items that you will encounter in the actual exam. There is no sign-on needed. The results of the sample questions are not stored, and do not predict your actual test results.
+
+[See sample questions](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-ycpz52/ad-q-e117-readiness-questionnaire-for-adobe-aem-architect-master-exam){target="_blank"}
 
 **AD0-E117 Adobe Experience Manager Architect**
 
@@ -210,28 +206,33 @@ Here are some suggested resources to help you prepare:
 * [Lucene Index](https://jackrabbit.apache.org/oak/docs/query/lucene.html){target="_blank"}
 * [AEM 6.4 Developing User Guide](https://experienceleague.adobe.com/docs/experience-manager-64/developing/home.html?lang=en){target="_blank"}
 
-## Sample questions
+>[!TAB Get certified]
 
-The sample questions allow you to see the type and format of items that you will encounter in the actual exam. There is no sign-on needed. The results of the sample questions are not stored, and do not predict your actual test results.
+>[!NOTE]
+>
+>IMPORTANT NOTE: The following sections and links will **only** function after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
 
-[See sample questions](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-ycpz52/ad-q-e117-readiness-questionnaire-for-adobe-aem-architect-master-exam){target="_blank"}
 
-* Provide your email address.
-* Answer the candidate agreement.
-* Start the test.
-* Mark your answer in each question.
-* Click Next on the upper portion of the screen to save your answer and move to the next question. You may return and revise your question within the specified time.
-* On the last question, click Submit Exam to submit all your answers.
-* Answer the short survey.
+**Now that you have successfully logged in, the following links will be directly accessible.**
 
-## Get certified
+**Take the certification exam**
 
-To schedule your exam you will click on "schedule" below. This will redirect you to the Adobe Credential Management system where you will click scheduling>then search for this exam to schedule.
+Adobe uses two vendors to administer proctored exams: PSI and Examity. PSI offers two options for taking exams: test center and remote online, while Examity only offers the remote online option.
+To schedule, reschedule, or cancel your exam, simply click on the vendor of choice, and follow the instructions provided on screen. It's that simple!
 
-[Schedule AD0-E117](https://learning.adobe.com/api.certify.json){target="_blank"}
+Exam number: AD0-E117
 
-## Questions
+* [PSI](https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&ec=AD0-E117){target="_blank"} (Modality: Test Center, remote online)
+* [Examity](https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E117){target="_blank"} (Modality: Remote online)
 
-Have a question about Adobe Certification? Please email `certif@adobe.com`.
+Purchase your exam voucher at [Adobe Certification Voucher Center](https://market.xvoucher.com/adobe/global){target="_blank"}. 
+
+Apply the voucher code when you schedule your exam. If you have a discount, it will apply at checkout.
+
+>[!ENDTABS]
+
+**Questions**
 
 View the certification [FAQs](https://solutionpartners.adobe.com/solution-partners/training_and_certification/certification/certification_faq.html#){target="_blank"}.
+
+Additional questions? Please email `certif@adobe.com`.

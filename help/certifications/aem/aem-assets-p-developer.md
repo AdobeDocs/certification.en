@@ -5,28 +5,24 @@ solution: Experience Manager Assets
 role: Developer
 badge: label="Exam ADO-E129" type="positive"
 ---
-# Certification journey - Adobe Experience Manager Assets Developer professional
+# Certification journey for Adobe Experience Manager Assets Developer professional
 
-Exam ID: AD0-E129
+![Certification Expert Badge](/help/certifications/assets/professional-badge-Xsmall.png)
 
-## Start your journey toward certification
+>[!NOTE]
+>
+>Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
 
-Purchase your exam voucher at Adobe Certification Voucher Center. If you have a discount, it will apply at checkout. Apply the voucher code when you schedule your exam.
+You should be comfortable working in Adobe Managed Services and Adobe Experience Manager as a Cloud Service, and are able to set up Adobe Experience Manager environments and infrastructure. 
 
-If an exam is marked as retiring you will see a note at the top of this page. This indicates that you can still take it until the date specified in the note. 
-
-Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
-
-If you're comfortable working in Adobe Managed Services and Adobe Experience Manager as a Cloud Service, and are able to set up Adobe Experience Manager environments and infrastructure. 
-
-If you have:
+You should have:
 
 * 6 months+ CMS experience
 * 6 months+ AEM Assets experience
 * 6 months+ Java developer experience
 * On-premise and Cloud experience
 
-Additionally, if you have experience with the following technologies and environments:
+Additionally, you should have experience with the following technologies and environments:
 
 * Cloud Manager
 * Adobe IO CLI
@@ -37,12 +33,6 @@ Additionally, if you have experience with the following technologies and environ
 * Dev staging and production
 * Dev sandbox
 * Local environment
-
-...this is the certification for YOU!
-
-![Certification Expert Badge](/help/certifications/assets/professional-badge-small.png)
-
-**Level of experience**: 0-12 months
 
 **Intended audience:**
 
@@ -55,10 +45,10 @@ Additionally, if you have experience with the following technologies and environ
 * Application Operations Engineers
 * Systems Engineers
 
-**Exam details - Adobe Experience Manager Assets Developer**
+**Exam details:**
 
 ```
-
+Level: Professional (0-12 months experience)
 Passing Score: 30/50
 Time: 100 mins
 Delivery: Online proctored (requires camera access)
@@ -68,9 +58,15 @@ Exam ID: AD0-E129
 
 ```
 
-## Get ready
+>[!BEGINTABS]
+
+>[!TAB Get ready]
 
 **AD0-E129 Adobe Experience Manager Assets Developer**
+
+**Readiness self assessment**
+
+Complete the [online readiness questionnaire](https://scorpion.caveon.com/launchpad/ad-q-e208-readiness-questionnaire-for-adobe-analytics-business-practitioner-expert-exam-copy-b9x6ey/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam){target="_blank"} to see if your current experience matches the recommended minimum candidate qualification.
 
 **Exam objectives and scope**
 
@@ -109,15 +105,17 @@ Section 5: Asset feature sets and capabilities (12%)
 * Describe the common use cases and benefits of using Dynamic Media
 * Describe options to leverage AEM using Creative Cloud
 
-## Readiness self assessment
-
-Complete the [online readiness questionnaire](https://scorpion.caveon.com/launchpad/ad-q-e208-readiness-questionnaire-for-adobe-analytics-business-practitioner-expert-exam-copy-b9x6ey/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam){target="_blank"} to see if your current experience matches the recommended minimum candidate qualification.
-
-## Get prepped
+>[!TAB Get prepped]
 
 You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
 
 Here are some suggested resources to help you prepare:
+
+**Sample questions**
+
+The sample questions allow you to see the type and format of items that you will encounter in the actual exam. There is no sign-on needed. The results of the sample questions are not stored, and do not predict your actual test results.
+
+[See sample questions](https://scorpion.caveon.com/launchpad/ad0-e129-adobe-experience-manager-assets-developer-professional-copy-ms27zq){target="_blank"}
 
 **AD0-E129 Adobe Experience Manager Assets Developers**
 
@@ -150,28 +148,43 @@ Here are some suggested resources to help you prepare:
 * [Supported file formats](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/brand-portal-supported-formats.html?lang=en){target="_blank"}
 * [Dynamic Media Video Profiles](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/dynamicmedia/video-profiles.html?lang=en){target="_blank"}
 
-## Sample questions
+>[!TAB Get certified]
 
-The sample questions allow you to see the type and format of items that you will encounter in the actual exam. There is no sign-on needed. The results of the sample questions are not stored, and do not predict your actual test results.
+>[!NOTE]
+>
+>IMPORTANT NOTE: The following sections and links will **only** function after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
 
-[See sample questions](https://scorpion.caveon.com/launchpad/ad0-e129-adobe-experience-manager-assets-developer-professional-copy-ms27zq){target="_blank"}
 
-* Provide your email address.
-* Answer the candidate agreement.
-* Start the test.
-* Mark your answer in each question.
-* Click Next on the upper portion of the screen to save your answer and move to the next question. You may return and revise your question within the specified time.
-* On the last question, click Submit Exam to submit all your answers.
-* Answer the short survey.
+**Now that you have successfully logged in, the following links will be directly accessible.**
 
-## Get certified
+**Take a practice test**
 
-To schedule your exam you will click on "schedule" below. This will redirect you to the Adobe Credential Management system where you will click scheduling>then search for this exam to schedule.
+We recommend taking the free practice test before you start. You'll have unrestricted access to all available practice tests for Adobe's expert-level exams.
 
-[Schedule AD0-E129](https://learning.adobe.com/api.certify.json){target="_blank"}
+Our practice tests are all developed from the same blueprint as the live exams. The practice test will help you understand the topics covered in the live exam.
 
-## Questions
+Please remember that passing a practice test does not guarantee you will pass the certification exam.
 
-Have a question about Adobe Certification? Please email `certif@adobe.com`.
+Go to the [Adobe Certification Exam Prep Portal](https://www.certmetrics.com/adobe/candidate/gmetrix_sso.aspx){target="_blank"} now to take a practice test.
+
+**Take the certification exam**
+
+Adobe uses two vendors to administer proctored exams: PSI and Examity. PSI offers two options for taking exams: test center and remote online, while Examity only offers the remote online option.
+To schedule, reschedule, or cancel your exam, simply click on the vendor of choice, and follow the instructions provided on screen. It's that simple!
+
+Exam number: AD0-E129
+
+* [Examity](https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E129){target="_blank"} (Modality: Remote online)
+
+Purchase your exam voucher at [Adobe Certification Voucher Center](https://market.xvoucher.com/adobe/global){target="_blank"}. 
+
+Apply the voucher code when you schedule your exam. If you have a discount, it will apply at checkout.
+
+>[!ENDTABS]
+
+**Questions**
 
 View the certification [FAQs](https://solutionpartners.adobe.com/solution-partners/training_and_certification/certification/certification_faq.html#){target="_blank"}.
+
+Additional questions? Please email `certif@adobe.com`.
+

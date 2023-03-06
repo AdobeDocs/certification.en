@@ -5,19 +5,15 @@ solution: Experience Manager
 role: Developer
 badge: label="Exam ADO-E132 type="positive"
 ---
-# Certification journey - Adobe Experience Manager Technical Foundations professional
+# Certification journey for Adobe Experience Manager Technical Foundations professional
 
-Exam ID: AD0-E132
+![Certification Expert Badge](/help/certifications/assets/professional-badge-Xsmall.png)
 
-## Start your journey toward certification
+>[!NOTE]
+>
+>Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
 
-Purchase your exam voucher at Adobe Certification Voucher Center. If you have a discount, it will apply at checkout. Apply the voucher code when you schedule your exam.
-
-If an exam is marked as retiring you will see a note at the top of this page. This indicates that you can still take it until the date specified in the note. 
-
-Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
-
-If you're an application developerand have:
+You should be an application developer and have:
 
 * A minimum of 12 months experience working with the AEM Platform
 * The ability to perform advanced component development
@@ -25,7 +21,7 @@ If you're an application developerand have:
 * The awarenes of frameworks and libraries in AEM
 * An understanding of the AEM development life cycle
  
- Additionally, if you're familiar with the following technologies and environments:
+ Additionally, you should be familiar with the following technologies and environments:
 
 * Maven
 * Git
@@ -36,20 +32,15 @@ If you're an application developerand have:
 * Different AEM hosting capabilities
 * Sync content/environments together
 
-...this is the certification for YOU!
-
-![Certification Professional Badge](/help/certifications/assets/professional-badge-small.png)
-
-**Level of experience:** 0-12 months
-
 **Intended audience:**
 
 * AEM Developers
 * Technical Leads
 
-**Exam details:** Adobe Experience Manager Technical Foundations
+**Exam details:**
 
 ```
+Level: Professional (0-12 months experience)
 Passing Score: 38/60
 Time: 120 mins
 Delivery: Online proctored (requires camera access)
@@ -59,7 +50,9 @@ Exam ID: AD0-E132
 
 ```
 
-## Get ready
+>[!BEGINTABS]
+
+>[!TAB Get ready]
 
 **AD0-E132 Adobe Experience Manager Technical Foundations**
 
@@ -99,14 +92,13 @@ Section 4: Maintenance and user administration (12%)
 * Modify OSGI configurations
 * Create queries
 
-## Get prepped
+>[!TAB Get prepped]
 
 You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
 
 Here are some suggested resources to help you prepare:
 
 **AD0-E132 Adobe Experience Manager Assets Developers**
-
 
 **Section 1: Content creation**
 
@@ -129,21 +121,38 @@ Here are some suggested resources to help you prepare:
 * [AEM Project Structure](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/developing/aem-project-content-package-structure.html?lang=en#embedding-3rd-party-packages){target="_blank"}
 * [Package Manager](https://experienceleague.adobe.com/docs/experience-manager-65/administering/contentmanagement/package-manager.html?lang=en#what-are-packages){target="_blank"}
 
-**Section 4: Maintenance and User Administration**
+**Section 4: Maintenance and user administration**
 
 * [Manage users, groups, and user roles](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/admin-tools/brand-portal-adding-users.html?lang=en#add-a-user){target="_blank"}
 * [User Administration and Security](https://experienceleague.adobe.com/docs/experience-manager-65/administering/security/security.html?lang=en){target="_blank"}
 * [OSGi Configuration Settings](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/configuring/osgi-configuration-settings.html?lang=en){target="_blank"}
 
+>[!TAB Get certified]
 
-## Get certified
+>[!NOTE]
+>
+>IMPORTANT NOTE: The following sections and links will **only** function after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
 
-To schedule your exam you will click on "schedule" below. This will redirect you to the Adobe Credential Management system where you will click scheduling>then search for this exam to schedule.
 
-[Schedule AD0-E132](https://learning.adobe.com/api.certify.json){target="_blank"}
+**Now that you have successfully logged in, the following links will be directly accessible.**
 
-## Questions
+**Take the certification exam**
 
-Have a question about Adobe Certification? Please email `certif@adobe.com`.
+Adobe uses two vendors to administer proctored exams: PSI and Examity. PSI offers two options for taking exams: test center and remote online, while Examity only offers the remote online option.
+To schedule, reschedule, or cancel your exam, simply click on the vendor of choice, and follow the instructions provided on screen. It's that simple!
+
+Exam number: AD0-E132
+
+* [Examity](https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E132){target="_blank"} (Modality: Remote online)
+
+Purchase your exam voucher at [Adobe Certification Voucher Center](https://market.xvoucher.com/adobe/global){target="_blank"}. 
+
+Apply the voucher code when you schedule your exam. If you have a discount, it will apply at checkout.
+
+>[!ENDTABS]
+
+**Questions**
 
 View the certification [FAQs](https://solutionpartners.adobe.com/solution-partners/training_and_certification/certification/certification_faq.html#){target="_blank"}.
+
+Additional questions? Please email `certif@adobe.com`.

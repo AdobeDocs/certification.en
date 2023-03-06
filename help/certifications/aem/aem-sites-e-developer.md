@@ -41,7 +41,6 @@ Additionally, you're familiar with the following technologies and environments:
 **Exam details:**
   
 ```
-
 Level: Expert (1-3 years experience)
 Passing Score: 26/50
 Time: 100 mins
