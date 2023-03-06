@@ -5,7 +5,7 @@ solution: Experience Manager Sites
 role: Developer
 badge: label="AEM Renewal" type="positive"
 ---
-# Certification journey - Adobe Experience Manager renewal
+# Certification renewal for Adobe Experience Manager
 
 ## Start your journey toward renewing your certification
 
