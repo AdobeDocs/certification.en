@@ -5,19 +5,15 @@ solution: Experience Manager Forms
 role: Developer
 badge: label="Exam ADO-E125" type="positive"
 ---
-# Certification journey - Adobe Experience Manager Forms Developer expert
+# Certification journey for Adobe Experience Manager Forms Developer expert
 
-Exam ID: AD0-E125
-    
-## Start your journey toward certification
+![Certification Expert Badge](/help/certifications/assets/expert-badge-Xsmall.png)
 
-Purchase your exam voucher at Adobe Certification Voucher Center. If you have a discount, it will apply at checkout. Apply the voucher code when you schedule your exam.
+>[!NOTE]
+>
+>Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
 
-If an exam is marked as retiring you will see a note at the top of this page. This indicates that you can still take it until the date specified in the note. 
-
-Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
-
-If you have:
+You should have:
 
 * 2-3 years' of experience with AEM Forms
 * At least 5 years of work experience in the IT industry
@@ -25,7 +21,7 @@ If you have:
 * The ability to configure a form, translate business requirements into workflows, integrate with external systems
 * An understanding of AEM Forms foundation components
 
-Additionally, if you are familiar with the following technologies and environments:
+Additionally, you should be familiar with the following technologies and environments:
 
 * Design XDP templates, XFA templates
 * Creating PDF Forms (static/dynamic, interactive and non-interactive)
@@ -34,7 +30,7 @@ Additionally, if you are familiar with the following technologies and environmen
 * Create an Adaptive Form
 * Debugging of Complex Form
 * Configure and perform forms submission
-* Build and Deploy AEM instances for adaptive forms (cloud - needs to be confirmed)
+* Build and Deploy AEM instances for adaptive forms
 * Use form model
 * Ability to integrate with data services
 * Workflow implementation
@@ -51,12 +47,6 @@ Additionally, if you are familiar with the following technologies and environmen
 * Maven
 * GIT/Versioning tools
 
-...this is the certification for YOU!
-
-![Certification Expert Badge](/help/certifications/assets/expert-badge-small.png)
-
-**Level of experience**: 1-3 years
-
 **Intended audience:** 
 
 * AEM Developers
@@ -64,10 +54,10 @@ Additionally, if you are familiar with the following technologies and environmen
 * AEM Consultants
 * AEM Architects
 
-**Exam details - Adobe Experience Manager Forms Developer**
+**Exam details:**
   
 ```
-
+Level: Expert (1-3 years experience)
 Passing Score: 27/50
 Time: 100 mins
 Delivery: Online proctored (requires camera access) or test center proctored
@@ -77,9 +67,15 @@ Exam ID: AD0-E125
 
 ```
 
-## Get ready
+>[!BEGINTABS]
+
+>[!TAB Get ready]
 
 **AD0-E125 Adobe Experience Manager Forms Developer**
+
+**Readiness self-assessment**
+
+Complete the [online readiness questionnaire](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-x38d6m/ad-q-e125-readiness-questionnaire-for-adobe-aem-forms-developer-expert-exam){target="_blank"} to see if your current experience matches the recommended minimum candidate qualification.
 
 **Exam objectives and scope**
 
@@ -116,13 +112,11 @@ Section 5: Interactive Communication (4%)
 
 * Design, demonstrate, and implement processes for the Interactive Communication
 
-## Readiness self-assessment
-
-Complete the [online readiness questionnaire](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-x38d6m/ad-q-e125-readiness-questionnaire-for-adobe-aem-forms-developer-expert-exam){target="_blank"} to see if your current experience matches the recommended minimum candidate qualification.
-
-## Get prepped
+>[!TAB Get prepped]
 
 You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
+
+Here are some suggested resources to help you prepare:
 
 **AD0-E125 Adobe Experience Manager Forms Developer**
 
@@ -155,25 +149,43 @@ You are not required to complete training before taking the exam, and training a
 * [Interaction Communications Overview](https://experienceleague.adobe.com/docs/experience-manager-64/forms/getting-started/interactive-communications-overview.html?lang=en){target="_blank"}
 * [Conditions in Interactive Communications](https://experienceleague.adobe.com/docs/experience-manager-65/forms/interactive-communications/conditions-interactive-communications.html?lang=en){target="_blank"}
 
-## Take a practice test
-
-We are excited to offer free practice tests and provide a detailed coaching report upon completion of each one. You will have unlimited access to all available practice tests for Adobe's expert-level exams. Our practice tests are developed from the same blueprints as the live exams, so they can help you gauge how you are doing in each topic area. However, taking a practice test does not guarantee that you will pass the certification exam.
-
-Go to the [Adobe Credential Managment System](http://www.certmetrics.com/adobe/){target="_blank"} to launch a practice test.
+>[!TAB Get certified]
 
 >[!NOTE]
 >
->Go to the scheduling page > practice tests > Adobe Certification Prep Portal > click on launch Adobe Exam Prep Portal (on the far-right side).
+>IMPORTANT NOTE: The following sections and links will **only** function after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
 
 
-## Get certified
+**Now that you have successfully logged in, the following links will be directly accessible.**
 
-To schedule your exam you will click on "schedule" below. This will redirect you to the Adobe Credential Management system where you will click scheduling>then search for this exam to schedule.
+**Take a practice test**
 
-* [Schedule AD0-E125](https://learning.adobe.com/api.certify.json){target="_blank"}
+We recommend taking the free practice test before you start. You'll have unrestricted access to all available practice tests for Adobe's expert-level exams.
 
-## Questions
+Our practice tests are all developed from the same blueprint as the live exams. The practice test will help you understand the topics covered in the live exam.
 
-Have a question about Adobe Certification? Please email `certif@adobe.com`.
+Please remember that passing a practice test does not guarantee you will pass the certification exam.
+
+Go to the [Adobe Certification Exam Prep Portal](https://www.certmetrics.com/adobe/candidate/gmetrix_sso.aspx){target="_blank"} now to take a practice test.
+
+**Take the certification exam**
+
+Adobe uses two vendors to administer proctored exams: PSI and Examity. PSI offers two options for taking exams: test center and remote online, while Examity only offers the remote online option.
+To schedule, reschedule, or cancel your exam, simply click on the vendor of choice, and follow the instructions provided on screen. It's that simple!
+
+Exam number: AD0-E125
+
+* [PSI](https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&ec=AD0-E125){target="_blank"} (Modality: Test Center, remote online)
+* [Examity](https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E125){target="_blank"} (Modality: Remote online)
+
+Purchase your exam voucher at [Adobe Certification Voucher Center](https://market.xvoucher.com/adobe/global){target="_blank"}. 
+
+Apply the voucher code when you schedule your exam. If you have a discount, it will apply at checkout.
+
+>[!ENDTABS]
+
+**Questions**
 
 View the certification [FAQs](https://solutionpartners.adobe.com/solution-partners/training_and_certification/certification/certification_faq.html#){target="_blank"}.
+
+Additional questions? Please email `certif@adobe.com`.

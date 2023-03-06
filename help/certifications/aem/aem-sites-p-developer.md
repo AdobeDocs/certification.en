@@ -5,29 +5,19 @@ solution: Experience Manager Sites
 role: Developer
 badge: label="Exam ADO-E123" type="positive"
 ---
-# Certification journey - Adobe Experience Manager Sites Developer professional
+# Certification journey for Adobe Experience Manager Sites Developer professional
 
-Exam ID: AD0-E123
+![Certification Expert Badge](/help/certifications/assets/professional-badge-Xsmall.png)
 
-## Start your journey toward certification
+>[!NOTE]
+>
+>Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
 
-Purchase your exam voucher at Adobe Certification Voucher Center. If you have a discount, it will apply at checkout. Apply the voucher code when you schedule your exam.
-
-If an exam is marked as retiring you will see a note at the top of this page. This indicates that you can still take it until the date specified in the note. 
-
-Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
-
-If you're an application developer and have:
+You should be an application developer and have:
 
 * 0-12 months of experience working with the AEM Platform
 * The ability to perform component development
 * A basic understanding of the MVC framework, life cycle frameworks and libraries in AEM
-
-...this is the certification for YOU!
-
-![Certification Professional Badge](/help/certifications/assets/professional-badge-small.png)
-
-**Level of experience:** 0-12 months
 
 **Intended audience:**
 
@@ -35,21 +25,28 @@ If you're an application developer and have:
 * Front End Developers
 * Software Engineers
 
-**Exam details - Adobe Experience Platform Sites Developer**
+**Exam details:**
 
 ```
+Level: Professional (0-12 months experience)
 Passing Score: 31/50
 Time: 100 mins
 Delivery: Online proctored (requires camera access)
 Available languages: English
-Cost: $125 (global) and $95 (India)
+Cost: $125 (global) / $95 (India)
 Exam ID: AD0-E123
 
 ```
 
-## Get ready
+>[!BEGINTABS]
+
+>[!TAB Get ready]
 
 **AD0-E123 Adobe Experience Platform Sites Developer**
+
+**Readiness self-assessment**
+
+Complete the [online readiness questionnaire](https://scorpion.caveon.com/launchpad/ad-q-e123-readiness-questionnaire-for-adobe-experience-manager-sites-developer-professional-exam){target="_blank"} to see if your current experience matches the recommended minimum candidate qualification.
 
 **Exam objectives and scope**
 
@@ -80,15 +77,17 @@ Section 4: Environment maintenance (22%)
 * Identify how to configure AEM across topologies
 * Determine the steps required around planning and migrating to AEM as a Cloud Service
 
-## Readiness self-assessment
-
-Complete the [online readiness questionnaire](https://scorpion.caveon.com/launchpad/ad-q-e123-readiness-questionnaire-for-adobe-experience-manager-sites-developer-professional-exam){target="_blank"} to see if your current experience matches the recommended minimum candidate qualification.
-
-## Get prepped
+>[!TAB Get prepped]
 
 You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
 
 Here are some suggested resources to help you prepare:
+
+**Sample questions**
+
+The sample questions allow you to see the type and format of items that you will encounter in the actual exam. There is no sign-on needed. The results of the sample questions are not stored, and do not predict your actual test results.
+
+[See sample questions](https://scorpion.caveon.com/launchpad/ad3-e123-adobe-experience-manager-sites-developer-professional-sample-questions){target="_blank"}
 
 **AD0-E123 Adobe Experience Platform Technical Foundations**
 
@@ -124,28 +123,32 @@ Here are some suggested resources to help you prepare:
 * [AEM as Cloud Service videos and tutorials](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/overview.html?lang=en){target="_blank"}
 * [Adobe Experience Manager Release Updates and Roadmap](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/home.html?lang=en){target="_blank"}
 
-## Sample questions
+>[!TAB Get certified]
 
-The sample questions allow you to see the type and format of items that you will encounter in the actual exam. There is no sign-on needed. The results of the sample questions are not stored, and do not predict your actual test results.
+>[!NOTE]
+>
+>IMPORTANT NOTE: The following sections and links will **only** function after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
 
-[See sample questions](https://scorpion.caveon.com/launchpad/ad3-e123-adobe-experience-manager-sites-developer-professional-sample-questions){target="_blank"}
 
-* Provide your email address.
-* Answer the candidate agreement.
-* Start the test.
-* Mark your answer in each question.
-* Click Next on the upper portion of the screen to save your answer and move to the next question. You may return and revise your question within the specified time.
-* On the last question, click Submit Exam to submit all your answers.
-* Answer the short survey.
+**Now that you have successfully logged in, the following links will be directly accessible.**
 
-## Get certified
+**Take the certification exam**
 
-To schedule your exam you will click on "schedule" below. This will redirect you to the Adobe Credential Management system where you will click scheduling>then search for this exam to schedule.
+Adobe uses two vendors to administer proctored exams: PSI and Examity. PSI offers two options for taking exams: test center and remote online, while Examity only offers the remote online option.
+To schedule, reschedule, or cancel your exam, simply click on the vendor of choice, and follow the instructions provided on screen. It's that simple!
 
-[Schedule AD0-E123](https://learning.adobe.com/api.certify.json){target="_blank"}
+Exam number: AD0-E123
 
-## Questions
+* [Examity](https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E123){target="_blank"} (Modality: Remote online)
 
-Have a question about Adobe Certification? Please email `certif@adobe.com`.
+Purchase your exam voucher at [Adobe Certification Voucher Center](https://market.xvoucher.com/adobe/global){target="_blank"}. 
+
+Apply the voucher code when you schedule your exam. If you have a discount, it will apply at checkout.
+
+>[!ENDTABS]
+
+**Questions**
 
 View the certification [FAQs](https://solutionpartners.adobe.com/solution-partners/training_and_certification/certification/certification_faq.html#){target="_blank"}.
+
+Additional questions? Please email `certif@adobe.com`.

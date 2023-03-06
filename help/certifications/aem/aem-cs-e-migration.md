@@ -5,26 +5,23 @@ solution: Experience Manager as a Cloud Service
 role: Developer
 badge: label="Exam ADO-E136" type="positive"
 ---
-# Certification journey - Adobe Experience Manager as a Cloud Service Migration expert
+# Certification journey for Adobe Experience Manager as a Cloud Service Migration expert
 
-Exam ID: AD0-E136
+![Certification Expert Badge](/help/certifications/assets/expert-badge-Xsmall.png)
 
-## Start your journey toward certification
+>[!NOTE]
+>
+>Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
 
-Purchase your exam voucher at Adobe Certification Voucher Center. If you have a discount, it will apply at checkout. Apply the voucher code when you schedule your exam.
 
-If an exam is marked as retiring you will see a note at the top of this page. This indicates that you can still take it until the date specified in the note. 
-
-Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
-
-If you have:
+You should have:
 
 * An understanding of the overall changes to the architecture and features when moving from any AEM service (self-managed, AMS or any third-party cloud) to AEM as a Cloud Service. 
 * 2-3 years of web application development experience using Adobe Experience Manager
 * Hands on experience using AEM Forms, Assets, and Sites
 * The ability to guide customers through the migration process advising and participating in all phases of an AEM project 
 
-Additionally, you're familiar with the following technologies and environments:
+Additionally, you should be familiar with the following technologies and environments:
 
 * Index conversion tools
 * Workflow conversion tools
@@ -43,12 +40,6 @@ Additionally, you're familiar with the following technologies and environments:
 * Tailing Cloud logs in local environment
 * Cloud console interfaces
 
-...this is the certification for YOU!
-
-![Certification Expert Badge](/help/certifications/assets/expert-badge-small.png)
-
-**Level of experience:** 1-3 years
-
 **Intended audience:**
 
 * Developers who have experience with Adobe Experience Manager
@@ -62,16 +53,19 @@ Additionally, you're familiar with the following technologies and environments:
 **Exam details - Adobe Experience Manager as a Cloud Service Migration**
 
 ```
+Level: Expert (1-3 years experience)
 Passing Score: 31/50
 Time: 100 mins
 Delivery: Online proctored (requires camera access) or test center proctored
 Available languages: English
-Cost: $125 (global) and $95 (India)
+Cost: $125 (global) / $95 (India)
 Exam ID: AD0-E136
 
 ```
 
-## Get ready
+>[!BEGINTABS]
+
+>[!TAB Get ready]
 
 **AD0-E136 Adobe Experience Manager as a Cloud Service Migration**
 
@@ -115,9 +109,11 @@ Section 5: Implementation (16%)
 * Set up local SDKs
 * Update configurations based on runmodes available on AEM as a Cloud Service
 
-## Get prepped
+>[!TAB Get prepped]
 
 You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
+
+Here are some suggested resources to help you prepare:
 
 **AD0-E136 Adobe Experience Manager as a Cloud Service Migration**
 
@@ -150,14 +146,33 @@ You are not required to complete training before taking the exam, and training a
 * [Use the CI/CD Pipeline in Adobe Cloud Manager](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/cloud-manager/use-the-cicd-pipeline-in-cloud-manager-for-aem.html?lang=en){target="_blank"}
 * [Deploying to AEM as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/deploying/overview.html?lang=en){target="_blank"}
 
-## Get certified
+>[!TAB Get certified]
 
-To schedule your exam you will click on "schedule" below. This will redirect you to the Adobe Credential Management system where you will click scheduling>then search for this exam to schedule.
+>[!NOTE]
+>
+>IMPORTANT NOTE: The following sections and links will **only** function after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
 
-[Schedule AD0-E136](https://learning.adobe.com/api.certify.json){target="_blank"}
 
-## Questions
+**Now that you have successfully logged in, the following links will be directly accessible.**
 
-Have a question about Adobe Certification? Please email `certif@adobe.com`.
+**Take the certification exam**
+
+Adobe uses two vendors to administer proctored exams: PSI and Examity. PSI offers two options for taking exams: test center and remote online, while Examity only offers the remote online option.
+To schedule, reschedule, or cancel your exam, simply click on the vendor of choice, and follow the instructions provided on screen. It's that simple!
+
+Exam number: AD0-E136
+
+* [Examity](https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E136){target="_blank"} (Modality: Remote online)
+
+Purchase your exam voucher at [Adobe Certification Voucher Center](https://market.xvoucher.com/adobe/global){target="_blank"}. 
+
+Apply the voucher code when you schedule your exam. If you have a discount, it will apply at checkout.
+
+>[!ENDTABS]
+
+**Questions**
 
 View the certification [FAQs](https://solutionpartners.adobe.com/solution-partners/training_and_certification/certification/certification_faq.html#){target="_blank"}.
+
+Additional questions? Please email `certif@adobe.com`.
+
