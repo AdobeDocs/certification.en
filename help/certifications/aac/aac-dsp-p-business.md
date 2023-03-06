@@ -5,19 +5,15 @@ solution: Advertising Cloud
 role: Developer
 badge: label="Exam ADO-E502" type="positive"
 ---
-# Certification journey - Adobe Advertising DSP Business Practitioner professional
+# Certification journey for Adobe Advertising DSP Business Practitioner professional
 
-Exam ID: AD0-E502
+![Certification Professional Badge](/help/certifications/assets/professional-badge-Xsmall.png)
 
-## Start your journey toward certification
+>[!NOTE]
+>
+>Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
 
-Purchase your exam voucher at Adobe Certification Voucher Center. If you have a discount, it will apply at checkout. Apply the voucher code when you schedule your exam.
-
-If an exam is marked as retiring you will see a note at the top of this page. This indicates that you can still take it until the date specified in the note. 
-
-Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
-
-If you have:
+You should have:
 
 * 6+ months experience with Adobe Advertising
 * Experience in planning and or measuring key performance indicators in media buying software
@@ -31,12 +27,6 @@ Familiarity with the following tools and technologies:
 * Major browsers
 * Ad exchanges, SSPs, and DMPs
 
-...this is the certification for YOU!
-
-![Certification Professional Badge](/help/certifications/assets/professional-badge-small.png)
-
-**Level of experience:** 0-12 months
-
 **Intended audience:**
 
 * Programmatic trader
@@ -45,9 +35,10 @@ Familiarity with the following tools and technologies:
 * Campaign director
 * Media buyer
 
-**Exam details:** Adobe Advertising DSP Business Practitioner
+**Exam details:**
 
 ```
+Level: Professional (0-12 months experience)
 Passing Score: 44/69
 Time: 138 mins
 Delivery: Online proctored (requires camera access) or test center proctored
@@ -57,7 +48,9 @@ Exam ID: AD0-E502
 
 ```
 
-## Get ready
+>[!BEGINTABS]
+
+>[!TAB Get ready]
 
 **AD0-E502 Adobe Advertising DSP Business Practitioner**
 
@@ -93,7 +86,7 @@ Section 4: Supplying recommendations for campaigns (10%)
 * Given a scenario, provide updates to clients based on a campaign
 * Given a scenario, adjust campaign strategy based on campaign performance
 
-## Get prepped
+>[!TAB Get prepped]
 
 You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
 
@@ -119,14 +112,33 @@ Here are some suggested resources to help you prepare:
 
 * [Add resource](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/admin-tools/brand-portal-adding-users.html?lang=en#add-a-user){target="_blank"}
 
-## Get certified
+>[!TAB Get certified]
 
-To schedule your exam you will click on "schedule" below. This will redirect you to the Adobe Credential Management system where you will click scheduling>then search for this exam to schedule.
+>[!NOTE]
+>
+>IMPORTANT NOTE: The following sections and links will **only** function after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
 
-[Schedule AD0-E502](https://learning.adobe.com/api.certify.json){target="_blank"}
 
-## Questions
+**Now that you have successfully logged in, the following links will be directly accessible.**
 
-Have a question about Adobe Certification? Please email `certif@adobe.com`.
+**Take the certification exam**
+
+Adobe uses two vendors to administer proctored exams: PSI and Examity. PSI offers two options for taking exams: test center and remote online, while Examity only offers the remote online option.
+To schedule, reschedule, or cancel your exam, simply click on the vendor of choice, and follow the instructions provided on screen. It's that simple!
+
+Exam number: AD0-E502
+
+* [PSI](https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&ec=AD0-E502){target="_blank"} (Modality: Test Center, remote online)
+* [Examity](https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E502){target="_blank"} (Modality: Remote online)
+
+Purchase your exam voucher at [Adobe Certification Voucher Center](https://market.xvoucher.com/adobe/global){target="_blank"}. 
+
+Apply the voucher code when you schedule your exam. If you have a discount, it will apply at checkout.
+
+>[!ENDTABS]
+
+**Questions**
 
 View the certification [FAQs](https://solutionpartners.adobe.com/solution-partners/training_and_certification/certification/certification_faq.html#){target="_blank"}.
+
+Additional questions? Please email `certif@adobe.com`.
