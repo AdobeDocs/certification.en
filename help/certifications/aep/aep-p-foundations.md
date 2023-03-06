@@ -6,21 +6,17 @@ role: Developer
 badge: label="Exam ADO-E600 & AD7-E601" type="positive"
 ---
 
-# Certification journey - Adobe Real-Time Customer Data Platform expert
+# Certification journey for Adobe Experience Platform expert
 
-Exam ID: AD0-600 & Exam ID: AD7-E601
+![Certification Expert Badge](/help/certifications/assets/expert-badge-Xsmall.png)
 
-## Start your journey toward certification
+>[!NOTE]
+>
+>Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
 
-To earn certification, you need to pass 2 distinct exams with a proctor present, online or on-site, where available.
+To earn a certification with exam, you need to pass 2 distinct exams with a proctor present, online or on-site, where available.
 
-Purchase your exam voucher at Adobe Certification Voucher Center. If you have a discount, it will apply at checkout. Apply the voucher code when you schedule your exam.
-
-If an exam is marked as retiring you will see a note at the top of this page. This indicates that you can still take it until the date specified in the note. 
-
-Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
-
-If you have:
+You should have:
 
 * Basic knowledge of Experience Platform and can navigate through the UI
 * The ability to create segments and build audiences (logic included in that)
@@ -35,12 +31,6 @@ If you have:
 * Knowledge of frequency of sending segments out through destinations
 * Knowledge of how often segment membership is updated
 
-...this is the certification for YOU!
-
-![Certification Expert Badge](/help/certifications/assets/expert-badge-small.png)
-
-**Level of experience:** 1-3 years
-
 **Intended audience:**
 
 * Data Architect/Engineer
@@ -50,23 +40,15 @@ If you have:
 * Marketing Technology Lead
 * Technical Consultant
 
-
-**Requirement 1: AD0-E600 Adobe Experience Platform Technical Foundations**
-
-The AD0-E600 exam validates skills and knowledge covering the basic features and frequently performed tasks of Adobe Experience Platform at the Expert level.
-
-**Requirement 2: AD7-E601 Adobe Real-Time CDP Technical Practitioner**
-
-The AD7-E601 exam covers the creation, management and understanding of customer profile, segmentation, destinations across sources, and other topics. The exam validates the foundational skills and knowledge needed to employ Real-time CDP for audience segmentation, destination exports, and activation on a real-time basis for unified profiles that adhere to data and privacy regulations. Candidates should have experience with Customer Data Platforms (CDP) and knowledge of Adobe Experience Platform.
-
 **Exam details: Adobe Experience Platform**
 
 ```
+Level: Expert (1-3 years experience)
 Passing Score: 35/50
 Time: 105 mins
 Delivery: Online proctored (requires camera access) or test center proctored
 Language: English
-Cost: $225 (global) and $150 (India)
+Cost: $225 (global) / $150 (India)
 Exam ID: AD0-E600
 
 ```
@@ -76,20 +58,23 @@ _AND_
 **Exam details: Adobe Real-Time CDP Technical Practitioner**
 
 ```
+Level: Expert (1-3 years experience)
 Passing Score: 25/34
 Time: 51 mins
 Delivery: Online proctored (requires camera access) or test center proctored
 Language: English
-Cost: $225 (global) and $150 (India)
+Cost: $225 (global) / $150 (India)
 Exam ID: AD7-E601
 
 ```
 
-## Get ready
+**Requirement 1: AD0-E600 Adobe Experience Platform Technical Foundations**
+
+The AD0-E600 exam validates skills and knowledge covering the basic features and frequently performed tasks of Adobe Experience Platform at the Expert level.
 
 >[!BEGINTABS]
 
->[!TAB Requirement 1]
+>[!TAB Get ready]
 
 **AD0-E600 Adobe Experience Platform Technical Foundations**
 
@@ -125,46 +110,12 @@ Section 4: Activation (10%)
 
 Take a readiness questionnaire to find out if you meet the minimum qualifications.
 
->[!TAB Requirement 2]
 
-**AD7-E601 Adobe Real-Time CDP Technical Practioner**
-
-**Exam scope and objectives**
-
-Section 1: Validation(41%)
-
-* Apply concepts required to validate Profile has the proper attributes and segments
-* Demonstrate an understanding of how to validate deployment strategy based on functional or technical requirements
-* Analyze relevant variables to implement the End to End (E2E) Flow of RTCDP
-* Monitor segment export to Destination
-* Apply concepts required to validate data governance policies
-
-Section 2: Segmentation (32%)
-
-* Demonstrate an understanding of how to create segments based on business requirements
-* Demonstrate an understanding of how to determine segment evaluations based on data ingested
-
-Section 3: Destinations (27%)
-
-* Apply concepts required to configure one or more Destinations when sending/exporting audiences based on business use cases
-* Demonstrate an understanding of exporting segments through Destination
-
-
->[!ENDTABS]
-
-## Readiness self-assessment
-
-Complete the [online readiness questionnaire](https://scorpion.caveon.com/launchpad/ad-q-e601-readiness-questionnaire-for-adobe-real-time-cdp-technical-practitioner-exam/ad-q-e601-readiness-questionnaire-for-adobe-real-time-cdp-technical-practitioner-exam){target="_blank"} to see if your current experience matches the recommended minimum candidate qualification.
-
-## Get prepped
+>[!TAB Get prepped]
 
 You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
 
 Here are some suggested resources to help you prepare:
-
->[!BEGINTABS]
-
->[!TAB Requirement 1]
 
 **AD0-E600 Adobe Experience Platform Technical Foundations**
 
@@ -193,7 +144,75 @@ The exam covers four domains: business analysis, reporting and dashboarding, seg
 
 * [Destinations overview](https://experienceleague.adobe.com/docs/experience-platform/destinations/home.html?lang=en){target="_blank"}
 
->[!TAB Requirement 2]
+>[!TAB Get certified]
+
+>[!NOTE]
+>
+>IMPORTANT NOTE: The following sections and links will **only** function after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
+
+
+**Now that you have successfully logged in, the following links will be directly accessible.**
+
+**Take a practice test**
+
+We recommend taking the free practice test before you start. You'll have unrestricted access to all available practice tests for Adobe's expert-level exams.
+
+Our practice tests are all developed from the same blueprint as the live exams. The practice test will help you understand the topics covered in the live exam.
+
+Please remember that passing a practice test does not guarantee you will pass the certification exam.
+
+Go to the [Adobe Certification Exam Prep Portal](https://www.certmetrics.com/adobe/candidate/gmetrix_sso.aspx){target="_blank"} now to take a practice test.
+
+**Take the certification exam**
+
+Adobe uses two vendors to administer proctored exams: PSI and Examity. PSI offers two options for taking exams: test center and remote online, while Examity only offers the remote online option.
+To schedule, reschedule, or cancel your exam, simply click on the vendor of choice, and follow the instructions provided on screen. It's that simple!
+
+Exam number: AD0-E600
+
+* [PSI](https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&ec=AD0-E600){target="_blank"} (Modality: Test Center, remote online)
+* [Examity](https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E600){target="_blank"} (Modality: Remote online)
+
+Purchase your exam voucher at [Adobe Certification Voucher Center](https://market.xvoucher.com/adobe/global){target="_blank"}. 
+
+Apply the voucher code when you schedule your exam. If you have a discount, it will apply at checkout.
+
+>[!ENDTABS]
+
+**Requirement 2: AD7-E601 Adobe Real-Time CDP Technical Practitioner**
+
+The AD7-E601 exam covers the creation, management and understanding of customer profile, segmentation, destinations across sources, and other topics. The exam validates the foundational skills and knowledge needed to employ Real-time CDP for audience segmentation, destination exports, and activation on a real-time basis for unified profiles that adhere to data and privacy regulations. Candidates should have experience with Customer Data Platforms (CDP) and knowledge of Adobe Experience Platform.
+
+>[!TAB Get ready]
+
+**AD7-E601 Adobe Real-Time CDP Technical Practioner**
+
+**Readiness self-assessment**
+
+Complete the [online readiness questionnaire](https://scorpion.caveon.com/launchpad/ad-q-e601-readiness-questionnaire-for-adobe-real-time-cdp-technical-practitioner-exam/ad-q-e601-readiness-questionnaire-for-adobe-real-time-cdp-technical-practitioner-exam){target="_blank"} to see if your current experience matches the recommended minimum candidate qualification.
+
+**Exam scope and objectives**
+
+Section 1: Validation(41%)
+
+* Apply concepts required to validate Profile has the proper attributes and segments
+* Demonstrate an understanding of how to validate deployment strategy based on functional or technical requirements
+* Analyze relevant variables to implement the End to End (E2E) Flow of RTCDP
+* Monitor segment export to Destination
+* Apply concepts required to validate data governance policies
+
+Section 2: Segmentation (32%)
+
+* Demonstrate an understanding of how to create segments based on business requirements
+* Demonstrate an understanding of how to determine segment evaluations based on data ingested
+
+Section 3: Destinations (27%)
+
+* Apply concepts required to configure one or more Destinations when sending/exporting audiences based on business use cases
+* Demonstrate an understanding of exporting segments through Destination
+
+
+>[!TAB Get prepped]
 
 **AD7-E601 Adobe Real-Time CDP Technical Practioner**
 
@@ -258,42 +277,43 @@ The exam covers four domains: business analysis, reporting and dashboarding, seg
 * [Activate data to non-Adobe application](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/activate-data-to-non-adobe-applications.html){target="_blank"}
 
 
-**Additional study aid resources**
-
-+++ See Resources
-
-* [Data Governance Guide](https://experienceleague.adobe.com/docs/experience-platform/data-governance/home.html?lang=en){target="_blank"}
-* [Data Ingestion Guide](https://experienceleague.adobe.com/docs/experience-platform/ingestion/home.html?lang=en){target="_blank"}
-* [Dataflows Guide](https://experienceleague.adobe.com/docs/experience-platform/dataflows/home.html?lang=en){target="_blank"}
-* [Destination Overview](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/understanding-destinations.html?lang=en){target="_blank"}
-* [Real-Time Customer Profile Guide](https://experienceleague.adobe.com/docs/experience-platform/profile/home.html?lang=en){target="_blank"}
-* [Segment Builder Overview](https://experienceleague.adobe.com/docs/platform-learn/tutorials/segments/segment-builder-overview.html?lang=en){target="_blank"}
-* [Source Connector Guide](https://experienceleague.adobe.com/docs/experience-platform/sources/home.html?lang=en){target="_blank"}
-* [Experience Data Model (XDM) Guide](https://experienceleague.adobe.com/docs/experience-platform/xdm/home.html?lang=en){target="_blank"}
-
-+++
-
->[!ENDTABS]
-
-## Take a practice test
-
-We are excited to offer free practice tests and provide a detailed coaching report upon completion of each one. You will have unlimited access to all available practice tests for Adobe's expert-level exams. Our practice tests are developed from the same blueprints as the live exams, so they can help you gauge how you are doing in each topic area. However, taking a practice test does not guarantee that you will pass the certification exam.
-
-Go to the [Adobe Credential Managment System](http://www.certmetrics.com/adobe/){target="_blank"} to launch a practice test.
+>[!TAB Get certified]
 
 >[!NOTE]
 >
->Go to the Scheduling Page > Practice Tests > Adobe Certification Prep Portal > click on Launch Adobe Exam Prep Portal (on the far-right side).
+>IMPORTANT NOTE: The following sections and links will **only** function after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
 
-## Get certified
 
-To schedule your exam you will click on "Schedule" below. This will redirect you to the Adobe Credential Management system where you will click scheduling>then search for this exam to schedule.
+**Now that you have successfully logged in, the following links will be directly accessible.**
 
-* [Schedule AD0-E600](http://www.certmetrics.com/adobe/){target="_blank"}
-* [Schedule AD7-E601](http://www.certmetrics.com/adobe/){target="_blank"}
+**Take a practice test**
 
-## Questions
+We recommend taking the free practice test before you start. You'll have unrestricted access to all available practice tests for Adobe's expert-level exams.
 
-Have a question about Adobe Certification? Please email `certif@adobe.com`.
+Our practice tests are all developed from the same blueprint as the live exams. The practice test will help you understand the topics covered in the live exam.
+
+Please remember that passing a practice test does not guarantee you will pass the certification exam.
+
+Go to the [Adobe Certification Exam Prep Portal](https://www.certmetrics.com/adobe/candidate/gmetrix_sso.aspx){target="_blank"} now to take a practice test.
+
+**Take the certification exam**
+
+Adobe uses two vendors to administer proctored exams: PSI and Examity. PSI offers two options for taking exams: test center and remote online, while Examity only offers the remote online option.
+To schedule, reschedule, or cancel your exam, simply click on the vendor of choice, and follow the instructions provided on screen. It's that simple!
+
+Exam number: AD7-E601
+
+* [PSI](https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&ec=AD7-E601){target="_blank"} (Modality: Test Center, remote online)
+* [Examity](https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD7-E601){target="_blank"} (Modality: Remote online)
+
+Purchase your exam voucher at [Adobe Certification Voucher Center](https://market.xvoucher.com/adobe/global){target="_blank"}. 
+
+Apply the voucher code when you schedule your exam. If you have a discount, it will apply at checkout.
+
+>[!ENDTABS]
+
+**Questions**
 
 View the certification [FAQs](https://solutionpartners.adobe.com/solution-partners/training_and_certification/certification/certification_faq.html#){target="_blank"}.
+
+Additional questions? Please email `certif@adobe.com`.
