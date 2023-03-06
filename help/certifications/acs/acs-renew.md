@@ -21,7 +21,7 @@ If you are currently certified (not expired) in:
 
 ...this is the renewal path for YOU!
 
-![Certification Expert Badge](/help/certifications/assets/expert-badge-small.png) ![Certification Master Badge](/help/certifications/assets/master-badge-small.png)
+![Certification Expert Badge](/help/certifications/assets/expert-badge-Xsmall.png) ![Certification Master Badge](/help/certifications/assets/master-badge-Xsmall.png)
 
 >[!NOTE]
 >
