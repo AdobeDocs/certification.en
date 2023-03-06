@@ -37,7 +37,7 @@ Additionally, you should have:
 * Solutions manager
 
 **Exam details:**
-  
+
 ```
 Level: Expert (1-3 years experience)
 Passing Score: 30/50
@@ -47,7 +47,7 @@ Available languages: English & Japanese
 Cost: $225 (global) / $150 (India)
 Exam ID: AD0-E307
 
-``````
+```
 
 >[!BEGINTABS]
 
