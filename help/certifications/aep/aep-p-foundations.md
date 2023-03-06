@@ -183,6 +183,8 @@ Apply the voucher code when you schedule your exam. If you have a discount, it w
 
 The AD7-E601 exam covers the creation, management and understanding of customer profile, segmentation, destinations across sources, and other topics. The exam validates the foundational skills and knowledge needed to employ Real-time CDP for audience segmentation, destination exports, and activation on a real-time basis for unified profiles that adhere to data and privacy regulations. Candidates should have experience with Customer Data Platforms (CDP) and knowledge of Adobe Experience Platform.
 
+>[!BEGINTABS]
+
 >[!TAB Get ready]
 
 **AD7-E601 Adobe Real-Time CDP Technical Practioner**
