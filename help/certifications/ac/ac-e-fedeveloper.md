@@ -5,21 +5,17 @@ solution: Commerce
 role: Developer
 badge: label="Exam ADO-E710" type="positive"
 ---
-# Certification journey - Adobe Commerce Front-End Developer expert
+# Certification journey for Adobe Commerce Front-End Developer expert
 
-Exam ID: AD0-E710
-    
-## Start your journey toward certification
+![Certification Expert Badge](/help/certifications/assets/expert-badge-Xsmall.png)
 
-Purchase your exam voucher at Adobe Certification Voucher Center. If you have a discount, it will apply at checkout. Apply the voucher code when you schedule your exam.
+>[!NOTE]
+>
+>Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
 
-If an exam is marked as retiring you will see a note at the top of this page. This indicates that you can still take it until the date specified in the note. 
+You should have at least 3-5 years of hands-on experience with Adobe Commerce Frontend development, and have the ability to translate the needs expressed by task requirements into a technical solution.
 
-Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
-
-If you have at least 3-5 years of hands-on experience with Adobe Commerce Frontend development, and have the ability to translate the needs expressed by task requirements into a technical solution.
-
-Additionally, if you're comfortable using the following technologies:
+Additionally, you should be comfortable using the following technologies:
 
 * Adobe Commerce - version 2.4.3
 * Basic understanding of the front-end structure and layout
@@ -36,12 +32,6 @@ Additionally, if you're comfortable using the following technologies:
 * Implement translation
 * Understanding how to work with email templates
 
-...this is the certification for YOU!
-
-![Certification Expert Badge](/help/certifications/assets/expert-badge-small.png)
-
-**Level of experience**: 1-3 years
-
 **Intended audience:** 
 
 * Developers
@@ -50,22 +40,29 @@ Additionally, if you're comfortable using the following technologies:
 * Full Stack Developers
 * PWA Developers
 
-**Exam details - Adobe Commerce Frontend Developer**
+**Exam details:**
   
 ```
 
+Level: Expert (1-3 years experience)
 Passing Score: 33/50
 Time: 100 mins
 Delivery: Online proctored (requires camera access) or test center proctored
 Available languages: English
-Cost: $225 (global) and $150 (India)
+Cost: $225 (global) / $150 (India)
 Exam ID: AD0-E710
 
 ```
 
-## Get ready
+>[!BEGINTABS]
+
+>[!TAB Get ready]
 
 **AD0-E710 Adobe Commerce Frontend Developer**
+
+**Readiness self-assessment**
+
+Complete the [online readiness questionnaire](https://scorpion.caveon.com/launchpad/ad0-e710-adobe-commerce-front-end-developer-expert-copy-jtnjz6){target="_blank"} to see if your current experience matches the recommended minimum candidate qualification.
 
 **Exam objectives and scope**
 
@@ -78,7 +75,7 @@ Section 1: Theme management (Theme hierarchy, image configuration, translations)
 * Demonstrate ability to apply translations
 * Given a set of use cases, identify when to place files in app/code or app/design
 
-Section 2: Layout XML & Templates (phtml templates) (24%)
+Section 2: Layout XML & templates (phtml templates) (24%)
 
 * Demonstrate the ability to utilize layout XML instructions
 * Demonstrate the ability to create new page layouts
@@ -90,7 +87,7 @@ Section 2: Layout XML & Templates (phtml templates) (24%)
 Section 3: Styles (18%)
 
 * Identify the purpose of styles-m.less, styles-l.less, print.less
-* Describe the difference between specific partial files (_extends.less, _extend.less,_theme.less,_widgets.less,_module.less,)
+* Describe the difference between specific partial files (_extends.less,_extend.less,_theme.less,_widgets.less,_module.less,)
 * Demonstrate the ability to override or extend Magento LESS
 * Explain the core concepts of LESS
 * Demonstrate the ability to style emails
@@ -126,13 +123,11 @@ Section 6: Tools (CLI and Grunt) (8%)
 * Differentiate the appropriate use case for deploy modes
 * Define Grunt setup and usage
 
-## Readiness self-assessment
-
-Complete the [online readiness questionnaire](https://scorpion.caveon.com/launchpad/ad0-e710-adobe-commerce-front-end-developer-expert-copy-jtnjz6){target="_blank"} to see if your current experience matches the recommended minimum candidate qualification.
-
-## Get prepped
+>[!TAB Get prepped]
 
 You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
+
+Here are some suggested resources to help you prepare:
 
 **AD0-E710 Adobe Commerce Frontend Developer**
 
@@ -148,7 +143,7 @@ You are not required to complete training before taking the exam, and training a
 * [Translations](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/translations/xlate.html){target="_blank"} 
 * [Create your component file structure](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/build/module-file-structure.html#root-directory-location){target="_blank"}
 
-**Section 2: Layout XML & Templates (phtml templates)**
+**Section 2: Layout XML & templates (phtml templates)**
 
 * [Layout instructions](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/layouts/xml-instructions.html){target="_blank"} 
 * [Create a new layout](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/layouts/layout-create.html){target="_blank"} 
@@ -207,25 +202,43 @@ You are not required to complete training before taking the exam, and training a
 * [Grunt](https://developer.adobe.com/commerce/frontend-core/guide/tools/grunt/){target="_blank"}
 * [Compile LESS with Grunt](https://developer.adobe.com/commerce/frontend-core/guide/css/debug/){target="_blank"}
 
-## Take a practice test
-
-We are excited to offer free practice tests and provide a detailed coaching report upon completion of each one. You will have unlimited access to all available practice tests for Adobe's expert-level exams. Our practice tests are developed from the same blueprints as the live exams, so they can help you gauge how you are doing in each topic area. However, taking a practice test does not guarantee that you will pass the certification exam.
-
-Go to the [Adobe Credential Managment System](http://www.certmetrics.com/adobe/){target="_blank"} to launch a practice test.
+>[!TAB Get certified]
 
 >[!NOTE]
 >
->Go to the scheduling page > practice tests > Adobe Certification Prep Portal > click on launch Adobe Exam Prep Portal (on the far-right side).
+>IMPORTANT NOTE: The following sections and links will **only** function after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
 
 
-## Get certified
+**Now that you have successfully logged in, the following links will be directly accessible.**
 
-To schedule your exam you will click on "schedule" below. This will redirect you to the Adobe Credential Management system where you will click scheduling>then search for this exam to schedule.
+**Take a practice test**
 
-* [Schedule AD0-E710](https://learning.adobe.com/api.certify.json){target="_blank"}
+We recommend taking the free practice test before you start. You'll have unrestricted access to all available practice tests for Adobe's expert-level exams.
 
-## Questions
+Our practice tests are all developed from the same blueprint as the live exams. The practice test will help you understand the topics covered in the live exam.
 
-Have a question about Adobe Certification? Please email `certif@adobe.com`.
+Please remember that passing a practice test does not guarantee you will pass the certification exam.
+
+Go to the [Adobe Certification Exam Prep Portal](https://www.certmetrics.com/adobe/candidate/gmetrix_sso.aspx){target="_blank"} now to take a practice test.
+
+**Take the certification exam**
+
+Adobe uses two vendors to administer proctored exams: PSI and Examity. PSI offers two options for taking exams: test center and remote online, while Examity only offers the remote online option.
+To schedule, reschedule, or cancel your exam, simply click on the vendor of choice, and follow the instructions provided on screen. It's that simple!
+
+Exam number: AD0-E710
+
+* [PSI](https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&ec=AD0-E710){target="_blank"} (Modality: Test Center, remote online)
+* [Examity](https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E710){target="_blank"} (Modality: Remote online)
+
+Purchase your exam voucher at [Adobe Certification Voucher Center](https://market.xvoucher.com/adobe/global){target="_blank"}. 
+
+Apply the voucher code when you schedule your exam. If you have a discount, it will apply at checkout.
+
+>[!ENDTABS]
+
+**Questions**
 
 View the certification [FAQs](https://solutionpartners.adobe.com/solution-partners/training_and_certification/certification/certification_faq.html#){target="_blank"}.
+
+Additional questions? Please email `certif@adobe.com`.
