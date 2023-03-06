@@ -5,25 +5,15 @@ solution: Audience Manager
 role: Developer
 badge: label="Exam ADO-E458" type="positive"
 ---
-# Certification journey - Adobe Audience Manager Business Practitioner professional
+# Certification journey for Adobe Audience Manager Business Practitioner professional
 
-Exam ID: AD0-E458
+![Certification Professional Badge](/help/certifications/assets/professional-badge-Xsmall.png)
 
-## Start your journey toward certification
+>[!NOTE]
+>
+>Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
 
-Purchase your exam voucher at Adobe Certification Voucher Center. If you have a discount, it will apply at checkout. Apply the voucher code when you schedule your exam.
-
-If an exam is marked as retiring you will see a note at the top of this page. This indicates that you can still take it until the date specified in the note. 
-
-Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
-
-If you have a basic understanding of data flows, business objectives and KPIs, with some experience around data analytics and strategies.
-
-...this is the certification for YOU!
-
-![Certification Professional Badge](/help/certifications/assets/professional-badge-small.png)
-
-**Level of experience:** 0-12 months
+You should have a basic understanding of data flows, business objectives and KPIs, with some experience around data analytics and strategies.
 
 **Intended audience:**
 
@@ -35,9 +25,10 @@ If you have a basic understanding of data flows, business objectives and KPIs, w
 * Marketing Data Analyst
 * Data Platforms Manager
 
-**Exam details - Adobe Audience Manager Business Practitioner**
+**Exam details:**
 
 ```
+Level: Professional (0-12 months experience)
 Passing Score: 31/50
 Time: 100 mins
 Delivery: Online proctored (requires camera access)
@@ -47,7 +38,9 @@ Exam ID: AD0-E458
 
 ```
 
-## Get ready
+>[!BEGINTABS]
+
+>[!TAB Get ready]
 
 **AD0-E458 Adobe Audience Manager Business Practitioner**
 
@@ -86,11 +79,17 @@ Section 6: Profile Merge, ID Sync, and Audience Marketplace
 * Organize user traits into a single unified profile to create household- or device-based audiences
 * Identify activation using Audience Marketplace
 
-## Get prepped
+>[!TAB Get prepped]
 
 You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
 
 Here are some suggested resources to help you prepare:
+
+**Sample questions**
+
+The sample questions allow you to see the type and format of items that you will encounter in the actual exam. There is no sign-on needed. The results of the sample questions are not stored, and do not predict your actual test results.
+
+[See sample questions](https://scorpion.caveon.com/launchpad/ad0-e458-adobe-audience-manager-business-practitioner-professional-copy-dvaivw){target="_blank"}
 
 **AD0-E458 Adobe Audience Manager Business Practitioner**
 
@@ -124,28 +123,32 @@ Here are some suggested resources to help you prepare:
 
 * [Audience Manager Guide](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html?lang=en){target="_blank"} 
 
-## Sample questions
+>[!TAB Get certified]
 
-The sample questions allow you to see the type and format of items that you will encounter in the actual exam. There is no sign-on needed. The results of the sample questions are not stored, and do not predict your actual test results.
+>[!NOTE]
+>
+>IMPORTANT NOTE: The following sections and links will **only** function after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
 
-[See sample questions](https://scorpion.caveon.com/launchpad/ad0-e458-adobe-audience-manager-business-practitioner-professional-copy-dvaivw){target="_blank"}
 
-* Provide your email address.
-* Answer the candidate agreement.
-* Start the test.
-* Mark your answer in each question.
-* Click Next on the upper portion of the screen to save your answer and move to the next question. You may return and revise your question within the specified time.
-* On the last question, click Submit Exam to submit all your answers.
-* Answer the short survey.
+**Now that you have successfully logged in, the following links will be directly accessible.**
 
-## Get certified
+**Take the certification exam**
 
-To schedule your exam you will click on "schedule" below. This will redirect you to the Adobe Credential Management system where you will click scheduling>then search for this exam to schedule.
+Adobe uses two vendors to administer proctored exams: PSI and Examity. PSI offers two options for taking exams: test center and remote online, while Examity only offers the remote online option.
+To schedule, reschedule, or cancel your exam, simply click on the vendor of choice, and follow the instructions provided on screen. It's that simple!
 
-[Schedule AD0-E458](https://learning.adobe.com/api.certify.json){target="_blank"}
+Exam number: AD0-E458
 
-## Questions
+* [Examity](https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E458){target="_blank"} (Modality: Remote online)
 
-Have a question about Adobe Certification? Please email `certif@adobe.com`.
+Purchase your exam voucher at [Adobe Certification Voucher Center](https://market.xvoucher.com/adobe/global){target="_blank"}. 
+
+Apply the voucher code when you schedule your exam. If you have a discount, it will apply at checkout.
+
+>[!ENDTABS]
+
+**Questions**
 
 View the certification [FAQs](https://solutionpartners.adobe.com/solution-partners/training_and_certification/certification/certification_faq.html#){target="_blank"}.
+
+Additional questions? Please email `certif@adobe.com`.

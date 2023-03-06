@@ -50,7 +50,7 @@ Exam ID: AD0-E212
 
 >[!TAB Get ready]
 
-## Readiness self-assessment
+**Readiness self-assessment**
 
 Complete the [online readiness questionnaire](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-w9tako/ad-q-e212-readiness-questionnaire-for-adobe-analytics-business-practitioner-professional-exam){target="_blank"} to see if your current experience matches the recommended minimum candidate qualification.
 

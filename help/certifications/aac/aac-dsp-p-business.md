@@ -43,7 +43,7 @@ Passing Score: 44/69
 Time: 138 mins
 Delivery: Online proctored (requires camera access) or test center proctored
 Available languages: English
-Cost: $125 (global) and $95 (India)
+Cost: $125 (global) / $95 (India)
 Exam ID: AD0-E502
 
 ```
