@@ -9,19 +9,17 @@ badge: label="Restart Program" type="positive"
 
 ## Restart your certification journey by going from expired to certified
 
-When you pass a certification exam, your certification is valid for two years. If you have not renewed your certification before the two year deadline, your certification expires. 
+![Certification Expert Badge](/help/certifications/assets/expert-badge-Xsmall.png) ![Certification Master Badge](/help/certifications/assets/master-badge-Xsmall.png)
 
-We're happy to announce a limited-time offer, to those invited via email, to participate allowing you to restart your certification in a new, no-cost format. 
+**What is Adobe Restart program?**
 
-If you have:
+The Adobe Restart Program is an initiative that allows individuals who previously held Adobe Digital Cloud Experience certifications that have since expired to earn a new certification for free. The program offers eligible participants the opportunity to update their skills and stay current in their field by completing designated learning activities or an unproctored job role exam, depending on the solution. This program is a valuable resource for individuals seeking to enhance their digital expertise and stay competitive in today's rapidly changing digital environment.
 
-* Received an email invitation to participate
-* Passed one of the exams below 
-* You're certification has expired in April 2023
+**How does it work?**
 
-...this is the renewal path for YOU!
-
-![Certification Expert Badge](/help/certifications/assets/expert-badge-small.png) ![Certification Master Badge](/help/certifications/assets/master-badge-small.png)
+* Review the requirements to see if you are eligible
+* Complete the requirements before the deadline
+* Act now to take advantage of this opportunity to earn a new certification for free.
 
 >[!NOTE]
 >
