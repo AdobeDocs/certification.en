@@ -3,7 +3,7 @@ title: Adobe Marketo Engage Certification
 description: You have technical knowledge about audience segmentation, destination exports, and activation on real time basis for unified profiles that adhere to data and privacy regulations, customer data platforms (CDP) and knowledge of Adobe Experience Platform.
 solution: Marketo Engage
 role: Developer
-badge: label="Exam ADO-E559" type="positive"
+badge: label="Exam AD0-E559" type="positive"
 ---
 # Certification journey for Adobe Marketo Engage Business Practitioner expert
 

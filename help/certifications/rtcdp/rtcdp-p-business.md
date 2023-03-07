@@ -4,7 +4,7 @@ description: You have technical knowledge about audience segmentation, destinati
 solution: Real-time Customer Data Platform
 role: Developer
 recommendations: disable, exclude
-badge: label="Exam ADO-E602" type="positive"
+badge: label="Exam AD0-E602" type="positive"
 ---
 # Certification journey - Adobe Real-Time CDP Business Practitioner professional
 

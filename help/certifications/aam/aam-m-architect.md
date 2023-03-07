@@ -3,7 +3,7 @@ title: Adobe Analytics Certification
 description: You have technical knowledge about audience segmentation, destination exports, and activation on real time basis for unified profiles that adhere to data and privacy regulations, customer data platforms (CDP) and knowledge of Adobe Experience Platform.
 solution: Analytics
 role: Developer
-badge: label="Exam ADO-E454" type="positive"
+badge: label="Exam AD0-E454" type="positive"
 ---
 # Certification journey for Adobe Audience Manager Architect master
 

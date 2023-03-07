@@ -3,7 +3,7 @@ title: Adobe Campaign Standard Certification
 description: Gain technical knowledge about audience segmentation, destination exports, and activation on real-time basis for unified profiles that adhere to data and privacy regulations, customer data platforms (CDP) and knowledge of Adobe Experience Platform.
 solution: Campaign Standard
 role: Developer
-badge: label="Exam ADO-E306" type="positive"
+badge: label="Exam AD0-E306" type="positive"
 ---
 # Certification journey for Adobe Campaign Standard Developer expert
 
