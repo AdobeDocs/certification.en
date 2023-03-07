@@ -121,9 +121,9 @@ Here are some suggested resources to help you prepare:
 
 **Section 1: Understanding Analytics in the Adobe Experience Cloud Ecosystem**
 
-* [Analytics Tech Notes](https://experienceleague.adobe.com/docs/analytics/technotes/home.html?lang=en){target="_blank"}
-* [Setting Analytics and Experience Cloud IDs](https://experienceleague.adobe.com/docs/id-service/using/reference/analytics-reference/analytics-ids.html?lang=en){target="_blank"}
-* [Analytics videos and tutorials](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html?lang=en){target="_blank"}
+* [Analytics Tech Notes](https://experienceleague.adobe.com/docs/analytics/technotes/home.html){target="_blank"}
+* [Setting Analytics and Experience Cloud IDs](https://experienceleague.adobe.com/docs/id-service/using/reference/analytics-reference/analytics-ids.html){target="_blank"}
+* [Analytics videos and tutorials](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html){target="_blank"}
 
 **Section 2: Strategy and design based on a solution design reference (SDR)**
 
@@ -132,26 +132,26 @@ Here are some suggested resources to help you prepare:
 
 **Section 3: Analytics implementation and configuration**
 
-* [Implement Adobe Analytics](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=en){target="_blank"}
-* [Understanding and creating report suites](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.html?lang=en){target="_blank"}
-* [Configuring Link Tracking for Adobe Analytics](https://experienceleague.adobe.com/docs/experience-manager-64/administering/integration/adobeanalytics-link.html?lang=en){target="_blank"}
+* [Implement Adobe Analytics](https://experienceleague.adobe.com/docs/analytics/implementation/home.html){target="_blank"}
+* [Understanding and creating report suites](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.html){target="_blank"}
+* [Configuring Link Tracking for Adobe Analytics](https://experienceleague.adobe.com/docs/experience-manager-64/administering/integration/adobeanalytics-link.html){target="_blank"}
 
 **Section 4: Tag management systems**
 
 * [Tag Management](https://business.adobe.com/products/analytics/tag-management.html){target="_blank"}
-* [Tags overview](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html?lang=en){target="_blank"}
-* [Overview](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/overview.html?lang=en){target="_blank"}
+* [Tags overview](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html){target="_blank"}
+* [Overview](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/overview.html){target="_blank"}
 
 **Section 5: Mobile services**
 
-* [Implement Analytics for Mobile Devices](https://experienceleague.adobe.com/docs/analytics/implementation/mobile-device-sdk.html?lang=en){target="_blank"}
-* [Migrate Mobile Services processing rules to Adobe Analytics](https://experienceleague.adobe.com/docs/analytics/technotes/migrate-mobile.html%3Flang%3Des){target="_blank"}
+* [Implement Analytics for Mobile Devices](https://experienceleague.adobe.com/docs/analytics/implementation/mobile-device-sdk.html){target="_blank"}
+* [Migrate Mobile Services processing rules to Adobe Analytics](https://experienceleague.adobe.com/docs/analytics/technotes/migrate-mobile.html){target="_blank"}
 
 **Section 6: Testing, validation, and troubleshooting**
 
-* [Adobe Experience Platform Debugger overview](https://experienceleague.adobe.com/docs/experience-platform/debugger/home.html?lang=en){target="_blank"}
-* [Enabling, Debugging, and Customizing the Adobe Analytics Activity Map](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/components/activity-map/enabling-debugging-and-customizing-the-activity-map.html?lang=en){target="_blank"}
-* [Optimize Analysis Workspace performance](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/workspace-faq/optimizing-performance.html?lang=en){target="_blank"}
+* [Adobe Experience Platform Debugger overview](https://experienceleague.adobe.com/docs/experience-platform/debugger/home.html){target="_blank"}
+* [Enabling, Debugging, and Customizing the Adobe Analytics Activity Map](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/components/activity-map/enabling-debugging-and-customizing-the-activity-map.html){target="_blank"}
+* [Optimize Analysis Workspace performance](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/workspace-faq/optimizing-performance.html){target="_blank"}
 
 
 >[!TAB Get certified]
