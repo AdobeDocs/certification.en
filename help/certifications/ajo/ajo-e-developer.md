@@ -187,14 +187,18 @@ Go to the [Adobe Certification Exam Prep Portal](https://www.certmetrics.com/ado
 
 **Take the certification exam**
 
-Adobe uses two vendors to administer proctored exams: PSI and Examity. PSI offers two options for taking exams: test center and remote online, while Examity only offers the remote online option.
+Adobe uses two vendors to administer proctored exams: PSI and Examity. 
+
+* **PSI:** offers two options for taking exams: test center and remote online
+* **Examity:** only offers the remote online option
+
 To schedule, reschedule, or cancel your exam, simply click on the vendor of choice, and follow the instructions provided on screen. It's that simple!
 
 Exam number: AD0-E608
 
-[!BADGE PSI - Modality: Test center, remote online]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&ec=AD0-E603 newtab=true"}
+[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&ec=AD0-E603 newtab=true"}
 
-[!BADGE Examity - Modality: Remote online]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E603 newtab=true"}
+[!BADGE Examity]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E603 newtab=true"}
 
 Purchase your exam voucher at [Adobe Certification Voucher Center](https://market.xvoucher.com/adobe/global){target="_blank"}. 
 
