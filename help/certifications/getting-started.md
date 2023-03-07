@@ -1,6 +1,7 @@
 ---
 title: Get Started
 description: Get started with technical certifications
+badge: label="Get started" type="positive"
 ---
 
 # Get started {#getting-started}
