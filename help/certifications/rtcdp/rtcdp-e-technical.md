@@ -4,7 +4,7 @@ description: You have technical knowledge about audience segmentation, destinati
 solution: Real-time Customer Data Platform
 role: Developer
 recommendations: disable, exclude
-badge: label="Exam ADO-E600 & AD7-E601" type="positive"
+badge: label="Exam AD0-E600 & AD7-E601" type="positive"
 ---
 
 # Certification journey for Adobe Experience Platform expert

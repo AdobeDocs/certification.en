@@ -3,7 +3,7 @@ title: Adobe Workfront Certification
 description: You have technical knowledge about audience segmentation, destination exports, and activation on real time basis for unified profiles that adhere to data and privacy regulations, customer data platforms (CDP) and knowledge of Adobe Experience Platform.
 solution: Workfront
 role: Developer
-badge: label="Exam ADO-E904" type="positive"
+badge: label="Exam AD0-E904" type="positive"
 ---
 # Certification journey - Adobe Workfront Core Developer expert
 

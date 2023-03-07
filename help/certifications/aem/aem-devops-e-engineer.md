@@ -3,7 +3,7 @@ title: Adobe Experience Manager Certification
 description: You have technical knowledge about audience segmentation, destination exports, and activation on real time basis for unified profiles that adhere to data and privacy regulations, customer data platforms (CDP) and knowledge of Adobe Experience Platform.
 solution: Experience Manager
 role: Developer
-badge: label="Exam ADO-E124" type="positive"
+badge: label="Exam AD0-E124" type="positive"
 ---
 # Certification journey for Adobe Experience Manager DeveOps Engineer expert
 
