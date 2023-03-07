@@ -40,7 +40,12 @@ You should have:
 * Marketing Technology Lead
 * Technical Consultant
 
-**Exam details: Adobe Experience Platform**
+
+**Requirement 1: AD0-E600 Adobe Experience Platform Technical Foundations**
+
+The AD0-E600 exam validates skills and knowledge covering the basic features and frequently performed tasks of Adobe Experience Platform at the Expert level.
+
+**Exam details:**
 
 ```
 Level: Expert (1-3 years experience)
@@ -52,25 +57,6 @@ Cost: $225 (global) / $150 (India)
 Exam ID: AD0-E600
 
 ```
-
-_AND_
-
-**Exam details: Adobe Real-Time CDP Technical Practitioner**
-
-```
-Level: Expert (1-3 years experience)
-Passing Score: 25/34
-Time: 51 mins
-Delivery: Online proctored (requires camera access) or test center proctored
-Language: English
-Cost: $225 (global) / $150 (India)
-Exam ID: AD7-E601
-
-```
-
-**Requirement 1: AD0-E600 Adobe Experience Platform Technical Foundations**
-
-The AD0-E600 exam validates skills and knowledge covering the basic features and frequently performed tasks of Adobe Experience Platform at the Expert level.
 
 >[!BEGINTABS]
 
@@ -182,6 +168,19 @@ Apply the voucher code when you schedule your exam. If you have a discount, it w
 **Requirement 2: AD7-E601 Adobe Real-Time CDP Technical Practitioner**
 
 The AD7-E601 exam covers the creation, management and understanding of customer profile, segmentation, destinations across sources, and other topics. The exam validates the foundational skills and knowledge needed to employ Real-time CDP for audience segmentation, destination exports, and activation on a real-time basis for unified profiles that adhere to data and privacy regulations. Candidates should have experience with Customer Data Platforms (CDP) and knowledge of Adobe Experience Platform.
+
+**Exam details:**
+
+```
+Level: Expert (1-3 years experience)
+Passing Score: 25/34
+Time: 51 mins
+Delivery: Online proctored (requires camera access) or test center proctored
+Language: English
+Cost: $225 (global) / $150 (India)
+Exam ID: AD7-E601
+
+```
 
 >[!BEGINTABS]
 
