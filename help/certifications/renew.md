@@ -14,9 +14,9 @@ To maintain the Adobe certification, it is required to renew it every 24 months.
 
 It is important keep track of your certification renewal dates and ensure that you complete the renewal process before the expiration date, to avoid any disruptions to your certification status.
 
-**How do I renew my certification**
+**How do I renew my certification?**
 
-Renewing an Adobe certification is easy at Adobe! Depending on the level, solution, or job role, the renewal process is completed by completing continuous learning activities and passing assessments / or by passing an unproctored on-demand job role exam. 
+Renewing an Adobe certification is easy at Adobe! Depending on the level, solution, or job role, the renewal process is completed by working through continuous learning activities and passing assessments / or by passing an unproctored on-demand job role exam. 
 
 Adobe offers various resources and tools to help you renew your certification, including:
 
