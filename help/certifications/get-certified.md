@@ -4,6 +4,7 @@ description: You have technical knowledge about audience segmentation, destinati
 solution: Real-time Customer Data Platform
 role: Developer
 recommendations: disable, exclude
+badge: label="Get certified" type="positive"
 ---
 # Get Certified {#rtcdp-get-certified}
 

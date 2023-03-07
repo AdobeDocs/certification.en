@@ -1,6 +1,7 @@
 ---
 title: Certification Home
 description: This is the article overview for certification.
+badge: label="Certification home" type="positive"
 ---
 
 # Welcome to Certification at Adobe! {#certification-overview}
