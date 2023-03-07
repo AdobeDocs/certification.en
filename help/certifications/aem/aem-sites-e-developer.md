@@ -3,7 +3,7 @@ title: Adobe Experience Manager Certification
 description: You have technical knowledge about audience segmentation, destination exports, and activation on real time basis for unified profiles that adhere to data and privacy regulations, customer data platforms (CDP) and knowledge of Adobe Experience Platform.
 solution: Experience Manager Sites
 role: Developer
-badge: label="Exam ADO-E134" type="positive"
+badge: label="Exam AD0-E134" type="positive"
 ---
 # Certification journey for Adobe Experience Manager Sites Developer expert
 
@@ -155,13 +155,18 @@ Go to the [Adobe Certification Exam Prep Portal](https://www.certmetrics.com/ado
 
 **Take the certification exam**
 
-Adobe uses two vendors to administer proctored exams: PSI and Examity. PSI offers two options for taking exams: test center and remote online, while Examity only offers the remote online option.
+**Take the certification exam**
+
+Adobe uses two vendors to administer proctored exams, PSI and Examity. 
+
+* **PSI** offers two options for taking exams, test center and remote online
+* **Examity** only offers the remote online option
+
 To schedule, reschedule, or cancel your exam, simply click on the vendor of choice, and follow the instructions provided on screen. It's that simple!
 
 Exam number: AD0-E134
 
-* [PSI](https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&ec=AD0-E134){target="_blank"} (Modality: Test Center, remote online)
-* [Examity](https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E134){target="_blank"} (Modality: Remote online)
+[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&ec=AD0-E134 newtab=true"} [!BADGE Examity]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E134 newtab=true"}
 
 Purchase your exam voucher at [Adobe Certification Voucher Center](https://market.xvoucher.com/adobe/global){target="_blank"}. 
 
