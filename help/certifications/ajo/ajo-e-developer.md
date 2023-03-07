@@ -195,7 +195,7 @@ Exam number: AD0-E608
 * [PSI](https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&ec=AD0-E603){target="_blank"} (Modality: Test Center, remote online)
 * [Examity](https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E603){target="_blank"} (Modality: Remote online)
 
-[!BADGE PSI - Modality: Test center, remote online]{type=Neutral url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&ec=AD0-E603}{target="_blank"}"
+[!BADGE PSI - Modality: Test center, remote online]{type=Neutral url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&ec=AD0-E603"}{target="_blank"}
 
 Purchase your exam voucher at [Adobe Certification Voucher Center](https://market.xvoucher.com/adobe/global){target="_blank"}. 
 
