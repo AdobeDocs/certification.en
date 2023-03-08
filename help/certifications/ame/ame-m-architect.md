@@ -5,39 +5,29 @@ solution: Marketo Engage
 role: Architect
 badge: label="Exam AD0-E556" type="positive"
 ---
-# Certification journey - Adobe Marketo Engage Architect master
+# Certification journey for Adobe Marketo Engage Architect master
 
-Exam ID: AD0-E556
 
-## Start your journey toward certification
+![Certification Master Badge](/help/certifications/assets/master-badge-Xsmall.png)
 
-Purchase your exam voucher at Adobe Certification Voucher Center. If you have a discount, it will apply at checkout. Apply the voucher code when you schedule your exam.
+>[!NOTE]
+>
+>Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
 
-If an exam is marked as retiring you will see a note at the top of this page. This indicates that you can still take it until the date specified in the note. 
-
-Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
-
-If you're a current Marketo Engage Business Practitioner Certified Expert and have:
+You should be a current Marketo Engage Business Practitioner Certified Expert and have:
 
 * At least five years of experience preferably with multiple instances of Marketo Engage
 * An understanding of the business impact and effectively explain/communicate their solution to the stakeholders (technical and non-technical) at different levels
 * The ability to conceptualize a solution and translate to a Marketo Engage architecture, understand the business processes impacted by integrations
 * An understanding of the principles of architecting an instance
 
-Additionally, you're familiar with the following tools and technologies:
+Additionally, you should be familiar with the following tools and technologies:
 
 * Adobe Marketo Engage features, functionality, and apps
 * Database systems
 * API connectivity
 * CRM platform
 * Marketing technology platforms
-
-...this is the certification for YOU!
-
-![Alt text](../assets/master-badge-small.png)
-
-
-**Level of experience**: 3-5 years
 
 **Intended audience:**
 
@@ -56,22 +46,28 @@ Additionally, you're familiar with the following tools and technologies:
 * CRM manager
 * CRM/Lifecycle marketing manager
 
-**Exam details - Adobe Marketo Engage Architect**
+**Exam details:**
 
 ```
-
+Level: Master (3-5 years experience)
 Passing Score: 30/50
 Time: 150 mins
 Delivery: Online proctored (requires camera access) or test center proctored
 Available languages: English
-Cost: $225 (global) and $150 (India)
+Cost: $225 (global) / $150 (India)
 Exam ID: AD0-E556
 
 ```
 
-## Get ready
+>[!BEGINTABS]
+
+>[!TAB Get ready]
 
 **AD0-E556  Adobe Marketo Engage Architect**
+
+**Readiness self assessment**
+
+Complete the [online readiness questionnaire](https://scorpion.caveon.com/launchpad/ad-q-e556-readiness-questionnaire-for-adobe-marketo-engage-architect-master-exam/ad-q-e556-readiness-questionnaire-for-adobe-marketo-engage-architect-master-exam){target="_blank"} to see if your current experience matches the recommended minimum candidate qualification.
 
 **Exam objectives and scope**
 
@@ -113,15 +109,17 @@ Section 4: Advanced Operations (16%)
 * Gather information about a client's implementation and recommend security practices
 * Explain the applicability of workspace and partitions for a given scenario
 
-## Readiness self assessment
-
-Complete the [online readiness questionnaire](https://scorpion.caveon.com/launchpad/ad-q-e556-readiness-questionnaire-for-adobe-marketo-engage-architect-master-exam/ad-q-e556-readiness-questionnaire-for-adobe-marketo-engage-architect-master-exam){target="_blank"} to see if your current experience matches the recommended minimum candidate qualification.
-
-## Get prepped
+>[!TAB Get prepped]
 
 You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
 
 Here are some suggested resources to help you prepare:
+
+**Sample questions**
+
+The sample questions allow you to see the type and format of items that you will encounter in the actual exam. There is no sign-on needed. The results of the sample questions are not stored, and do not predict your actual test results.
+
+[See sample questions](https://scorpion.caveon.com/launchpad/ad0-e556-adobe-marketo-engage-architect-master-exam-copy-pewwl4){target="_blank"}
 
 **AD0-E556 Adobe Marketo Engage Architect**
 
@@ -147,28 +145,36 @@ Here are some suggested resources to help you prepare:
 * [Suppressing Soft Bounces](https://nation.marketo.com/t5/product-discussions/suppressing-soft-bounces-any-email-min-3x-encouraged/m-p/209411#M153533){target="_blank"}
 * [Understanding Workspaces and Person Partitions](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.html?lang=en){target="_blank"}
 
-## Sample questions
+>[!TAB Get certified]
 
-The sample questions allow you to see the type and format of items that you will encounter in the actual exam. There is no sign-on needed. The results of the sample questions are not stored, and do not predict your actual test results.
+>[!NOTE]
+>
+>IMPORTANT NOTE: The following sections and links will **only** function after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
 
-[See sample questions](https://scorpion.caveon.com/launchpad/ad0-e556-adobe-marketo-engage-architect-master-exam-copy-pewwl4){target="_blank"}
 
-* Provide your email address.
-* Answer the candidate agreement.
-* Start the test.
-* Mark your answer in each question.
-* Click Next on the upper portion of the screen to save your answer and move to the next question. You may return and revise your question within the specified time.
-* On the last question, click Submit Exam to submit all your answers.
-* Answer the short survey.
+**Now that you have successfully logged in, the following links will be directly accessible.**
 
-## Get certified
+**Take the certification exam**
 
-To schedule your exam you will click on "schedule" below. This will redirect you to the Adobe Credential Management system where you will click scheduling>then search for this exam to schedule.
+Adobe uses two vendors to administer proctored exams, PSI and Examity. 
 
-[Schedule AD0-E556](https://learning.adobe.com/api.certify.json){target="_blank"}
+* **PSI** offers two options for taking exams, test center and remote online
+* **Examity** only offers the remote online option
 
-## Questions
+To schedule, reschedule, or cancel your exam, simply click on the vendor of choice, and follow the instructions provided on screen. It's that simple!
 
-Have a question about Adobe Certification? Please email `certif@adobe.com`.
+Exam number: AD0-E556
+
+[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&ec=AD0-E556 newtab=true"} [!BADGE Examity]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E556 newtab=true"}
+
+You can pay for your certification exam by voucher or credit card. To purchase an exam voucher go to: [Adobe Certification Voucher Center](https://market.xvoucher.com/adobe/global){target="_blank"}. 
+
+You can apply the voucher code when you schedule your exam. If you have a discount, it will apply at checkout.
+
+>[!ENDTABS]
+
+**Questions**
 
 View the certification [FAQs](https://solutionpartners.adobe.com/solution-partners/training_and_certification/certification/certification_faq.html#){target="_blank"}.
+
+Additional questions? Please email `certif@adobe.com`.
