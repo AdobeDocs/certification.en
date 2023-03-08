@@ -1,23 +1,19 @@
 ---
-title: Adobe Target Certification
-description: You have technical knowledge about audience segmentation, destination exports, and activation on real time basis for unified profiles that adhere to data and privacy regulations, customer data platforms (CDP) and knowledge of Adobe Experience Platform.
+title: AAdobe Target Business Practitioner
+description: Discover the steps to getting certified in Adobe Target Business Practitioner.
 solution: Target
 role: Developer
 badge: label="Exam AD0-E406" type="positive"
 ---
-# Certification journey - Adobe Target Business Practitioner expert
+# Certification journey for Adobe Target Business Practitioner expert
 
-Exam ID: AD0-E406
-    
-## Start your journey toward certification
+![Certification Expert Badge](/help/certifications/assets/expert-badge-Xsmall.png)
 
-Purchase your exam voucher at Adobe Certification Voucher Center. If you have a discount, it will apply at checkout. Apply the voucher code when you schedule your exam.
+>[!NOTE]
+>
+>Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
 
-If an exam is marked as retiring you will see a note at the top of this page. This indicates that you can still take it until the date specified in the note. 
-
-Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
-
-If you have:
+You should have:
 
 * 2+ years' experience with optimization platforms, including Adobe Target
 * Hands-on experience with Adobe Target
@@ -34,7 +30,7 @@ If you have:
 * An understanding of the impact of changing technologies on Target (e.g., ITP, GDPR/CCPA, SPA)
 * An understanding of how Recommendation Activities can be used as a solution
 
-Additionally, you're familiar with the following technologies and environments:
+Additionally, you should be familiar with the following technologies and environments:
 
 Technologies:
 
@@ -63,12 +59,6 @@ Environments:
 * Use of target for single page applications 
 * Email
 
-...this is the certification for YOU!
-
-![Certification Expert Badge](/help/certifications/assets/expert-badge-small.png)
-
-**Level of experience**: 1-3 years
-
 **Intended audience:** 
 
 * Optimization
@@ -76,10 +66,10 @@ Environments:
 * Analytics
 * Digital and product marketing
 
-**Exam details - Adobe Target Business Practitioner**
+**Exam details:**
   
 ```
-
+Level: Expert (1-3 years experience)
 Passing Score: 46/68
 Time: 136 mins
 Delivery: Online proctored (requires camera access) or test center proctored
@@ -89,7 +79,9 @@ Exam ID: AD0-E406
 
 ```
 
-## Get ready
+>[!BEGINTABS]
+
+>[!TAB Get ready]
 
 **AD0-E406 Adobe Target Business Practitioner**
 
@@ -139,9 +131,11 @@ Section 4: Troubleshooting (10%)
 * Use browser debugging tools (including Experience Cloud Debugger) to verify implementation
 * Verify metrics and reporting
 
-## Get prepped
+>[!TAB Get prepped]
 
 You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
+
+Here are some suggested resources to help you prepare:
 
 **AD0-E406 Adobe Target Business Practitioner**
 
@@ -153,8 +147,6 @@ You are not required to complete training before taking the exam, and training a
 * [Set up Workspaces in Adobe Target](https://experienceleague.adobe.com/docs/target-learn/tutorials/administration/set-up-workspaces.html?lang=en){target="_blank"}
 * [ Introduction to Administration Setup](https://experienceleague.adobe.com/docs/target-learn/tutorials/administration/1.3-intro-to-admin-setup.html?lang=en){target="_blank"}
 * [Set up Properties in Adobe Target](https://experienceleague.adobe.com/docs/target-learn/tutorials/administration/set-up-properties.html?lang=en){target="_blank"}
-
-
 
 **Section 2: Configuring, executing and managing**
 
@@ -183,26 +175,46 @@ You are not required to complete training before taking the exam, and training a
 * [Troubleshoot activity errors](https://experienceleague.adobe.com/docs/target-learn/tutorials/troubleshooting/4.2-troubleshoot-activity-errors.html?lang=en){target="_blank"}
 * [Troubleshoot integration errors](https://experienceleague.adobe.com/docs/target-learn/tutorials/troubleshooting/4.3-troubleshoot-integration-errors.html?lang=en){target="_blank"}
 
-
-## Take a practice test
-
-We are excited to offer free practice tests and provide a detailed coaching report upon completion of each one. You will have unlimited access to all available practice tests for Adobe's expert-level exams. Our practice tests are developed from the same blueprints as the live exams, so they can help you gauge how you are doing in each topic area. However, taking a practice test does not guarantee that you will pass the certification exam.
-
-Go to the [Adobe Credential Managment System](http://www.certmetrics.com/adobe/){target="_blank"} to launch a practice test.
+>[!TAB Get certified]
 
 >[!NOTE]
 >
->Go to the scheduling page > practice tests > Adobe Certification Prep Portal > click on launch Adobe Exam Prep Portal (on the far-right side).
+>IMPORTANT NOTE: The following sections and links will **only** function after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
 
 
-## Get certified
+**Now that you have successfully logged in, the following links will be directly accessible.**
 
-To schedule your exam you will click on "schedule" below. This will redirect you to the Adobe Credential Management system where you will click scheduling>then search for this exam to schedule.
+**Take a practice test**
 
-* [Schedule AD0-E406](https://learning.adobe.com/api.certify.json){target="_blank"}
+We recommend taking the free practice test before you start. You'll have unrestricted access to all available practice tests for Adobe's expert-level exams.
 
-## Questions
+Our practice tests are all developed from the same blueprint as the live exams. The practice test will help you understand the topics covered in the live exam.
 
-Have a question about Adobe Certification? Please email `certif@adobe.com`.
+Please remember that passing a practice test does not guarantee you will pass the certification exam.
+
+Go to the [Adobe Certification Exam Prep Portal](https://www.certmetrics.com/adobe/candidate/gmetrix_sso.aspx){target="_blank"} now to take a practice test.
+
+**Take the certification exam**
+
+Adobe uses two vendors to administer proctored exams, PSI and Examity. 
+
+* **PSI** offers two options for taking exams, test center and remote online
+* **Examity** only offers the remote online option
+
+To schedule, reschedule, or cancel your exam, simply click on the vendor of choice, and follow the instructions provided on screen. It's that simple!
+
+Exam number: AD0-E406
+
+[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&ec=AD0-E406 newtab=true"} [!BADGE Examity]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E406 newtab=true"}
+
+You can pay for your certification exam by voucher or credit card. To purchase an exam voucher go to: [Adobe Certification Voucher Center](https://market.xvoucher.com/adobe/global){target="_blank"}. 
+
+You can apply the voucher code when you schedule your exam. If you have a discount, it will apply at checkout.
+
+>[!ENDTABS]
+
+**Questions**
 
 View the certification [FAQs](https://solutionpartners.adobe.com/solution-partners/training_and_certification/certification/certification_faq.html#){target="_blank"}.
+
+Additional questions? Please email `certif@adobe.com`.

@@ -1,23 +1,20 @@
 ---
-title: Adobe Marketo Engage Certification
-description: You have technical knowledge about audience segmentation, destination exports, and activation on real time basis for unified profiles that adhere to data and privacy regulations, customer data platforms (CDP) and knowledge of Adobe Experience Platform.
+title: Learn how to get certified in Adobe Marketo Engage
+description: Discover the steps to getting certified in Adobe Marketo Engage professional.
 solution: Marketo Engage
 role: Developer
 badge: label="Exam AD0-E555" type="positive"
 ---
-# Certification journey - Adobe Marketo Engage professional
+# Certification journey for Adobe Marketo Engage professional
 
-Exam ID: AD0-E555
 
-## Start your journey toward certification
+![Certification Expert Badge](/help/certifications/assets/professional-badge-Xsmall.png)
 
-Purchase your exam voucher at Adobe Certification Voucher Center. If you have a discount, it will apply at checkout. Apply the voucher code when you schedule your exam.
+>[!NOTE]
+>
+>Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
 
-If an exam is marked as retiring you will see a note at the top of this page. This indicates that you can still take it until the date specified in the note. 
-
-Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
-
-If you have:
+You should have:
 
 * Approximately 6 months' hands-on experience
 * The ability to understand the marketing needs expressed by task requirements in order to apply a technical solution
@@ -29,16 +26,10 @@ If you have:
 * The Ability to understand the importance of privacy regulations
 * Understanding of Email marketing
 
-And, you're familiar with the following tools and technologies:
+And, you should be familiar with the following tools and technologies:
 
 * Adobe Marketo Engage
 * Excel or Google Sheets/Doc
-
-...this is the certification for YOU!
-
-![Certification Professional Badge](/help/certifications/assets/professional-badge-small.png)
-
-**Level of experience:** 0-12 months
 
 **Intended audience:**
 
@@ -56,21 +47,28 @@ And, you're familiar with the following tools and technologies:
 * Marketing Technology Coordinator / Specialist / Associate
 * Marketing Team Members
 
-**Exam details - Adobe Marketo Engage**
+**Exam details:**
 
 ```
+Level: Professional (0-12 months' experience)
 Passing Score: 36/55
 Time: 110 mins
 Delivery: Online proctored (requires camera access) or test center proctored
 Available languages: English
-Cost: $125 (global) and $95 (India)
+Cost: $125 (global) / $95 (India)
 Exam ID: AD0-E555
 
 ```
 
-## Get ready
+>[!BEGINTABS]
+
+>[!TAB Get ready]
 
 **AD0-E555 Adobe Marketo Engage**
+
+**Readiness self-assessment**
+
+Complete the [online readiness questionnaire](https://scorpion.caveon.com/launchpad/ad-q-e555-readiness-questionnaire-for-adobe-marketo-engage-professional-exam/ad-q-e555-readiness-questionnaire-for-adobe-marketo-engage-professional-exam){target="_blank"} to see if your current experience matches the recommended minimum candidate qualification.
 
 **Exam objectives and scope**
 
@@ -114,15 +112,17 @@ Section 4: Analyzing and building reports (9%)
 * Comprehend Dashboard information and metrics (Email Program Dashboard, Engagement Program Dashboard)
 * Comprehend Email Insights metrics
 
-## Readiness self-assessment
-
-Complete the [online readiness questionnaire](https://scorpion.caveon.com/launchpad/ad-q-e555-readiness-questionnaire-for-adobe-marketo-engage-professional-exam/ad-q-e555-readiness-questionnaire-for-adobe-marketo-engage-professional-exam){target="_blank"} to see if your current experience matches the recommended minimum candidate qualification.
-
-## Get prepped
+>[!TAB Get prepped]
 
 You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
 
 Here are some suggested resources to help you prepare:
+
+**Sample questions**
+
+The sample questions allow you to see the type and format of items that you will encounter in the actual exam. There is no sign-on needed. The results of the sample questions are not stored, and do not predict your actual test results.
+
+[See sample questions](https://scorpion.caveon.com/launchpad/ad0-e555-adobe-marketo-engage-professional-copy-nppnkv){target="_blank"}
 
 **AD0-E555 Adobe Marketo Engage**
 
@@ -157,28 +157,36 @@ Here are some suggested resources to help you prepare:
 * [Report Type Overview](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/report-types/report-type-overview.html){target="_blank"} 
 * [Manage Report Subscriptions](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.html){target="_blank"} 
 
-## Sample questions
+>[!TAB Get certified]
 
-The sample questions allow you to see the type and format of items that you will encounter in the actual exam. There is no sign-on needed. The results of the sample questions are not stored, and do not predict your actual test results.
+>[!NOTE]
+>
+>IMPORTANT NOTE: The following sections and links will **only** function after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
 
-[See sample questions](https://scorpion.caveon.com/launchpad/ad0-e555-adobe-marketo-engage-professional-copy-nppnkv){target="_blank"}
 
-* Provide your email address.
-* Answer the candidate agreement.
-* Start the test.
-* Mark your answer in each question.
-* Click Next on the upper portion of the screen to save your answer and move to the next question. You may return and revise your question within the specified time.
-* On the last question, click Submit Exam to submit all your answers.
-* Answer the short survey.
+**Now that you have successfully logged in, the following links will be directly accessible.**
 
-## Get certified
+**Take the certification exam**
 
-To schedule your exam you will click on "schedule" below. This will redirect you to the Adobe Credential Management system where you will click scheduling>then search for this exam to schedule.
+Adobe uses two vendors to administer proctored exams, PSI and Examity. 
 
-[Schedule AD0-E555](https://learning.adobe.com/api.certify.json){target="_blank"}
+* **PSI** offers two options for taking exams, test center and remote online
+* **Examity** only offers the remote online option
 
-## Questions
+To schedule, reschedule, or cancel your exam, simply click on the vendor of choice, and follow the instructions provided on screen. It's that simple!
 
-Have a question about Adobe Certification? Please email `certif@adobe.com`.
+Exam number: AD0-E555
+
+[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&ec=AD0-E555 newtab=true"} [!BADGE Examity]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E555 newtab=true"}
+
+You can pay for your certification exam by voucher or credit card. To purchase an exam voucher go to: [Adobe Certification Voucher Center](https://market.xvoucher.com/adobe/global){target="_blank"}. 
+
+You can apply the voucher code when you schedule your exam. If you have a discount, it will apply at checkout.
+
+>[!ENDTABS]
+
+**Questions**
 
 View the certification [FAQs](https://solutionpartners.adobe.com/solution-partners/training_and_certification/certification/certification_faq.html#){target="_blank"}.
+
+Additional questions? Please email `certif@adobe.com`.
