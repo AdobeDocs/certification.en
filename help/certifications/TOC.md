@@ -28,6 +28,9 @@ user-guide-description: Certification
     + Master {#aa-master}
       + [Architect](/help/certifications/aa/aa-m-architect.md)
     + [Renewal](/help/certifications/aa/aa-renew.md)
+  + Adobe Customer Journey Analytics {#acja}
+    + Expert {#acja-expert}
+      + [Developer](/help/certifications/acja/acja-e-developer.md)
   + Adobe Audience Manager {#aam}
     + Professional {#aam-professional}
       + [Business Practitioner](/help/certifications/aam/aam-p-business.md)
