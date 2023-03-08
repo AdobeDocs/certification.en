@@ -1,6 +1,6 @@
 ---
-title: Adobe Experience Manager Certification 
-description: You have technical knowledge about audience segmentation, destination exports, and activation on real time basis for unified profiles that adhere to data and privacy regulations, customer data platforms (CDP) and knowledge of Adobe Experience Platform.
+title: Learn how to get certified in Adobe Experience Manager sites developer
+description: Discover the steps to getting certified in Adobe Experience Manager expert.
 solution: Experience Manager Sites
 role: Developer
 badge: label="Exam AD0-E134" type="positive"
