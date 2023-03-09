@@ -5,19 +5,16 @@ solution: Target
 role: Developer
 badge: label="Exam AD0-E407" type="positive"
 ---
-# Certification journey - Adobe Target Architect master
+# Certification journey for Adobe Target Architect master
 
-Exam ID: AD0-E407
 
-## Start your journey toward certification
+![Certification Master Badge](/help/certifications/assets/master-badge-Xsmall.png)
 
-Purchase your exam voucher at Adobe Certification Voucher Center. If you have a discount, it will apply at checkout. Apply the voucher code when you schedule your exam.
+>[!NOTE]
+>
+>Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
 
-If an exam is marked as retiring you will see a note at the top of this page. This indicates that you can still take it until the date specified in the note. 
-
-Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
-
-If you have:
+You should have:
 
 * At least three years of digital marketing optimization experience including implementing Adobe Target activities
 * At least two years' experience (or five engagements) implementing, deploying, and troubleshooting Adobe Target
@@ -26,7 +23,7 @@ If you have:
 * Familiarity with/awareness of Adobe Target APIs/SDKs, server-side integration, reporting, and administration
 * Knowledge of implementing Adobe Target with Single Page Application (SPA) frameworks, mobile and email, and recommendations
 
-Additionally, you're familiar with the following technologies and environments:
+Additionally, you should be familiar with the following technologies and environments:
 
 Technologies:
 
@@ -50,12 +47,6 @@ Environments:
 * AMS hosted environment
 * Adobe I/O Runtime
 
-...this is the certification for YOU!
-
-![Certification Master Badge](/help/certifications/assets/master-badge-small.png)
-
-**Level of experience:** 3-5 years
-
 **Intended audience:**
 
 * Conversion rate optimization engineer/architect
@@ -66,19 +57,22 @@ Environments:
 * Optimization manager
 * Online campaign manager
 
-**Exam details - Adobe Target Architect**
+**Exam details:**
 
 ```
+Level: Master (3-5 years experience)
 Passing Score: 34/50
 Time: 100 mins
 Delivery: Online proctored (requires camera access) or test center proctored
 Available languages: English
-Cost: $225 (global) and $150 (India)
+Cost: $225 (global) / $150 (India)
 Exam ID: AD0-E407
 
 ```
 
-## Get ready
+>[!BEGINTABS]
+
+>[!TAB Get ready]
 
 **AD0-E407 Adobe Target Architect**
 
@@ -126,11 +120,17 @@ Section 7: Troubleshooting (20%)
 * Understand integration errors
 * Troubleshoot Adobe Target Recommendations Errors
 
-## Get prepped
+>[!TAB Get prepped]
 
 You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
 
 Here are some suggested resources to help you prepare:
+
+**Sample questions**
+
+The sample questions allow you to see the type and format of items that you will encounter in the actual exam. There is no sign-on needed. The results of the sample questions are not stored, and do not predict your actual test results.
+
+[See sample questions](https://scorpion.caveon.com/launchpad/ad0-e407-adobe-target-architect-sample-exam/adobe-target-architect-sample-exam){target="_blank"}
 
 **AD0-E407 Adobe Target Architect**
 
@@ -193,29 +193,36 @@ Here are some suggested resources to help you prepare:
 * [Solved: Why is my historical audience showing as "collecting data"?](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-cloud-audiences/why-is-my-historical-audience-showing-as-quot-collecting-data/m-p/286891){target="_blank"}
 * [Adobe Experience Cloud Audiences](https://experienceleague.adobe.com/docs/core-services/interface/services/audiences/audience-library.html?lang=en){target="_blank"}
 
+>[!TAB Get certified]
 
-## Sample questions
+>[!NOTE]
+>
+>IMPORTANT NOTE: The following sections and links will **only** function after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
 
-The sample questions allow you to see the type and format of items that you will encounter in the actual exam. There is no sign-on needed. The results of the sample questions are not stored, and do not predict your actual test results.
 
-[See sample questions](https://scorpion.caveon.com/launchpad/ad0-e407-adobe-target-architect-sample-exam/adobe-target-architect-sample-exam){target="_blank"}
+**Now that you have successfully logged in, the following links will be directly accessible.**
 
-* Provide your email address.
-* Answer the candidate agreement.
-* Start the test.
-* Mark your answer in each question.
-* Click Next on the upper portion of the screen to save your answer and move to the next question. You may return and revise your question within the specified time.
-* On the last question, click Submit Exam to submit all your answers.
-* Answer the short survey.
+**Take the certification exam**
 
-## Get certified
+Adobe uses two vendors to administer proctored exams, PSI and Examity. 
 
-To schedule your exam you will click on "schedule" below. This will redirect you to the Adobe Credential Management system where you will click scheduling>then search for this exam to schedule.
+* **PSI** offers two options for taking exams, test center and remote online
+* **Examity** only offers the remote online option
 
-[Schedule AD0-E407](https://learning.adobe.com/api.certify.json){target="_blank"}
+To schedule, reschedule, or cancel your exam, simply click on the vendor of choice, and follow the instructions provided on screen. It's that simple!
 
-## Questions
+Exam number: AD0-E407
 
-Have a question about Adobe Certification? Please email `certif@adobe.com`.
+[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&ec=AD0-E407 newtab=true"} [!BADGE Examity]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E407 newtab=true"}
+
+You can pay for your certification exam by voucher or credit card. To purchase an exam voucher go to: [Adobe Certification Voucher Center](https://market.xvoucher.com/adobe/global){target="_blank"}. 
+
+You can apply the voucher code when you schedule your exam. If you have a discount, it will apply at checkout.
+
+>[!ENDTABS]
+
+**Questions**
 
 View the certification [FAQs](https://solutionpartners.adobe.com/solution-partners/training_and_certification/certification/certification_faq.html#){target="_blank"}.
+
+Additional questions? Please email `certif@adobe.com`.
