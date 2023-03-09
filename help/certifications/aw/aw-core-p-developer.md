@@ -5,19 +5,15 @@ solution: Workfront
 role: Developer
 badge: label="Exam AD0-E905" type="positive"
 ---
-# Certification journey - Adobe Workfront Core Developer professional
+# Certification journey for Adobe Workfront Core Developer professional
 
-Exam ID: AD0-E905
+![Certification Expert Badge](/help/certifications/assets/professional-badge-Xsmall.png)
 
-## Start your journey toward certification
+>[!NOTE]
+>
+>Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
 
-Purchase your exam voucher at Adobe Certification Voucher Center. If you have a discount, it will apply at checkout. Apply the voucher code when you schedule your exam.
-
-If an exam is marked as retiring you will see a note at the top of this page. This indicates that you can still take it until the date specified in the note. 
-
-Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
-
-If you have:
+You should have:
 
 * At least 3 - 6 months of hands-on experience using Adobe Workfront
 * Experience with Adobe Workfront functionality and connectivity through intake, approval, planning, executing, and reporting
@@ -26,19 +22,13 @@ If you have:
 * An understanding of and experience with process mapping
 * An understanding of different Adobe Workfront personas and how to engage in support
 
-And, you have: 
+And, you should have: 
 
 * Familiarity with Workfront API and API explorer, but not necessarily proficient in API calls
 * The ability to use custom API calls for working with Workfront and other APIs
 * Familiarity with Adobe Workfront
 * Familiarity with native connectors and other Adobe Workfront products and services
 * Familiarity with project management including agile and waterfall, and resource management concepts
-
-...this is the certification for YOU!
-
-![Certification Professional Badge](/help/certifications/assets/professional-badge-small.png)
-
-**Level of experience:** 0-12 months
 
 **Intended audience:**
 
@@ -52,21 +42,28 @@ And, you have:
 * IT specialist
 * Workfront implementation consultant/lead
 
-**Exam details:** Adobe Workfront Core Developer
+**Exam details:** 
 
 ```
+Level: Professional (0-12 months' experience)
 Passing Score: 44/70
 Time: 140 mins
 Delivery: Online proctored (requires camera access)
 Available languages: English
-Cost: $125 (global) and $95 (India)
+Cost: $125 (global) / $95 (India)
 Exam ID: AD0-E905
 
 ```
 
-## Get ready
+>[!BEGINTABS]
+
+>[!TAB Get ready]
 
 **AD0-E905 Adobe Workfront Core Developer**
+
+**Readiness self-assessment**
+
+Complete the [online readiness questionnaire](https://scorpion.caveon.com/launchpad/ad-q-e905-readiness-questionnaire-for-adobe-workfront-core-developer-professional/ad-q-e905-readiness-questionnaire-for-adobe-workfront-core-developer-professional){target="_blank"} to see if your current experience matches the recommended minimum candidate qualification.
 
 **Exam objectives and scope**
 
@@ -105,18 +102,19 @@ Section 5. Execution (24%)
 * Identify the ways to enter time in Workfront
 * Identify the elements of financial tracking in Workfront
 
-## Readiness self-assessment
-
-Complete the [online readiness questionnaire](https://scorpion.caveon.com/launchpad/ad-q-e905-readiness-questionnaire-for-adobe-workfront-core-developer-professional/ad-q-e905-readiness-questionnaire-for-adobe-workfront-core-developer-professional){target="_blank"} to see if your current experience matches the recommended minimum candidate qualification.
-
-## Get prepped
+>[!TAB Get prepped]
 
 You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
 
 Here are some suggested resources to help you prepare:
 
-**AD0-E905 Adobe Workfront Core Developer**
+**Sample Questions**
 
+The sample questions allow you to see the type and format of items that you will encounter in the actual exam. There is no sign-on needed. The results of the sample questions are not stored, and do not predict your actual test results.
+
+[See sample questions](https://scorpion.caveon.com/launchpad/ad0-e905-adobe-workfront-developer-professional-copy-ljt8s6/ad4-e905-adobe-workfront-core-developer-professional-sample-exam){target="_blank"}
+
+**AD0-E905 Adobe Workfront Core Developer**
 
 **Section 1: Strategy and intake**
 
@@ -140,29 +138,37 @@ Here are some suggested resources to help you prepare:
 
 * [Add resource](https://experienceleague.adobe.com/docs/experience-manager-65/administering/security/security.html?lang=en){target="_blank"}
 
-## Sample Questions
 
-The sample questions allow you to see the type and format of items that you will encounter in the actual exam. There is no sign-on needed. The results of the sample questions are not stored, and do not predict your actual test results.
+>[!TAB Get certified]
 
-[See sample questions](https://scorpion.caveon.com/launchpad/ad0-e905-adobe-workfront-developer-professional-copy-ljt8s6/ad4-e905-adobe-workfront-core-developer-professional-sample-exam){target="_blank"}
-
-* Provide your email address.
-* Answer the candidate agreement.
-* Start the test.
-* Mark your answer in each question.
-* Click Next on the upper portion of the screen to save your answer and move to the next question. You may return and revise your question within the specified time.
-* On the last question, click Submit Exam to submit all your answers.
-* Answer the short survey.
+>[!NOTE]
+>
+>IMPORTANT NOTE: The following sections and links will **only** function after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
 
 
-## Get certified
+**Now that you have successfully logged in, the following links will be directly accessible.**
 
-To schedule your exam you will click on "schedule" below. This will redirect you to the Adobe Credential Management system where you will click scheduling>then search for this exam to schedule.
+**Take the certification exam**
 
-[Schedule AD0-E905](https://learning.adobe.com/api.certify.json){target="_blank"}
+Adobe uses two vendors to administer proctored exams, PSI and Examity. 
 
-## Questions
+* **PSI** offers two options for taking exams, test center and remote online
+* **Examity** only offers the remote online option
 
-Have a question about Adobe Certification? Please email `certif@adobe.com`.
+To schedule, reschedule, or cancel your exam, simply click on the vendor of choice, and follow the instructions provided on screen. It's that simple!
+
+Exam number: AD0-E905
+
+[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&ec=AD0-E905 newtab=true"} [!BADGE Examity]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E905 newtab=true"}
+
+You can pay for your certification exam by voucher or credit card. To purchase an exam voucher go to: [Adobe Certification Voucher Center](https://market.xvoucher.com/adobe/global){target="_blank"}. 
+
+You can apply the voucher code when you schedule your exam. If you have a discount, it will apply at checkout.
+
+>[!ENDTABS]
+
+**Questions**
 
 View the certification [FAQs](https://solutionpartners.adobe.com/solution-partners/training_and_certification/certification/certification_faq.html#){target="_blank"}.
+
+Additional questions? Please email `certif@adobe.com`.

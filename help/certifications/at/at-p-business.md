@@ -5,19 +5,15 @@ solution: Target
 role: Developer
 badge: label="Exam AD0-E408" type="positive"
 ---
-# Certification journey - Adobe Target Business Practitioner professional
+# Certification journey for Adobe Target Business Practitioner professional
 
-Exam ID: AD0-E408
+![Certification Expert Badge](/help/certifications/assets/professional-badge-Xsmall.png)
 
-## Start your journey toward certification
+>[!NOTE]
+>
+>Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
 
-Purchase your exam voucher at Adobe Certification Voucher Center. If you have a discount, it will apply at checkout. Apply the voucher code when you schedule your exam.
-
-If an exam is marked as retiring you will see a note at the top of this page. This indicates that you can still take it until the date specified in the note. 
-
-Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
-
-If you have:
+You should have:
 
 * 0-12 months experience with optimization platforms, including Adobe Target
 * Supervised hands-on experience with Adobe Target
@@ -26,12 +22,6 @@ If you have:
 * A basic knowledge of the three-step workflow (experiences, targeting, and goals and settings, including all reporting sources)
 * The ability to read and understand Activity reporting results
 
-...this is the certification for YOU!
-
-![Certification Professional Badge](/help/certifications/assets/professional-badge-small.png)
-
-**Level of experience:** 0-12 months
-
 **Intended audience:**
 
 * Optimization
@@ -39,19 +29,22 @@ If you have:
 * Analytics
 * Digital and product marketing
 
-**Exam details - Adobe Target Business Practitioner**
+**Exam details:**
 
 ```
+Level: Professional (0-12 months' experience)
 Passing Score: 31/50
 Time: 100 mins
 Delivery: Online proctored (requires camera access)
 Available languages: English
-Cost: $125 (global) and $95 (India
+Cost: $125 (global) / $95 (India)
 Exam ID: AD0-E408
 
 ```
 
-## Get ready
+>[!BEGINTABS]
+
+>[!TAB Get ready]
 
 **AD0-E408 Adobe Target Business Practitioner**
 
@@ -100,11 +93,17 @@ Section 4: Troubleshooting (8%)
 * Identify the features of browser debugging tools (including Experience Cloud Debugger)
 * Identify metrics and reporting
 
-## Get prepped
+>[!TAB Get prepped]
 
 You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
 
 Here are some suggested resources to help you prepare:
+
+**Sample questions**
+
+The sample questions allow you to see the type and format of items that you will encounter in the actual exam. There is no sign-on needed. The results of the sample questions are not stored, and do not predict your actual test results.
+
+[See sample questions](https://scorpion.caveon.com/launchpad/ad0-e408-adobe-target-business-practitioner-professional-copy-5axknr){target="_blank"}
 
 **AD0-E408 Adobe Target Business Practitioner**
 
@@ -140,28 +139,35 @@ The exam covers four domains: business analysis, reporting and dashboarding, seg
 * [Adobe Target Business Practitioner Guide](https://experienceleague.adobe.com/docs/target/using/target-home.html?lang=en){target="_blank"}
 * [Adobe Experience Cloud Debugger overview](https://experienceleague.adobe.com/docs/debugger/using/experience-cloud-debugger.html?lang=en){target="_blank"}
 
-## Sample questions
+>[!TAB Get certified]
 
-The sample questions allow you to see the type and format of items that you will encounter in the actual exam. There is no sign-on needed. The results of the sample questions are not stored, and do not predict your actual test results.
+>[!NOTE]
+>
+>IMPORTANT NOTE: The following sections and links will **only** function after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
 
-[See sample questions](https://scorpion.caveon.com/launchpad/ad0-e408-adobe-target-business-practitioner-professional-copy-5axknr){target="_blank"}
+**Now that you have successfully logged in, the following links will be directly accessible.**
 
-* Provide your email address.
-* Answer the candidate agreement.
-* Start the test.
-* Mark your answer in each question.
-* Click Next on the upper portion of the screen to save your answer and move to the next question. You may return and revise your question within the specified time.
-* On the last question, click Submit Exam to submit all your answers.
-* Answer the short survey.
+**Take the certification exam**
 
-## Get certified
+Adobe uses two vendors to administer proctored exams, PSI and Examity. 
 
-To schedule your exam you will click on "schedule" below. This will redirect you to the Adobe Credential Management system where you will click scheduling>then search for this exam to schedule.
+* **PSI** offers two options for taking exams, test center and remote online
+* **Examity** only offers the remote online option
 
-[Schedule AD0-E408](https://learning.adobe.com/api.certify.json){target="_blank"}
+To schedule, reschedule, or cancel your exam, simply click on the vendor of choice, and follow the instructions provided on screen. It's that simple!
 
-## Questions
+Exam number: AD0-E408
 
-Have a question about Adobe Certification? Please email `certif@adobe.com`.
+[!BADGE Examity]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E408 newtab=true"}
+
+You can pay for your certification exam by voucher or credit card. To purchase an exam voucher go to: [Adobe Certification Voucher Center](https://market.xvoucher.com/adobe/global){target="_blank"}. 
+
+You can apply the voucher code when you schedule your exam. If you have a discount, it will apply at checkout.
+
+>[!ENDTABS]
+
+**Questions**
 
 View the certification [FAQs](https://solutionpartners.adobe.com/solution-partners/training_and_certification/certification/certification_faq.html#){target="_blank"}.
+
+Additional questions? Please email `certif@adobe.com`.

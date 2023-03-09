@@ -5,19 +5,15 @@ solution: Workfront
 role: Developer
 badge: label="Exam AD0-E902" type="positive"
 ---
-# Certification journey - Adobe Workfront Fusion Developer professional
+# Certification journey for Adobe Workfront Fusion Developer professional
 
-Exam ID: AD0-E902
+![Certification Professional Badge](/help/certifications/assets/professional-badge-Xsmall.png)
 
-## Start your journey toward certification
+>[!NOTE]
+>
+>Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
 
-Purchase your exam voucher at Adobe Certification Voucher Center. If you have a discount, it will apply at checkout. Apply the voucher code when you schedule your exam.
-
-If an exam is marked as retiring you will see a note at the top of this page. This indicates that you can still take it until the date specified in the note. 
-
-Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
-
-If you have:
+You sould have:
 
 * The ability to with Workfront API and API explorer, but not necessarily proficient in API calls
 * The ability to use custom API calls for working with Workfront and other APIs
@@ -30,12 +26,6 @@ If you have:
 * The ability to manage organization teams and users
 * An understanding of the purpose and use of universal connectors for REST API Oauth2
 
-...this is the certification for YOU!
-
-![Certification Professional Badge](/help/certifications/assets/professional-badge-small.png)
-
-**Level of experience:** 0-12 months
-
 **Intended audience:**
 
 * Developer, Automation Engineer
@@ -45,19 +35,22 @@ If you have:
 * Business analysts, applied business analysts
 * System administrator (IT, MIS, Technology, Knowledge Systems, AI administrators)
 
-**Exam details:** Adobe Workfront Fusion Developer
+**Exam details:** 
 
 ```
+Level: Professional (0-12 months' experience)
 Passing Score: 33/51
 Time: 102 mins
 Delivery: Online proctored (requires camera access) or test center proctored
 Available languages: English
-Cost: $125 (global) and $95 (India)
+Cost: $125 (global) / $95 (India)
 Exam ID: AD0-E902
 
 ```
 
-## Get ready
+>[!BEGINTABS]
+
+>[!TAB Get ready]
 
 **AD0-E902 Adobe Workfront Fusion Developer**
 
@@ -110,11 +103,17 @@ Section 4: Working with APIs (10%)
 * Given a third-party system that does not have a dedicated app, identify the HTTP app and select the appropriate module
 * Identify the difference between CRUD operations and other common capabilities of REST APIs
 
-## Get prepped
+>[!TAB Get prepped]
 
 You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
 
 Here are some suggested resources to help you prepare:
+
+**Sample questions**
+
+The sample questions allow you to see the type and format of items that you will encounter in the actual exam. There is no sign-on needed. The results of the sample questions are not stored, and do not predict your actual test results.
+
+[See sample questions](https://scorpion.caveon.com/launchpad/ad0-e902-adobe-workfront-fusion-developer-professional-copy-exs5g8){target="_blank"}
 
 **AD0-E902 Adobe Workfront Fusion Developer**
 
@@ -149,28 +148,46 @@ Here are some suggested resources to help you prepare:
 * [Apps and their modules](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&topicId=Content%2FWorkfront_Fusion%2FApps_and_their_modules%2F_apps-and-their-modules.htm&_LANG=enus){target="_blank"}
 * [Modules in Adobe Workfront Fusion](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&topicId=Content%2FWorkfront_Fusion%2FModules%2F_modules.htm&_LANG=en){target="_blank"}
 
-## Sample questions
+>[!TAB Get certified]
 
-The sample questions allow you to see the type and format of items that you will encounter in the actual exam. There is no sign-on needed. The results of the sample questions are not stored, and do not predict your actual test results.
+>[!NOTE]
+>
+>IMPORTANT NOTE: The following sections and links will **only** function after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
 
-[See sample questions](https://scorpion.caveon.com/launchpad/ad0-e902-adobe-workfront-fusion-developer-professional-copy-exs5g8){target="_blank"}
 
-* Provide your email address.
-* Answer the candidate agreement.
-* Start the test.
-* Mark your answer in each question.
-* Click Next on the upper portion of the screen to save your answer and move to the next question. You may return and revise your question within the specified time.
-* On the last question, click Submit Exam to submit all your answers.
-* Answer the short survey.
+**Now that you have successfully logged in, the following links will be directly accessible.**
 
-## Get certified
+**Take a practice test**
 
-To schedule your exam you will click on "schedule" below. This will redirect you to the Adobe Credential Management system where you will click scheduling>then search for this exam to schedule.
+We recommend taking the free practice test before you start. You'll have unrestricted access to all available practice tests for Adobe's expert-level exams.
 
-[Schedule AD0-E902](https://learning.adobe.com/api.certify.json){target="_blank"}
+Our practice tests are all developed from the same blueprint as the live exams. The practice test will help you understand the topics covered in the live exam.
 
-## Questions
+Please remember that passing a practice test does not guarantee you will pass the certification exam.
 
-Have a question about Adobe Certification? Please email `certif@adobe.com`.
+Go to the [Adobe Certification Exam Prep Portal](https://www.certmetrics.com/adobe/candidate/gmetrix_sso.aspx){target="_blank"} now to take a practice test.
+
+**Take the certification exam**
+
+Adobe uses two vendors to administer proctored exams, PSI and Examity. 
+
+* **PSI** offers two options for taking exams, test center and remote online
+* **Examity** only offers the remote online option
+
+To schedule, reschedule, or cancel your exam, simply click on the vendor of choice, and follow the instructions provided on screen. It's that simple!
+
+Exam number: AD0-E902
+
+[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&ec=AD0-E902 newtab=true"} [!BADGE Examity]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E902 newtab=true"}
+
+You can pay for your certification exam by voucher or credit card. To purchase an exam voucher go to: [Adobe Certification Voucher Center](https://market.xvoucher.com/adobe/global){target="_blank"}. 
+
+You can apply the voucher code when you schedule your exam. If you have a discount, it will apply at checkout.
+
+>[!ENDTABS]
+
+**Questions**
 
 View the certification [FAQs](https://solutionpartners.adobe.com/solution-partners/training_and_certification/certification/certification_faq.html#){target="_blank"}.
+
+Additional questions? Please email `certif@adobe.com`.
