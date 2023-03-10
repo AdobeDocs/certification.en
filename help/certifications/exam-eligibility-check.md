@@ -9,11 +9,10 @@ hidefromtoc: true
 
 Use the below table to see exams eligible for the restart program.
 
-
-
 >[!BEGINTABS]
 
 >[!TAB Experience Manager]
+
 | Certification name | Exam name | Exam ID | More information |
 | --- | --- | --- | --- |
 | Adobe Certified Expert - Adobe Experience Manager Sites Business Practitioner | Adobe Experience Manager Sites Business Practitioner Expert | AD0-E121 | [link](https://experienceleague.corp.adobe.com/docs/certification/certification/restart-program.html?lang=en") |
@@ -24,6 +23,7 @@ Use the below table to see exams eligible for the restart program.
 | Adobe Certified Master - Adobe Experience Manager Sites Architect | Adobe Experience Manager Sites Architect | AD0-E104 | [link](https://experienceleague.corp.adobe.com/docs/certification/certification/restart-program.html?lang=en") |
 
 >[!TAB Analytics]
+
 | Certification name | Exam name | Exam ID | More information |
 | --- | --- | --- | --- |
 | Adobe Certified Expert - Adobe Analytics Business Practitioner | Adobe Analytics Business Practitioner | AD0-E202 | [link](https://experienceleague.corp.adobe.com/docs/certification/certification/restart-program.html?lang=en") |
@@ -32,6 +32,7 @@ Use the below table to see exams eligible for the restart program.
 | Adobe Certified Master - Adobe Analytics Architect | Adobe Analytics Architect | AD0-E200 | [link](https://experienceleague.corp.adobe.com/docs/certification/certification/restart-program.html?lang=en") |
 
 >[!TAB Audience Manager]
+
 | Certification name | Exam name | Exam ID | More information |
 | --- | --- | --- | --- |
 | Adobe Certified Master - Adobe Audience Manager Architectt | Adobe Audience Manager Architect | AD0-E454 | [link](https://experienceleague.corp.adobe.com/docs/certification/certification/restart-program.html?lang=en") |
@@ -39,6 +40,7 @@ Use the below table to see exams eligible for the restart program.
 | Adobe Certified Expert - Adobe Audience Manager Business Practitioner | Adobe Audience Manager Business Practitioner | AD0-E453 | [link](https://experienceleague.corp.adobe.com/docs/certification/certification/restart-program.html?lang=en") |
 
 >[!TAB Campaign Classic]
+
 | Certification name | Exam name | Exam ID | More information |
 | --- | --- | --- | --- |
 | Adobe Certified Expert - Adobe Campaign Classic Business Practitioner | Adobe Campaign Classic Business Practitioner | AD0-E300 | [link](https://experienceleague.corp.adobe.com/docs/certification/certification/restart-program.html?lang=en") |
@@ -49,6 +51,7 @@ Use the below table to see exams eligible for the restart program.
 | Adobe Certified Expert - Adobe Campaign Classic Developer | Adobe Campaign Classic Developer | AD0-E308 | [link](https://experienceleague.corp.adobe.com/docs/certification/certification/restart-program.html?lang=en") |
 
 >[!TAB Campaign Standard]
+
 | Certification name | Exam name | Exam ID | More information |
 | --- | --- | --- | --- |
 | Adobe Certified Expert - Adobe Campaign Standard Business Practitioner | Adobe Campaign Standard Business Practitioner | AD0-E307 | [link](https://experienceleague.corp.adobe.com/docs/certification/certification/restart-program.html?lang=en") |
@@ -57,12 +60,14 @@ Use the below table to see exams eligible for the restart program.
 | Adobe Certified Expert - Adobe Campaign Standard Developer | Adobe Campaign Standard Developer | AD0-E301 | [link](https://experienceleague.corp.adobe.com/docs/certification/certification/restart-program.html?lang=en") |
 
 >[!TAB Marketo]
+
 | Certification name | Exam name | Exam ID | More information |
 | --- | --- | --- | --- |
 | Adobe Certified Expert - Adobe Marketo Engage Business Practitione | Adobe Marketo Engage Business Practitioner | AD0-E552 | [link](https://experienceleague.corp.adobe.com/docs/certification/certification/restart-program.html?lang=en") |
 | Adobe Certified Expert - Adobe Marketo Engage Business Practitione | Adobe Marketo Engage Business Practitioner | AD0-E401 | [link](https://experienceleague.corp.adobe.com/docs/certification/certification/restart-program.html?lang=en") |
 
 >[!TAB Target]
+
 | Certification name | Exam name | Exam ID | More information |
 | --- | --- | --- | --- |
 | Adobe Certified Master - Adobe Target Architect | Adobe Target Architect | AD0-E402 | [link](https://experienceleague.corp.adobe.com/docs/certification/certification/restart-program.html?lang=en") |
