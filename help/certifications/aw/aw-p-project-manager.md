@@ -108,6 +108,12 @@ The sample questions allow you to see the type and format of items that you will
 
 **AD0-E903 Adobe Workfront Project Manager**
 
+**Recommended training course:**
+
+[Core team training for planners in the new Workfront experience](https://experienceleague.adobe.com/docs/workfront-course-map/using/learning-programs/core-team-training-program-for-planners.html){target="_blank"}
+
+**Additional resources:**
+
 **Section 1: Intake and planning**
 
 * [Use notifications](https://one.workfront.com/s/document-item?bundleId=workfront-classic&topicId=Content%2FWorkfront_basics%2FUsing_Notifications%2F_use-notifications.htm&_LANG=en){target="_blank"}
