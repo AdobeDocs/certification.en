@@ -25,6 +25,96 @@ The Adobe Restart Program is an initiative that allows individuals who previousl
 >
 >**This program is offered from April 4th, 2023 through October 1st, 2023.** 
 
+<!DOCTYPE html>
+<html><head>
+<meta http-equiv="content-type" content="text/html; charset=windows-1252">
+    <title>Exam Eligibility Check</title>
+    <style>
+        table, th, td {
+            border: 1px solid black;
+            border-collapse: collapse;
+            padding: 5px;
+        }
+        th {
+            background-color: #ccc;
+        }
+    </style>
+</head>
+<body>
+    <h1>Certification Restart Eligibility Exam Checker</h1>
+    <p>To check if an exam is eligible for the restart program, input the exam number (e.g., AD0-E100) and select "Check Eligibility.".</p>
+    <form>
+        <label for="exam-id"></label>
+        <input type="text" id="exam-id" name="exam-id" required="">
+        <input type="submit" value="Check Eligibility">
+    </form>
+    <br>
+    <div id="result">We're sorry, but the exam number you have entered 
+could not be located or does not meet the eligibility criteria for the 
+restart program. Try again with a different exam number or email <a href="mailto:certif@adobe.com?subject=Adobe Certification Restart Eligibility">certif@adobe.com</a> for further assistance.</div>
+    <script>
+        // Exam ID parameters
+        var exams = [
+            { certification: "Adobe Certified Expert - Adobe Experience Manager Sites Business Practitioner", name: "Adobe Experience Manager Sites Business Practitioner Expert", id: "AD0-E121", url: "https://experienceleague.corp.adobe.com/docs/certification/certification/restart-program.html?lang=en" },
+            { certification: "Adobe Certified Expert - Adobe Experience Manager Sites Business Practitioner", name: "Adobe Experience Manager Sites Business Practitioner", id: "AD0-E102", url: "https://experienceleague.corp.adobe.com/docs/certification/certification/restart-program.html?lang=en" },
+            { certification: "Adobe Certified Expert - Adobe Experience Manager Sites Developer", name: "Adobe Experience Manager Sites Developer", id: "AD0-E103", url: "https://experienceleague.corp.adobe.com/docs/certification/certification/restart-program.html?lang=en" },
+            { certification: "Adobe Certified Expert - Adobe Experience Manager Sites Developer", name: "Adobe Experience Manager Sites Developer", id: "AD0-E116", url: "https://experienceleague.corp.adobe.com/docs/certification/certification/restart-program.html?lang=en" },
+            { certification: "Adobe Certified Master - Adobe Experience Manager Sites Architect", name: "Adobe Experience Manager Sites Architect", id: "AD0-E117", url: "https://experienceleague.corp.adobe.com/docs/certification/certification/restart-program.html?lang=en" },            
+            { certification: "Adobe Certified Master - Adobe Experience Manager Sites Architect", name: "Adobe Experience Manager Sites Architect", id: "AD0-E104", url: "https://experienceleague.corp.adobe.com/docs/certification/certification/restart-program.html?lang=en" },
+            { certification: "Adobe Certified Expert - Adobe Analytics Business Practitioner", name: "Adobe Analytics Business Practitioner", id: "AD0-E202", url: "https://experienceleague.corp.adobe.com/docs/certification/certification/restart-program.html?lang=en" },
+            { certification: "Adobe Certified Expert - Adobe Analytics Developer", name: "Adobe Analytics Developer", id: "AD0-E201", url: "https://experienceleague.corp.adobe.com/docs/certification/certification/restart-program.html?lang=en" },
+            { certification: "Adobe Certified Master - Adobe Analytics Architect", name: "Adobe Analytics Architect", id: "AD0-E207", url: "https://experienceleague.corp.adobe.com/docs/certification/certification/restart-program.html?lang=en" },
+            { certification: "Adobe Certified Master - Adobe Analytics Architect", name: "Adobe Analytics Architect", id: "AD0-E200", url: "https://experienceleague.corp.adobe.com/docs/certification/certification/restart-program.html?lang=en" },
+            { certification: "Adobe Certified Master - Adobe Audience Manager Architectt", name: "Adobe Audience Manager Architect", id: "AD0-E454", url: "https://experienceleague.corp.adobe.com/docs/certification/certification/restart-program.html?lang=en" },
+            { certification: "Adobe Certified Master - Adobe Audience Manager Architect", name: "Adobe Audience Manager Architect", id: "AD0-E452", url: "https://experienceleague.corp.adobe.com/docs/certification/certification/restart-program.html?lang=en" },
+            { certification: "Adobe Certified Expert - Adobe Audience Manager Business Practitioner", name: "Adobe Audience Manager Business Practitioner", id: "AD0-E453", url: "https://experienceleague.corp.adobe.com/docs/certification/certification/restart-program.html?lang=en" },
+            { certification: "Adobe Certified Expert - Adobe Campaign Classic Business Practitioner", name: "Adobe Campaign Classic Business Practitioner", id: "AD0-E300", url: "https://experienceleague.corp.adobe.com/docs/certification/certification/restart-program.html?lang=en" },
+            { certification: "Adobe Certified Expert - Adobe Campaign Classic Business Practitioner", name: "Adobe Campaign Classic Business Practitioner", id: "AD0-E114", url: "https://experienceleague.corp.adobe.com/docs/certification/certification/restart-program.html?lang=en" },            
+            { certification: "Adobe Certified Master - Adobe Campaign Classic Architect", name: "Adobe Campaign Classic Architect", id: "AD0-E118", url: "https://experienceleague.corp.adobe.com/docs/certification/certification/restart-program.html?lang=en" },
+            { certification: "Adobe Certified Master - Adobe Campaign Classic Architect", name: "Adobe Campaign Classic Architect", id: "AD0-E303", url: "https://experienceleague.corp.adobe.com/docs/certification/certification/restart-program.html?lang=en" },
+            { certification: "Adobe Certified Expert - Adobe Campaign Classic Developer", name: "Adobe Campaign Classic Developer", id: "AD0-E312", url: "https://experienceleague.corp.adobe.com/docs/certification/certification/restart-program.html?lang=en" },
+            { certification: "Adobe Certified Expert - Adobe Campaign Classic Developer", name: "Adobe Campaign Classic Developer", id: "AD0-E308", url: "https://experienceleague.corp.adobe.com/docs/certification/certification/restart-program.html?lang=en" },
+            { certification: "Adobe Certified Expert - Adobe Campaign Standard Business Practitioner", name: "Adobe Campaign Standard Business Practitioner", id: "AD0-E307", url: "https://experienceleague.corp.adobe.com/docs/certification/certification/restart-program.html?lang=en" },
+            { certification: "Adobe Certified Expert - Adobe Campaign Standard Business Practitioner", name: "Adobe Campaign Standard Business Practitioner", id: "AD0-E302", url: "https://experienceleague.corp.adobe.com/docs/certification/certification/restart-program.html?lang=en" },            
+            { certification: "Adobe Certified Expert - Adobe Campaign Standard Developer", name: "Adobe Campaign Standard Developer", id: "AD0-E306", url: "https://experienceleague.corp.adobe.com/docs/certification/certification/restart-program.html?lang=en" },
+            { certification: "Adobe Certified Expert - Adobe Campaign Standard Developer", name: "Adobe Campaign Standard Developer", id: "AD0-E301", url: "https://experienceleague.corp.adobe.com/docs/certification/certification/restart-program.html?lang=en" },
+            { certification: "Adobe Certified Expert - Adobe Marketo Engage Business Practitione", name: "Adobe Marketo Engage Business Practitioner", id: "AD0-E552", url: "https://experienceleague.corp.adobe.com/docs/certification/certification/restart-program.html?lang=en" },
+            { certification: "Adobe Certified Expert - Adobe Marketo Engage Business Practitione", name: "Adobe Marketo Engage Business Practitioner", id: "AD0-E401", url: "https://experienceleague.corp.adobe.com/docs/certification/certification/restart-program.html?lang=en" },
+            { certification: "Adobe Certified Master - Adobe Target Architect", name: "Adobe Target Architect", id: "AD0-E402", url: "https://experienceleague.corp.adobe.com/docs/certification/certification/restart-program.html?lang=en" },
+        ];
+​
+        // Get form and result elements
+        var form = document.querySelector("form");
+        var result = document.getElementById("result");
+​
+        // Add event listener to form submit
+        form.addEventListener("submit", function(event) {
+            event.preventDefault();
+            var input = document.getElementById("exam-id").value.trim().toUpperCase();
+            var exam = exams.find(e => e.id === input);
+            if (exam) {
+                // Exam ID found
+                result.innerHTML = `
+                    <table>
+                        <tr><th>Certification Name</th><th>Exam Name</th><th>Exam ID</th><th>Eligibility</th><th>More Information</th></tr>
+                        <tr><td>${exam.certification}</td><td>${exam.id}</td><td>${exam.name}</td><td>Yes</td><td><a href="${exam.url}" target="_blank">View details</a></td></tr>
+                    </table>
+                `;
+            } else {
+                // Exam ID not found
+                result.innerHTML = "We're sorry, but the exam number you have entered could not be located or does not meet the eligibility criteria for the restart program. Try again with a different exam number or email <a href='mailto:certif@adobe.com?subject=Adobe Certification Restart Eligibility'>certif@adobe.com</a> for further assistance.";
+            }
+            form.reset();
+        });
+    </script>
+​
+​
+​
+​
+​
+​
+</body></html>
+
 ## Exams eligible to re-certify 
 
 >[!BEGINTABS]
