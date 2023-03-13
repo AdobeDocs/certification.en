@@ -11,6 +11,10 @@ badge: label="Restart program" type="positive"
 
 ![Certification Expert Badge](/help/certifications/assets/expert-badge-Xsmall.png) ![Certification Master Badge](/help/certifications/assets/master-badge-Xsmall.png)
 
+>[!NOTE]
+>
+>**This program is offered from April 4th, 2023 through October 1st, 2023.** 
+
 **What is Adobe Restart program?**
 
 The Adobe Restart Program is an initiative that allows individuals who previously held Adobe Digital Cloud Experience certifications that have since expired to earn a new certification for free. The program offers eligible participants the opportunity to update their skills and stay current in their field by completing designated learning activities or an unproctored job role exam, depending on the solution. This program is a valuable resource for individuals seeking to enhance their digital expertise and stay competitive in today's rapidly changing digital environment.
@@ -25,9 +29,6 @@ View your profile history to see if you eligible for this program. If you see (a
 
 [!BADGE My Profile]{type=Informative url="https://www.certmetrics.com/adobe/candidate/requirements.aspx newtab=true"}
 
->[!NOTE]
->
->**This program is offered from April 4th, 2023 through October 1st, 2023.** 
 
 **Exams eligible to re-certify** 
 
