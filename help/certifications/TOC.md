@@ -125,3 +125,5 @@ user-guide-description: Certification
       + [Developer (Core)](/help/certifications/aw/aw-core-e-developer.md)
       + [AEM enhanced connector](/help/certifications/aw/aw-aem-e-connector.md)
     + [Renewal](/help/certifications/aw/aw-renew.md)
++ Hidden {#hidden}
+  + [Certification Restart Eligibility Exam Checker](exam-eligibility-check.md)

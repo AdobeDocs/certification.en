@@ -107,7 +107,8 @@ We offer re-certification of exams in two formats depending on the solution. You
 
 >[!ENDTABS]
 
-**Eligible by on-demand exam**
+**On-demand exams**
+
 
 >[!BEGINTABS]
 
@@ -215,85 +216,31 @@ We offer re-certification of exams in two formats depending on the solution. You
 
 >[!ENDTABS]
 
-## Get ready
-
-To restart your expired certification, we offer either continuous learning activities or an on-demand online exam based on solution/application area, both modalities are offered free of cost and non-proctored.
-
-**Steps for continuous learning activities** 
-
-* A set of short assessments based on the Adobe Experience League content 
-* Submit a customer reference to validate active engagement 
-* Complete minimum required activities for reattaining certification
-
-**Steps for on-demand exam** 
- 
-* The exam is available free of cost online with no proctor 
-
->[!NOTE]
->
->A single Campaign Classic on-demand exam reinstates certifications for all job-roles (for those who have more than 1 certification across multiple job-roles) 
-
-
->[!NOTE]
->
->Audience Manager and Campaign Standard will have on-demand exams based on job-roles
-
-**Solution and restart requirement:**
-
-| Certification by Solution | Requirement |
-| ------- | ------- |
-| Adobe Experience Manager | Continuous learning (for all job roles) |
-| Analytics | Continuous learning (for all job roles) |
-| Target | Continuous learning (for all job roles)|
-| Campaign Classic | On-demand exam |
-|Campaign Standard | On-demand exam |
-| Audience Manager | On-demand exam |
-| Marketo Engage | On-demand exam |
-
-## Get prepped
-
-Here are some suggested resources to help you prepare:
-
->[!BEGINTABS]
-
->[!TAB Experience Manager]
-
-Add content from exam guides
-
->[!TAB Analytics]
-
-Add content from exam guides
-
->[!TAB Target]
-
-Add content from exam guides
-
->[!TAB Campaign Classic]
-
-Add content from exam guides
-
->[!TAB Standard]
-
-Add content from exam guides
-
->[!TAB Audience Manager]
-
-Add content from exam guides
-
->[!TAB Marketo Engage]
-
-Add content from exam guides
-
->[!ENDTABS]
-
-## Restart your certification
+**Restart your certification**
 
 To renew your exam click on the "Restart your certification" link below. This will redirect you to the Adobe Credential Management system where you will click "renew your certification" tab on the right side of the screen > then search for RESTART PROGRAM to see the options from above.
 
-* [Restart your certification](https://learning.adobe.com/api.certify.json){target="_blank"}
+**Take the certification exam**
 
-## Questions
+Adobe uses two vendors to administer proctored exams, PSI and Examity. 
 
-Have a question about Adobe Certification? Please email `certif@adobe.com`.
+* **PSI** offers two options for taking exams, test center and remote online
+* **Examity** only offers the remote online option
+
+To schedule, reschedule, or cancel your exam, simply click on the vendor of choice, and follow the instructions provided on screen. It's that simple!
+
+Exam number: AD0-E406
+
+[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&ec=AD0-E406 newtab=true"} [!BADGE Examity]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E406 newtab=true"}
+
+You can pay for your certification exam by voucher or credit card. To purchase an exam voucher go to: [Adobe Certification Voucher Center](https://market.xvoucher.com/adobe/global){target="_blank"}. 
+
+You can apply the voucher code when you schedule your exam. If you have a discount, it will apply at checkout.
+
+>[!ENDTABS]
+
+**Questions**
 
 View the certification [FAQs](https://solutionpartners.adobe.com/solution-partners/training_and_certification/certification/certification_faq.html#){target="_blank"}.
+
+Additional questions? Please email `certif@adobe.com`.
