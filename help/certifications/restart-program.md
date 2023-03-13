@@ -34,7 +34,7 @@ View your profile history to see if you eligible for this program. If you see (a
 
 We offer re-certification of exams in two formats, depending on the solution. You will be able to re-certify either by continuous learning or on-demand exams. 
 
-**Eligible by continuous learning**
+**Continuous learning**
 
 >[!BEGINTABS]
 
