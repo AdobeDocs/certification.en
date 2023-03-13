@@ -36,6 +36,8 @@ The certification levels reflect a progressive level of proficiency and knowledg
 </tbody>
 </table>
 
+>[!ENDTABS]
+
 ![Professional Badge](/help/certifications/assets/professional-badge-Xsmall.png) **Professional Certification:** This certification validates that a candidate has a foundational understanding of Adobe's digital marketing solutions. The certification exam covers basic concepts and functionalities of Adobe Experience Cloud.
 
 ![Expert Badge](/help/certifications/assets/expert-badge-Xsmall.png)    **Expert Certification:** This certification is for professionals who have a more advanced understanding of Adobe's digital marketing solutions. The certification exam covers more complex concepts and functionalities of Adobe Experience Cloud, including implementation and troubleshooting.
