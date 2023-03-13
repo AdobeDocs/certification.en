@@ -21,13 +21,17 @@ The Adobe Restart Program is an initiative that allows individuals who previousl
 * Complete the requirements before the deadline
 * Act now to take advantage of this opportunity to earn a new certification for free.
 
+View your profile history to see if you eligible for this program. If you see (add what they will see here) you know you are eligible for this program.
+
+[!BADGE My Profile]{type=Informative url="https://www.certmetrics.com/adobe/candidate/requirements.aspx newtab=true"}
+
 >[!NOTE]
 >
 >**This program is offered from April 4th, 2023 through October 1st, 2023.** 
 
 **Exams eligible to re-certify** 
 
-We offer re-certification of exams in two formats depending on the solution. You will be able to re-certify either by continuous learning or on-demand exams. 
+We offer re-certification of exams in two formats, depending on the solution. You will be able to re-certify either by continuous learning or on-demand exams. 
 
 **Eligible by continuous learning**
 
