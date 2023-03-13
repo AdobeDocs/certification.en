@@ -40,23 +40,28 @@ We offer re-certification of exams in two formats depending on the solution. You
   <tr>
    <th>Certification</th>
    <th>Elegible exam</th>
+   <th>Continuous learning</th>
   </tr>
   <tr>
    <td><p>Adobe Certified Expert - Adobe Experience Manager Business Practitioner</td>
    <td><p><ul><li>AD0-E121 Adobe Experience Manager Sites Business Practitioner Expert</li></ul><ul><li>AD0-E102 Adobe Experience Manager Sites Business Practitioner Expert (retired)</li></ul></p></td>
+   <td><p>Link to continuous learning</td>
   </tr>
   <tr>
    <td><p>Adobe Certified Expert - Adobe Experience Manager Developer</td>
    <td><p><ul><li>AD0-E134 Adobe Experience Manager Sites Developer Expert</li></ul><ul><li>AD0-E103 Adobe Experience Manager Sites Developer Expert (retired)</li></ul><ul><li>AD0-E116 Adobe Experience Manager Sites Developer Expert</li></ul></p></td>
+  <td><p>Link to continuous learning</td>
   </tr>
   <tr>
    <td><p>Adobe Certified Expert - Adobe Experience Manager Dev/Ops Engineer</td>
    <td><p><ul><li>AD0-E124 Adobe Experience Manager DevOps Engineer Expert</li></ul><ul><li>AD0-E106 Adobe Experience Manager Dev/Ops Engineer Expert (retired)</li></ul></p></td>
+  <td><p>Link to continuous learning</td>
   </tr>
   <tr>
   <tr>
    <td><p>Adobe Certified Master - Adobe Experience Manager Sites Architect</td>
    <td><p><ul><li>AD0-E117 Adobe Experience Manager Sites Architect Mastert</li></ul><ul><li>AD0-E104 Adobe Experience Manager Sites Architect Master (retired)</li></ul> </p></td>
+  <td><p>Link to continuous learning</td>
   </tr>
  </tbody>
 </table>
@@ -68,18 +73,22 @@ We offer re-certification of exams in two formats depending on the solution. You
   <tr>
    <th>Certification</th>
    <th>Elegible exam</th>
+   <th>Continuous learning</th>
   </tr>
   <tr>
    <td><p>Adobe Certified Expert - Adobe Analytics Business Practitioner</td>
    <td><p><ul><li>AD0-E208 Adobe Analytics Business Practitioner Expert</li></ul><ul><li>AD0-E202 Adobe Analytics Business Practitioner Expert (retired)</li></ul></p></td>
+  <td><p>Link to continuous learning</td>
   </tr>
   <tr>
    <td><p>Adobe Certified Expert - Adobe Analytics Developer</td>
    <td><p><ul><li>AD0-E209 Adobe Analytics Developer Expert</li></ul><ul><li>AD0-E201 Adobe Analytics Developer Expert (retired)</li></ul></p></td>
+  <td><p>Link to continuous learning</td>
   </tr>
   <tr>
    <td><p>Adobe Certified Master - Adobe Analytics Architect</td>
    <td><p><ul><li>AD0-E207 Adobe Analytics Architect Master</li></ul><ul><li>AD0-E200 Adobe Analytics Architect Master (retired)</li></ul></p></td>
+  <td><p>Link to continuous learning</td>
   </tr>
   <tr>
 </tbody>
@@ -92,14 +101,17 @@ We offer re-certification of exams in two formats depending on the solution. You
   <tr>
    <th>Certification</th>
    <th>Elegible exam</th>
+   <th>Continuous learning</th>
   </tr>
   <tr>
    <td><p>Adobe Certified Expert - Adobe Target Business Practitioner</td>
    <td><p><ul><li>AD0-E406 Adobe Target Business Practitioner Expert</li></ul><ul><li>AD0-E401 Adobe Target Business Practitioner Expert (retired)</li></ul></p></td>
+  <td><p>Link to continuous learning</td>
   </tr>
   <tr>
    <td><p>Adobe Certified Master - Adobe Target Architect</td>
    <td><p><ul><li>AD0-E407 Adobe Target Architect Master</li></ul><ul><li>AD0-E402 Adobe Target Architect Master (retired)</li></ul></p></td>
+  <td><p>Link to continuous learning</td>
   </tr>
   <tr>
   </tbody>
