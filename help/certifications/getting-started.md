@@ -14,11 +14,11 @@ The certification levels reflect a progressive level of proficiency and knowledg
 
 >[!TAB Certification levels]
 
-![Professional Badge](/help/certifications/assets/professional-badge-Xsmall.png) **Professional Certification:** This certification validates that a candidate has a foundational understanding of Adobe's digital marketing solutions. The certification exam covers basic concepts and functionalities of Adobe Experience Cloud.
+![Professional Badge](/help/certifications/assets/professional-badge-Xsmall.png) A professional certification validates that a candidate has a foundational understanding of Adobe's digital marketing solutions. The certification exam covers basic concepts and functionalities of Adobe Experience Cloud.
 
-![Expert Badge](/help/certifications/assets/expert-badge-Xsmall.png)    **Expert Certification:** This certification is for professionals who have a more advanced understanding of Adobe's digital marketing solutions. The certification exam covers more complex concepts and functionalities of Adobe Experience Cloud, including implementation and troubleshooting.
+![Expert Badge](/help/certifications/assets/expert-badge-Xsmall.png)    An expert certification is for professionals who have a more advanced understanding of Adobe's digital marketing solutions. The certification exam covers more complex concepts and functionalities of Adobe Experience Cloud, including implementation and troubleshooting.
 
-![Master Badge](/help/certifications/assets/master-badge-Xsmall.png)    **Master Certification:** This certification is for professionals who have an in-depth understanding of Adobe's digital marketing solutions and have demonstrated expertise in multiple areas of Adobe Experience Cloud. The certification exam covers advanced topics and scenarios, including complex integrations, customizations, and troubleshooting.
+![Master Badge](/help/certifications/assets/master-badge-Xsmall.png)     A master certification is for professionals who have an in-depth understanding of Adobe's digital marketing solutions and have demonstrated expertise in multiple areas of Adobe Experience Cloud. The certification exam covers advanced topics and scenarios, including complex integrations, customizations, and troubleshooting.
 
 >[!TAB Job roles]
 
@@ -28,6 +28,13 @@ The certification levels reflect a progressive level of proficiency and knowledg
 
 ![Architect Badge](/help/certifications/assets/architect_blk_small.png)    **Architect:** An Architect is responsible for designing and implementing enterprise-grade solutions using Adobe Experience Cloud solutions. They should have extensive knowledge of Adobe's digital marketing solutions and experience in software architecture, integration, and customization. The Architect certification validates their ability to design and implement complex solutions using Adobe's digital marketing solutions.
 
+>[!ENDTABS]
+
 Please note, the navigation experience that end-users have today on ExL will not change – meaning the way they navigate to existing ExL content like Courses, Documentation, Community, etc. will remain the same. 
 
->[!ENDTABS]
+**Questions**
+
+View the certification [FAQs](https://solutionpartners.adobe.com/solution-partners/training_and_certification/certification/certification_faq.html#){target="_blank"}.
+
+Additional questions? Please email `certif@adobe.com`.
+
