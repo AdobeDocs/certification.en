@@ -9,7 +9,32 @@ badge: label="Get started" type="positive"
 Adobe Digital Cloud Experience offers three different levels of certification: Professional, Expert, and Master. These certifications are designed to validate the skills and knowledge of professionals working with Adobe's digital marketing solutions.
 
 The certification levels reflect a progressive level of proficiency and knowledge, with the Professional certification being the entry-level certification, Expert being the intermediate level, and Master being the highest level of certification.
-Certification levels:
+
+>[!BEGINTABS]
+
+>[!TAB Certification levels]
+
+<table>
+ <tbody>
+  <tr>
+   <th>Level</th>
+   <th>Description</th>
+  </tr>
+  <tr>
+   <td><p>![Professional Badge](/help/certifications/assets/professional-badge-Xsmall.png)</td>
+   <td><p>This certification validates that a candidate has a foundational understanding of Adobe's digital marketing solutions. The certification exam covers basic concepts and functionalities of Adobe Experience Cloud.</td>
+  </tr>
+  <tr>
+  <td><p>![Expert Badge](/help/certifications/assets/expert-badge-Xsmall.png)</td>
+   <td><p>This certification is for professionals who have a more advanced understanding of Adobe's digital marketing solutions. The certification exam covers more complex concepts and functionalities of Adobe Experience Cloud, including implementation and troubleshooting.</td>
+  </tr>
+  <tr>
+  <td><p>![Master Badge](/help/certifications/assets/master-badge-Xsmall.png)</td>
+   <td><p>This certification is for professionals who have an in-depth understanding of Adobe's digital marketing solutions and have demonstrated expertise in multiple areas of Adobe Experience Cloud. The certification exam covers advanced topics and scenarios, including complex integrations, customizations, and troubleshooting.</td>
+  </tr>
+  <tr>
+</tbody>
+</table>
 
 ![Professional Badge](/help/certifications/assets/professional-badge-Xsmall.png) **Professional Certification:** This certification validates that a candidate has a foundational understanding of Adobe's digital marketing solutions. The certification exam covers basic concepts and functionalities of Adobe Experience Cloud.
 
@@ -17,7 +42,7 @@ Certification levels:
 
 ![Master Badge](/help/certifications/assets/master-badge-Xsmall.png)    **Master Certification:** This certification is for professionals who have an in-depth understanding of Adobe's digital marketing solutions and have demonstrated expertise in multiple areas of Adobe Experience Cloud. The certification exam covers advanced topics and scenarios, including complex integrations, customizations, and troubleshooting.
 
-**Job roles**
+>[!TAB Job roles]
 
 ![Business Practitioner Badge](/help/certifications/assets/business_practitioner_blk_small.png) **Business Practitioner:** A Business Practitioner is responsible for designing, executing, and managing marketing campaigns using Adobe Experience Cloud solutions. They should have a foundational understanding of Adobe's digital marketing solutions, as well as experience in marketing and advertising. The Business Practitioner certification validates their ability to effectively use Adobe's digital marketing solutions to achieve business objectives.
 
