@@ -6,126 +6,25 @@ badge: label="Get started" type="positive"
 
 # Get started {#getting-started}
 
-As you gain more experience, you can grow your career. 
+Adobe Digital Cloud Experience offers three different levels of certification: Professional, Expert, and Master. These certifications are designed to validate the skills and knowledge of professionals working with Adobe's digital marketing solutions.
 
-Add this information as well [What is the Adobe Experience Cloud](https://business.adobe.com/products/adobe-experience-cloud-products.html){target="_blank"} 
+The certification levels reflect a progressive level of proficiency and knowledge, with the Professional certification being the entry-level certification, Expert being the intermediate level, and Master being the highest level of certification.
+Certification levels:
 
-<p align="center">
-<table>
-<tr  style="border: 0;">
-  <td>
- 
-With three levels to choose from, there's a certification for YOU!
-  </td>
+**Professional Certification:** This certification validates that a candidate has a foundational understanding of Adobe's digital marketing solutions. The certification exam covers basic concepts and functionalities of Adobe Experience Cloud.
 
-  <td style="background-color: lightgray;border-color: white;border-style: solid;">
-  <strong>Adobe Certified Professional</strong><br>&nbsp;
+**Expert Certification:** This certification is for professionals who have a more advanced understanding of Adobe's digital marketing solutions. The certification exam covers more complex concepts and functionalities of Adobe Experience Cloud, including implementation and troubleshooting.
 
-  Works on team and maybe the project lead on simple or single-solution projects.
+**Master Certification:** This certification is for professionals who have an in-depth understanding of Adobe's digital marketing solutions and have demonstrated expertise in multiple areas of Adobe Experience Cloud. The certification exam covers advanced topics and scenarios, including complex integrations, customizations, and troubleshooting.
 
-  <strong>Roles</strong>
-  Business Practitioner, Developer
+**Job roles**
 
-  <strong>Experience</strong>
-  minimum 0-12 months
-  </td>
+**Business Practitioner:** A Business Practitioner is responsible for designing, executing, and managing marketing campaigns using Adobe Experience Cloud solutions. They should have a foundational understanding of Adobe's digital marketing solutions, as well as experience in marketing and advertising. The Business Practitioner certification validates their ability to effectively use Adobe's digital marketing solutions to achieve business objectives.
 
-  <td style="background-color: lightgray;border-color: white;border-style: solid;">
-  <strong>Adobe Certified Expert</strong><br>&nbsp;
+**Developer:** A Developer is responsible for implementing and integrating Adobe Experience Cloud solutions into an organization's technology stack. They should have experience in software development and proficiency in web technologies, such as HTML, CSS, JavaScript, and RESTful APIs. The Developer certification validates their ability to effectively implement and customize Adobe's digital marketing solutions to meet business requirements.
 
-  Works independently on complex projects and mentors less experienced colleagues.
+**Architect:** An Architect is responsible for designing and implementing enterprise-grade solutions using Adobe Experience Cloud solutions. They should have extensive knowledge of Adobe's digital marketing solutions and experience in software architecture, integration, and customization. The Architect certification validates their ability to design and implement complex solutions using Adobe's digital marketing solutions.
 
-  <strong>Roles</strong>
-  Business Practitioner, Developer
-
-  <strong>Experience</strong>
-  minimum 1-3 years
-  </td>
-
-  <td style="background-color: lightgray;border-color: white;border-style: solid;">
-  <strong>Adobe Certified Master</strong><br>&nbsp;
-
-  Leads complex projects and mentors team members.
-
-  <strong>Roles</strong>
-  Architect
-
-  <strong>Experience</strong>
-  minimum 3-5 years
-  </td>
-
-</tr> 
-
-</table>  
-</p>
+Please note, the navigation experience that end-users have today on ExL will not change – meaning the way they navigate to existing ExL content like Courses, Documentation, Community, etc. will remain the same. 
 
 
-<p align="center" style="font-size: xx-large;font-weight: 700;color: black">Job Roles</p>
-
-<p align="center">
-<table>
-<tr  style="border: 0;">
-
-<td>
-<p align="Left" style="font-size: x-large;font-weight: 700;">Business Practitioner</p>
-
-* Performs discovery tasks
-* Writes business requirements
-* Performs some configuration
-* Vets the design to ensure it meets requirements
-* Develops use cases and test plans
-* Drives product adoption
-
-  </td>
-
-<td>
-<p align="Left" style="font-size: x-large;font-weight: 700;">Developer</p>
-
-* Configures and manage the development environment
-* Builds solutions using out-of-the-box components
-* Customizes and extends out-of-the-box solutions
-* Manages and integrates data and assets
-* Tests, validates, and troubleshoots applications
-* Deploys and maintains applications 
-
-  </td>
-
-<td>
-<p align="Left" style="font-size: x-large;font-weight: 700;">Architect</p>
-
-* Translates business requirements into a technical design
-* Provides guidance to the rest of the team to deliver the solution
-* Performs customization and configuration of out-of- the-box solutions
-* Leads development efforts
-* Acts as customer interface
-* Supervises offshore developer work
-* Parses out development tasks
-* Assembles the outputs of the dev task
-
-  </td>
-
-</tr>
-</table>  
-</p>
-
->[!BEGINSHADEBOX]
-
-</p>
-<table>
-    <tr style="border: 0;">
-        <td>
-            <p align="center" style="font-size: xx-large;font-weight: 700">Renew Your Certification Today!</p>
-            <p align="center">Adobe certifications expire after two years. Take the shorter, lower-cost renewal exam
-                that demonstrates your knowledge of newer capabilities and commitment to keeping your skills
-                current.</p>
-            <p align="center"><a href="https://experienceleague.adobe.com" target="_blank"
-                    class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM"><span
-                        class="spectrum-Button-label has-no-wrap has-text-weight-bold">Go to Renewals</span></a></p>
-        </td>
-    </tr>
-</table>
-<p align="center">Have a question about Adobe Certification? Please email <a
-        href="mailto:certif@adobe.com">certif@adobe.com</a> for additional details about the program.</p>
-<br />
-
->[!ENDSHADEBOX]
