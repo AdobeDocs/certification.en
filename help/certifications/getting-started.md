@@ -14,30 +14,6 @@ The certification levels reflect a progressive level of proficiency and knowledg
 
 >[!TAB Certification levels]
 
-<table>
- <tbody>
-  <tr>
-   <th>Level</th>
-   <th>Description</th>
-  </tr>
-  <tr>
-   <td><p>![Professional Badge](/help/certifications/assets/professional-badge-Xsmall.png)</td>
-   <td><p>This certification validates that a candidate has a foundational understanding of Adobe's digital marketing solutions. The certification exam covers basic concepts and functionalities of Adobe Experience Cloud.</td>
-  </tr>
-  <tr>
-  <td><p>![Expert Badge](/help/certifications/assets/expert-badge-Xsmall.png)</td>
-   <td><p>This certification is for professionals who have a more advanced understanding of Adobe's digital marketing solutions. The certification exam covers more complex concepts and functionalities of Adobe Experience Cloud, including implementation and troubleshooting.</td>
-  </tr>
-  <tr>
-  <td><p>![Master Badge](/help/certifications/assets/master-badge-Xsmall.png)</td>
-   <td><p>This certification is for professionals who have an in-depth understanding of Adobe's digital marketing solutions and have demonstrated expertise in multiple areas of Adobe Experience Cloud. The certification exam covers advanced topics and scenarios, including complex integrations, customizations, and troubleshooting.</td>
-  </tr>
-  <tr>
-</tbody>
-</table>
-
->[!ENDTABS]
-
 ![Professional Badge](/help/certifications/assets/professional-badge-Xsmall.png) **Professional Certification:** This certification validates that a candidate has a foundational understanding of Adobe's digital marketing solutions. The certification exam covers basic concepts and functionalities of Adobe Experience Cloud.
 
 ![Expert Badge](/help/certifications/assets/expert-badge-Xsmall.png)    **Expert Certification:** This certification is for professionals who have a more advanced understanding of Adobe's digital marketing solutions. The certification exam covers more complex concepts and functionalities of Adobe Experience Cloud, including implementation and troubleshooting.
@@ -54,4 +30,4 @@ The certification levels reflect a progressive level of proficiency and knowledg
 
 Please note, the navigation experience that end-users have today on ExL will not change – meaning the way they navigate to existing ExL content like Courses, Documentation, Community, etc. will remain the same. 
 
-
+>[!ENDTABS]
