@@ -119,18 +119,22 @@ We offer re-certification of exams in two formats depending on the solution. You
   <tr>
    <th>Certification</th>
    <th>Elegible exam</th>
+   <th>On-demand exam</th>
   </tr>
   <tr>
    <td><p>Adobe Certified Expert - Adobe Audience Manager Business Practitioner</td>
    <td><p><ul><li>AD0-E457 Adobe Audience Manager Business Practitioner Expert</li></ul><ul><li>AD0-E453 Adobe Audience Manager Business Practitioner Expert - (retired)</li></ul></p></td>
+   <td><p>Link to exam</td>
   </tr>
   <tr>
    <td><p>Adobe Certified Master - Adobe Audience Manager Architect</td>
    <td><p><ul><li>AD0-E454 Adobe Audience Manager Architect Master</li></ul><ul><li>AD0-E452 Adobe Audience Manager Architect Master (retired)</li></ul></p></td>
+   <td><p>Link to exam</td>
   </tr>
   <tr>
    <td><p>Adobe Certified Master - Adobe Analytics Architect</td>
    <td><p><ul><li>AD0-E207 Adobe Analytics Architect Master</li></ul><ul><li>AD0-E200 Adobe Analytics Architect Master (retired)</li></ul></p></td>
+   <td><p>Link to exam</td>
   </tr>
   <tr>
   </tbody>
@@ -143,14 +147,17 @@ We offer re-certification of exams in two formats depending on the solution. You
   <tr>
    <th>Certification</th>
    <th>Elegible exam</th>
+   <th>On-demand exam</th>
   </tr>
   <tr>
    <td><p>Adobe Certified Expert - Adobe Campaign Classic Business Practitioner</td>
    <td><p><ul><li>AD0-E327 Adobe Campaign Classic Business Practitioner Expert</li></ul><ul><li>AD0-E300 Adobe Campaign Classic Business Practitioner Expert (retired)</li></ul><ul><li>AD0-E314 Adobe Campaign Classic Business Practitioner Expert (retired)</li></ul></p></td>
+   <td><p>Link to exam</td>
   </tr>
   <tr>
    <td><p>Adobe Certified Master - Adobe Campaign Classic Architect</td>
    <td><p><ul><li>AD0-E328 Adobe Campaign Classic Architect Master</li></ul><ul><li>AD0-E318 Adobe Campaign Classic Architect Master (retired)</li></ul><ul><li>AD0-E303 Adobe Campaign Classic Architect Master (retired)</li></ul></p></td>
+  <td><p>Link to exam</td>
   </tr>
   <tr>
    <td><p>Adobe Certified Expert - Adobe Campaign Classic Developer</td>
@@ -159,12 +166,14 @@ We offer re-certification of exams in two formats depending on the solution. You
   <tr>
   <td><p>Adobe Certified Expert - Adobe Campaign Standard Business Practitioner</td>
    <td><p><ul><li>AD0-E307 Adobe Campaign Standard Business Practitioner Expert</li></ul><ul><li>AD0-E302 Adobe Campaign Standard Business Practitioner Expert (retired)</li></ul></p></td>
+   <td><p>Link to exam</td>
   </tr>
   <tr>
   </tr>
   <tr>
   <td><p>Adobe Certified Expert - Adobe Campaign Standard Developer</td>
    <td><p><ul><li>AD0-E306 Adobe Campaign Standard Developer Expert</li></ul><ul><li>AD0-E301 Adobe Campaign Standard Developer Expert (retired)</li></ul></p></td>
+   <td><p>Link to exam</td>
   </tr>
   <tr>
   </tbody>
@@ -177,22 +186,27 @@ We offer re-certification of exams in two formats depending on the solution. You
   <tr>
    <th>Certification</th>
    <th>Elegible exam</th>
+   <th>On-demand exam</th>
   </tr>
   <tr>
    <td><p>Adobe Certified Expert - Adobe Commerce Business Practitioner</td>
    <td><p><ul><li>AD0-E708 Adobe Commerce Business Practitioner Expert</li></ul><ul><li>AD0-E700 Adobe Commerce Business Practitioner Expert</li></ul></p></td>
+   <td><p>Link to exam</td>
   </tr>
   <tr>
    <td><p>Adobe Certified Expert - Adobe Commerce Developer</td>
    <td><p><ul><li>AD0-E716 Adobe Commerce Developer Expert</li></ul><ul><li>AD0-E709 Adobe Commerce Developer Expert (retired)</li></ul></p></td>
+   <td><p>Link to exam</td>
   </tr>
   <tr>
    <td><p>Adobe Certified Expert - Adobe Commerce Front End Developer</td>
    <td><p><ul><li>AD0-E710 Adobe Commerce Front End Developer Expert</li></ul><ul><li>AD0-E701 Adobe Commerce Front End Developer Expert (retired)</li></ul></p></td>
+   <td><p>Link to exam</td>
   </tr>
   <tr>
   <td><p>Adobe Certified Master - Adobe Commerce Architect</td>
    <td><p><ul><li>AD0-E718 Adobe Commerce Architect Master</li></ul><ul><li>AD0-E704 Adobe Commerce Architect Master (retired)</li></ul></p></td>
+   <td><p>Link to exam</td>
   </tr>
   <tr>
   </tbody>
@@ -205,37 +219,16 @@ We offer re-certification of exams in two formats depending on the solution. You
   <tr>
    <th>Certification</th>
    <th>Elegible exam</th>
+   <th>On-demand exam</th>
   </tr>
   <tr>
    <td><p>Adobe Certified Expert – Adobe Marketo Engage Business Practitioner</td>
    <td><p><ul><li>AD0-E559 Adobe Marketo Engage Business Practitioner Expert</li></ul><ul><li>AD0-E552 Adobe Marketo Engage Business Practitioner (previously MCE)</li></ul><ul><li>AD0-E554 Adobe Marketo Engage Business Practitioner (new version)</li></ul><ul><li>AD0-E558 Adobe Marketo Engage Business Practitioner Expert (retired)</li></ul></p></td>
+   <td><p>Link to exam</td>
   </tr>
   <tr>
   </tbody>
 </table>
-
->[!ENDTABS]
-
-**Restart your certification**
-
-To renew your exam click on the "Restart your certification" link below. This will redirect you to the Adobe Credential Management system where you will click "renew your certification" tab on the right side of the screen > then search for RESTART PROGRAM to see the options from above.
-
-**Take the certification exam**
-
-Adobe uses two vendors to administer proctored exams, PSI and Examity. 
-
-* **PSI** offers two options for taking exams, test center and remote online
-* **Examity** only offers the remote online option
-
-To schedule, reschedule, or cancel your exam, simply click on the vendor of choice, and follow the instructions provided on screen. It's that simple!
-
-Exam number: AD0-E406
-
-[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&ec=AD0-E406 newtab=true"} [!BADGE Examity]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E406 newtab=true"}
-
-You can pay for your certification exam by voucher or credit card. To purchase an exam voucher go to: [Adobe Certification Voucher Center](https://market.xvoucher.com/adobe/global){target="_blank"}. 
-
-You can apply the voucher code when you schedule your exam. If you have a discount, it will apply at checkout.
 
 >[!ENDTABS]
 
