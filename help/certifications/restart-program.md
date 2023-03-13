@@ -25,13 +25,11 @@ The Adobe Restart Program is an initiative that allows individuals who previousl
 >
 >**This program is offered from April 4th, 2023 through October 1st, 2023.** 
 
-<<<<<<< Updated upstream
-## Exams eligible to re-certify 
-=======
 **Exams eligible to re-certify** 
 
+We offer recertification of exams in two formats depending on the solution. You will be able to re-certify either by continuous learning or on-demand exams. 
+
 **Eligible - Continuous Learning (for all job roles)**
->>>>>>> Stashed changes
 
 >[!BEGINTABS]
 
@@ -87,8 +85,6 @@ The Adobe Restart Program is an initiative that allows individuals who previousl
 </tbody>
 </table>
 
-<<<<<<< Updated upstream
-=======
 >[!TAB Target]
 
 <table>
@@ -111,11 +107,8 @@ The Adobe Restart Program is an initiative that allows individuals who previousl
 
 >[!ENDTABS]
 
-**Eligible - On-demand exams**
-
 >[!BEGINTABS]
 
->>>>>>> Stashed changes
 >[!TAB Audience Manager]
 
 <table>
@@ -213,26 +206,6 @@ The Adobe Restart Program is an initiative that allows individuals who previousl
   <tr>
    <td><p>Adobe Certified Expert – Adobe Marketo Engage Business Practitioner</td>
    <td><p><ul><li>AD0-E559 Adobe Marketo Engage Business Practitioner Expert</li></ul><ul><li>AD0-E552 Adobe Marketo Engage Business Practitioner (previously MCE)</li></ul><ul><li>AD0-E554 Adobe Marketo Engage Business Practitioner (new version)</li></ul><ul><li>AD0-E558 Adobe Marketo Engage Business Practitioner Expert (retired)</li></ul></p></td>
-  </tr>
-  <tr>
-  </tbody>
-</table>
-
->[!TAB Target]
-
-<table>
- <tbody>
-  <tr>
-   <th>Certification</th>
-   <th>Elegible exam</th>
-  </tr>
-  <tr>
-   <td><p>Adobe Certified Expert - Adobe Target Business Practitioner</td>
-   <td><p><ul><li>AD0-E406 Adobe Target Business Practitioner Expert</li></ul><ul><li>AD0-E401 Adobe Target Business Practitioner Expert (retired)</li></ul></p></td>
-  </tr>
-  <tr>
-   <td><p>Adobe Certified Master - Adobe Target Architect</td>
-   <td><p><ul><li>AD0-E407 Adobe Target Architect Master</li></ul><ul><li>AD0-E402 Adobe Target Architect Master (retired)</li></ul></p></td>
   </tr>
   <tr>
   </tbody>
