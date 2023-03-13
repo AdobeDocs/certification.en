@@ -27,7 +27,9 @@ The Adobe Restart Program is an initiative that allows individuals who previousl
 
 **Exams eligible to re-certify** 
 
-**Continuous Learning (for all job roles)**
+We offer re-certification of exams in two formats depending on the solution. You will be able to re-certify either by continuous learning or on-demand exams. 
+
+**Eligible by continuous learning**
 
 >[!BEGINTABS]
 
@@ -106,6 +108,7 @@ The Adobe Restart Program is an initiative that allows individuals who previousl
 >[!ENDTABS]
 
 **On-demand exams**
+
 
 >[!BEGINTABS]
 
