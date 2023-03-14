@@ -7,8 +7,6 @@ badge: label="AEM Renewal" type="positive"
 ---
 # Certification renewal for Adobe Experience Manager
 
-![Certification Expert Badge](/help/certifications/assets/expert-badge-Xsmall.png) ![Certification Master Badge](/help/certifications/assets/master-badge-Xsmall.png) 
-
 **Start your journey toward renewing your certification**
 
 When you pass a certification exam, your certification is valid for two years.
