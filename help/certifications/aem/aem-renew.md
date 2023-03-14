@@ -17,36 +17,41 @@ We're happy to announce that you are now able to renew your certification via a 
 
 You should be currently certified (not expired) in:
 
+* Adobe Experience Manager Sites Developer expert
+* Adobe Experience Manager Sites Business Practitioner expert
+* Adobe Experience Manager Sites Architect master
 * Adobe Experience Manager Assets Developer expert
 * Adobe Experience Manager Dev/Ops Engineer expert
 * Adobe Experience Manager Forms Developer expert
-* Adobe Experience Manager Sites Developer expert
-* Adobe Experience Manager Sites Business Practitioner expert
-* Adobe Experience Manager Architect master
 
 >[!NOTE]
 >
 >Adobe Certified Professional renewal **(coming soon)**!
 
->[!BEGINTABS]
+**How to renew your certification:**
 
->[!TAB Get ready]
+Select three activities to complete. To get credit for each activity, you must pass each course assessment.
 
-To renew your currently active certifications, select three Adobe Experience League courses from the list below, review them, and pass the related course assessment listed in the Credential Management System. Alternatively, pass two assessments and submit a customer reference form validating your engagement in a project totaling 100 hours in the past 12 months.
+**Instructions:**
 
-These course assessments are free. There is no need to schedule them, and they are not proctored. If you hold multiple Adobe Experience Manager Expert and Master level certifications, you will only need to complete the requirements below and all your AEM certifications will get renewed.
+* **Step 1** - Study the courses in Experience League.
+* **Step 2** - Complete the course assessment 
 
->[!TAB Get prepped & renew your certification]
+Alternatively, pass two assessments and submit a customer reference form validating your engagement in a project totaling 100 hours in the past 12 months.
 
-Select **three activities** (course assessments or customer reference) to complete. Study the courses in Experience League. Then log in and pass the course assessments from the Adobe Credential Management System. 
+For certain Adobe Experience Cloud certifications, the Adobe Credential Program accepts **customer references** that validate your continued work as an Adobe certified individual leading, managing and/or participating on an Adobe Experience Cloud implementation project.
 
-Refer to the "renew your certification" section below to redirect to the Adobe Credential Managment System for the course assessments after competing your course.
+In these cases you can provide a customer reference affirming you have participated in at least 100 hours of demonstrated project engagement during your certification renewal 2-year interval.
+
+**Once your customer reference has been reviewed you will be notified by the Adobe Credential Team.**
 
 >[!NOTE]
 >
->IMPORTANT NOTE: The following course assessment links will **only** function after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
+>IMPORTANT NOTE: The following section and links will **only** function after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
 
 **Now that you have successfully logged in, the following links will be directly accessible.**
+
+These course assessments are free. There is no need to schedule them, and they are not proctored. If you hold multiple Adobe Experience Manager Expert and Master level certifications, you will only need to complete the requirements below and all your AEM certifications will get renewed.
 
 **Courses and course assessments:**
 
@@ -60,28 +65,11 @@ Refer to the "renew your certification" section below to redirect to the Adobe C
 | [Integrate Experience Manager Forms Cloud Service with Salesforce](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-d-1-2021-formscs-salesforce.html?lang=en){target="_blank"} | [ADR-EA106](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADR-EA106){target="_blank"} |
 | [Adobe Experience Manager Cloud Manager Skill Builder](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-u-1-2019-1-cloudmgr-builder.html?lang=en){target="_blank"} | [ADR-EA107](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADR-EA107){target="_blank"} |
 | [Adobe Experience Manager Sites for Architects](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-d-1-2019-1-architect.html?lang=en){target="_blank"} | [ADR-EA108](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADR-EA108){target="_blank"} |
+| [Adobe Experience Manager Certification Renewal : Customer Reference Form](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-d-1-2019-1-architect.html?lang=en){target="_blank"} | [ADR-EA100](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADR-EA100){target="_blank"} |
 
 >[!NOTE]
 >
 >You can repeat until you have successfully completed three activities or completed the customer reference form (on the next tab).
-
->[!TAB Customer reference form]
-
-For certain Adobe Experience Cloud certifications, the Adobe Credential Program accepts customer references that validate your continued work as an Adobe certified individual leading, managing and/or participating on an Adobe Experience Cloud implementation project.
-
-You are required to provide a customer reference affirming you have participated in at least 100 hours of demonstrated project engagement during your certification renewal 2-year interval.
-
-Once your customer reference has been reviewed you will be notified by the Adobe Credential Team.
-
->[!NOTE]
->
->IMPORTANT NOTE: The customer reference form will **only** function after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
-
-**Now that you have successfully logged in, the following link will be directly accessible.**
-
-[!BADGE Customer reference form]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADR-EA100 newtab=true"}
-
->[!ENDTABS]
 
 **Questions**
 
