@@ -24,20 +24,16 @@ You should be currently certified (not expired) in:
 * Adobe Experience Manager Dev/Ops Engineer expert
 * Adobe Experience Manager Forms Developer expert
 
->[!NOTE]
->
->Adobe Certified Professional renewal **(coming soon)**!
+**Professional renewal options are coming soon**.
 
 **How to renew your certification:**
 
-Select three activities to complete. To get credit for each activity, you must pass each course assessment.
-
-**Instructions:**
+Select **three activities** to complete and pass the course assessments associated with each.
 
 * **Step 1** - Study the courses in Experience League.
 * **Step 2** - Complete the course assessment 
 
-Alternatively, pass two assessments and submit a customer reference form validating your engagement in a project totaling 100 hours in the past 12 months.
+Alternatively, study two courses, pass two course assessments and submit a customer reference form validating your engagement in a project totaling 100 hours in the past 12 months.
 
 For certain Adobe Experience Cloud certifications, the Adobe Credential Program accepts **customer references** that validate your continued work as an Adobe certified individual leading, managing and/or participating on an Adobe Experience Cloud implementation project.
 
@@ -51,7 +47,7 @@ In these cases you can provide a customer reference affirming you have participa
 
 **Now that you have successfully logged in, the following links will be directly accessible.**
 
-These course assessments are free. There is no need to schedule them, and they are not proctored. If you hold multiple Adobe Experience Manager Expert and Master level certifications, you will only need to complete the requirements below and all your AEM certifications will get renewed.
+The course assessments are free. There is no need to schedule them, and they are not proctored. If you hold multiple Adobe Experience Manager Expert and Master level certifications, you will only need to complete the requirements below and all your AEM certifications will get renewed.
 
 **Courses and course assessments:**
 
