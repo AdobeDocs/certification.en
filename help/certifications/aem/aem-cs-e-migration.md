@@ -13,7 +13,6 @@ badge: label="Exam AD0-E136" type="positive"
 >
 >Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
 
-
 You should have:
 
 * An understanding of the overall changes to the architecture and features when moving from any AEM service (self-managed, AMS or any third-party cloud) to AEM as a Cloud Service. 
@@ -162,11 +161,11 @@ To schedule, reschedule, or cancel your exam, simply click on the vendor of choi
 
 Exam number: AD0-E136
 
-* [Examity](https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E136){target="_blank"} (Modality: Remote online)
+[!BADGE Examity]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E136 newtab=true"}
 
-Purchase your exam voucher at [Adobe Certification Voucher Center](https://market.xvoucher.com/adobe/global){target="_blank"}. 
+You can pay for your certification exam by voucher or credit card. To purchase an exam voucher go to: [Adobe Certification Voucher Center](https://market.xvoucher.com/adobe/global){target="_blank"}. 
 
-Apply the voucher code when you schedule your exam. If you have a discount, it will apply at checkout.
+You can apply the voucher code when you schedule your exam. If you have a discount, it will apply at checkout.
 
 >[!ENDTABS]
 

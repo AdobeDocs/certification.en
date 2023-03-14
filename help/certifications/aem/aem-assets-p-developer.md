@@ -7,7 +7,7 @@ badge: label="Exam AD0-E129" type="positive"
 ---
 # Certification journey for Adobe Experience Manager Assets Developer professional
 
-![Certification Expert Badge](/help/certifications/assets/professional-badge-Xsmall.png)    ![Developer Badge](/help/certifications/assets/developer_blk_small.png)
+![Certification Expert Badge](/help/certifications/assets/professional-badge-Xsmall.png)
 
 >[!NOTE]
 >

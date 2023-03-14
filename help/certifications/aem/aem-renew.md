@@ -9,8 +9,6 @@ badge: label="AEM Renewal" type="positive"
 
 ![Certification Expert Badge](/help/certifications/assets/expert-badge-Xsmall.png) ![Certification Master Badge](/help/certifications/assets/master-badge-Xsmall.png) 
 
-![Business Practitioner Badge](/help/certifications/assets/business_practitioner_blk_small.png)  ![Developer Badge](/help/certifications/assets/developer_blk_small.png)  ![Architect Badge](/help/certifications/assets/architect_blk_small.png)
-
 **Start your journey toward renewing your certification**
 
 When you pass a certification exam, your certification is valid for two years.
@@ -79,7 +77,7 @@ Once your customer reference has been reviewed you will be notified by the Adobe
 >
 >IMPORTANT NOTE: The customer reference form will **only** function after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
 
-**Now that you have successfully logged in, the following links will be directly accessible.**
+**Now that you have successfully logged in, the following link will be directly accessible.**
 
 [!BADGE Customer reference form]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADR-EA100 newtab=true"}
 
