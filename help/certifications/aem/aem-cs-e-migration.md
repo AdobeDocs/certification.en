@@ -156,7 +156,11 @@ Here are some suggested resources to help you prepare:
 
 **Take the certification exam**
 
-Adobe uses two vendors to administer proctored exams: PSI and Examity. PSI offers two options for taking exams: test center and remote online, while Examity only offers the remote online option.
+Adobe uses two vendors to administer proctored exams, PSI and Examity. 
+
+* **PSI** offers two options for taking exams, test center and remote online
+* **Examity** only offers the remote online option
+
 To schedule, reschedule, or cancel your exam, simply click on the vendor of choice, and follow the instructions provided on screen. It's that simple!
 
 Exam number: AD0-E136

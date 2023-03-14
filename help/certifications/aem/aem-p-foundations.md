@@ -45,7 +45,7 @@ Passing Score: 38/60
 Time: 120 mins
 Delivery: Online proctored (requires camera access)
 Available languages: English
-Cost: $125 (global) and $95 (India)
+Cost: $125 (global) / $95 (India)
 Exam ID: AD0-E132
 
 ```
@@ -138,16 +138,20 @@ Here are some suggested resources to help you prepare:
 
 **Take the certification exam**
 
-Adobe uses two vendors to administer proctored exams: PSI and Examity. PSI offers two options for taking exams: test center and remote online, while Examity only offers the remote online option.
+Adobe uses two vendors to administer proctored exams, PSI and Examity. 
+
+* **PSI** offers two options for taking exams, test center and remote online
+* **Examity** only offers the remote online option
+
 To schedule, reschedule, or cancel your exam, simply click on the vendor of choice, and follow the instructions provided on screen. It's that simple!
 
 Exam number: AD0-E132
 
-* [Examity](https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E132){target="_blank"} (Modality: Remote online)
+[!BADGE Examity]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E132 newtab=true"}
 
-Purchase your exam voucher at [Adobe Certification Voucher Center](https://market.xvoucher.com/adobe/global){target="_blank"}. 
+You can pay for your certification exam by voucher or credit card. To purchase an exam voucher go to: [Adobe Certification Voucher Center](https://market.xvoucher.com/adobe/global){target="_blank"}. 
 
-Apply the voucher code when you schedule your exam. If you have a discount, it will apply at checkout.
+You can apply the voucher code when you schedule your exam. If you have a discount, it will apply at checkout.
 
 >[!ENDTABS]
 
