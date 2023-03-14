@@ -24,7 +24,9 @@ You should be currently certified (not expired) in:
 * Adobe Experience Manager Dev/Ops Engineer expert
 * Adobe Experience Manager Forms Developer expert
 
-**Professional renewal options are coming soon**.
+>[!BEGINTABS]
+
+>[!TAB Expert and Master]
 
 **How to renew your certification:**
 
@@ -66,6 +68,14 @@ The course assessments are free. There is no need to schedule them, and they are
 >[!NOTE]
 >
 >You can repeat until you have successfully completed three activities or completed the customer reference form (on the next tab).
+
+>[!TAB Professional]
+
+>[!NOTE]
+>
+>Professional renewal coming soon.
+
+>[!ENDTABS]
 
 **Questions**
 
