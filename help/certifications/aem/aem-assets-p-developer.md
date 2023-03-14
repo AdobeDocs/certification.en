@@ -7,7 +7,7 @@ badge: label="Exam AD0-E129" type="positive"
 ---
 # Certification journey for Adobe Experience Manager Assets Developer professional
 
-![Certification Expert Badge](/help/certifications/assets/professional-badge-Xsmall.png)
+![Certification Expert Badge](/help/certifications/assets/professional-badge-Xsmall.png)    ![Developer Badge](/help/certifications/assets/developer_blk_small.png)
 
 >[!NOTE]
 >
@@ -157,16 +157,6 @@ The sample questions allow you to see the type and format of items that you will
 
 **Now that you have successfully logged in, the following links will be directly accessible.**
 
-**Take a practice test**
-
-We recommend taking the free practice test before you start. You'll have unrestricted access to all available practice tests for Adobe's expert-level exams.
-
-Our practice tests are all developed from the same blueprint as the live exams. The practice test will help you understand the topics covered in the live exam.
-
-Please remember that passing a practice test does not guarantee you will pass the certification exam.
-
-Go to the [Adobe Certification Exam Prep Portal](https://www.certmetrics.com/adobe/candidate/gmetrix_sso.aspx){target="_blank"} now to take a practice test.
-
 **Take the certification exam**
 
 Adobe uses two vendors to administer proctored exams: PSI and Examity. PSI offers two options for taking exams: test center and remote online, while Examity only offers the remote online option.
@@ -174,11 +164,11 @@ To schedule, reschedule, or cancel your exam, simply click on the vendor of choi
 
 Exam number: AD0-E129
 
-* [Examity](https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E129){target="_blank"} (Modality: Remote online)
+[!BADGE Examity]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E129 newtab=true"}
 
-Purchase your exam voucher at [Adobe Certification Voucher Center](https://market.xvoucher.com/adobe/global){target="_blank"}. 
+You can pay for your certification exam by voucher or credit card. To purchase an exam voucher go to: [Adobe Certification Voucher Center](https://market.xvoucher.com/adobe/global){target="_blank"}. 
 
-Apply the voucher code when you schedule your exam. If you have a discount, it will apply at checkout.
+You can apply the voucher code when you schedule your exam. If you have a discount, it will apply at checkout.
 
 >[!ENDTABS]
 
@@ -187,4 +177,3 @@ Apply the voucher code when you schedule your exam. If you have a discount, it w
 View the certification [FAQs](https://solutionpartners.adobe.com/solution-partners/training_and_certification/certification/certification_faq.html#){target="_blank"}.
 
 Additional questions? Please email `certif@adobe.com`.
-
