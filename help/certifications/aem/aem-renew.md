@@ -54,14 +54,14 @@ Refer to the "renew your certification" section below to redirect to the Adobe C
 
 | Course | Course Assessment |
 | ------- | ------- |
-| [Moving to Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-d-1-2021-1-migration.html?lang=en){target="_blank"} | ADR-EA101 - Moving to Adobe Experience Manager as a Cloud Service |
-| [Planning Your Move to Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-a-1-2021-1-migration.html?lang=en){target="_blank"} | ADR-EA102 Planning Your Move to Adobe Experience Manager as a Cloud Service |
-| [Introduction to Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/overview/introduction.html?lang=en){target="_blank"} | ADR-EA103 Introduction to Adobe Experience Manager as a Cloud Service |
-| [Headless content management using GraphQL APIs](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-d-1-2020-1-headless.html?lang=en){target="_blank"} | ADR-EA104 Headless content management using GraphQL APIs |
-| [Personalize Experiences with Adobe Experience Manager and Adobe Target](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-d-1-2020-1-personalization.html?lang=en){target="_blank"} | ADR-EA105 Personalize experiences with Adobe Experience Manager and Adobe Target |
-| [Integrate Experience Manager Forms Cloud Service with Salesforce](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-d-1-2021-formscs-salesforce.html?lang=en){target="_blank"} | ADR-EA106 Integrate Experience Manager Forms Cloud Service with Salesforce |
-| [Adobe Experience Manager Cloud Manager Skill Builder](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-u-1-2019-1-cloudmgr-builder.html?lang=en){target="_blank"} | ADR-EA107 Adobe Experience Manager Cloud Manager Skill Builder |
-| [Adobe Experience Manager Sites for Architects](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-d-1-2019-1-architect.html?lang=en){target="_blank"} | ADR-EA108 Adobe Experience Manager Sites for Architects |
+| [Moving to Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-d-1-2021-1-migration.html?lang=en){target="_blank"} | [ADR-EA101](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADR-EA101){target="_blank"} |
+| [Planning Your Move to Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-a-1-2021-1-migration.html?lang=en){target="_blank"} | [ADR-EA102](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADR-EA102){target="_blank"} |
+| [Introduction to Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/overview/introduction.html?lang=en){target="_blank"} | [ADR-EA103](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADR-EA103){target="_blank"} |
+| [Headless content management using GraphQL APIs](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-d-1-2020-1-headless.html?lang=en){target="_blank"} | [ADR-EA104](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADR-EA104){target="_blank"} |
+| [Personalize Experiences with Adobe Experience Manager and Adobe Target](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-d-1-2020-1-personalization.html?lang=en){target="_blank"} | [ADR-EA105](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADR-EA105){target="_blank"} |
+| [Integrate Experience Manager Forms Cloud Service with Salesforce](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-d-1-2021-formscs-salesforce.html?lang=en){target="_blank"} | [ADR-EA106](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADR-EA106){target="_blank"} |
+| [Adobe Experience Manager Cloud Manager Skill Builder](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-u-1-2019-1-cloudmgr-builder.html?lang=en){target="_blank"} | [ADR-EA107](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADR-EA107){target="_blank"} |
+| [Adobe Experience Manager Sites for Architects](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-d-1-2019-1-architect.html?lang=en){target="_blank"} | [ADR-EA108](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADR-EA108){target="_blank"} |
 
 >[!NOTE]
 >
@@ -81,7 +81,7 @@ Once your customer reference has been reviewed you will be notified by the Adobe
 
 **Now that you have successfully logged in, the following links will be directly accessible.**
 
-[!BADGE Customer reference form]{https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADR-EA100 newtab=true"}
+[!BADGE Customer reference form]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADR-EA100 newtab=true"}
 
 >[!ENDTABS]
 
