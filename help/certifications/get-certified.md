@@ -12,6 +12,8 @@ badge: label="How to get certified" type="positive"
 
 >[!TAB Manage your badges]
 
+Once you earn a credential you can download your digital badge. You can use your badge on social profiles and verify your achievement to your employer and customers that you are skilled in this application.
+
 How to manage your badge:
 
 Step 1: Sign in or create an account
