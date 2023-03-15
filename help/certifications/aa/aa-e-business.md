@@ -70,8 +70,6 @@ Exam ID: AD0-E208
 
 ```
 
-**AD0-E208 Adobe Analytics Business Practitioner**
-
 **Readiness self-assessment**
 
 Complete the [online readiness questionnaire](https://scorpion.caveon.com/launchpad/ad-q-e208-readiness-questionnaire-for-adobe-analytics-business-practitioner-expert-exam/adq-e208){target="_blank"} to see if your current experience matches the recommended minimum candidate qualification.
@@ -124,8 +122,6 @@ Section 5: Administration (10%)
 You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
 
 Here are some suggested resources to help you prepare:
-
-**AD0-E208 Adobe Analytics Business Practitioner**
 
 **Section 1: Business analysis**
 
