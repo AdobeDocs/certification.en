@@ -27,7 +27,7 @@ You should have:
 * A basic understanding of how digital analytics is filtering/structuring data
 * An awareness of the integration of Adobe Analytics with other Adobe solutions
 
-Additionally, you're familiar with the following technologies and environments:
+Additionally, you should be familiar with the following technologies and environments:
 
 * FTP client
 * Current Adobe Analytics Workspace features and other reporting options outside of Workspace (ex. schedule projects and schedule reports)
@@ -38,6 +38,10 @@ Additionally, you're familiar with the following technologies and environments:
 * Mobile services UI
 * Adobe Help Center
 * Data export options (ex. right click to export, .csv download, Data feeds, Data Warehouse extract)
+
+>[!BEGINTABS]
+
+>[!TAB Get ready]
 
 **Intended audience:**
 
@@ -56,7 +60,7 @@ Additionally, you're familiar with the following technologies and environments:
   
 ```
 
-Level: Expert (1-3 years experience)
+Level: Expert (1-3 years' experience)
 Passing Score: 31/50
 Time: 120 mins
 Delivery: Online proctored (requires camera access) or test center proctored
@@ -65,10 +69,6 @@ Cost: $225 (global) / $150 (India)
 Exam ID: AD0-E208
 
 ```
-
->[!BEGINTABS]
-
->[!TAB Get ready]
 
 **AD0-E208 Adobe Analytics Business Practitioner**
 
