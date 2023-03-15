@@ -9,7 +9,6 @@ badge: label="Restart program" type="positive"
 
 ## Restart your certification journey by going from expired to certified
 
-![Certification Expert Badge](/help/certifications/assets/expert-badge-Xsmall.png) ![Certification Master Badge](/help/certifications/assets/master-badge-Xsmall.png)
 
 >[!NOTE]
 >
