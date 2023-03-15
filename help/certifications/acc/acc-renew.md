@@ -7,7 +7,7 @@ badge: label="Campaign Renewal" type="positive"
 ---
 # Certification journey - Adobe Campaign Classic renewal
 
-## Start your journey toward renewing your certification
+Start your journey toward renewing your certification
 
 When you pass a certification exam, your certification is valid for two years.
 
@@ -15,21 +15,23 @@ We're happy to announce that you're now able to renew your certification via a n
 
 You must renew your certification before your certification expires, otherwise, you will need to take the full exam to become certified again. Renewal exams are meant only for those who have an existing credential that is about to expire.
 
-If you are currently certified (not expired) in:
+>[!NOTE]
+>
+>Professional renewal coming soon.
+
+>[!BEGINTABS]
+
+>[!TAB Get ready]
+
+**Expert and Master renewal**
+
+**How to renew your certification:**
+
+You should be currently certified (not expired) in:
 
 * Adobe Campaign Classic Developer expert
 * Adobe Campaign Classic Business Practitioner expert
 * Adobe Campaign Classic Architect master
-
-...this is the renewal path for YOU!
-
-![Certification Expert Badge](/help/certifications/assets/expert-badge-small.png) ![Certification Master Badge](/help/certifications/assets/master-badge-small.png)
-
-
->[!NOTE]
->
->Adobe Campaign Certified Professional renewal **(coming in 2024)**!
-
 
 **Exam details - Adobe Campaign Classic renewal for Business Practitioner, Developer and Architect**
   
@@ -44,8 +46,6 @@ Prerequisite: current (not expired) Adobe Campaign Classic expert and/or master 
 Exam ID: AD5-E823
 
 ```
-
-## Get ready
 
 **AD5-E823 Adobe Campaign Classic renewal for Business Practitioner, Developer and Architect**
 
@@ -92,7 +92,7 @@ Section 4: Campaign, workflow, delivery, and reporting
 * Describe functionality in the workflow activity palette
 * Troubleshoot or configure an instance using Control Panel
 
-## Get prepped
+>[!TAB Get prepped]
 
 You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
 
@@ -116,20 +116,22 @@ Here are some suggested resources to help you prepare:
 
 * [Add resources](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=en){target="_blank"}
 
+>[!TAB Renew your certification]
+
 >[!NOTE]
 >
->IMPORTANT NOTE: The following sections and links will only function after a successful login to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}.
+>IMPORTANT NOTE: The following sections and links will **only** function after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
 
-**Now that you have successfully logged in, the following link will be directly accessible.**
-
-## Renew your certification
+**Now that you have successfully logged in, the following links will be directly accessible.**
 
 This exam is free, open book, and unproctored. You may take the exam up to three times. If you are unsuccessful after the third attempt, you must wait **30 days** to try again. Failure to comply might result in your certification being revoked.
 
 [Take the Adobe Campaign Classic renewal for Business Practitioner, Developer and Architect exam now - AD5-823](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=AD5-E823){target="_blank"}
 
-## Questions
+>[!ENDTABS]
 
-Have a question about Adobe Certification? Please email `certif@adobe.com`.
+**Questions**
 
 View the certification [FAQs](https://solutionpartners.adobe.com/solution-partners/training_and_certification/certification/certification_faq.html#){target="_blank"}.
+
+Additional questions? Please email `certif@adobe.com`.
