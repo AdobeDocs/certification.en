@@ -13,15 +13,6 @@ When you pass a certification exam, your certification is valid for two years.
 
 We're happy to announce that you are now able to renew your certification via a new, no-cost format. It involves using on-demand Adobe Experience League courses and tutorials—simply complete three activities to renew your certification at no cost. You must renew before your certification expires, or you will need to take the full exam to become certified again. 
 
-You should be currently certified (not expired) in:
-
-* Adobe Experience Manager Sites Developer expert
-* Adobe Experience Manager Sites Business Practitioner expert
-* Adobe Experience Manager Sites Architect master
-* Adobe Experience Manager Assets Developer expert
-* Adobe Experience Manager Dev/Ops Engineer expert
-* Adobe Experience Manager Forms Developer expert
-
 >[!BEGINTABS]
 
 >[!TAB Professional]
@@ -33,6 +24,15 @@ You should be currently certified (not expired) in:
 >[!TAB Expert and Master]
 
 **How to renew your certification:**
+
+You should be currently certified (not expired) in:
+
+* Adobe Experience Manager Sites Developer expert
+* Adobe Experience Manager Sites Business Practitioner expert
+* Adobe Experience Manager Sites Architect master
+* Adobe Experience Manager Assets Developer expert
+* Adobe Experience Manager Dev/Ops Engineer expert
+* Adobe Experience Manager Forms Developer expert
 
 Select **three activities** to complete and pass the course assessments associated with each.
 
