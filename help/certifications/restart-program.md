@@ -17,7 +17,7 @@ badge: label="Restart program" type="positive"
 
 **What is Adobe Restart program?**
 
-The Adobe Restart Program is an initiative that allows individuals who previously held Adobe Digital Cloud Experience certifications that have since expired to earn a new certification for free. The program offers eligible participants the opportunity to update their skills and stay current in their field by completing designated learning activities or an unproctored job role exam, depending on the solution. This program is a valuable resource for individuals seeking to enhance their digital expertise and stay competitive in today's rapidly changing digital environment.
+The Adobe Restart Program is an initiative that allows individuals who previously held Adobe Digital Cloud Experience certifications that have since expired to earn a new certification for free. The program offers eligible participants the opportunity to update their skills and stay current in their field by completing designated learning activities or an un-proctored job role exam, depending on the solution. This program is a valuable resource for individuals seeking to enhance their digital expertise and stay competitive in today's rapidly changing digital environment.
 
 **How does it work?**
 
@@ -42,7 +42,7 @@ We offer re-certification of exams in two formats, depending on the solution. Yo
  <tbody>
   <tr>
    <th>Certification</th>
-   <th>Elegible exam</th>
+   <th>Eligible exam</th>
    <th>Requirements</th>
   </tr>
   <tr>
@@ -63,7 +63,7 @@ We offer re-certification of exams in two formats, depending on the solution. Yo
   <tr>
   <tr>
    <td><p>Adobe Certified Master - Adobe Experience Manager Sites Architect</td>
-   <td><p><ul><li>AD0-E117 Adobe Experience Manager Sites Architect Mastert</li></ul><ul><li>AD0-E104 Adobe Experience Manager Sites Architect Master (retired)</li></ul> </p></td>
+   <td><p><ul><li>AD0-E117 Adobe Experience Manager Sites Architect Master</li></ul><ul><li>AD0-E104 Adobe Experience Manager Sites Architect Master (retired)</li></ul> </p></td>
   <td><p>Adobe Experience Manager Sites Architect</td>
   </tr>
  </tbody>
@@ -75,7 +75,7 @@ We offer re-certification of exams in two formats, depending on the solution. Yo
  <tbody>
   <tr>
    <th>Certification</th>
-   <th>Elegible exam</th>
+   <th>Eligible exam</th>
    <th>Requirements</th>
   </tr>
   <tr>
@@ -103,7 +103,7 @@ We offer re-certification of exams in two formats, depending on the solution. Yo
  <tbody>
   <tr>
    <th>Certification</th>
-   <th>Elegible exam</th>
+   <th>Eligible exam</th>
    <th>Requirements</th>
   </tr>
   <tr>
@@ -126,7 +126,7 @@ We offer re-certification of exams in two formats, depending on the solution. Yo
  <tbody>
   <tr>
    <th>Certification</th>
-   <th>Elegible exam</th>
+   <th>Eligible exam</th>
    <th>Requirements</th>
   </tr>
   <tr>
@@ -154,7 +154,7 @@ We offer re-certification of exams in two formats, depending on the solution. Yo
  <tbody>
   <tr>
    <th>Certification</th>
-   <th>Elegible exam</th>
+   <th>Eligible exam</th>
    <th>Requirements</th>
   </tr>
   <tr>
@@ -194,7 +194,7 @@ We offer re-certification of exams in two formats, depending on the solution. Yo
  <tbody>
   <tr>
    <th>Certification</th>
-   <th>Elegible exam</th>
+   <th>Eligible exam</th>
    <th>Requirements</th>
   </tr>
   <tr>
@@ -227,7 +227,7 @@ We offer re-certification of exams in two formats, depending on the solution. Yo
  <tbody>
   <tr>
    <th>Certification</th>
-   <th>Elegible exam</th>
+   <th>Eligible exam</th>
    <th>Requirements</th>
   </tr>
   <tr>
