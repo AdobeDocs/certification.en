@@ -10,7 +10,7 @@ badge: label="Get certified" type="positive"
 
  Add content here
 
-  >[!BEGINTABS]
+>[!BEGINTABS]
 
 >[!TAB Manage your badges]
 
