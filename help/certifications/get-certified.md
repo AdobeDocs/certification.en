@@ -1,6 +1,6 @@
 ---
 title: How to get certified
-description: You have technical knowledge about audience segmentation, destination exports, and activation on real time basis for unified profiles that adhere to data and privacy regulations, customer data platforms (CDP) and knowledge of Adobe Experience Platform.
+description: Learn the steps to get certified at Adobe.
 recommendations: disable, exclude
 badge: label="How to get certified" type="positive"
 ---
@@ -18,7 +18,7 @@ How to manage your badge:
 
 Step 1: Sign in or create an account
 
-* Go to [Credly](https://www.certmetrics.com/adobe/candidate/acclaim_sso.aspx?redirect=yes){target="_blank"}
+* Go to [Credly](https://www.credly.com/users/sign_in){target="_blank"}
 
 ![Credly Badge](/help/certifications/assets/credly_signin.png)
 
@@ -28,7 +28,7 @@ Step 2: Choose your badge
 
 ![Credly Badge](/help/certifications/assets/credly_badges.png)
 
-Step 2 - Share your badge
+Step 3 - Share your badge
 
 After you've selected the correct badge, select share to continue. 
 
