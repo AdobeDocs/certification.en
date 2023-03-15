@@ -6,27 +6,18 @@ badge: label="Certification home" type="positive"
 
 # Welcome to Certification at Adobe! {#certification-overview}
 
-**Get Adobe certified to gain a competitive edge in your industry and prove your skills and knowledge.**
+Adobe Digital Cloud Experience (DCX) is a suite of digital marketing solutions that enables businesses to deliver personalized customer experiences across multiple channels, including web, mobile, email, and social media. Adobe DCX includes a range of products, such as Adobe Real-Time CDP, Adobe Experience Manager, Adobe Commerce, Adobe Journey Optimizer, Adobe Customer Analytics, and among others.
 
- The Adobe Certification Program is here to help you unlock your professional potential by enabling you to earn the credentials you need to advance in your career and set yourself apart. 
+Here at Adobe, we understand the importance of having the right credentials to advance in your career and stay ahead of the competition. That's why we offer the Adobe Certification Program - to help you prove your skills and knowledge and gain the recognition you deserve.
 
-If you are an aspiring professional looking to kickstart your career, or a seasoned expert hoping to validate your skills and expertise, Adobe Certification Program provides you with the credentials that can give you a competitive edge, increase your salary, and give you the confidence to take your profession to the next level. 
+Whether you're a seasoned expert or just starting out, our certification program can help you unlock your professional potential and take your career to the next level. With our credentials, you can gain a competitive edge, increase your salary, and demonstrate your ability to meet complex challenges.
 
-Certification shows that you can meet complex challenges and proves your knowledge and real-world product experience. Some additional benefits include: 
+By becoming Adobe certified, you'll gain access to a variety of benefits, including career growth opportunities, additional education, and an increase in credibility and reputation. You'll also gain recognition from your employer and the confidence to take on new challenges.
+Our certification program is designed for professionals in a variety of fields, including developers, business practitioners, and architects. With many different certification paths to choose from, you can showcase your proficiency and expertise within the Adobe Experience Cloud and impress clients and employers alike.
 
-* Career growth 
-* Additional education 
-* Higher salary 
-* Competitive edge 
-* Increase in credibility & reputation 
-* Increase in self confidence 
-* Gain recognition from employer 
- 
-Adobe Certification is a great asset for professionals (developers, business practitioners, architects) to showcase their proficiency, expertise and skills within the Adobe Experience Cloud. Choose from many different certification paths below based on your job role or area of interest to impress your clients and employer or to grow in your career!  
+So why wait? Take the first step towards unlocking your professional potential and explore our certification paths today!
 
 **Why get certified**
-
-Adobe Digital Cloud Experience (DCX) is a suite of digital marketing solutions that enables businesses to deliver personalized customer experiences across multiple channels, including web, mobile, email, and social media. Adobe DCX includes a range of products, such as Adobe Experience Manager, Adobe Analytics, Adobe Campaign, and Adobe Target, among others.
 
 Getting certified in Adobe DCX can be beneficial for several reasons:
 
