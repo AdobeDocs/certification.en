@@ -13,6 +13,7 @@ Here at Adobe, we understand the importance of having the right credentials to a
 Whether you're a seasoned expert or just starting out, our certification program can help you unlock your professional potential and take your career to the next level. With our credentials, you can gain a competitive edge, increase your salary, and demonstrate your ability to meet complex challenges.
 
 By becoming Adobe certified, you'll gain access to a variety of benefits, including career growth opportunities, additional education, and an increase in credibility and reputation. You'll also gain recognition from your employer and the confidence to take on new challenges.
+
 Our certification program is designed for professionals in a variety of fields, including developers, business practitioners, and architects. With many different certification paths to choose from, you can showcase your proficiency and expertise within the Adobe Experience Cloud and impress clients and employers alike.
 
 So why wait? Take the first step towards unlocking your professional potential and explore our certification paths today!
