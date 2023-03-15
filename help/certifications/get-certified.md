@@ -4,7 +4,7 @@ description: You have technical knowledge about audience segmentation, destinati
 recommendations: disable, exclude
 badge: label="How to get certified" type="positive"
 ---
-# How to get Certified {#get-certified}
+# How to get Certified
 
   Add content here
 
