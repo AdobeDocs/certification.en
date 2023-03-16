@@ -167,7 +167,7 @@ The course assessments are free. There is no need to schedule them, and they are
 * [ADS-E826 Adobe Audience Manager **Business Practitioner** Expert Restart](#get-ready---business-practitioner)
 * [ADS-E825 Adobe Audience Manager **Architect** Master Restart](#get-ready---architect)
 
-### Get ready - Business Practitioner{#BP}
+### Get ready - Business Practitioner {#BP}
 
 ### Exam details:
   
@@ -240,7 +240,7 @@ This exam is free, open book, and un-proctored. You may take the exam up to thre
 
 [!BADGE Take the Adobe Audience Manager Business Practitioner expert restart exam ADS-E826]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADS-E826 newtab=true"} 
 
-### Get ready - Architect{#Architect}
+### Get ready - Architect {#Architect}
 
 **Exam details:**
   
