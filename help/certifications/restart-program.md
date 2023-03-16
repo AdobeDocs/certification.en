@@ -46,6 +46,8 @@ Refer to the exam is listed in your profile history and click on the tab below t
 
 >[!TAB Experience Manager]
 
+### Instructions for restarting your Adobe Experience Manager certification
+
 Select **three activities** to complete and pass the course assessments associated with each.
 
 * **Step 1** - Study the courses in Experience League.
@@ -67,7 +69,7 @@ In these cases you can provide a customer reference affirming you have participa
 
 The course assessments are free. There is no need to schedule them, and they are not proctored. If you hold multiple Adobe Experience Manager Expert and Master level certifications, you will only need to complete the requirements below and all your AEM certifications will get renewed.
 
-**Courses and Course Assessments:**
+### Courses and Course Assessments:
 
 | Course | Course Assessment |
 | ------- | ------- |
@@ -87,6 +89,8 @@ The course assessments are free. There is no need to schedule them, and they are
 
 >[!TAB Analytics]
 
+### Instructions for restarting your Adobe Analytics certification
+
 Select **three activities** to complete and pass the course assessments associated with each.
 
 * **Step 1** - Study the courses in Experience League.
@@ -108,7 +112,7 @@ In these cases you can provide a customer reference affirming you have participa
 
 The course assessments are free. There is no need to schedule them, and they are not proctored. If you hold multiple Adobe Experience Manager Expert and Master level certifications, you will only need to complete the requirements below and all your AEM certifications will get renewed.
 
-**Courses and Course Assessments:**
+### Courses and Course Assessments:
 
 | Course | Course Assessment |
 | ------- | ------- |
@@ -122,6 +126,8 @@ The course assessments are free. There is no need to schedule them, and they are
 
 >[!TAB Target]
 
+### Instructions for restarting your Adobe Target certification
+
 Select **three activities** to complete and pass the course assessments associated with each.
 
 * **Step 1** - Study the courses in Experience League.
@@ -143,7 +149,7 @@ In these cases you can provide a customer reference affirming you have participa
 
 The course assessments are free. There is no need to schedule them, and they are not proctored. If you hold multiple Adobe Experience Manager Expert and Master level certifications, you will only need to complete the requirements below and all your AEM certifications will get renewed.
 
-**Courses and Course Assessments:**
+### Courses and Course Assessments:
 
 | Course | Course Assessment |
 | ------- | ------- |
@@ -156,12 +162,14 @@ The course assessments are free. There is no need to schedule them, and they are
 
 >[!TAB Audience Manager]
 
-* ADS-E826 Adobe Audience Manager Business Practitioner Expert Restart
-* ADS-E825 Adobe Audience Manager Architect Master Restart
+### Select the applicable exam based on role to restart your Adobe Audience Manager certification. 
 
-**Get ready - Business Practitioner**
+* [ADS-E826 Adobe Audience Manager **Business Practitioner** Expert Restart](#get-ready---business-practitioner)
+* [ADS-E825 Adobe Audience Manager **Architect** Master Restart](#get-ready---architect)
 
-**Exam details:**
+### Get ready - Business Practitioner{#BP}
+
+### Exam details:
   
 ```
 Level: Expert (1-3 years experience)
@@ -174,32 +182,32 @@ Exam ID: ADS-E826 - Adobe Audience Manager Business Practitioner Expert Restart
 
 ```
 
-**Exam Objectives and Scope**
+### Exam Objectives and Scope
 
-Section 1: Segment Creation and Syndication (25%)
+**Section 1: Segment Creation and Syndication (25%)**
 
 * Determine the appropriate method to create segments utilizing 1p/2p/3p data for targeting and analytical purposes
 * Given a scenario, recommend segments for activation that align to business or campaign goals
 * Determine the appropriate method to syndicate segments to destinations for activation
 
-Section 2: Trait Creation (17%)
+**Section 2: Trait Creation (17%)**
 
 * Recommend traits for a given audience strategy
 * Determine the correct method to create and update rule-based and/or onboarded traits
 
-Section 3: Reporting and Measurements (21%)
+**Section 3: Reporting and Measurements (21%)**
 
 * Given a scenario, analyze reports to provide actionable next steps to meet business goals
 * Given a scenario, analyze audience optimization
 
-Section 4: Troubleshooting and Administration (26%)
+**Section 4: Troubleshooting and Administration (26%)**
 
 * Given a scenario, verify audience delivery information to ensure scheduled delivery needs
 * Determine the appropriate practice to validate offline inbound files
 * Given a scenario, determine the correct method to perform QA against the ID sync
 * Determine the appropriate method to navigate and activate from the Adobe Audience Marketplace
 
-Section 5: Taxonomy (11%)
+**Section 5: Taxonomy (11%)**
 
 * Determine the appropriate structure to create traits and segments that utilize a clear and consistent nomenclature
 * Determine the correct technique to maintain an organized platform using a clear folder structure
@@ -211,7 +219,7 @@ You are not required to complete training before taking the exam, and training a
 
 Here are some suggested resources to help you prepare:
 
-[Sample questions](https://sei.caveon.com/launchpad/ad4-e453-adobe-audience-manager-business-practitioner-sample-exam){target="_blank"}
+[!BADGE Sample questions]{type=Informative url="https://sei.caveon.com/launchpad/ad4-e453-adobe-audience-manager-business-practitioner-sample-exam newtab=true"}
 
 **Resources:**
 
@@ -230,16 +238,16 @@ Here are some suggested resources to help you prepare:
 
 This exam is free, open book, and un-proctored. You may take the exam up to three times. If you are unsuccessful after the third attempt, you must wait **30 days** to try again. Failure to comply might result in your certification being revoked.
 
-[Take the Adobe Audience Manager Business Practitioner expert restart exam ADS-E826](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADS-E826){target="_blank"}
+[!BADGE Take the Adobe Audience Manager Business Practitioner expert restart exam ADS-E826]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADS-E826 newtab=true"} 
 
-**Get ready - Architect**
+### Get ready - Architect{#Architect}
 
 **Exam details:**
   
 ```
 Level: Master (1-3 years experience)
-Passing Score: 26/34
-Time: 68 mins
+Passing Score: 22/29
+Time: 58 mins
 Delivery: On-demand / non-proctored
 Available languages: English
 Cost: FREE
@@ -248,11 +256,53 @@ Exam ID: ADS-E825 - Adobe Audience Manager Architect Master Restart
 
 ```
 
-**Get prepped**
+### Exam Objectives and Scope
 
-Add content
+**Section 1: Implementation Analysis (28%)**
 
-**Restart your certification**
+* Determine how to guide and support implementation of AAM as a stand-alone product or as part of a cloud solution
+* Analyze outbound destination options and recommend an AAM implementation approach
+* Determine a data onboarding strategy for a business use case
+* Identify features such as visitor profile viewer, tags, RBAC, etc. to align with business goals
+* Determine how to design and test pixels required to create segments and traits
+
+**Section 2: Solution Design and Recommendations (17%)**
+
+* Determine AAM capabilities based on customer use case for audience and activation
+* Apply procedural concepts to utilize audience identity solutions to compliment design architecture
+* Identify attribute and behavioral data and map it to specific business use cases
+* Apply procedural concepts to design folder taxonomy and naming convention
+
+**Section 3: Segmentation and Activation (31%)**
+
+* Apply procedural concepts to create destinations in Audience Manager
+* Identify signals to create Rule-Based, Onboarded, and Algorithmic Traits
+* Apply procedural concepts to create segments using frequency/recency
+* Determine how to create segments using profile merge rules
+* Apply procedural concepts to create an algorithmic or predictive model
+* Determine segmentation logic based on use cases
+
+**Section 4: Privacy and Data Governance (7%)**
+
+* Recommend Audience Manager capabilities as it relates to governance, privacy, and security
+* Identify customer data policies that are in line with government regulations
+
+**Section 5: Performance and Reporting (17%)**
+
+* Determine how to configure reports in AAM to gather signal, traits, and segment performance per business requirements
+
+### Get prepped
+
+You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
+
+Here are some suggested resources to help you prepare:
+
+* [AAM: Technical Foundations](https://solutionpartners.adobe.com/training/learning_program/learningProgram32128.html){target="_blank"}
+* [AAM: Integration Series](https://solutionpartners.adobe.com/training/courses/course500091.html){target="_blank"}
+* [AAM: Advanced Features](https://solutionpartners.adobe.com/training/courses/course500092.html){target="_blank"}
+* [ Launch Training & Resources](https://solutionpartners.adobe.com/training/courses/course1326130.html){target="_blank"}
+
+### Restart your certification
 
 >[!NOTE]
 >
@@ -262,16 +312,18 @@ Add content
 
 This exam is free, open book, and un-proctored. You may take the exam up to three times. If you are unsuccessful after the third attempt, you must wait **30 days** to try again. Failure to comply might result in your certification being revoked.
 
-[Take the Adobe Audience Manager Architect master restart exam ADS-E825](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADS-E825){target="_blank"}
+[!BADGE Take the Adobe Audience Manager Architect master restart exam ADS-E82]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADS-E825 newtab=true"} 
 
 >[!TAB Campaign]
 
-* ADS-E821 Adobe Campaign Standard Developer Expert Restart Exam
-* ADS-E822 Adobe Campaign Standard Business Practitioner Expert Restart Exam
-* ADS-E823 Adobe Campaign Classic Restart exam
+### Select the applicable exam based on role to restart your Adobe Audience Manager certification.
+
+* [ADS-E821 Adobe Campaign Standard Developer Expert Restart Exam](#get-ready---campaign-standard-developer)
+* [ADS-E822 Adobe Campaign Standard Business Practitioner Expert Restart Exam](#get-ready---campaign-standard-business-practitioner)
+* [ADS-E823 Adobe Campaign Classic Restart exam](#get-ready---campaign-classic)
 
 
-**Get ready**
+### Get ready - Campaign Standard Developer{#CSD}
 
 add content
 
@@ -289,11 +341,11 @@ Exam ID: ADS-E825 - Adobe Audience Manager Architect Master Restart
 
 ```
 
-**Get prepped**
+### Get prepped
 
 Add content
 
-**Restart your certification**
+### Restart your certification
 
 >[!NOTE]
 >
@@ -303,25 +355,91 @@ Add content
 
 This exam is free, open book, and un-proctored. You may take the exam up to three times. If you are unsuccessful after the third attempt, you must wait **30 days** to try again. Failure to comply might result in your certification being revoked.
 
-Take the Adobe Campaign Standard Business Practitioner Expert restart exam
+[Take the Adobe Campaign Standard Developer Expert restart exam ADS-821](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADS-E821){target="_blank"}
 
-Take the Adobe Campaign Standard Developer Expert restart exam
+### Get ready - Campaign Standard Business Practitioner{#CSBP}
 
-Take the Adobe Campaign Classic restart exam
+add content
+
+**Exam details:**
+  
+```
+Level: Master (1-3 years experience)
+Passing Score: 26/34
+Time: 68 mins
+Delivery: On-demand / non-proctored
+Available languages: English
+Cost: FREE
+Exam ID: ADS-E825 - Adobe Audience Manager Architect Master Restart
+
+
+```
+
+### Get prepped
+
+Add content
+
+### Restart your certification
+
+>[!NOTE]
+>
+>IMPORTANT NOTE: The following sections and links will **only** function after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
+
+**Now that you have successfully logged in, the following links will be directly accessible.**
+
+This exam is free, open book, and un-proctored. You may take the exam up to three times. If you are unsuccessful after the third attempt, you must wait **30 days** to try again. Failure to comply might result in your certification being revoked.
+
+
+[Take the Adobe Campaign Standard Business Practitioner Expert restart exam ADS-822](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADS-E822){target="_blank"}
+
+### Get ready - Campaign Classic{#CC}
+
+add content
+
+**Exam details:**
+  
+```
+Level: Master (1-3 years experience)
+Passing Score: 26/34
+Time: 68 mins
+Delivery: On-demand / non-proctored
+Available languages: English
+Cost: FREE
+Exam ID: ADS-E825 - Adobe Audience Manager Architect Master Restart
+
+
+```
+
+### Get prepped
+
+Add content
+
+### Restart your certification
+
+>[!NOTE]
+>
+>IMPORTANT NOTE: The following sections and links will **only** function after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
+
+**Now that you have successfully logged in, the following links will be directly accessible.**
+
+This exam is free, open book, and un-proctored. You may take the exam up to three times. If you are unsuccessful after the third attempt, you must wait **30 days** to try again. Failure to comply might result in your certification being revoked.
+
+
+[Take the Adobe Campaign Classic restart exam ADS-823](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADS-E823){target="_blank"}
 
 >[!TAB Marketo Engage]
 
 Add content
 
-**Get ready**
+### Get ready
 
 Add content
 
-**Get prepped**
+### Get prepped
 
 Add content
 
-**Restart your certification**
+### Restart your certification
 
 >[!NOTE]
 >
@@ -331,7 +449,7 @@ Add content
 
 This exam is free, open book, and un-proctored. You may take the exam up to three times. If you are unsuccessful after the third attempt, you must wait **30 days** to try again. Failure to comply might result in your certification being revoked.
 
-Take the Adobe Marketo Engage expert restart exam
+Take the Adobe Marketo Engage expert restart exam ADS-E824
 
 >[!ENDTABS]
 
