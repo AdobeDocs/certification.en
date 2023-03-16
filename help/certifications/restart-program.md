@@ -47,7 +47,7 @@ We offer re-certification of exams in two formats, depending on the solution. Yo
   <tr>
    <td><p>Adobe Certified Expert - Adobe Experience Manager Business Practitioner</td>
    <td><p><ul><li>AD0-E121 Adobe Experience Manager Sites Business Practitioner Expert</li></ul><ul><li>AD0-E102 Adobe Experience Manager Sites Business Practitioner Expert (retired)</li></ul></p></td>
-   <td><p>Adobe Experience Manager Business Practitioner</td>
+   <td><a href="/certifications/at/at-renew.md">Adobe Experience Manager Business Practitioner</a></td>
   </tr>
   <tr>
    <td><p>Adobe Certified Expert - Adobe Experience Manager Developer</td>
