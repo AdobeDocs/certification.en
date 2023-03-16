@@ -230,8 +230,7 @@ Here are some suggested resources to help you prepare:
 
 This exam is free, open book, and un-proctored. You may take the exam up to three times. If you are unsuccessful after the third attempt, you must wait **30 days** to try again. Failure to comply might result in your certification being revoked.
 
-[Take the Adobe Audience Manager Business Practitioner expert restart
-exam](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADS-E826){target="_blank"}
+[Take the Adobe Audience Manager Business Practitioner expert restart exam ADS-E826](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADS-E826){target="_blank"}
 
 **Get ready - Architect**
 
@@ -263,8 +262,7 @@ Add content
 
 This exam is free, open book, and un-proctored. You may take the exam up to three times. If you are unsuccessful after the third attempt, you must wait **30 days** to try again. Failure to comply might result in your certification being revoked.
 
-[Take the Adobe Audience Manager Architect master restart
-exam](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADS-E825){target="_blank"}
+[Take the Adobe Audience Manager Architect master restart exam ADS-E825](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADS-E825){target="_blank"}
 
 >[!TAB Campaign]
 
@@ -305,8 +303,11 @@ Add content
 
 This exam is free, open book, and un-proctored. You may take the exam up to three times. If you are unsuccessful after the third attempt, you must wait **30 days** to try again. Failure to comply might result in your certification being revoked.
 
-[Take the Adobe Audience Manager Architect master restart
-exam](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADS-E825){target="_blank"}
+Take the Adobe Campaign Standard Business Practitioner Expert restart exam
+
+Take the Adobe Campaign Standard Developer Expert restart exam
+
+Take the Adobe Campaign Classic restart exam
 
 >[!TAB Marketo Engage]
 
@@ -330,8 +331,7 @@ Add content
 
 This exam is free, open book, and un-proctored. You may take the exam up to three times. If you are unsuccessful after the third attempt, you must wait **30 days** to try again. Failure to comply might result in your certification being revoked.
 
-[Take the Adobe Marketo Engage expert restart
-exam](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADS-E824){target="_blank"}
+Take the Adobe Marketo Engage expert restart exam
 
 >[!ENDTABS]
 
