@@ -162,14 +162,14 @@ The course assessments are free. There is no need to schedule them, and they are
 
 >[!TAB Audience Manager]
 
-### Select the applicable exam based on role to restart your Adobe Audience Manager certification. 
+**Select the applicable exam based on role to restart your Adobe Audience Manager certification.** 
 
 * ADS-E826 Adobe Audience Manager **Business Practitioner** Expert Restart
 * ADS-E825 Adobe Audience Manager **Architect** Master Restart
 
 ### Get ready - Business Practitioner {#BP}
 
-### Exam details:
+**Exam details:**
   
 ```
 Level: Expert (1-3 years experience)
@@ -182,7 +182,7 @@ Exam ID: ADS-E826 - Adobe Audience Manager Business Practitioner Expert Restart
 
 ```
 
-### Exam Objectives and Scope
+**Exam Objectives and Scope**
 
 **Section 1: Segment Creation and Syndication (25%)**
 
@@ -213,7 +213,7 @@ Exam ID: ADS-E826 - Adobe Audience Manager Business Practitioner Expert Restart
 * Determine the correct technique to maintain an organized platform using a clear folder structure
 * Differentiate between the different types of destinations
 
-**Get prepped**
+### Get prepped
 
 You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
 
@@ -316,7 +316,7 @@ This exam is free, open book, and un-proctored. You may take the exam up to thre
 
 >[!TAB Campaign]
 
-### Select the applicable exam based on role to restart your Adobe Audience Manager certification.
+**Select the applicable exam based on role to restart your Adobe Audience Manager certification.**
 
 * ADS-E821 Adobe **Campaign Standard Developer** Expert restart exam
 * ADS-E822 Adobe **Campaign Standard Business Practitioner** Expert restart exam
