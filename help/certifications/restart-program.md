@@ -164,8 +164,8 @@ The course assessments are free. There is no need to schedule them, and they are
 
 ### Select the applicable exam based on role to restart your Adobe Audience Manager certification. 
 
-* [ADS-E826 Adobe Audience Manager **Business Practitioner** Expert Restart](#get-ready---business-practitioner)
-* [ADS-E825 Adobe Audience Manager **Architect** Master Restart](#get-ready---architect)
+* ADS-E826 Adobe Audience Manager **Business Practitioner** Expert Restart
+* ADS-E825 Adobe Audience Manager **Architect** Master Restart
 
 ### Get ready - Business Practitioner {#BP}
 
@@ -318,9 +318,9 @@ This exam is free, open book, and un-proctored. You may take the exam up to thre
 
 ### Select the applicable exam based on role to restart your Adobe Audience Manager certification.
 
-* [ADS-E821 Adobe Campaign Standard Developer Expert Restart Exam](#get-ready---campaign-standard-developer)
-* [ADS-E822 Adobe Campaign Standard Business Practitioner Expert Restart Exam](#get-ready---campaign-standard-business-practitioner)
-* [ADS-E823 Adobe Campaign Classic Restart exam](#get-ready---campaign-classic)
+* ADS-E821 Adobe **Campaign Standard Developer** Expert restart exam
+* ADS-E822 Adobe **Campaign Standard Business Practitioner** Expert restart exam
+* ADS-E823 Adobe **Campaign Classic** restart exam
 
 
 ### Get ready - Campaign Standard Developer{#CSD}
@@ -355,7 +355,7 @@ Add content
 
 This exam is free, open book, and un-proctored. You may take the exam up to three times. If you are unsuccessful after the third attempt, you must wait **30 days** to try again. Failure to comply might result in your certification being revoked.
 
-[Take the Adobe Campaign Standard Developer Expert restart exam ADS-821](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADS-E821){target="_blank"}
+[!BADGE Take the Adobe Campaign Standard Developer Expert restart exam ADS-821]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADS-E821 newtab=true"} 
 
 ### Get ready - Campaign Standard Business Practitioner{#CSBP}
 
@@ -389,14 +389,13 @@ Add content
 
 This exam is free, open book, and un-proctored. You may take the exam up to three times. If you are unsuccessful after the third attempt, you must wait **30 days** to try again. Failure to comply might result in your certification being revoked.
 
-
-[Take the Adobe Campaign Standard Business Practitioner Expert restart exam ADS-822](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADS-E822){target="_blank"}
+[!BADGE Take the Adobe Campaign Standard Business Practitioner Expert restart exam ADS-822]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADS-E822 newtab=true"} 
 
 ### Get ready - Campaign Classic{#CC}
 
 add content
 
-**Exam details:**
+### Exam details:
   
 ```
 Level: Master (1-3 years experience)
@@ -424,8 +423,7 @@ Add content
 
 This exam is free, open book, and un-proctored. You may take the exam up to three times. If you are unsuccessful after the third attempt, you must wait **30 days** to try again. Failure to comply might result in your certification being revoked.
 
-
-[Take the Adobe Campaign Classic restart exam ADS-823](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADS-E823){target="_blank"}
+[!BADGE Take the Adobe Campaign Classic restart exam ADS-823]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADS-E823 newtab=true"} 
 
 >[!TAB Marketo Engage]
 
@@ -449,7 +447,7 @@ Add content
 
 This exam is free, open book, and un-proctored. You may take the exam up to three times. If you are unsuccessful after the third attempt, you must wait **30 days** to try again. Failure to comply might result in your certification being revoked.
 
-Take the Adobe Marketo Engage expert restart exam ADS-E824
+[!BADGE Take the Adobe Marketo Engage expert restart exam ADS-E824]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&ec=ADS-E824 newtab=true"} 
 
 >[!ENDTABS]
 
