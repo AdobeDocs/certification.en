@@ -72,6 +72,7 @@ The course assessments are free. There is no need to schedule them, and they are
 
 | Course | Course Assessment |
 | ------- | ------- |
+| Adobe Experience Manager Certification Renewal : Customer Reference Form | [ADS-EA100](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADS-EA100){target="_blank"} |
 | [Moving to Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-d-1-2021-1-migration.html?lang=en){target="_blank"} | [ADS-EA101](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADS-EA101){target="_blank"} |
 | [Planning Your Move to Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-a-1-2021-1-migration.html?lang=en){target="_blank"} | [ADS-EA102](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADS-EA102){target="_blank"} |
 | [Introduction to Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/overview/introduction.html?lang=en){target="_blank"} | [ADS-EA103](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADS-EA103){target="_blank"} |
@@ -80,7 +81,6 @@ The course assessments are free. There is no need to schedule them, and they are
 | [Integrate Experience Manager Forms Cloud Service with Salesforce](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-d-1-2021-formscs-salesforce.html?lang=en){target="_blank"} | [ADS-EA106](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADS-EA106){target="_blank"} |
 | [Adobe Experience Manager Cloud Manager Skill Builder](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-u-1-2019-1-cloudmgr-builder.html?lang=en){target="_blank"} | [ADS-EA107](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADS-EA107){target="_blank"} |
 | [Adobe Experience Manager Sites for Architects](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-d-1-2019-1-architect.html?lang=en){target="_blank"} | [ADS-EA108](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADS-EA108){target="_blank"} |
-| [Adobe Experience Manager Certification Renewal : Customer Reference Form](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-d-1-2019-1-architect.html?lang=en){target="_blank"} | [ADS-EA100](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADS-EA100){target="_blank"} |
 
 >[!NOTE]
 >
@@ -88,173 +88,80 @@ The course assessments are free. There is no need to schedule them, and they are
 
 >[!TAB Analytics]
 
-<table>
- <tbody>
-  <tr>
-   <th>Certification</th>
-   <th>Eligible exam</th>
-   <th>Requirements</th>
-  </tr>
-  <tr>
-   <td><p>Adobe Certified Expert - Adobe Analytics Business Practitioner</td>
-   <td><p><ul><li>AD0-E208 Adobe Analytics Business Practitioner Expert</li></ul><ul><li>AD0-E202 Adobe Analytics Business Practitioner Expert (retired)</li></ul></p></td>
-  <td><p>Adobe Analytics Business Practitioner</td>
-  </tr>
-  <tr>
-   <td><p>Adobe Certified Expert - Adobe Analytics Developer</td>
-   <td><p><ul><li>AD0-E209 Adobe Analytics Developer Expert</li></ul><ul><li>AD0-E201 Adobe Analytics Developer Expert (retired)</li></ul></p></td>
-  <td><p>Adobe Analytics Developer</td>
-  </tr>
-  <tr>
-   <td><p>Adobe Certified Master - Adobe Analytics Architect</td>
-   <td><p><ul><li>AD0-E207 Adobe Analytics Architect Master</li></ul><ul><li>AD0-E200 Adobe Analytics Architect Master (retired)</li></ul></p></td>
-  <td><p>Adobe Analytics Architect</td>
-  </tr>
-  <tr>
-</tbody>
-</table>
+Select **three activities** to complete and pass the course assessments associated with each.
+
+* **Step 1** - Study the courses in Experience League.
+* **Step 2** - Complete the course assessment 
+
+Alternatively, study two courses, pass two course assessments and submit a customer reference form validating your engagement in a project totaling 100 hours in the past 12 months.
+
+For certain Adobe Experience Cloud certifications, the Adobe Credential Program accepts **customer references** that validate your continued work as an Adobe certified individual leading, managing and/or participating on an Adobe Experience Cloud implementation project.
+
+In these cases you can provide a customer reference affirming you have participated in at least 100 hours of demonstrated project engagement during your certification renewal 2-year interval.
+
+**Once your customer reference has been reviewed you will be notified by the Adobe Credential Team.**
+
+>[!NOTE]
+>
+>IMPORTANT NOTE: The following section and links will **only** function after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
+
+**Now that you have successfully logged in, the following links will be directly accessible.**
+
+The course assessments are free. There is no need to schedule them, and they are not proctored. If you hold multiple Adobe Experience Manager Expert and Master level certifications, you will only need to complete the requirements below and all your AEM certifications will get renewed.
+
+| Course | Course Assessment |
+| ------- | ------- |
+| Adobe Analytics Certification Renewal : Customer Reference Form | [ADS-EA200](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADS-EA200){target="_blank"} |
+| [Adobe Analytics Attributing Value to Digital Touch-points in the Customer Journey](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing){target="_blank"} | [ADS-EA201](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADS-EA201){target="_blank"} |
+| [Export and democratize Adobe Analytics data - Lesson 5 & 6](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing){target="_blank"} | [ADS-EA202](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADS-EA202){target="_blank"} |
+| [Filtering your data with custom segmentation and dates - Lesson 2](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata){target="_blank"} | [ADS-EA203](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADS-EA203){target="_blank"} |
+| [Guided Analytics Implementation - Lesson 5](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1){target="_blank"} | [ADS-EA204](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADS-EA204){target="_blank"} |
+| [ Implementing and Measuring Internal Site Search - Lesson 3 & 4](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.search){target="_blank"} | [ADS-EA205](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADS-EA205){target="_blank"} |
+| [Adobe Analytics APIs](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/apis/using-analysis-workspace-to-build-api-2-requests.html?lang=en){target="_blank"} | [ADS-EA206](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADS-EA206){target="_blank"} |
 
 >[!TAB Target]
 
-<table>
- <tbody>
-  <tr>
-   <th>Certification</th>
-   <th>Eligible exam</th>
-   <th>Requirements</th>
-  </tr>
-  <tr>
-   <td><p>Adobe Certified Expert - Adobe Target Business Practitioner</td>
-   <td><p><ul><li>AD0-E406 Adobe Target Business Practitioner Expert</li></ul><ul><li>AD0-E401 Adobe Target Business Practitioner Expert (retired)</li></ul></p></td>
-  <td><p>Adobe Target Business Practitioner</td>
-  </tr>
-  <tr>
-   <td><p>Adobe Certified Master - Adobe Target Architect</td>
-   <td><p><ul><li>AD0-E407 Adobe Target Architect Master</li></ul><ul><li>AD0-E402 Adobe Target Architect Master (retired)</li></ul></p></td>
-  <td><p>Adobe Target Architect</td>
-  </tr>
-  <tr>
-  </tbody>
-</table>
+Select **three activities** to complete and pass the course assessments associated with each.
+
+* **Step 1** - Study the courses in Experience League.
+* **Step 2** - Complete the course assessment 
+
+Alternatively, study two courses, pass two course assessments and submit a customer reference form validating your engagement in a project totaling 100 hours in the past 12 months.
+
+For certain Adobe Experience Cloud certifications, the Adobe Credential Program accepts **customer references** that validate your continued work as an Adobe certified individual leading, managing and/or participating on an Adobe Experience Cloud implementation project.
+
+In these cases you can provide a customer reference affirming you have participated in at least 100 hours of demonstrated project engagement during your certification renewal 2-year interval.
+
+**Once your customer reference has been reviewed you will be notified by the Adobe Credential Team.**
+
+>[!NOTE]
+>
+>IMPORTANT NOTE: The following section and links will **only** function after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
+
+**Now that you have successfully logged in, the following links will be directly accessible.**
+
+The course assessments are free. There is no need to schedule them, and they are not proctored. If you hold multiple Adobe Experience Manager Expert and Master level certifications, you will only need to complete the requirements below and all your AEM certifications will get renewed.
+
+| Course | Course Assessment |
+| ------- | ------- |
+| Adobe Analytics Certification Renewal : Customer Reference Form | [ADS-EA400](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADS-EA400){target="_blank"} |
+| [On-Device Decisioning Overview Course](https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/on-device-decisioning-overview.html?lang=en){target="_blank"} | [ADS-EA401](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADS-EA401){target="_blank"} |
+| [Adobe Target Innovations in Personalization Course](https://business.adobe.com/summit/2021/sessions/adobe-target-innovations-in-personalization-s901.html){target="_blank"} | [ADS-EA402](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADS-EA402){target="_blank"} |
+| [Mobile App Implementation and Personalization Course](https://experienceleague.adobe.com/?recommended=Target-D-1-2020.1.mobile){target="_blank"} | [ADS-EA403](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADS-EA403){target="_blank"} |
+| [Guided Mobile and IoT Launch for Developers Course](https://experienceleague.adobe.com/?recommended=Target-D-1-2019.1.web){target="_blank"} | [ADS-EA404](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADS-EA404){target="_blank"} |
+| [Guided Website Launch for Developers Course](https://experienceleague.adobe.com/?recommended=Target-D-1-2019.1.web){target="_blank"} | [ADS-EA405](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADS-EA405){target="_blank"} |
 
 >[!TAB Audience Manager]
 
-<table>
- <tbody>
-  <tr>
-   <th>Certification</th>
-   <th>Eligible exam</th>
-   <th>Requirements</th>
-  </tr>
-  <tr>
-   <td><p>Adobe Certified Expert - Adobe Audience Manager Business Practitioner</td>
-   <td><p><ul><li>AD0-E457 Adobe Audience Manager Business Practitioner Expert</li></ul><ul><li>AD0-E453 Adobe Audience Manager Business Practitioner Expert - (retired)</li></ul></p></td>
-   <td><p>Adobe Audience Manager Business Practitioner</td>
-  </tr>
-  <tr>
-   <td><p>Adobe Certified Master - Adobe Audience Manager Architect</td>
-   <td><p><ul><li>AD0-E454 Adobe Audience Manager Architect Master</li></ul><ul><li>AD0-E452 Adobe Audience Manager Architect Master (retired)</li></ul></p></td>
-   <td><p>Adobe Audience Manager Architect</td>
-  </tr>
-  <tr>
-   <td><p>Adobe Certified Master - Adobe Analytics Architect</td>
-   <td><p><ul><li>AD0-E207 Adobe Analytics Architect Master</li></ul><ul><li>AD0-E200 Adobe Analytics Architect Master (retired)</li></ul></p></td>
-   <td><p>Adobe Analytics Architect</td>
-  </tr>
-  <tr>
-  </tbody>
-</table>
+Add content
 
 >[!TAB Campaign]
 
-<table>
- <tbody>
-  <tr>
-   <th>Certification</th>
-   <th>Eligible exam</th>
-   <th>Requirements</th>
-  </tr>
-  <tr>
-   <td><p>Adobe Certified Expert - Adobe Campaign Classic Business Practitioner</td>
-   <td><p><ul><li>AD0-E327 Adobe Campaign Classic Business Practitioner Expert</li></ul><ul><li>AD0-E300 Adobe Campaign Classic Business Practitioner Expert (retired)</li></ul><ul><li>AD0-E314 Adobe Campaign Classic Business Practitioner Expert (retired)</li></ul></p></td>
-   <td><p>Adobe Campaign Classic Business Practitioner</td>
-  </tr>
-  <tr>
-   <td><p>Adobe Certified Master - Adobe Campaign Classic Architect</td>
-   <td><p><ul><li>AD0-E328 Adobe Campaign Classic Architect Master</li></ul><ul><li>AD0-E318 Adobe Campaign Classic Architect Master (retired)</li></ul><ul><li>AD0-E303 Adobe Campaign Classic Architect Master (retired)</li></ul></p></td>
-  <td><p>Adobe Campaign Classic Architect</td>
-  </tr>
-  <tr>
-   <td><p>Adobe Certified Expert - Adobe Campaign Classic Developer</td>
-   <td><p><ul><li>AD0-E330 Adobe Campaign Classic Developer Expert</li></ul><ul><li>AD0-E312 Adobe Campaign Classic Developer Expert (retired)</li></ul><ul><li>AD0-E308 Adobe Campaign Classic Developer Expert (retired)</li></ul></p></td>
-   <td><p>Adobe Campaign Classic Developer</td>
-  </tr>
-  <tr>
-  <td><p>Adobe Certified Expert - Adobe Campaign Standard Business Practitioner</td>
-   <td><p><ul><li>AD0-E307 Adobe Campaign Standard Business Practitioner Expert</li></ul><ul><li>AD0-E302 Adobe Campaign Standard Business Practitioner Expert (retired)</li></ul></p></td>
-   <td><p>Link to exam</td>
-  </tr>
-  <tr>
-  </tr>
-  <tr>
-  <td><p>Adobe Certified Expert - Adobe Campaign Standard Developer</td>
-   <td><p><ul><li>AD0-E306 Adobe Campaign Standard Developer Expert</li></ul><ul><li>AD0-E301 Adobe Campaign Standard Developer Expert (retired)</li></ul></p></td>
-   <td><p>Adobe Campaign Standard Developer</td>
-  </tr>
-  <tr>
-  </tbody>
-</table>
-
->[!TAB Commerce]
-
-<table>
- <tbody>
-  <tr>
-   <th>Certification</th>
-   <th>Eligible exam</th>
-   <th>Requirements</th>
-  </tr>
-  <tr>
-   <td><p>Adobe Certified Expert - Adobe Commerce Business Practitioner</td>
-   <td><p><ul><li>AD0-E708 Adobe Commerce Business Practitioner Expert</li></ul><ul><li>AD0-E700 Adobe Commerce Business Practitioner Expert</li></ul></p></td>
-   <td><p>Adobe Commerce Business Practitioner</td>
-  </tr>
-  <tr>
-   <td><p>Adobe Certified Expert - Adobe Commerce Developer</td>
-   <td><p><ul><li>AD0-E716 Adobe Commerce Developer Expert</li></ul><ul><li>AD0-E709 Adobe Commerce Developer Expert (retired)</li></ul></p></td>
-   <td><p>Adobe Commerce Developer</td>
-  </tr>
-  <tr>
-   <td><p>Adobe Certified Expert - Adobe Commerce Front End Developer</td>
-   <td><p><ul><li>AD0-E710 Adobe Commerce Front End Developer Expert</li></ul><ul><li>AD0-E701 Adobe Commerce Front End Developer Expert (retired)</li></ul></p></td>
-   <td><p>Adobe Commerce Front End Developer</td>
-  </tr>
-  <tr>
-  <td><p>Adobe Certified Master - Adobe Commerce Architect</td>
-   <td><p><ul><li>AD0-E718 Adobe Commerce Architect Master</li></ul><ul><li>AD0-E704 Adobe Commerce Architect Master (retired)</li></ul></p></td>
-   <td><p>Adobe Commerce Architect</td>
-  </tr>
-  <tr>
-  </tbody>
-</table>
+Add content
 
 >[!TAB Marketo Engage]
 
-<table>
- <tbody>
-  <tr>
-   <th>Certification</th>
-   <th>Eligible exam</th>
-   <th>Requirements</th>
-  </tr>
-  <tr>
-   <td><p>Adobe Certified Expert – Adobe Marketo Engage Business Practitioner</td>
-   <td><p><ul><li>AD0-E559 Adobe Marketo Engage Business Practitioner Expert</li></ul><ul><li>AD0-E552 Adobe Marketo Engage Business Practitioner (previously MCE)</li></ul><ul><li>AD0-E554 Adobe Marketo Engage Business Practitioner (new version)</li></ul><ul><li>AD0-E558 Adobe Marketo Engage Business Practitioner Expert (retired)</li></ul></p></td>
-   <td><p>Adobe Marketo Engage Business Practitioner</td>
-  </tr>
-  <tr>
-  </tbody>
-</table>
+Add content
 
 >[!ENDTABS]
 
