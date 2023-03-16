@@ -4,6 +4,7 @@ description: You have technical knowledge about audience segmentation, destinati
 role: Developer
 recommendations: disable, exclude
 badge: label="Restart program" type="positive"
+mini-toc-levels: 1
 ---
 # Certification journey - Adobe Certification Restart program
 
@@ -14,11 +15,11 @@ badge: label="Restart program" type="positive"
 >
 >**This program is offered from April 4th, 2023 through October 1st, 2023.** 
 
-**What is Adobe Restart program?**
+### What is Adobe Restart program?
 
 The Adobe Restart Program is an initiative that allows individuals who previously held Adobe Digital Cloud Experience certifications that have since expired to earn a new certification for free. The program offers eligible participants the opportunity to update their skills and stay current in their field by completing designated learning activities or an un-proctored job role exam, depending on the solution. This program is a valuable resource for individuals seeking to enhance their digital expertise and stay competitive in today's rapidly changing digital environment.
 
-**How does it work?**
+### How does it work?
 
 * Review the requirements to see if you are eligible
 * Complete the requirements before the deadline
@@ -29,7 +30,7 @@ View your profile history to see if you eligible for this program. If you see (a
 [!BADGE My Profile]{type=Informative url="https://www.certmetrics.com/adobe/candidate/requirements.aspx newtab=true"}
 
 
-**Exams eligible to re-certify** 
+### Exams eligible to re-certify{#exams}
 
 We offer re-certification of exams in two formats, depending on the solution. You will be able to re-certify either by continuous learning or on-demand exams. 
 
@@ -47,7 +48,7 @@ We offer re-certification of exams in two formats, depending on the solution. Yo
   <tr>
    <td><p>Adobe Certified Expert - Adobe Experience Manager Business Practitioner</td>
    <td><p><ul><li>AD0-E121 Adobe Experience Manager Sites Business Practitioner Expert</li></ul><ul><li>AD0-E102 Adobe Experience Manager Sites Business Practitioner Expert (retired)</li></ul></p></td>
-   <td><a href="/certifications/at/at-renew.md">Adobe Experience Manager Business Practitioner</a></td>
+   <td>Adobe Experience Manager Business Practitioner</td>
   </tr>
   <tr>
    <td><p>Adobe Certified Expert - Adobe Experience Manager Developer</td>
