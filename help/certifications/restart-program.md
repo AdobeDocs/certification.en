@@ -67,7 +67,7 @@ In these cases you can provide a customer reference affirming you have participa
 
 The course assessments are free. There is no need to schedule them, and they are not proctored. If you hold multiple Adobe Experience Manager Expert and Master level certifications, you will only need to complete the requirements below and all your AEM certifications will get renewed.
 
-### Courses and Course Assessments:
+**Courses and Course Assessments:**
 
 | Course | Course Assessment |
 | ------- | ------- |
@@ -108,7 +108,7 @@ In these cases you can provide a customer reference affirming you have participa
 
 The course assessments are free. There is no need to schedule them, and they are not proctored. If you hold multiple Adobe Experience Manager Expert and Master level certifications, you will only need to complete the requirements below and all your AEM certifications will get renewed.
 
-### Courses and Course Assessments:
+**Courses and Course Assessments:**
 
 | Course | Course Assessment |
 | ------- | ------- |
@@ -143,7 +143,7 @@ In these cases you can provide a customer reference affirming you have participa
 
 The course assessments are free. There is no need to schedule them, and they are not proctored. If you hold multiple Adobe Experience Manager Expert and Master level certifications, you will only need to complete the requirements below and all your AEM certifications will get renewed.
 
-### Courses and Course Assessments:
+**Courses and Course Assessments:**
 
 | Course | Course Assessment |
 | ------- | ------- |
@@ -159,7 +159,7 @@ The course assessments are free. There is no need to schedule them, and they are
 * ADS-E826 Adobe Audience Manager Business Practitioner Expert Restart
 * ADS-E825 Adobe Audience Manager Architect Master Restart
 
-### Get ready - Business Practitioner
+**Get ready - Business Practitioner**
 
 **Exam details:**
   
@@ -205,7 +205,7 @@ Section 5: Taxonomy (11%)
 * Determine the correct technique to maintain an organized platform using a clear folder structure
 * Differentiate between the different types of destinations
 
-### Get prepped
+**Get prepped**
 
 You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
 
@@ -220,7 +220,7 @@ Here are some suggested resources to help you prepare:
 * [Adobe Experience Cloud Learn and Support](https://helpx.adobe.com/support/experience-cloud.html){target="_blank"}
 * [Adobe Experience League Audience Manager](https://experienceleague.adobe.com/#recommended/solutions/audience-manager){target="_blank"}
 
-### Restart your certification
+**Restart your certification**
 
 >[!NOTE]
 >
@@ -233,7 +233,7 @@ This exam is free, open book, and un-proctored. You may take the exam up to thre
 [Take the Adobe Audience Manager Business Practitioner expert restart
 exam - ADS-E826](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADS-E826){target="_blank"}
 
-### Get ready - Architect
+**Get ready - Architect**
 
 **Exam details:**
   
@@ -249,10 +249,11 @@ Exam ID: ADS-E825 - Adobe Audience Manager Architect Master Restart
 
 ```
 
-### Get prepped
+**Get prepped**
 
+Add content
 
-### Restart your certification
+**Restart your certification**
 
 >[!NOTE]
 >
@@ -272,7 +273,9 @@ exam - ADS-E825](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.as
 * ADS-E823 Adobe Campaign Classic Restart exam
 
 
-### Get ready
+**Get ready**
+
+add content
 
 **Exam details:**
   
@@ -288,9 +291,11 @@ Exam ID: ADS-E825 - Adobe Audience Manager Architect Master Restart
 
 ```
 
-### Get prepped
+**Get prepped**
 
-### Restart your certification
+Add content
+
+**Restart your certification**
 
 >[!NOTE]
 >
@@ -307,11 +312,15 @@ exam - ADS-E825](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.as
 
 Add content
 
-### Get ready
+**Get ready**
 
-### Get prepped
+Add content
 
-### Restart your certification
+**Get prepped**
+
+Add content
+
+**Restart your certification**
 
 >[!NOTE]
 >
@@ -326,7 +335,7 @@ exam - ADS-E824](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.as
 
 >[!ENDTABS]
 
-**Questions**
+### Questions
 
 View the certification [FAQs](https://solutionpartners.adobe.com/solution-partners/training_and_certification/certification/certification_faq.html#){target="_blank"}.
 

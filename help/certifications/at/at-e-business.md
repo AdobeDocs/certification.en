@@ -59,6 +59,10 @@ Environments:
 * Use of target for single page applications 
 * Email
 
+>[!BEGINTABS]
+
+>[!TAB Get ready]
+
 **Intended audience:** 
 
 * Optimization
@@ -78,12 +82,6 @@ Cost: $225 (global) / $150 (India)
 Exam ID: AD0-E406
 
 ```
-
->[!BEGINTABS]
-
->[!TAB Get ready]
-
-**AD0-E406 Adobe Target Business Practitioner**
 
 **Exam objectives and scope**
 
@@ -136,8 +134,6 @@ Section 4: Troubleshooting (10%)
 You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
 
 Here are some suggested resources to help you prepare:
-
-**AD0-E406 Adobe Target Business Practitioner**
 
 **Section 1: Planning and strategy**
 
