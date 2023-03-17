@@ -316,7 +316,7 @@ This exam is free, open book, and un-proctored. You may take the exam up to thre
 
 >[!TAB Campaign]
 
-**Select the applicable exam based on role to restart your Adobe Audience Manager certification.**
+**Select the applicable exam based on role to restart your Adobe Campaign certification.**
 
 * ADS-E821 Adobe **Campaign Standard Developer** Expert restart exam
 * ADS-E822 Adobe **Campaign Standard Business Practitioner** Expert restart exam
@@ -427,7 +427,7 @@ This exam is free, open book, and un-proctored. You may take the exam up to thre
 
 >[!TAB Marketo Engage]
 
-Add content
+**Select the applicable exam based on role to restart your Adobe Marketo Engage certification.**
 
 ### Get ready
 
