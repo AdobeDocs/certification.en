@@ -2,6 +2,7 @@
 title: Certification Home
 description: This is the article overview for certification.
 badge: label="Certification home" type="positive"
+mini-toc-levels: 1
 ---
 
 # Welcome to Certification at Adobe! {#certification-overview}
@@ -27,7 +28,7 @@ Our certification program is designed for professionals in a variety of fields, 
 
 So why wait? Take the first step towards unlocking your professional potential and explore our certification paths today!
 
-**Why get certified?**
+## Why get certified?
 
 Getting certified in Adobe DCX can be beneficial for several reasons:
 
@@ -38,5 +39,5 @@ Getting certified in Adobe DCX can be beneficial for several reasons:
 * **Free practice tests:** Adobe offers free practice exams that can help you prepare for your certification exam and ensure that you're fully prepared to take the test.
 * **Certification renewals:** Adobe certifications are valid for two years, and you can renew your certification by either taking an on-demand, un-proctored exam or completing a set of continuous learning activities.
 
-**Start your Adobe journey today!**
+### Start your Adobe journey today!
 
