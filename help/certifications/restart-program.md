@@ -164,7 +164,7 @@ The course assessments are free. There is no need to schedule them, and they are
 
 >[!TAB Audience Manager]
 
-**Select the applicable exam based on role to restart your Adobe Audience Manager certification.** 
+### Select the applicable exam based on role to restart your Adobe Audience Manager certification.
 
 * ADS-E826 Adobe Audience Manager **Business Practitioner** Expert Restart
 * ADS-E825 Adobe Audience Manager **Architect** Master Restart
@@ -318,7 +318,7 @@ This exam is free, open book, and un-proctored. You may take the exam up to thre
 
 >[!TAB Campaign]
 
-**Select the applicable exam based on role to restart your Adobe Campaign certification.**
+### Select the applicable exam based on role to restart your Adobe Campaign certification.
 
 * ADS-E821 Adobe **Campaign Standard Developer** Expert restart exam
 * ADS-E822 Adobe **Campaign Standard Business Practitioner** Expert restart exam
