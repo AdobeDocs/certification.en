@@ -37,7 +37,7 @@ Getting certified in Adobe DCX can be beneficial for several reasons:
 * **Increase earning potential:** Certified individuals often earn more than their non-certified counterparts, as their credentials validate their skills and knowledge.
 * **Access to exclusive resources:** When you become Adobe certified, you gain access to exclusive resources, such as training materials, beta software releases, and support forums that can help you stay up to date with the latest software developments and trends in the industry.
 * **Free practice tests:** Adobe offers free practice exams that can help you prepare for your certification exam and ensure that you're fully prepared to take the test.
-* **Certification renewals:** Adobe certifications are valid for two years, and you can renew your certification by either taking an on-demand, un-proctored exam or completing a set of continuous learning activities.
+* **Certification renewals:** Adobe certifications are valid for two years, and you can renew your certification by either taking an on-demand, non-proctored exam or completing a set of continuous learning activities.
 
 ### Start your Adobe journey today!
 
