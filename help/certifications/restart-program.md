@@ -24,7 +24,7 @@ The Adobe Restart Program is an initiative that allows individuals who previousl
 * Complete the requirements (course assessments/exam) before the deadline
 * Act now to take advantage of this opportunity to earn a new certification for free.
 
-To check eligibility, log in to the Adobe Credential System and select the history tab. If any of the exams listed below are displayed in your history, you are eligible for the Restart Program.
+To check eligibility, log into the Adobe Credential System and select the history tab. If any of the exams listed below are displayed in your history, you are eligible for the Restart Program.
 
 ![History Badge](/help/certifications/assets/ACM_history.png)
 
