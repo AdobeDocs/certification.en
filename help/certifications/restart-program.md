@@ -26,7 +26,7 @@ The Adobe Restart Program is an initiative that allows individuals who previousl
 
 To check eligibility, log in to the Adobe Credential System and select the history tab. If any of the exams listed below are displayed in your history, you are eligible for the Restart Program.
 
-![History Badge](/help/certifications/assets/acm_history.png)
+![History Badge](/help/certifications/assets/ACM_history.png)
 
 [!BADGE My Profile history]{type=Informative url="https://www.certmetrics.com/adobe/candidate/requirements.aspx newtab=true"}
 
