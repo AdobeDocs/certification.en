@@ -5,7 +5,9 @@ badge: label="Certification home" type="positive"
 mini-toc-levels: 1
 ---
 
-# Welcome to Certification at Adobe! {#certification-overview}
+![Banner](/help/certifications/assets/home_banner_narrow.png)
+
+# Welcome to Certification at Adobe!
 
 Adobe Digital Cloud Experience (DCX) is a suite of digital marketing solutions that enables businesses to deliver personalized customer experiences across multiple channels, including web, mobile, email, and social media. Adobe DCX includes a range of products, such as Adobe Real-Time CDP, Adobe Experience Manager, Adobe Commerce, Adobe Journey Optimizer, Adobe Customer Analytics, and more.
 
