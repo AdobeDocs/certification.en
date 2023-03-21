@@ -23,10 +23,9 @@ The Adobe Restart Program is an initiative that allows individuals who previousl
 * Check eligibility 
 * Complete the requirements (course assessments/exam) before the deadline
 * Act now to take advantage of this opportunity to earn a new certification for free.
+* The following sections and links will **only** function after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
 
-To check eligibility, log into the Adobe Credential System and select the history tab. If any of the exams listed below are displayed in your history, you are eligible for the Restart Program.
-
-![History Badge](/help/certifications/assets/ACM_history.png)
+**Now that you have successfully logged in, the following links will be directly accessible.**
 
 [!BADGE My Profile history]{type=Informative url="https://www.certmetrics.com/adobe/candidate/requirements.aspx newtab=true"}
 
@@ -63,11 +62,6 @@ In these cases you can provide a customer reference affirming you have participa
 
 **Once your customer reference has been reviewed you will be notified by the Adobe Credential Team.**
 
->[!NOTE]
->
->IMPORTANT NOTE: The following section and links will **only** function after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
-
-**Now that you have successfully logged in, the following links will be directly accessible.**
 
 The course assessments are free. There is no need to schedule them, and they are not proctored. If you hold multiple Adobe Experience Manager Expert and Master level certifications, you will only need to complete the requirements below and all your AEM certifications will get renewed.
 
