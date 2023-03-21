@@ -148,20 +148,20 @@ The course assessments are free. There is no need to schedule them, and they are
 
 ### Select the applicable exam based on role to restart your Adobe Audience Manager certification.
 
-+++ADS-E826 Adobe Audience Manager **Business Practitioner** Expert Restart
++++ADS-E826 Adobe Audience Manager **Business Practitioner** expert restart exam
 
 ### Get ready
 
 **Exam details:**
   
 ```
-Level: Expert (1-3 years experience)
+Level: Expert (1-3 years' experience)
 Passing Score: 26/34
 Time: 68 mins
 Delivery: On-demand / un-proctored
 Available languages: English
 Cost: FREE
-Exam ID: ADS-E826 - Adobe Audience Manager Business Practitioner Expert Restart
+Exam ID: ADS-E826 - Adobe Audience Manager Business Practitioner expert restart
 
 ```
 
@@ -219,14 +219,14 @@ This exam is free, open book, and un-proctored. You may take the exam up to thre
 
 +++
 
-+++ADS-E825 Adobe Audience Manager **Architect** Master Restart
++++ADS-E825 Adobe Audience Manager **Architect** master restart exam
 
 ### Get ready
 
 **Exam details:**
   
 ```
-Level: Master (1-3 years experience)
+Level: Master (3-5 years' experience)
 Passing Score: 22/29
 Time: 58 mins
 Delivery: On-demand / non-proctored
@@ -237,9 +237,9 @@ Exam ID: ADS-E825 - Adobe Audience Manager Architect Master Restart
 
 ```
 
-### Exam Objectives and Scope
+**Scope and objectives:**
 
-**Section 1: Implementation Analysis (28%)**
+Section 1: Implementation Analysis (28%)
 
 * Determine how to guide and support implementation of AAM as a stand-alone product or as part of a cloud solution
 * Analyze outbound destination options and recommend an AAM implementation approach
@@ -247,14 +247,14 @@ Exam ID: ADS-E825 - Adobe Audience Manager Architect Master Restart
 * Identify features such as visitor profile viewer, tags, RBAC, etc. to align with business goals
 * Determine how to design and test pixels required to create segments and traits
 
-**Section 2: Solution Design and Recommendations (17%)**
+Section 2: Solution Design and Recommendations (17%)
 
 * Determine AAM capabilities based on customer use case for audience and activation
 * Apply procedural concepts to utilize audience identity solutions to compliment design architecture
 * Identify attribute and behavioral data and map it to specific business use cases
 * Apply procedural concepts to design folder taxonomy and naming convention
 
-**Section 3: Segmentation and Activation (31%)**
+Section 3: Segmentation and Activation (31%)
 
 * Apply procedural concepts to create destinations in Audience Manager
 * Identify signals to create Rule-Based, Onboarded, and Algorithmic Traits
@@ -263,12 +263,12 @@ Exam ID: ADS-E825 - Adobe Audience Manager Architect Master Restart
 * Apply procedural concepts to create an algorithmic or predictive model
 * Determine segmentation logic based on use cases
 
-**Section 4: Privacy and Data Governance (7%)**
+Section 4: Privacy and Data Governance (7%)
 
 * Recommend Audience Manager capabilities as it relates to governance, privacy, and security
 * Identify customer data policies that are in line with government regulations
 
-**Section 5: Performance and Reporting (17%)**
+Section 5: Performance and Reporting (17%)
 
 * Determine how to configure reports in AAM to gather signal, traits, and segment performance per business requirements
 
@@ -295,14 +295,14 @@ This exam is free, open book, and un-proctored. You may take the exam up to thre
 
 ### Select the applicable exam based on role to restart your Adobe Campaign certification.
 
-+++ADS-E821 Adobe **Campaign Standard Developer** Expert restart exam
++++ADS-E821 Adobe **Campaign Standard Developer** expert restart exam
 
 ### Get ready
 
 **Exam details:**
   
 ```
-Level: Master (1-3 years experience)
+Level: Expert (1-3 years' experience)
 Passing Score: 23/30
 Time: 60 mins
 Delivery: On-demand / non-proctored
@@ -399,14 +399,14 @@ This exam is free, open book, and un-proctored. You may take the exam up to thre
 
 +++
 
-+++ADS-E822 Adobe **Campaign Standard Business Practitioner** Expert restart exam
++++ADS-E822 Adobe **Campaign Standard Business Practitioner** expert restart exam
 
 ### Get ready
 
 **Exam details:**
   
 ```
-Level: Master (1-3 years experience)
+Level: Expert (1-3 years' experience)
 Passing Score: 23/30
 Time: 60 mins
 Delivery: On-demand / non-proctored
@@ -416,6 +416,8 @@ Exam ID: ADS-E822 - Campaign Standard Business Practitioner expert restart
 
 
 ```
+
+**Scope and objectives:**
 
 Section 1: Campaign management
 
@@ -469,14 +471,14 @@ This exam is free, open book, and un-proctored. You may take the exam up to thre
 
 +++
 
-+++ADS-E823 Adobe **Campaign Classic** restart exam
++++ADS-E823 Adobe **Campaign Classic** expert and/or master restart exam
 
 ### Get ready
 
 **Exam details:**
   
 ```
-Level: Master (1-3 years experience)
+Level: Expert (1-3 years' experience) and Master (3-5 years' experience)
 Passing Score: 41/55
 Time: 110 mins
 Delivery: On-demand / non-proctored
@@ -562,7 +564,140 @@ This exam is free, open book, and un-proctored. You may take the exam up to thre
 
 ### Get ready
 
-Add content
+**Exam details:**
+  
+```
+Level: Expert (1-3 years' experience)
+Passing Score: 30/40
+Time: 80 mins
+Delivery: On-demand / non-proctored
+Available languages: English
+Cost: FREE
+Exam ID: ADS-E824 - Adobe Marketo Engage Business Practitioner expert restart
+
+
+```
+
+**Scope and objectives:**
+
+Section 1: Administration and maintenance (12%)
+
+* Determine the mapping process between Marketo and CRM
+* Identify what happened to an asset using the Audit Trail
+* Recognize differences between users and roles
+* Given a scenario, identify the best fit for using workspace and partitions
+* Identify CRM platforms with native Marketo synchronization
+* Given a scenario, locate where information is referenced
+
+Section 2: Marketing activities/Campaign management (48%)
+
+* Demonstrate an understanding of Smart Campaigns, logic, constraints, and flow steps
+* Given a scenario, define the next step
+* Identify the root cause of a problem
+* Interpret the relationship between programs, channels, tags, and period cost
+* Demonstrate/apply the correct configuration to Engagement Programs
+* Give examples of usage for different types of tokens
+* Summarize the utility of Webhooks in Marketo and how they are used
+* Identify and apply the appropriate use of the PMCF
+* Explain the benefits of Global Assets and how to use them
+* Demonstrate the capabilities of forms
+* Perform and analyze an A/B test strategy
+* Identify where a program or asset has been referenced with 'Used By'
+* Troubleshoot communication limits
+* Use Webinar provider information in an event program
+
+Section 3: Lead management (10%)
+
+* Outline the key decision points in defining the lifecycle model
+* Apply best practices around lead scoring
+* Implement the appropriate interesting moments
+* Interpret the lead activity log
+* Given a scenario, identify the creation source
+
+Section 4: Data management (10%)
+
+* Demonstrate how to set up a data management program
+* Analyze an instance's data quality
+* Identify a few key pieces of Marketo's data retention policy as it relates to smart lists
+* Summarize how segmentation works
+
+Section 5: Reporting (5%)
+
+* Given an outcome of a campaign, determine how to set up a program to provide the best reporting
+* Given a scenario, be able to investigate and assign the appropriate acquisition program
+
+Section 6: Best practices (15%)
+
+* Demonstrate the relevance of lead scoring in marketing and sales collaboration
+* Illustrate the benefits of the folder structure and naming conventions
+* Apply best practices around A/B testing
+* Explain the process to perform a quality check on any Marketo program
+* Explain the process to perform a quality check on an email
+
+### Get prepped
+
+You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
+
+Here are some suggested resources to help you prepare:
+
+**Section 1: Administration and maintenance**
+
+* [Adobe Experience League - Marketo Engage Product Documentation](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=en){target="_blank"} (Field Management, CRM Sync, Audit Trail, User Administration, Workspaces and Partitions, Smart Lists, Custom Field)
+* [Adobe Marketo Nation](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} (Synching with Salesforce, CRM integrations)
+
+**Section 2: Marketing activities/Campaign management**
+
+* [Adobe Marketo Nation](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} (Random Sample, Smart Campaign with data value fire, Wait Steps, member.webinar url, Campaign Inspector, Filter Logic, Using Tokens in Emails, Lead creation via Form Fill Out, Assets and Workspaces, Managing Forms)
+* [Adobe Experience League - Marketo Engage Product Documentation](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=en){target="_blank"} (Smart Lists, Smart Campaigns, Demand Generation Forms, Demand Generation Events, Email Marketing, Creating Programs, Events, Audit Trail, Working with Programs, Administration Tags, Drip Nurturing, Landing Pages, Tokens, Administration Additional Integrations, Webhook, Program Member Custom Fields, Workspace and Person Partitions)
+
+**Section 3: Lead management**
+
+* [Adobe Marketo Nation](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} (Build a Lead Lifecycle Program video, Unsubscribe from Email)
+* [Adobe Experience League - Marketo Engage Product Documentation](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=en){target="_blank"} (Smart Campaigns, Marketo Sales Insight, Interesting Moments, Managing People in Smart Lists, System Managed Fields)
+
+**Section 4: Data management**
+
+* [Adobe Marketo Nation](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} (Maintaining a Directory of Leads Bouncing Emails article, How to Manage Your Marketo Database for Deliverability support blog, Marketo Activities Data Retention Policy - Under the Hood article)
+* [Adobe Experience League - Marketo Engage Product Documentation](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=en){target="_blank"} (Email Marketing Hard and Soft Bounces, Report Types, Personalization, Dynamic Content)
+
+**Section 5: Reporting**
+
+* [Adobe Marketo Nation](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} (Setting Acquisition best practices article)
+* [Adobe Experience League - Marketo Engage Product Documentation](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=en){target="_blank"} (Reporting, Performance Insights, Program Performance Report, Editing reports, Program Membership)
+
+**Section 6: Best practices**
+
+* [The Definitive Guide to Lead Scoring](https://www.marketo.com/definitive-guides/lead-scoring){target="_blank"}
+* [Adobe Experience League - Marketo Engage Product Documentation](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=en){target="_blank"} (Working with Programs, Email Marketing, A/B Testing)
+* [Adobe Marketo Nation](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} (Mind your QA Process)
+
+### Restart your certification
+
+This exam is free, open book, and un-proctored. You may take the exam up to three times. If you are unsuccessful after the third attempt, you must wait **30 days** to try again. Failure to comply might result in your certification being revoked.
+
+[!BADGE Take the Adobe Marketo Engage Business Practitioner expert restart exam ADS-E824]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&ec=ADS-E824 newtab=true"} 
+
++++
+
++++ADS-E556 - Adobe Marketo Engage Architect master restart exam
+
+### Get ready
+
+**Exam details:**
+  
+```
+Level: Master (3-5 years' experience)
+Passing Score: 22/29
+Time: 58 mins
+Delivery: On-demand / non-proctored
+Available languages: English
+Cost: FREE
+Exam ID: ADS-E556 - Adobe Marketo Engage Architect master restart exam
+
+
+```
+
+**Scope and objectives:**
 
 ### Get prepped
 
@@ -572,9 +707,7 @@ Add content
 
 This exam is free, open book, and un-proctored. You may take the exam up to three times. If you are unsuccessful after the third attempt, you must wait **30 days** to try again. Failure to comply might result in your certification being revoked.
 
-[!BADGE Take the Adobe Marketo Engage expert restart exam ADS-E824]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&ec=ADS-E824 newtab=true"} 
-
-+++
+[!BADGE Take the Adobe Marketo Engage Architect master restart exam ADS-E556]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&ec=ADS-E824 newtab=true"}
 
 +++
 
