@@ -473,9 +473,7 @@ This exam is free, open book, and un-proctored. You may take the exam up to thre
 
 ### Get ready
 
-add content
-
-### Exam details:
+**Exam details:**
   
 ```
 Level: Master (1-3 years experience)
@@ -532,7 +530,21 @@ Section 4: Campaign, Workflow, Delivery, and Reporting
 
 ### Get prepped
 
-Add content
+**Section 1: Installation and system configuration**
+
+ADD
+
+**Section 2: Customization**
+
+ADD
+
+**Section 3: Data architecture**
+
+ADD
+
+**Section 4: Campaign, workflow, delivery, and reporting**
+
+ADD
 
 ### Restart your certification
 
@@ -545,6 +557,8 @@ This exam is free, open book, and un-proctored. You may take the exam up to thre
 >[!TAB Marketo Engage]
 
 **Select the applicable exam based on role to restart your Adobe Marketo Engage certification.**
+
++++ADS-E824 Adobe Marketo Engage Business Practitioner expert restart exam
 
 ### Get ready
 
@@ -559,6 +573,10 @@ Add content
 This exam is free, open book, and un-proctored. You may take the exam up to three times. If you are unsuccessful after the third attempt, you must wait **30 days** to try again. Failure to comply might result in your certification being revoked.
 
 [!BADGE Take the Adobe Marketo Engage expert restart exam ADS-E824]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&ec=ADS-E824 newtab=true"} 
+
++++
+
++++
 
 >[!ENDTABS]
 
