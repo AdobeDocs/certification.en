@@ -150,6 +150,12 @@ The course assessments are free. There is no need to schedule them, and they are
 
 +++ADS-E826 Adobe Audience Manager **Business Practitioner** expert restart exam
 
+Instructions for restarting your certification:
+
+Step 1 - Review the exam objectives
+Step 2 - Review the resources
+Step 3 - Take and pass the exam
+
 ### Get ready
 
 **Exam details:**
@@ -220,6 +226,12 @@ This exam is free, open book, and un-proctored. You may take the exam up to thre
 +++
 
 +++ADS-E825 Adobe Audience Manager **Architect** master restart exam
+
+Instructions for restarting your certification:
+
+Step 1 - Review the exam objectives
+Step 2 - Review the resources
+Step 3 - Take and pass the exam
 
 ### Get ready
 
@@ -296,6 +308,12 @@ This exam is free, open book, and un-proctored. You may take the exam up to thre
 ### Select the applicable exam based on role to restart your Adobe Campaign certification.
 
 +++ADS-E821 Adobe **Campaign Standard Developer** expert restart exam
+
+Instructions for restarting your certification:
+
+Step 1 - Review the exam objectives
+Step 2 - Review the resources
+Step 3 - Take and pass the exam
 
 ### Get ready
 
@@ -401,6 +419,12 @@ This exam is free, open book, and un-proctored. You may take the exam up to thre
 
 +++ADS-E822 Adobe **Campaign Standard Business Practitioner** expert restart exam
 
+Instructions for restarting your certification:
+
+Step 1 - Review the exam objectives
+Step 2 - Review the resources
+Step 3 - Take and pass the exam
+
 ### Get ready
 
 **Exam details:**
@@ -472,6 +496,12 @@ This exam is free, open book, and un-proctored. You may take the exam up to thre
 +++
 
 +++ADS-E823 Adobe **Campaign Classic** expert and/or master restart exam
+
+Instructions for restarting your certification:
+
+Step 1 - Review the exam objectives
+Step 2 - Review the resources
+Step 3 - Take and pass the exam
 
 ### Get ready
 
