@@ -295,10 +295,7 @@ This exam is free, open book, and un-proctored. You may take the exam up to thre
 
 ### Select the applicable exam based on role to restart your Adobe Campaign certification.
 
-* ADS-E821 Adobe **Campaign Standard Developer** Expert restart exam
-* ADS-E822 Adobe **Campaign Standard Business Practitioner** Expert restart exam
-* ADS-E823 Adobe **Campaign Classic** restart exam
-
++++ADS-E821 Adobe **Campaign Standard Developer** Expert restart exam
 
 ### Get ready - Campaign Standard Developer{#CSD}
 
@@ -400,6 +397,10 @@ This exam is free, open book, and un-proctored. You may take the exam up to thre
 
 [!BADGE Take the Adobe Campaign Standard Developer Expert restart exam ADS-821]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADS-E821 newtab=true"} 
 
++++
+
++++ADS-E822 Adobe **Campaign Standard Business Practitioner** Expert restart exam
+
 ### Get ready - Campaign Standard Business Practitioner{#CSBP}
 
 **Exam details:**
@@ -425,6 +426,10 @@ Add content
 This exam is free, open book, and un-proctored. You may take the exam up to three times. If you are unsuccessful after the third attempt, you must wait **30 days** to try again. Failure to comply might result in your certification being revoked.
 
 [!BADGE Take the Adobe Campaign Standard Business Practitioner Expert restart exam ADS-822]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADS-E822 newtab=true"} 
+
++++
+
++++ADS-E823 Adobe **Campaign Classic** restart exam
 
 ### Get ready - Campaign Classic{#CC}
 
@@ -453,6 +458,8 @@ Add content
 This exam is free, open book, and un-proctored. You may take the exam up to three times. If you are unsuccessful after the third attempt, you must wait **30 days** to try again. Failure to comply might result in your certification being revoked.
 
 [!BADGE Take the Adobe Campaign Classic restart exam ADS-823]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADS-E823 newtab=true"} 
+
++++
 
 >[!TAB Marketo Engage]
 
