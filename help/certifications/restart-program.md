@@ -562,6 +562,12 @@ This exam is free, open book, and un-proctored. You may take the exam up to thre
 
 +++ADS-E824 Adobe Marketo Engage Business Practitioner expert restart exam
 
+Instructions for restarting your certification:
+
+Step 1 - Review the exam objectives
+Step 2 - Review the resources
+Step 3 - Take and pass the exam
+
 ### Get ready
 
 **Exam details:**
@@ -680,6 +686,12 @@ This exam is free, open book, and un-proctored. You may take the exam up to thre
 +++
 
 +++ADS-E556 - Adobe Marketo Engage Architect master restart exam
+
+Instructions for restarting your certification:
+
+Step 1 - Review the exam objectives
+Step 2 - Review the resources
+Step 3 - Take and pass the exam
 
 ### Get ready
 
