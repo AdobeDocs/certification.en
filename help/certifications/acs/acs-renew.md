@@ -3,53 +3,52 @@ title: Adobe Campaign Standard Certification
 description: You have technical knowledge about audience segmentation, destination exports, and activation on real time basis for unified profiles that adhere to data and privacy regulations, customer data platforms (CDP) and knowledge of Adobe Experience Platform.
 solution: Campaign Standard
 badge: label="Campaign Renewal" type="positive"
+mini-toc-levels: 1
 ---
-# Certification journey - Adobe Campaign renewal
-
-## Start your journey toward renewing your certification
+# Renew your Adobe Campaign Standard certification
 
 When you pass a certification exam, your certification is valid for two years.
 
-We're happy to announce that you're now able to renew your certification via a new, no-cost format. Say goodbye to scheduling your exam—these new on-demand exams will allow you to take your exam wherever and whenever you'd like, as long as you take it before your current certification expires. 
-
-You must renew your certification before your certification expires, otherwise, you will need to take the full exam to become certified again. Renewal exams are meant only for those who have an existing credential that is about to expire.
-
-If you are currently certified (not expired) in:
-
-* Adobe Campaign Standard Business Practioner expert
-* Adobe Campaign Standard Developer expert
-
-...this is the renewal path for YOU!
-
-![Certification Expert Badge](/help/certifications/assets/expert-badge-Xsmall.png) ![Certification Master Badge](/help/certifications/assets/master-badge-Xsmall.png)
-
->[!NOTE]
->
->Adobe Campaign Certified Professional renewal **(coming in 2024)**!
-
-**Select the correct tab below for more information about the Adobe Campaign Standard Business Practitioner and Adobe Campaign Standard Developer renewal exams.**
+We're happy to announce that you are now able to renew your certification via a new, no-cost format. It involves using on-demand Adobe Experience League courses and tutorials—simply complete three activities to renew your certification at no cost. You must renew before your certification expires, or you will need to take the full exam to become certified again. 
 
 >[!BEGINTABS]
 
->[!TAB Campaign Standard Business Practitioner]
+>[!TAB Professional]
 
-**Exam details - Adobe Campaign Standard Business Practitioner renewal**
+>[!NOTE]
+>
+>Professional renewal coming soon.
+
+>[!TAB Expert and Master]
+
++++ADS-E821 Adobe **Campaign Standard Developer** expert renewal exam
+
+You should be currently certified (not expired) in:
+
+* **Adobe Campaign Standard Business Practitioner expert**
+* **Adobe Campaign Standard Developer expert**
+
+## How to renew your certification:
+
+* **Step 1** - Review the exam scope and objectives
+* **Step 2** - Review the resources
+* **Step 3** - Take and pass the exam
+
+### Get ready
+
+**Exam details:**
   
 ```
 
 Passing Score: 23/30
 Time: 110 mins
-Cost: FREE/unproctored
+Cost: FREE/non-proctored
 Delivery: On-demand
 Available languages: English
 Prerequisite: current (not expired) Adobe Campaign Standard Business Practitioner expert certification
 Exam ID: AD5-E822
 
 ```
-
-## Get ready
-
-**AD5-E822 Adobe Campaign Business Practitioner renewal**
 
 **Scope and objectives**
 
@@ -83,8 +82,6 @@ You are not required to complete training before taking the exam, and training a
 
 Here are some suggested resources to help you prepare:
 
-**AD5-E822 Adobe Campaign Standard Business Practitioner renewal**
-
 **Section 1: Campaign management**
 
 * [Adobe Campaign Standard Documentation ](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=en){target="_blank"}
@@ -103,33 +100,39 @@ Here are some suggested resources to help you prepare:
 
 ## Renew your certification
 
-To renew your exam click on the "Campaign Standard Business Practitione renewal - AD5-822" link below. This will redirect you to the Adobe Credential Management system where you will click "renew your certification" tab on the right side of the screen > then search for Adobe Campaign to see the link to the renewal exam.
+To renew your exam click on the "Campaign Standard Business Practitioner renewal - AD5-822" link below. This will redirect you to the Adobe Credential Management system where you will click "renew your certification" tab on the right side of the screen > then search for Adobe Campaign to see the link to the renewal exam.
 
 * [Campaign Standard Business Practitioner renewal - AD5-822](https://learning.adobe.com/api.certify.json){target="_blank"}
 
 >[!NOTE]
 >
->This exam is free, open book, and unproctored. You may take the exam up to three times. If you fail to receive 75% after three attempts, you must wait **30 days** to try again. Failure to comply might result in your certification being revoked.
+>This exam is free, open book, and non-proctored. You may take the exam up to three times. If you fail to receive 75% after three attempts, you must wait **30 days** to try again. Failure to comply might result in your certification being revoked.
 
->[!TAB Campaign Standard Developer]
++++
 
-**Exam details - Adobe Campaign Standard Developer renewal**
++++ Adobe Campaign Standard Developer renewal
+
+## How to renew your certification:
+
+* **Step 1** - Review the exam scope and objectives
+* **Step 2** - Review the resources
+* **Step 3** - Take and pass the exam
+
+### Get ready
+
+**Exam details:**
   
 ```
 
 Passing Score: 23/30
 Time: 60 mins
-Cost: FREE/unproctored
+Cost: FREE/non-proctored
 Delivery: On-demand
 Available languages: English
 Prerequisite: current (not expired) Adobe Campaign Standard Developer Expert certification
 Exam ID: AD5-E821
 
 ```
-
-## Get ready
-
-**AD5-E821 Adobe Campaign Standard developer renewal**
 
 **Scope and objectives**
 
@@ -166,19 +169,17 @@ You are not required to complete training before taking the exam, and training a
 
 Here are some suggested resources to help you prepare:
 
-**AD5-E821 Adobe Campaign Standard Developer renewal**
-
 **Section 1: Data modeling and management**
 
 * [Create a custom resource](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/creating-a-custom-resource.html?lang=enn){target="_blank"}
-* [Creating or extending the resource](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/creating-or-extending-the-resource.html?lang=en)){target="_blank"}
-* [Configuring a screen definition for a custom resource](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/configuring-a-screen-definition-for-a-custom-resource.html?lang=en)){target="_blank"}
-* [Configure the screen definition](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/configuring-the-screen-definition.html?lang=en)){target="_blank"}
-* [Linking custom resources](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/linking-custom-resources.html?lang=en)){target="_blank"}
-* [Configuring the resource's data structure](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/configuring-the-resource-s-data-structure.html?lang=en#defining-links-with-other-resources)){target="_blank"}
-* [Approval process](https://one.workfront.com/s/learningpath2/approval-processes-in-the-new-workfront-experience-MCG72NHD2HPJGZBD7ANMBBNORGBM)){target="_blank"}
-* [Updating the database structure](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/updating-the-database-structure.html?lang=en)){target="_blank"}
-* [Technical workflows](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/application-settings/technical-workflows.html?lang=en)){target="_blank"}
+* [Creating or extending the resource](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/creating-or-extending-the-resource.html?lang=en){target="_blank"}
+* [Configuring a screen definition for a custom resource](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/configuring-a-screen-definition-for-a-custom-resource.html?lang=en){target="_blank"}
+* [Configure the screen definition](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/configuring-the-screen-definition.html?lang=en){target="_blank"}
+* [Linking custom resources](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/linking-custom-resources.html?lang=en){target="_blank"}
+* [Configuring the resource's data structure](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/configuring-the-resource-s-data-structure.html?lang=en#defining-links-with-other-resources){target="_blank"}
+* [Approval process](https://one.workfront.com/s/learningpath2/approval-processes-in-the-new-workfront-experience-MCG72NHD2HPJGZBD7ANMBBNORGBM){target="_blank"}
+* [Updating the database structure](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/updating-the-database-structure.html?lang=en){target="_blank"}
+* [Technical workflows](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/application-settings/technical-workflows.html?lang=en){target="_blank"}
 
 **Section 2: Campaign Management**
 
@@ -219,7 +220,9 @@ To renew your exam click on the "Campaign Standard Developer renewal - AD5-821" 
 
 >[!NOTE]
 >
->This exam is free, open book, and unproctored. You may take the exam up to three times. If you are unsuccessful after the third attempt, you must wait **30 days** to try again. Failure to comply might result in your certification being revoked.
+>This exam is free, open book, and non-proctored. You may take the exam up to three times. If you are unsuccessful after the third attempt, you must wait **30 days** to try again. Failure to comply might result in your certification being revoked.
+
++++
 
 >[!ENDTABS]
 
