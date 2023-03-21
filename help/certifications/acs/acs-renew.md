@@ -26,7 +26,6 @@ We're happy to announce that you are now able to renew your certification via a 
 You should be currently certified (not expired) in:
 
 * **Adobe Campaign Standard Business Practitioner expert**
-* **Adobe Campaign Standard Developer expert**
 
 ## How to renew your certification:
 
@@ -111,6 +110,10 @@ To renew your exam click on the "Campaign Standard Business Practitioner renewal
 +++
 
 +++ Adobe Campaign Standard Developer renewal
+
+You should be currently certified (not expired) in:
+
+* **Adobe Campaign Standard Developer expert**
 
 ## How to renew your certification:
 
