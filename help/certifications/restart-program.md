@@ -10,9 +10,11 @@ mini-toc-levels: 1
 
 ## Restart your certification journey by going from expired to certified
 
->[!NOTE]
->
->**This program is offered from April 4th, 2023 through October 1st, 2023.** 
+### Get ready to reignite your career with the Adobe Certification Restart Program! 
+
+This limited time program offered **from April 4th, 2023 through October 1st, 2023** offers you a chance to update your skills and stay ahead of the curve in a rapidly changing digital landscape. 
+
+If you've previously held an Adobe Digital Cloud Experience certification that has expired, you may be eligible for this program for FREE!
 
 ### What is Adobe Restart program?
 
@@ -23,12 +25,16 @@ The Adobe Restart Program is an initiative that allows individuals who previousl
 * Check eligibility 
 * Complete the requirements (course assessments/exam) before the deadline
 * Act now to take advantage of this opportunity to earn a new certification for free.
-* The following sections and links will **only** function after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
+
+>[!NOTE]
+>
+>The following sections and links will **only** function after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
 
 **Now that you have successfully logged in, the following links will be directly accessible.**
 
-[!BADGE My Profile history]{type=Informative url="https://www.certmetrics.com/adobe/candidate/requirements.aspx newtab=true"}
+### Exams eligible to re-certify{#exams}
 
+The exams listed below are those that indicate that you are eligible for this program. If you see any of these listed in your profile history you can proceed. If none of the above exams are listed, you are not eligible for this program, please refer the FAQs for further questions.[Link to FAQ on ExL].
 
 | Certified Application | Exam listed in the History section of your profile |
 | ------- | ------- |
@@ -39,9 +45,7 @@ The Adobe Restart Program is an initiative that allows individuals who previousl
 |Marketo Engage | RES-AME-2023 - Adobe Marketo Engage Certification Restart |
 | Target | RES-AT-2023 Adobe Target Certification Restart |
 
-### Exams eligible to re-certify{#exams}
-
-Refer to the exam is listed in your profile history and click on the tab below to begin your restart journey. If none of the above exams are listed, you are not eligible for this program, please refer the FAQs [Link to FAQ on ExL].
+[!BADGE My Profile history]{type=Informative url="https://www.certmetrics.com/adobe/candidate/requirements.aspx newtab=true"}
 
 >[!BEGINTABS]
 
@@ -100,12 +104,6 @@ In these cases you can provide a customer reference affirming you have participa
 
 **Once your customer reference has been reviewed you will be notified by the Adobe Credential Team.**
 
->[!NOTE]
->
->IMPORTANT NOTE: The following section and links will **only** function after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
-
-**Now that you have successfully logged in, the following links will be directly accessible.**
-
 The course assessments are free. There is no need to schedule them, and they are not proctored. If you hold multiple Adobe Experience Manager Expert and Master level certifications, you will only need to complete the requirements below and all your AEM certifications will get renewed.
 
 ### Courses and Course Assessments:
@@ -136,12 +134,6 @@ For certain Adobe Experience Cloud certifications, the Adobe Credential Program 
 In these cases you can provide a customer reference affirming you have participated in at least 100 hours of demonstrated project engagement during your certification renewal 2-year interval.
 
 **Once your customer reference has been reviewed you will be notified by the Adobe Credential Team.**
-
->[!NOTE]
->
->IMPORTANT NOTE: The following section and links will **only** function after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
-
-**Now that you have successfully logged in, the following links will be directly accessible.**
 
 The course assessments are free. There is no need to schedule them, and they are not proctored. If you hold multiple Adobe Experience Manager Expert and Master level certifications, you will only need to complete the requirements below and all your AEM certifications will get renewed.
 
@@ -226,12 +218,6 @@ Here are some suggested resources to help you prepare:
 
 **Restart your certification**
 
->[!NOTE]
->
->IMPORTANT NOTE: The following sections and links will **only** function after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
-
-**Now that you have successfully logged in, the following links will be directly accessible.**
-
 This exam is free, open book, and un-proctored. You may take the exam up to three times. If you are unsuccessful after the third attempt, you must wait **30 days** to try again. Failure to comply might result in your certification being revoked.
 
 [!BADGE Take the Adobe Audience Manager Business Practitioner expert restart exam ADS-E826]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADS-E826 newtab=true"} 
@@ -299,12 +285,6 @@ Here are some suggested resources to help you prepare:
 * [ Launch Training & Resources](https://solutionpartners.adobe.com/training/courses/course1326130.html){target="_blank"}
 
 ### Restart your certification
-
->[!NOTE]
->
->IMPORTANT NOTE: The following sections and links will **only** function after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
-
-**Now that you have successfully logged in, the following links will be directly accessible.**
 
 This exam is free, open book, and un-proctored. You may take the exam up to three times. If you are unsuccessful after the third attempt, you must wait **30 days** to try again. Failure to comply might result in your certification being revoked.
 
@@ -415,12 +395,6 @@ Here are some suggested resources to help you prepare:
 
 ### Restart your certification
 
->[!NOTE]
->
->IMPORTANT NOTE: The following sections and links will **only** function after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
-
-**Now that you have successfully logged in, the following links will be directly accessible.**
-
 This exam is free, open book, and un-proctored. You may take the exam up to three times. If you are unsuccessful after the third attempt, you must wait **30 days** to try again. Failure to comply might result in your certification being revoked.
 
 [!BADGE Take the Adobe Campaign Standard Developer Expert restart exam ADS-821]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADS-E821 newtab=true"} 
@@ -446,12 +420,6 @@ Exam ID: ADS-E822 - Campaign Standard Business Practitioner expert restart
 Add content
 
 ### Restart your certification
-
->[!NOTE]
->
->IMPORTANT NOTE: The following sections and links will **only** function after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
-
-**Now that you have successfully logged in, the following links will be directly accessible.**
 
 This exam is free, open book, and un-proctored. You may take the exam up to three times. If you are unsuccessful after the third attempt, you must wait **30 days** to try again. Failure to comply might result in your certification being revoked.
 
@@ -481,12 +449,6 @@ Add content
 
 ### Restart your certification
 
->[!NOTE]
->
->IMPORTANT NOTE: The following sections and links will **only** function after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
-
-**Now that you have successfully logged in, the following links will be directly accessible.**
-
 This exam is free, open book, and un-proctored. You may take the exam up to three times. If you are unsuccessful after the third attempt, you must wait **30 days** to try again. Failure to comply might result in your certification being revoked.
 
 [!BADGE Take the Adobe Campaign Classic restart exam ADS-823]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADS-E823 newtab=true"} 
@@ -504,12 +466,6 @@ Add content
 Add content
 
 ### Restart your certification
-
->[!NOTE]
->
->IMPORTANT NOTE: The following sections and links will **only** function after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
-
-**Now that you have successfully logged in, the following links will be directly accessible.**
 
 This exam is free, open book, and un-proctored. You may take the exam up to three times. If you are unsuccessful after the third attempt, you must wait **30 days** to try again. Failure to comply might result in your certification being revoked.
 
