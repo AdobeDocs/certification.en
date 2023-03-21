@@ -297,7 +297,7 @@ This exam is free, open book, and un-proctored. You may take the exam up to thre
 
 +++ADS-E821 Adobe **Campaign Standard Developer** Expert restart exam
 
-### Get ready - Campaign Standard Developer{#CSD}
+### Get ready
 
 **Exam details:**
   
@@ -401,14 +401,14 @@ This exam is free, open book, and un-proctored. You may take the exam up to thre
 
 +++ADS-E822 Adobe **Campaign Standard Business Practitioner** Expert restart exam
 
-### Get ready - Campaign Standard Business Practitioner{#CSBP}
+### Get ready
 
 **Exam details:**
   
 ```
 Level: Master (1-3 years experience)
-Passing Score: 26/34
-Time: 68 mins
+Passing Score: 23/30
+Time: 60 mins
 Delivery: On-demand / non-proctored
 Available languages: English
 Cost: FREE
@@ -417,9 +417,49 @@ Exam ID: ADS-E822 - Campaign Standard Business Practitioner expert restart
 
 ```
 
+Section 1: Campaign management
+
+* Organize hierarchies based on a given use case
+* Given sample business requirements, determine what can be fulfilled by OOTB features
+* Given a scenario, apply best practices to design a multi- or cross-channel campaign
+* Identify channels (push notification, email, SMS, direct mail, in-app) in Campaign Standard
+
+Section 2: Delivery management
+
+* Given sample requirements, design and configure a delivery
+* Apply best practices in delivery design
+* Apply the latest features of Email Designer
+
+Section 3: Workflow design and execution
+
+* Manipulate data for use in a campaign, configure targeting, enrichment
+* Identify targets: data collection, segmentation, audiences, lists, filtering
+* Given a use case, identify the use of the main marketing-related tables
+
+Section 4: Administration, monitoring and reporting
+
+* Interpret delivery error logs and identify and solve workflow errors
+* Determine and measure the success of deliveries and campaigns
+* Recognize access and named rights
+
 ### Get prepped
 
-Add content
+**Section 1: Campaign management**
+
+* [Adobe Campaign Standard Documentation](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=en){target="_blank"} (working with marketing activities, building email content, communication channels, deliveries, configuring channels)
+
+**Section 2: Delivery management**
+
+* [Adobe Campaign Standard Documentation](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=en){target="_blank"} (building email content, preparing and testing messages, communication channels -- email, application settings)
+
+**Section 3: Workflow design and execution**
+
+* [Adobe Campaign Standard Documentation](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=en){target="_blank"} (managing processes and data, managing audiences, scheduling messages, adding or extending a resource)
+* [Targeting profiles](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-standard/how-to-target-profiles-that-opened-a-delivery-within-a-certain/td-p/387437){target="_blank"}
+
+**Section 4: Administration, monitoring, and reporting**
+
+* [Adobe Campaign Standard Documentation](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=en){target="_blank"} (executing a workflow, testing and sending, customizing reports, profiles and audiences, users and security)
 
 ### Restart your certification
 
@@ -431,7 +471,7 @@ This exam is free, open book, and un-proctored. You may take the exam up to thre
 
 +++ADS-E823 Adobe **Campaign Classic** restart exam
 
-### Get ready - Campaign Classic{#CC}
+### Get ready
 
 add content
 
@@ -439,15 +479,56 @@ add content
   
 ```
 Level: Master (1-3 years experience)
-Passing Score: 26/34
-Time: 68 mins
+Passing Score: 41/55
+Time: 110 mins
 Delivery: On-demand / non-proctored
 Available languages: English
 Cost: FREE
-Exam ID: ADS-E825 - Adobe Audience Manager Architect Master Restart
+Exam ID: ADS-E823 - Adobe Campaign Classic expert and/or master restart
 
 
 ```
+
+Section 1: Installation and System Configuration
+
+* Given a scenario, determine which options should be used (i.e., moving things from stage to production)
+* Ability to use Packages to migrate between instances
+* Explain how deployment Wizard settings impact deliverability
+* Outline the underlying infrastructure of the hosting model available for Adobe Campaign Classic v8
+* Describe commonly used OOTB functions
+* Explain integration with other Adobe Experience Cloud products
+* Explain integration using standard external accounts
+
+Section 2: Customization
+
+* Describe best practices for using SQL functions in Adobe Campaign
+* Describe best practices for developing with JavaScript in Adobe Campaign
+* Given a set of requirements, apply best practices around a data model
+* Describe the requirements and processes for access management
+* Describe folder structure management
+
+Section 3: Data Architecture
+
+* Identify the data storage differences in v8
+* Identify the built-in workflows that synchronize local data to Snowflake
+* Explain when to use staging tables vs direct writes to Snowflake
+* Identify the new API commands in Batch processing and when/how to use
+* Given a scenario, explain how to create custom schemas (how to use other schemas as template, sys filters, locking down data, links)
+* Explain the integration between different solutions and Campaign such as Adobe Experience Platform and Journey Optimizer
+
+Section 4: Campaign, Workflow, Delivery, and Reporting
+
+* Apply best practices to build a campaign
+* Given a scenario, analyze workflow errors
+* Given a scenario, analyze delivery errors around target mapping
+* Describe workflow practices that have a negative impact on performance
+* Given a use case, recommend targeting workflow design
+* Apply delivery and approval settings
+* Given a scenario, determine the appropriate report(s) to generate
+* Given a scenario, select the best approach to integrate with external data sources
+* Apply data integration techniques within a workflow
+* Describe functionality in the workflow activity palette
+* Troubleshoot or configure an instance using Control Panel
 
 ### Get prepped
 
