@@ -6,15 +6,13 @@ recommendations: disable, exclude
 badge: label="Restart program" type="positive"
 mini-toc-levels: 1
 ---
-# Certification journey - Adobe Certification Restart program
-
-## Restart your certification journey by going from expired to certified
+# Restart your certification journey by going from expired to certified
 
 This limited time program offered **from April 4th, 2023 through October 1st, 2023** offers you a chance to update your skills and stay ahead of the curve in a rapidly changing digital landscape. 
 
-If you've previously held an Adobe Digital Cloud Experience certification that has expired, you may be eligible for this program for FREE!
+If you've previously held an Adobe Digital Cloud Experience certification that has expired, you may be eligible for this **FREE** program!
 
-### What is Adobe Restart program?
+## What is Adobe Restart program?
 
 The Adobe Restart Program is an initiative that allows individuals who previously held Adobe Digital Cloud Experience certifications that have since expired to earn a new certification for free. The program offers eligible participants the opportunity to update their skills and stay current in their field by completing designated learning activities or an un-proctored job role exam, depending on the solution. This program is a valuable resource for individuals seeking to enhance their digital expertise and stay competitive in today's rapidly changing digital environment.
 
