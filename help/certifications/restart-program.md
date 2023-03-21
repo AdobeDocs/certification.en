@@ -10,8 +10,6 @@ mini-toc-levels: 1
 
 ## Restart your certification journey by going from expired to certified
 
-### Get ready to reignite your career with the Adobe Certification Restart Program! 
-
 This limited time program offered **from April 4th, 2023 through October 1st, 2023** offers you a chance to update your skills and stay ahead of the curve in a rapidly changing digital landscape. 
 
 If you've previously held an Adobe Digital Cloud Experience certification that has expired, you may be eligible for this program for FREE!
