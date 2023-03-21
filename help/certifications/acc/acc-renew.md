@@ -4,42 +4,45 @@ description: You have technical knowledge about audience segmentation, destinati
 solution: Campaign Classic
 role: Developer
 badge: label="Campaign Renewal" type="positive"
+mini-toc-levels: 1
 ---
-# Certification journey - Adobe Campaign Classic renewal
-
-Start your journey toward renewing your certification
+# Renew your Adobe Campaign Classic certification
 
 When you pass a certification exam, your certification is valid for two years.
 
-We're happy to announce that you're now able to renew your certification via a new, no-cost format. Say goodbye to scheduling your exam—these new on-demand exams will allow you to take your exam wherever and whenever you'd like, as long as you take it before your current certification expires. 
+We're happy to announce that you are now able to renew your certification via a new, no-cost format. It involves using on-demand Adobe Experience League courses and tutorials—simply complete three activities to renew your certification at no cost. You must renew before your certification expires, or you will need to take the full exam to become certified again. 
 
-You must renew your certification before your certification expires, otherwise, you will need to take the full exam to become certified again. Renewal exams are meant only for those who have an existing credential that is about to expire.
+>[!BEGINTABS]
+
+>[!TAB Professional]
 
 >[!NOTE]
 >
 >Professional renewal coming soon.
 
->[!BEGINTABS]
-
->[!TAB Get ready]
-
-**Expert and Master renewal**
-
-**How to renew your certification:**
+>[!TAB Expert and Master]
 
 You should be currently certified (not expired) in:
 
-* Adobe Campaign Classic Developer expert
-* Adobe Campaign Classic Business Practitioner expert
-* Adobe Campaign Classic Architect master
+* **Adobe Campaign Classic Developer expert**
+* **Adobe Campaign Classic Business Practitioner expert**
+* **Adobe Campaign Classic Architect master**
 
-**Exam details - Adobe Campaign Classic renewal for Business Practitioner, Developer and Architect**
+## How to renew your certification:
+
+* **Step 1** - Review the exam scope and objectives
+* **Step 2** - Review the resources
+* **Step 3** - Take and pass the exam
+
+### Get ready
+
+**Exam details**
   
 ```
 
 Passing Score: 41/55
 Time: 110 mins
-Cost: FREE/unproctored
+Cost: FREE/non-proctored
 Delivery: On-demand
 Available languages: English
 Prerequisite: current (not expired) Adobe Campaign Classic expert and/or master certification
@@ -92,7 +95,6 @@ Section 4: Campaign, workflow, delivery, and reporting
 * Describe functionality in the workflow activity palette
 * Troubleshoot or configure an instance using Control Panel
 
->[!TAB Get prepped]
 
 You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
 
@@ -116,7 +118,7 @@ Here are some suggested resources to help you prepare:
 
 * [Add resources](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=en){target="_blank"}
 
->[!TAB Renew your certification]
+### Renew your certification
 
 >[!NOTE]
 >
