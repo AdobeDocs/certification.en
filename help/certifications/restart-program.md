@@ -150,10 +150,9 @@ The course assessments are free. There is no need to schedule them, and they are
 
 ### Select the applicable exam based on role to restart your Adobe Audience Manager certification.
 
-* ADS-E826 Adobe Audience Manager **Business Practitioner** Expert Restart
-* ADS-E825 Adobe Audience Manager **Architect** Master Restart
++++ADS-E826 Adobe Audience Manager **Business Practitioner** Expert Restart
 
-### Get ready - Business Practitioner {#BP}
+### Get ready
 
 **Exam details:**
   
@@ -220,7 +219,11 @@ This exam is free, open book, and un-proctored. You may take the exam up to thre
 
 [!BADGE Take the Adobe Audience Manager Business Practitioner expert restart exam ADS-E826]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADS-E826 newtab=true"} 
 
-### Get ready - Architect {#Architect}
++++
+
++++ADS-E825 Adobe Audience Manager **Architect** Master Restart
+
+### Get ready
 
 **Exam details:**
   
@@ -286,7 +289,9 @@ Here are some suggested resources to help you prepare:
 
 This exam is free, open book, and un-proctored. You may take the exam up to three times. If you are unsuccessful after the third attempt, you must wait **30 days** to try again. Failure to comply might result in your certification being revoked.
 
-[!BADGE Take the Adobe Audience Manager Architect master restart exam ADS-E82]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADS-E825 newtab=true"} 
+[!BADGE Take the Adobe Audience Manager Architect master restart exam ADS-E82]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADS-E825 newtab=true"}
+
++++
 
 >[!TAB Campaign]
 
