@@ -1,6 +1,6 @@
 ---
-title: Adobe Experience Manager Certification 
-description: You have technical knowledge about audience segmentation, destination exports, and activation on real time basis for unified profiles that adhere to data and privacy regulations, customer data platforms (CDP) and knowledge of Adobe Experience Platform.
+title: Adobe Experience Manager Renewal 
+description: Is your certification expiring? Learn how to renew your certification before it expires.
 solution: Experience Manager Sites
 role: Developer
 badge: label="AEM Renewal" type="positive"

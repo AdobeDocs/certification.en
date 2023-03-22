@@ -1,8 +1,8 @@
 ---
-title: Adobe Campaign Standard Certification 
-description: You have technical knowledge about audience segmentation, destination exports, and activation on real time basis for unified profiles that adhere to data and privacy regulations, customer data platforms (CDP) and knowledge of Adobe Experience Platform.
+title: Adobe Campaign Standard Renewal 
+description: Is your certification expiring? Learn how to renew your certification before it expires.
 solution: Campaign Standard
-badge: label="Campaign Renewal" type="positive"
+badge: label="Campaign Standard Renewal" type="positive"
 mini-toc-levels: 1
 ---
 # Renew your Adobe Campaign Standard certification
