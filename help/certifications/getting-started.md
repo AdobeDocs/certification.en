@@ -30,8 +30,6 @@ The certification levels reflect a progressive level of proficiency and knowledg
 
 >[!ENDTABS]
 
-Please note, the navigation experience that end-users have today on ExL will not change – meaning the way they navigate to existing ExL content like Courses, Documentation, Community, etc. will remain the same. 
-
 **Questions**
 
 View the certification [FAQs](https://solutionpartners.adobe.com/solution-partners/training_and_certification/certification/certification_faq.html#){target="_blank"}.
