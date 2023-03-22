@@ -6,7 +6,7 @@ recommendations: disable, exclude
 badge: label="FAQ" type="positive"
 mini-toc-levels: 1
 ---
-#  
+# 
 
 ![Banner](/help/certifications/assets/home_banner_narrow.png)
 
