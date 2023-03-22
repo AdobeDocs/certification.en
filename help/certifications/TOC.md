@@ -12,6 +12,7 @@ user-guide-description: Certification
 + [Renew your certification](renew.md)
 + [Restart program](restart-program.md)
 + [My profile](my-profile.md)
++ [FAQ](faq.md)
 + Technical certifications {#technical-certifications}
   + Adobe Advertising {#aac}
     + Professional {#aac-professional}
