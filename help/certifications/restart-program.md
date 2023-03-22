@@ -18,9 +18,9 @@ The Adobe Restart Program is an initiative that allows individuals who previousl
 
 ### How does it work?
 
-* Check eligibility 
-* Complete the requirements (course assessments/exam) before the deadline
-* Act now to take advantage of this opportunity to earn a new certification for free.
+* Check eligibility in your profile history - If you are eligible you will see an exam listed that begins with RES.
+* Complete the requirements before the deadline 
+* Act now to take advantage of this free opportunity
 
 >[!NOTE]
 >
@@ -28,20 +28,9 @@ The Adobe Restart Program is an initiative that allows individuals who previousl
 
 **Now that you have successfully logged in, the following links will be directly accessible.**
 
-### Exams eligible to re-certify{#exams}
-
-The exams listed below are those that indicate that you are eligible for this program. If you see any of these listed in your profile history you can proceed. If none of the above exams are listed, you are not eligible for this program, please refer the FAQs for further questions.[Link to FAQ on ExL].
-
-| Certified Application | Exam listed in the History section of your profile |
-| ------- | ------- |
-| Experience Manager  | RES-AEM-2023 - Adobe Experience Manager Certification Restart |
-| Analytics  |  RES-AA-2023 - Adobe Analytics Certification Restart   |
-| Audience Manager | RES-AAM-202 - Adobe Audience Manager Certification Restart |
-| Campaign | RES-ACAM-2023 - Adobe Campaign Certification Restart |
-|Marketo Engage | RES-AME-2023 - Adobe Marketo Engage Certification Restart |
-| Target | RES-AT-2023 Adobe Target Certification Restart |
-
 [!BADGE My Profile history]{type=Informative url="https://www.certmetrics.com/adobe/candidate/requirements.aspx newtab=true"}
+
+### Restart options by solution{#exams}
 
 >[!BEGINTABS]
 
