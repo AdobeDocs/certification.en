@@ -6,7 +6,7 @@ role: Developer
 badge: label="Target Renewal" type="positive"
 mini-toc-levels: 1
 ---
-# Renew your Adobe Campaign Classic certification
+# Renew your Adobe Target certification
 
 When you pass a certification exam, your certification is valid for two years.
 
@@ -55,6 +55,10 @@ The course assessments are free. There is no need to schedule them, and they are
 | [Mobile App Implementation and Personalization Course](https://experienceleague.adobe.com/?recommended=Target-D-1-2020.1.mobile){target="_blank"} | [ADR-EA403](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADR-EA403){target="_blank"} |
 | [Guided Mobile and IoT Launch for Developers Course](https://experienceleague.adobe.com/?recommended=Target-D-1-2019.1.web){target="_blank"} | [ADR-EA404](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADR-EA404){target="_blank"} |
 | [Guided Website Launch for Developers Course](https://experienceleague.adobe.com/?recommended=Target-D-1-2019.1.web){target="_blank"} | [ADR-EA405](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADR-EA405){target="_blank"} |
+
+>[!NOTE]
+>
+>You can repeat until you have successfully completed three activities or completed the customer reference form (on the next tab).
 
 >[!ENDTABS]
 

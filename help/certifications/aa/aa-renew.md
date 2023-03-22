@@ -6,7 +6,7 @@ role: Developer
 badge: label="Analytics Renewal" type="positive"
 mini-toc-levels: 1
 ---
-# Renew your Adobe Campaign Classic certification
+# Renew your Adobe Analytics certification
 
 When you pass a certification exam, your certification is valid for two years.
 
@@ -57,6 +57,10 @@ The course assessments are free. There is no need to schedule them, and they are
 | [Guided Analytics Implementation - Lesson 5](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1){target="_blank"} | [ADR-EA204](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADR-EA204){target="_blank"} |
 | [ Implementing and Measuring Internal Site Search - Lesson 3 & 4](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.search){target="_blank"} | [ADR-EA205](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADR-EA205){target="_blank"} |
 | [Adobe Analytics APIs](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/apis/using-analysis-workspace-to-build-api-2-requests.html?lang=en){target="_blank"} | [ADR-EA206](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADR-EA206){target="_blank"} |
+
+>[!NOTE]
+>
+>You can repeat until you have successfully completed three activities or completed the customer reference form (on the next tab).
 
 >[!ENDTABS]
 

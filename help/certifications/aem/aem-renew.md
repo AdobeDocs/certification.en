@@ -5,9 +5,7 @@ solution: Experience Manager Sites
 role: Developer
 badge: label="AEM Renewal" type="positive"
 ---
-# Certification renewal for Adobe Experience Manager
-
-**Start your journey toward renewing your certification**
+# Renew your Adobe Experience Manager certification
 
 When you pass a certification exam, your certification is valid for two years.
 
@@ -23,8 +21,6 @@ We're happy to announce that you are now able to renew your certification via a 
 
 >[!TAB Expert and Master]
 
-**How to renew your certification:**
-
 You should be currently certified (not expired) in:
 
 * Adobe Experience Manager Sites Developer expert
@@ -33,6 +29,8 @@ You should be currently certified (not expired) in:
 * Adobe Experience Manager Assets Developer expert
 * Adobe Experience Manager Dev/Ops Engineer expert
 * Adobe Experience Manager Forms Developer expert
+
+## Instructions for renewing your Adobe Analytics certification
 
 Select **three activities** to complete and pass the course assessments associated with each.
 
@@ -47,15 +45,12 @@ In these cases you can provide a customer reference affirming you have participa
 
 **Once your customer reference has been reviewed you will be notified by the Adobe Credential Team.**
 
->[!NOTE]
->
->IMPORTANT NOTE: The following section and links will **only** function after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
-
-**Now that you have successfully logged in, the following links will be directly accessible.**
-
 The course assessments are free. There is no need to schedule them, and they are not proctored. If you hold multiple Adobe Experience Manager Expert and Master level certifications, you will only need to complete the requirements below and all your AEM certifications will get renewed.
 
-**Courses and course assessments:**
+[Customer Reference Form for Adobe Experience Manager](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADR-EA100){target="_blank"}
+
+### Courses and Course Assessments:
+
 
 | Course | Course Assessment |
 | ------- | ------- |
