@@ -19,10 +19,9 @@ The Adobe Restart Program is an initiative that allows individuals with expired 
 ### How to proceed?{#exams}
 
 * Log in to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
+* Go to [your profile history](https://www.certmetrics.com/adobe/candidate/requirements.aspx){target="_blank"}
 * Check eligibility in your profile history. If you are eligible you will see an exam listed that begins with RES.
 * Complete the requirements (course assessments/exam) before the deadline.
-
-[!BADGE My Profile history]{type=Informative url="https://www.certmetrics.com/adobe/candidate/requirements.aspx newtab=true"}
 
 ### Restart options by solution
 
