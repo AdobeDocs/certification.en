@@ -14,9 +14,9 @@ If you've previously held an Adobe Digital Cloud Experience certification that h
 
 ## What is Adobe Restart program?
 
-The Adobe Restart Program is an initiative that allows individuals with expired Experience Cloud certifications to recertify, free of charge. If you have previously held an Adobe Digital Cloud Experience certification that has since expired, you may be eligible for a FREE new, frictionless certification! Depending on the solution, you can participate in continuous learning activities or take an un-proctored job role exam. This program is a valuable resource for people seeking to enhance their digital expertise and stay competitive.
+The Adobe Restart Program is an initiative that allows individuals with expired Experience Cloud certifications to re-certify, free of charge. If you have previously held an Adobe Digital Cloud Experience certification that has since expired, you may be eligible for a FREE new, frictionless certification! Depending on the solution, you can participate in continuous learning activities or take an un-proctored job role exam. This program is a valuable resource for people seeking to enhance their digital expertise and stay competitive.
 
-### How to proceed?
+### How to proceed?{#exams}
 
 * Log in to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
 * Check eligibility in your profile history. If you are eligible you will see an exam listed that begins with RES.
@@ -24,7 +24,7 @@ The Adobe Restart Program is an initiative that allows individuals with expired 
 
 [!BADGE My Profile history]{type=Informative url="https://www.certmetrics.com/adobe/candidate/requirements.aspx newtab=true"}
 
-### Restart options by solution{#exams}
+### Restart options by solution
 
 >[!BEGINTABS]
 
