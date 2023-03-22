@@ -19,7 +19,7 @@ We're happy to announce that you are now able to renew your certification via a 
 >
 >Professional renewal coming soon.
 
->[!TAB Expert and Master]
+>[!TAB Expert]
 
 +++ADS-E821 Adobe **Campaign Standard Developer** expert renewal exam
 
