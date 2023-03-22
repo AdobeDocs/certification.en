@@ -149,7 +149,7 @@ The course assessments are free. There is no need to schedule them, and they are
 Level: Expert (1-3 years' experience)
 Passing Score: 26/34
 Time: 68 mins
-Delivery: On-demand / un-proctored
+Delivery: On-demand / non-proctored
 Available languages: English
 Cost: FREE
 Exam ID: ADS-E826 - Adobe Audience Manager Business Practitioner expert restart
@@ -229,7 +229,7 @@ Time: 58 mins
 Delivery: On-demand / non-proctored
 Available languages: English
 Cost: FREE
-Exam ID: ADS-E825 - Adobe Audience Manager Architect Master Restart
+Exam ID: ADS-E825 - Adobe Audience Manager Architect Master restart
 
 
 ```

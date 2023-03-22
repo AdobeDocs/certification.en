@@ -1,130 +1,188 @@
 ---
-title: Adobe Audience Manager Certification
-description: You have technical knowledge about audience segmentation, destination exports, and activation on real time basis for unified profiles that adhere to data and privacy regulations, customer data platforms (CDP) and knowledge of Adobe Experience Platform.
+title: Adobe Audience Manager Renewal
+description: Is your certification expiring? Learn how to renew your certification before it expires.
 solution: Audience Manager
 role: Developer
+badge: label="Campaign Standard Renewal" type="positive"
+mini-toc-levels: 1
 ---
-# Certification Journey - Adobe Audience Manager
+# Renew your Adobe Audience Manager certification
 
-## Start Your Journey toward Certification
+When you pass a certification exam, your certification is valid for two years.
 
-Bacon ipsum dolor amet buffalo short loin meatloaf, t-bone turkey pork hamburger boudin pork chop venison ribeye cow pork belly. Chuck alcatra bacon, frankfurter t-bone salami tri-tip spare ribs ribeye venison sausage strip steak meatball landjaeger cupim. Picanha tri-tip cow fatback, swine pork loin andouille pork tail. Bresaola chicken leberkas, ground round ball tip brisket meatball corned beef sausage andouille porchetta frankfurter doner strip steak burgdoggen. Boudin landjaeger leberkas salami.
+We're happy to announce that you are now able to renew your certification via a new, no-cost format. It involves using on-demand Adobe Experience League courses and tutorials—simply complete three activities to renew your certification at no cost. You must renew before your certification expires, or you will need to take the full exam to become certified again. 
 
-<table>
-<tr  style="border: 0">
-<td style="width: 160px;text-align: left">
+>[!BEGINTABS]
 
-<!--- TO CHANGE BADGE : change "expert-badge.png" to "master-badge.png" or "professional-badge.png --->
+>[!TAB Professional]
 
-  <img alt="Certification Badge" style="width: 120px" src="/help/certifications/assets/expert-badge.png" />
-</td>
-<td style="width: 400px;">
-  <strong>Level of Experience: </strong> 1-3 years
+>[!NOTE]
+>
+>Professional renewal coming soon.
 
-  <strong>Intended Audience:</strong>
-  Data Architect/Engineer, Solution Architect or MSA, 
-  Enterprise Architect, Product Manager, Marketing Technology Lead
-</tr>
-</table>
+>[!TAB Expert]
 
-<table>
- <tr  style="border: 0;">
-    <td> <strong>Adobe Experience Platform</strong> </td>
- </tr>
+You should be currently certified (not expired) in:
 
- <tr style="border: 0;background-color: white;">
-    <td>
-    Exam Details:<br>
-    Passing Score: 35/50<br>
-    Time: 105 mins<br>
-    Cost: $225 (global) and $150 (India)<br>
-    Exam ID: AD0-E600
-    </td>
- </tr>
+* Adobe Audience Manager Business Practitioner expert
 
-</table>
+## Instructions for renewing your certification:
 
-## Exam Purpose
+* **Step 1** - Review the exam objectives
+* **Step 2** - Review the resources
+* **Step 3** - Take and pass the exam
 
-Bacon ipsum dolor amet buffalo short loin meatloaf, t-bone turkey pork hamburger boudin pork chop venison ribeye cow pork belly. Chuck alcatra bacon, frankfurter t-bone salami tri-tip spare ribs ribeye venison sausage strip steak meatball landjaeger cupim. Picanha tri-tip cow fatback, swine pork loin andouille pork tail. Bresaola chicken leberkas, ground round ball tip brisket meatball corned beef sausage andouille porchetta frankfurter doner strip steak burgdoggen. Boudin landjaeger leberkas salami.
+### Get ready
 
-## Get Ready
+**Exam details:**
+  
+```
+Level: Expert (1-3 years' experience)
+Passing Score: 26/34
+Time: 68 mins
+Delivery: On-demand / non-proctored
+Available languages: English
+Cost: FREE
+Exam ID: ADR-E826 - Adobe Audience Manager Business Practitioner expert renewal
 
-**AD0-E600 Adobe Experience Platform Technical Foundations**
-
-**Minimum Candidate Experience**
-
-Defined by a team of subject matter experts, the candidate who is ready to pass the Adobe Experience Platform - Adobe Qualified exam has the following qualifications, at a minimum:
-
-* Basic know-how of Experience Platform and can navigate through the UI
-* A high-level understanding of each UI component
+```
 
 **Exam Objectives and Scope**
 
-Section 1: Data Modeling (20%)
-* Analyze source data to evaluate primary and secondary identity for profile stitching
-* Demonstrate an understanding of how to use the UI to create/edit XDM Schemas.
-* Identify DULE Guidance
+**Section 1: Segment Creation and Syndication (25%)**
 
-Section 2: Data Ingestion (36%)
-* Demonstrate how to format and prepare data for ingestion
-* Demonstrate how to connect data sources using OOTB connectors
+* Determine the appropriate method to create segments utilizing 1p/2p/3p data for targeting and analytical purposes
+* Given a scenario, recommend segments for activation that align to business or campaign goals
+* Determine the appropriate method to syndicate segments to destinations for activation
 
-Section 3: Unifying Profiles (34%)
-* Validate Profiles and Event data post ingestion
-* Define identity name spaces
+**Section 2: Trait Creation (17%)**
 
-Section 4: Activation (10%)
-* Demonstrate how to set up a destination and how segment activation works
-* Demonstrate and understanding of data access API and exporting data via Real-Time CDP
+* Recommend traits for a given audience strategy
+* Determine the correct method to create and update rule-based and/or onboarded traits
 
-Take a readiness questionnaire to find out if you meet the minimum qualifications.
+**Section 3: Reporting and Measurements (21%)**
 
-## Get Prepped
+* Given a scenario, analyze reports to provide actionable next steps to meet business goals
+* Given a scenario, analyze audience optimization
+
+**Section 4: Troubleshooting and Administration (26%)**
+
+* Given a scenario, verify audience delivery information to ensure scheduled delivery needs
+* Determine the appropriate practice to validate offline inbound files
+* Given a scenario, determine the correct method to perform QA against the ID sync
+* Determine the appropriate method to navigate and activate from the Adobe Audience Marketplace
+
+**Section 5: Taxonomy (11%)**
+
+* Determine the appropriate structure to create traits and segments that utilize a clear and consistent nomenclature
+* Determine the correct technique to maintain an organized platform using a clear folder structure
+* Differentiate between the different types of destinations
+
+### Get prepped
 
 You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
 
 Here are some suggested resources to help you prepare:
 
-**AD0-E600 Adobe Experience Platform Technical Foundations**
+[!BADGE Sample questions]{type=Informative url="https://sei.caveon.com/launchpad/ad4-e453-adobe-audience-manager-business-practitioner-sample-exam newtab=true"}
 
-The exam covers four domains: business analysis, reporting and dashboarding, segmentation and calculated metrics, general tool knowledge, and reporting.
+**Resources:**
 
-**Section 1: Data Modeling**
+* [Adobe Audience Manager Product Documentation](https://docs.adobe.com/content/help/en/audience-manager/user-guide/aam-home.html){target="_blank"}
+* [Adobe Support - Experience Cloud Audiences](https://experienceleaguecommunities.adobe.com/t5/Adobe-Experience-Cloud-Audiences/ct-p/experience-cloud-audiences-community){target="_blank"}
+* [Adobe Experience Cloud Learn and Support](https://helpx.adobe.com/support/experience-cloud.html){target="_blank"}
+* [Adobe Experience League Audience Manager](https://experienceleague.adobe.com/#recommended/solutions/audience-manager){target="_blank"}
 
-* Documentation: [Understanding Schemas](https://experienceleague.adobe.com/docs/experience-platform/xdm/schema/composition.html)
-* SPP On Demand: [Schema and XDM Overview / Adobe Experience Platform: Data Modeling and Ingestion](https://video.tv.adobe.com/v/27105)
-* SPP Challenge/Hands On: [Model data in Schemas](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/model-data-in-schemas.html)
-* Experience League Tutorial: [Schema and XDM Overview](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/schemas-and-experience-data-model.html)
+**Restart your certification**
 
-**Section 2: Data Ingestion**
+This exam is free, open book, and un-proctored. You may take the exam up to three times. If you are unsuccessful after the third attempt, you must wait **30 days** to try again. Failure to comply might result in your certification being revoked.
 
-* Documentation: [Data Ingestion](https://experienceleague.adobe.com/docs/experience-platform/ingestion/home.html?lang=en)
-* SPP On Demand: [Adobe Experience Platform: Data Modeling and Ingestion](https://solutionpartners.adobe.com/training/learning_program/learningProgram83768.html)
+[!BADGE Take the Adobe Audience Manager Business Practitioner expert renewal exam ADR-E826]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADR-E826 newtab=true"} 
 
-**Section 3: Unifying Profiles**
+>[!TAB Master]
 
-* Documentation: [Identity and identity graphs](https://experienceleague.adobe.com/docs/platform-learn/tutorials/identities/understanding-identity-and-identity-graphs.html?lang=en)
-* SPP On Demand: [Experience Platform: Create and Manage Real-time Customer Profile](https://cpcontents.adobe.com/public/newlearner/newlearner_de10804e.html?accountId=32503#/course/1175314/overview?cert_id=undefined&lp_id=undefined)
+You should be currently certified (not expired) in:
+
+* Adobe Audience Manager Architect master
+
+## Instructions for renewing your certification:
+
+* **Step 1** - Review the exam objectives
+* **Step 2** - Review the resources
+* **Step 3** - Take and pass the exam
+
+### Get ready
+
+**Exam details:**
+  
+```
+Level: Master (3-5 years' experience)
+Passing Score: 22/29
+Time: 58 mins
+Delivery: On-demand / non-proctored
+Available languages: English
+Cost: FREE
+Exam ID: ADR-E825 - Adobe Audience Manager Architect Master renewal
 
 
-**Section 4: Activation**
+```
 
-* Documentation: [Destinations](https://experienceleague.adobe.com/docs/experience-platform/destinations/home.html?lang=en)
-* SPP On Demand: [Adobe Experience Platform: Segmentation for Developers](https://solutionpartners.adobe.com/training/learning_program/learningProgram83769.html)
+**Scope and objectives:**
 
-**Additional Study Aid Resources**
+Section 1: Implementation Analysis (28%)
 
-Adobe has provided additional study aids to help you prepare for your certification exam. These include content from Adobe Experience League, Adobe Digital Learning Solutions, and technical documentation
+* Determine how to guide and support implementation of AAM as a stand-alone product or as part of a cloud solution
+* Analyze outbound destination options and recommend an AAM implementation approach
+* Determine a data onboarding strategy for a business use case
+* Identify features such as visitor profile viewer, tags, RBAC, etc. to align with business goals
+* Determine how to design and test pixels required to create segments and traits
 
-+++See Resources
+Section 2: Solution Design and Recommendations (17%)
 
-* [Adobe Experience Platform Enablement (Partners Only)](https://solutionpartners.adobe.com/training/courses/course5250864.html)
-* [Experience Data Model (XDM) Guide](https://experienceleague.adobe.com/docs/experience-platform/xdm/home.html?lang=en)
-+++
+* Determine AAM capabilities based on customer use case for audience and activation
+* Apply procedural concepts to utilize audience identity solutions to compliment design architecture
+* Identify attribute and behavioral data and map it to specific business use cases
+* Apply procedural concepts to design folder taxonomy and naming convention
 
-{{$include /help/_includes/take-a-practice-test.md}}
+Section 3: Segmentation and Activation (31%)
 
-{{$include /help/_includes/get-certified.md}}
+* Apply procedural concepts to create destinations in Audience Manager
+* Identify signals to create Rule-Based, Onboarded, and Algorithmic Traits
+* Apply procedural concepts to create segments using frequency/recency
+* Determine how to create segments using profile merge rules
+* Apply procedural concepts to create an algorithmic or predictive model
+* Determine segmentation logic based on use cases
 
-{{$include /help/_includes/questions.md}}
+Section 4: Privacy and Data Governance (7%)
+
+* Recommend Audience Manager capabilities as it relates to governance, privacy, and security
+* Identify customer data policies that are in line with government regulations
+
+Section 5: Performance and Reporting (17%)
+
+* Determine how to configure reports in AAM to gather signal, traits, and segment performance per business requirements
+
+### Get prepped
+
+You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
+
+Here are some suggested resources to help you prepare:
+
+* [AAM: Technical Foundations](https://solutionpartners.adobe.com/training/learning_program/learningProgram32128.html){target="_blank"}
+* [AAM: Integration Series](https://solutionpartners.adobe.com/training/courses/course500091.html){target="_blank"}
+* [AAM: Advanced Features](https://solutionpartners.adobe.com/training/courses/course500092.html){target="_blank"}
+* [ Launch Training & Resources](https://solutionpartners.adobe.com/training/courses/course1326130.html){target="_blank"}
+
+### Restart your certification
+
+This exam is free, open book, and un-proctored. You may take the exam up to three times. If you are unsuccessful after the third attempt, you must wait **30 days** to try again. Failure to comply might result in your certification being revoked.
+
+[!BADGE Take the Adobe Audience Manager Architect master renewal exam ADR-E82]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADR-E825 newtab=true"}
+
+>[!ENDTABS]
+
+### Questions
+
+View the certification [FAQs](https://solutionpartners.adobe.com/solution-partners/training_and_certification/certification/certification_faq.html#){target="_blank"}.
+
+Additional questions? Please email `certif@adobe.com`.
