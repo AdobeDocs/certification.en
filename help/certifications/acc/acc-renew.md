@@ -1,6 +1,6 @@
 ---
 title: Adobe Campaign Classic Renewal
-description: Is your certification expiring? Learn how to renew your certification before it expires.
+description: Learn how to renew your certification before it expires.
 solution: Campaign Classic
 role: Developer
 badge: label="Campaign Classic Renewal" type="positive"

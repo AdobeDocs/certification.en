@@ -1,130 +1,156 @@
 ---
-title: Adobe Marketo Engage Certification
-description: You have technical knowledge about audience segmentation, destination exports, and activation on real time basis for unified profiles that adhere to data and privacy regulations, customer data platforms (CDP) and knowledge of Adobe Experience Platform.
+title: Adobe Marketo Engage Renewal
+description: Learn how to renew your certification before it expires.
 solution: Marketo Engage
 role: Developer
+badge: label="Marketo Engage Renewal" type="positive"
+mini-toc-levels: 1
 ---
-# Certification Journey - Adobe Marketo Engage
+# Renew your Adobe Marketo Engage certification
 
-## Start Your Journey toward Certification
+When you pass a certification exam, your certification is valid for two years.
 
-Bacon ipsum dolor amet buffalo short loin meatloaf, t-bone turkey pork hamburger boudin pork chop venison ribeye cow pork belly. Chuck alcatra bacon, frankfurter t-bone salami tri-tip spare ribs ribeye venison sausage strip steak meatball landjaeger cupim. Picanha tri-tip cow fatback, swine pork loin andouille pork tail. Bresaola chicken leberkas, ground round ball tip brisket meatball corned beef sausage andouille porchetta frankfurter doner strip steak burgdoggen. Boudin landjaeger leberkas salami.
+We're happy to announce that you are now able to renew your certification via a new, no-cost format. It involves using on-demand Adobe Experience League courses and tutorials—simply complete three activities to renew your certification at no cost. You must renew before your certification expires, or you will need to take the full exam to become certified again. 
 
-<table>
-<tr  style="border: 0">
-<td style="width: 160px;text-align: left">
+>[!BEGINTABS]
 
-<!--- TO CHANGE BADGE : change "expert-badge.png" to "master-badge.png" or "professional-badge.png --->
+>[!TAB Professional]
 
-  <img alt="Certification Badge" style="width: 120px" src="/help/certifications/assets/expert-badge.png" />
-</td>
-<td style="width: 400px;">
-  <strong>Level of Experience: </strong> 1-3 years
+>[!NOTE]
+>
+>Professional renewal coming soon.
 
-  <strong>Intended Audience:</strong>
-  Data Architect/Engineer, Solution Architect or MSA, 
-  Enterprise Architect, Product Manager, Marketing Technology Lead
-</tr>
-</table>
+>[!TAB Expert]
 
-<table>
- <tr  style="border: 0;">
-    <td> <strong>Adobe Experience Platform</strong> </td>
- </tr>
+You should be currently certified (not expired) in:
 
- <tr style="border: 0;background-color: white;">
-    <td>
-    Exam Details:<br>
-    Passing Score: 35/50<br>
-    Time: 105 mins<br>
-    Cost: $225 (global) and $150 (India)<br>
-    Exam ID: AD0-E600
-    </td>
- </tr>
+* Adobe Marketo Engage Business Practitioner Expert
 
-</table>
+## Instructions for renewing your certification:
 
-## Exam Purpose
+* **Step 1** - Review the exam objectives
+* **Step 2** - Review the resources
+* **Step 3** - Take and pass the exam
 
-Bacon ipsum dolor amet buffalo short loin meatloaf, t-bone turkey pork hamburger boudin pork chop venison ribeye cow pork belly. Chuck alcatra bacon, frankfurter t-bone salami tri-tip spare ribs ribeye venison sausage strip steak meatball landjaeger cupim. Picanha tri-tip cow fatback, swine pork loin andouille pork tail. Bresaola chicken leberkas, ground round ball tip brisket meatball corned beef sausage andouille porchetta frankfurter doner strip steak burgdoggen. Boudin landjaeger leberkas salami.
+### Get ready
 
-## Get Ready
+**Exam details:**
+  
+```
+Level: Expert (1-3 years' experience)
+Passing Score: 30/40
+Time: 80 mins
+Delivery: On-demand / non-proctored
+Available languages: English
+Cost: FREE
+Exam ID: ADR-E824 - Adobe Marketo Engage Business Practitioner expert renewal exam
 
-**AD0-E600 Adobe Experience Platform Technical Foundations**
 
-**Minimum Candidate Experience**
+```
 
-Defined by a team of subject matter experts, the candidate who is ready to pass the Adobe Experience Platform - Adobe Qualified exam has the following qualifications, at a minimum:
+**Scope and objectives:**
 
-* Basic know-how of Experience Platform and can navigate through the UI
-* A high-level understanding of each UI component
+Section 1: Administration and maintenance (12%)
 
-**Exam Objectives and Scope**
+* Determine the mapping process between Marketo and CRM
+* Identify what happened to an asset using the Audit Trail
+* Recognize differences between users and roles
+* Given a scenario, identify the best fit for using workspace and partitions
+* Identify CRM platforms with native Marketo synchronization
+* Given a scenario, locate where information is referenced
 
-Section 1: Data Modeling (20%)
-* Analyze source data to evaluate primary and secondary identity for profile stitching
-* Demonstrate an understanding of how to use the UI to create/edit XDM Schemas.
-* Identify DULE Guidance
+Section 2: Marketing activities/Campaign management (48%)
 
-Section 2: Data Ingestion (36%)
-* Demonstrate how to format and prepare data for ingestion
-* Demonstrate how to connect data sources using OOTB connectors
+* Demonstrate an understanding of Smart Campaigns, logic, constraints, and flow steps
+* Given a scenario, define the next step
+* Identify the root cause of a problem
+* Interpret the relationship between programs, channels, tags, and period cost
+* Demonstrate/apply the correct configuration to Engagement Programs
+* Give examples of usage for different types of tokens
+* Summarize the utility of Webhooks in Marketo and how they are used
+* Identify and apply the appropriate use of the PMCF
+* Explain the benefits of Global Assets and how to use them
+* Demonstrate the capabilities of forms
+* Perform and analyze an A/B test strategy
+* Identify where a program or asset has been referenced with 'Used By'
+* Troubleshoot communication limits
+* Use Webinar provider information in an event program
 
-Section 3: Unifying Profiles (34%)
-* Validate Profiles and Event data post ingestion
-* Define identity name spaces
+Section 3: Lead management (10%)
 
-Section 4: Activation (10%)
-* Demonstrate how to set up a destination and how segment activation works
-* Demonstrate and understanding of data access API and exporting data via Real-Time CDP
+* Outline the key decision points in defining the lifecycle model
+* Apply best practices around lead scoring
+* Implement the appropriate interesting moments
+* Interpret the lead activity log
+* Given a scenario, identify the creation source
 
-Take a readiness questionnaire to find out if you meet the minimum qualifications.
+Section 4: Data management (10%)
 
-## Get Prepped
+* Demonstrate how to set up a data management program
+* Analyze an instance's data quality
+* Identify a few key pieces of Marketo's data retention policy as it relates to smart lists
+* Summarize how segmentation works
+
+Section 5: Reporting (5%)
+
+* Given an outcome of a campaign, determine how to set up a program to provide the best reporting
+* Given a scenario, be able to investigate and assign the appropriate acquisition program
+
+Section 6: Best practices (15%)
+
+* Demonstrate the relevance of lead scoring in marketing and sales collaboration
+* Illustrate the benefits of the folder structure and naming conventions
+* Apply best practices around A/B testing
+* Explain the process to perform a quality check on any Marketo program
+* Explain the process to perform a quality check on an email
+
+### Get prepped
 
 You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
 
 Here are some suggested resources to help you prepare:
 
-**AD0-E600 Adobe Experience Platform Technical Foundations**
+**Section 1: Administration and maintenance**
 
-The exam covers four domains: business analysis, reporting and dashboarding, segmentation and calculated metrics, general tool knowledge, and reporting.
+* [Adobe Experience League - Marketo Engage Product Documentation](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=en){target="_blank"} (Field Management, CRM Sync, Audit Trail, User Administration, Workspaces and Partitions, Smart Lists, Custom Field)
+* [Adobe Marketo Nation](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} (Synching with Salesforce, CRM integrations)
 
-**Section 1: Data Modeling**
+**Section 2: Marketing activities/Campaign management**
 
-* Documentation: [Understanding Schemas](https://experienceleague.adobe.com/docs/experience-platform/xdm/schema/composition.html)
-* SPP On Demand: [Schema and XDM Overview / Adobe Experience Platform: Data Modeling and Ingestion](https://video.tv.adobe.com/v/27105)
-* SPP Challenge/Hands On: [Model data in Schemas](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/model-data-in-schemas.html)
-* Experience League Tutorial: [Schema and XDM Overview](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/schemas-and-experience-data-model.html)
+* [Adobe Marketo Nation](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} (Random Sample, Smart Campaign with data value fire, Wait Steps, member.webinar url, Campaign Inspector, Filter Logic, Using Tokens in Emails, Lead creation via Form Fill Out, Assets and Workspaces, Managing Forms)
+* [Adobe Experience League - Marketo Engage Product Documentation](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=en){target="_blank"} (Smart Lists, Smart Campaigns, Demand Generation Forms, Demand Generation Events, Email Marketing, Creating Programs, Events, Audit Trail, Working with Programs, Administration Tags, Drip Nurturing, Landing Pages, Tokens, Administration Additional Integrations, Webhook, Program Member Custom Fields, Workspace and Person Partitions)
 
-**Section 2: Data Ingestion**
+**Section 3: Lead management**
 
-* Documentation: [Data Ingestion](https://experienceleague.adobe.com/docs/experience-platform/ingestion/home.html?lang=en)
-* SPP On Demand: [Adobe Experience Platform: Data Modeling and Ingestion](https://solutionpartners.adobe.com/training/learning_program/learningProgram83768.html)
+* [Adobe Marketo Nation](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} (Build a Lead Lifecycle Program video, Unsubscribe from Email)
+* [Adobe Experience League - Marketo Engage Product Documentation](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=en){target="_blank"} (Smart Campaigns, Marketo Sales Insight, Interesting Moments, Managing People in Smart Lists, System Managed Fields)
 
-**Section 3: Unifying Profiles**
+**Section 4: Data management**
 
-* Documentation: [Identity and identity graphs](https://experienceleague.adobe.com/docs/platform-learn/tutorials/identities/understanding-identity-and-identity-graphs.html?lang=en)
-* SPP On Demand: [Experience Platform: Create and Manage Real-time Customer Profile](https://cpcontents.adobe.com/public/newlearner/newlearner_de10804e.html?accountId=32503#/course/1175314/overview?cert_id=undefined&lp_id=undefined)
+* [Adobe Marketo Nation](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} (Maintaining a Directory of Leads Bouncing Emails article, How to Manage Your Marketo Database for Deliverability support blog, Marketo Activities Data Retention Policy - Under the Hood article)
+* [Adobe Experience League - Marketo Engage Product Documentation](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=en){target="_blank"} (Email Marketing Hard and Soft Bounces, Report Types, Personalization, Dynamic Content)
 
+**Section 5: Reporting**
 
-**Section 4: Activation**
+* [Adobe Marketo Nation](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} (Setting Acquisition best practices article)
+* [Adobe Experience League - Marketo Engage Product Documentation](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=en){target="_blank"} (Reporting, Performance Insights, Program Performance Report, Editing reports, Program Membership)
 
-* Documentation: [Destinations](https://experienceleague.adobe.com/docs/experience-platform/destinations/home.html?lang=en)
-* SPP On Demand: [Adobe Experience Platform: Segmentation for Developers](https://solutionpartners.adobe.com/training/learning_program/learningProgram83769.html)
+**Section 6: Best practices**
 
-**Additional Study Aid Resources**
+* [The Definitive Guide to Lead Scoring](https://www.marketo.com/definitive-guides/lead-scoring){target="_blank"}
+* [Adobe Experience League - Marketo Engage Product Documentation](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=en){target="_blank"} (Working with Programs, Email Marketing, A/B Testing)
+* [Adobe Marketo Nation](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} (Mind your QA Process)
 
-Adobe has provided additional study aids to help you prepare for your certification exam. These include content from Adobe Experience League, Adobe Digital Learning Solutions, and technical documentation
+### Restart your certification
 
-+++See Resources
+This exam is free, open book, and un-proctored. You may take the exam up to three times. If you are unsuccessful after the third attempt, you must wait **30 days** to try again. Failure to comply might result in your certification being revoked.
 
-* [Adobe Experience Platform Enablement (Partners Only)](https://solutionpartners.adobe.com/training/courses/course5250864.html)
-* [Experience Data Model (XDM) Guide](https://experienceleague.adobe.com/docs/experience-platform/xdm/home.html?lang=en)
-+++
+[!BADGE Take the Adobe Marketo Engage Business Practitioner expert restart exam ADR-E824]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADR-E824 newtab=true"} 
 
-{{$include /help/_includes/take-a-practice-test.md}}
+>[!ENDTABS]
 
-{{$include /help/_includes/get-certified.md}}
+### Questions
 
-{{$include /help/_includes/questions.md}}
+View the certification [FAQs](https://solutionpartners.adobe.com/solution-partners/training_and_certification/certification/certification_faq.html#){target="_blank"}.
+
+Additional questions? Please email `certif@adobe.com`.

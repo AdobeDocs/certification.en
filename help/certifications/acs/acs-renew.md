@@ -1,6 +1,6 @@
 ---
 title: Adobe Campaign Standard Renewal 
-description: Is your certification expiring? Learn how to renew your certification before it expires.
+description: Learn how to renew your certification before it expires.
 solution: Campaign Standard
 badge: label="Campaign Standard Renewal" type="positive"
 mini-toc-levels: 1
@@ -27,7 +27,7 @@ You should be currently certified (not expired) in:
 
 * Adobe Campaign Standard Business Practitioner expert
 
-## How to renew your certification:
+## Instructions for renewing your certification:
 
 * **Step 1** - Review the exam scope and objectives
 * **Step 2** - Review the resources
@@ -115,7 +115,7 @@ You should be currently certified (not expired) in:
 
 * Adobe Campaign Standard Developer expert
 
-## How to renew your certification:
+## Instructions for renewing your certification:
 
 * **Step 1** - Review the exam scope and objectives
 * **Step 2** - Review the resources

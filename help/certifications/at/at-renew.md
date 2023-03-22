@@ -1,6 +1,6 @@
 ---
 title: Adobe Target Renewal
-description: Is your certification expiring? Learn how to renew your certification before it expires.
+description: Learn how to renew your certification before it expires.
 solution: Target
 role: Developer
 badge: label="Target Renewal" type="positive"
