@@ -4,7 +4,6 @@ description: Have questions about the Adobe Certification program? Go to this pa
 role: Developer
 recommendations: disable, exclude
 badge: label="FAQ" type="positive"
-mini-toc-levels: 1
 ---
 # 
 
