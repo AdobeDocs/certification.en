@@ -4,8 +4,9 @@ description: Have questions about the Adobe Certification program? Go to this pa
 role: Developer
 recommendations: disable, exclude
 badge: label="FAQ" type="positive"
+mini-toc-levels: 1
 ---
-# 
+#  
 
 ![Banner](/help/certifications/assets/home_banner_narrow.png)
 
@@ -15,19 +16,19 @@ Refer to the frequently asked questions below, to learn more about Adobe's certi
 
 >[!BEGINTABS]
 
->[!Certification]
+>[!TAB General]
+
+ADD content
+
+>[!TAB Renewals via on-demand exams]
+
+ADD Content
+
+>[!TAB Renewals via continuous learning]
 
 add faqs
 
->[!Renewal via on-demand exams]
-
-add faqs
-
->[!Renewals via continuous learning]
-
-add faqs
-
->[!Restart program]
+>[!TAB Restart program]
 
 +++How do I know if I'm eligible for the restart program?
 
