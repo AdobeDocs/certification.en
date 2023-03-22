@@ -66,7 +66,7 @@ The course assessments are free. There is no need to schedule them, and they are
 
 >[!NOTE]
 >
->You can repeat until you have successfully completed three activities or completed the customer reference form (on the next tab).
+>You can repeat until you have successfully completed three activities or completed the customer reference form.
 
 >[!ENDTABS]
 
