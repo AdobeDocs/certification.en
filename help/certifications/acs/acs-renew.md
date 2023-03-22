@@ -21,11 +21,11 @@ We're happy to announce that you are now able to renew your certification via a 
 
 >[!TAB Expert]
 
-+++ADS-E821 Adobe **Campaign Standard Developer** expert renewal exam
++++Adobe Campaign Standard Business Practitioner expert renewal
 
 You should be currently certified (not expired) in:
 
-* **Adobe Campaign Standard Business Practitioner expert**
+* Adobe Campaign Standard Business Practitioner expert
 
 ## How to renew your certification:
 
@@ -109,11 +109,11 @@ To renew your exam click on the "Campaign Standard Business Practitioner renewal
 
 +++
 
-+++ Adobe Campaign Standard Developer renewal
++++Adobe Campaign Standard Developer expert renewal
 
 You should be currently certified (not expired) in:
 
-* **Adobe Campaign Standard Developer expert**
+* Adobe Campaign Standard Developer expert
 
 ## How to renew your certification:
 
