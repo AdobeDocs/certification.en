@@ -711,7 +711,7 @@ Here are some suggested resources to help you prepare:
 
 This exam is free, open book, and un-proctored. You may take the exam up to three times. If you are unsuccessful after the third attempt, you must wait **30 days** to try again. Failure to comply might result in your certification being revoked.
 
-[!BADGE Take the Adobe Marketo Engage Business Practitioner expert restart exam ADS-E824]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&ec=ADS-E824 newtab=true"} 
+[!BADGE Take the Adobe Marketo Engage Business Practitioner expert restart exam ADS-E824]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADS-E824 newtab=true"} 
 
 +++
 
@@ -824,7 +824,7 @@ The sample questions allow you to see the type and format of items that you will
 
 This exam is free, open book, and un-proctored. You may take the exam up to three times. If you are unsuccessful after the third attempt, you must wait **30 days** to try again. Failure to comply might result in your certification being revoked.
 
-[!BADGE Take the Adobe Marketo Engage Architect master restart exam ADS-E556]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&ec=ADS-E824 newtab=true"}
+[!BADGE Take the Adobe Marketo Engage Architect master restart exam ADS-E556]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADS-E824 newtab=true"}
 
 +++
 
