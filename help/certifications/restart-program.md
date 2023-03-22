@@ -8,25 +8,19 @@ mini-toc-levels: 1
 ---
 # Restart your certification journey by going from expired to certified
 
-This limited time program offered **from April 4th, 2023 through October 1st, 2023** offers you a chance to update your skills and stay ahead of the curve in a rapidly changing digital landscape. 
+This limited time program, offered **from April 4th, 2023 through October 1st, 2023**, gives you a chance to update your skills and stay ahead of the curve in a rapidly changing digital landscape.
 
 If you've previously held an Adobe Digital Cloud Experience certification that has expired, you may be eligible for this **FREE** program!
 
 ## What is Adobe Restart program?
 
-The Adobe Restart Program is an initiative that allows individuals who previously held Adobe Digital Cloud Experience certifications that have since expired to earn a new certification for free. The program offers eligible participants the opportunity to update their skills and stay current in their field by completing designated learning activities or an un-proctored job role exam, depending on the solution. This program is a valuable resource for individuals seeking to enhance their digital expertise and stay competitive in today's rapidly changing digital environment.
+The Adobe Restart Program is an initiative that allows individuals with expired Experience Cloud certifications to recertify, free of charge. If you have previously held an Adobe Digital Cloud Experience certification that has since expired, you may be eligible for a FREE new, frictionless certification! Depending on the solution, you can participate in continuous learning activities or take an un-proctored job role exam. This program is a valuable resource for people seeking to enhance their digital expertise and stay competitive.
 
-### How does it work?
+### How to proceed?
 
-* Check eligibility in your profile history - If you are eligible you will see an exam listed that begins with RES.
-* Complete the requirements before the deadline 
-* Act now to take advantage of this free opportunity
-
->[!NOTE]
->
->The following sections and links will **only** function after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
-
-**Now that you have successfully logged in, the following links will be directly accessible.**
+* Log in to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
+* Check eligibility in your profile history. If you are eligible you will see an exam listed that begins with RES.
+* Complete the requirements (course assessments/exam) before the deadline.
 
 [!BADGE My Profile history]{type=Informative url="https://www.certmetrics.com/adobe/candidate/requirements.aspx newtab=true"}
 
