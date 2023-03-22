@@ -24,8 +24,8 @@ We're happy to announce that you are now able to renew your certification via a 
 
 You should be currently certified (not expired) in:
 
-* **Adobe Target Business Practitioner Expert**
-* **Adobe Target Architect Master**
+* Adobe Target Business Practitioner Expert
+* Adobe Target Architect Master
 
 ## Instructions for renewing your Adobe Target certification
 
