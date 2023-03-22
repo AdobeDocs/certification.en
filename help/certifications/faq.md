@@ -13,19 +13,21 @@ badge: label="FAQ" type="positive"
 
 Refer to the frequently asked questions below, to learn more about Adobe's certification program.
 
-### Certifications{#certifications}
+>[!BEGINTABS]
+
+>[!Certification]
 
 add faqs
 
-### Renewals via on-demand exam{#renewal}
+>[!Renewal via on-demand exams]
 
 add faqs
 
-### Renewals via continuous learning{#cl}
+>[!Renewals via continuous learning]
 
 add faqs
 
-### Restart program{#restart}
+>[!Restart program]
 
 +++How do I know if I'm eligible for the restart program?
 
@@ -117,3 +119,5 @@ In your [profile history](https://www.certmetrics.com/adobe/candidate/requiremen
 | AD0-E402 | Adobe Target Architect Master |
 
 +++
+
+>[!ENDTABS]
