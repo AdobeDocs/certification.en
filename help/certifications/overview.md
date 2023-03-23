@@ -1,6 +1,6 @@
 ---
 title: Certification Home
-description: This is the article overview for certification.
+description: Welcome to Adobe's Certification home. Learn what certification at Adobe is all about.
 badge: label="Certification home" type="positive"
 mini-toc-levels: 1
 ---

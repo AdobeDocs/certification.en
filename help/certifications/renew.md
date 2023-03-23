@@ -1,6 +1,6 @@
 ---
 title: Adobe Certification Renewal Program
-description: Learn how to renew your certification before it expires.
+description: Learn how to renew your certification, before it expires.
 solution: Real-time Customer Data Platform
 role: Developer
 recommendations: disable, exclude

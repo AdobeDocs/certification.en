@@ -1,6 +1,6 @@
 ---
 title: Adobe Certification Restart Program
-description: You have technical knowledge about audience segmentation, destination exports, and activation on real time basis for unified profiles that adhere to data and privacy regulations, customer data platforms (CDP) and knowledge of Adobe Experience Platform.
+description: Go from expired to certified with Adobe Certifications.Find out if you are eligible for this limited time program. 
 role: Developer
 recommendations: disable, exclude
 badge: label="Restart program" type="positive"
