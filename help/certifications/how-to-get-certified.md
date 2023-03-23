@@ -3,8 +3,9 @@ title: Getting certified at Adobe.
 description: Learn how to get certified at Adobe. Find all the resources you need before, during and after you become certified.
 recommendations: disable, exclude
 badge: label="Get certified" type="positive"
+mini-toc-levels: 1
 ---
-# How to get certified {#rtcdp-get-certified}
+# How to get certified{#how}
 
  Add content here
 

@@ -1,7 +1,8 @@
 ---
 title: Get Started
-description: Get started with technical certifications
+description: Get started with technical certifications. Learn about the program and how to navigate through our site pages.
 badge: label="Get started" type="positive"
+mini-toc-levels: 1
 ---
 
 # Get started {#getting-started}
@@ -14,11 +15,23 @@ The certification levels reflect a progressive level of proficiency and knowledg
 
 >[!TAB Certification levels]
 
-![Professional Badge](/help/certifications/assets/professional-badge-Xsmall.png) **Professional certifications** validate that a candidate has a foundational understanding of Adobe's digital marketing solutions. The certification exam covers basic concepts and functionalities of Adobe Experience Cloud.
++++![Professional Badge](/help/certifications/assets/professional-badge-Xsmall.png) 
 
-![Expert Badge](/help/certifications/assets/expert-badge-Xsmall.png)    **Expert certifications** are for professionals who have a more advanced understanding of Adobe's digital marketing solutions. The certification exam covers more complex concepts and functionalities of Adobe Experience Cloud, including implementation and troubleshooting.
+**Professional certifications** validate that a candidate has a foundational understanding of Adobe's digital marketing solutions. The certification exam covers basic concepts and functionalities of Adobe Experience Cloud.
 
-![Master Badge](/help/certifications/assets/master-badge-Xsmall.png)     **Master certifications** are for professionals who have an in-depth understanding of Adobe's digital marketing solutions and have demonstrated expertise in multiple areas of Adobe Experience Cloud. The certification exam covers advanced topics and scenarios, including complex integrations, customizations, and troubleshooting.
++++
+
++++![Expert Badge](/help/certifications/assets/expert-badge-Xsmall.png)    
+
+**Expert certifications** are for professionals who have a more advanced understanding of Adobe's digital marketing solutions. The certification exam covers more complex concepts and functionalities of Adobe Experience Cloud, including implementation and troubleshooting.
+
++++
+
++++![Master Badge](/help/certifications/assets/master-badge-Xsmall.png)     
+
+**Master certifications** are for professionals who have an in-depth understanding of Adobe's digital marketing solutions and have demonstrated expertise in multiple areas of Adobe Experience Cloud. The certification exam covers advanced topics and scenarios, including complex integrations, customizations, and troubleshooting.
+
++++
 
 >[!TAB Job roles]
 
