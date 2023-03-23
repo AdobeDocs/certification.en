@@ -1,6 +1,6 @@
 ---
-title: Adobe Real-Time Customer Data Platform Certification
-description: You have technical knowledge about audience segmentation, destination exports, and activation on real time basis for unified profiles that adhere to data and privacy regulations, customer data platforms (CDP) and knowledge of Adobe Experience Platform.
+title: Adobe Certification Renewal Program
+description: Learn how to renew your certification before it expires.
 solution: Real-time Customer Data Platform
 role: Developer
 recommendations: disable, exclude
@@ -44,8 +44,8 @@ You can now renew your certification either via continuous learning, or on-deman
 * [Adobe Campaign Classic](https://experienceleague.corp.adobe.com/docs/certification/certification/technical-certifications/acc/acc-renew.html?lang=en){target="_blank"}
 * [Adobe Campaign Standard](https://experienceleague.corp.adobe.com/docs/certification/certification/technical-certifications/acs/acs-renew.html?lang=en){target="_blank"}
 * [Adobe Marketo Engage](https://experienceleague.corp.adobe.com/docs/certification/certification/technical-certifications/ame/ame-renew.html?lang=en){target="_blank"}
-* [Adobe Advertising Cloud](https://experienceleague.corp.adobe.com/docs/certification/certification/technical-certifications/aac/aac-renew.html?lang=en){target="_blank"}
-* [Adobe Workfront](https://experienceleague.corp.adobe.com/docs/certification/certification/technical-certifications/aw/aw-renew.html?lang=en){target="_blank"}
+* Adobe Advertising Cloud - _Coming Soon_
+* Adobe Workfront - _Coming Soon_
 
 ### Questions
 
