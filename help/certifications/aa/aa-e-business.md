@@ -10,13 +10,7 @@ mini-toc-levels: 1
 
 Learn how to become certified as an Adobe Business Practitioner expert.
 
-![Certification Expert Badge](/help/certifications/assets/expert-badge-Xsmall.png)
-    
->[!NOTE]
->
->Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
-
-You should have:
+## You should have:
 
 * 2 years' experience in digital analytics with a marketing background 
 * An in-depth understanding of digital analytics metrics and dimensions
@@ -30,7 +24,7 @@ You should have:
 * A basic understanding of how digital analytics is filtering/structuring data
 * An awareness of the integration of Adobe Analytics with other Adobe solutions
 
-Additionally, you should be familiar with the following technologies and environments:
+### Additionally, you should be familiar with the following technologies and environments:
 
 * FTP client
 * Current Adobe Analytics Workspace features and other reporting options outside of Workspace (ex. schedule projects and schedule reports)
@@ -41,6 +35,10 @@ Additionally, you should be familiar with the following technologies and environ
 * Mobile services UI
 * Adobe Help Center
 * Data export options (ex. right click to export, .csv download, Data feeds, Data Warehouse extract)
+
+>[!NOTE]
+>
+>Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
 
 >[!BEGINTABS]
 
