@@ -3,6 +3,8 @@ title: Adobe Customer Journey Analytics
 description: Learn how to manage your ACJA.
 role: Developer
 badge: label="Exam AD0-EXXX" type="positive"
+mini-toc-levels: 1
+hidefromtoc: yes
 ---
 
 # Certification journey for Adobe Customer Journey Analytics expert

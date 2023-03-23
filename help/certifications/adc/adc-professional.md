@@ -4,6 +4,8 @@ description: You have technical knowledge about audience segmentation, destinati
 solution: Document Cloud
 role: Developer
 badge: label="Adobe Doc Cloud coming May 2023" type="positive"
+mini-toc-levels: 1
+hidefromtoc: yes
 ---
 # Certification Journey for Adobe Doc Cloud professional
 

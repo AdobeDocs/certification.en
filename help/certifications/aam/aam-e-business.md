@@ -1,5 +1,5 @@
 ---
-title: Adobe Audience Manager Certification
+title: Adobe Audience Manager Business Practitioner Expert Certification
 description: Learn how to become certified as an Adobe Audience Manager Business Manager expert.
 solution: Audience Manager
 role: Developer
