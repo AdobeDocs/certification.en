@@ -1,10 +1,12 @@
 ---
 title: Certification Home
-description: Welcome to Adobe's Certification home. Learn what certification at Adobe is all about.
+description: Welcome to Certification at Adobe. Learn what getting certified at Adobe can do for you.
 badge: label="Certification home" type="positive"
 mini-toc-levels: 1
 ---
 # Welcome to Certification at Adobe!
+
+Learn what getting certified at Adobe can do for you.
 
 ![Banner](/help/certifications/assets/home_banner_narrow.png)
 
