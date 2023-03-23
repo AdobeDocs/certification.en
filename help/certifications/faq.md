@@ -6,11 +6,9 @@ recommendations: disable, exclude
 badge: label="FAQ" type="positive"
 mini-toc-levels: 1
 ---
-# 
+# Adobe Certification FAQ
 
 ![Banner](/help/certifications/assets/home_banner_narrow.png)
-
-## Adobe Certification FAQ
 
 Refer to the frequently asked questions below, to learn more about Adobe's certification program.
 

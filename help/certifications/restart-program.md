@@ -22,7 +22,7 @@ The Adobe Restart Program is an initiative that allows individuals with expired 
 * Go to [your profile history](https://www.certmetrics.com/adobe/candidate/requirements.aspx){target="_blank"}.
 * If you are eligible you will see an exam listed that begins with RES. 
 * Complete the requirements (course assessments/exam) before the deadline.
-* Need more information check the Restart FAQ's.
+* Need more information check the [Restart FAQ's](https://experienceleague.corp.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
 ### Restart options by solution
 
