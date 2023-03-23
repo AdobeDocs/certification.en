@@ -8,7 +8,7 @@ mini-toc-levels: 1
 ---
 # Restart your certification journey by going from expired to certified
 
-This limited time program, offered **from April 4th, 2023 through October 1st, 2023**, gives you a chance to update your skills and stay ahead of the curve in a rapidly changing digital landscape.
+This limited time program, offered **from April 6th, 2023 through October 20th, 2023**, gives you a chance to update your skills and stay ahead of the curve in a rapidly changing digital landscape.
 
 If you've previously held an Adobe Digital Cloud Experience certification that has expired, you may be eligible for this **FREE** program!
 
