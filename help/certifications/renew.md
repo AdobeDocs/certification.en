@@ -36,19 +36,16 @@ You can now renew your certification either via continuous learning, or on-deman
 
 **Solutions:**
 
-* Adobe Target
-* Adobe Analytics
-* Adobe Experience Manager
-* Adobe Commerce
-* Adobe Audience Manager
-* Adobe Campaign
-* Adobe Marketo Engage
-* Adobe Advertising
-* Adobe Workfront
-
-| Solution |  Continuous learning | On-Demand |
-| ------- | ------- | ------- |
-
+* [Adobe Target](https://experienceleague.corp.adobe.com/docs/certification/certification/technical-certifications/at/at-renew.html?lang=en){target="_blank"} 
+* [Adobe Analytics](https://experienceleague.corp.adobe.com/docs/certification/certification/technical-certifications/aa/aa-renew.html?lang=en){target="_blank"}
+* [Adobe Experience Manager](https://experienceleague.corp.adobe.com/docs/certification/certification/technical-certifications/aem/aem-renew.html?lang=en){target="_blank"}
+* [Adobe Commerce](https://experienceleague.corp.adobe.com/docs/certification/certification/technical-certifications/ac/ac-renew.html?lang=en){target="_blank"}
+* [Adobe Audience Manager](https://experienceleague.corp.adobe.com/docs/certification/certification/technical-certifications/aam/aam-renew.html?lang=en){target="_blank"}
+* [Adobe Campaign Classic](https://experienceleague.corp.adobe.com/docs/certification/certification/technical-certifications/acc/acc-renew.html?lang=en){target="_blank"}
+* [Adobe Campaign Standard](https://experienceleague.corp.adobe.com/docs/certification/certification/technical-certifications/acs/acs-renew.html?lang=en){target="_blank"}
+* [Adobe Marketo Engage](https://experienceleague.corp.adobe.com/docs/certification/certification/technical-certifications/ame/ame-renew.html?lang=en){target="_blank"}
+* [Adobe Advertising Cloud](https://experienceleague.corp.adobe.com/docs/certification/certification/technical-certifications/aac/aac-renew.html?lang=en){target="_blank"}
+* [Adobe Workfront](https://experienceleague.corp.adobe.com/docs/certification/certification/technical-certifications/aw/aw-renew.html?lang=en){target="_blank"}
 
 ### Questions
 
