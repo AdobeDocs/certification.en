@@ -85,7 +85,7 @@ You are not required to complete training before taking the exam, and training a
 
 Here are some suggested resources to help you prepare:
 
-## Sample questions
+**Sample questions**
 
 The sample questions allow you to see the type and format of items that you will encounter in the actual exam. There is no sign-on needed. The results of the sample questions are not stored, and do not predict your actual test results.
 
