@@ -44,8 +44,8 @@ You can now renew your certification either via continuous learning, or on-deman
 * [Adobe Campaign Classic](https://experienceleague.corp.adobe.com/docs/certification/certification/technical-certifications/acc/acc-renew.html?lang=en){target="_blank"}
 * [Adobe Campaign Standard](https://experienceleague.corp.adobe.com/docs/certification/certification/technical-certifications/acs/acs-renew.html?lang=en){target="_blank"}
 * [Adobe Marketo Engage](https://experienceleague.corp.adobe.com/docs/certification/certification/technical-certifications/ame/ame-renew.html?lang=en){target="_blank"}
-* Adobe Advertising Cloud - _Coming Soon_
-* Adobe Workfront - _Coming Soon_
+* _Adobe Advertising Cloud - Coming Soon_
+* _Adobe Workfront - Coming Soon_
 
 ### Questions
 
