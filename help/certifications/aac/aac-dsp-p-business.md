@@ -4,14 +4,13 @@ description: You have technical knowledge about audience segmentation, destinati
 solution: Advertising
 role: Developer
 badge: label="Exam AD0-E502" type="positive"
+mini-toc-levels: 1
 ---
 # Certification journey for Adobe Advertising DSP Business Practitioner professional
 
-![Certification Professional Badge](/help/certifications/assets/professional-badge-Xsmall.png)
+Learn how to become a certified Advertising DSP Business Practitioner professional.
 
->[!NOTE]
->
->Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
+## Minimum experience:
 
 You should have:
 
@@ -26,6 +25,14 @@ Familiarity with the following tools and technologies:
 * Third-party media quality tools (e.g. IAS, MOAT)
 * Major browsers
 * Ad exchanges, SSPs, and DMPs
+
+>[!NOTE]
+>
+>Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
+
+>[!BEGINTABS]
+
+>[!TAB Get ready]
 
 **Intended audience:**
 
@@ -47,12 +54,6 @@ Cost: $125 (global) / $95 (India)
 Exam ID: AD0-E502
 
 ```
-
->[!BEGINTABS]
-
->[!TAB Get ready]
-
-**AD0-E502 Adobe Advertising DSP Business Practitioner**
 
 **Exam objectives and scope**
 
@@ -92,9 +93,6 @@ You are not required to complete training before taking the exam, and training a
 
 Here are some suggested resources to help you prepare:
 
-**AD0-E502 Adobe Advertising DSP Business Practitioner**
-
-
 **Section 1: Setting up campaigns**
 
 
@@ -130,7 +128,7 @@ Adobe uses two vendors to administer proctored exams, PSI and Examity.
 
 To schedule, reschedule, or cancel your exam, simply click on the vendor of choice, and follow the instructions provided on screen. It's that simple!
 
-Exam number: AD0-E502
+### Exam number: AD0-E502
 
 [!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&ec=AD0-E502 newtab=true"} [!BADGE Examity]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E502 newtab=true"}
 

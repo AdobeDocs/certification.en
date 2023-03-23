@@ -4,15 +4,13 @@ description: You have technical knowledge about audience segmentation, destinati
 solution: Advertising
 role: Developer
 badge: label="Exam AD0-E501" type="positive"
+mini-toc-levels: 1
 ---
 # Certification journey for Adobe Advertising Search Business Practitioner professional
 
-![Certification Professional Badge](/help/certifications/assets/professional-badge-Xsmall.png)
+Learn how to become a certified Advertising Search Business Practitioner professional.
 
->[!NOTE]
->
->Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
-
+## Minimum experience:
 
 You should have:
 
@@ -44,6 +42,14 @@ Experience working with the following functions:
 * Audience bid-modifier
 * Location bid adjustment
 
+>[!NOTE]
+>
+>Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
+
+>[!BEGINTABS]
+
+>[!TAB Get ready]
+
 **Intended audience:**
 
 * Search marketing campaign managers 
@@ -62,12 +68,6 @@ Cost: $125 (global) / $95 (India)
 Exam ID: AD0-E501
 
 ```
-
->[!BEGINTABS]
-
->[!TAB Get ready]
-
-**AD0-E501 Adobe Advertising Search Business Practitioner**
 
 **Readiness self-assessment**
 
@@ -105,8 +105,6 @@ Section 4: Measurement (10%)
 You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
 
 Here are some suggested resources to help you prepare:
-
-**AD0-E501 Adobe Advertising Search Business Practitioner**
 
 **Section 1: Portfolios & optimizations**
 
@@ -161,7 +159,7 @@ Adobe uses two vendors to administer proctored exams, PSI and Examity.
 
 To schedule, reschedule, or cancel your exam, simply click on the vendor of choice, and follow the instructions provided on screen. It's that simple!
 
-Exam number: AD0-E501
+### Exam number: AD0-E501
 
 [!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&ec=AD0-E501 newtab=true"} [!BADGE Examity]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E501 newtab=true"}
 

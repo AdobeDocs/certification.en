@@ -4,6 +4,7 @@ description: You have technical knowledge about audience segmentation, destinati
 solution: Analytics
 role: Developer
 badge: label="Exam AD0-E207" type="positive"
+mini-toc-levels: 1
 ---
 # Certification journey for Adobe Analytics Architect master
 
