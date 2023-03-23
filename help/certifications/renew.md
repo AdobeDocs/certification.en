@@ -46,6 +46,10 @@ You can now renew your certification either via continuous learning, or on-deman
 * Adobe Advertising
 * Adobe Workfront
 
+| Solution |  Continuous learning | On-Demand |
+| ------- | ------- | ------- |
+
+
 ### Questions
 
 View the certification [FAQs](https://solutionpartners.adobe.com/solution-partners/training_and_certification/certification/certification_faq.html#){target="_blank"}.
