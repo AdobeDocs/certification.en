@@ -32,7 +32,7 @@ add faqs
 
 +++How do I know if I'm eligible for the restart program?
 
-In your [profile history](https://www.certmetrics.com/adobe/candidate/requirements.aspx){target="_blank"}, you will see one of these exams listed.
+Under the history tab in the [Adobe Credential Management System](https://www.certmetrics.com/adobe/candidate/requirements.aspx){target="_blank"}, you will see one of these exams listed.
 
 | Certified Application | Exam listed in the History section of your profile |
 | ------- | ------- |
