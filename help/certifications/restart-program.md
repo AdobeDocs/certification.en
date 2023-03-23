@@ -65,7 +65,7 @@ The course assessments are free. There is no need to schedule them, and they are
 
 >[!NOTE]
 >
->You can repeat until you have successfully completed three activities or completed the customer reference form (on the next tab).
+>You can repeat until you have successfully completed three activities or completed the customer reference form.
 
 >[!TAB Analytics]
 
@@ -99,6 +99,10 @@ The course assessments are free. There is no need to schedule them, and they are
 | [ Implementing and Measuring Internal Site Search - Lesson 3 & 4](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.search){target="_blank"} | [ADS-EA205](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADS-EA205){target="_blank"} |
 | [Adobe Analytics APIs](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/apis/using-analysis-workspace-to-build-api-2-requests.html?lang=en){target="_blank"} | [ADS-EA206](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADS-EA206){target="_blank"} |
 
+>[!NOTE]
+>
+>You can repeat until you have successfully completed three activities or completed the customer reference form.
+
 >[!TAB Target]
 
 ### Instructions for restarting your Adobe Target certification
@@ -129,6 +133,10 @@ The course assessments are free. There is no need to schedule them, and they are
 | [Mobile App Implementation and Personalization Course](https://experienceleague.adobe.com/?recommended=Target-D-1-2020.1.mobile){target="_blank"} | [ADS-EA403](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADS-EA403){target="_blank"} |
 | [Guided Mobile and IoT Launch for Developers Course](https://experienceleague.adobe.com/?recommended=Target-D-1-2019.1.web){target="_blank"} | [ADS-EA404](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADS-EA404){target="_blank"} |
 | [Guided Website Launch for Developers Course](https://experienceleague.adobe.com/?recommended=Target-D-1-2019.1.web){target="_blank"} | [ADS-EA405](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADS-EA405){target="_blank"} |
+
+>[!NOTE]
+>
+>You can repeat until you have successfully completed three activities or completed the customer reference form.
 
 >[!TAB Audience Manager]
 
