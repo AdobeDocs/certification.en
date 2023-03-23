@@ -5,6 +5,7 @@ solution: Document Cloud
 role: Developer
 badge: label="Adobe Doc Cloud Renewal" type="positive"
 mini-toc-levels: 1
+hidefromtoc: yes
 ---
 # Renew your Adobe Doc Cloud certification
 

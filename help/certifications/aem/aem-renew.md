@@ -4,6 +4,7 @@ description: Learn how to renew your certification before it expires.
 solution: Experience Manager Sites
 role: Developer
 badge: label="AEM Renewal" type="positive"
+hidefromtoc: yes
 ---
 # Renew your Adobe Experience Manager certification
 

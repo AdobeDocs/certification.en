@@ -5,6 +5,7 @@ solution: Analytics
 role: Developer
 badge: label="Analytics Renewal" type="positive"
 mini-toc-levels: 1
+hidefromtoc: yes
 ---
 # Renew your Adobe Analytics certification
 

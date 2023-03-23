@@ -4,6 +4,7 @@ description: Learn how to renew your certification before it expires.
 solution: Campaign Standard
 badge: label="Campaign Standard Renewal" type="positive"
 mini-toc-levels: 1
+hidefromtoc: yes
 ---
 # Renew your Adobe Campaign Standard certification
 

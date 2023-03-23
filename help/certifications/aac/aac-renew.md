@@ -5,6 +5,7 @@ solution: Advertising
 role: Developer
 badge: label="Advertising Cloud Renewal" type="positive"
 mini-toc-levels: 1
+hidefromtoc: yes
 ---
 # Renew your Adobe Advertising Cloud certification
 

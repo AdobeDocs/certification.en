@@ -5,6 +5,7 @@ solution: Marketo Engage
 role: Developer
 badge: label="Marketo Engage Renewal" type="positive"
 mini-toc-levels: 1
+hidefromtoc: yes
 ---
 # Renew your Adobe Marketo Engage certification
 

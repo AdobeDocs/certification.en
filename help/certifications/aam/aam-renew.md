@@ -5,6 +5,7 @@ solution: Audience Manager
 role: Developer
 badge: label="Campaign Standard Renewal" type="positive"
 mini-toc-levels: 1
+hidefromtoc: yes
 ---
 # Renew your Adobe Audience Manager certification
 

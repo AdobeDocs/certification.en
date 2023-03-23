@@ -5,6 +5,7 @@ solution: Campaign Classic
 role: Developer
 badge: label="Campaign Classic Renewal" type="positive"
 mini-toc-levels: 1
+hidefromtoc: yes
 ---
 # Renew your Adobe Campaign Classic certification
 

@@ -5,6 +5,7 @@ solution: Workfront
 role: Developer
 badge: label="Workfront Renewal" type="positive"
 mini-toc-levels: 1
+hidefromtoc: yes
 ---
 # Renew your Adobe Workfront certification
 
