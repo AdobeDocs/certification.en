@@ -8,9 +8,9 @@ mini-toc-levels: 1
 ---
 # Adobe Certification FAQ
 
-![Banner](/help/certifications/assets/home_banner_narrow.png)
-
 Refer to the frequently asked questions below, to learn more about Adobe's certification program.
+
+![Banner](/help/certifications/assets/home_banner_narrow.png)
 
 >[!BEGINTABS]
 
