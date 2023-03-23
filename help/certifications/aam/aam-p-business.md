@@ -1,9 +1,10 @@
 ---
-title: Adobe Audience Manager Certification
-description: You have technical knowledge about audience segmentation, destination exports, and activation on real time basis for unified profiles that adhere to data and privacy regulations, customer data platforms (CDP) and knowledge of Adobe Experience Platform.
+title: Adobe Audience Manager Business Practitioner professional Certification
+description: Learn how to become certified as an Adobe Audience Manager Business Practitioner professional.
 solution: Audience Manager
 role: Developer
 badge: label="Exam AD0-E458" type="positive"
+mini-toc-levels: 1
 ---
 # Certification journey for Adobe Audience Manager Business Practitioner professional
 

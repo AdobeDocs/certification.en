@@ -1,6 +1,6 @@
 ---
-title: Adobe Advertising Cloud Certification
-description: You have technical knowledge about audience segmentation, destination exports, and activation on real time basis for unified profiles that adhere to data and privacy regulations, customer data platforms (CDP) and knowledge of Adobe Experience Platform.
+title: Adobe Advertising Search Business Practitioner Professional Certification
+description: Learn how to become certified as an Adobe Advertising Search Business Practitioner professional.
 solution: Advertising
 role: Developer
 badge: label="Exam AD0-E501" type="positive"

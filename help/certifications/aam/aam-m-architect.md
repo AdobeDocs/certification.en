@@ -1,17 +1,16 @@
 ---
-title: Adobe Analytics Certification
-description: You have technical knowledge about audience segmentation, destination exports, and activation on real time basis for unified profiles that adhere to data and privacy regulations, customer data platforms (CDP) and knowledge of Adobe Experience Platform.
+title: Adobe Analytics Architect Master Certification
+description: Learn how to become certified as an Adobe Audience Manager Architect master.
 solution: Analytics
 role: Developer
 badge: label="Exam AD0-E454" type="positive"
+mini-toc-levels: 1
 ---
 # Certification journey for Adobe Audience Manager Architect master
 
-![Certification Master Badge](/help/certifications/assets/master-badge-Xsmall.png)
+Learn how to become a certified Audience Manager Architect master.
 
->[!NOTE]
->
->Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
+## Minimum experience:
 
 You should have at least 3 years of experience with data collection methods, data management platforms, and digital marketing technology stacks across Adobe and non-Adobe marketing platforms. You understand clients' unique technical and business requirements and develop customized solutions.
 
@@ -24,6 +23,14 @@ Additionally, you should be able to complete the following tasks:
 * Activate audience segments across different Adobe and non-Adobe cloud solutions
 * Generate and analyze different reports within Audience Manager
 * Understand data collection strategies
+
+>[!NOTE]
+>
+>Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
+
+>[!BEGINTABS]
+
+>[!TAB Get ready]
 
 **Intended audience:**
 
@@ -38,7 +45,7 @@ Additionally, you should be able to complete the following tasks:
 * Technical Consultant
 * Marketing Technologist
 
-**Exam details - Adobe Audience Manager Architect**
+**Exam details**
 
 ```
 Level: Master (3-5 years experience)
@@ -50,12 +57,6 @@ Cost: $225 (global) / $150 (India)
 Exam ID: AD0-E454
 
 ```
-
->[!BEGINTABS]
-
->[!TAB Get ready]
-
-**AD0-E454 Adobe Audience Manager Architect**
 
 **Readiness self-assessment**
 
@@ -102,8 +103,6 @@ You are not required to complete training before taking the exam, and training a
 
 Here are some suggested resources to help you prepare:
 
-**AD0-E454 Adobe Commerce Architect**
-
 **Section 1: Implementation Analysis**
 
 * [Audience Manager Guide](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html?lang=en){target="_blank"}
@@ -149,7 +148,7 @@ Adobe uses two vendors to administer proctored exams, PSI and Examity.
 
 To schedule, reschedule, or cancel your exam, simply click on the vendor of choice, and follow the instructions provided on screen. It's that simple!
 
-Exam number: AD0-E454
+### Exam number: AD0-E454
 
 [!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&ec=AD0-E454 newtab=true"} [!BADGE Examity]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E454 newtab=true"}
 

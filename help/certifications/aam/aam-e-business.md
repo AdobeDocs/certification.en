@@ -1,13 +1,16 @@
 ---
 title: Adobe Audience Manager Certification
-description: You have technical knowledge about audience segmentation, destination exports, and activation on real time basis for unified profiles that adhere to data and privacy regulations, customer data platforms (CDP) and knowledge of Adobe Experience Platform.
+description: Learn how to become certified as an Adobe Audience Manager Business Manager expert.
 solution: Audience Manager
 role: Developer
 badge: label="Exam AD0-E457" type="positive"
+mini-toc-levels: 1
 ---
 # Certification journey for Adobe Audience Manager Business Practitioner expert
 
-![Certification Expert Badge](/help/certifications/assets/expert-badge-Xsmall.png)
+Learn how to become a certified Audience Manager Business Practitioner expert.
+
+## Minimum experience:
 
 Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
 
@@ -36,6 +39,14 @@ Environments:
 * Digital marketing
 * Data and analytics
 
+>[!NOTE]
+>
+>Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
+
+>[!BEGINTABS]
+
+>[!TAB Get ready]
+
 **Intended audience:** 
 
 * Digital Marketing Specialist
@@ -59,12 +70,6 @@ Cost: $225 (global) and $150 (India)
 Exam ID: AD0-E457
 
 ```
-
->[!BEGINTABS]
-
->[!TAB Get ready]
-
-**AD0-E457 Adobe Audience Manager Business Practitioner**
 
 **Readiness self-assessment**
 
@@ -106,8 +111,6 @@ Section 5: Taxonomy (10%)
 You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
 
 Here are some suggested resources to help you prepare:
-
-**AD0-E457 Adobe Audience Manager Business Practitioner**
 
 **Section 1: Segment creation and syndication**
 
@@ -155,7 +158,6 @@ Here are some suggested resources to help you prepare:
 >
 >IMPORTANT NOTE: The following sections and links will **only** function after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
 
-
 **Now that you have successfully logged in, the following links will be directly accessible.**
 
 **Take a practice test**
@@ -177,7 +179,7 @@ Adobe uses two vendors to administer proctored exams, PSI and Examity.
 
 To schedule, reschedule, or cancel your exam, simply click on the vendor of choice, and follow the instructions provided on screen. It's that simple!
 
-Exam number: AD0-E457
+### Exam number: AD0-E457
 
 [!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&ec=AD0-E457 newtab=true"} [!BADGE Examity]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E457 newtab=true"}
 

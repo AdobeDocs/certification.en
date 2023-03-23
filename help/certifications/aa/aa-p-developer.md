@@ -1,6 +1,6 @@
 ---
-title: Adobe Analytics Certification
-description: You have technical knowledge about audience segmentation, destination exports, and activation on real time basis for unified profiles that adhere to data and privacy regulations, customer data platforms (CDP) and knowledge of Adobe Experience Platform.
+title: Adobe Analytics Developer Professional Certification
+description: Learn how to become certified as an Adobe Analytics Developer professional.
 solution: Analytics
 role: Developer
 badge: label="Exam AD0-E213" type="positive"
