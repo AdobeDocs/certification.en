@@ -7,18 +7,24 @@ badge: label="Exam AD0-E212" type="positive"
 ---
 # Certification journey for Adobe Analytics Business Practitioner professional
 
-![Certification Professional Badge](/help/certifications/assets/professional-badge-Xsmall.png)
+Learn how to become a certified Analytics Business Practitioner professional.
 
->[!NOTE]
->
->Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
+## Minimum experience:
 
 You should have a minimum of 3 months of experience in Adobe Analytics and the following experience:
 
 * A marketing background or come from a marketing role but can come from a variety of job roles.
 * A basic familiarity with digital analytics metrics and dimensions.
-* The ablility to use Analytics to build reports and answer business questions, and communicate the results.
+* The ability to use Analytics to build reports and answer business questions, and communicate the results.
 * An understanding of basic digital analytics concepts—e.g. segmentation, report building, standard metric definitions.
+
+>[!NOTE]
+>
+>Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
+
+>[!BEGINTABS]
+
+>[!TAB Get ready]
 
 **Intended audience:**
 
@@ -46,15 +52,9 @@ Exam ID: AD0-E212
 
 ```
 
->[!BEGINTABS]
-
->[!TAB Get ready]
-
 **Readiness self-assessment**
 
 Complete the [online readiness questionnaire](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-w9tako/ad-q-e212-readiness-questionnaire-for-adobe-analytics-business-practitioner-professional-exam){target="_blank"} to see if your current experience matches the recommended minimum candidate qualification.
-
-**AD0-E212 Adobe Analytics Business Practitioner**
 
 **Exam objectives and scope**
 
@@ -101,8 +101,6 @@ The sample questions allow you to see the type and format of items that you will
 
 [See sample questions](https://scorpion.caveon.com/launchpad/ad0-e212-adobe-analytics-business-practitioner-professional-copy-th4xdu){target="_blank"}
 
-**AD0-E212 Adobe Analytics Business Practitioner**
-
 **Section 1: Business analysis**
 
 * [Analytics Tools Guide](https://experienceleague.adobe.com/docs/analytics/analyze/home.html?lang=en){target="_blank"} 
@@ -145,7 +143,7 @@ Adobe uses two vendors to administer proctored exams, PSI and Examity.
 
 To schedule, reschedule, or cancel your exam, simply click on the vendor of choice, and follow the instructions provided on screen. It's that simple!
 
-Exam number: AD0-E212
+### Exam number: AD0-E212
 
 [!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&ec=AD0-E212 newtab=true"} [!BADGE Examity]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E212 newtab=true"}
 

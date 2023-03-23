@@ -8,9 +8,11 @@ mini-toc-levels: 1
 ---
 # Certification journey for Adobe Analytics Business Practitioner expert
 
-Learn how to become certified as an Adobe Business Practitioner expert.
+Learn how to become a certified Analytics Business Practitioner expert.
 
-## You should have:
+## Minimum experience:
+
+You should have:
 
 * 2 years' experience in digital analytics with a marketing background 
 * An in-depth understanding of digital analytics metrics and dimensions
@@ -183,7 +185,7 @@ Adobe uses two vendors to administer proctored exams, PSI and Examity.
 
 To schedule, reschedule, or cancel your exam, simply click on the vendor of choice, and follow the instructions provided on screen. It's that simple!
 
-Exam number: AD0-E208
+### Exam number: AD0-E208
 
 [!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&ec=AD0-E208 newtab=true"} [!BADGE Examity]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E208 newtab=true"}
 

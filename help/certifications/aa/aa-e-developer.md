@@ -4,14 +4,13 @@ description: You have technical knowledge about audience segmentation, destinati
 solution: Analytics
 role: Developer
 badge: label="Exam AD0-E209" type="positive"
+mini-toc-levels: 1
 ---
 # Certification journey for Adobe Analytics Developer expert
 
-![Certification Expert Badge](/help/certifications/assets/expert-badge-Xsmall.png)
+Learn how to become a certified Adobe Analytics Developer expert.
 
->[!NOTE]
->
->Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
+## Minimum experience:
 
 You should have experience as an implementation consultant in a hybrid role with about 2 years' experience in Adobe Analytics implementation. You acts as the bridge between IT and the business, translate the business requirements into a technical solution (SDR), and based on requirements provided by the analyst, understand which type of variable is needed, where and how to collect the data, design the data model (data layer), configure and maintain the tag management solution. 
 
@@ -40,6 +39,14 @@ Environments:
 * The field of digital marketing
 * Minimal knowledge of backend development environments including PC, Mac, Android/iOS operating systems (basic operations, not development)
 
+>[!NOTE]
+>
+>Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
+
+>[!BEGINTABS]
+
+>[!TAB Get ready]
+
 **Intended audience:** 
 
 * Implementation Specialists/Engineers
@@ -59,12 +66,6 @@ Cost: $225 (global) and $150 (India)
 Exam ID: AD0-E209
 
 ```
-
->[!BEGINTABS]
-
->[!TAB Get ready]
-
-**AD0-E209 Adobe Analytics Developer**
 
 **Readiness self-assessment**
 
@@ -116,8 +117,6 @@ Section 6: Testing, validation, and troubleshooting (20%)
 You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
 
 Here are some suggested resources to help you prepare:
-
-**AD0-E209 Adobe Analytics Developer**
 
 **Section 1: Understanding Analytics in the Adobe Experience Cloud Ecosystem**
 
@@ -182,7 +181,7 @@ Adobe uses two vendors to administer proctored exams, PSI and Examity.
 
 To schedule, reschedule, or cancel your exam, simply click on the vendor of choice, and follow the instructions provided on screen. It's that simple!
 
-Exam number: AD0-E209
+### Exam number: AD0-E209
 
 [!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&ec=AD0-E209 newtab=true"} [!BADGE Examity]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E209 newtab=true"}
 

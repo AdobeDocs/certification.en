@@ -6,19 +6,16 @@ role: Developer
 badge: label="Exam AD0-E213" type="positive"
 ---
 # Certification journey for Adobe Analytics Developer professional
-    
-![Certification professional Badge](/help/certifications/assets/professional-badge-Xsmall.png)
 
->[!NOTE]
->
->Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
+Learn how to become a certified Analytics Developer professional.
 
+## Minimum experience:
 
 You should have:
 
 * 6-12 months' experience in Adobe Analytics implementation (web and mobile app)
 * Experience acting as a player supporting Analytics Implementation teams in bridging between IT and the business to understand how business requirements translate into a technical solution (SDR), and based on requirements provided by the analyst
-* Understaning of which type of variable is needed, where and how to collect the data, design the data model (data layer), configure, and maintain the tag management solution
+* Understanding of which type of variable is needed, where and how to collect the data, design the data model (data layer), configure, and maintain the tag management solution
 
 Experience with the following tasks:
 
@@ -33,6 +30,14 @@ Experience with the following tasks:
 * Understanding general framework behind Video tracking (event-based) given knowledge base documentation
 * Performing basic reporting from Analysis Workspace and understanding the data outputs available from the Adobe Analytics Data Warehouse
 * Basic experience with Adobe Experience Platform Launch (Adobe Launch) 
+
+>[!NOTE]
+>
+>Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
+
+>[!BEGINTABS]
+
+>[!TAB Get ready]
 
 **Intended audience:** 
 
@@ -52,12 +57,6 @@ Cost: $125 (global) and $950 (India)
 Exam ID: AD0-E213
 
 ```
-
->[!BEGINTABS]
-
->[!TAB Get ready]
-
-**AD0-E213 Adobe Analytics Developer**
 
 **Exam objectives and scope**
 
@@ -111,8 +110,6 @@ Here are some suggested resources to help you prepare:
 The sample questions allow you to see the type and format of items that you will encounter in the actual exam. There is no sign-on needed. The results of the sample questions are not stored, and do not predict your actual test results.
 
 [See sample questions](https://scorpion.caveon.com/launchpad/ad3-e213-adobe-analytics-developer-professional-sample-questions){target="_blank"}
-
-**AD0-E213 Adobe Analytics Developer**
 
 **Section 1: Analytics in the Adobe Experience Cloud ecosystem**
 
@@ -177,7 +174,7 @@ Adobe uses two vendors to administer proctored exams, PSI and Examity.
 
 To schedule, reschedule, or cancel your exam, simply click on the vendor of choice, and follow the instructions provided on screen. It's that simple!
 
-Exam number: AD0-E213
+### Exam number: AD0-E213
 
 [!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&ec=AD0-E213 newtab=true"} [!BADGE Examity]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E213 newtab=true"}
 

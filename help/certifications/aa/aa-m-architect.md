@@ -7,11 +7,9 @@ badge: label="Exam AD0-E207" type="positive"
 ---
 # Certification journey for Adobe Analytics Architect master
 
->[!NOTE]
->
->Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
+Learn how to become a certified Analytics Architect master.
 
-![Certification Master Badge](/help/certifications/assets/master-badge-Xsmall.png)
+## Minimum experience:
 
 You should have a minimum 3-4 years of experience designing Adobe Analytics architecture, data layer specifications, and tag management, as well as a basic understanding of JavaScript code. 
 
@@ -24,6 +22,14 @@ Additionally, you're responsible for translating business requirements into trac
 * Browser developer tools
 * Optimization tools
 * Code editors
+
+>[!NOTE]
+>
+>Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
+
+>[!BEGINTABS]
+
+>[!TAB Get ready]
 
 **Intended audience:**
 
@@ -46,12 +52,6 @@ Cost: $225 (global) / $150 (India)
 Exam ID: AD0-E207
 
 ```
-
->[!BEGINTABS]
-
->[!TAB Get ready]
-
-**AD0-E207 Adobe Analytics architect**
 
 **Exam objectives and scope**
 
@@ -89,8 +89,6 @@ Here are some suggested resources to help you prepare:
 The sample questions allow you to see the type and format of items that you will encounter in the actual exam. There is no sign-on needed. The results of the sample questions are not stored, and do not predict your actual test results.
 
 [See sample questions](https://scorpion.caveon.com/launchpad/ad0-e207-adobe-analytics-architect-master-copy-y9f8t1){target="_blank"}
-
-**AD0-E207 Adobe Analytics Architect**
 
 **Section 1: Discovery**
 
@@ -155,7 +153,7 @@ Adobe uses two vendors to administer proctored exams, PSI and Examity.
 
 To schedule, reschedule, or cancel your exam, simply click on the vendor of choice, and follow the instructions provided on screen. It's that simple!
 
-Exam number: AD0-E207
+### Exam number: AD0-E207
 
 [!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&ec=AD0-E207 newtab=true"} [!BADGE Examity]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E207 newtab=true"}
 
