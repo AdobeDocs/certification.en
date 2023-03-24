@@ -101,7 +101,7 @@ Section 5: Customization (26%)
 * Determine the correct method to design complex campaign templates and workflows
 * Determine the correct method to design solutions using additional modules
 
-## Get prepped
+>[!TAB Get prepped]
 
 You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
 
