@@ -1,17 +1,16 @@
 ---
-title: Adobe Campaign Standard Certification 
-description: Gain technical knowledge about audience segmentation, destination exports, and activation on real-time basis for unified profiles that adhere to data and privacy regulations, customer data platforms (CDP) and knowledge of Adobe Experience Platform.
+title: Adobe Campaign Standard Developer Expert Certification 
+description: Learn how to become a certified Adobe Developer expert.
 solution: Campaign Standard
 role: Developer
 badge: label="Exam AD0-E306" type="positive"
+mini-toc-levels: 1
 ---
 # Certification journey for Adobe Campaign Standard Developer expert
 
-![Certification Expert Badge](/help/certifications/assets/expert-badge-Xsmall.png)
+Learn how to become a certified Adobe Developer expert.
 
->[!NOTE]
->
->Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
+## Minimum experience:
 
 You should have:
 
@@ -33,6 +32,14 @@ You should have:
 * Experience with transactional messaging, and message delivery on multi-channels
 * Experience with managed packages
 
+>[!NOTE]
+>
+>Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
+
+>[!BEGINTABS]
+
+>[!TAB Get ready]
+
 **Intended audience:** 
 
 * Marketing automation administrator
@@ -50,16 +57,10 @@ Passing Score: 29/50
 Time: 100 mins
 Delivery: Online proctored (requires camera access) or test center proctored
 Available languages: English
-Cost: $225 (global) and $150 (India)
+Cost: $225 (global) / $150 (India)
 Exam ID: AD0-E306
 
 ```
-
->[!BEGINTABS]
-
->[!TAB Get ready]
-
-**AD0-E306 Adobe Campaign Standard Developer**
 
 **Readiness self-assessment**
 
@@ -101,8 +102,6 @@ Section 3: Administration (24%)
 >[!TAB Get prepped]
 
 You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
-
-**AD0-E306 Campaign Standard Developer**
 
 **Section 1: Data modeling and management**
 
@@ -171,7 +170,7 @@ Go to the [Adobe Certification Exam Prep Portal](https://www.certmetrics.com/ado
 Adobe uses two vendors to administer proctored exams: PSI and Examity. PSI offers two options for taking exams: test center and remote online, while Examity only offers the remote online option.
 To schedule, reschedule, or cancel your exam, simply click on the vendor of choice, and follow the instructions provided on screen. It's that simple!
 
-Exam number: AD0-E306
+### Exam number: AD0-E306
 
 * [PSI](https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&ec=AD0-E306){target="_blank"} (Modality: Test Center, remote online)
 * [Examity](https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E306){target="_blank"} (Modality: Remote online)

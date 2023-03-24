@@ -1,17 +1,16 @@
 ---
-title: Adobe Campaign Standard Certification 
-description: You have technical knowledge about audience segmentation, destination exports, and activation on real time basis for unified profiles that adhere to data and privacy regulations, customer data platforms (CDP) and knowledge of Adobe Experience Platform.
+title: Adobe Campaign Standard Business Practitioner Expert Certification 
+description: Learn how to become a certified Adobe Business Practitioner expert.
 solution: Campaign Standard
 role: Developer
 badge: label="Exam AD0-E307" type="positive"
+mini-toc-levels: 1
 ---
 # Certification journey for Adobe Campaign Standard Business Practitioner expert
 
-![Certification Expert Badge](/help/certifications/assets/expert-badge-Xsmall.png)
+Learn how to become a certified Adobe Business Practitioner expert.
 
->[!NOTE]
->
->Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
+## Minimum experience:
 
 You should have experience working in a channel delivery environment (email, direct mail, mobile, and social); familiarity with marketing campaign tactics such as multi-touch, life cycle, and reactivation; and an understanding of marketing metrics such as ROI, clickthrough rates, and conversion.
 
@@ -23,6 +22,14 @@ Additionally, you should have:
 * An understanding of how to build marketing workflows and work with the underlying data to launch marketing workflows
 * Experience configuring reports
 * An understanding of campaign delivery set up and approvals
+
+>[!NOTE]
+>
+>Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
+
+>[!BEGINTABS]
+
+>[!TAB Get ready]
 
 **Intended audience:** 
 
@@ -48,12 +55,6 @@ Cost: $225 (global) / $150 (India)
 Exam ID: AD0-E307
 
 ```
-
->[!BEGINTABS]
-
->[!TAB Get ready]
-
-**AD0-E307 Adobe Campaign Standard Business Practitioner**
 
 **Readiness self-assessment**
 
@@ -101,8 +102,6 @@ You are not required to complete training before taking the exam, and training a
 
 Here are some suggested resources to help you prepare:
 
-**AD0-E307 Adobe Campaign Standard Business Practitioner**
-
 **Section 1: Delivery management**
 
 * [Portfolio Management](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&topicId=Content%2FManage_work%2FPortfolios%2F_portfolio-management-overview.htm&_LANG=en){target="_blank"} 
@@ -145,7 +144,6 @@ Here are some suggested resources to help you prepare:
 >
 >IMPORTANT NOTE: The following sections and links will **only** function after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
 
-
 **Now that you have successfully logged in, the following links will be directly accessible.**
 
 **Take a practice test**
@@ -167,7 +165,7 @@ Adobe uses two vendors to administer proctored exams, PSI and Examity.
 
 To schedule, reschedule, or cancel your exam, simply click on the vendor of choice, and follow the instructions provided on screen. It's that simple!
 
-Exam number: AD0-E307
+### Exam number: AD0-E307
 
 [!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&ec=AD0-E307 newtab=true"} [!BADGE Examity]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E307 newtab=true"}
 

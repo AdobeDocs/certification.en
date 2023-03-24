@@ -1,6 +1,6 @@
 ---
-title: Adobe Customer Journey Analytics
-description: Learn how to manage your ACJA.
+title: Adobe Customer Journey Analytics Expert Certification
+description: Learn how to become a certified Adobe
 role: Developer
 badge: label="Exam AD0-EXXX" type="positive"
 mini-toc-levels: 1
@@ -9,17 +9,22 @@ hidefromtoc: yes
 
 # Certification journey for Adobe Customer Journey Analytics expert
 
-![Certification Expert Badge](/help/certifications/assets/expert-badge-Xsmall.png)
+Learn how to become a certified Adobe 
+
+## Minimum experience:
+
+You should have:
+
 
 >[!NOTE]
 >
 >Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
 
-You should have:
+>[!BEGINTABS]
 
+>[!TAB Get ready]
 
 **Intended audience:** 
-
 
 
 **Exam details:**
@@ -35,11 +40,6 @@ Exam ID:
 
 ```
 
->[!BEGINTABS]
-
->[!TAB Get ready]
-
-**AD0-EXXX Adobe Customer Journey Analytics**
 
 **Readiness self-assessment**
 
@@ -60,8 +60,6 @@ Section 4:
 You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
 
 Here are some suggested resources to help you prepare:
-
-**AD0-EXXX Adobe Customer Journey Analytics**
 
 **Section 1:**
 
@@ -107,7 +105,7 @@ Adobe uses two vendors to administer proctored exams, PSI and Examity.
 
 To schedule, reschedule, or cancel your exam, simply click on the vendor of choice, and follow the instructions provided on screen. It's that simple!
 
-Exam number: AD0-EXXX
+### Exam number: AD0-EXXX
 
 [!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&ec=AD0-E134 newtab=true"} [!BADGE Examity]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E134 newtab=true"}
 
