@@ -6,6 +6,7 @@ role: Architect
 badge: label="Exam AD0-E328" type="positive"
 mini-toc-levels: 1
 ---
+
 # Certification journey for Adobe Campaign Classic Architect master
 
 Learn how to become a certified Adobe Architect master.
