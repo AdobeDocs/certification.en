@@ -1,18 +1,16 @@
 ---
-title: Adobe Commerce Certification
-description: You have technical knowledge about audience segmentation, destination exports, and activation on real time basis for unified profiles that adhere to data and privacy regulations, customer data platforms (CDP) and knowledge of Adobe Experience Platform.
+title: Adobe Commerce Front-end Developer Professional Certification
+description: Learn how to become a certified Adobe Developer professional.
 solution: Commerce
 role: Developer
 badge: label="Exam AD0-E719" type="positive"
+mini-toc-levels: 1
 ---
-
 # Certification journey for Adobe Commerce Front-end Developer professional
 
-![Certification Professional Badge](/help/certifications/assets/professional-badge-Xsmall.png)
+Learn how to become a certified Adobe Developer professional.
 
->[!NOTE]
->
->Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
+## Minimum experience:
 
 You should have 0-12 months of hands-on experience with Adobe Commerce Front-end development and the ability to work with technical solutions to deliver individual components.
 
@@ -36,6 +34,14 @@ Additionally, you should exhibit knowledge of the following technologies:
 * Basic understanding of out-of-the-box SEO, optimization and performance techniques
 * Basic understanding of canonical links, as well as merging JavaScript and CSS
 
+>[!NOTE]
+>
+>Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
+
+>[!BEGINTABS]
+
+>[!TAB Get ready]
+
 **Intended audience:**
 
 * Developer
@@ -56,12 +62,6 @@ Exam ID: AD0-E719
 
 ```
 
->[!BEGINTABS]
-
->[!TAB Get ready]
-
-**AD0-E719 Adobe Commerce Front-end Developer**
-
 **Exam objectives and scope**
 
 Section 1: Theme management (Theme hierarchy, image configuration, translations) (14%)
@@ -70,7 +70,7 @@ Section 1: Theme management (Theme hierarchy, image configuration, translations)
 * Demonstrate ability to create new or extend existing themes
 * Demonstrate ability to add custom translation phrases
 
-Section 2: Layout XML & Templates (28%)
+Section 2: Layout XML & templates (28%)
 
 * Demonstrate the ability to work with basic layout XML instructions
 * Demonstrate the ability to use existing page layouts
@@ -119,15 +119,13 @@ The sample questions allow you to see the type and format of items that you will
 
 [See sample questions](https://scorpion.caveon.com/launchpad/ad0-e719-adobe-commerce-front-end-developer-professional-copy-cmkmys){target="_blank"}
 
-**AD0-E719 Adobe Commerce Front-end Developer**
-
 **Section 1: Theme management (Theme hierarchy, image configuration, translations)**
 
 * [Themes](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/themes/theme-overview.html){target="_blank"} 
 * [Command line tool](https://devdocs.magento.com/guides/v2.4/config-guide/cli/config-cli.html){target="_blank"} 
 * [Translations](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/translations/xlate.html){target="_blank"} 
 
-**Section 2: Layout XML & templatess**
+**Section 2: Layout XML & templates**
 
 * [Layout](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/layouts/layout-overview.html){target="_blank"} 
 * [Themes](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/themes/theme-overview.html){target="_blank"} 
@@ -137,36 +135,36 @@ The sample questions allow you to see the type and format of items that you will
 **Section 3: Styles**
 
 * [Variables](https://lesscss.org/features/#features-overview-feature){target="_blank"} 
-* [Responsive web design](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/responsive-web-design/rwd_overview.html)){target="_blank"}
-* [Cascading style sheets (CSS)](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/css-topics/css-overview.html)){target="_blank"}
-* [Quickstart](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/css-guide/css_quick_guide_overview.html)){target="_blank"}
-* [Frontend Developer Guide](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/bk-frontend-dev-guide.html)){target="_blank"}
-* [Themes](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/themes/theme-overview.html)){target="_blank"}
-* [What is Page Builder?](https://devdocs.magento.com/page-builder/docs/)){target="_blank"}
+* [Responsive web design](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/responsive-web-design/rwd_overview.html){target="_blank"}
+* [Cascading style sheets (CSS)](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/css-topics/css-overview.html){target="_blank"}
+* [Quickstart](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/css-guide/css_quick_guide_overview.html){target="_blank"}
+* [Frontend Developer Guide](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/bk-frontend-dev-guide.html){target="_blank"}
+* [Themes](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/themes/theme-overview.html){target="_blank"}
+* [What is Page Builder?](https://devdocs.magento.com/page-builder/docs/){target="_blank"}
 
 **Section 4: JavaScript**
 
-* [JavaScript](https://devdocs.magento.com/guides/v2.4/javascript-dev-guide/javascript/js_overview.html)){target="_blank"}
-* [Translations](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/translations/xlate.html)){target="_blank"}
-* [Introduction to UI components](https://devdocs.magento.com/guides/v2.4/ui_comp_guide/bk-ui_comps.html)){target="_blank"}
-* [Introduction to JavaScript](https://devdocs.magento.com/guides/v2.4/javascript-dev-guide/bk-javascript-dev-guide.html)){target="_blank"}
-* [jQuery widgets](https://devdocs.magento.com/guides/v2.4/javascript-dev-guide/widgets/jquery-widgets-about.html)){target="_blank"}
+* [JavaScript](https://devdocs.magento.com/guides/v2.4/javascript-dev-guide/javascript/js_overview.html){target="_blank"}
+* [Translations](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/translations/xlate.html){target="_blank"}
+* [Introduction to UI components](https://devdocs.magento.com/guides/v2.4/ui_comp_guide/bk-ui_comps.html){target="_blank"}
+* [Introduction to JavaScript](https://devdocs.magento.com/guides/v2.4/javascript-dev-guide/bk-javascript-dev-guide.html){target="_blank"}
+* [jQuery widgets](https://devdocs.magento.com/guides/v2.4/javascript-dev-guide/widgets/jquery-widgets-about.html){target="_blank"}
 
 **Section 5: Admin configuration and pagebuilder**
 
-* [Configuration Reference Guide](https://docs.magento.com/user-guide/configuration/general.html)){target="_blank"}
-* [Introduction to Page Builder](https://docs.magento.com/user-guide/cms/page-builder.html)){target="_blank"}
-* [Walkthrough Part 1: Simple Page](https://docs.magento.com/user-guide/cms/page-builder-learn.html)){target="_blank"}
-* [Themes](https://docs.magento.com/user-guide/design/themes.html)){target="_blank"}
-* [Categories overview](https://docs.magento.com/user-guide/catalog/categories.html)){target="_blank"}
-* [Design](https://docs.magento.com/user-guide/design/design-theme.html)){target="_blank"}
-* [Templates](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/templates/template-overview.html)){target="_blank"}
+* [Configuration Reference Guide](https://docs.magento.com/user-guide/configuration/general.html){target="_blank"}
+* [Introduction to Page Builder](https://docs.magento.com/user-guide/cms/page-builder.html){target="_blank"}
+* [Walkthrough Part 1: Simple Page](https://docs.magento.com/user-guide/cms/page-builder-learn.html){target="_blank"}
+* [Themes](https://docs.magento.com/user-guide/design/themes.html){target="_blank"}
+* [Categories overview](https://docs.magento.com/user-guide/catalog/categories.html){target="_blank"}
+* [Design](https://docs.magento.com/user-guide/design/design-theme.html){target="_blank"}
+* [Templates](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/templates/template-overview.html){target="_blank"}
 
 **Section 6: Tools (CLI and Grunt)**
 
-* [Command-line configuration](https://devdocs.magento.com/guides/v2.4/config-guide/cli/config-cli.html)){target="_blank"}
-* [Overview of store options and configuration management](https://devdocs.magento.com/cloud/configure/configuration-overview.html)){target="_blank"}
-* [Overview of initialization and bootstrap](https://devdocs.magento.com/guides/v2.4/config-guide/bootstrap/magento-bootstrap.html)){target="_blank"}
+* [Command-line configuration](https://devdocs.magento.com/guides/v2.4/config-guide/cli/config-cli.html){target="_blank"}
+* [Overview of store options and configuration management](https://devdocs.magento.com/cloud/configure/configuration-overview.html){target="_blank"}
+* [Overview of initialization and bootstrap](https://devdocs.magento.com/guides/v2.4/config-guide/bootstrap/magento-bootstrap.html){target="_blank"}
 
 >[!TAB Get certified]
 
@@ -186,7 +184,7 @@ Adobe uses two vendors to administer proctored exams, PSI and Examity.
 
 To schedule, reschedule, or cancel your exam, simply click on the vendor of choice, and follow the instructions provided on screen. It's that simple!
 
-Exam number: AD0-E719
+### Exam number: AD0-E719
 
 [!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&ec=AD0-E719 newtab=true"} [!BADGE Examity]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E719 newtab=true"}
 

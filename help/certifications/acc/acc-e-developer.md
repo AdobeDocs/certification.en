@@ -1,17 +1,16 @@
 ---
-title: Adobe Campaign Classic Certification
-description: You have technical knowledge about audience segmentation, destination exports, and activation on real time basis for unified profiles that adhere to data and privacy regulations, customer data platforms (CDP) and knowledge of Adobe Experience Platform.
+title: Adobe Campaign Classic Developer Expert Certification
+description: Learn how to become a certified Adobe Developer expert.
 solution: Campaign Classic
 role: Developer
 badge: label="Exam AD0-E330" type="positive"
+mini-toc-levels: 1
 ---
 # Certification journey for Adobe Campaign Classic Developer expert
 
-![Certification Expert Badge](/help/certifications/assets/expert-badge-Xsmall.png)
+Learn how to become a certified Adobe Developer expert.
 
->[!NOTE]
->
->Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
+## Minimum experience:
 
 You should have:
 
@@ -23,13 +22,21 @@ You should have:
 * Ability to troubleshoot Campaign implementations
 * Basic understanding of server configurations related to Campaign
 
+>[!NOTE]
+>
+>Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
+
+>[!BEGINTABS]
+
+>[!TAB Get ready]
+
 **Intended audience:** 
 
 * Technical consultant
 * Marketing technology engineer
 * Campaign Classic developer
 
-**Exam details - Adobe Campaign Classic Developer**
+**Exam details**
   
 ```
 Level: Expert (1-3 years experience)
@@ -41,12 +48,6 @@ Cost: $225 (global) / $150 (India)
 Exam ID: AD0-E330
 
 ```
-
->[!BEGINTABS]
-
->[!TAB Get ready]
-
-**AD0-E330 Adobe Campaign Classic Developer**
 
 **Readiness self-assessment**
 
@@ -112,8 +113,6 @@ You are not required to complete training before taking the exam, and training a
 
 Here are some suggested resources to help you prepare:
 
-**AD0-E330 Adobe Campaign Classic Developer**
-
 **Section 1: System configuration**
 
 * [Add resource](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html?lang=en){target="_blank"}
@@ -169,7 +168,7 @@ Adobe uses two vendors to administer proctored exams, PSI and Examity.
 
 To schedule, reschedule, or cancel your exam, simply click on the vendor of choice, and follow the instructions provided on screen. It's that simple!
 
-Exam number: AD0-E330
+### Exam number: AD0-E330
 
 [!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&ec=AD0-E330 newtab=true"} [!BADGE Examity]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E330 newtab=true"}
 

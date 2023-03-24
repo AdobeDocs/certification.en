@@ -1,17 +1,16 @@
 ---
-title: Adobe Campaign Classic Certification
-description: You have technical knowledge about audience segmentation, destination exports, and activation on real time basis for unified profiles that adhere to data and privacy regulations, customer data platforms (CDP) and knowledge of Adobe Experience Platform.
+title: Adobe Campaign Classic Developer Professional Certification
+description: Learn how to become a certified Adobe Developer professional.
 solution: Campaign Classic
 role: Developer
 badge: label="Exam AD0-E331" type="positive"
+mini-toc-levels: 1
 ---
 # Certification journey for Adobe Campaign Classic Developer professional
 
-![Certification Professional Badge](/help/certifications/assets/professional-badge-Xsmall.png)
+Learn how to become a certified Adobe Developer professional.
 
->[!NOTE]
->
->Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
+## Minimum experience:
 
 You should have:
 
@@ -19,6 +18,14 @@ You should have:
 * At least one year of combined experience in JavaScript programming, SQL development including ETL, and web technologies (XML, HTML and web services)
 * A basic understanding of marketing automation
 * An understanding relational database concepts
+
+>[!NOTE]
+>
+>Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
+
+>[!BEGINTABS]
+
+>[!TAB Get ready]
 
 **Intended audience:**
 
@@ -39,12 +46,6 @@ Cost: $125 (global) / $95 (India)
 Exam ID: AD0-E331
 
 ```
-
->[!BEGINTABS]
-
->[!TAB Get ready]
-
-**AD0-E331 Adobe Campaign Classic Developer**
 
 **Readiness self-assessment**
 
@@ -128,8 +129,6 @@ The sample questions allow you to see the type and format of items that you will
 
 [See sample questions](https://scorpion.caveon.com/launchpad/ad0-e331-adobe-campaign-classic-developer-professional-copy-ixmxw7){target="_blank"}
 
-**AD0-E331 Adobe Campaign Classic Developer**
-
 **Section 1: System configuration**
 
 * [Data schemas](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/editing-schemas/data-schemas.html?lang=en){target="_blank"}
@@ -196,7 +195,7 @@ Adobe uses two vendors to administer proctored exams, PSI and Examity.
 
 To schedule, reschedule, or cancel your exam, simply click on the vendor of choice, and follow the instructions provided on screen. It's that simple!
 
-Exam number: AD0-E331
+### Exam number: AD0-E331
 
 [!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&ec=AD0-E331 newtab=true"} [!BADGE Examity]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E331 newtab=true"}
 

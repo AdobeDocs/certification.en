@@ -1,17 +1,16 @@
 ---
-title: Adobe Campaign Classic Certification
-description: You have technical knowledge about audience segmentation, destination exports, and activation on real time basis for unified profiles that adhere to data and privacy regulations, customer data platforms (CDP) and knowledge of Adobe Experience Platform.
+title: Adobe Campaign Classic Business Practitioner Professional Certification
+description: Learn how to become a certified Adobe Business Practitioner professional.
 solution: Campaign Classic
 role: Developer
 badge: label="Exam AD0-E329" type="positive"
+mini-toc-levels: 1
 ---
 # Certification journey for Adobe Campaign Classic Business Practitioner professional
 
-![Certification Professional Badge](/help/certifications/assets/professional-badge-Xsmall.png)
+Learn how to become a certified Adobe Business Practitioner professional.
 
->[!NOTE]
->
->Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
+## Minimum experience:
 
 You should have:
 
@@ -28,6 +27,14 @@ You should have:
 * An understanding of basic relational databases and of targeting queries in a campaign
 * Experience with basic HTML and personalization
 * Subscription service management (opt in/opt out)
+
+>[!NOTE]
+>
+>Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
+
+>[!BEGINTABS]
+
+>[!TAB Get ready]
 
 **Intended audience:**
 
@@ -51,12 +58,6 @@ Cost: $125 (global) / $95 (India)
 Exam ID: AD0-E329
 
 ```
-
->[!BEGINTABS]
-
->[!TAB Get ready]
-
-**AD0-E329 Adobe Campaign Classic Business Practitioner**
 
 **Readiness self-assessment**
 
@@ -122,8 +123,6 @@ The sample questions allow you to see the type and format of items that you will
 
 [See sample questions](https://scorpion.caveon.com/launchpad/ad0-e329-adobe-campaign-classic-business-practitioner-professional-copy-k5cx2p){target="_blank"}
 
-**AD0-E329 Adobe Campaign Classic Business Practitioner**
-
 **Section 1: Build a Campaign**
 
 * [Add resources](https://one.workfront.com/s/document-item?bundleId=workfront-classic&topicId=Content%2FWorkfront_basics%2FUsing_Notifications%2F_use-notifications.htm&_LANG=en){target="_blank"}
@@ -165,7 +164,7 @@ Adobe uses two vendors to administer proctored exams, PSI and Examity.
 
 To schedule, reschedule, or cancel your exam, simply click on the vendor of choice, and follow the instructions provided on screen. It's that simple!
 
-Exam number: AD0-E329
+### Exam number: AD0-E329
 
 [!BADGE Examity]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E329 newtab=true"}
 
