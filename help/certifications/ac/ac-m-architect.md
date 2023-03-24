@@ -1,17 +1,16 @@
 ---
-title: Adobe Commerce Certification
-description: You have technical knowledge about audience segmentation, destination exports, and activation on real time basis for unified profiles that adhere to data and privacy regulations, customer data platforms (CDP) and knowledge of Adobe Experience Platform.
+title: Adobe Commerce Architect Master Certification
+description: Learn how to become a certified Adobe Architect master.
 solution: Commerce
 role: Developer
 badge: label="Exam AD0-E718" type="positive"
+mini-toc-levels: 1
 ---
 # Certification journey for Adobe Commerce Architect master
 
-![Certification Master Badge](/help/certifications/assets/master-badge-Xsmall.png)
+Learn how to become a certified Adobe Architect master.
 
->[!NOTE]
->
->Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
+## Minimum experience:
 
 You should have at least 1 year experience leading Commerce development projects and are able to design, integrate, implement, and explain solutions to business problems by utilizing Adobe Commerce along with associated services.
 
@@ -43,6 +42,14 @@ Additionally, you should be very familiar with the following activities and tech
 * Creating and modifying B2B
 * AMQP protocol and adapters in Adobe Commerce (S3)
 
+>[!NOTE]
+>
+>Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
+
+>[!BEGINTABS]
+
+>[!TAB Get ready]
+
 **Intended audience:**
 
 * Lead Software/Commerce Architect
@@ -69,12 +76,6 @@ Cost: $225 (global) / $150 (India)
 Exam ID: AD0-E718
 
 ```
-
->[!BEGINTABS]
-
->[!TAB Get ready]
-
-**AD0-E718 Adobe Commerce Architect**
 
 **Readiness self-assessment**
 
@@ -122,8 +123,6 @@ Here are some suggested resources to help you prepare:
 The sample questions allow you to see the type and format of items that you will encounter in the actual exam. There is no sign-on needed. The results of the sample questions are not stored, and do not predict your actual test results.
 
 [See sample questions](https://scorpion.caveon.com/launchpad/ad0-e718-adobe-commerce-architect-master-copy-kzcvh7){target="_blank"}
-
-**AD0-E718 Adobe Commerce Architect**
 
 **Section 1: Design**
 
@@ -174,7 +173,7 @@ Adobe uses two vendors to administer proctored exams, PSI and Examity.
 
 To schedule, reschedule, or cancel your exam, simply click on the vendor of choice, and follow the instructions provided on screen. It's that simple!
 
-Exam number: AD0-E718
+### Exam number: AD0-E718
 
 [!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&ec=AD0-E718 newtab=true"} [!BADGE Examity]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E718 newtab=true"}
 

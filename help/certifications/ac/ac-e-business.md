@@ -1,17 +1,16 @@
 ---
-title: Adobe Commerce Certification
-description: You have technical knowledge about audience segmentation, destination exports, and activation on real time basis for unified profiles that adhere to data and privacy regulations, customer data platforms (CDP) and knowledge of Adobe Experience Platform.
+title: Adobe Commerce Business Practitioner Expert Certification
+description: Learn how to become a certified as an Adobe Business Practitioner expert.
 solution: Commerce
 role: Developer
 badge: label="Exam AD0-E708" type="positive"
+mini-toc-levels: 1
 ---
 # Certification journey for Adobe Commerce Business Practitioner expert
 
-![Certification Expert Badge](/help/certifications/assets/expert-badge-Xsmall.png)
+Learn how to become a certified Adobe Business Practitioner expert.
 
->[!NOTE]
->
->Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
+## Minimum experience:
 
 You should have approximately 3 years of hands-on Commerce experience and a broad understanding of the e-commerce experience. 
 
@@ -31,6 +30,14 @@ And, you should be comfortable using the following technologies:
 * Analytics and performance tools: Google Analytics, tag manager, SWAT, New Relic, Fastly, Google Lighthouse
 * Security tools: PCI compliance, ADA, GDPR, etc.
 * Cloud or on-premise architecture
+
+>[!NOTE]
+>
+>Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
+
+>[!BEGINTABS]
+
+>[!TAB Get ready]
 
 **Intended audience:** 
 
@@ -55,12 +62,6 @@ Cost: $225 (global) / $150 (India)
 Exam ID: AD0-E708
 
 ```
-
->[!BEGINTABS]
-
->[!TAB Get ready]
-
-**AD0-E708 Adobe Commerce Business Practitioner**
 
 **Readiness self-assessment**
 
@@ -122,8 +123,6 @@ Section 6: Compliance/Security (12%)
 >[!TAB Get prepped]
 
 You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
-
-**AD0-E708 Adobe Commerce Business Practitioner**
 
 **Section 1: Core features/general configuration**
 
@@ -210,7 +209,6 @@ You are not required to complete training before taking the exam, and training a
 >
 >IMPORTANT NOTE: The following sections and links will **only** function after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
 
-
 **Now that you have successfully logged in, the following links will be directly accessible.**
 
 **Take a practice test**
@@ -232,7 +230,7 @@ Adobe uses two vendors to administer proctored exams, PSI and Examity.
 
 To schedule, reschedule, or cancel your exam, simply click on the vendor of choice, and follow the instructions provided on screen. It's that simple!
 
-Exam number: AD0-E708
+### Exam number: AD0-E708
 
 [!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&ec=AD0-E708 newtab=true"} [!BADGE Examity]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E708 newtab=true"}
 

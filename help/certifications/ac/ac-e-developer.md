@@ -1,17 +1,16 @@
 ---
-title: Adobe Commerce Certification
-description: You have technical knowledge about audience segmentation, destination exports, and activation on real time basis for unified profiles that adhere to data and privacy regulations, customer data platforms (CDP) and knowledge of Adobe Experience Platform.
+title: Adobe Commerce Developer Expert Certification
+description: Learn how to become a certified Adobe Developer expert.
 solution: Commerce
 role: Developer
 badge: label="Exam AD0-E716" type="positive"
+mini-toc-levels: 1
 ---
 # Certification journey for Adobe Commerce Developer expert
 
-![Certification Expert Badge](/help/certifications/assets/expert-badge-Xsmall.png)
-    
->[!NOTE]
->
->Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
+Learn how to become a certified Adobe Developer expert.
+
+## Minimum experience:
 
 You should have at least 2 years of experience with Adobe Commerce Development and you're familiar with the following technologies and environments:
 
@@ -25,6 +24,14 @@ You should have at least 2 years of experience with Adobe Commerce Development a
 * API validation tools, API client tools (Postman)
 * Version control software such as Git
 * Cloud Architecture
+
+>[!NOTE]
+>
+>Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
+
+>[!BEGINTABS]
+
+>[!TAB Get ready]
 
 **Intended audience:** 
 
@@ -47,12 +54,6 @@ Cost: $225 (global) / $150 (India)
 Exam ID: AD0-E716
 
 ```
-
->[!BEGINTABS]
-
->[!TAB Get ready]
-
-**AD0-E716 Adobe Commerce Developer**
 
 **Readiness self-assessment**
 
@@ -149,8 +150,6 @@ Section 9: Commerce Cloud CLI tool (managing part) (6%)
 You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
 
 Here are some suggested resources to help you prepare:
-
-**AD0-E716 Adobe Commerce Developer**
 
 **Section 1: Adobe Commerce architecture and customization techniques**
 
@@ -295,7 +294,7 @@ Adobe uses two vendors to administer proctored exams, PSI and Examity.
 
 To schedule, reschedule, or cancel your exam, simply click on the vendor of choice, and follow the instructions provided on screen. It's that simple!
 
-Exam number: AD0-E716
+### Exam number: AD0-E716
 
 [!BADGE Examity]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E716 newtab=true"}
 

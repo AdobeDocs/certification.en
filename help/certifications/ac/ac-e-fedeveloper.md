@@ -1,17 +1,16 @@
 ---
-title: Adobe Commerce Certification
-description: You have technical knowledge about audience segmentation, destination exports, and activation on real time basis for unified profiles that adhere to data and privacy regulations, customer data platforms (CDP) and knowledge of Adobe Experience Platform.
+title: Adobe Commerce Commerce Front-End Developer Expert Certification
+description: Learn how to become a certified Adobe Developer expert.
 solution: Commerce
 role: Developer
 badge: label="Exam AD0-E710" type="positive"
+mini-toc-levels: 1
 ---
 # Certification journey for Adobe Commerce Front-End Developer expert
 
-![Certification Expert Badge](/help/certifications/assets/expert-badge-Xsmall.png)
+Learn how to become a certified Adobe Developer expert.
 
->[!NOTE]
->
->Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
+## Minimum experience:
 
 You should have at least 3-5 years of hands-on experience with Adobe Commerce Frontend development, and have the ability to translate the needs expressed by task requirements into a technical solution.
 
@@ -31,6 +30,14 @@ Additionally, you should be comfortable using the following technologies:
 * Understanding code packages
 * Implement translation
 * Understanding how to work with email templates
+
+>[!NOTE]
+>
+>Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
+
+>[!BEGINTABS]
+
+>[!TAB Get ready]
 
 **Intended audience:** 
 
@@ -54,12 +61,6 @@ Exam ID: AD0-E710
 
 ```
 
->[!BEGINTABS]
-
->[!TAB Get ready]
-
-**AD0-E710 Adobe Commerce Frontend Developer**
-
 **Readiness self-assessment**
 
 Complete the [online readiness questionnaire](https://scorpion.caveon.com/launchpad/ad0-e710-adobe-commerce-front-end-developer-expert-copy-jtnjz6){target="_blank"} to see if your current experience matches the recommended minimum candidate qualification.
@@ -69,7 +70,7 @@ Complete the [online readiness questionnaire](https://scorpion.caveon.com/launch
 Section 1: Theme management (Theme hierarchy, image configuration, translations) (16%)
 
 * Describe Adobe Commerce theme folder structure and how it relates to folder based themes
-* Demonstrate the ability to create a new theme (Inheritence/Fallbacks, design exeptions, theme properties)
+* Demonstrate the ability to create a new theme (Inheritance/Fallbacks, design exceptions, theme properties)
 * Demonstrate ability to extend existing themes
 * Demonstrate ability to customize transactional emails
 * Demonstrate ability to apply translations
@@ -128,8 +129,6 @@ Section 6: Tools (CLI and Grunt) (8%)
 You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
 
 Here are some suggested resources to help you prepare:
-
-**AD0-E710 Adobe Commerce Frontend Developer**
 
 **Section 1: Theme management (Theme hierarchy, image configuration, translations)**
 
@@ -208,7 +207,6 @@ Here are some suggested resources to help you prepare:
 >
 >IMPORTANT NOTE: The following sections and links will **only** function after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
 
-
 **Now that you have successfully logged in, the following links will be directly accessible.**
 
 **Take a practice test**
@@ -230,7 +228,7 @@ Adobe uses two vendors to administer proctored exams, PSI and Examity.
 
 To schedule, reschedule, or cancel your exam, simply click on the vendor of choice, and follow the instructions provided on screen. It's that simple!
 
-Exam number: AD0-E710
+### Exam number: AD0-E710
 
 [!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&ec=AD0-E710 newtab=true"} [!BADGE Examity]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E710 newtab=true"}
 

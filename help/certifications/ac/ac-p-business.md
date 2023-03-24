@@ -1,17 +1,16 @@
 ---
-title: Adobe Commerce Certification
-description: You have technical knowledge about audience segmentation, destination exports, and activation on real time basis for unified profiles that adhere to data and privacy regulations, customer data platforms (CDP) and knowledge of Adobe Experience Platform.
+title: Adobe Commerce Commerce Business Practitioner Professional Certification
+description: Learn how to become a certified Adobe Business Practitioner Professional.
 solution: Commerce
 role: Developer
 badge: label="Exam AD0-E712" type="positive"
+mini-toc-levels: 1
 ---
 # Certification journey for Adobe Commerce Business Practitioner professional
 
-![Certification Professional Badge](/help/certifications/assets/professional-badge-Xsmall.png)
+Learn how to become a certified Adobe Business Practitioner Professional.
 
->[!NOTE]
->
->Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
+## Minimum experience:
 
 You should have a minimum of 6 months hands-on experience with Magento Open Source version 2.4.3 using the LUMA or BLANK theme and basic understanding of Adobe Commerce version 2.4.3. 
 
@@ -25,6 +24,14 @@ Additionally, you should have a basic understanding of the eCommerce experience,
 * Magento Marketplace and third-party extensions
 * Security and compliance (GDPR, ADA, PCI DSS v3.2.1, PSD2)
 * Pricing and promotion
+
+>[!NOTE]
+>
+>Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
+
+>[!BEGINTABS]
+
+>[!TAB Get ready]
 
 **Intended audience:**
 
@@ -50,12 +57,6 @@ Cost: $125 (global) / $95 (India)
 Exam ID: AD0-E712
 
 ```
-
->[!BEGINTABS]
-
->[!TAB Get ready]
-
-**AD0-E712 Adobe Commerce Business Practitioner**
 
 **Readiness self-assessment**
 
@@ -105,8 +106,6 @@ Here are some suggested resources to help you prepare:
 The sample questions allow you to see the type and format of items that you will encounter in the actual exam. There is no sign-on needed. The results of the sample questions are not stored, and do not predict your actual test results.
 
 [See sample questions](https://scorpion.caveon.com/launchpad/ad0-e712-adobe-commerce-business-practitioner-professional-copy-bujt66){target="_blank"}
-
-**AD0-E712 Adobe Commerce Business Practitioner**
 
 **Section 1: Magento open source core feature**
 
@@ -186,7 +185,7 @@ Adobe uses two vendors to administer proctored exams, PSI and Examity.
 
 To schedule, reschedule, or cancel your exam, simply click on the vendor of choice, and follow the instructions provided on screen. It's that simple!
 
-Exam number: AD0-E712
+### Exam number: AD0-E712
 
 [!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&ec=AD0-E712 newtab=true"} [!BADGE Examity]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E712 newtab=true"}
 
