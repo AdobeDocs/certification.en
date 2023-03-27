@@ -96,11 +96,18 @@ Here are some suggested resources to help you prepare:
 **Section 1: Setting up campaigns**
 
 
-* [Add resource](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/home.html?lang=en){target="_blank"} 
+* [About Audience Management in Advertising DSP](https://experienceleague.adobe.com/docs/advertising/dsp/audiences/audience-about.html?lang=en){target="_blank"}
+* [Overview of Inventory Features in Advertising DSP](https://experienceleague.adobe.com/docs/advertising/dsp/inventory/inventory-overview.html?lang=en){target="_blank"}
+* [Campaign Settings](https://experienceleague.adobe.com/docs/advertising/dsp/campaign-management/campaigns/campaign-settings.html?lang=en){target="_blank"}
+* [Placement Settings](https://experienceleague.adobe.com/docs/advertising/dsp/campaign-management/placements/placement-settings.html?lang=en){target="_blank"}
 
 **Section 2: Running and optimizing campaigns**
 
-* [Add resource](https://experienceleague.adobe.com/docs/experience-manager-65/developing/components/components-basics.html?lang=en){target="_blank"}
+* [How Advertising DSP Optimizes Your Campaigns](https://experienceleague.adobe.com/docs/advertising/dsp/optimization/optimization-how-dsp-optimizes-campaigns.html?lang=en){target="_blank"}
+* [About Custom Goals](https://experienceleague.adobe.com/docs/advertising/dsp/optimization/custom-goals/custom-goal-about.html?lang=en){target="_blank"}
+* [Best Practices for Setting up Performance Campaigns](https://experienceleague.adobe.com/docs/advertising/dsp/optimization/campaign-best-practices-performance.html?lang=en){target="_blank"}
+* [About On Demand Premium Inventory](https://experienceleague.adobe.com/docs/advertising/dsp/inventory/on-demand/on-demand-inventory-about.html?lang=en){target="_blank"}
+* [Reporting with Advertising Marketing Channels](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/integrations/ad-cloud/reporting-with-advertising-cloud-marketing-channels.html?lang=en){target="_blank"}
 
 **Section 3: Reporting and analyzing**
 
@@ -108,7 +115,8 @@ Here are some suggested resources to help you prepare:
 
 **Section 4: Supplying recommendations for campaigns**
 
-* [Add resource](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/admin-tools/brand-portal-adding-users.html?lang=en#add-a-user){target="_blank"}
+* [How Advertising DSP Optimizes Your Campaigns](https://experienceleague.adobe.com/docs/advertising/dsp/optimization/optimization-how-dsp-optimizes-campaigns.html?lang=en){target="_blank"}
+* [About Ad Management in Advertising DSP](https://experienceleague.adobe.com/docs/advertising/dsp/campaign-management/ads/ad-about.html?lang=en){target="_blank"}
 
 >[!TAB Get certified]
 
