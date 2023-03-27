@@ -115,37 +115,64 @@ Here are some suggested resources to help you prepare:
 
 **Section 1: System configuration**
 
-* [Add resource](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html?lang=en){target="_blank"}
+* [Campaign Classic v7 Documentation](https://experienceleague.adobe.com/docs/campaign-classic/using/campaign-classic-home.html?lang=en){target="_blank"}
+* [Get started with transactional messaging](https://experienceleague.adobe.com/docs/campaign-classic/using/transactional-messaging/about-transactional-messaging.html?lang=en){target="_blank"}
+* [General architecture](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/architecture-and-hosting-models/general-architecture.html?lang=en){target="_blank"}
+* [Get started with Adobe Campaign integrations](https://experienceleague.adobe.com/docs/campaign-classic/using/integrating-with-adobe-experience-cloud/about-campaign-integrations.html?lang=en){target="_blank"}
+* [Design and execute marketing campaigns](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/about-marketing-campaigns/designing-marketing-campaigns.html?lang=en){target="_blank"}
+* [General architecture](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/architecture-and-hosting-models/general-architecture.html?lang=en){target="_blank"}
+* [Filtering options](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/filtering-data/filtering-options.html?lang=en){target="_blank"}
+* [Workflow properties](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/advanced-management/workflow-properties.html?lang=en){target="_blank"}
 
 **Section 2: Customization**
 
-* [Add resource](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html?lang=en){target="_blank"}
+* [About schema reference](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/schema-reference/about-schema-reference.html?lang=en){target="_blank"}
+* [Design and execute marketing campaigns](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/about-marketing-campaigns/designing-marketing-campaigns.html?lang=en){target="_blank"}
+* [About web services](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/api/about-web-services.html?lang=en){target="_blank"}
+* [Design and execute marketing campaigns](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/about-marketing-campaigns/designing-marketing-campaigns.html?lang=en){target="_blank"}
+* [Action activities in workflows](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/action-activities/about-action-activities.html?lang=en){target="_blank"}
+* [Get started with workflows](https://experienceleague.adobe.com/docs/campaign/automation/workflows/introduction/about-workflows.html?lang=en){target="_blank"}
 
 **Section 3: Access management**
 
-* [Add resource](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html?lang=en){target="_blank"}understanding-revenue-models.html?lang=en){target="_blank"}
-
+* [Get started with permissions](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management.html?lang=en){target="_blank"}
+* [Key features](https://experienceleague.adobe.com/docs/control-panel/using/discover-control-panel/key-features.html?lang=en){target="_blank"}
+* [Monitor server capacity](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/sftp-management/monitor-server-capacity.html?lang=en){target="_blank"}
+* [About schema edition](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/editing-schemas/about-schema-edition.html?lang=en){target="_blank"}
 
 **Section 4: Data integration**
 
-* [Add resource](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html?lang=en){target="_blank"}
-
+* [External accounts](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/accessing-external-database/external-accounts.html?lang=en){target="_blank"}
+* [Campaign FFDA deployment](https://experienceleague.adobe.com/docs/campaign/campaign-v8/config/architecture/ffda/enterprise-deployment.html?lang=en){target="_blank"}
+* [Get started with data import and export](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/importing-and-exporting-data/get-started-data-import-export.html?lang=en){target="_blank"}
+* [Get started with workflows](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html?lang=en){target="_blank"}
+* [FTP (Class)](https://experienceleague.adobe.com/developer/campaign-api/api/c-FTP.html){target="_blank"}
+* [General architecture](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/architecture-and-hosting-models/general-architecture.html?lang=en){target="_blank"}
 
 **Section 5: Instance maintenance**
 
-* [Add resource](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html?lang=en){target="_blank"}
+* [Monitor workflow execution](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/monitoring-workflows/monitoring-workflow-execution.html?lang=en){target="_blank"}
+* [Workflow properties](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/advanced-management/workflow-properties.html?lang=en){target="_blank"}
+* [Workflow use cases](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/use-cases/about-workflow-use-cases.html?lang=en){target="_blank"}
+* [Monitoring guide - General architecture](https://experienceleague.adobe.com/docs/campaign-classic/using/monitoring-campaign-classic/introduction/general-architecture.html?lang=en){target="_blank"}
+* [Get started with Control Panel](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/get-started-with-control-panel.html?lang=en){target="_blank"}
+* [About performance monitoring](https://experienceleague.adobe.com/docs/control-panel/using/performance-monitoring/about-performance-monitoring.html?lang=en){target="_blank"}
 
 **Section 6: Campaign configuration**
 
-* [Add resource](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html?lang=en){target="_blank"}
-
+* [Communication channels](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/communication-channels.html?lang=en){target="_blank"}
+* [Get started with personalization](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html?lang=en){target="_blank"}
+* [Web applications and reports - abstractForm](https://experienceleague.adobe.com/developer/campaign-api/api/s-xtk-abstractForm.html){target="_blank"}
+* [About web services](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/api/about-web-services.html?lang=en){target="_blank"}
+* [Use a custom recipient table](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/use-a-custom-recipient-table/about-custom-recipient-table.html?lang=en){target="_blank"}
+* [About templates](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/using-delivery-templates/about-templates.html?lang=en){target="_blank"}
+* [Use a custom recipient table](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/use-a-custom-recipient-table/about-custom-recipient-table.html?lang=en){target="_blank"}
 
 >[!TAB Get certified]
 
 >[!NOTE]
 >
 >IMPORTANT NOTE: The following sections and links will **only** function after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
-
 
 **Now that you have successfully logged in, the following links will be directly accessible.**
 
