@@ -101,19 +101,36 @@ The sample questions allow you to see the type and format of items that you will
 
 **Section 1: Technical Requirements**
 
-* [Add resources](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/configuring/configuring.html?lang=en){target="_blank"} 
+* [Custom forms overview](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/custom-forms/custom-forms-overview.html){target="_blank"}
+* [Configure document integrations](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/configure-integrations/configure-document-integrations.html){target="_blank"}
+* [Understanding Multitenancy and Concurrent Development](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/deployment/multitenancy-concurrent-article-understand.html?lang=en){target="_blank"}
+* [Add calculated data to a custom form with the legacy form builder](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/custom-forms/custom-form-builder/use-the-custom-form-builder/add-calculated-data-to-custom-form.html){target="_blank"}
+* [The Adobe Workfront Status site](https://experienceleague.adobe.com/docs/workfront/using/basics/tips-tricks-for-basics/understand-the-status-site.html){target="_blank"}
+* [Advanced troubleshooting with the Dev Tool](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/troubleshooting-and-error-handling/advanced-troubleshooting-with-the-dev-tool.html?lang=en){target="_blank"}
 
 **Section 2: Configuration**
 
-* [Add resources](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/configuring/configuring.html?lang=en){target="_blank"} 
+* [Best Practice - Onboarding and adoption](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/onboarding-adoption-bp.html?lang=en){target="_blank"} 
+* [Create an individual user profile](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/create-and-manage-users/create-an-individual-user-profile.html?lang=en){target="_blank"}
+* [Adobe Experience Manager Assets integration with Adobe Workfront](https://experienceleague.adobe.com/docs/experience-manager-65/assets/integrations/workfront-integrations.html?lang=en){target="_blank"}
+* [Metadata and keywords: metadata setup](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/workfront-dam-program/metadata-and-keywords/metadata-setup.html%3Flang%3Dzh-Hant){target="_blank"}
+* [Install Workfront for Experience Manager enhanced connector](https://experienceleague.adobe.com/docs/experience-manager-64/assets/integrations/workfront-connector-install.html?lang=en){target="_blank"}
 
 **Section 3: Business Practices**
 
-* [Add resources](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/configuring/configuring.html?lang=en){target="_blank"} 
+* [Develop a Workfront DAM strategy](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/workfront-dam-program/system-setup/analyze-and-plan-to-develop-a-workfront-dam-strategy.html?lang=en){target="_blank"}
+* [Create an approval process for work items](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/approvals-milestones/create-approval-processes.html){target="_blank"}
+* [Automated Workflow overview](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/proofing-overview/automated-workflow.html?lang=en){target="_blank"}
+* [Review and approve a proof](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/workfront-proof/review-and-approve-work-for-proof/review-and-approve-a-proof.html?lang=en){target="_blank"}
+* [Track progress from the project timeline](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/project-timelines/track-work-progress-from-the-project-timeline.html?lang=en){target="_blank"}
+* [Defining objectives for your Adobe Workfront implementation](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/get-started-administration/define-wf-goals-objectives.html?lang=en){target="_blank"}
 
 **Section 4: Installation and Configuration of Connector** 
 
-* [Add resources](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/configuring/configuring.html?lang=en){target="_blank"} 
+* [Install Workfront for Experience Manager enhanced connector](https://experienceleague.adobe.com/docs/experience-manager-65/assets/integrations/workfront-connector-install.html?lang=en){target="_blank"}
+* [Workfront enhanced connector basics](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/workfront/enhanced-connector/basics.html%3Flang%3Den){target="_blank"}
+* [Configure Workfront for Experience Manager enhanced connector](https://experienceleague.adobe.com/docs/experience-manager-65/assets/integrations/workfront-connector-configure.html?lang=en){target="_blank"}
+* [Adobe Experience Manager Assets integration with Adobe Workfront](https://experienceleague.adobe.com/docs/experience-manager-65/assets/integrations/workfront-integrations.html?lang=en){target="_blank"}
 
 >[!TAB Get certified]
 
