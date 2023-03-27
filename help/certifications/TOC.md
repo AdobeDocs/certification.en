@@ -84,8 +84,8 @@ user-guide-description: Certification
       + [Architect (Sites)](/help/certifications/aem/aem-sites-m-archtiect.md)
     + [Renewal](/help/certifications/aem/aem-renew.md)
   + Adobe Experience Platform {#aep}
-    + Professional {#aem-professional}
-      + [Technical Foundations](/help/certifications/aep/aep-p-foundations.md)
+    + Expert {#aem-expert}
+      + [Technical Foundations](/help/certifications/aep/aep-e-foundations.md)
     + [Renewal](/help/certifications/aep/aep-renew.md)
   + Adobe Marketo Engage {#ame}
     + Professional {#ame-professional}
