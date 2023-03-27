@@ -44,7 +44,7 @@ Additionally, you're responsible for translating business requirements into trac
 **Exam details:**
 
 ```
-Level: Expert (1-3 years experience)
+Level: Master (3-5 years' experience)
 Passing Score: 33/50
 Time: 100 mins
 Delivery: Online proctored (requires camera access) or test center proctored

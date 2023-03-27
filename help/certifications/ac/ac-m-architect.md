@@ -67,7 +67,7 @@ Additionally, you should be very familiar with the following activities and tech
 **Exam details:**
 
 ```
-Level: Master (3-5 years experience)
+Level: Master (3-5 years' experience)
 Passing Score: 29/50
 Time: 120 mins
 Delivery: Online proctored (requires camera access)

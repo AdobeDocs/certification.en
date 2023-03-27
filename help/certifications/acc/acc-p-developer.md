@@ -37,7 +37,7 @@ You should have:
 **Exam details:**
 
 ```
-Level: Professional (0-12 months experience)
+Level: Professional (0-12 months' experience)
 Passing Score: 33/50
 Time: 100 mins
 Delivery: Online proctored (requires camera access) or test center proctored

@@ -1,18 +1,16 @@
 ---
-title: Learn how to get certified in Adobe Marketo Engage
-description: Discover the steps to getting certified in Adobe Marketo Engage professional.
+title: Adobe Marketo Engage Professional Certification
+description: Learn how to become a certified Adobe Marketo professional.
 solution: Marketo Engage
 role: Developer
 badge: label="Exam AD0-E555" type="positive"
+mini-toc-levels: 1
 ---
 # Certification journey for Adobe Marketo Engage professional
 
+Learn how to become a certified Adobe Marketo professional.
 
-![Certification Expert Badge](/help/certifications/assets/professional-badge-Xsmall.png)
-
->[!NOTE]
->
->Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
+## Minimum experience:
 
 You should have:
 
@@ -30,6 +28,14 @@ And, you should be familiar with the following tools and technologies:
 
 * Adobe Marketo Engage
 * Excel or Google Sheets/Doc
+
+>[!NOTE]
+>
+>Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
+
+>[!BEGINTABS]
+
+>[!TAB Get ready]
 
 **Intended audience:**
 
@@ -59,12 +65,6 @@ Cost: $125 (global) / $95 (India)
 Exam ID: AD0-E555
 
 ```
-
->[!BEGINTABS]
-
->[!TAB Get ready]
-
-**AD0-E555 Adobe Marketo Engage**
 
 **Readiness self-assessment**
 
@@ -124,8 +124,6 @@ The sample questions allow you to see the type and format of items that you will
 
 [See sample questions](https://scorpion.caveon.com/launchpad/ad0-e555-adobe-marketo-engage-professional-copy-nppnkv){target="_blank"}
 
-**AD0-E555 Adobe Marketo Engage**
-
 **Section 1: Building and managing programs**
 
 * [Understanding Programs](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.html){target="_blank"} 
@@ -163,7 +161,6 @@ The sample questions allow you to see the type and format of items that you will
 >
 >IMPORTANT NOTE: The following sections and links will **only** function after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
 
-
 **Now that you have successfully logged in, the following links will be directly accessible.**
 
 **Take the certification exam**
@@ -175,7 +172,7 @@ Adobe uses two vendors to administer proctored exams, PSI and Examity.
 
 To schedule, reschedule, or cancel your exam, simply click on the vendor of choice, and follow the instructions provided on screen. It's that simple!
 
-Exam number: AD0-E555
+### Exam number: AD0-E555
 
 [!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&ec=AD0-E555 newtab=true"} [!BADGE Examity]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E555 newtab=true"}
 

@@ -43,7 +43,7 @@ You should have a minimum of 3 months of experience in Adobe Analytics and the f
 **Exam details:**
 
 ```
-Level: Professional (0-12 months experience)
+Level: Professional (0-12 months' experience)
 Passing Score: 31/50
 Time: 100 mins
 Delivery: Online proctored (requires camera access)

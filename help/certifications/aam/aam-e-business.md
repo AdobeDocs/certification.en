@@ -61,7 +61,7 @@ Environments:
   
 ```
 
-Level: Professional (0-12 months experience)
+Level: Expert (1-3 years' experience)
 Passing Score: 36/50
 Time: 100 mins
 Delivery: Online proctored (requires camera access) or test center proctored

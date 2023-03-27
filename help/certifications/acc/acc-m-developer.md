@@ -21,7 +21,7 @@ You should have:
 * The ability to create a functional scope of work for an Adobe Campaign installation
 * The ability to provide the technical roadmap including LEO and task dependencies
 * The ability to provide technical requirement information for the project scope and timeline
-* Experience with ontributes to business requirements workshops
+* Experience with business requirements workshops
 * Experience leading solution design workshops
 * The ability to evaluate multiple solution approaches and provide recommendations
 * The ability to review existing campaigns and processes on other platforms to determine needs for the Adobe Campaign implementation
@@ -49,7 +49,7 @@ You should have:
 **Exam details:**
 
 ```
-Level: Master (3-5 years experience)
+Level: Master (3-5 years' experience)
 Passing Score: 30/50
 Time: 100 mins
 Delivery: Online proctored (requires camera access) or test center proctored

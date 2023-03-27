@@ -59,7 +59,7 @@ Experience working with the following functions:
 **Exam details:**
 
 ```
-Level: Professional (0-12 months experience)
+Level: Professional (0-12 months' experience)
 Passing Score: 35/50
 Time: 100 mins
 Delivery: Online proctored (requires camera access) or test center proctored

@@ -39,7 +39,7 @@ You should have:
 **Exam details**
   
 ```
-Level: Expert (1-3 years experience)
+Level: Expert (1-3 years' experience)
 Passing Score: 34/50
 Time: 100 mins
 Delivery: Online proctored (requires camera access) or test center proctored

@@ -1,25 +1,24 @@
 ---
-title: Learn how to get certified in Adobe Marketo Engage Architect master.
-description: Discover the steps to getting certified in Adobe Marketo Engage Architect master.
+title: Adobe Marketo Engage Architect Master Certification
+description: Learn how to become a certified Adobe Architect master.
 solution: Marketo Engage
 role: Architect
 badge: label="Exam AD0-E556" type="positive"
+mini-toc-levels: 1
 ---
 # Certification journey for Adobe Marketo Engage Architect master
 
+Learn how to become a certified Adobe Architect master.
 
-![Certification Master Badge](/help/certifications/assets/master-badge-Xsmall.png)
+## Minimum experience:
 
->[!NOTE]
->
->Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
+You should have: 
 
-You should be a current Marketo Engage Business Practitioner Certified Expert and have:
-
+* A current Marketo Engage Business Practitioner Certified Expert
 * At least five years of experience preferably with multiple instances of Marketo Engage
 * An understanding of the business impact and effectively explain/communicate their solution to the stakeholders (technical and non-technical) at different levels
 * The ability to conceptualize a solution and translate to a Marketo Engage architecture, understand the business processes impacted by integrations
-* An understanding of the principles of architecting an instance
+* Familiarity with the principles of architecting an instance
 
 Additionally, you should be familiar with the following tools and technologies:
 
@@ -28,6 +27,14 @@ Additionally, you should be familiar with the following tools and technologies:
 * API connectivity
 * CRM platform
 * Marketing technology platforms
+
+>[!NOTE]
+>
+>Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
+
+>[!BEGINTABS]
+
+>[!TAB Get ready]
 
 **Intended audience:**
 
@@ -49,7 +56,7 @@ Additionally, you should be familiar with the following tools and technologies:
 **Exam details:**
 
 ```
-Level: Master (3-5 years experience)
+Level: Master (3-5 years' experience)
 Passing Score: 30/50
 Time: 150 mins
 Delivery: Online proctored (requires camera access) or test center proctored
@@ -58,12 +65,6 @@ Cost: $225 (global) / $150 (India)
 Exam ID: AD0-E556
 
 ```
-
->[!BEGINTABS]
-
->[!TAB Get ready]
-
-**AD0-E556  Adobe Marketo Engage Architect**
 
 **Readiness self assessment**
 
@@ -121,8 +122,6 @@ The sample questions allow you to see the type and format of items that you will
 
 [See sample questions](https://scorpion.caveon.com/launchpad/ad0-e556-adobe-marketo-engage-architect-master-exam-copy-pewwl4){target="_blank"}
 
-**AD0-E556 Adobe Marketo Engage Architect**
-
 **Section 1: Project Leadership**
 
 * [Champion Blog - Marketo Nation](https://nation.marketo.com/t5/champion-blog/ct-p/champion-program){target="_blank"}
@@ -163,7 +162,7 @@ Adobe uses two vendors to administer proctored exams, PSI and Examity.
 
 To schedule, reschedule, or cancel your exam, simply click on the vendor of choice, and follow the instructions provided on screen. It's that simple!
 
-Exam number: AD0-E556
+### Exam number: AD0-E556
 
 [!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&ec=AD0-E556 newtab=true"} [!BADGE Examity]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E556 newtab=true"}
 

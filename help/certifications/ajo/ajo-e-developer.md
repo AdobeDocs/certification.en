@@ -1,17 +1,15 @@
 ---
-title: Adobe Journey Optimizer Certification
-description: You have technical knowledge about audience segmentation, destination exports, and activation on real time basis for unified profiles that adhere to data and privacy regulations, customer data platforms (CDP) and knowledge of Adobe Experience Platform.
+title: Adobe Journey Optimizer Expert Certification
+description: Learn how to become a certified Adobe Journey Optimizer expert.
 solution: Journey Optimizer
 role: Developer
 badge: label="Exam AD0-E603" type="positive"
 ---
 # Certification journey for Journey Optimizer Developer expert
 
-![Certification Expert Badge](/help/certifications/assets/expert-badge-Xsmall.png)
+Learn how to become a certified Adobe Journey Optimizer expert.
 
->[!NOTE]
->
->Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
+## Minimum experience:
 
 You should have at least one year experience working with various CDP and marketing automation systems, and be able to perform the following tasks:
 
@@ -31,11 +29,19 @@ You should have at least one year experience working with various CDP and market
 * Journey reporting
 * Testing/validating journeys
 
+>[!NOTE]
+>
+>Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
+
+>[!BEGINTABS]
+
+>[!TAB Get ready]
+
 **Intended audience:** 
 
 * Data Architect
 * Data Engineer
-* Solution Architec
+* Solution Architect
 * Enterprise Architect
 * Marketing Automation Developer
 * CDP Developer
@@ -53,12 +59,6 @@ Cost: $225 (global) / $150 (India)
 Exam ID: AD0-E603
 
 ```
-
->[!BEGINTABS]
-
->[!TAB Get ready]
-
-**AD0-E603  Adobe Journey Optimizer Developer Expert**
 
 **Readiness self-assessment**
 
@@ -103,8 +103,6 @@ Section 5: Journey Orchestration (19%)
 You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
 
 Here are some suggested resources to help you prepare:
-
-**AD0-E603  Adobe Journey Optimizer Developer Expert**
 
 **Section 1: Administration and configuration**
 
@@ -194,7 +192,7 @@ Adobe uses two vendors to administer proctored exams, PSI and Examity.
 
 To schedule, reschedule, or cancel your exam, simply click on the vendor of choice, and follow the instructions provided on screen. It's that simple!
 
-Exam number: AD0-E608
+### Exam number: AD0-E608
 
 [!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&ec=AD0-E603 newtab=true"} [!BADGE Examity]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E603 newtab=true"}
 

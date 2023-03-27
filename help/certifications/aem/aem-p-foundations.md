@@ -47,7 +47,7 @@ You should be an application developer and have:
 **Exam details:**
 
 ```
-Level: Professional (0-12 months experience)
+Level: Professional (0-12 months' experience)
 Passing Score: 38/60
 Time: 120 mins
 Delivery: Online proctored (requires camera access)

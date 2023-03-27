@@ -30,7 +30,7 @@ You should have:
 **Exam details:**
   
 ```
-Level: Expert (1-3 years experience)
+Level: Expert (1-3 years' experience)
 Passing Score: 
 Time: 
 Delivery: Online proctored (requires camera access) or test center proctored

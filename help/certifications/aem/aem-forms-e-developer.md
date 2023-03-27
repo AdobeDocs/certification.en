@@ -64,7 +64,7 @@ Additionally, you should be familiar with the following technologies and environ
 **Exam details:**
   
 ```
-Level: Expert (1-3 years experience)
+Level: Expert (1-3 years' experience)
 Passing Score: 27/50
 Time: 100 mins
 Delivery: Online proctored (requires camera access) or test center proctored

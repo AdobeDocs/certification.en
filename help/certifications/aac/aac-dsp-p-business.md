@@ -45,7 +45,7 @@ Familiarity with the following tools and technologies:
 **Exam details:**
 
 ```
-Level: Professional (0-12 months experience)
+Level: Professional (0-12 months' experience)
 Passing Score: 44/69
 Time: 138 mins
 Delivery: Online proctored (requires camera access) or test center proctored

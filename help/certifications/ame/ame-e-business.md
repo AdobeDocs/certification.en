@@ -1,17 +1,16 @@
 ---
-title: Adobe Marketo Engage Certification
-description: You have technical knowledge about audience segmentation, destination exports, and activation on real time basis for unified profiles that adhere to data and privacy regulations, customer data platforms (CDP) and knowledge of Adobe Experience Platform.
+title: Adobe Marketo Engage Business Practitioner Expert Certification
+description: Learn how to become a certified Adobe Business Practitioner expert.
 solution: Marketo Engage
 role: Developer
 badge: label="Exam AD0-E559" type="positive"
+mini-toc-levels: 1
 ---
 # Certification journey for Adobe Marketo Engage Business Practitioner expert
 
-![Certification Expert Badge](/help/certifications/assets/expert-badge-Xsmall.png)
+Learn how to become a certified Adobe Business Practitioner expert.
 
->[!NOTE]
->
->Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
+## Minimum experience:
 
 You should have:
 
@@ -20,7 +19,6 @@ You should have:
 You should be a marketer with experience in:
 
 * Building, launching and analyzing campaigns
-* Operationalizing demand generation
 * Working with underlying email behavior and technologies including HTML, integrations, databases, and CRM
 
 Additionally, you should be familiar with the following tools and technologies:
@@ -32,6 +30,14 @@ Additionally, you should be familiar with the following tools and technologies:
 * Social media platforms like Facebook and LinkedIn
 * Microsoft Office
 * Basic HTML
+
+>[!NOTE]
+>
+>Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
+
+>[!BEGINTABS]
+
+>[!TAB Get ready]
 
 **Intended audience:** 
 
@@ -53,21 +59,15 @@ Additionally, you should be familiar with the following tools and technologies:
 **Exam details:**
   
 ```
-Level: Expert (1-3 years experience)
+Level: Expert (1-3 years' experience)
 Passing Score: 32/50
 Time: 110 mins
 Delivery: Online proctored (requires camera access) or test center proctored
 Available languages: English & Japanese
-Cost: $225 (global) and $150 (India)
+Cost: $225 (global) / $150 (India)
 Exam ID: AD0-E559
 
 ```
-
->[!BEGINTABS]
-
->[!TAB Get ready]
-
-**AD0-E559 Adobe Marketo Engage Business Practitioner**
 
 **Readiness self-assessment**
 
@@ -134,8 +134,6 @@ Section 6: Best Practices (16%)
 You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
 
 Here are some suggested resources to help you prepare:
-
-**AD0-E559 Adobe Marketo Engage Business Practitioner**
 
 **Section 1: Administration and maintenance**
 
@@ -229,7 +227,7 @@ Adobe uses two vendors to administer proctored exams, PSI and Examity.
 
 To schedule, reschedule, or cancel your exam, simply click on the vendor of choice, and follow the instructions provided on screen. It's that simple!
 
-Exam number: AD0-E559
+### Exam number: AD0-E559
 
 **English:**
 

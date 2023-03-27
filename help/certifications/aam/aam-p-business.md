@@ -31,7 +31,7 @@ You should have a basic understanding of data flows, business objectives and KPI
 **Exam details:**
 
 ```
-Level: Professional (0-12 months experience)
+Level: Professional (0-12 months' experience)
 Passing Score: 31/50
 Time: 100 mins
 Delivery: Online proctored (requires camera access)

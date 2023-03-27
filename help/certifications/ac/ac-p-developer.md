@@ -41,7 +41,7 @@ Additionally, you should be familiar with the following technologies and environ
 **Exam details:**
 
 ```
-Level: Professional (0-12 months experience)
+Level: Professional (0-12 months' experience)
 Passing Score: 50/77
 Time: 154 mins
 Delivery: Online proctored (requires camera access)
