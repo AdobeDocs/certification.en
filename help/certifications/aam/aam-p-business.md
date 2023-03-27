@@ -8,13 +8,11 @@ mini-toc-levels: 1
 ---
 # Certification journey for Adobe Audience Manager Business Practitioner professional
 
-![Certification Professional Badge](/help/certifications/assets/professional-badge-Xsmall.png)
+Learn how to become certified as an Adobe Audience Manager Business Practitioner professional.
 
->[!NOTE]
->
->Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
+>[!BEGINTABS]
 
-You should have a basic understanding of data flows, business objectives and KPIs, with some experience around data analytics and strategies.
+>[!TAB Get ready]
 
 **Intended audience:**
 
@@ -34,16 +32,10 @@ Passing Score: 31/50
 Time: 100 mins
 Delivery: Online proctored (requires camera access)
 Available languages: English
-Cost: $125 (global) and $95 (India)
+Cost: $125 (global) / $95 (India)
 Exam ID: AD0-E458
 
 ```
-
->[!BEGINTABS]
-
->[!TAB Get ready]
-
-**AD0-E458 Adobe Audience Manager Business Practitioner**
 
 **Exam objectives and scope**
 
@@ -91,8 +83,6 @@ Here are some suggested resources to help you prepare:
 The sample questions allow you to see the type and format of items that you will encounter in the actual exam. There is no sign-on needed. The results of the sample questions are not stored, and do not predict your actual test results.
 
 [See sample questions](https://scorpion.caveon.com/launchpad/ad0-e458-adobe-audience-manager-business-practitioner-professional-copy-dvaivw){target="_blank"}
-
-**AD0-E458 Adobe Audience Manager Business Practitioner**
 
 **Section 1: Segment creation and syndication**
 
@@ -160,7 +150,7 @@ Adobe uses two vendors to administer proctored exams, PSI and Examity.
 
 To schedule, reschedule, or cancel your exam, simply click on the vendor of choice, and follow the instructions provided on screen. It's that simple!
 
-Exam number: AD0-E458
+**Exam number: AD0-E458**
 
 [!BADGE Examity]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E458 newtab=true"}
 
