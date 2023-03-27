@@ -10,6 +10,10 @@ mini-toc-levels: 1
 
 Learn how to become certified as an Adobe Audience Manager Business Practitioner professional.
 
+## Minimum experience:
+
+You should have a basic understanding of data flows, business objectives and KPIs, with some experience around data analytics and strategies
+
 >[!BEGINTABS]
 
 >[!TAB Get ready]
