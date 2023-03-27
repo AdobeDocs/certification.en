@@ -1,18 +1,17 @@
 ---
-title: Adobe Real-Time Customer Data Platform Certification
-description: You have technical knowledge about audience segmentation, destination exports, and activation on real time basis for unified profiles that adhere to data and privacy regulations, customer data platforms (CDP) and knowledge of Adobe Experience Platform.
+title: Adobe Real-Time Customer Data Platform Professional Certification
+description: Learn how to become a certified Adobe Experience Platform professional.
 solution: Real-time Customer Data Platform
 role: Developer
 recommendations: disable, exclude
 badge: label="Exam AD0-E602" type="positive"
+mini-toc-levels: 1
 ---
 # Certification journey for Adobe Real-Time CDP Business Practitioner professional
 
-![Certification Professional Badge](/help/certifications/assets/professional-badge-Xsmall.png)
+Learn how to become a certified Adobe Experience Platform professional.
 
->[!NOTE]
->
->Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
+## Minimum experience:
 
 You should have:
 
@@ -30,6 +29,14 @@ Experience with tasks that include:
 * Understanding concepts of Identity namespaces and Identity graphs
 * Understanding high level capability and features of AEP and its services
 * Configuring new destinations
+
+>[!NOTE]
+>
+>Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
+
+>[!BEGINTABS]
+
+>[!TAB Get ready]
 
 **Intended audience:**
 
@@ -56,12 +63,6 @@ Cost: $125 (global) / $95 (India)
 Exam ID: AD0-E602
 
 ```
-
->[!BEGINTABS]
-
->[!TAB Get ready]
-
-**AD0-E602 Adobe Real-Time CDP Business Practitioner**
 
 **Exam objectives and scope**
 
@@ -100,10 +101,7 @@ The sample questions allow you to see the type and format of items that you will
 
 [See sample questions](https://scorpion.caveon.com/launchpad/ad3-e602-adobe-real-time-cdp-business-practitioner-professional-sample-questions){target="_blank"}
 
-**AD0-E602 Adobe Real-Time CDP Business Practitioner**
-
 **Section 1: Segments and activation**
-
 
 * [Segmentation Service overview](https://experienceleague.adobe.com/docs/experience-platform/segmentation/home.html?lang=en){target="_blank"}
 * [Create sequential segments](https://experienceleague.adobe.com/docs/platform-learn/tutorials/segments/create-sequential-segments.html?lang=en){target="_blank"}
@@ -114,7 +112,7 @@ The sample questions allow you to see the type and format of items that you will
 * [Activate audience data to streaming profile export destinations](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/activate/activate-streaming-profile-destinations.html?lang=en){target="_blank"}
 * [Creating a new destination connection](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/connect-destination.html?lang=en){target="_blank"}
 
-**Section 2: Identity and data governances**
+**Section 2: Identity and data governance**
 
 * [Identity namespace overview](https://experienceleague.adobe.com/docs/experience-platform/identity/namespaces.html?lang=en){target="_blank"}
 * [Data Governance overview](https://experienceleague.adobe.com/docs/experience-platform/data-governance/home.html?lang=en){target="_blank"}
@@ -138,7 +136,6 @@ The sample questions allow you to see the type and format of items that you will
 >
 >IMPORTANT NOTE: The following sections and links will **only** function after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
 
-
 **Now that you have successfully logged in, the following links will be directly accessible.**
 
 **Take a practice test**
@@ -160,7 +157,7 @@ Adobe uses two vendors to administer proctored exams, PSI and Examity.
 
 To schedule, reschedule, or cancel your exam, simply click on the vendor of choice, and follow the instructions provided on screen. It's that simple!
 
-Exam number: AD0-E602
+### Exam number: AD0-E602
 
 [!BADGE Examity]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E602 newtab=true"}
 

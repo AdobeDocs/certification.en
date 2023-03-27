@@ -1,17 +1,16 @@
 ---
-title: Adobe Workfront Certification
-description: You have technical knowledge about audience segmentation, destination exports, and activation on real time basis for unified profiles that adhere to data and privacy regulations, customer data platforms (CDP) and knowledge of Adobe Experience Platform.
+title: Adobe Workfront for Experience Manager Enhanced Connector Expert Certification
+description: Learn how to become a certified Adobe certified expert.
 solution: Workfront
 role: Developer
 badge: label="Exam AD0-E906" type="positive"
+mini-toc-levels: 1
 ---
 # Certification journey for Adobe Workfront for Experience Manager enhanced connector expert
 
-![Certification Expert Badge](/help/certifications/assets/expert-badge-Xsmall.png)
+Learn how to become a certified Adobe certified expert.
 
->[!NOTE]
->
->Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
+## Minimum experience:
 
 You should have achieved one or more of the following certifications: 
 
@@ -30,6 +29,14 @@ And, you should have:
 * An understanding of taxonomies and AEM tagging, AEM workflows, JCR, Sling, OSGi and databases
 * An understanding of work management best practices
 
+>[!NOTE]
+>
+>Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
+
+>[!BEGINTABS]
+
+>[!TAB Get ready]
+
 **Intended audience:** 
 
 * Partner solutions consultants
@@ -40,7 +47,7 @@ And, you should have:
 **Exam details:**
   
 ```
-Level: Expert (1-3 years experience)
+Level: Expert (1-3 years' experience)
 Passing Score: 34/55
 Time: 110 mins
 Delivery: Online proctored (requires camera access) or test center proctored
@@ -49,12 +56,6 @@ Cost: $225 (global) / $150 (India)
 Exam ID: AD0-E906
 
 ```
-
->[!BEGINTABS]
-
->[!TAB Get ready]
-
-**AD0-E906 Adobe Workfront for Experience Manager enhanced connector**
 
 **Exam objectives and scope**
 
@@ -98,8 +99,6 @@ The sample questions allow you to see the type and format of items that you will
 
 [See sample questions](https://scorpion.caveon.com/launchpad/ad3-e906-adobe-workfront-for-experience-manager-enhanced-connector-certified-expert-sample-questions){target="_blank"}
 
-**AD0-E906  Adobe Workfront for Experience Manager enhanced connector**
-
 **Section 1: Technical Requirements**
 
 * [Add resources](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/configuring/configuring.html?lang=en){target="_blank"} 
@@ -122,7 +121,6 @@ The sample questions allow you to see the type and format of items that you will
 >
 >IMPORTANT NOTE: The following sections and links will **only** function after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
 
-
 **Now that you have successfully logged in, the following links will be directly accessible.**
 
 **Take a practice test**
@@ -144,7 +142,7 @@ Adobe uses two vendors to administer proctored exams, PSI and Examity.
 
 To schedule, reschedule, or cancel your exam, simply click on the vendor of choice, and follow the instructions provided on screen. It's that simple!
 
-Exam number: AD0-E906
+### Exam number: AD0-E906
 
 [!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&ec=AD0-E906 newtab=true"} [!BADGE Examity]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E906 newtab=true"}
 

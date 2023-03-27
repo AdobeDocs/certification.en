@@ -1,18 +1,16 @@
 ---
-title: Adobe Target Certification
-description: You have technical knowledge about audience segmentation, destination exports, and activation on real time basis for unified profiles that adhere to data and privacy regulations, customer data platforms (CDP) and knowledge of Adobe Experience Platform.
+title: Adobe Target Architect Master Certification
+description: Learn how to become a certified Adobe Architect master.
 solution: Target
 role: Developer
 badge: label="Exam AD0-E407" type="positive"
+mini-toc-levels: 1
 ---
 # Certification journey for Adobe Target Architect master
 
+Learn how to become a certified Adobe Architect master.
 
-![Certification Master Badge](/help/certifications/assets/master-badge-Xsmall.png)
-
->[!NOTE]
->
->Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
+## Minimum experience:
 
 You should have:
 
@@ -47,6 +45,14 @@ Environments:
 * AMS hosted environment
 * Adobe I/O Runtime
 
+>[!NOTE]
+>
+>Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
+
+>[!BEGINTABS]
+
+>[!TAB Get ready]
+
 **Intended audience:**
 
 * Conversion rate optimization engineer/architect
@@ -60,7 +66,7 @@ Environments:
 **Exam details:**
 
 ```
-Level: Master (3-5 years experience)
+Level: Master (3-5 years' experience)
 Passing Score: 34/50
 Time: 100 mins
 Delivery: Online proctored (requires camera access) or test center proctored
@@ -69,12 +75,6 @@ Cost: $225 (global) / $150 (India)
 Exam ID: AD0-E407
 
 ```
-
->[!BEGINTABS]
-
->[!TAB Get ready]
-
-**AD0-E407 Adobe Target Architect**
 
 **Exam objectives and scope**
 
@@ -132,8 +132,6 @@ The sample questions allow you to see the type and format of items that you will
 
 [See sample questions](https://scorpion.caveon.com/launchpad/ad0-e407-adobe-target-architect-sample-exam/adobe-target-architect-sample-exam){target="_blank"}
 
-**AD0-E407 Adobe Target Architect**
-
 **Section 1: Adobe Target fundamentals**
 
 * [Adobe Target Business Practitioner Guide](https://experienceleague.adobe.com/docs/target/using/target-home.html?lang=en){target="_blank"}
@@ -157,9 +155,9 @@ The sample questions allow you to see the type and format of items that you will
 **Section 3: Adobe Target administration and governance**
 
 * [Adobe Target Business Practitioner Guide](https://experienceleague.adobe.com/docs/target/using/target-home.html?lang=en){target="_blank"}
-* [Adobe Target Security Overview](https://www.adobe.com/content/dam/cc/en/security/pdfs/AdobeTargetSecurityOverview.pdf)){target="_blank"}
-* [Adobe Admin Console users](https://helpx.adobe.com/enterprise/using/users.html)){target="_blank"}
-* [AEM 6.5 Administering User Guide](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html?lang=en)){target="_blank"}
+* [Adobe Target Security Overview](https://www.adobe.com/content/dam/cc/en/security/pdfs/AdobeTargetSecurityOverview.pdf){target="_blank"}
+* [Adobe Admin Console users](https://helpx.adobe.com/enterprise/using/users.html){target="_blank"}
+* [AEM 6.5 Administering User Guide](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html?lang=en){target="_blank"}
 
 **Section 4: Adobe Target and supported touch points**
 
@@ -199,7 +197,6 @@ The sample questions allow you to see the type and format of items that you will
 >
 >IMPORTANT NOTE: The following sections and links will **only** function after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
 
-
 **Now that you have successfully logged in, the following links will be directly accessible.**
 
 **Take the certification exam**
@@ -211,7 +208,7 @@ Adobe uses two vendors to administer proctored exams, PSI and Examity.
 
 To schedule, reschedule, or cancel your exam, simply click on the vendor of choice, and follow the instructions provided on screen. It's that simple!
 
-Exam number: AD0-E407
+### Exam number: AD0-E407
 
 [!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&ec=AD0-E407 newtab=true"} [!BADGE Examity]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E407 newtab=true"}
 

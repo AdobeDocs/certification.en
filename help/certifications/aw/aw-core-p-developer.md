@@ -1,17 +1,16 @@
 ---
-title: Adobe Workfront Certification
-description: You have technical knowledge about audience segmentation, destination exports, and activation on real time basis for unified profiles that adhere to data and privacy regulations, customer data platforms (CDP) and knowledge of Adobe Experience Platform.
+title: Adobe Workfront Core Developer Professional Certification
+description: Learn how to become a certified Adobe Developer professional.
 solution: Workfront
 role: Developer
 badge: label="Exam AD0-E905" type="positive"
+mini-toc-levels: 1
 ---
 # Certification journey for Adobe Workfront Core Developer professional
 
-![Certification Expert Badge](/help/certifications/assets/professional-badge-Xsmall.png)
+Learn how to become a certified Adobe Developer professional.
 
->[!NOTE]
->
->Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
+## Minimum experience:
 
 You should have:
 
@@ -29,6 +28,14 @@ And, you should have:
 * Familiarity with Adobe Workfront
 * Familiarity with native connectors and other Adobe Workfront products and services
 * Familiarity with project management including agile and waterfall, and resource management concepts
+
+>[!NOTE]
+>
+>Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
+
+>[!BEGINTABS]
+
+>[!TAB Get ready]
 
 **Intended audience:**
 
@@ -54,12 +61,6 @@ Cost: $125 (global) / $95 (India)
 Exam ID: AD0-E905
 
 ```
-
->[!BEGINTABS]
-
->[!TAB Get ready]
-
-**AD0-E905 Adobe Workfront Core Developer**
 
 **Readiness self-assessment**
 
@@ -113,8 +114,6 @@ Here are some suggested resources to help you prepare:
 The sample questions allow you to see the type and format of items that you will encounter in the actual exam. There is no sign-on needed. The results of the sample questions are not stored, and do not predict your actual test results.
 
 [See sample questions](https://scorpion.caveon.com/launchpad/ad0-e905-adobe-workfront-developer-professional-copy-ljt8s6/ad4-e905-adobe-workfront-core-developer-professional-sample-exam){target="_blank"}
-
-**AD0-E905 Adobe Workfront Core Developer**
 
 **Section 1: Strategy and intake**
 
@@ -176,7 +175,7 @@ Adobe uses two vendors to administer proctored exams, PSI and Examity.
 
 To schedule, reschedule, or cancel your exam, simply click on the vendor of choice, and follow the instructions provided on screen. It's that simple!
 
-Exam number: AD0-E905
+### Exam number: AD0-E905
 
 [!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&ec=AD0-E905 newtab=true"} [!BADGE Examity]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E905 newtab=true"}
 

@@ -1,19 +1,18 @@
 ---
-title: Learn how to get certified in Adobe Workfront Fusion Developer professional.
-description: Discover the steps to getting certified in Adobe Workfront Fusion Developer professional.
+title: Adobe Workfront Fusion Developer Professional Certification
+description: Learn how to become a certified Adobe Developer professional.
 solution: Workfront
 role: Developer
 badge: label="Exam AD0-E902" type="positive"
+mini-toc-levels: 1
 ---
 # Certification journey for Adobe Workfront Fusion Developer professional
 
-![Certification Professional Badge](/help/certifications/assets/professional-badge-Xsmall.png)
+Learn how to become a certified Adobe Developer professional.
 
->[!NOTE]
->
->Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
+## Minimum experience:
 
-You sould have:
+You should have:
 
 * The ability to with Workfront API and API explorer, but not necessarily proficient in API calls
 * The ability to use custom API calls for working with Workfront and other APIs
@@ -25,6 +24,14 @@ You sould have:
 * The ability to effectively test and go live with a scenario
 * The ability to manage organization teams and users
 * An understanding of the purpose and use of universal connectors for REST API Oauth2
+
+>[!NOTE]
+>
+>Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
+
+>[!BEGINTABS]
+
+>[!TAB Get ready]
 
 **Intended audience:**
 
@@ -47,12 +54,6 @@ Cost: $125 (global) / $95 (India)
 Exam ID: AD0-E902
 
 ```
-
->[!BEGINTABS]
-
->[!TAB Get ready]
-
-**AD0-E902 Adobe Workfront Fusion Developer**
 
 **Exam objectives and scope**
 
@@ -115,8 +116,6 @@ The sample questions allow you to see the type and format of items that you will
 
 [See sample questions](https://scorpion.caveon.com/launchpad/ad0-e902-adobe-workfront-fusion-developer-professional-copy-exs5g8){target="_blank"}
 
-**AD0-E902 Adobe Workfront Fusion Developer**
-
 **Section 1: Foundational technical concepts**
 
 * [Mapping in Adobe Workfront Fusion](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&topicId=Content%2FWorkfront_Fusion%2FMapping%2F_mapping.htm&_LANG=en){target="_blank"}
@@ -154,7 +153,6 @@ The sample questions allow you to see the type and format of items that you will
 >
 >IMPORTANT NOTE: The following sections and links will **only** function after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
 
-
 **Now that you have successfully logged in, the following links will be directly accessible.**
 
 **Take a practice test**
@@ -176,7 +174,7 @@ Adobe uses two vendors to administer proctored exams, PSI and Examity.
 
 To schedule, reschedule, or cancel your exam, simply click on the vendor of choice, and follow the instructions provided on screen. It's that simple!
 
-Exam number: AD0-E902
+### Exam number: AD0-E902
 
 [!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&ec=AD0-E902 newtab=true"} [!BADGE Examity]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E902 newtab=true"}
 

@@ -1,23 +1,30 @@
 ---
-title: Adobe Workfront Certification
-description: You have technical knowledge about audience segmentation, destination exports, and activation on real time basis for unified profiles that adhere to data and privacy regulations, customer data platforms (CDP) and knowledge of Adobe Experience Platform.
+title: Adobe Workfront Project Manager Professional Certification
+description: Learn how to become a certified Adobe Project Manager professional.
 solution: Workfront
 role: Developer
 badge: label="Exam AD0-E903" type="positive"
+mini-toc-levels: 1
 ---
 # Certification journey for Adobe Workfront Project Manager professional
 
-![Certification Professional Badge](/help/certifications/assets/professional-badge-Xsmall.png)
+Learn how to become a certified Adobe Project Manager professional.
 
->[!NOTE]
->
->Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
+## Minimum experience:
 
 You should have:
 
 * An understanding about work process from an initial work request through completion or has had exposure to project or work management
 * Completed self-guided training or bootcamp or have been a Workfront user for 6-12 months so they understand basic functionality
 * An understanding of how to configure, track, and monitor report data
+
+>[!NOTE]
+>
+>Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
+
+>[!BEGINTABS]
+
+>[!TAB Get ready]
 
 **Intended audience:**
 
@@ -41,12 +48,6 @@ Cost: $125 (global) / $95 (India)
 Exam ID: AD0-E903
 
 ```
-
->[!BEGINTABS]
-
->[!TAB Get ready]
-
-**AD0-E903 Adobe Workfront Project Manager**
 
 **Readiness self-assessment**
 
@@ -106,8 +107,6 @@ The sample questions allow you to see the type and format of items that you will
 
 [See sample questions](https://scorpion.caveon.com/launchpad/ad4-e903-adobe-workfront-project-manager-certified-professional-exam-sample-exam){target="_blank"}
 
-**AD0-E903 Adobe Workfront Project Manager**
-
 **Recommended training course:**
 
 [Core team training for planners in the new Workfront experience](https://experienceleague.adobe.com/docs/workfront-course-map/using/learning-programs/core-team-training-program-for-planners.html){target="_blank"}
@@ -163,7 +162,6 @@ The sample questions allow you to see the type and format of items that you will
 >
 >IMPORTANT NOTE: The following sections and links will **only** function after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
 
-
 **Now that you have successfully logged in, the following links will be directly accessible.**
 
 **Take the certification exam**
@@ -175,7 +173,7 @@ Adobe uses two vendors to administer proctored exams, PSI and Examity.
 
 To schedule, reschedule, or cancel your exam, simply click on the vendor of choice, and follow the instructions provided on screen. It's that simple!
 
-Exam number: AD0-E903
+### Exam number: AD0-E903
 
 [!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&ec=AD0-E903 newtab=true"} [!BADGE Examity]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E903 newtab=true"}
 

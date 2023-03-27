@@ -1,17 +1,16 @@
 ---
-title: Adobe Target Certification
-description: You have technical knowledge about audience segmentation, destination exports, and activation on real time basis for unified profiles that adhere to data and privacy regulations, customer data platforms (CDP) and knowledge of Adobe Experience Platform.
+title: Adobe Target Business Practitioner Professional Certification
+description: Learn how to become a certified Adobe Business Practitioner professional.
 solution: Target
 role: Developer
 badge: label="Exam AD0-E408" type="positive"
+mini-toc-levels: 1
 ---
 # Certification journey for Adobe Target Business Practitioner professional
 
-![Certification Expert Badge](/help/certifications/assets/professional-badge-Xsmall.png)
+Learn how to become a certified Adobe Business Practitioner professional.
 
->[!NOTE]
->
->Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
+## Minimum experience:
 
 You should have:
 
@@ -21,6 +20,14 @@ You should have:
 * Ability to identify basic Target/Adobe Marketing Cloud administrative tasks (preferences, user roles and permissions, settings)
 * A basic knowledge of the three-step workflow (experiences, targeting, and goals and settings, including all reporting sources)
 * The ability to read and understand Activity reporting results
+
+>[!NOTE]
+>
+>Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
+
+>[!BEGINTABS]
+
+>[!TAB Get ready]
 
 **Intended audience:**
 
@@ -42,12 +49,6 @@ Exam ID: AD0-E408
 
 ```
 
->[!BEGINTABS]
-
->[!TAB Get ready]
-
-**AD0-E408 Adobe Target Business Practitioner**
-
 **Exam objectives and scope**
 
 Section 1: Planning and strategy (26%)
@@ -61,7 +62,7 @@ Section 1: Planning and strategy (26%)
 * Given a scenario, assess audience requirements
 * Describe appropriate analytics reporting sources (i.e., Target or Adobe Analytics)
 
-Section 2: Configuring, Executing and Managing (50%)
+Section 2: Configuring, executing and managing (50%)
 
 * Explain the use of Form-Based Experience Composer vs. the Visual Experience Composer
 * Describe procedures to create an experience using VEC
@@ -78,7 +79,7 @@ Section 2: Configuring, Executing and Managing (50%)
 * Describe procedures to conduct Activity QA
 * Describe procedures to manage Activities and Audiences within Target
 
-Section 3: Analyzing and Reporting (16%)
+Section 3: Analyzing and reporting (16%)
 
 * Describe settings to help set the elements that appear in a report
 * Describe the difference in Adobe Target Sample Size Calculator settings between planning and validating
@@ -104,10 +105,6 @@ Here are some suggested resources to help you prepare:
 The sample questions allow you to see the type and format of items that you will encounter in the actual exam. There is no sign-on needed. The results of the sample questions are not stored, and do not predict your actual test results.
 
 [See sample questions](https://scorpion.caveon.com/launchpad/ad0-e408-adobe-target-business-practitioner-professional-copy-5axknr){target="_blank"}
-
-**AD0-E408 Adobe Target Business Practitioner**
-
-The exam covers four domains: business analysis, reporting and dashboarding, segmentation and calculated metrics, general tool knowledge, and reporting.
 
 **Section 1: Planning and strategy**
 
@@ -156,7 +153,7 @@ Adobe uses two vendors to administer proctored exams, PSI and Examity.
 
 To schedule, reschedule, or cancel your exam, simply click on the vendor of choice, and follow the instructions provided on screen. It's that simple!
 
-Exam number: AD0-E408
+### Exam number: AD0-E408
 
 [!BADGE Examity]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E408 newtab=true"}
 

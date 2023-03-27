@@ -1,17 +1,16 @@
 ---
-title: AAdobe Target Business Practitioner
-description: Discover the steps to getting certified in Adobe Target Business Practitioner.
+title: Adobe Target Business Practitioner Expert Certification.
+description: Learn how to become a certified Adobe Business Practitioner expert.
 solution: Target
 role: Developer
 badge: label="Exam AD0-E406" type="positive"
+mini-toc-levels: 1
 ---
 # Certification journey for Adobe Target Business Practitioner expert
 
-![Certification Expert Badge](/help/certifications/assets/expert-badge-Xsmall.png)
+Learn how to become a certified Adobe Business Practitioner expert.
 
->[!NOTE]
->
->Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
+## Minimum experience:
 
 You should have:
 
@@ -59,6 +58,10 @@ Environments:
 * Use of target for single page applications 
 * Email
 
+>[!NOTE]
+>
+>Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
+
 >[!BEGINTABS]
 
 >[!TAB Get ready]
@@ -73,7 +76,7 @@ Environments:
 **Exam details:**
   
 ```
-Level: Expert (1-3 years experience)
+Level: Expert (1-3 years' experience)
 Passing Score: 46/68
 Time: 136 mins
 Delivery: Online proctored (requires camera access) or test center proctored
@@ -199,7 +202,7 @@ Adobe uses two vendors to administer proctored exams, PSI and Examity.
 
 To schedule, reschedule, or cancel your exam, simply click on the vendor of choice, and follow the instructions provided on screen. It's that simple!
 
-Exam number: AD0-E406
+### Exam number: AD0-E406
 
 [!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&ec=AD0-E406 newtab=true"} [!BADGE Examity]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E406 newtab=true"}
 
