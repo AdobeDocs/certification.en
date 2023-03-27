@@ -93,7 +93,7 @@ user-guide-description: Certification
     + Expert {#ame-expert}
       + [Business Practitioner](/help/certifications/ame/ame-e-business.md)
     + Master {#ame-master}
-      + [Architect)](/help/certifications/ame/ame-m-architect.md)
+      + [Architect](/help/certifications/ame/ame-m-architect.md)
     + [Renewal](/help/certifications/ame/ame-renew.md)
   + Adobe Doc Cloud {#adc}
     + Professional {#adc-professional}
