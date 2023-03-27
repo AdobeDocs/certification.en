@@ -1,17 +1,16 @@
 ---
-title: Adobe Experience Manager Certification 
-description: You have technical knowledge about audience segmentation, destination exports, and activation on real time basis for unified profiles that adhere to data and privacy regulations, customer data platforms (CDP) and knowledge of Adobe Experience Platform.
+title: Adobe Experience Manager Expert Certification 
+description: Learn how to become a certified Adobe Experience Manager expert.
 solution: Experience Manager as a Cloud Service
 role: Developer
 badge: label="Exam AD0-E136" type="positive"
+mini-toc-levels: 1
 ---
 # Certification journey for Adobe Experience Manager as a Cloud Service Migration expert
 
-![Certification Expert Badge](/help/certifications/assets/expert-badge-Xsmall.png)
+Learn how to become a certified Adobe Experience Manager expert.
 
->[!NOTE]
->
->Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
+## Minimum experience:
 
 You should have:
 
@@ -39,6 +38,14 @@ Additionally, you should be familiar with the following technologies and environ
 * Tailing Cloud logs in local environment
 * Cloud console interfaces
 
+>[!NOTE]
+>
+>Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
+
+>[!BEGINTABS]
+
+>[!TAB Get ready]
+
 **Intended audience:**
 
 * Developers who have experience with Adobe Experience Manager
@@ -49,7 +56,7 @@ Additionally, you should be familiar with the following technologies and environ
 * Adobe Experience Manager Forms Developers
 * Developers/DevOps/Leads/Architects who have participated in multiple AEM deployments with a minimum of 2-3 years of web application development experience using Adobe Experience Manager
 
-**Exam details - Adobe Experience Manager as a Cloud Service Migration**
+**Exam details**
 
 ```
 Level: Expert (1-3 years experience)
@@ -61,12 +68,6 @@ Cost: $125 (global) / $95 (India)
 Exam ID: AD0-E136
 
 ```
-
->[!BEGINTABS]
-
->[!TAB Get ready]
-
-**AD0-E136 Adobe Experience Manager as a Cloud Service Migration**
 
 **Exam objectives and scope**
 
@@ -113,8 +114,6 @@ Section 5: Implementation (16%)
 You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
 
 Here are some suggested resources to help you prepare:
-
-**AD0-E136 Adobe Experience Manager as a Cloud Service Migration**
 
 **Section 1: Assessment**
 
@@ -163,7 +162,7 @@ Adobe uses two vendors to administer proctored exams, PSI and Examity.
 
 To schedule, reschedule, or cancel your exam, simply click on the vendor of choice, and follow the instructions provided on screen. It's that simple!
 
-Exam number: AD0-E136
+### Exam number: AD0-E136
 
 [!BADGE Examity]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E136 newtab=true"}
 

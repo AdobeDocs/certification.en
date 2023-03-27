@@ -1,23 +1,30 @@
 ---
-title: Adobe Experience Manager Certification 
-description: You have technical knowledge about audience segmentation, destination exports, and activation on real time basis for unified profiles that adhere to data and privacy regulations, customer data platforms (CDP) and knowledge of Adobe Experience Platform.
+title: Adobe Experience Manager Sites Developer Professional Certification 
+description: Learn how to become a certified Adobe Business Practitioner expert.
 solution: Experience Manager Sites
 role: Developer
 badge: label="Exam AD0-E123" type="positive"
+mini-toc-levels: 1
 ---
 # Certification journey for Adobe Experience Manager Sites Developer professional
 
-![Certification Expert Badge](/help/certifications/assets/professional-badge-Xsmall.png)
+Learn how to become a certified Adobe Business Practitioner expert.
 
->[!NOTE]
->
->Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
+## Minimum experience:
 
 You should be an application developer and have:
 
 * 0-12 months of experience working with the AEM Platform
 * The ability to perform component development
 * A basic understanding of the MVC framework, life cycle frameworks and libraries in AEM
+
+>[!NOTE]
+>
+>Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
+
+>[!BEGINTABS]
+
+>[!TAB Get ready]
 
 **Intended audience:**
 
@@ -37,12 +44,6 @@ Cost: $125 (global) / $95 (India)
 Exam ID: AD0-E123
 
 ```
-
->[!BEGINTABS]
-
->[!TAB Get ready]
-
-**AD0-E123 Adobe Experience Platform Sites Developer**
 
 **Readiness self-assessment**
 
@@ -88,8 +89,6 @@ Here are some suggested resources to help you prepare:
 The sample questions allow you to see the type and format of items that you will encounter in the actual exam. There is no sign-on needed. The results of the sample questions are not stored, and do not predict your actual test results.
 
 [See sample questions](https://scorpion.caveon.com/launchpad/ad3-e123-adobe-experience-manager-sites-developer-professional-sample-questions){target="_blank"}
-
-**AD0-E123 Adobe Experience Platform Technical Foundations**
 
 **Section 1: Configurations**
 
@@ -141,7 +140,7 @@ Adobe uses two vendors to administer proctored exams, PSI and Examity.
 
 To schedule, reschedule, or cancel your exam, simply click on the vendor of choice, and follow the instructions provided on screen. It's that simple!
 
-Exam number: AD0-E123
+### Exam number: AD0-E123
 
 [!BADGE Examity]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E123 newtab=true"}
 

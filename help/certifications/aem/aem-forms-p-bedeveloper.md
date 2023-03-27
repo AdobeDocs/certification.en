@@ -1,17 +1,16 @@
 ---
-title: Adobe Experience Manager Certification 
-description: You have technical knowledge about audience segmentation, destination exports, and activation on real time basis for unified profiles that adhere to data and privacy regulations, customer data platforms (CDP) and knowledge of Adobe Experience Platform.
+title: Adobe Experience Manager Backend Forms Developer Professional Certification 
+description: Learn how to become a certified Adobe Backend Forms Developer professional.
 solution: Experience Manager Forms
 role: Developer
 badge: label="Exam AD0-E127" type="positive"
+mini-toc-levels: 1
 ---
 # Certification journey for Adobe Experience Manager Backend Forms Developer professional
 
-![Certification Expert Badge](/help/certifications/assets/professional-badge-Xsmall.png)
+Learn how to become a certified Adobe Backend Forms Developer professional.
 
->[!NOTE]
->
->Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
+## Minimum experience: 
 
 You should be a backend forms developer and have:
 
@@ -32,6 +31,14 @@ You should be familiar with the following technologies and environments:
 * Dev staging and production
 * Dev sandbox
 * Local environment
+
+>[!NOTE]
+>
+>Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
+
+>[!BEGINTABS]
+
+>[!TAB Get ready]
 
 **Intended audience:**
 
@@ -56,12 +63,6 @@ Cost: $125 (global) / $95 (India)
 Exam ID: AD0-E127
 
 ```
-
->[!BEGINTABS]
-
->[!TAB Get ready]
-
-**AD0-E127 Adobe Experience Manager Backend Developer**
 
 **Exam objectives and scope**
 
@@ -110,8 +111,6 @@ The sample questions allow you to see the type and format of items that you will
 
 [See sample questions](https://scorpion.caveon.com/launchpad/ad0-e127-adobe-experience-manager-backend-forms-developer-professional-copy-7s2acv){target="_blank"}
 
-**AD0-E127 Adobe Experience Manager Backend Developer**
-
 **Section 1: Forms creation and management**
 
 * [Adobe Experience Manager 6.5 Forms Guide](https://experienceleague.adobe.com/docs/experience-manager-65/forms/home.html?lang=en){target="_blank"}
@@ -133,7 +132,6 @@ The sample questions allow you to see the type and format of items that you will
 * [Adobe Experience Manager 6.5 Forms Guide](https://experienceleague.adobe.com/docs/experience-manager-65/forms/home.html?lang=en){target="_blank"}
 * [Dispatcher Overview](https://experienceleague.adobe.com/docs/experience-manager-dispatcher/using/dispatcher.html?lang=en){target="_blank"}
 * [AEM 6.5 Authoring User Guide](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html?lang=en){target="_blank"}
-
 
 **Section 4: API Endpoints and integrations**
 
@@ -158,7 +156,7 @@ Adobe uses two vendors to administer proctored exams, PSI and Examity.
 
 To schedule, reschedule, or cancel your exam, simply click on the vendor of choice, and follow the instructions provided on screen. It's that simple!
 
-Exam number: AD0-E127
+### Exam number: AD0-E127
 
 [!BADGE Examity]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E127 newtab=true"}
 

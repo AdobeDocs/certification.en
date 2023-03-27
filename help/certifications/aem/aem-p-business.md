@@ -1,23 +1,22 @@
 ---
-title: Adobe Experience Manager Certification 
-description: You have technical knowledge about audience segmentation, destination exports, and activation on real time basis for unified profiles that adhere to data and privacy regulations, customer data platforms (CDP) and knowledge of Adobe Experience Platform.
+title: Adobe Experience Manager Business Practitioner Professional Certification 
+description: Learn how to become a certified Adobe Business Practitioner professional.
 solution: Experience Manager
 role: Developer
 badge: label="Exam AD0-E126" type="positive"
+mini-toc-levels: 1
 ---
 # Certification journey for Adobe Experience Manager Business Practitioner professional
 
-![Certification Expert Badge](/help/certifications/assets/professional-badge-Xsmall.png)
+Learn how to become a certified Adobe Business Practitioner professional.
 
->[!NOTE]
->
->Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
+## Minimum experience:
 
 You should have:
 
 * At least 12 months of experience using and configuring Adobe Cloud Manager
-* At least 12 months of experience with AEM features and capabilities needed to engage developers to find buisness solutions
-* At least 24 months of experience configuring, implementing, and managing Countinuous Integration/Continuous Deployment tasks 
+* At least 12 months of experience with AEM features and capabilities needed to engage developers to find business solutions
+* At least 24 months of experience configuring, implementing, and managing Continuous Integration/Continuous Deployment tasks 
 
 If you're comfortable working in Adobe Managed Services and Adobe Experience Manager as a Cloud Service, and are able to set up Adobe Experience Manager environments and infrastructure.
 
@@ -26,6 +25,14 @@ Additionally, you should have:
 * The ability use AEM products to manage content to drive digital experiences
 * An understanding of what modules are present
 * A deeper insight into modules such as Sites, Assets, and Forms
+
+>[!NOTE]
+>
+>Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
+
+>[!BEGINTABS]
+
+>[!TAB Get ready]
 
 **Intended audience:**
 
@@ -45,12 +52,6 @@ Cost: $125 (global) / $95 (India)
 Exam ID: AD0-E126
 
 ```
-
->[!BEGINTABS]
-
->[!TAB Get ready]
-
-**AD0-E126 Adobe Experience Manager Business Practitioner**
 
 **Exam objectives and scope**
 
@@ -88,8 +89,6 @@ Here are some suggested resources to help you prepare:
 The sample questions allow you to see the type and format of items that you will encounter in the actual exam. There is no sign-on needed. The results of the sample questions are not stored, and do not predict your actual test results.
 
 [See sample questions](https://scorpion.caveon.com/launchpad/ad0-e126-adobe-experience-manager-business-practitioner-professional-copy-ddww4w){target="_blank"}
-
-**AD0-E126 Adobe Experience Manager Business Practitioner**
 
 **Section 1: Education**
 
@@ -137,7 +136,6 @@ The sample questions allow you to see the type and format of items that you will
 >
 >IMPORTANT NOTE: The following sections and links will **only** function after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
 
-
 **Now that you have successfully logged in, the following links will be directly accessible.**
 
 **Take the certification exam**
@@ -149,7 +147,7 @@ Adobe uses two vendors to administer proctored exams, PSI and Examity.
 
 To schedule, reschedule, or cancel your exam, simply click on the vendor of choice, and follow the instructions provided on screen. It's that simple!
 
-Exam number: AD0-E126
+### Exam number: AD0-E126
 
 [!BADGE Examity]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E126 newtab=true"}
 

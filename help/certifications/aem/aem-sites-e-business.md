@@ -1,17 +1,16 @@
 ---
-title: Adobe Experience Manager Certification 
-description: You have technical knowledge about audience segmentation, destination exports, and activation on real time basis for unified profiles that adhere to data and privacy regulations, customer data platforms (CDP) and knowledge of Adobe Experience Platform.
+title: Adobe Experience Manager Business Practitioner Expert Certification 
+description: Learn how to become a certified Adobe Business Practitioner expert.
 solution: Experience Manager Sites
 role: Developer
 badge: label="Exam AD0-E121" type="positive"
+mini-toc-levels: 1
 ---
 # Certification journey for Adobe Experience Manager Sites Business Practitioner expert
 
-![Certification Expert Badge](/help/certifications/assets/expert-badge-Xsmall.png)
+Learn how to become a certified Adobe Business Practitioner expert.
 
->[!NOTE]
->
->Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
+## Minimum experience:
 
 You should have:
 
@@ -42,6 +41,14 @@ Additionally, you should be familiar with the following technologies and environ
 * General understanding of the Web
 * Responsive web design concepts
 
+>[!NOTE]
+>
+>Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
+
+>[!BEGINTABS]
+
+>[!TAB Get ready]
+
 **Intended audience:** 
 
 * Solution consultant
@@ -65,12 +72,6 @@ Cost: $225 (global) / $150 (India)
 Exam ID: AD0-E121
 
 ```
-
->[!BEGINTABS]
-
->[!TAB Get ready]
-
-**AD0-E121 Adobe Experience Manager Sites Business Practitioner**
 
 **Readiness self-assessment**
 
@@ -111,8 +112,6 @@ You are not required to complete training before taking the exam, and training a
 
 Here are some suggested resources to help you prepare:
 
-**AD0-E121 Adobe Experience Manager Sites Business Practitioner**
-
 **Section 1: Education**
 
 * [AEM 6.5 Developing User Guide](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html?lang=en){target="_blank"} 
@@ -128,25 +127,25 @@ Here are some suggested resources to help you prepare:
 
 * [An Introduction to Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/overview/introduction.html){target="_blank"} 
 * [Learn About AEM 6.5 Capabilities](https://experienceleague.adobe.com/docs/experience-manager-65/user-guide/troubleshooting/learn.html?lang=en){target="_blank"} 
-* [Adobe Experience Manager Documentation](https://experienceleague.adobe.com/docs/experience-manager.html?lang=en){target="_blank"} 
+* [Adobe Experience Manager documentation](https://experienceleague.adobe.com/docs/experience-manager.html?lang=en){target="_blank"} 
 * [Key features and capabilities](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/key-features.html?lang=en){target="_blank"} 
-* [Integrating with Third-Party Services](https://experienceleague.adobe.com/docs/experience-manager-64/administering/integration/third-party-services.html?lang=en)
-* [Solutions Integration](https://experienceleague.adobe.com/docs/experience-manager-64/administering/integration/integration.html?lang=en){target="_blank"} 
+* [Integrating with third-party services](https://experienceleague.adobe.com/docs/experience-manager-64/administering/integration/third-party-services.html?lang=en)
+* [Solutions integration](https://experienceleague.adobe.com/docs/experience-manager-64/administering/integration/integration.html?lang=en){target="_blank"} 
 * [Experience Cloud integrations overview](https://experienceleague.adobe.com/docs/core-services/interface/administration/marketing-cloud-integrations.html?lang=en){target="_blank"} 
-* [Managing User Roles and Permissions](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.html?lang=en){target="_blank"} 
+* [Managing user roles and permissions](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.html?lang=en){target="_blank"} 
 * [Roles and permissions](https://experienceleague.adobe.com/docs/mobile-services/using/get-started-ug/c-mob-roles-and-permissions.html?lang=en){target="_blank"} 
 * [Users, roles, and permissions](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/admin/users-roles-permissions.html){target="_blank"} 
-* [Manage Users, Groups, and User Roles](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/admin-tools/brand-portal-adding-users.html?lang=en){target="_blank"} 
-* [Caching Secured Content](https://experienceleague.adobe.com/docs/experience-manager-dispatcher/using/configuring/permissions-cache.html?lang=en){target="_blank"} 
-* [Chapter 1 - Dispatcher Concepts, Patterns and Antipatterns](https://experienceleague.adobe.com/docs/experience-manager-learn/dispatcher-tutorial/chapter-1.html){target="_blank"} 
+* [Manage users, groups, and user roles](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/admin-tools/brand-portal-adding-users.html?lang=en){target="_blank"} 
+* [Caching secured content](https://experienceleague.adobe.com/docs/experience-manager-dispatcher/using/configuring/permissions-cache.html?lang=en){target="_blank"} 
+* [Chapter 1 - Dispatcher concepts, patterns and antipatterns](https://experienceleague.adobe.com/docs/experience-manager-learn/dispatcher-tutorial/chapter-1.html){target="_blank"} 
 * [Chapter 2 – Infrastructure](https://experienceleague.adobe.com/docs/experience-manager-learn/dispatcher-tutorial/chapter-2.html){target="_blank"} 
-* [Chapter 3 - Advanced Caching Topics](https://experienceleague.adobe.com/docs/experience-manager-learn/dispatcher-tutorial/chapter-3.html){target="_blank"} 
+* [Chapter 3 - Advanced caching topics](https://experienceleague.adobe.com/docs/experience-manager-learn/dispatcher-tutorial/chapter-3.html){target="_blank"} 
 
 **Section 3: Business analysis**
 
-* [Develop Global Websites in AEM](https://learning.adobe.com/catalog/adobe_experiencemanager/cours000000000087076.html){target="_blank"} 
-* [AEM Core Concepts](https://experienceleague.adobe.com/docs/experience-manager-65/developing/introduction/the-basics.html?lang=en){target="_blank"} 
-* [Components Overview](https://experienceleague.adobe.com/docs/experience-manager-64/developing/components/components.html?lang=en){target="_blank"} 
+* [Develop global websites in AEM](https://learning.adobe.com/catalog/adobe_experiencemanager/cours000000000087076.html){target="_blank"} 
+* [AEM core concepts](https://experienceleague.adobe.com/docs/experience-manager-65/developing/introduction/the-basics.html?lang=en){target="_blank"} 
+* [Components overview](https://experienceleague.adobe.com/docs/experience-manager-64/developing/components/components.html?lang=en){target="_blank"} 
 * [Content Architecture](https://experienceleague.adobe.com/docs/experience-manager-64/developing/bestpractices/content-architecture.html?lang=en){target="_blank"} 
 * [Managing Projects - Best Practices Checklist](https://experienceleague.adobe.com/docs/experience-manager-64/managing/managing-best-practices-checklist/best-practices.html?lang=en){target="_blank"} 
 * [Considerations as Projects are Scoped](https://experienceleague.adobe.com/docs/experience-manager-screens/using/strategic-brief/pre-sales-considerations.html?lang=en){target="_blank"} 
@@ -168,7 +167,7 @@ Here are some suggested resources to help you prepare:
 * [Components Overview](https://experienceleague.adobe.com/docs/experience-manager-64/developing/components/components.html?lang=en){target="_blank"} 
 * [Component Guidelines](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/developing/guidelines.html?lang=en){target="_blank"} 
 * [Components](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/sites/authoring/fundamentals/components.html?lang=en){target="_blank"} 
-* [Localization Features of the Core Componentss](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/get-started/localization.html?lang=en){target="_blank"} 
+* [Localization Features of the Core Components](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/get-started/localization.html?lang=en){target="_blank"} 
 * [Search Feature](https://experienceleague.adobe.com/docs/experience-manager-64/communities/authoring/search.html?lang=en){target="_blank"} 
 
 >[!TAB Get certified]
@@ -199,7 +198,7 @@ Adobe uses two vendors to administer proctored exams, PSI and Examity.
 
 To schedule, reschedule, or cancel your exam, simply click on the vendor of choice, and follow the instructions provided on screen. It's that simple!
 
-Exam number: AD0-E121
+### Exam number: AD0-E121
 
 [!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&ec=AD0-E121 newtab=true"} [!BADGE Examity]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E121 newtab=true"}
 

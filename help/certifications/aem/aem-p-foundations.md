@@ -1,24 +1,23 @@
 ---
-title: Adobe Experience Manager Certification 
-description: You have technical knowledge about audience segmentation, destination exports, and activation on real time basis for unified profiles that adhere to data and privacy regulations, customer data platforms (CDP) and knowledge of Adobe Experience Platform.
+title: Adobe Experience Manager Technical Foundations Professional Certification 
+description: Learn how to become a certified Adobe Experience Manager professional.
 solution: Experience Manager
 role: Developer
 badge: label="Exam AD0-E132 type="positive"
+mini-toc-levels: 1
 ---
 # Certification journey for Adobe Experience Manager Technical Foundations professional
 
-![Certification Expert Badge](/help/certifications/assets/professional-badge-Xsmall.png)
+Learn how to become a certified Adobe Experience Manager professional.
 
->[!NOTE]
->
->Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
+## Minimum experience:
 
 You should be an application developer and have:
 
 * A minimum of 12 months experience working with the AEM Platform
 * The ability to perform advanced component development
 * A deep understanding of the MVC framework
-* The awarenes of frameworks and libraries in AEM
+* The awareness of frameworks and libraries in AEM
 * An understanding of the AEM development life cycle
  
  Additionally, you should be familiar with the following technologies and environments:
@@ -31,6 +30,14 @@ You should be an application developer and have:
 * Staging environments
 * Different AEM hosting capabilities
 * Sync content/environments together
+
+>[!NOTE]
+>
+>Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
+
+>[!BEGINTABS]
+
+>[!TAB Get ready]
 
 **Intended audience:**
 
@@ -49,12 +56,6 @@ Cost: $125 (global) / $95 (India)
 Exam ID: AD0-E132
 
 ```
-
->[!BEGINTABS]
-
->[!TAB Get ready]
-
-**AD0-E132 Adobe Experience Manager Technical Foundations**
 
 **Exam objectives and scope**
 
@@ -97,8 +98,6 @@ Section 4: Maintenance and user administration (12%)
 You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
 
 Here are some suggested resources to help you prepare:
-
-**AD0-E132 Adobe Experience Manager Assets Developers**
 
 **Section 1: Content creation**
 
@@ -145,7 +144,7 @@ Adobe uses two vendors to administer proctored exams, PSI and Examity.
 
 To schedule, reschedule, or cancel your exam, simply click on the vendor of choice, and follow the instructions provided on screen. It's that simple!
 
-Exam number: AD0-E132
+### Exam number: AD0-E132
 
 [!BADGE Examity]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E132 newtab=true"}
 

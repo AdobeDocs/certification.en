@@ -1,21 +1,20 @@
 ---
-title: Adobe Experience Manager Certification 
-description: You have technical knowledge about audience segmentation, destination exports, and activation on real time basis for unified profiles that adhere to data and privacy regulations, customer data platforms (CDP) and knowledge of Adobe Experience Platform.
+title: Adobe Experience Manager Architect Master Certification 
+description: Learn how to become a certified Architect master.
 solution: Experience Manager Sites
 role: Developer
 badge: label="Exam AD0-E117" type="positive"
+mini-toc-levels: 1
 ---
 # Certification journey for Adobe Experience Manager Architect master
 
-![Certification Master Badge](/help/certifications/assets/master-badge-Xsmall.png)
+Learn how to become a certified Architect master.
 
->[!NOTE]
->
->Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
+## Minimum experience:
 
 You should have:
 
-* At least 3 years of experience architecting AEM Sites
+* At least 3 years of experience as an architect building AEM Sites
 * The ability to work in Adobe Managed Services and Adobe Experience Manager as a Cloud Service
 * The ability to set up Adobe Experience Manager environments and infrastructure
 
@@ -44,8 +43,11 @@ Additionally, you should have the ability to perform the following tasks:
 
 >[!NOTE]
 >
->NOTE: This exam covers AEM 6.4, 6.5, and AEM as a Cloud Service.
+>Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
 
+>[!BEGINTABS]
+
+>[!TAB Get ready]
 
 **Intended audience:**
 
@@ -67,12 +69,6 @@ Cost: $225 (global) / $150 (India)
 Exam ID: AD0-E117
 
 ```
-
->[!BEGINTABS]
-
->[!TAB Get ready]
-
-**AD0-E117 Adobe Experience Manager Architect**
 
 **Readiness self assessment**
 
@@ -120,8 +116,6 @@ The sample questions allow you to see the type and format of items that you will
 
 [See sample questions](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-ycpz52/ad-q-e117-readiness-questionnaire-for-adobe-aem-architect-master-exam){target="_blank"}
 
-**AD0-E117 Adobe Experience Manager Architect**
-
 **Section 1: Discovery**
 
 * [AEM 6.5 Developing User Guide](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html?lang=en){target="_blank"}
@@ -150,8 +144,8 @@ The sample questions allow you to see the type and format of items that you will
 * [How to show/hide page properties based on template in AEM 6.4](https://blogs.perficient.com/2019/01/03/how-to-show-hide-page-properties-based-on-page-template-in-aem-6-4/){target="_blank"}
 * [AEM Granite Custom Render Conditions](http://www.nateyolles.com/blog/2016/07/aem-granite-custom-render-conditions){target="_blank"}
 * [AEM 6.5 Developing User Guide](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html?lang=en){target="_blank"}
-* [Preventing XSS in React Applications](https://dev.to/spukas/preventing-xss-in-react-applications-5f5j)){target="_blank"}
-* [AEM 6.5 Administering User Guide](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html?lang=en)){target="_blank"}
+* [Preventing XSS in React Applications](https://dev.to/spukas/preventing-xss-in-react-applications-5f5j){target="_blank"}
+* [AEM 6.5 Administering User Guide](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html?lang=en){target="_blank"}
 * [AEM 6.4 Mobile User Guide](https://experienceleague.adobe.com/docs/experience-manager-64/mobile/home.html?lang=en){target="_blank"}
 * [AEM 6.4 Developing User Guide](https://experienceleague.adobe.com/docs/experience-manager-64/developing/home.html?lang=en)
 * [AEM Sites videos and tutorials](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/overview.html?lang=en){target="_blank"}
@@ -224,7 +218,7 @@ Adobe uses two vendors to administer proctored exams, PSI and Examity.
 
 To schedule, reschedule, or cancel your exam, simply click on the vendor of choice, and follow the instructions provided on screen. It's that simple!
 
-Exam number: AD0-E117
+### Exam number: AD0-E117
 
 [!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&ec=AD0-E117 newtab=true"} [!BADGE Examity]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E117 newtab=true"}
 

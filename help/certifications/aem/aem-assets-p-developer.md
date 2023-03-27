@@ -1,17 +1,16 @@
 ---
-title: Learn how to get certified in Adobe Experience Manager Assets Developer.
-description: Discover the steps to getting certified in Adobe Experience Manager Assets Developer.
+title: Adobe Experience Manager Professional Certification
+description: Learn how to become a certified Adobe Experience Manager professional.
 solution: Experience Manager Assets
 role: Developer
 badge: label="Exam AD0-E129" type="positive"
+mini-toc-levels: 1
 ---
 # Certification journey for Adobe Experience Manager Assets Developer professional
 
-![Certification Expert Badge](/help/certifications/assets/professional-badge-Xsmall.png)
+Learn how to become a certified Adobe Experience Manager professional.
 
->[!NOTE]
->
->Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
+## Minimum experience:
 
 You should be comfortable working in Adobe Managed Services and Adobe Experience Manager as a Cloud Service, and are able to set up Adobe Experience Manager environments and infrastructure. 
 
@@ -34,6 +33,14 @@ Additionally, you should have experience with the following technologies and env
 * Dev sandbox
 * Local environment
 
+>[!NOTE]
+>
+>Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
+
+>[!BEGINTABS]
+
+>[!TAB Get ready]
+
 **Intended audience:**
 
 * AEM Developers
@@ -53,16 +60,10 @@ Passing Score: 30/50
 Time: 100 mins
 Delivery: Online proctored (requires camera access)
 Available languages: English
-Cost: $125 (global) and $95 (India)
+Cost: $125 (global) / $95 (India)
 Exam ID: AD0-E129
 
 ```
-
->[!BEGINTABS]
-
->[!TAB Get ready]
-
-**AD0-E129 Adobe Experience Manager Assets Developer**
 
 **Readiness self assessment**
 
@@ -117,8 +118,6 @@ The sample questions allow you to see the type and format of items that you will
 
 [See sample questions](https://scorpion.caveon.com/launchpad/ad0-e129-adobe-experience-manager-assets-developer-professional-copy-ms27zq){target="_blank"}
 
-**AD0-E129 Adobe Experience Manager Assets Developers**
-
 **Section 1: Asset workflows**
 
 * [Creating Workflow Models](https://experienceleague.adobe.com/docs/experience-manager-64/developing/extending-aem/extending-workflows/workflows-models.html?lang=en#sync-your-workflow-generate-a-runtime-model){target="_blank"}
@@ -154,10 +153,7 @@ The sample questions allow you to see the type and format of items that you will
 >
 >IMPORTANT NOTE: The following sections and links will **only** function after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
 
-
 **Now that you have successfully logged in, the following links will be directly accessible.**
-
-**Take the certification exam**
 
 **Take the certification exam**
 
@@ -168,7 +164,7 @@ Adobe uses two vendors to administer proctored exams, PSI and Examity.
 
 To schedule, reschedule, or cancel your exam, simply click on the vendor of choice, and follow the instructions provided on screen. It's that simple!
 
-Exam number: AD0-E129
+### Exam number: AD0-E129
 
 [!BADGE Examity]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E129 newtab=true"}
 
