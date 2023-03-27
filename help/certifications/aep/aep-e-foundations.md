@@ -1,6 +1,6 @@
 ---
 title: Adobe Experience Platform Certification
-description: Learn how to become a certified Adobe
+description: Learn how to become a certified Adobe Experience Platform expert.
 solution: Experience Platform
 role: Developer
 badge: label="Exam AD0-E600 & AD7-E601" type="positive"
@@ -9,11 +9,9 @@ mini-toc-levels: 1
 
 # Certification journey for Adobe Experience Platform expert
 
-![Certification Expert Badge](/help/certifications/assets/expert-badge-Xsmall.png)
+Learn how to become a certified Adobe Experience Platform expert.
 
->[!NOTE]
->
->Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
+## Minimum experience:
 
 To earn a certification with exam, you need to pass 2 distinct exams with a proctor present, online or on-site, where available.
 
@@ -31,6 +29,14 @@ You should have:
 * The ability to determine what profile attributes are needed
 * Knowledge of frequency of sending segments out through destinations
 * Knowledge of how often segment membership is updated
+
+>[!NOTE]
+>
+>Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
+
+>[!BEGINTABS]
+
+>[!TAB Get ready]
 
 **Intended audience:**
 
@@ -58,12 +64,6 @@ Cost: $225 (global) / $150 (India)
 Exam ID: AD0-E600
 
 ```
-
->[!BEGINTABS]
-
->[!TAB Get ready]
-
-**AD0-E600 Adobe Experience Platform Technical Foundations**
 
 **Exam Objectives and scope**
 
@@ -104,10 +104,6 @@ You are not required to complete training before taking the exam, and training a
 
 Here are some suggested resources to help you prepare:
 
-**AD0-E600 Adobe Experience Platform Technical Foundations**
-
-The exam covers four domains: business analysis, reporting and dashboarding, segmentation and calculated metrics, general tool knowledge, and reporting.
-
 **Section 1: Data modeling**
 
 * [Understanding Schemas](https://experienceleague.adobe.com/docs/experience-platform/xdm/schema/composition.html){target="_blank"}
@@ -137,7 +133,6 @@ The exam covers four domains: business analysis, reporting and dashboarding, seg
 >
 >IMPORTANT NOTE: The following sections and links will **only** function after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
 
-
 **Now that you have successfully logged in, the following links will be directly accessible.**
 
 **Take a practice test**
@@ -159,7 +154,7 @@ Adobe uses two vendors to administer proctored exams, PSI and Examity.
 
 To schedule, reschedule, or cancel your exam, simply click on the vendor of choice, and follow the instructions provided on screen. It's that simple!
 
-Exam number: AD0-E600
+### Exam number: AD0-E600
 
 [!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&ec=AD0-E600 newtab=true"} [!BADGE Examity]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E600 newtab=true"}
 
@@ -168,6 +163,10 @@ You can pay for your certification exam by voucher or credit card. To purchase a
 You can apply the voucher code when you schedule your exam. If you have a discount, it will apply at checkout.
 
 >[!ENDTABS]
+
+>[!BEGINTABS]
+
+>[!TAB Get ready]
 
 **Requirement 2: AD7-E601 Adobe Real-Time CDP Technical Practitioner**
 
@@ -185,12 +184,6 @@ Cost: $225 (global) / $150 (India)
 Exam ID: AD7-E601
 
 ```
-
->[!BEGINTABS]
-
->[!TAB Get ready]
-
-**AD7-E601 Adobe Real-Time CDP Technical Practioner**
 
 **Readiness self-assessment**
 
@@ -216,10 +209,7 @@ Section 3: Destinations (27%)
 * Apply concepts required to configure one or more Destinations when sending/exporting audiences based on business use cases
 * Demonstrate an understanding of exporting segments through Destination
 
-
 >[!TAB Get prepped]
-
-**AD7-E601 Adobe Real-Time CDP Technical Practioner**
 
 **Section 1: Validation**
 
@@ -281,13 +271,11 @@ Section 3: Destinations (27%)
 * [Configure a social destination](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/configure-a-social-destination.html){target="_blank"}
 * [Activate data to non-Adobe application](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/activate-data-to-non-adobe-applications.html){target="_blank"}
 
-
 >[!TAB Get certified]
 
 >[!NOTE]
 >
 >IMPORTANT NOTE: The following sections and links will **only** function after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
-
 
 **Now that you have successfully logged in, the following links will be directly accessible.**
 
@@ -310,7 +298,7 @@ Adobe uses two vendors to administer proctored exams, PSI and Examity.
 
 To schedule, reschedule, or cancel your exam, simply click on the vendor of choice, and follow the instructions provided on screen. It's that simple!
 
-Exam number: AD0-E601
+### Exam number: AD0-E601
 
 [!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&ec=AD7-E601 newtab=true"} [!BADGE Examity]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD7-E601 newtab=true"}
 
