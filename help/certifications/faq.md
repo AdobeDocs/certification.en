@@ -22,7 +22,7 @@ Individual benefits: Certification is a credential that recognizes an individual
 
 Certifications require commitment, are legally defensible, and validation from Adobe of your expertise. You can also feature your certification on your social profiles by downloading your badge from Credly. 
 
-To learn more about how to manage your badges, go [HERE](https://experienceleague.corp.adobe.com/docs/certification/certification/how-to-get-certified.html?lang=en){target="_blank"}.
+To learn more about how to manage your badges in Credly, go [HERE](https://experienceleague.corp.adobe.com/docs/certification/certification/how-to-get-certified.html?lang=en){target="_blank"}.
 
 +++
 
@@ -134,7 +134,62 @@ Not directly, no. But because certification will now require renewal every 2 yea
 
 >[!TAB Renewals via on-demand exams]
 
-ADD Content
++++WHAT IS CERTIFICATION RENEWAL? HOW DO I RENEW MY CERTIFICATION? 
+
+Adobe certifications expire after two years. You can renew your certification by taking and passing the latest version of the applicable Adobe certification exam. If a new exam is not available, your certification will be extended until the new exam is available. 
+
+You have two options: 
+
+* Take the regular certification exam 
+* Take the renewal exam—a shorter exam that focuses on the newest solution capabilities as well as the things you already know.  
+
+You can't take a renewal exam if you don't have the original certification or if your certification has expired. 
+
+Occasionally, we retire an exam for a role. In that case, your certification will last for two years, then that certification will expire. For example, we no longer offer the Lead/Dev Ops certification, so that certification will expire without a replacement exam.
+
++++
+
++++WHAT HAPPENS IF I DON'T RENEW MY CERTIFICATION RENEWAL BEFORE IT EXPIRES? 
+
+Your certification will expire and will show as expired in Credly and any of your social profiles. Also, if your certification expires, then you can't take the shorter renewal exam or renew via continuous learning. 
+
+To learn more about how to manage your badges in Credly, go [HERE](https://experienceleague.corp.adobe.com/docs/certification/certification/how-to-get-certified.html?lang=en){target="_blank"}.
+
++++
+
++++WHAT IS THE COST TO RENEW MY CERTIFICATION? 
+
+You can renew your certification free of charge. This provides you with a cost-effective way to maintain your certification, and keep your solution skills up to date.
+
+To learn more about How to Renew Your Certification, go [here](https://experienceleague.corp.adobe.com/docs/certification/certification/renew.html?lang=en){target="_blank"}.
+
++++
+
++++WHERE CAN I SEE MY CERTIFICATION EXPIRATION DATE?  WILL I GET AN EXPIRATION NOTICE? 
+
+Sign in to [Adobe Credential Management System](https://www.certmetrics.com/adobe/){target="_blank"}. There you can see when you achieved your credential and when it will expire. You should also check your profile and confirm that your contact, secondary email and job information are correct. 
+
+You will get an email notification one month before your certification expires. But if you have changed jobs and haven't updated your email then you might not get notified. Add a secondary email (such as Gmail, Hotmail, Yahoo, etc.) in your CertMetrics account, so that you get a certification expiration reminder email, even if you change companies. 
+
++++
+
++++WHICH EXAM DO I NEED TO TAKE FOR MY RENEWAL? 
+
+To find out what exam you will need to take, log in to the [Adobe Credential Management System](https://www.certmetrics.com/adobe/){target="_blank"} using your Adobe ID, click Certifications, and select the certification name. The renewal exam is listed under **requirement to stay current**. 
+
++++
+
++++WHEN I RENEW MY CERTIFICATION WILL I GET A NEW DIGITAL BADGE? 
+
+No. Your digital badge will remain the same. 
+
++++
+
++++IS IT POSSIBLE THAT I COULD TAKE THE SAME EXAM FOR RENEWAL THAT I TOOK TO EARN MY INITIAL CERTIFICATION? 
+
+No. You cannot retake a version that you already successfully passed. You will have to wait until the new exam is released.  
+
++++
 
 >[!TAB Renewals via continuous learning]
 
