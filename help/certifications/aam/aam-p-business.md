@@ -1,16 +1,16 @@
 ---
-title: Adobe Audience Manager Business Practitioner Professional Certification
-description: Learn how to become certified as an Adobe Audience Manager Business Practitioner professional.
+title: Business Practitioner Professional Certification
+description: Learn how to become certified as an Adobe [!DNL Audience Manager] Business Practitioner professional.
 solution: Audience Manager
 role: Developer
 badge: label="Exam AD0-E458" type="positive"
 mini-toc-levels: 1
 ---
-# Certification journey for Adobe Audience Manager Business Practitioner professional
+# Certification journey for Adobe [!DNL Audience Manager] Business Practitioner professional
 
-Learn how to become certified as an Adobe Audience Manager Business Practitioner professional.
+Learn how to become certified as an [!DNL Audience Manager] Business Practitioner professional.
 
-## Minimum experience:
+## Minimum experience
 
 You should have a basic understanding of data flows, business objectives and KPIs, with some experience around data analytics and strategies
 
@@ -92,9 +92,9 @@ The sample questions allow you to see the type and format of items that you will
 
 * [Bulk upload data usage into Audience Marketplace](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/audience-marketplace/buying-data/bulk-uploading-data-usage-into-the-audience-marketplace.html?lang=en){target="_blank"}
 * [About segments](https://experienceleague.adobe.com/docs/analytics/components/segmentation/seg-overview.html?lang=en){target="_blank"}
-* [Create a conversion trait in Audience Manager](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/creating-conversion-traits.html?lang=en){target="_blank"}
-* [Audience Manager tutorials](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/overview.html?lang=tr){target="_blank"}
-* [GDPR Readiness Guidance for Audience Manager Customers (Data Controllers)](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/data-privacy/data-privacy-reference/aam-gdpr-readiness.html?lang=en){target="_blank"}
+* [Create a conversion trait in [!DNL Audience Manager]](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/creating-conversion-traits.html?lang=en){target="_blank"}
+* [[!DNL Audience Manager] tutorials](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/overview.html?lang=tr){target="_blank"}
+* [GDPR Readiness Guidance for [!DNL Audience Manager] Customers (Data Controllers)](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/data-privacy/data-privacy-reference/aam-gdpr-readiness.html?lang=en){target="_blank"}
 * [Segment Details Page](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/segment-summary-view.html?lang=en){target="_blank"}
 * [Customer tips - trait and segment best practices](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/customer-tips-traits-and-segments-best-practices.html%3Flang%3Dja){target="_blank"}
 
@@ -102,14 +102,14 @@ The sample questions allow you to see the type and format of items that you will
 
 * [Signals, Traits, and Segments](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reference/signal-trait-segment.html?lang=en){target="_blank"}
 * [Segments: Purpose, Composition, and Rules](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/segments-purpose.html?lang=en){target="_blank"}
-* [Experience Platform segment sharing with Audience Manager and other Experience Cloud solutions](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/integration-experience-platform/aam-aep-audience-sharing.){target="_blank"}
+* [Experience Platform segment sharing with [!DNL Audience Manager] and other Experience Cloud solutions](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/integration-experience-platform/aam-aep-audience-sharing.){target="_blank"}
 * [Trait and Segment Qualification Reference](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/trait-and-segment-qualification-reference.html?lang=en){target="_blank"}
 * [Trait and Segment Population Data in Segment Builder](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/segment-builder-data.html?lang=en){target="_blank"}
 
 **Section 3: Reporting and measurements**
 
 * [Using Audience Optimization Reports to Understand Media Performance](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/reports/using-audience-optimization-reports-to-understand-media-performance.html?lang=en){target="_blank"}
-* [Experience Platform segment sharing with Audience Manager and other Experience Cloud solutions](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/integration-experience-platform/aam-aep-audience-sharing.html?lang=en){target="_blank"}
+* [Experience Platform segment sharing with [!DNL Audience Manager] and other Experience Cloud solutions](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/integration-experience-platform/aam-aep-audience-sharing.html?lang=en){target="_blank"}
 * [Understand Match Rates](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/data-activation/destinations-basics/understanding-match-rates.html?lang=en){target="_blank"}
 * [Create a Data Source for Analytics Data](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/setup-and-admin/data-sources/create-a-data-source-for-analytics-data.html?lang=ru){target="_blank"}
 
@@ -132,15 +132,15 @@ The sample questions allow you to see the type and format of items that you will
 **Section 6: Profile merge, ID sync, and Audience marketplace**
 
 * [How Profile Merge Rule enhancements impact segmentation, activation, and reporting](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/profile-merge/how-profile-merge-rule-enhancements-impact-segmentation-activation-and-reporting.html?lang=en){target="_blank"}
-* [Create a conversion trait in Audience Manager](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/creating-conversion-traits.html?lang=en){target="_blank"}
+* [Create a conversion trait in [!DNL Audience Manager]](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/creating-conversion-traits.html?lang=en){target="_blank"}
 * [Activate audience segments on-demand to batch destinations via the ad-hoc activation API](https://experienceleague.adobe.com/docs/experience-platform/destinations/api/ad-hoc-activation-api.html?lang=en){target="_blank"}
 * [Activate profiles and segments to a destination](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/activate-profiles-and-segments-to-a-destination.html?lang=en){target="_blank"}
 
 >[!TAB Get certified]
 
->[!NOTE]
+>[!IMPORTANT]
 >
->IMPORTANT NOTE: The following sections and links will **only** function after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
+>The following sections and links will function **only** after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
 
 
 **Now that you have successfully logged in, the following links will be directly accessible.**
@@ -150,7 +150,7 @@ The sample questions allow you to see the type and format of items that you will
 Adobe uses two vendors to administer proctored exams, PSI and Examity. 
 
 * **PSI** offers two options for taking exams, test center and remote online
-* **Examity** only offers the remote online option
+* **[!DNL Examity]** only offers the remote online option
 
 To schedule, reschedule, or cancel your exam, simply click on the vendor of choice, and follow the instructions provided on screen. It's that simple!
 

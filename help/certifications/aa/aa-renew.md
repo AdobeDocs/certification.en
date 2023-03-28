@@ -1,5 +1,5 @@
 ---
-title: Renew your certification
+title: Certification renewal
 description: Learn how to renew your Adobe Analytics certification before it expires.
 solution: Analytics
 role: Developer

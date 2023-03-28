@@ -1,21 +1,21 @@
 ---
-title: Adobe Audience Manager Renewal
-description: Learn how to renew your certification before it expires.
+title: Certification renewal
+description: Learn how to renew your [!DNL Audience Manager] certification before it expires.
 solution: Audience Manager
 role: Developer
 badge: label="Campaign Standard Renewal" type="positive"
 mini-toc-levels: 1
 hidefromtoc: yes
 ---
-# Renew your Adobe Audience Manager certification
+# Renew your Adobe [!DNL Audience Manager] certification
 
 When you pass a certification exam, your certification is valid for two years.
 
-We're happy to announce that you are now able to renew your certification via a new, no-cost format. It involves using on-demand Adobe Experience League courses and tutorials—simply complete three activities to renew your certification at no cost. You must renew before your certification expires, or you will need to take the full exam to become certified again. 
+We're happy to announce that you are now able to renew your certification via a new, no-cost format. It involves using on-demand Adobe Experience League courses and tutorials--simply complete three activities to renew your certification at no cost. You must renew before your certification expires, or you will need to take the full exam to become certified again. 
 
->[!NOTE]
+>[!IMPORTANT]
 >
->IMPORTANT NOTE: The following exam links will **only** function after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
+>The following sections and links will function **only** after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
 
 >[!BEGINTABS]
 
@@ -93,10 +93,10 @@ Here are some suggested resources to help you prepare:
 
 **Resources:**
 
-* [Adobe Audience Manager Product Documentation](https://docs.adobe.com/content/help/en/audience-manager/user-guide/aam-home.html){target="_blank"}
+* [Adobe [!DNL Audience Manager] Product Documentation](https://docs.adobe.com/content/help/en/audience-manager/user-guide/aam-home.html){target="_blank"}
 * [Adobe Support - Experience Cloud Audiences](https://experienceleaguecommunities.adobe.com/t5/Adobe-Experience-Cloud-Audiences/ct-p/experience-cloud-audiences-community){target="_blank"}
 * [Adobe Experience Cloud Learn and Support](https://helpx.adobe.com/support/experience-cloud.html){target="_blank"}
-* [Adobe Experience League Audience Manager](https://experienceleague.adobe.com/#recommended/solutions/audience-manager){target="_blank"}
+* [Adobe Experience League [!DNL Audience Manager]](https://experienceleague.adobe.com/#recommended/solutions/audience-manager){target="_blank"}
 
 **Restart your certification**
 
@@ -110,7 +110,7 @@ You should be currently certified (not expired) in:
 
 * Adobe Audience Manager Architect master
 
-## Instructions for renewing your certification:
+## Instructions for renewing your certification
 
 * **Step 1** - Review the exam objectives
 * **Step 2** - Review the resources
@@ -151,7 +151,7 @@ Section 2: Solution Design and Recommendations (17%)
 
 Section 3: Segmentation and Activation (31%)
 
-* Apply procedural concepts to create destinations in Audience Manager
+* Apply procedural concepts to create destinations in [!DNL Audience Manager]
 * Identify signals to create Rule-Based, Onboarded, and Algorithmic Traits
 * Apply procedural concepts to create segments using frequency/recency
 * Determine how to create segments using profile merge rules
@@ -160,7 +160,7 @@ Section 3: Segmentation and Activation (31%)
 
 Section 4: Privacy and Data Governance (7%)
 
-* Recommend Audience Manager capabilities as it relates to governance, privacy, and security
+* Recommend [!DNL Audience Manager] capabilities as it relates to governance, privacy, and security
 * Identify customer data policies that are in line with government regulations
 
 Section 5: Performance and Reporting (17%)
