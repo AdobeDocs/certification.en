@@ -7,13 +7,15 @@ mini-toc-levels: 1
 
 # Get started {#getting-started}
 
-Adobe Digital Cloud Experience offers three different levels of certification: Professional, Expert, and Master. These certifications are designed to validate the skills and knowledge of professionals working with Adobe's digital marketing solutions.
+Adobe's certifications are designed to validate the skills and knowledge of professionals working with our digital marketing solutions. 
 
-The certification levels reflect a progressive level of proficiency and knowledge, with the Professional certification being the entry-level certification, Expert being the intermediate level, and Master being the highest level of certification.
+Learn how to get started on your certification journey today!
 
 >[!BEGINTABS]
 
 >[!TAB Exam Types]
+
+Learn the difference between the types of exams you will encounter on your certification journey.
 
 | Type | Description |
 | ------- | ------- |
