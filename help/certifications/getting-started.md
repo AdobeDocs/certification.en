@@ -54,7 +54,7 @@ The certification levels reflect a progressive level of proficiency and knowledg
 
 On the "Get ready" tab of each certification journey page, you will find the following information:
 
-![Ready Badge](/help/certifications/assets/get_prepped.png)
+![Ready Badge](/help/certifications/assets/get_ready.png)
 
 >[!NOTE]
 >
