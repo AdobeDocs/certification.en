@@ -42,5 +42,5 @@ Getting an Adobe Experience Cloud certification can be beneficial for several re
 * **Free practice tests:** Adobe offers free practice exams that can help you prepare for your certification exam and ensure that you're fully prepared to take the test.
 * **Certification renewals:** Adobe certifications are valid for two years, and you can renew your certification by either taking an on-demand, un-proctored exam or completing a set of continuous learning activities.
 
-### Start your Adobe journey today!
+### [Start your Adobe journey today!](https://experienceleague.corp.adobe.com/docs/certification/certification/getting-started.html?lang=en){target="_blank"}
 
