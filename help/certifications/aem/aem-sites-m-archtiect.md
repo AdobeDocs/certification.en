@@ -1,12 +1,12 @@
 ---
-title: Adobe Experience Manager Architect Master Certification 
+title: Adobe Experience Manager Sites Architect Master Certification 
 description: Learn how to become a certified Architect master.
 solution: Experience Manager Sites
 role: Developer
 badge: label="Exam AD0-E117" type="positive"
 mini-toc-levels: 1
 ---
-# Certification journey for Adobe Experience Manager Architect master
+# Certification journey for Adobe Experience Manager Sites Architect master
 
 Learn how to become a certified Architect master.
 
