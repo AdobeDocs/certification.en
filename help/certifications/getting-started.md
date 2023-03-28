@@ -52,8 +52,13 @@ The certification levels reflect a progressive level of proficiency and knowledg
 
 >[!TAB Get ready]
 
-On the "Get ready" tab of each certification journey you will find the following information:
+On the "Get ready" tab of each certification journey page, you will find the following information:
 
+![Architect Badge](/help/certifications/assets/get_prepped.png)
+
+>[!NOTE]
+>
+>Readiness questionnaires are not currently available for every certification journey.
 
 >[!TAB Get prepped]
 
