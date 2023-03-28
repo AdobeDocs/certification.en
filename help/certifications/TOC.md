@@ -1,7 +1,7 @@
 ---
-user-guide-title: Certification
-breadcrumb-title: Certification
-user-guide-description: Certification
+user-guide-title: Certification at Adobe
+breadcrumb-title: Certification at Adobe
+user-guide-description: Learn about Experience Cloud Certification at Adobe. Find out what getting certified can do for you.
 ---
 
 # Certification {#certification}

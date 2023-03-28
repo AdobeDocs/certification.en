@@ -1,12 +1,12 @@
 ---
 title: Certification Home
-description: Welcome to Certification at Adobe. Learn what getting certified at Adobe can do for you.
+description: Learn about Experience Cloud Certification at Adobe. Find out what getting certified can do for you.
 badge: label="Certification home" type="positive"
 mini-toc-levels: 1
 ---
 # Welcome to Certification at Adobe!
 
-Learn what getting certified at Adobe can do for you.
+Learn about Certification at Adobe and what getting certified can do for you.
 
 ![Banner](/help/certifications/assets/home_banner_narrow.png)
 
