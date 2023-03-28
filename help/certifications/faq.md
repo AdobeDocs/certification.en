@@ -16,7 +16,121 @@ Refer to the frequently asked questions below, to learn more about Adobe's certi
 
 >[!TAB General]
 
-ADD content
++++WHAT IS CERTIFICATION AND WHAT ARE THE BENEFITS?
+
+Individual benefits: Certification is a credential that recognizes an individual's skill and competency in an Adobe application. A candidate who passes the certification exam becomes an Adobe Certified Professional, Expert, or Master.  
+
+Certifications require commitment, are legally defensible, and validation from Adobe of your expertise. You can also feature your certification on your social profiles by downloading your badge from Credly. 
+
+To learn more about how to manage your badges, go [HERE](https://experienceleague.corp.adobe.com/docs/certification/certification/how-to-get-certified.html?lang=en){target="_blank"}.
+
++++
+
++++HOW DO I KNOW WHICH EXAM TO TAKE? 
+
+Certifications are role-based, which means there are multiple exams available. Review the exam guides on the certification page to choose which exam to take. You will choose the exam by:
+
+* Application: for example, Adobe Analytics or Marketo Engage 
+* Role: for example, developer or business practitioner 
+* Level: for example, Professional, 0-12 months of experience; or Expert 1-3 years 
+
+Sometimes there are multiple versions of an exam. A current exam won't have any labels, but you might see either retiring or renewal: 
+
+* Retiring means that this exam version will soon be removed because a new version of the exam is available. We encourage candidates to take the most recent version, but you can take the retiring version if you feel more prepared to take it. Either way, your certification will last for two years.  
+* Renewal exams renew your existing certification for two years, have fewer questions, and are lower cost. These exams cover more recent application capabilities. You must take the renewal exam before your certification expires. Once your existing certification expires, then you'll have to take the regular certification exam. 
+
++++
+
++++HOW DO I REGISTER FOR AN EXAM? 
+
+
++++
+
++++WHAT IF I HAVE TECHNICAL ISSUES DURING MY PROCTORED EXAM? 
+
+PSI and Examity have support available by chat, email, and phone. Adobe support can't help with technical issues that occur during the exam. 
+
+Examity Support - `adobepartnersupport@examity.com`
+
+PSI Support - `psisupport@psionline.com`
+
+The quickest help resource is through their chat. All test candidates should ensure their computer has the proper system requirements before taking their exam. 
+
+For more details, see: PSI, and Examity pages for managing exams and technical setup. 
+
++++
+
++++WHO CAN I CONTACT WITH CERTIFICATION QUESTIONS OR PROBLEMS?
+
+For questions about exam registration, exam payments, test delivery, testing centers, comments on exams, exam questions, testing experience, test accommodations, or questions about the certification portal, reach out to `certif@adobe.com`. 
+
++++
+
++++CAN ADOBE ACCOMMODATE CANDIDATES WITH SPECIAL NEEDS?
+
+Adobe allows accommodations to candidates who are identified as having special needs. If you need additional time to complete your exam or another accommodation, please contact `examaccommodations@adobe.com` or `certif@adobe.com`. 
+
++++
+
++++IF I DON'T PASS THE CERTIFICATION EXAM, WHEN CAN I TRY AGAIN?
+
+ou will need to retake and pass the most recent certification exam to get or maintain your Adobe Certified status. Please plan to take the test in more than enough time to account for potential retakes before your certification expires. 
+
+If a candidate fails on their first attempt to pass any Adobe certification exam, the candidate must wait at least 24 hours before retaking the exam. Failure to pass an exam on the second or any subsequent attempt requires a waiting period of 14 calendar days before retaking the exam. Each attempt will incur a separate exam fee. 
+
++++
+
++++HOW CAN I GET A COPY OF MY SCORE REPORT? 
+
+* Step 1: Go to the login for the Adobe Certification Manager, CertMetrics. Sign in using your ID or email address and password. 
+* Step 2: Click Transcripts. 
+* Step 3: Scroll through your transcript history and select the report you'd like to view. You can have the report emailed to you or view it onscreen
+
+To view your exam history and records, follow the instructions on this [page](https://spark.adobe.com/page/sqnjCTRNzylRy/){target="_blank"}. 
+
++++
+
++++HOW DO I TRACK MY CERTIFICATION STATUS? 
+
+You can track your certification status by going to [Adobe Credential Management System](https://www.certmetrics.com/adobe/){target="_blank"} under the certifications tab. 
+
++++
+
++++WHAT DO I GET AFTER I PASS THE CERTIFICATION EXAM? 
+
+After you complete your exam, your results will immediately be displayed on-screen. Within 72 hours, you will get an email confirmation of your score from CertMetrics, with a PDF of your certificate. You can access logos from your CertMetrics account that show your certification status and can be used on your website, email, signature, business card, social profiles, etc. 
+
++++
+
++++HOW DO I SIGN IN TO OR CREATE AN ADOBE CREDENTIAL MANAGER/CERTMETRICS ACCOUNT?
+
+You can [sign in to or create an account](https://www.certmetrics.com/adobe/){target="_blank"}. There you view the available exams, your exam history, certification expiration dates, and any benefits, such as discounts, available to you. 
+
++++
+
++++HOW LONG DO CERTIFICATIONS LAST? 
+
+Because we need to ensure our Adobe certified individuals are current on new application features and capabilities, Adobe Certifications are **valid for two years**. 
+
++++
+
++++ARE EXAMS AVAILABLE IN LANGUAGES OTHER THAN ENGLISH? 
+
+There are some exams available in Japanese through PSI (one of our vendors). If your exam is available in Japanese it will be noted in the exam details for that exam. The exams details are found on the "Get ready" tab of the certification journey pages.
+
++++
+
++++DO YOU OFFER CERTIFICATIONS AT ADOBE EVENTS? 
+
+Certifications are offered at certain Adobe‐sponsored events. 
+
++++
+
++++ARE CERTIFICATIONS TIED TO SPECIFIC VERSIONS OF APPLICATIONS (E.G. ADOBE EXPERIENCE MANAGER 6.5)? 
+
+Not directly, no. But because certification will now require renewal every 2 years, your certification ensures that you remain current on the latest version of an Adobe application. 
+
++++
 
 >[!TAB Renewals via on-demand exams]
 
