@@ -13,6 +13,18 @@ The certification levels reflect a progressive level of proficiency and knowledg
 
 >[!BEGINTABS]
 
+>[!TAB Exam Types]
+
+| Type | Description |
+| ------- | ------- |
+| Certification exam |   |
+| Renewal exam |  |
+| Course assessment |  |
+| Practice test |   |
+| Sample questions |   |
+| Readiness questionnaire |  | 
+
+
 >[!TAB Certification levels]
 
 | ![Professional Badge](/help/certifications/assets/professional-badge-Xsmall.png)  | **Professional certifications** validate that a candidate has a foundational understanding of Adobe's digital marketing solutions. The certification exam covers basic concepts and functionalities of Adobe Experience Cloud. |
