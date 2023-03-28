@@ -47,7 +47,7 @@ These levels reflect a progression of proficiency and knowledge, with the Profes
 
 >[!TAB Job roles]
 
-
+Adobe certification exams are customized to three different job roles. Read the information below to find the right certification for your career path.
 
 | ![Business Practitioner Badge](/help/certifications/assets/business_practitioner_blk_small.png) | **Business Practitioners** are responsible for designing, executing, and managing marketing campaigns using Adobe Experience Cloud solutions. They should have a foundational understanding of Adobe's digital marketing solutions, as well as experience in marketing and advertising. The Business Practitioner certification validates their ability to effectively use Adobe's digital marketing solutions to achieve business objectives. |
 | ------- | ------- |
