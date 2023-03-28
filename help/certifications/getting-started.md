@@ -54,7 +54,7 @@ The certification levels reflect a progressive level of proficiency and knowledg
 
 On the "Get ready" tab of each certification journey page, you will find the following information:
 
-![Architect Badge](/help/certifications/assets/get_prepped.png)
+![Ready Badge](/help/certifications/assets/get_prepped.png)
 
 >[!NOTE]
 >
@@ -62,7 +62,27 @@ On the "Get ready" tab of each certification journey page, you will find the fol
 
 >[!TAB Get prepped]
 
+On the "Get prepped" tab of each certification journey page, you will find any preparation material recommended for that certification.
+
+![Prepped Badge](/help/certifications/assets/get_prepped_true.png)
+
+>[!NOTE]
+>
+>Sample questions are not currently available for every certification journey.
+
+
 >[!TAB Get certified]
+
+On the "Get certified" tab of each certification journey page, you will find a link to the Adobe Certification Prep Portal for those exams that have practice tests, and the link to register for your certification exam. 
+
+You can pay for your certification exam by voucher or credit card. To purchase an exam voucher go to: [Adobe Certification Voucher Center](https://market.xvoucher.com/adobe/global){target="_blank"}.
+
+![Prepped Badge](/help/certifications/assets/get_certified.png)
+
+>[!IMPORTANT]
+>
+>Please note, the links on this page will not be directly accessibly until you have logged into the [Adobe Credential Management System](https://www.certmetrics.com/adobe/candidate/requirements.aspx){target="_blank"}.
+
 
 >[!ENDTABS]
 
