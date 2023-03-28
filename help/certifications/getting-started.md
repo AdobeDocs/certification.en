@@ -38,6 +38,15 @@ The certification levels reflect a progressive level of proficiency and knowledg
 | ![Architect Badge](/help/certifications/assets/architect_blk_small.png) | **Architects** are responsible for designing and implementing enterprise-grade solutions using Adobe Experience Cloud solutions. They should have extensive knowledge of Adobe's digital marketing solutions and experience in software architecture, integration, and customization. The Architect certification validates their ability to design and implement complex solutions using Adobe's digital marketing solutions. |
 | ------- | ------- |
 
+>[!TAB Get ready]
+
+On the "Get ready" tab of each certification journey you will find the following information:
+
+
+>[!TAB Get prepped]
+
+>[!TAB Get certified]
+
 >[!ENDTABS]
 
 **Questions**
