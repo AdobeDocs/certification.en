@@ -15,7 +15,7 @@ mini-toc-levels: 1
 
 >[!TAB Adobe Credential Management System]
 
->[!TAB Delivery vendors]
+>[!TAB Taking your exam]
 
 >[!TAB Exams costs]
 
