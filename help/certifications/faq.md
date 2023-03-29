@@ -202,7 +202,7 @@ Adobe is offers a path for certified candidates to renew their certifications. W
 
 >[!TAB Restart program]
 
-**Program Overview**
+## Program Overview
 
 +++What is the Adobe Certification Restart Program?  
 
@@ -228,7 +228,7 @@ Only Expert and Master level certifications are being included in the Restart Pr
 
 +++
 
-**Program Eligibility**
+## Program Eligibility
 
 +++Who is eligible for the Adobe Certification Restart Program? 
 
@@ -328,7 +328,7 @@ The Restart Program is meant only for certifications that expired prior to April
 
 +++
 
-**Marketo Engage Solution Architect (MCSA) and Adobe Commerce** 
+## Marketo Engage Solution Architect (MCSA) and Adobe Commerce
 
 +++I have an expired Marketo Certified Solution Architect (MCSA). Can I re-instate that through this Program? 
 
@@ -342,7 +342,7 @@ There are no expired certificate holders for currently offered Adobe Commerce Ce
 
 +++
 
-**Adobe Credential Manager Profile** 
+## Adobe Credential Manager Profile
 
 +++Why do I see an Exam starting with RES-XXX in my Exam history on Adobe Credential Manager? 
 
