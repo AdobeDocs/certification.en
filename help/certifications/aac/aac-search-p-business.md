@@ -139,7 +139,7 @@ Here are some suggested resources to help you prepare:
 * [Grids, guides, and measurements in PDFs](https://helpx.adobe.com/in/acrobat/using/grids-guides-measurements-pdfs.html){target="_blank"}
 * [Attribution & Measurement](https://business.adobe.com/in/products/advertising/attribution-measurement.html){target="_blank"}
 * [Marketo Measure Help Documentation](https://experienceleague.adobe.com/docs/marketo-measure/using/home.html?lang=en){target="_blank"}
-* [Conversion Variables (eVars)](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/conversion-variables/conversion-var-admin.html?lang=en){target="_blank"}
+* [Conversion Variables (eVars)](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/conversion-variables/conversion-var-admin.html?lang=en){target="_blank"}
 
 >[!TAB Get certified]
 
