@@ -16,7 +16,7 @@ Refer to the frequently asked questions below, to learn more about Adobe's certi
 
 >[!TAB General]
 
-+++WHAT IS CERTIFICATION AND WHAT ARE THE BENEFITS?
++++What is certification and what are the benefits?
 
 Individual benefits: Certification is a credential that recognizes an individual's skill and competency in an Adobe application. A candidate who passes the certification exam becomes an Adobe Certified Professional, Expert, or Master.  
 
@@ -26,7 +26,7 @@ To learn more about how to manage your badges in Credly, go [HERE](https://exper
 
 +++
 
-+++HOW DO I KNOW WHICH EXAM TO TAKE? 
++++How do I know which exam to take?
 
 Certifications are role-based, which means there are multiple exams available. Review the exam guides on the certification page to choose which exam to take. You will choose the exam by:
 
@@ -41,13 +41,13 @@ Sometimes there are multiple versions of an exam. A current exam won't have any 
 
 +++
 
-+++HOW DO I REGISTER FOR AN EXAM? 
++++How do I register for an exam? 
 
 Add content
 
 +++
 
-+++WHAT IF I HAVE TECHNICAL ISSUES DURING MY PROCTORED EXAM? 
++++What if I have technical issues during my proctored exam? 
 
 PSI and Examity have support available by chat, email, and phone. Adobe support can't help with technical issues that occur during the exam. 
 
@@ -61,19 +61,19 @@ For more details, see: PSI, and Examity pages for managing exams and technical s
 
 +++
 
-+++WHO CAN I CONTACT WITH CERTIFICATION QUESTIONS OR PROBLEMS?
++++Who can I can I contact with certification questions or problems?
 
 For questions about exam registration, exam payments, test delivery, testing centers, comments on exams, exam questions, testing experience, test accommodations, or questions about the certification portal, reach out to `certif@adobe.com`. 
 
 +++
 
-+++CAN ADOBE ACCOMMODATE CANDIDATES WITH SPECIAL NEEDS?
++++Can Adobe accommodate candidates with special needs?
 
 Adobe allows accommodations to candidates who are identified as having special needs. If you need additional time to complete your exam or another accommodation, please contact `examaccommodations@adobe.com` or `certif@adobe.com`. 
 
 +++
 
-+++IF I DON'T PASS THE CERTIFICATION EXAM, WHEN CAN I TRY AGAIN?
++++If I don't pass the certification exam, when can I try again?
 
 ou will need to retake and pass the most recent certification exam to get or maintain your Adobe Certified status. Please plan to take the test in more than enough time to account for potential retakes before your certification expires. 
 
@@ -81,7 +81,7 @@ If a candidate fails on their first attempt to pass any Adobe certification exam
 
 +++
 
-+++HOW CAN I GET A COPY OF MY SCORE REPORT? 
++++How can I get a copy of my score report? 
 
 * Step 1: Go to the login for the Adobe Certification Manager, CertMetrics. Sign in using your ID or email address and password. 
 * Step 2: Click Transcripts. 
@@ -91,43 +91,43 @@ To view your exam history and records, follow the instructions on this [page](
 
 +++
 
-+++HOW DO I TRACK MY CERTIFICATION STATUS? 
++++How do I track my certification status? 
 
 You can track your certification status by going to [Adobe Credential Management System](https://www.certmetrics.com/adobe/){target="_blank"} under the certifications tab. 
 
 +++
 
-+++WHAT DO I GET AFTER I PASS THE CERTIFICATION EXAM? 
++++What do I get after I pass the certification exam? 
 
 After you complete your exam, your results will immediately be displayed on-screen. Within 72 hours, you will get an email confirmation of your score from CertMetrics, with a PDF of your certificate. You can access logos from your CertMetrics account that show your certification status and can be used on your website, email, signature, business card, social profiles, etc. 
 
 +++
 
-+++HOW DO I SIGN IN TO OR CREATE AN ADOBE CREDENTIAL MANAGER/CERTMETRICS ACCOUNT?
++++How do I sign in to or create an Adobe Credential Management/Certmetrics account?
 
 You can [sign in to or create an account](https://www.certmetrics.com/adobe/){target="_blank"}. There you view the available exams, your exam history, certification expiration dates, and any benefits, such as discounts, available to you. 
 
 +++
 
-+++HOW LONG DO CERTIFICATIONS LAST? 
++++How long do certifications last? 
 
 Because we need to ensure our Adobe certified individuals are current on new application features and capabilities, Adobe Certifications are **valid for two years**. 
 
 +++
 
-+++ARE EXAMS AVAILABLE IN LANGUAGES OTHER THAN ENGLISH? 
++++Are exams available in languages other than english? 
 
 There are some exams available in Japanese through PSI (one of our vendors). If your exam is available in Japanese it will be noted in the exam details for that exam. The exams details are found on the "Get ready" tab of the certification journey pages.
 
 +++
 
-+++DO YOU OFFER CERTIFICATIONS AT ADOBE EVENTS? 
++++Do you offer certifications at Adobe events? 
 
 Certifications are offered at certain Adobe‐sponsored events. 
 
 +++
 
-+++ARE CERTIFICATIONS TIED TO SPECIFIC VERSIONS OF APPLICATIONS (E.G. ADOBE EXPERIENCE MANAGER 6.5)? 
++++Are certifications tied to specific versions of applications (E.G. Adobe Experience Manager 6.5)? 
 
 Not directly, no. But because certification will now require renewal every 2 years, your certification ensures that you remain current on the latest version of an Adobe application. 
 
@@ -135,7 +135,7 @@ Not directly, no. But because certification will now require renewal every 2 yea
 
 >[!TAB Renewals via on-demand exams]
 
-+++WHAT IS CERTIFICATION RENEWAL? HOW DO I RENEW MY CERTIFICATION? 
++++What is certification renewal? How do I renew my certification?
 
 Adobe certifications expire after two years. You can renew your certification by taking and passing the latest version of the applicable Adobe certification exam. If a new exam is not available, your certification will be extended until the new exam is available. 
 
@@ -150,7 +150,7 @@ Occasionally, we retire an exam for a role. In that case, your certification wil
 
 +++
 
-+++WHAT HAPPENS IF I DON'T RENEW MY CERTIFICATION RENEWAL BEFORE IT EXPIRES? 
++++What happens if I don't renew my certification before it expires?
 
 Your certification will expire and will show as expired in Credly and any of your social profiles. Also, if your certification expires, then you can't take the shorter renewal exam or renew via continuous learning. 
 
@@ -158,7 +158,7 @@ To learn more about how to manage your badges in Credly, go [HERE](https://exper
 
 +++
 
-+++WHAT IS THE COST TO RENEW MY CERTIFICATION? 
++++What is the cost to renew my certification?
 
 You can renew your certification free of charge. This provides you with a cost-effective way to maintain your certification, and keep your solution skills up to date.
 
@@ -166,7 +166,7 @@ To learn more about How to Renew Your Certification, go [here](https://experienc
 
 +++
 
-+++WHERE CAN I SEE MY CERTIFICATION EXPIRATION DATE?  WILL I GET AN EXPIRATION NOTICE? 
++++Where can I see my certification expiration date? Will I get a notice? 
 
 Sign in to [Adobe Credential Management System](https://www.certmetrics.com/adobe/){target="_blank"}. There you can see when you achieved your credential and when it will expire. You should also check your profile and confirm that your contact, secondary email and job information are correct. 
 
@@ -174,19 +174,19 @@ You will get an email notification one month before your certification expires. 
 
 +++
 
-+++WHICH EXAM DO I NEED TO TAKE FOR MY RENEWAL? 
++++Which exam do I need to take for my renewal?
 
 To find out what exam you will need to take, log in to the [Adobe Credential Management System](https://www.certmetrics.com/adobe/){target="_blank"} using your Adobe ID, click Certifications, and select the certification name. The renewal exam is listed under **requirement to stay current**. 
 
 +++
 
-+++WHEN I RENEW MY CERTIFICATION WILL I GET A NEW DIGITAL BADGE? 
++++When I renew my certification will I get a new digital badge?
 
 No. Your digital badge will remain the same. 
 
 +++
 
-+++IS IT POSSIBLE THAT I COULD TAKE THE SAME EXAM FOR RENEWAL THAT I TOOK TO EARN MY INITIAL CERTIFICATION? 
++++Is it possible that I could take the same exam for renewal that I took to earn my initial certification?
 
 No. You cannot retake a version that you already successfully passed. You will have to wait until the new exam is released.  
 
@@ -194,55 +194,55 @@ No. You cannot retake a version that you already successfully passed. You will h
 
 >[!TAB Renewals via continuous learning]
 
-+++WHAT IS ADOBE'S CERTIFICATION RENEWAL PROGRAM? 
++++What is Adobe's certification renewal program via continuous learning?
 
-Adobe is offering continuous learning and engagement activities so candidates can remain active and extend their certification status for 2 more years. 
+Adobe is offering continuous learning and engagement activities so candidates can remain active and extend their certification status for 2 more years. This is only offered for select applications.
 
 +++
 
-+++MY CERTIFICATiON HAS ALREADY EXPIRED; CAN I PURSUE THE CONTINUOUS LEARNING AND ENGAGEMENT ACTIVITIES FOR RENEWAL? 
++++My certification has already expired; can I pursue the continuous learning and engagement activities for renewal?
 
 No, this renewal option is only for Adobe's actively certified Analytics, Experience Manager, Commerce, and Target candidates. 
 
 +++
 
-+++WHICH CERTIFICATIONS OFFER CONTINUOUS LEARNING AND ENGAGEMENT ACTIVITIES FOR RENEWAL? 
++++Which certifications offer continuous learning and engagement activities for renewal?
 
 Presently this program involves Analytics, Experience Manager, Commerce, and Target. We will share the announcements via applicable channels as and when we expand it for other certifications. 
 
 +++
 
-+++WHAT CONTINUOUS LEARNING AND ENGAGEMENT ACTIVITIES ARE PART OF THE CERTIFICATION RENEWAL PROGRAM? 
++++What continuous learning and engagement activities are part of the certification renewal program? 
 
 Candidates will be offered 5 to 7 on-demand courses to review. The criterion to renew certification will be to pass any 3 assessments based on the courses OR pass 2 assessments and submit a signed customer reference form. 
 
 +++
 
-+++WHAT IS A CUSTOMER REFERENCE FORM IN CONTEXT OF CERTIFICATION RENEWALS? 
++++What is a customer reference form in context of certification renewals? 
 
 A form that a candidate can submit as part of Adobe's continuous learning and engagement activities for renewal of their certification. The form must be signed by a customer, stating that the candidate has spent a minimum of 100 hours on a project within the last 12 months related to the product for which they are renewing their certification. By including this option as part of the certification renewal requirements, we want to recognize your continued engagement as a way of validating your skills and knowledge so your certification remains active. 
 
 +++
 
-+++IS THERE A FEE INVOLVED TO PURSUE CERTIFICATION RENEWAL VIA CONTINUOUS LEARNING AND ENGAGEMENT ACTIVITIES? 
++++Is there a fee involved to pursue certification renewal via continuous learning and engagement activities?
 
 No. All the activities are accessible via Adobe Credential Manager at no cost. 
 
 +++
 
-+++DO I HAVE TO PASS ASSESSMENTS AND ALSO SUBMIT A CUSTOMER REFERENCE FORM? 
++++Do I have to pass assessments and also submit a customer reference form?
 
 No, submitting a customer reference form is optional and one of the activities that candidates can complete to renew their certification. For example, Adobe Analytics certification renewal requires completing a minimum of 3 activities from a given list. The list includes passing 6 assessments and submitting a customer reference form. Candidate can pass 2 assessments and submit a customer reference form thereby meeting the minimum 3 requirements for renewal. 
 
 +++
 
-+++I HOLD THREE CERTIFICATIONS IN ONE SOLUTION. DO I NEED TO COMPLETE THE REQUIREMENTS FOR EACH CERTIFICATION? 
++++I hold three certifications in one solution. Do I need to complete the requirements for each certification? 
 
 No, you only need to complete the requirements listed for the solution. Your certification/s will be renewed after completing the required activities and submitting the results to the Adobe Credential Manager. For example, if you hold multiple certifications in Adobe Analytics as a Business Practitioner, Developer, and an Architect, you only need to complete 3 activities to meet renewal requirements for all certifications to be renewed. 
 
 +++
 
-+++DO I NEED TO REVIEW THE COURSES, OR CAN I SIMPLY START TAKING ASSESSMENTS? 
++++Do I need to review the courses, or can I simply start taking assessments?
 
 The assessments are based on the Courses in Experience League and reviewing them will prepare candidates to successfully pass them. However, the key requirement for renewal is just to pass the Assessments. 
 
