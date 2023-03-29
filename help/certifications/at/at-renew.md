@@ -36,8 +36,9 @@ You should be currently certified (not expired) in:
 
 Select **three activities** to complete and pass the course assessments associated with each.
 
-* **Step 1** - Study the courses in Experience League.
-* **Step 2** - Complete the course assessment 
+* **Step 1** - Successfully log in to [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"} then return to this page
+* **Step 2** - Study the courses in Experience League
+* **Step 3** - Complete and pass the course assessment with 80%
 
 Alternatively, study two courses, pass two course assessments and submit a customer reference form validating your engagement in a project totaling 100 hours in the past 12 months.
 

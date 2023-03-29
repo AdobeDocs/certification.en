@@ -35,8 +35,8 @@ You should be currently certified (not expired) in:
 
 ## How to renew your certification:
 
-* **Step 1** - Review the exam scope and objectives
-* **Step 2** - Review the resources
+* **Step 1** - Successfully log in to [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"} then return to this page
+* **Step 2** - Review the exam objectives and resources
 * **Step 3** - Take and pass the exam
 
 ### Get ready
