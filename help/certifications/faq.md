@@ -196,7 +196,7 @@ No. You cannot retake a version that you already successfully passed. You will h
 
 +++WHAT IS ADOBE'S CERTIFICATION RENEWAL PROGRAM? 
 
-Adobe is offers a path for certified candidates to renew their certifications. We offer continuous learning and engagement activities so candidates can remain active and extend their certification status for 2 more years. 
+Adobe offers a path for certified candidates to renew their certifications. We offer continuous learning and engagement activities so candidates can remain active and extend their certification status for 2 more years. 
 
 +++
 
