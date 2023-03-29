@@ -21,7 +21,7 @@ mini-toc-levels: 1
 
 These are the current costs for certification exams.
 
-![Exam cost Badge](/help/certifications/assets/exam_costs.png)
+![Exam cost Badge](/help/certifications/assets/exam_costs_new.png)
 
 >[!TAB Policies]
 
