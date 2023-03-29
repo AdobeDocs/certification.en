@@ -9,7 +9,7 @@ mini-toc-levels: 1
 
 Adobe's certifications are designed to validate the skills and knowledge of professionals working with our digital marketing solutions. 
 
-Learn how to get started on your certification journey today!
+Get started with technical certifications. Learn about the program, and how to navigate through our site pages.
 
 >[!BEGINTABS]
 
