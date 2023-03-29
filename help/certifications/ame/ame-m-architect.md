@@ -14,7 +14,7 @@ Learn how to become a certified Adobe Architect master.
 
 You should have: 
 
-* A current Marketo Engage Business Practitioner Certified Expert
+* A current certification in Marketo Engage Business Practitioner Certified Expert
 * At least five years of experience preferably with multiple instances of Marketo Engage
 * An understanding of the business impact and effectively explain/communicate their solution to the stakeholders (technical and non-technical) at different levels
 * The ability to conceptualize a solution and translate to a Marketo Engage architecture, understand the business processes impacted by integrations
@@ -56,7 +56,9 @@ Additionally, you should be familiar with the following tools and technologies:
 **Exam details:**
 
 ```
+Pre requisite: Adobe Certified Expert – Marketo Engage Business 
 Level: Master (3-5 years' experience)
+Practitioner certification
 Passing Score: 30/50
 Time: 150 mins
 Delivery: Online proctored (requires camera access) or test center proctored
