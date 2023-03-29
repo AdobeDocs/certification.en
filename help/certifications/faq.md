@@ -196,7 +196,55 @@ No. You cannot retake a version that you already successfully passed. You will h
 
 +++WHAT IS ADOBE'S CERTIFICATION RENEWAL PROGRAM? 
 
-Adobe offers a path for certified candidates to renew their certifications. We offer continuous learning and engagement activities so candidates can remain active and extend their certification status for 2 more years. 
+Adobe is offering continuous learning and engagement activities so candidates can remain active and extend their certification status for 2 more years. 
+
++++
+
++++MY CERTIFICATiON HAS ALREADY EXPIRED; CAN I PURSUE THE CONTINUOUS LEARNING AND ENGAGEMENT ACTIVITIES FOR RENEWAL? 
+
+No, this renewal option is only for Adobe's actively certified Analytics, Experience Manager, Commerce, and Target candidates. 
+
++++
+
++++WHICH CERTIFICATIONS OFFER CONTINUOUS LEARNING AND ENGAGEMENT ACTIVITIES FOR RENEWAL? 
+
+Presently this program involves Analytics, Experience Manager, Commerce, and Target. We will share the announcements via applicable channels as and when we expand it for other certifications. 
+
++++
+
++++WHAT CONTINUOUS LEARNING AND ENGAGEMENT ACTIVITIES ARE PART OF THE CERTIFICATION RENEWAL PROGRAM? 
+
+Candidates will be offered 5 to 7 on-demand courses to review. The criterion to renew certification will be to pass any 3 assessments based on the courses OR pass 2 assessments and submit a signed customer reference form. 
+
++++
+
++++WHAT IS A CUSTOMER REFERENCE FORM IN CONTEXT OF CERTIFICATION RENEWALS? 
+
+A form that a candidate can submit as part of Adobe's continuous learning and engagement activities for renewal of their certification. The form must be signed by a customer, stating that the candidate has spent a minimum of 100 hours on a project within the last 12 months related to the product for which they are renewing their certification. By including this option as part of the certification renewal requirements, we want to recognize your continued engagement as a way of validating your skills and knowledge so your certification remains active. 
+
++++
+
++++IS THERE A FEE INVOLVED TO PURSUE CERTIFICATION RENEWAL VIA CONTINUOUS LEARNING AND ENGAGEMENT ACTIVITIES? 
+
+No. All the activities are accessible via Adobe Credential Manager at no cost. 
+
++++
+
++++DO I HAVE TO PASS ASSESSMENTS AND ALSO SUBMIT A CUSTOMER REFERENCE FORM? 
+
+No, submitting a customer reference form is optional and one of the activities that candidates can complete to renew their certification. For example, Adobe Analytics certification renewal requires completing a minimum of 3 activities from a given list. The list includes passing 6 assessments and submitting a customer reference form. Candidate can pass 2 assessments and submit a customer reference form thereby meeting the minimum 3 requirements for renewal. 
+
++++
+
++++I HOLD THREE CERTIFICATIONS IN ONE SOLUTION. DO I NEED TO COMPLETE THE REQUIREMENTS FOR EACH CERTIFICATION? 
+
+No, you only need to complete the requirements listed for the solution. Your certification/s will be renewed after completing the required activities and submitting the results to the Adobe Credential Manager. For example, if you hold multiple certifications in Adobe Analytics as a Business Practitioner, Developer, and an Architect, you only need to complete 3 activities to meet renewal requirements for all certifications to be renewed. 
+
++++
+
++++DO I NEED TO REVIEW THE COURSES, OR CAN I SIMPLY START TAKING ASSESSMENTS? 
+
+The assessments are based on the Courses in Experience League and reviewing them will prepare candidates to successfully pass them. However, the key requirement for renewal is just to pass the Assessments. 
 
 +++
 
