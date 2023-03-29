@@ -34,9 +34,9 @@ The Adobe Restart Program is an initiative that allows individuals with expired 
 
 Select **three activities** to complete and pass the course assessments associated with each.
 
-* **Step 1** - Successfully log in to [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"} then return to this page
-* **Step 2** - Study the courses in Experience League
-* **Step 3** - Complete and pass the course assessment with 80%
+* **Step 1**: Successfully log in to [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}, then return to this page
+* **Step 2**: Study the courses in Experience League
+* **Step 3**: Complete and pass each course assessment with at least 80%
 
 Alternatively, study two courses, pass two course assessments and submit a customer reference form validating your engagement in a project totaling 100 hours in the past 12 months.
 
@@ -74,9 +74,9 @@ The course assessments are free. There is no need to schedule them, and they are
 
 Select **three activities** to complete and pass the course assessments associated with each.
 
-* **Step 1** - Successfully log in to [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"} then return to this page
-* **Step 2** - Study the courses in Experience League
-* **Step 3** - Complete and pass the course assessment with 80%
+* **Step 1**: Successfully log in to [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}, then return to this page
+* **Step 2**: Study the courses in Experience League
+* **Step 3**: Complete and pass each course assessment with at least 80%
 
 Alternatively, study two courses, pass two course assessments and submit a customer reference form validating your engagement in a project totaling 100 hours in the past 12 months.
 
@@ -111,9 +111,9 @@ The course assessments are free. There is no need to schedule them, and they are
 
 Select **three activities** to complete and pass the course assessments associated with each.
 
-* **Step 1** - Successfully log in to [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"} then return to this page
-* **Step 2** - Study the courses in Experience League
-* **Step 3** - Complete and pass the course assessment with 80%
+* **Step 1**: Successfully log in to [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}, then return to this page
+* **Step 2**: Study the courses in Experience League
+* **Step 3**: Complete and pass each course assessment with at least 80%
 
 Alternatively, study two courses, pass two course assessments and submit a customer reference form validating your engagement in a project totaling 100 hours in the past 12 months.
 
