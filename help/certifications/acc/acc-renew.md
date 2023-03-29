@@ -45,13 +45,13 @@ You should be currently certified (not expired) in:
   
 ```
 
-Passing Score: 33/55
+Passing Score: 41/55
 Time: 110 mins
 Cost: FREE/non-proctored
 Delivery: On-demand
 Available languages: English
 Prerequisite: current (not expired) Adobe Campaign Classic expert and/or master certification
-Exam ID: AD5-E815
+Exam ID: AD5-E823
 
 ```
 
@@ -142,7 +142,7 @@ Here are some suggested resources to help you prepare:
 
 This exam is free, open book, and un-proctored. You may take the exam up to three times. If you are unsuccessful after the third attempt, you must wait **30 days** to try again. Failure to comply might result in your certification being revoked.
 
-[Take the Adobe Campaign Classic renewal for Business Practitioner, Developer and Architect exam now - AD5-823](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=AD5-E815){target="_blank"}
+[Take the Adobe Campaign Classic renewal for Business Practitioner, Developer and Architect exam now - AD5-823](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=AD5-E823){target="_blank"}
 
 >[!ENDTABS]
 
