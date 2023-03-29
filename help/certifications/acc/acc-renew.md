@@ -35,9 +35,9 @@ You should be currently certified (not expired) in:
 
 ## How to renew your certification:
 
-* **Step 1** - Successfully log in to [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"} then return to this page
-* **Step 2** - Review the exam objectives and resources
-* **Step 3** - Take and pass the exam
+* **Step 1**: Successfully log in to [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}, then return to this page
+* **Step 2**: Review the exam objectives and resources
+* **Step 3**: Take and pass the exam
 
 ### Get ready
 
@@ -45,21 +45,19 @@ You should be currently certified (not expired) in:
   
 ```
 
-Passing Score: 41/55
+Passing Score: 33/55
 Time: 110 mins
 Cost: FREE/non-proctored
 Delivery: On-demand
 Available languages: English
 Prerequisite: current (not expired) Adobe Campaign Classic expert and/or master certification
-Exam ID: AD5-E823
+Exam ID: AD5-E815
 
 ```
 
-**AD5-E823 Adobe Campaign Classic renewal for Business Practitioner, Developer and Architect**
-
 **Scope and objectives**
 
-Section 1: Installation and system configuration
+Section 1: Installation and system configuration (23%)
 
 * Given a scenario, determine which options should be used (i.e., moving things from stage to production)
 * Ability to use Packages to migrate between instances
@@ -69,7 +67,7 @@ Section 1: Installation and system configuration
 * Explain integration with other Adobe Experience Cloud products
 * Explain integration using standard external accounts
 
-Section 2: Customization
+Section 2: Customization (18%)
 
 * Describe best practices for using SQL functions in Adobe Campaign
 * Describe best practices for developing with JavaScript in Adobe Campaign
@@ -77,7 +75,7 @@ Section 2: Customization
 * Describe the requirements and processes for access management
 * Describe folder structure management
 
-Section 3: Data architecture
+Section 3: Data architecture (22%)
 
 * Identify the data storage differences in v8
 * Identify the built-in workflows that synchronize local data to Snowflake
@@ -86,7 +84,7 @@ Section 3: Data architecture
 * Given a scenario, explain how to create custom schemas (how to use other schemas as template, sys filters, locking down data, links)
 * Explain the integration between different solutions and Campaign such as Adobe Experience Platform and Journey Optimizer
 
-Section 4: Campaign, workflow, delivery, and reporting
+Section 4: Campaign, workflow, delivery, and reporting (37%)
 
 * Apply best practices to build a campaign
 * Given a scenario, analyze workflow errors
@@ -100,28 +98,39 @@ Section 4: Campaign, workflow, delivery, and reporting
 * Describe functionality in the workflow activity palette
 * Troubleshoot or configure an instance using Control Panel
 
+### Get prepped
 
 You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
 
 Here are some suggested resources to help you prepare:
 
-**AD5-E823 Adobe Campaign Classic renewal for Business Practitioner, Developer and Architect**
-
 **Section 1: Installation and system configuration**
 
-* [Add resources](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=en){target="_blank"}
+* [Managing packages](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/importing-and-exporting-data/managing-packages.html?lang=en){target="_blank"}
+* [Work with data packages](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/administration-basics/working-with-data-packages.html?lang=en){target="_blank"}
+* [Deploying an instance](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/initial-configuration/deploying-an-instance.html?lang=en)
+* [Integrating with Adobe Campaign Classic](https://experienceleague.adobe.com/docs/experience-manager-65/administering/integration/campaignonpremise.html?lang=en){target="_blank"}
 
 **Section 2: Customization**
 
-* [Add resources](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=en){target="_blank"}
+* [JavaScript scripts and templates](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/advanced-management/javascript-scripts-and-templates.html?lang=en){target="_blank"}
+* [Data model best practices](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/data-model/data-model-best-practices.html?lang=en){target="_blank"}
+* [Create and manage operators](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management-operators.html?lang=en){target="_blank"}
+* [Manage access to folders](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management-folders.html?lang=en){target="_blank"}
 
 **Section 3: Data architecture**
 
-* [Add resources](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=en){target="_blank"}
+* [Transition from Campaign Classic v7 to Campaign v8](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/capability-matrix.html?lang=en){target="_blank"}
+* [Work with Sources and Destinations](https://experienceleague.adobe.com/docs/campaign-classic/using/integrating-with-adobe-experience-cloud/aep-sources-destinations/get-started-sources-destinations.html?lang=en){target="_blank"}
+* [Specific FFDA Campaign APIs](https://experienceleague.adobe.com/docs/campaign/campaign-v8/architecture/api/new-apis.html?lang=en){target="_blank"}
+* [About Adobe ID](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/connect-to-campaign/connecting-via-an-adobe-id/about-adobe-id.html?lang=en){target="_blank"}
 
 **Section 4: Campaign, workflow, delivery, and reporting**
 
-* [Add resources](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=en){target="_blank"}
+* [Workflow best practices](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/workflow-best-practices.html?lang=en){target="_blank"}
+* [Set up and manage the approval process](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/orchestrate-campaigns/marketing-campaign-approval.html?lang=en){target="_blank"}
+* [Enrichment](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/enrichment.html?lang=en){target="_blank"}
+* [Import and export best practices](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/workflow-best-practices.html?lang=en){target="_blank"}
 
 ### Renew your certification
 
@@ -133,7 +142,7 @@ Here are some suggested resources to help you prepare:
 
 This exam is free, open book, and un-proctored. You may take the exam up to three times. If you are unsuccessful after the third attempt, you must wait **30 days** to try again. Failure to comply might result in your certification being revoked.
 
-[Take the Adobe Campaign Classic renewal for Business Practitioner, Developer and Architect exam now - AD5-823](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=AD5-E823){target="_blank"}
+[Take the Adobe Campaign Classic renewal for Business Practitioner, Developer and Architect exam now - AD5-823](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=AD5-E815){target="_blank"}
 
 >[!ENDTABS]
 
