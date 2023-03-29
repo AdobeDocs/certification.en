@@ -137,7 +137,7 @@ Not directly, no. But because certification will now require renewal every 2 yea
 
 +++What is certification renewal? How do I renew my certification?
 
-Adobe certifications expire after two years. You can renew your certification by taking and passing the latest version of the applicable Adobe certification exam. If a new exam is not available, your certification will be extended until the new exam is available. 
+Adobe certifications expire after two years. You can renew your certification by taking and passing the latest version of the applicable Adobe certification exam. 
 
 You have two options: 
 
