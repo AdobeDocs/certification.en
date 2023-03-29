@@ -13,8 +13,6 @@ mini-toc-levels: 1
 
 >[!TAB Registration]
 
->[!TAB Adobe Credential Management System]
-
 >[!TAB Taking your exam]
 
 >[!TAB Exams costs]
@@ -26,6 +24,8 @@ These are the current costs for certification exams.
 You can pay for your certification exam by voucher or credit card. To purchase an exam voucher go to: [Adobe Certification Voucher Center](https://market.xvoucher.com/adobe/global){target="_blank"}. 
 
 You can apply the voucher code when you schedule your exam. If you have a discount, it will apply at checkout.
+
+>[!TAB Managing your certification profile]
 
 >[!TAB Policies]
 
