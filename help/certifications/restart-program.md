@@ -469,7 +469,7 @@ Section 4: Administration, monitoring and reporting
 
 **Section 1: Campaign management**
 
-* [Adobe Campaign Standard Documentation](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=en){target="_blank"} (working with marketing activities, building email content, communication channels, deliveries, configuring channels)
+* [Adobe Campaign Standard Documentation](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=en){target="_blank"} (working with marketing activities, building email content, communication channels, deliveries, configuring channels) 
 
 **Section 2: Delivery management**
 
@@ -478,7 +478,6 @@ Section 4: Administration, monitoring and reporting
 **Section 3: Workflow design and execution**
 
 * [Adobe Campaign Standard Documentation](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=en){target="_blank"} (managing processes and data, managing audiences, scheduling messages, adding or extending a resource)
-* [Targeting profiles](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-standard/how-to-target-profiles-that-opened-a-delivery-within-a-certain/td-p/387437){target="_blank"}
 
 **Section 4: Administration, monitoring, and reporting**
 
