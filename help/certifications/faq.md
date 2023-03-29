@@ -16,34 +16,295 @@ Refer to the frequently asked questions below, to learn more about Adobe's certi
 
 >[!TAB General]
 
-ADD content
++++WHAT IS CERTIFICATION AND WHAT ARE THE BENEFITS?
 
->[!TAB Renewals via on-demand exams]
+Individual benefits: Certification is a credential that recognizes an individual's skill and competency in an Adobe application. A candidate who passes the certification exam becomes an Adobe Certified Professional, Expert, or Master.  
 
-ADD Content
+Certifications require commitment, are legally defensible, and validation from Adobe of your expertise. You can also feature your certification on your social profiles by downloading your badge from Credly. 
 
->[!TAB Renewals via continuous learning]
-
-add faqs
-
->[!TAB Restart program]
-
-+++How do I know if I'm eligible for the restart program?
-
-Under the history tab in the [Adobe Credential Management System](https://www.certmetrics.com/adobe/candidate/requirements.aspx){target="_blank"}, you will see one of these exams listed.
-
-| Certified Application | Exam listed in the History section of your profile |
-| ------- | ------- |
-| Experience Manager  | RES-AEM-2023 - Adobe Experience Manager Certification Restart |
-| Analytics  |  RES-AA-2023 - Adobe Analytics Certification Restart   |
-| Audience Manager | RES-AAM-202 - Adobe Audience Manager Certification Restart |
-| Campaign | RES-ACAM-2023 - Adobe Campaign Certification Restart |
-|Marketo Engage | RES-AME-2023 - Adobe Marketo Engage Certification Restart |
-| Target | RES-AT-2023 Adobe Target Certification Restart |
+To learn more about how to manage your badges in Credly, go [HERE](https://experienceleague.corp.adobe.com/docs/certification/certification/how-to-get-certified.html?lang=en){target="_blank"}.
 
 +++
 
-+++What exams are included in the restart program for Adobe Experience Manager?
++++HOW DO I KNOW WHICH EXAM TO TAKE? 
+
+Certifications are role-based, which means there are multiple exams available. Review the exam guides on the certification page to choose which exam to take. You will choose the exam by:
+
+* Application: for example, Adobe Analytics or Marketo Engage 
+* Role: for example, developer or business practitioner 
+* Level: for example, Professional, 0-12 months of experience; or Expert 1-3 years 
+
+Sometimes there are multiple versions of an exam. A current exam won't have any labels, but you might see either retiring or renewal: 
+
+* Retiring means that this exam version will soon be removed because a new version of the exam is available. We encourage candidates to take the most recent version, but you can take the retiring version if you feel more prepared to take it. Either way, your certification will last for two years.  
+* Renewal exams renew your existing certification for two years, have fewer questions, and are lower cost. These exams cover more recent application capabilities. You must take the renewal exam before your certification expires. Once your existing certification expires, then you'll have to take the regular certification exam. 
+
++++
+
++++HOW DO I REGISTER FOR AN EXAM? 
+
+Add content
+
++++
+
++++WHAT IF I HAVE TECHNICAL ISSUES DURING MY PROCTORED EXAM? 
+
+PSI and Examity have support available by chat, email, and phone. Adobe support can't help with technical issues that occur during the exam. 
+
+Examity Support - `adobepartnersupport@examity.com`
+
+PSI Support - `psisupport@psionline.com`
+
+The quickest help resource is through their chat. All test candidates should ensure their computer has the proper system requirements before taking their exam. 
+
+For more details, see: PSI, and Examity pages for managing exams and technical setup. 
+
++++
+
++++WHO CAN I CONTACT WITH CERTIFICATION QUESTIONS OR PROBLEMS?
+
+For questions about exam registration, exam payments, test delivery, testing centers, comments on exams, exam questions, testing experience, test accommodations, or questions about the certification portal, reach out to `certif@adobe.com`. 
+
++++
+
++++CAN ADOBE ACCOMMODATE CANDIDATES WITH SPECIAL NEEDS?
+
+Adobe allows accommodations to candidates who are identified as having special needs. If you need additional time to complete your exam or another accommodation, please contact `examaccommodations@adobe.com` or `certif@adobe.com`. 
+
++++
+
++++IF I DON'T PASS THE CERTIFICATION EXAM, WHEN CAN I TRY AGAIN?
+
+ou will need to retake and pass the most recent certification exam to get or maintain your Adobe Certified status. Please plan to take the test in more than enough time to account for potential retakes before your certification expires. 
+
+If a candidate fails on their first attempt to pass any Adobe certification exam, the candidate must wait at least 24 hours before retaking the exam. Failure to pass an exam on the second or any subsequent attempt requires a waiting period of 14 calendar days before retaking the exam. Each attempt will incur a separate exam fee. 
+
++++
+
++++HOW CAN I GET A COPY OF MY SCORE REPORT? 
+
+* Step 1: Go to the login for the Adobe Certification Manager, CertMetrics. Sign in using your ID or email address and password. 
+* Step 2: Click Transcripts. 
+* Step 3: Scroll through your transcript history and select the report you'd like to view. You can have the report emailed to you or view it onscreen
+
+To view your exam history and records, follow the instructions on this [page](https://spark.adobe.com/page/sqnjCTRNzylRy/){target="_blank"}. 
+
++++
+
++++HOW DO I TRACK MY CERTIFICATION STATUS? 
+
+You can track your certification status by going to [Adobe Credential Management System](https://www.certmetrics.com/adobe/){target="_blank"} under the certifications tab. 
+
++++
+
++++WHAT DO I GET AFTER I PASS THE CERTIFICATION EXAM? 
+
+After you complete your exam, your results will immediately be displayed on-screen. Within 72 hours, you will get an email confirmation of your score from CertMetrics, with a PDF of your certificate. You can access logos from your CertMetrics account that show your certification status and can be used on your website, email, signature, business card, social profiles, etc. 
+
++++
+
++++HOW DO I SIGN IN TO OR CREATE AN ADOBE CREDENTIAL MANAGER/CERTMETRICS ACCOUNT?
+
+You can [sign in to or create an account](https://www.certmetrics.com/adobe/){target="_blank"}. There you view the available exams, your exam history, certification expiration dates, and any benefits, such as discounts, available to you. 
+
++++
+
++++HOW LONG DO CERTIFICATIONS LAST? 
+
+Because we need to ensure our Adobe certified individuals are current on new application features and capabilities, Adobe Certifications are **valid for two years**. 
+
++++
+
++++ARE EXAMS AVAILABLE IN LANGUAGES OTHER THAN ENGLISH? 
+
+There are some exams available in Japanese through PSI (one of our vendors). If your exam is available in Japanese it will be noted in the exam details for that exam. The exams details are found on the "Get ready" tab of the certification journey pages.
+
++++
+
++++DO YOU OFFER CERTIFICATIONS AT ADOBE EVENTS? 
+
+Certifications are offered at certain Adobe‐sponsored events. 
+
++++
+
++++ARE CERTIFICATIONS TIED TO SPECIFIC VERSIONS OF APPLICATIONS (E.G. ADOBE EXPERIENCE MANAGER 6.5)? 
+
+Not directly, no. But because certification will now require renewal every 2 years, your certification ensures that you remain current on the latest version of an Adobe application. 
+
++++
+
+>[!TAB Renewals via on-demand exams]
+
++++WHAT IS CERTIFICATION RENEWAL? HOW DO I RENEW MY CERTIFICATION? 
+
+Adobe certifications expire after two years. You can renew your certification by taking and passing the latest version of the applicable Adobe certification exam. If a new exam is not available, your certification will be extended until the new exam is available. 
+
+You have two options: 
+
+* Take the regular certification exam 
+* Take the renewal exam—a shorter exam that focuses on the newest solution capabilities as well as the things you already know.  
+
+You can't take a renewal exam if you don't have the original certification or if your certification has expired. 
+
+Occasionally, we retire an exam for a role. In that case, your certification will last for two years, then that certification will expire. For example, we no longer offer the Lead/Dev Ops certification, so that certification will expire without a replacement exam.
+
++++
+
++++WHAT HAPPENS IF I DON'T RENEW MY CERTIFICATION RENEWAL BEFORE IT EXPIRES? 
+
+Your certification will expire and will show as expired in Credly and any of your social profiles. Also, if your certification expires, then you can't take the shorter renewal exam or renew via continuous learning. 
+
+To learn more about how to manage your badges in Credly, go [HERE](https://experienceleague.corp.adobe.com/docs/certification/certification/how-to-get-certified.html?lang=en){target="_blank"}.
+
++++
+
++++WHAT IS THE COST TO RENEW MY CERTIFICATION? 
+
+You can renew your certification free of charge. This provides you with a cost-effective way to maintain your certification, and keep your solution skills up to date.
+
+To learn more about How to Renew Your Certification, go [here](https://experienceleague.corp.adobe.com/docs/certification/certification/renew.html?lang=en){target="_blank"}.
+
++++
+
++++WHERE CAN I SEE MY CERTIFICATION EXPIRATION DATE?  WILL I GET AN EXPIRATION NOTICE? 
+
+Sign in to [Adobe Credential Management System](https://www.certmetrics.com/adobe/){target="_blank"}. There you can see when you achieved your credential and when it will expire. You should also check your profile and confirm that your contact, secondary email and job information are correct. 
+
+You will get an email notification one month before your certification expires. But if you have changed jobs and haven't updated your email then you might not get notified. Add a secondary email (such as Gmail, Hotmail, Yahoo, etc.) in your CertMetrics account, so that you get a certification expiration reminder email, even if you change companies. 
+
++++
+
++++WHICH EXAM DO I NEED TO TAKE FOR MY RENEWAL? 
+
+To find out what exam you will need to take, log in to the [Adobe Credential Management System](https://www.certmetrics.com/adobe/){target="_blank"} using your Adobe ID, click Certifications, and select the certification name. The renewal exam is listed under **requirement to stay current**. 
+
++++
+
++++WHEN I RENEW MY CERTIFICATION WILL I GET A NEW DIGITAL BADGE? 
+
+No. Your digital badge will remain the same. 
+
++++
+
++++IS IT POSSIBLE THAT I COULD TAKE THE SAME EXAM FOR RENEWAL THAT I TOOK TO EARN MY INITIAL CERTIFICATION? 
+
+No. You cannot retake a version that you already successfully passed. You will have to wait until the new exam is released.  
+
++++
+
+>[!TAB Renewals via continuous learning]
+
++++WHAT IS ADOBE'S CERTIFICATION RENEWAL PROGRAM? 
+
+Adobe is offering continuous learning and engagement activities so candidates can remain active and extend their certification status for 2 more years. 
+
++++
+
++++MY CERTIFICATiON HAS ALREADY EXPIRED; CAN I PURSUE THE CONTINUOUS LEARNING AND ENGAGEMENT ACTIVITIES FOR RENEWAL? 
+
+No, this renewal option is only for Adobe's actively certified Analytics, Experience Manager, Commerce, and Target candidates. 
+
++++
+
++++WHICH CERTIFICATIONS OFFER CONTINUOUS LEARNING AND ENGAGEMENT ACTIVITIES FOR RENEWAL? 
+
+Presently this program involves Analytics, Experience Manager, Commerce, and Target. We will share the announcements via applicable channels as and when we expand it for other certifications. 
+
++++
+
++++WHAT CONTINUOUS LEARNING AND ENGAGEMENT ACTIVITIES ARE PART OF THE CERTIFICATION RENEWAL PROGRAM? 
+
+Candidates will be offered 5 to 7 on-demand courses to review. The criterion to renew certification will be to pass any 3 assessments based on the courses OR pass 2 assessments and submit a signed customer reference form. 
+
++++
+
++++WHAT IS A CUSTOMER REFERENCE FORM IN CONTEXT OF CERTIFICATION RENEWALS? 
+
+A form that a candidate can submit as part of Adobe's continuous learning and engagement activities for renewal of their certification. The form must be signed by a customer, stating that the candidate has spent a minimum of 100 hours on a project within the last 12 months related to the product for which they are renewing their certification. By including this option as part of the certification renewal requirements, we want to recognize your continued engagement as a way of validating your skills and knowledge so your certification remains active. 
+
++++
+
++++IS THERE A FEE INVOLVED TO PURSUE CERTIFICATION RENEWAL VIA CONTINUOUS LEARNING AND ENGAGEMENT ACTIVITIES? 
+
+No. All the activities are accessible via Adobe Credential Manager at no cost. 
+
++++
+
++++DO I HAVE TO PASS ASSESSMENTS AND ALSO SUBMIT A CUSTOMER REFERENCE FORM? 
+
+No, submitting a customer reference form is optional and one of the activities that candidates can complete to renew their certification. For example, Adobe Analytics certification renewal requires completing a minimum of 3 activities from a given list. The list includes passing 6 assessments and submitting a customer reference form. Candidate can pass 2 assessments and submit a customer reference form thereby meeting the minimum 3 requirements for renewal. 
+
++++
+
++++I HOLD THREE CERTIFICATIONS IN ONE SOLUTION. DO I NEED TO COMPLETE THE REQUIREMENTS FOR EACH CERTIFICATION? 
+
+No, you only need to complete the requirements listed for the solution. Your certification/s will be renewed after completing the required activities and submitting the results to the Adobe Credential Manager. For example, if you hold multiple certifications in Adobe Analytics as a Business Practitioner, Developer, and an Architect, you only need to complete 3 activities to meet renewal requirements for all certifications to be renewed. 
+
++++
+
++++DO I NEED TO REVIEW THE COURSES, OR CAN I SIMPLY START TAKING ASSESSMENTS? 
+
+The assessments are based on the Courses in Experience League and reviewing them will prepare candidates to successfully pass them. However, the key requirement for renewal is just to pass the Assessments. 
+
++++
+
+>[!TAB Restart program]
+
+## Program Overview
+
++++What is the Adobe Certification Restart Program?  
+
+The Adobe Certification Restart Program is a one-time initiative that allows individuals to re-attain their expired Adobe certifications by passing online short exams or assessments, free of cost. 
+
++++
+
++++How long will the Restart Program run?
+
+The program will run for six months, from April 24 to October 20, 2023. 
+
++++
+
++++Will Adobe be offering this type of program again in the future?  
+
+Currently, we do not plan to offer this again. This is a one-time offering only. 
+
++++
+
++++Which certification levels are included in the Restart Program?
+
+Only Expert and Master level certifications are being included in the Restart Program. Professional level certifications will have a renewal path available starting June 2023. 
+
++++
+
+## Program Eligibility
+
++++Who is eligible for the Adobe Certification Restart Program? 
+
+ Individuals whose certifications expired from 2020 through April 23, 2023, are eligible for the Restart Program, provided the certification they seek is included in the program (see the Eligible Certification Exams list below). 
+
++++
+
++++Why aren't all certification exams included in the Restart program?  
+
+The program focuses on only those exams where the scope and objectives have not changed considerably. 
+
++++
+
++++Why is April 23, 2023, the cut-off date for Restart Program eligibility? 
+
+Because it allows individuals who were not able to participate in the FREE certification renewal period (launched on January 23, 2023) sufficient time to renew their certifications.
+
++++
+
++++Which certifications are part of the Adobe Certification Restart Program?  
+
+All current Adobe certifications, except for those that have been retired, are part of the program.
+
++++
+
++++Can you show a list of eligible exams by application?
+
+**Adobe Experience Manager**
 
 | Exam ID |  Exam Name |
 | ------- | ------- |
@@ -55,9 +316,7 @@ Under the history tab in the [Adobe Credential Management System](https://www.ce
 | AD0-E117 | Adobe Experience Manager Sites Architect Master |
 | AD0-E104 | Adobe Experience Manager Sites Architect Master |
 
-+++
-
-+++What exams are included in the restart program for Adobe Analytics?
+**Adobe Analytics**
 
 | Exam ID |  Exam Name |
 | ------- | ------- |
@@ -66,9 +325,7 @@ Under the history tab in the [Adobe Credential Management System](https://www.ce
 | AD0-E200 | Adobe Analytics Architect Master |
 | AD0-E207 | Adobe Analytics Architect Master |
 
-+++
-
-+++What exams are included in the restart program for Adobe Audience Manager?
+**Adobe Audience Manager**
 
 | Exam ID |  Exam Name |
 | ------- | ------- |
@@ -76,9 +333,7 @@ Under the history tab in the [Adobe Credential Management System](https://www.ce
 | AD0-E452 |  Adobe Audience Manager Architect Master |
 | AD0-E453 | Adobe Audience Manager Business Practitioner Expert |
 
-+++
-
-+++What exams are included in the restart program for Adobe Campaign Classic?
+**Adobe Campaign Classic**
 
 | Exam ID |  Exam Name |
 | ------- | ------- |
@@ -89,9 +344,7 @@ Under the history tab in the [Adobe Credential Management System](https://www.ce
 | AD0-E312 | Adobe Campaign Classic Developer Expert |
 | AD0-E308 | Adobe Campaign Classic Developer Expert |
 
-+++
-
-+++What exams are included in the restart program for Adobe Campaign Standard?
+**Adobe Campaign Standard**
 
 | Exam ID |  Exam Name |
 | ------- | ------- |
@@ -100,22 +353,54 @@ Under the history tab in the [Adobe Credential Management System](https://www.ce
 | AD0-E306 | Adobe Campaign Standard Developer Expert |
 | AD0-E301 | Adobe Campaign Standard Developer Expert |
 
-+++
-
-+++What exams are included in the restart program for Adobe Marketo Engage?
+**Adobe Marketo Engage**
 
 | Exam ID |  Exam Name |
 | ------- | ------- |
 | AD0-E552  | Adobe Marketo Engage Business Practitioner (previously MCE) |
 
-+++
-
-+++What exams are included in the restart program for Adobe Target?
+**Adobe Target**
 
 | Exam ID |  Exam Name |
 | ------- | ------- |
 | AD0-E401  | Adobe Target Business Practitioner Expert |
 | AD0-E402 | Adobe Target Architect Master |
+
++++
+
++++My Certification expires between April 24 and October 20, 2023, while this program is available., Can I pursue the Restart program for my certification once it expires? 
+
+No. All candidates with active certifications as of the launch date and beyond have the option to pursue the continuous learning renewal path we announced in January 2023. 
+
+The Restart Program is meant only for certifications that expired prior to April 24, 2023, in order to offer certification to candidates who couldn't partake in the continuous learning program. 
+
++++
+
+## Marketo Engage Solution Architect (MCSA) and Adobe Commerce
+
++++I have an expired Marketo Certified Solution Architect (MCSA). Can I re-instate that through this Program? 
+
+Candidates with an expired Marketo Certified Solution Architect Certification may pursue the Marketo Business Practitioner Restart path for partial requirement towards the new Marketo Engage Architect certification. Final requirement is to pass the new Marketo Engage Architect exam. For all MCSA expired certificate holders, we are running a 50% discount promotion until Dec 31, 2023, please contact certification support for details.
+
++++
+
++++Why are Adobe Commerce Certifications not part of Adobe Certification Restart Program? 
+
+There are no expired certificate holders for currently offered Adobe Commerce Certifications as of April 23, 2023. Therefore, all active Adobe Commerce Certified candidates have the option to renew through the continuous learning [renewal path for certification](https://experienceleague.corp.adobe.com/docs/certification/certification/technical-certifications/ac/ac-renew.html?lang=en){target="_blank"}. 
+
++++
+
+## Adobe Credential Manager Profile
+
++++Why do I see an Exam starting with RES-XXX in my Exam history on Adobe Credential Manager? 
+
+This is only an indication of eligibility for the candidates eligible for Adobe Certification Restart Program. It does not represent an exam or certification. Candidates who have been assigned this flag can complete the requirements to restart their expired certification.
+
++++
+
++++I have completed the requirements and do not see the results in my profile history, when will I get the Certificate? 
+
+ The certification will be awarded within 72 hours after completing the requirements. It is important to note that this program will only award certification for eligible candidates.
 
 +++
 

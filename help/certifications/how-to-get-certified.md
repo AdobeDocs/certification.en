@@ -11,6 +11,18 @@ mini-toc-levels: 1
 
 >[!BEGINTABS]
 
+>[!TAB Registration]
+
+>[!TAB Adobe Credential Management System]
+
+>[!TAB Delivery vendors]
+
+>[!TAB Exams costs]
+
+>[!TAB Policies]
+
+>[!TAB Candidate agreement]
+
 >[!TAB Manage your badges]
 
 Once you earn a credential you can download your digital badge. You can use your badge on social profiles and verify your achievement to your employer and customers that you are skilled in this application.

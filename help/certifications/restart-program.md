@@ -1,6 +1,6 @@
 ---
 title: Adobe Certification Restart Program
-description: Go from expired to certified with Adobe Certifications.Find out if you are eligible for this limited time program. 
+description: Go from expired to certified with Adobe Certifications. Find out if you are eligible for this limited time program. 
 role: Developer
 recommendations: disable, exclude
 badge: label="Restart program" type="positive"
