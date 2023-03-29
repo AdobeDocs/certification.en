@@ -19,12 +19,12 @@ Learn the difference between the types of exams you will encounter on your certi
 
 | Type | Description |
 | ------- | ------- |
-| Certification exam |   |
-| Renewal exam |  |
-| Course assessment |  |
-| Practice test |   |
-| Sample questions |   |
-| Readiness questionnaire |  | 
+| Certification exam | Certification is a credential that recognizes an individual's skill and competency in an Adobe application. A candidate who passes the Certification exam becomes an Adobe Certified Professional, Expert, or Master for the product and job role on which the exam is based.  |
+| Renewal exam | Adobe certifications expire after two years. By taking and passing a Renewal exam, your certification credential is extended for another two years. |
+| Course assessment | For certain solutions, Adobe offers an alternative to passing Renewal exams for maintaining your certification credential. Candidates will be offered (typically) 5 to 7 on-demand courses to review. Each course has a short assessment associated with that course, called a course assessment. The criterion to renew certification will be to pass any 3 assessments based on the courses OR pass 2 assessments and submit a signed customer reference form. |
+| Practice test | A Practice test is a complete version of a certification exam that is based on the same content (exam objectives) as the certification exam. Although they are not the same questions you will answer on the certification exam, the practice questions are written at the same time as the certification exam. While passing a practice exam cannot guarantee that you will pass the certification exam, it does provide an outstanding indicator of your readiness to take the exam  |
+| Sample questions | For some Certification exams, Adobe does not yet have full length Practice tests. For these exams, a representative set of sample questions is provided.  |
+| Readiness questionnaire | A Readiness Questionnaire is another tool you can use to assess your readiness to take your certification exam. The Readiness Questionnaire comprises affirming statements based on the exam objectives–by answering 'Yes' or 'No' to each statement, you can determine your readiness with respect to the major content areas covered on the exam. | 
 
 
 >[!TAB Certification levels]
