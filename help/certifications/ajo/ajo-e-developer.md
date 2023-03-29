@@ -166,9 +166,9 @@ Here are some suggested resources to help you prepare:
 
 >[!TAB Get certified]
 
->[!NOTE]
+>[!IMPORTANT]
 >
->IMPORTANT NOTE: The following sections and links will **only** function after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
+>The following sections and links will **only** function after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
 
 
 **Now that you have successfully logged in, the following links will be directly accessible.**
@@ -198,12 +198,14 @@ To schedule, reschedule, or cancel your exam, simply click on the vendor of choi
 
 Purchase your exam voucher at [Adobe Certification Voucher Center](https://market.xvoucher.com/adobe/global){target="_blank"}. 
 
-Apply the voucher code when you schedule your exam. If you have a discount, it will apply at checkout.
+You can pay for your certification exam by voucher or credit card. To purchase an exam voucher go to: [Adobe Certification Voucher Center](https://market.xvoucher.com/adobe/global){target="_blank"}. 
+
+You can apply the voucher code when you schedule your exam. If you have a discount, it will apply at checkout.
 
 >[!ENDTABS]
 
 **Questions**
 
-View the certification [FAQs](https://solutionpartners.adobe.com/solution-partners/training_and_certification/certification/certification_faq.html#){target="_blank"}.
+View the certification [FAQs](https://experienceleague.corp.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
 Additional questions? Please email `certif@adobe.com`.

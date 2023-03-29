@@ -134,9 +134,9 @@ Here are some suggested resources to help you prepare:
 
 ### Renew your certification
 
->[!NOTE]
+>[!IMPORTANT]
 >
->IMPORTANT NOTE: The following sections and links will **only** function after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
+>The following sections and links will **only** function after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
 
 **Now that you have successfully logged in, the following links will be directly accessible.**
 
@@ -148,6 +148,6 @@ This exam is free, open book, and un-proctored. You may take the exam up to thre
 
 **Questions**
 
-View the certification [FAQs](https://solutionpartners.adobe.com/solution-partners/training_and_certification/certification/certification_faq.html#){target="_blank"}.
+View the certification [FAQs](https://experienceleague.corp.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
 Additional questions? Please email `certif@adobe.com`.
