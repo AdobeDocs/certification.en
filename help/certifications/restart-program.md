@@ -10,21 +10,23 @@ mini-toc-levels: 1
 
 This limited time program, offered **from April 6th, 2023 through October 20th, 2023**, gives you a chance to update your skills and stay ahead of the curve in a rapidly changing digital landscape.
 
-If you've previously held an Adobe Digital Cloud Experience certification that has expired, you may be eligible for this **FREE** program!
+Individuals whose certifications expired starting in 2020 through April 23, 2023, are eligible for this **free** program.
 
-## What is the Adobe Restart program?
+## Introduction
 
 The Adobe Restart Program is an initiative that allows individuals with expired Experience Cloud certifications to re-certify, free of charge. If you have previously held an Adobe Digital Cloud Experience certification that has since expired, you may be eligible for a FREE new, frictionless certification! Depending on the solution, you can participate in continuous learning activities or take an un-proctored job role exam. This program is a valuable resource for people seeking to enhance their digital expertise and stay competitive.
 
-### How to proceed?{#exams}
+### Steps to restart your expired certification{#exams}
 
-* Log in to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
-* Go to [your profile history](https://www.certmetrics.com/adobe/candidate/requirements.aspx){target="_blank"}.
-* If you are eligible you will see an exam listed that begins with RES. 
-* Complete the requirements (course assessments/exam) before the deadline.
-* Need more information check the [Restart FAQ's](https://experienceleague.corp.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+>[!NOTE]
+>
+>If you have received an Email from Adobe Credential Program with a subject "Become Adobe Certified Again For Free," you can skip to step 2.
 
-### Restart options by solution
+* Step 1: Determine whether your expired certification is eligible for the Restart program by checking [here](https://solutionpartners.adobe.com/solution-partners/training_and_certification/certification.html#restart){target="_blank"}. If it is eligible, proceed to Step 2. 
+* Step 2: Log in to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}, then return to this page. Use the links provided on this page to access the required assessments. 
+* Step 3: Complete the course assessments/exams **before the October 20, 2023,** deadline from the options provided. 
+
+### Adobe Certification Restart paths by application
 
 >[!BEGINTABS]
 
@@ -42,7 +44,7 @@ Alternatively, study two courses, pass two course assessments and submit a custo
 
 For certain Adobe Experience Cloud certifications, the Adobe Credential Program accepts **customer references** that validate your continued work as an Adobe certified individual leading, managing and/or participating on an Adobe Experience Cloud implementation project.
 
-In these cases you can provide a customer reference affirming you have participated in at least 100 hours of demonstrated project engagement during your certification renewal 2-year interval.
+In these cases you can provide a customer reference affirming you have participated in at least 100 hours of demonstrated project engagement in the past 12 months.
 
 **Once your customer reference has been reviewed you will be notified by the Adobe Credential Team.**
 
@@ -82,7 +84,7 @@ Alternatively, study two courses, pass two course assessments and submit a custo
 
 For certain Adobe Experience Cloud certifications, the Adobe Credential Program accepts **customer references** that validate your continued work as an Adobe certified individual leading, managing and/or participating on an Adobe Experience Cloud implementation project.
 
-In these cases you can provide a customer reference affirming you have participated in at least 100 hours of demonstrated project engagement during your certification renewal 2-year interval.
+In these cases you can provide a customer reference affirming you have participated in at least 100 hours of demonstrated project engagement in the past 12 months.
 
 **Once your customer reference has been reviewed you will be notified by the Adobe Credential Team.**
 
@@ -119,7 +121,7 @@ Alternatively, study two courses, pass two course assessments and submit a custo
 
 For certain Adobe Experience Cloud certifications, the Adobe Credential Program accepts **customer references** that validate your continued work as an Adobe certified individual leading, managing and/or participating on an Adobe Experience Cloud implementation project.
 
-In these cases you can provide a customer reference affirming you have participated in at least 100 hours of demonstrated project engagement during your certification renewal 2-year interval.
+In these cases you can provide a customer reference affirming you have participated in at least 100 hours of demonstrated project engagement in the past 12 months.
 
 **Once your customer reference has been reviewed you will be notified by the Adobe Credential Team.**
 
