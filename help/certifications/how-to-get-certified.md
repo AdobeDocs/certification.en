@@ -13,6 +13,19 @@ Learn how to get certified at Adobe. Find all the resources you need before, dur
 
 >[!TAB Registration]
 
+Adobe uses two vendors to administer proctored exams, PSI and Examity. 
+
+* **PSI:** offers two options for taking exams, test center and remote online
+* **Examity:** only offers the remote online option
+
+**Follow these steps to register for your certification exam:**
+
+* **Step 1:** Successfully login to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}.
+* **Step 2:** Go to the "Get certified" tab on the Certification Journey page of the exam you would like register for. To schedule, reschedule, or cancel your exam, simply click on the vendor of choice, and follow the instructions provided on screen.
+
+![Vendor Badge](/help/certifications/assets/PSI_Examity.png)
+
+
 >[!TAB Taking your exam]
 
 >[!TAB Exams costs]
