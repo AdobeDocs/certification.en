@@ -150,7 +150,7 @@ The sample questions allow you to see the type and format of items that you will
 
 Adobe uses two vendors to administer proctored exams, PSI and Examity. 
 
-* **PSI** offers two options for taking exams, test center and remote online
+* **PSI** offers test center and Japanese exams only
 * **Examity** only offers the remote online option
 
 To schedule, reschedule, or cancel your exam, simply click on the vendor of choice, and follow the instructions provided on screen. It's that simple!
