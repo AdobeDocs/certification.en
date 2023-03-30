@@ -23,8 +23,8 @@ The Adobe Restart Program is an initiative that allows individuals with expired 
 >If you have received an Email from Adobe Credential Program with a subject "Become Adobe Certified Again For Free," you can skip to step 2.
 
 * Step 1: Determine whether your expired certification is eligible for the Restart program by checking [here](https://solutionpartners.adobe.com/solution-partners/training_and_certification/certification.html#restart){target="_blank"}. If it is eligible, proceed to Step 2. 
-* Step 2: Select the application you want to restart below and follow the steps to go from expired to certified.. 
-* Step 3: Complete the course assessments/exams **before the October 20, 2023,** deadline from the options provided. 
+* Step 2: Review the restart requirements for your application. 
+* Step 3: Follow the steps to complete the course assessments/exams **before the October 20, 2023,** deadline from the options provided. 
 
 ### Adobe Certification Restart paths by application
 
