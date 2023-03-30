@@ -10,7 +10,7 @@ mini-toc-levels: 1
 
 Learn how to become a certified Adobe Experience Manager professional.
 
-## Minimum experience:
+## Minimum experience
 
 You should be an application developer and have:
 

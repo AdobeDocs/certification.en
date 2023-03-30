@@ -10,7 +10,7 @@ mini-toc-levels: 1
 
 Learn how to become a certified Adobe Business Practitioner expert.
 
-## Minimum experience:
+## Minimum experience
 
 You should be an application developer and have:
 

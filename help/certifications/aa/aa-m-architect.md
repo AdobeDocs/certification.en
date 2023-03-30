@@ -10,7 +10,7 @@ mini-toc-levels: 1
 
 Learn how to become a certified Analytics Architect master.
 
-## Minimum experience:
+## Minimum experience
 
 You should have a minimum 3-4 years of experience designing Adobe Analytics architecture, data layer specifications, and tag management, as well as a basic understanding of JavaScript code. 
 

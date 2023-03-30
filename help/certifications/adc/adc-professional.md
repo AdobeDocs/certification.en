@@ -11,7 +11,7 @@ hidefromtoc: yes
 
 Learn how to become a certified Adobe Doc Cloud Professional.
 
-## Minimum experience:
+## Minimum experience
 
 >[!NOTE]
 >

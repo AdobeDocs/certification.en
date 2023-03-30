@@ -10,7 +10,7 @@ mini-toc-levels: 1
 
 Learn how to become a certified Analytics Business Practitioner professional.
 
-## Minimum experience:
+## Minimum experience
 
 You should have a minimum of 3 months of experience in Adobe Analytics and the following experience:
 

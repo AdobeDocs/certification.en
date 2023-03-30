@@ -10,7 +10,7 @@ mini-toc-levels: 1
 
 Learn how to become a certified Adobe Business Practitioner expert.
 
-## Minimum experience:
+## Minimum experience
 
 You should have experience working in a channel delivery environment (email, direct mail, mobile, and social); familiarity with marketing campaign tactics such as multi-touch, life cycle, and reactivation; and an understanding of marketing metrics such as ROI, clickthrough rates, and conversion.
 

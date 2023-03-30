@@ -10,7 +10,7 @@ mini-toc-levels: 1
 
 Learn how to become a certified Adobe Developer expert.
 
-## Minimum experience:
+## Minimum experience
 
 You should have at least 18-24 months experience with Workfront, and can:
 

@@ -11,7 +11,7 @@ hidefromtoc: yes
 
 Learn how to become a certified Adobe 
 
-## Minimum experience:
+## Minimum experience
 
 You should have:
 

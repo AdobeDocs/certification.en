@@ -10,7 +10,7 @@ mini-toc-levels: 1
 
 Learn how to become a certified Adobe Experience Manager professional.
 
-## Minimum experience:
+## Minimum experience
 
 You should be comfortable working in Adobe Managed Services and Adobe Experience Manager as a Cloud Service, and are able to set up Adobe Experience Manager environments and infrastructure. 
 

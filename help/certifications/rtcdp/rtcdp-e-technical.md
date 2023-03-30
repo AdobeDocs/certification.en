@@ -12,7 +12,7 @@ mini-toc-levels: 1
 
 Learn how to become a certified Adobe Experience Platform expert.
 
-## Minimum experience:
+## Minimum experience
 
 To earn a certification with exam, you need to pass 2 distinct exams with a proctor present, online or on-site, where available.
 

@@ -1,18 +1,18 @@
 ---
-title: Adobe Commerce Business Practitioner Expert Certification
-description: Learn how to become a certified as an Adobe Business Practitioner expert.
+title: Business Practitioner Expert Certification
+description: Learn how to become a certified as an Adobe Business Practitioner expert in Adobe [!DNL Commerce].
 solution: Commerce
 role: Developer
 badge: label="Exam AD0-E708" type="positive"
 mini-toc-levels: 1
 ---
-# Certification journey for Adobe Commerce Business Practitioner expert
+# Certification journey for Adobe [!DNL Commerce] Business Practitioner expert
 
 Learn how to become a certified Adobe Business Practitioner expert.
 
-## Minimum experience:
+## Minimum experience
 
-You should have approximately 3 years of hands-on Commerce experience and a broad understanding of the e-commerce experience. 
+You should have approximately 3 years of hands-on [!DNL Commerce] experience and a broad understanding of the e-commerce experience. 
 
 You should have experience in:
 
@@ -26,7 +26,7 @@ You should have experience in:
 
 And, you should be comfortable using the following technologies:
 
-* Adobe Commerce - version 2.4
+* Adobe [!DNL Commerce] - version 2.4
 * Analytics and performance tools: Google Analytics, tag manager, SWAT, New Relic, Fastly, Google Lighthouse
 * Security tools: PCI compliance, ADA, GDPR, etc.
 * Cloud or on-premise architecture
@@ -71,15 +71,15 @@ Complete the [online readiness questionnaire](https://scorpion.caveon.com/launch
 
 Section 1: Core Features/General Configuration (46%)
 
-* Identify the features of Adobe Commerce Open Source Edition and Commerce Edition
-* Distinguish the differences between all editions of Adobe Commerce products
+* Identify the features of Adobe [!DNL Commerce] Open Source Edition and [!DNL Commerce] Edition
+* Distinguish the differences between all editions of Adobe [!DNL Commerce] products
 * Determine how to utilize product types and their features to meet customer requirements
 * Interpret requirements and mock ups to determine if they can be met with native functionality
 * Demonstrate knowledge of the admin panel and the location of common features
-* Demonstrate the ability import/export Adobe Commerce entities
+* Demonstrate the ability import/export Adobe [!DNL Commerce] entities
 * Understand how to natively configure cart and checkout
-* Evaluate the native available shipping methods in Adobe Commerce and how they apply to common use cases
-* Understanding the ways to create and publish stylized content using the Adobe Commerce CMS features including PageBuilder
+* Evaluate the native available shipping methods in Adobe [!DNL Commerce] and how they apply to common use cases
+* Understanding the ways to create and publish stylized content using the Adobe [!DNL Commerce] CMS features including PageBuilder
 * Using native tools to manage the order life cycle
 * Demonstrate the ability to configure the various gifting options (gift cards, gift wrapping, give messages)
 * Configuring and modifying transactional emails
@@ -100,24 +100,24 @@ Section 4: Add-on Modules and Additional Products (18%)
 
 * Describe the B2B functionality and how it relates to common B2B scenarios
 * Apply business requirements to suggest a solution using MSI
-* Explain the advantages and how to use BI to the Adobe Commerce solution
+* Explain the advantages and how to use BI to the Adobe [!DNL Commerce] solution
 * Distinguish the differences between native search and LiveSearch
 * Apply business requirements to determine how to apply taxes, duties and exemptions in a B2B environment
 * Understand how to apply tailored pricing to a B2B customer
-* Understand the differences between Adobe Commerce native product and Adobe Sensei product recommendations
+* Understand the differences between Adobe [!DNL Commerce] native product and Adobe Sensei product recommendations
 
 Section 5: Systems Architecture (10%)
 
 * Evaluate requirements to determine which websites, stores, and store view are necessary
 * Identify and analyze performance metrics to make improvements
-* Understand the available methods to integrate external system with Adobe Commerce
+* Understand the available methods to integrate external system with Adobe [!DNL Commerce]
 * Differentiate between headless approaches and traditional
 
 Section 6: Compliance/Security (12%)
 
-* Demonstrate how to secure the Adobe Commerce data access with roles and permissions
+* Demonstrate how to secure the Adobe [!DNL Commerce] data access with roles and permissions
 * Understand basics of compliance for privacy laws and payment security
-* Explain common security aspects of an Adobe Commerce project
+* Explain common security aspects of an Adobe [!DNL Commerce] project
 * Understand the basics of tax laws and how to configure
 
 >[!TAB Get prepped]
@@ -126,7 +126,7 @@ You are not required to complete training before taking the exam, and training a
 
 **Section 1: Core features/general configuration**
 
-* [Commerce merchant documentation](https://docs.magento.com/user-guide/getting-started.html){target="_blank"} 
+* [[!DNL Commerce] merchant documentation](https://docs.magento.com/user-guide/getting-started.html){target="_blank"} 
 * [Understanding Product Types](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/3-1-product-types-options.html?lang=en){target="_blank"} 
 * [Customer Management](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/5-2-customer-management.html?lang=en){target="_blank"} 
 * [Create a product](https://docs.magento.com/user-guide/catalog/product-types.html){target="_blank"} 
@@ -146,7 +146,7 @@ You are not required to complete training before taking the exam, and training a
 * [Gift options](https://docs.magento.com/user-guide/sales/gift-options.html){target="_blank"} 
 * [Email communications](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/5-3-store-communications.html){target="_blank"} 
 * [Email templates](https://docs.magento.com/user-guide/marketing/email-templates.html){target="_blank"} 
-* [Introduction to B2B for Adobe Commerce](https://docs.magento.com/user-guide/stores/b2b-basics.html){target="_blank"} 
+* [Introduction to B2B for Adobe [!DNL Commerce]](https://docs.magento.com/user-guide/stores/b2b-basics.html){target="_blank"} 
 * [Reward and loyalty programs](https://docs.magento.com/user-guide/marketing/rewards-loyalty.html){target="_blank"} 
 
 **Section 2: Merchandising**
@@ -165,7 +165,7 @@ You are not required to complete training before taking the exam, and training a
 
 **Section 3: Digital marketing**
 
-* [Introduction to Commerce merchandising and promotions](https://docs.magento.com/user-guide/marketing.html){target="_blank"}
+* [Introduction to [!DNL Commerce] merchandising and promotions](https://docs.magento.com/user-guide/marketing.html){target="_blank"}
 * [SEO overview](https://docs.magento.com/user-guide/marketing/seo-search.html){target="_blank"}
 * [Getting Started with Business Intelligence (webinar recording)](https://business.adobe.com/resources/getting-started-magento-business-intelligence.html){target="_blank"}
 * [Google site tools](https://docs.magento.com/user-guide/marketing/google-tools.html){target="_blank"}
@@ -174,7 +174,7 @@ You are not required to complete training before taking the exam, and training a
 **Section 4: Add-on Modules and additional products**
 
 * [B2B Features](https://docs.magento.com/user-guide/configuration/general/b2b-features.html){target="_blank"}
-* [Introduction to B2B for Adobe Commerce](https://docs.magento.com/user-guide/stores/b2b-features.html){target="_blank"}
+* [Introduction to B2B for Adobe [!DNL Commerce]](https://docs.magento.com/user-guide/stores/b2b-features.html){target="_blank"}
 * [Managing Inventory](https://docs.magento.com/user-guide/catalog/inventory-management.html){target="_blank"}
 * [Introduction to MBI](https://docs.magento.com/mbi/getting-started/getting-started.html){target="_blank"}
 * [Live Search](https://devdocs.magento.com/guides/v2.4/install-gde/prereq/elasticsearch.html){target="_blank"}

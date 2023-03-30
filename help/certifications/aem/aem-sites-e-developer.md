@@ -10,7 +10,7 @@ mini-toc-levels: 1
 
 Learn how to become a certified Adobe Experience Manager expert.
 
-## Minimum experience:
+## Minimum experience
 
 You should have:
 

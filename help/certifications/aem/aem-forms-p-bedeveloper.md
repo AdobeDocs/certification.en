@@ -10,7 +10,7 @@ mini-toc-levels: 1
 
 Learn how to become a certified Adobe Backend Forms Developer professional.
 
-## Minimum experience: 
+## Minimum experience 
 
 You should be a backend forms developer and have:
 

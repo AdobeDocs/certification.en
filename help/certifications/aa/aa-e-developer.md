@@ -10,7 +10,7 @@ mini-toc-levels: 1
 
 Learn how to become a certified Adobe Analytics Developer expert.
 
-## Minimum experience:
+## Minimum experience
 
 You should have experience as an implementation consultant in a hybrid role with about 2 years' experience in Adobe Analytics implementation. You acts as the bridge between IT and the business, translate the business requirements into a technical solution (SDR), and based on requirements provided by the analyst, understand which type of variable is needed, where and how to collect the data, design the data model (data layer), configure and maintain the tag management solution. 
 

@@ -1,22 +1,22 @@
 ---
-title: Adobe Commerce Front-end Developer Professional Certification
-description: Learn how to become a certified Adobe Developer professional.
+title: Front-end Developer Professional Certification
+description: Learn how to become a certified Adobe Developer professional for Adobe [!DNL Commerce] .
 solution: Commerce
 role: Developer
 badge: label="Exam AD0-E719" type="positive"
 mini-toc-levels: 1
 ---
-# Certification journey for Adobe Commerce Front-end Developer professional
+# Certification journey for Adobe [!DNL Commerce] Front-end Developer professional
 
 Learn how to become a certified Adobe Developer professional.
 
-## Minimum experience:
+## Minimum experience
 
-You should have 0-12 months of hands-on experience with Adobe Commerce Front-end development and the ability to work with technical solutions to deliver individual components.
+You should have 0-12 months of hands-on experience with Adobe [!DNL Commerce] Front-end development and the ability to work with technical solutions to deliver individual components.
 
 Additionally, you should exhibit knowledge of the following technologies:
 
-* Strong understanding of Adobe Commerce version 2.4.3
+* Strong understanding of Adobe [!DNL Commerce] version 2.4.3
 * Basic understanding of the front-end structure and layout
 * Experience and understanding of HTML, CSS (and preprocessors), LESS, JavaScript and UI Components, jQuery, Underscore, Require.JS, Knockout, also PHP templates, DB knowledge and content management
 * Familiarity with the platform, CMS Blocks, Widgets, CMS pages, Category pages, Product pages, Cart and Checkout, and Account Dashboard area
@@ -66,7 +66,7 @@ Exam ID: AD0-E719
 
 Section 1: Theme management (Theme hierarchy, image configuration, translations) (14%)
 
-* Describe Adobe Commerce theme folder structure
+* Describe Adobe [!DNL Commerce] theme folder structure
 * Demonstrate ability to create new or extend existing themes
 * Demonstrate ability to add custom translation phrases
 
@@ -82,7 +82,7 @@ Section 3: Styles (24%)
 
 * Describe the purpose of styles-m.less, styles-l.less, print.less
 * Describe the difference between specific partial files (_extends.less,_extend.less,_theme.less,_widgets.less,_module.less)
-* Given a scenario, demonstrate the ability to override or extend Magento LESS
+* Given a scenario, demonstrate the ability to override or extend [!DNL Magento] LESS
 * Describe the basic concepts of LESS
 * Explain the hierarchy of styles ( lib, modules, themes)
 * Explain client-side and server-side compilation

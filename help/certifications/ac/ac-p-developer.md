@@ -1,22 +1,22 @@
 ---
-title: Adobe Commerce Commerce Developer Professional Certification
-description: Learn how to become a certified Adobe Developer professional.
+title: Developer Professional Certification
+description: Learn how to become a certified Adobe Developer professional in Adobe [!DNL Commerce].
 solution: Commerce
 role: Developer
 badge: label="Exam AD0-E717" type="positive"
 mini-toc-levels: 1
 ---
-# Certification journey for Adobe Commerce Developer professional
+# Certification journey for Adobe [!DNL Commerce] Developer professional
 
 Learn how to become a certified Adobe Developer professional.
 
-## Minimum experience:
+## Minimum experience
 
-You should be comfortable working in Adobe Commerce and have a basic understanding of Adobe Commerce admin development, architecture, EAV/database, layout/UI, checkout and sales, and catalog. 
+You should be comfortable working in Adobe [!DNL Commerce] and have a basic understanding of Adobe [!DNL Commerce] admin development, architecture, EAV/database, layout/UI, checkout and sales, and catalog. 
 
 Additionally, you should be familiar with the following technologies and environments:
 
-* Adobe Commerce - version 2.4
+* Adobe [!DNL Commerce] - version 2.4
 * Good understanding of PHP
 * Knowledge of MYSQL
 * Knowledge of Object-Oriented Programming
@@ -65,8 +65,8 @@ Section 1: Working with Admin (5%)
 
 Section 2: Architecture (29%)
 
-* Describe Magento file structure
-* Describe Magento CLI commands
+* Describe [!DNL Magento] file structure
+* Describe [!DNL Magento] CLI commands
 * Describe cron functionality
 * Given a scenario, describe usage of the di.xml
 * Given a scenario, create controllers
@@ -76,7 +76,7 @@ Section 2: Architecture (29%)
 * Describe plugin, preference, event observers, and interceptors
 * Describe custom module routes
 * Describe URL rewrites
-* Describe the Magento caching system
+* Describe the [!DNL Magento] caching system
 * Describe stores, websites, and store views (basic understanding)
 
 Section 3: EAV/database (13%)
@@ -110,29 +110,29 @@ Section 6: Catalog(8%)
 * Describe price rules
 * Describe price types
 
-Section 7: Adobe Commerce Cloud architecture (12%)
+Section 7: Adobe [!DNL Commerce] Cloud architecture (12%)
 
-* Define Adobe Commerce architecture/environment workflow
+* Define Adobe [!DNL Commerce] architecture/environment workflow
 * Describe cloud project files, permission, and structure
-* List services available on Adobe Commerce on Cloud
+* List services available on Adobe [!DNL Commerce] on Cloud
 * Describe how to access different types of logs
 * Describe steps for applying patches (Identify which folder to put patches in)
 * Describe how to Maintain and upgrade ECE tools
 * Identify when to call support *Yaml files and limitations (DIY vs Support tickets)
 
-Section 8: Setup/Configuring Adobe Commerce Cloud (4%)
+Section 8: Setup/Configuring Adobe [!DNL Commerce] Cloud (4%)
 
-* Identify how to setup/configure Adobe Commerce Cloud
+* Identify how to setup/configure Adobe [!DNL Commerce] Cloud
 * Define Basic Cloud troubleshooting (Hierarchy of web UI and variables, configurations precedence)
 * Recognize basic knowledge of cloud user management and onboarding UI
 * Describe environment Management using UI
 * Describe branching using UI
 * Identify Adobe commerce Cloud Plan capabilities
 
-Section 9: Commerce Cloud CLI tool (Managing part) (6%)
+Section 9: [!DNL Commerce] Cloud CLI tool (Managing part) (6%)
 
-* Describe exclusive features of Adobe Commerce Cloud CLI tool (CLI exclusive features: activate emails, rebase environments, snapshot, db dump, local environment setup)
-* Describe branching using the Adobe Commerce Cloud CLI tool
+* Describe exclusive features of Adobe [!DNL Commerce] Cloud CLI tool (CLI exclusive features: activate emails, rebase environments, snapshot, db dump, local environment setup)
+* Describe branching using the Adobe [!DNL Commerce] Cloud CLI tool
 * Identify ways to connect to cloud services? (My SQL, Redis, tunnel:info)
 
 >[!TAB Get prepped]
@@ -175,7 +175,7 @@ The sample questions allow you to see the type and format of items that you will
 
 **Section 3: Digital marketing and eCommerce fundamentals**
 
-* [Commerce Tutorials](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/overview.html){target="_blank"}
+* [[!DNL Commerce] Tutorials](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/overview.html){target="_blank"}
 * [Events and Observers](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/events-and-observers.html){target="_blank"}
 * [Layered Navigation](https://docs.magento.com/user-guide/catalog/navigation-layered.html){target="_blank"}
 * [Product Attributes Overview](https://docs.magento.com/user-guide/stores/attributes.html){target="_blank"}
@@ -197,7 +197,7 @@ The sample questions allow you to see the type and format of items that you will
 * [Shopping cart](https://docs.magento.com/user-guide/sales/cart.html){target="_blank"}
 * [Cart price rules](https://docs.magento.com/user-guide/marketing/price-rules-cart.html){target="_blank"}
 * [Customize Checkout](https://devdocs.magento.com/guides/v2.4/howdoi/checkout/checkout_overview.html){target="_blank"}
-* [Common Commerce Tables](https://docs.magento.com/mbi/data-analyst/data-warehouse-mgr/common-mage-tables.html){target="_blank"}
+* [Common [!DNL Commerce] Tables](https://docs.magento.com/mbi/data-analyst/data-warehouse-mgr/common-mage-tables.html){target="_blank"}
 * [Adding a new payment integration](https://devdocs.magento.com/guides/v2.4/payments-integrations/base-integration/integration-intro.html){target="_blank"}
 * [ Currency](https://docs.magento.com/user-guide/stores/currency.html){target="_blank"}
 
@@ -210,22 +210,22 @@ The sample questions allow you to see the type and format of items that you will
 * [Catalog price rules](https://docs.magento.com/user-guide/marketing/price-rules-catalog.html){target="_blank"}
 * [Advanced Pricing](https://docs.magento.com/user-guide/catalog/pricing.html){target="_blank"}
 
-**Section 7: Adobe Commerce Cloud Architecture**
+**Section 7: Adobe [!DNL Commerce] Cloud Architecture**
 
-* [Commerce on Cloud Infrastructure](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/overview.html){target="_blank"}
-* [Cloud architecture for Commerce](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/architecture/cloud-architecture.html){target="_blank"}
+* [[!DNL Commerce] on Cloud Infrastructure](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/overview.html){target="_blank"}
+* [Cloud architecture for [!DNL Commerce]](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/architecture/cloud-architecture.html){target="_blank"}
 * [Starter architecture](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/architecture/starter-architecture.html){target="_blank"}
 * [Pro architecture](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/architecture/pro-architecture.html){target="_blank"}
 * [Scaled Architecture](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/architecture/scaled-architecture.html){target="_blank"}
 
-**Section 8: Setup/Configuring Adobe Commerce Cloud**
+**Section 8: Setup/Configuring Adobe [!DNL Commerce] Cloud**
 
 * [Configuration files overview](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/overview.html){target="_blank"}
 * [Properties for application configuration](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/app/properties/properties.html){target="_blank"}
 * [Configure environment variables for deployment](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/env/configure-env-yaml.html){target="_blank"}
-* [Adobe Commerce on Cloud Product Description](https://helpx.adobe.com/legal/product-descriptions/adobe-commerce-on-cloud.html){target="_blank"}
+* [Adobe [!DNL Commerce] on Cloud Product Description](https://helpx.adobe.com/legal/product-descriptions/adobe-commerce-on-cloud.html){target="_blank"}
 
-**Section 9: Commerce Cloud CLI Tool (Managing Part)**
+**Section 9: [!DNL Commerce] Cloud CLI Tool (Managing Part)**
 
 * [Cloud CLI](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/cloud-cli.html){target="_blank"}
 * [Manage branches with the CLI](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/cli-branches.html){target="_blank"}

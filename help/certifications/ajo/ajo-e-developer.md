@@ -9,7 +9,7 @@ badge: label="Exam AD0-E603" type="positive"
 
 Learn how to become a certified Adobe Journey Optimizer expert.
 
-## Minimum experience:
+## Minimum experience
 
 You should have at least one year experience working with various CDP and marketing automation systems, and be able to perform the following tasks:
 
