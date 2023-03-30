@@ -34,9 +34,9 @@ You should be currently certified (not expired) in:
 
 ## Instructions for renewing your certification:
 
-* **Step 1** - Review the exam scope and objectives
-* **Step 2** - Review the resources
-* **Step 3** - Take and pass the exam
+* **Step 1**: Successfully log in to [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}, then return to this page
+* **Step 2**: Review the exam objectives and resources
+* **Step 3**: Take and pass the exam
 
 ### Get ready
 
@@ -88,19 +88,19 @@ Here are some suggested resources to help you prepare:
 
 **Section 1: Campaign management**
 
-* [Adobe Campaign Standard Documentation ](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=en){target="_blank"}
+* [Adobe Campaign Standard Documentation](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=en){target="_blank"} (working with marketing activities, building email content, communication channels, deliveries, configuring channels) 
 
 **Section 2: Delivery management**
 
-* [Add resources](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=en){target="_blank"}
+* [Adobe Campaign Standard Documentation](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=en){target="_blank"} (building email content, preparing and testing messages, communication channels -- email, application settings)
 
 **Section 3: Workflow design and execution**
 
-* [Add resources](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=en){target="_blank"}
+* [Adobe Campaign Standard Documentation](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=en){target="_blank"} (managing processes and data, managing audiences, scheduling messages, adding or extending a resource)
 
 **Section 4: Administration, monitoring, and reporting**
 
-* [Add resources](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=en){target="_blank"}
+* [Adobe Campaign Standard Documentation](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=en){target="_blank"} (executing a workflow, testing and sending, customizing reports, profiles and audiences, users and security)
 
 ## Renew your certification
 
@@ -122,9 +122,9 @@ You should be currently certified (not expired) in:
 
 ## Instructions for renewing your certification:
 
-* **Step 1** - Review the exam scope and objectives
-* **Step 2** - Review the resources
-* **Step 3** - Take and pass the exam
+* **Step 1**: Successfully log in to [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}, then return to this page
+* **Step 2**: Review the exam objectives and resources
+* **Step 3**: Take and pass the exam
 
 ### Get ready
 
@@ -238,4 +238,4 @@ To renew your exam click on the "Campaign Standard Developer renewal - AD5-821" 
 
 Have a question about Adobe Certification? Please email `certif@adobe.com`.
 
-View the certification [FAQs](https://solutionpartners.adobe.com/solution-partners/training_and_certification/certification/certification_faq.html#){target="_blank"}.
+View the certification [FAQs](https://experienceleague.corp.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.

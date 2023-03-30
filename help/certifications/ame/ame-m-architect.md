@@ -14,7 +14,7 @@ Learn how to become a certified Adobe Architect master.
 
 You should have: 
 
-* A current Marketo Engage Business Practitioner Certified Expert
+* A current certification in Marketo Engage Business Practitioner Certified Expert
 * At least five years of experience preferably with multiple instances of Marketo Engage
 * An understanding of the business impact and effectively explain/communicate their solution to the stakeholders (technical and non-technical) at different levels
 * The ability to conceptualize a solution and translate to a Marketo Engage architecture, understand the business processes impacted by integrations
@@ -56,7 +56,9 @@ Additionally, you should be familiar with the following tools and technologies:
 **Exam details:**
 
 ```
+Pre requisite: Adobe Certified Expert – Marketo Engage Business 
 Level: Master (3-5 years' experience)
+Practitioner certification
 Passing Score: 30/50
 Time: 150 mins
 Delivery: Online proctored (requires camera access) or test center proctored
@@ -146,9 +148,9 @@ The sample questions allow you to see the type and format of items that you will
 
 >[!TAB Get certified]
 
->[!NOTE]
+>[!IMPORTANT]
 >
->IMPORTANT NOTE: The following sections and links will **only** function after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
+>The following sections and links will **only** function after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
 
 
 **Now that you have successfully logged in, the following links will be directly accessible.**
@@ -174,6 +176,6 @@ You can apply the voucher code when you schedule your exam. If you have a discou
 
 **Questions**
 
-View the certification [FAQs](https://solutionpartners.adobe.com/solution-partners/training_and_certification/certification/certification_faq.html#){target="_blank"}.
+View the certification [FAQs](https://experienceleague.corp.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
 Additional questions? Please email `certif@adobe.com`.

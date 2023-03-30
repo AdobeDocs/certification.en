@@ -34,8 +34,9 @@ The Adobe Restart Program is an initiative that allows individuals with expired 
 
 Select **three activities** to complete and pass the course assessments associated with each.
 
-* **Step 1** - Study the courses in Experience League.
-* **Step 2** - Complete the course assessment 
+* **Step 1**: Successfully log in to [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}, then return to this page
+* **Step 2**: Study the courses in Experience League
+* **Step 3**: Complete and pass each course assessment with at least 80%
 
 Alternatively, study two courses, pass two course assessments and submit a customer reference form validating your engagement in a project totaling 100 hours in the past 12 months.
 
@@ -73,8 +74,9 @@ The course assessments are free. There is no need to schedule them, and they are
 
 Select **three activities** to complete and pass the course assessments associated with each.
 
-* **Step 1** - Study the courses in Experience League.
-* **Step 2** - Complete the course assessment 
+* **Step 1**: Successfully log in to [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}, then return to this page
+* **Step 2**: Study the courses in Experience League
+* **Step 3**: Complete and pass each course assessment with at least 80%
 
 Alternatively, study two courses, pass two course assessments and submit a customer reference form validating your engagement in a project totaling 100 hours in the past 12 months.
 
@@ -109,8 +111,9 @@ The course assessments are free. There is no need to schedule them, and they are
 
 Select **three activities** to complete and pass the course assessments associated with each.
 
-* **Step 1** - Study the courses in Experience League.
-* **Step 2** - Complete the course assessment 
+* **Step 1**: Successfully log in to [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}, then return to this page
+* **Step 2**: Study the courses in Experience League
+* **Step 3**: Complete and pass each course assessment with at least 80%
 
 Alternatively, study two courses, pass two course assessments and submit a customer reference form validating your engagement in a project totaling 100 hours in the past 12 months.
 
@@ -146,9 +149,9 @@ The course assessments are free. There is no need to schedule them, and they are
 
 **Instructions for restarting your certification:**
 
-* **Step 1** - Review the exam objectives
-* **Step 2** - Review the resources
-* **Step 3** - Take and pass the exam
+* **Step 1**: Successfully log in to [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}, then return to this page
+* **Step 2**: Review the exam objectives and resources
+* **Step 3**: Take and pass the exam
 
 ### Get ready
 
@@ -223,9 +226,9 @@ This exam is free, open book, and un-proctored. You may take the exam up to thre
 
 **Instructions for restarting your certification:**
 
-* **Step 1** - Review the exam objectives
-* **Step 2** - Review the resources
-* **Step 3** - Take and pass the exam
+* **Step 1**: Successfully log in to [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}, then return to this page
+* **Step 2**: Review the exam objectives and resources
+* **Step 3**: Take and pass the exam
 
 ### Get ready
 
@@ -305,9 +308,9 @@ This exam is free, open book, and un-proctored. You may take the exam up to thre
 
 **Instructions for restarting your certification:**
 
-* **Step 1** - Review the exam objectives
-* **Step 2** - Review the resources
-* **Step 3** - Take and pass the exam
+* **Step 1**: Successfully log in to [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}, then return to this page
+* **Step 2**: Review the exam objectives and resources
+* **Step 3**: Take and pass the exam
 
 ### Get ready
 
@@ -415,9 +418,9 @@ This exam is free, open book, and un-proctored. You may take the exam up to thre
 
 **Instructions for restarting your certification:**
 
-* **Step 1** - Review the exam objectives
-* **Step 2** - Review the resources
-* **Step 3** - Take and pass the exam
+* **Step 1**: Successfully log in to [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}, then return to this page
+* **Step 2**: Review the exam objectives and resources
+* **Step 3**: Take and pass the exam
 
 ### Get ready
 
@@ -466,7 +469,7 @@ Section 4: Administration, monitoring and reporting
 
 **Section 1: Campaign management**
 
-* [Adobe Campaign Standard Documentation](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=en){target="_blank"} (working with marketing activities, building email content, communication channels, deliveries, configuring channels)
+* [Adobe Campaign Standard Documentation](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=en){target="_blank"} (working with marketing activities, building email content, communication channels, deliveries, configuring channels) 
 
 **Section 2: Delivery management**
 
@@ -475,7 +478,6 @@ Section 4: Administration, monitoring and reporting
 **Section 3: Workflow design and execution**
 
 * [Adobe Campaign Standard Documentation](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=en){target="_blank"} (managing processes and data, managing audiences, scheduling messages, adding or extending a resource)
-* [Targeting profiles](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-standard/how-to-target-profiles-that-opened-a-delivery-within-a-certain/td-p/387437){target="_blank"}
 
 **Section 4: Administration, monitoring, and reporting**
 
@@ -493,9 +495,9 @@ This exam is free, open book, and un-proctored. You may take the exam up to thre
 
 **Instructions for restarting your certification:**
 
-* **Step 1** - Review the exam objectives
-* **Step 2** - Review the resources
-* **Step 3** - Take and pass the exam
+* **Step 1**: Successfully log in to [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}, then return to this page
+* **Step 2**: Review the exam objectives and resources
+* **Step 3**: Take and pass the exam
 
 ### Get ready
 
@@ -513,7 +515,9 @@ Exam ID: ADS-E823 - Adobe Campaign Classic expert and/or master restart
 
 ```
 
-Section 1: Installation and System Configuration
+**Scope and objectives**
+
+Section 1: Installation and system configuration (23%)
 
 * Given a scenario, determine which options should be used (i.e., moving things from stage to production)
 * Ability to use Packages to migrate between instances
@@ -523,7 +527,7 @@ Section 1: Installation and System Configuration
 * Explain integration with other Adobe Experience Cloud products
 * Explain integration using standard external accounts
 
-Section 2: Customization
+Section 2: Customization (18%)
 
 * Describe best practices for using SQL functions in Adobe Campaign
 * Describe best practices for developing with JavaScript in Adobe Campaign
@@ -531,7 +535,7 @@ Section 2: Customization
 * Describe the requirements and processes for access management
 * Describe folder structure management
 
-Section 3: Data Architecture
+Section 3: Data architecture (22%)
 
 * Identify the data storage differences in v8
 * Identify the built-in workflows that synchronize local data to Snowflake
@@ -540,7 +544,7 @@ Section 3: Data Architecture
 * Given a scenario, explain how to create custom schemas (how to use other schemas as template, sys filters, locking down data, links)
 * Explain the integration between different solutions and Campaign such as Adobe Experience Platform and Journey Optimizer
 
-Section 4: Campaign, Workflow, Delivery, and Reporting
+Section 4: Campaign, workflow, delivery, and reporting (37%)
 
 * Apply best practices to build a campaign
 * Given a scenario, analyze workflow errors
@@ -556,21 +560,37 @@ Section 4: Campaign, Workflow, Delivery, and Reporting
 
 ### Get prepped
 
+You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
+
+Here are some suggested resources to help you prepare:
+
 **Section 1: Installation and system configuration**
 
-ADD
+* [Managing packages](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/importing-and-exporting-data/managing-packages.html?lang=en){target="_blank"}
+* [Work with data packages](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/administration-basics/working-with-data-packages.html?lang=en){target="_blank"}
+* [Deploying an instance](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/initial-configuration/deploying-an-instance.html?lang=en)
+* [Integrating with Adobe Campaign Classic](https://experienceleague.adobe.com/docs/experience-manager-65/administering/integration/campaignonpremise.html?lang=en){target="_blank"}
 
 **Section 2: Customization**
 
-ADD
+* [JavaScript scripts and templates](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/advanced-management/javascript-scripts-and-templates.html?lang=en){target="_blank"}
+* [Data model best practices](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/data-model/data-model-best-practices.html?lang=en){target="_blank"}
+* [Create and manage operators](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management-operators.html?lang=en){target="_blank"}
+* [Manage access to folders](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management-folders.html?lang=en){target="_blank"}
 
 **Section 3: Data architecture**
 
-ADD
+* [Transition from Campaign Classic v7 to Campaign v8](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/capability-matrix.html?lang=en){target="_blank"}
+* [Work with Sources and Destinations](https://experienceleague.adobe.com/docs/campaign-classic/using/integrating-with-adobe-experience-cloud/aep-sources-destinations/get-started-sources-destinations.html?lang=en){target="_blank"}
+* [Specific FFDA Campaign APIs](https://experienceleague.adobe.com/docs/campaign/campaign-v8/architecture/api/new-apis.html?lang=en){target="_blank"}
+* [About Adobe ID](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/connect-to-campaign/connecting-via-an-adobe-id/about-adobe-id.html?lang=en){target="_blank"}
 
 **Section 4: Campaign, workflow, delivery, and reporting**
 
-ADD
+* [Workflow best practices](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/workflow-best-practices.html?lang=en){target="_blank"}
+* [Set up and manage the approval process](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/orchestrate-campaigns/marketing-campaign-approval.html?lang=en){target="_blank"}
+* [Enrichment](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/enrichment.html?lang=en){target="_blank"}
+* [Import and export best practices](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/workflow-best-practices.html?lang=en){target="_blank"}
 
 ### Restart your certification
 
@@ -584,8 +604,8 @@ This exam is free, open book, and un-proctored. You may take the exam up to thre
 
 **Instructions for restarting your certification:**
 
-* **Step 1** - Review the exam objectives
-* **Step 2** - Review the resources
+* **Step 1** - Successfully log in to [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"} then return to this page
+* **Step 2** - Review the exam objectives and resources
 * **Step 3** - Take and pass the exam
 
 ### Get ready
@@ -707,6 +727,6 @@ This exam is free, open book, and un-proctored. You may take the exam up to thre
 
 ### Questions
 
-View the certification [FAQs](https://solutionpartners.adobe.com/solution-partners/training_and_certification/certification/certification_faq.html#){target="_blank"}.
+View the certification [FAQs](https://experienceleague.corp.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
 Additional questions? Please email `certif@adobe.com`.

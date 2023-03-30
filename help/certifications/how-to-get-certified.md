@@ -7,17 +7,25 @@ mini-toc-levels: 1
 ---
 # How to get certified{#how}
 
- Add content here
+Learn how to get certified at Adobe. Find all the resources you need before, during and after you become certified.
 
 >[!BEGINTABS]
 
 >[!TAB Registration]
 
->[!TAB Adobe Credential Management System]
-
->[!TAB Delivery vendors]
+>[!TAB Taking your exam]
 
 >[!TAB Exams costs]
+
+These are the current costs for certification exams.
+
+![Exam cost Badge](/help/certifications/assets/exam_costs_new.png)
+
+You can pay for your certification exam by voucher or credit card. To purchase an exam voucher go to: [Adobe Certification Voucher Center](https://market.xvoucher.com/adobe/global){target="_blank"}. 
+
+You can apply the voucher code when you schedule your exam. If you have a discount, it will apply at checkout.
+
+>[!TAB Managing your certification profile]
 
 >[!TAB Policies]
 
@@ -59,6 +67,6 @@ How to manage your badge:
 
 **Questions**
 
-View the certification [FAQs](https://solutionpartners.adobe.com/solution-partners/training_and_certification/certification/certification_faq.html#){target="_blank"}.
+View the certification [FAQs](https://experienceleague.corp.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
 Additional questions? Please email `certif@adobe.com`.

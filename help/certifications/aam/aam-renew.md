@@ -33,9 +33,9 @@ You should be currently certified (not expired) in:
 
 ## Instructions for renewing your certification:
 
-* **Step 1** - Review the exam objectives
-* **Step 2** - Review the resources
-* **Step 3** - Take and pass the exam
+* **Step 1**: Successfully log in to [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}, then return to this page
+* **Step 2**: Review the exam objectives and resources
+* **Step 3**: Take and pass the exam
 
 ### Get ready
 
@@ -188,6 +188,6 @@ This exam is free, open book, and un-proctored. You may take the exam up to thre
 
 ### Questions
 
-View the certification [FAQs](https://solutionpartners.adobe.com/solution-partners/training_and_certification/certification/certification_faq.html#){target="_blank"}.
+View the certification [FAQs](https://experienceleague.corp.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
 Additional questions? Please email `certif@adobe.com`.
