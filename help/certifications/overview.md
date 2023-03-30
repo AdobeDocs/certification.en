@@ -16,21 +16,6 @@ At Adobe, we understand the importance of having the right credentials to advanc
 
 Whether you're a seasoned expert or just starting out, our certification program can help you unlock your professional potential and take your career to the next level. 
 
-With our credentials, you can:
-
-* Gain a competitive edge
-* Increase your salary
-* Demonstrate your ability to meet complex challenges
-* Access to a variety of benefits, including career growth opportunities
-* Gain access to additional education
-* Increase in credibility and improve your reputation
-* Gain recognition from your employer 
-* Discover the confidence to take on new challenges
-
-Our certification program is designed for professionals in a variety of fields, including developers, business practitioners, and architects. With many different certification paths to choose from, you can showcase your proficiency and expertise within the Adobe Experience Cloud and impress clients and employers alike.
-
-So why wait? Take the first step towards unlocking your professional potential and explore our certification paths today!
-
 ## Why get certified?
 
 Getting an Adobe Experience Cloud certification can be beneficial for several reasons:
@@ -42,5 +27,8 @@ Getting an Adobe Experience Cloud certification can be beneficial for several re
 * **Free practice tests:** Adobe offers free practice exams that can help you prepare for your certification exam and ensure that you're fully prepared to take the test.
 * **Certification renewals:** Adobe certifications are valid for two years, and you can renew your certification by either taking an on-demand, un-proctored exam or completing a set of continuous learning activities.
 
-[Start your Adobe journey today!](https://experienceleague.corp.adobe.com/docs/certification/certification/getting-started.html?lang=en){target="_blank"}
+Our certification program is designed for professionals in a variety of fields, including developers, business practitioners, and architects. With many different certification paths to choose from, you can showcase your proficiency and expertise within the Adobe Experience Cloud and impress clients and employers alike.
+
+So why wait? Take the first step towards unlocking your professional potential and [explore our certification paths today](https://experienceleague.corp.adobe.com/docs/certification/certification/getting-started.html?lang=en){target="_blank"}!
+
 
