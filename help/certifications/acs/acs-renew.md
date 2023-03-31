@@ -106,7 +106,7 @@ Here are some suggested resources to help you prepare:
 
 To renew your exam click on the "Campaign Standard Business Practitioner renewal - AD5-822" link below. This will redirect you to the Adobe Credential Management system where you will click "renew your certification" tab on the right side of the screen > then search for Adobe Campaign to see the link to the renewal exam.
 
-* [Campaign Standard Business Practitioner renewal - AD5-822](https://learning.adobe.com/api.certify.json){target="_blank"}
+* [Campaign Standard Business Practitioner renewal - AD5-822](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=AD5-E822){target="_blank"}
 
 >[!NOTE]
 >
@@ -224,7 +224,7 @@ Here are some suggested resources to help you prepare:
 
 To renew your exam click on the "Campaign Standard Developer renewal - AD5-821" link below. This will redirect you to the Adobe Credential Management system where you will click "renew your certification" tab on the right side of the screen > then search for Adobe Campaign to see the link to the renewal exam.
 
-* [Campaign Standard Developer renewal - AD5-821](https://learning.adobe.com/api.certify.json){target="_blank"}
+* [Campaign Standard Developer renewal - AD5-821](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=AD5-E821){target="_blank"}
 
 >[!NOTE]
 >
