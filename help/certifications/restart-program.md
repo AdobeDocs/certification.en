@@ -582,9 +582,9 @@ Here are some suggested resources to help you prepare:
 
 **Section 3: Data architecture**
 
-* [Transition from Campaign Classic v7 to Campaign v8](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/capability-matrix.html?lang=en){target="_blank"}
+* [Transition from Campaign Classic v7 to Campaign v8](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/v7-to-v8.html?lang=en){target="_blank"}
 * [Work with Sources and Destinations](https://experienceleague.adobe.com/docs/campaign-classic/using/integrating-with-adobe-experience-cloud/aep-sources-destinations/get-started-sources-destinations.html?lang=en){target="_blank"}
-* [Specific FFDA Campaign APIs](https://experienceleague.adobe.com/docs/campaign/campaign-v8/architecture/api/new-apis.html?lang=en){target="_blank"}
+* [Specific FFDA Campaign APIs](https://experienceleague.adobe.com/docs/campaign/campaign-v8/config/architecture/ffda/ffda-characteristics/new-apis.html?lang=en){target="_blank"}
 * [About Adobe ID](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/connect-to-campaign/connecting-via-an-adobe-id/about-adobe-id.html?lang=en){target="_blank"}
 
 **Section 4: Campaign, workflow, delivery, and reporting**
