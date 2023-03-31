@@ -49,15 +49,15 @@ Add content
 
 +++What if I have technical issues during my proctored exam? 
 
-PSI and Examity have support available by chat, email, and phone. Adobe support can't help with technical issues that occur during the exam. 
+PSI and [!DNL Examity] have support available by chat, email, and phone. Adobe support can't help with technical issues that occur during the exam. 
 
-Examity Support - `adobepartnersupport@examity.com`
+[!DNL Examity] Support - `adobepartnersupport@examity.com`
 
 PSI Support - `psisupport@psionline.com`
 
 The quickest help resource is through their chat. All test candidates should ensure their computer has the proper system requirements before taking their exam. 
 
-For more details, see: PSI, and Examity pages for managing exams and technical setup. 
+For more details, see: PSI, and [!DNL Examity] pages for managing exams and technical setup. 
 
 +++
 

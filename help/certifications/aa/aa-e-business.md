@@ -178,7 +178,7 @@ Go to the [Adobe Certification Exam Prep Portal](https://www.certmetrics.com/ado
 
 **Take the certification exam**
 
-Adobe uses two vendors to administer proctored exams, PSI and Examity. 
+Adobe uses two vendors to administer proctored exams, PSI and [!DNL Examity]. 
 
 * **PSI** offers two options for taking exams, test center and remote online
 * **Examity** only offers the remote online option

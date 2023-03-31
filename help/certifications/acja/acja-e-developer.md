@@ -1,20 +1,20 @@
 ---
-title: Adobe Customer Journey Analytics Expert Certification
-description: Learn how to become a certified Adobe
+title: Expert Certification
+description: Learn how to become a certified expert Adobe in [!DNL Customer Journey Analytics]
 role: Developer
+solution: Customer Journey Analytics
 badge: label="Exam AD0-EXXX" type="positive"
 mini-toc-levels: 1
 hidefromtoc: yes
 ---
 
-# Certification journey for Adobe Customer Journey Analytics expert
+# Certification journey for Adobe [!DNL Customer Journey Analytics] expert
 
 Learn how to become a certified Adobe 
 
 ## Minimum experience
 
 You should have:
-
 
 >[!NOTE]
 >

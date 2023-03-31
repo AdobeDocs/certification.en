@@ -1,12 +1,12 @@
 ---
-title: Adobe Campaign Standard Business Practitioner Expert Certification 
-description: Learn how to become a certified Adobe Business Practitioner expert.
+title: Business Practitioner Expert Certification 
+description: Learn how to become a certified Adobe Business Practitioner expert in Adobe [!DNL Campaign Standard] 
 solution: Campaign Standard
 role: Developer
 badge: label="Exam AD0-E307" type="positive"
 mini-toc-levels: 1
 ---
-# Certification journey for Adobe Campaign Standard Business Practitioner expert
+# Certification journey for Adobe [!DNL Campaign Standard] Business Practitioner expert
 
 Learn how to become a certified Adobe Business Practitioner expert.
 
@@ -16,7 +16,7 @@ You should have experience working in a channel delivery environment (email, dir
 
 Additionally, you should have:
 
-* Field experience working with Campaign Standard with regular frequency
+* Field experience working with [!DNL Campaign Standard] with regular frequency
 * An ability to process data files
 * An understanding of the concepts of relational databases, triggers, APIs, and technical workflows
 * An understanding of how to build marketing workflows and work with the underlying data to launch marketing workflows
@@ -93,7 +93,7 @@ Section 5: Troubleshooting (10%)
 Section 6: Data management and administration (15%)
 
 * Explain data model resources
-* Perform Campaign Standard administration
+* Perform [!DNL Campaign Standard] administration
 * Apply the process to build targeted audiences
 
 >[!TAB Get prepped]
@@ -135,8 +135,8 @@ Here are some suggested resources to help you prepare:
 
 **Section 6: Data management and administration**
 
-* [Get started with Campaign Standard data model](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/get-started-data-model.html?lang=en){target="_blank"}
-* [Get started with Campaign Standard administration](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/get-started-campaign-administration.html?lang=en){target="_blank"}
+* [Get started with [!DNL Campaign Standard] data model](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/get-started-data-model.html?lang=en){target="_blank"}
+* [Get started with [!DNL Campaign Standard] administration](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/get-started-campaign-administration.html?lang=en){target="_blank"}
 
 >[!TAB Get certified]
 
@@ -161,7 +161,7 @@ Go to the [Adobe Certification Exam Prep Portal](https://www.certmetrics.com/ado
 Adobe uses two vendors to administer proctored exams, PSI and Examity. 
 
 * **PSI** offers two options for taking exams, test center and remote online
-* **Examity** only offers the remote online option
+* **[!DNL Examity]** only offers the remote online option
 
 To schedule, reschedule, or cancel your exam, simply click on the vendor of choice, and follow the instructions provided on screen. It's that simple!
 
