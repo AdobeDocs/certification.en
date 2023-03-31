@@ -96,7 +96,7 @@ The course assessments are free. There is no need to schedule them, and they are
 
 | Course | Course Assessment |
 | ------- | ------- |
-| [Adobe Analytics Attributing Value to Digital Touch-points in the Customer Journey](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing){target="_blank"} | [ADS-EA201](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADS-EA201){target="_blank"} |
+| [Adobe Analytics Attributing Value to Digital Touch-points in the Customer Journey](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2){target="_blank"} | [ADS-EA201](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADS-EA201){target="_blank"} |
 | [Export and democratize Adobe Analytics data - Lesson 5 & 6](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing){target="_blank"} | [ADS-EA202](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADS-EA202){target="_blank"} |
 | [Filtering your data with custom segmentation and dates - Lesson 2](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata){target="_blank"} | [ADS-EA203](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADS-EA203){target="_blank"} |
 | [Guided Analytics Implementation - Lesson 5](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1){target="_blank"} | [ADS-EA204](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADS-EA204){target="_blank"} |
@@ -289,10 +289,32 @@ You are not required to complete training before taking the exam, and training a
 
 Here are some suggested resources to help you prepare:
 
-* [AAM: Technical Foundations](https://solutionpartners.adobe.com/training/learning_program/learningProgram32128.html){target="_blank"}
-* [AAM: Integration Series](https://solutionpartners.adobe.com/training/courses/course500091.html){target="_blank"}
-* [AAM: Advanced Features](https://solutionpartners.adobe.com/training/courses/course500092.html){target="_blank"}
-* [ Launch Training & Resources](https://solutionpartners.adobe.com/training/courses/course1326130.html){target="_blank"}
+**Section 1: Implementation Analysis**
+
+* [Audience Manager Guide](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html?lang=en){target="_blank"}
+* [Analytics Integration](https://experienceleague.adobe.com/docs/analytics/integration/home.html?lang=en){target="_blank"}
+* [Adobe Experience Cloud Identity Service](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=en){target="_blank"}
+
+**Section 2: Solution Design and Recommendations**
+
+* [Audience Manager Guide](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html?lang=en){target="_blank"}
+* [Audience Manager tutorials](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/overview.html?lang=en){target="_blank"}
+
+**Section 3: Segmentation and Activation**
+
+* [Audience Manager Guide](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html?lang=en){target="_blank"}
+* [Adobe Audience Manager](https://experienceleaguecommunities.adobe.com/t5/adobe-audience-manager/ct-p/adobe-audience-manager-community){target="_blank"}
+* [Audience Manager tutorials](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/overview.html?lang=en){target="_blank"}
+
+**Section 4: Privacy and Data Governance**
+
+* [Audience Manager Guide](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html?lang=en){target="_blank"}
+* [Audience Manager REST API](https://bank.demdex.com/portal/swagger/index.html#/Segments%20API){target="_blank"}
+* [Analytics Admin Guide](https://experienceleague.adobe.com/docs/analytics/admin/home.html?lang=en){target="_blank"}
+
+**Section 5: Performance and Reporting**
+
+* [Adobe Experience Cloud Identity Service](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=en){target="_blank"}
 
 ### Restart your certification
 

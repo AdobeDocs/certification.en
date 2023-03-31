@@ -3,7 +3,7 @@ title: Adobe Audience Manager Renewal
 description: Learn how to renew your certification before it expires.
 solution: Audience Manager
 role: Developer
-badge: label="Campaign Standard Renewal" type="positive"
+badge: label="Adobe Audience Manager Renewal" type="positive"
 mini-toc-levels: 1
 hidefromtoc: yes
 ---
