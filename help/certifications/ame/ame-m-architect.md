@@ -137,7 +137,8 @@ The sample questions allow you to see the type and format of items that you will
 
 **Section 3: Reporting and Attribution**
 
-* [Marketo Product Docs](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=en){target="_blank"}
+* [Report Type Overview](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/report-types/report-type-overview.html?lang=en){target="_blank"}
+* [Understanding Attribution](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.html?lang=en){target="_blank"}
 * [Champion Blog - Marketo Nation](https://nation.marketo.com/t5/champion-blog/ct-p/champion-program){target="_blank"}
 
 **Section 4: Advanced Operations**
