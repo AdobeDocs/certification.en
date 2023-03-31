@@ -12,7 +12,7 @@ Learn how to become a certified [!DNL Audience Manager] Business Practitioner ex
 
 ## Minimum experience
 
-Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
+Your certification is valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
 
 You should have:
 
@@ -41,7 +41,7 @@ Environments:
 
 >[!NOTE]
 >
->Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
+>Your certification is valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
 
 >[!BEGINTABS]
 

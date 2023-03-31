@@ -1,5 +1,5 @@
 ---
-title: Adobe Experience Manager Renewal 
+title: Renewal 
 description: Learn how to renew your certification before it expires.
 solution: Experience Manager Sites
 role: Developer

@@ -44,7 +44,7 @@ Additionally, you should be very familiar with the following activities and tech
 
 >[!NOTE]
 >
->Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
+>Your certification is valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
 
 >[!BEGINTABS]
 

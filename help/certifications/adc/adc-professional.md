@@ -1,5 +1,5 @@
 ---
-title: Adobe Document Cloud professional Certification
+title: Professional certification
 description: Learn how to become a certified Adobe Doc Cloud Professional.
 solution: Document Cloud
 role: Developer
