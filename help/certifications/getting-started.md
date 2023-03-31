@@ -81,7 +81,7 @@ On the "Get prepped" tab of each certification journey page, you will find any p
 
 >[!TAB Get certified]
 
-On the "Get certified" tab of each certification journey page, you will find a link to the Adobe Certification Prep Portal for those exams that have practice tests, and the link to register for your certification exam. 
+On the "Get certified" tab of each certification journey page, you will find a link to the Adobe Certification Prep Portal **for those exams that have practice tests**, and the link to register for your certification exam. 
 
 You can pay for your certification exam by voucher or credit card. To purchase an exam voucher go to: [Adobe Certification Voucher Center](https://market.xvoucher.com/adobe/global){target="_blank"}.
 
