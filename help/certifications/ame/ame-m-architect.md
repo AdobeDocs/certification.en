@@ -56,7 +56,7 @@ Additionally, you should be familiar with the following tools and technologies:
 **Exam details:**
 
 ```
-Pre requisite: Adobe Certified Expert – Marketo Engage Business 
+Pre requisite: Adobe Certified Expert – Marketo Engage Business Practitioner expert
 Level: Master (3-5 years' experience)
 Practitioner certification
 Passing Score: 30/50
