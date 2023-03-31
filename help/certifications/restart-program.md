@@ -161,7 +161,7 @@ The course assessments are free. There is no need to schedule them, and they are
   
 ```
 Level: Expert (1-3 years' experience)
-Passing Score: 26/34
+Passing Score: 23/30
 Time: 68 mins
 Delivery: On-demand / non-proctored
 Available languages: English
@@ -507,7 +507,7 @@ This exam is free, open book, and un-proctored. You may take the exam up to thre
   
 ```
 Level: Expert (1-3 years' experience) and Master (3-5 years' experience)
-Passing Score: 41/55
+Passing Score: 42/55
 Time: 110 mins
 Delivery: On-demand / non-proctored
 Available languages: English

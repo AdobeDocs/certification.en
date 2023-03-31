@@ -15,7 +15,7 @@ Learn how to get certified at Adobe. Find all the resources you need before, dur
 
 Adobe uses two vendors to administer proctored exams, PSI and Examity. 
 
-* **PSI:** offers test center and Japanese exam options
+* **PSI:** offers test center and Japanese exam options (where available) 
 * **Examity:** offers a remote online option
 
 **Follow these steps to register for your certification exam:**

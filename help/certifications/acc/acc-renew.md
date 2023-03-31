@@ -45,7 +45,7 @@ You should be currently certified (not expired) in:
   
 ```
 
-Passing Score: 41/55
+Passing Score: 42/55
 Time: 110 mins
 Cost: FREE/non-proctored
 Delivery: On-demand

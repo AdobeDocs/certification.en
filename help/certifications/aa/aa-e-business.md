@@ -180,7 +180,7 @@ Go to the [Adobe Certification Exam Prep Portal](https://www.certmetrics.com/ado
 
 Adobe uses two vendors to administer proctored exams, PSI and Examity. 
 
-* **PSI** offers test center and Japanese exam options
+* **PSI** offers test center and Japanese exam options (where available) 
 * **Examity** offers a remote online option
 
 To schedule, reschedule, or cancel your exam, simply click on the vendor of choice, and follow the instructions provided on screen. It's that simple!
