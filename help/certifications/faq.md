@@ -284,9 +284,9 @@ Only Expert and Master level certifications are being included in the Restart Pr
 
 +++
 
-+++Why aren't all certification exams included in the Restart program?  
++++ Why aren't all certification exams released over the years included in the Restart program?   
 
-The program focuses on only those exams where the scope and objectives have not changed considerably. 
+Exams released prior to 2019 are excluded from the Restart program.
 
 +++
 
@@ -298,7 +298,7 @@ Because it allows individuals who were not able to participate in the FREE certi
 
 +++Which certifications are part of the Adobe Certification Restart Program?  
 
-All current Adobe certifications, except for those that have been retired, are part of the program.
+All active Adobe certifications, except for those that have retired, are part of the program.
 
 +++
 
@@ -392,15 +392,21 @@ There are no expired certificate holders for currently offered Adobe Commerce Ce
 
 **Adobe Credential Manager Profile**
 
-+++Why do I see an Exam starting with RES-XXX in my Exam history on Adobe Credential Manager? 
++++Why do I see _Participation_ under the history section of my Profile in the Adobe Credential Manager? 
 
-This is only an indication of eligibility for the candidates eligible for Adobe Certification Restart Program. It does not represent an exam or certification. Candidates who have been assigned this flag can complete the requirements to restart their expired certification.
+This is to mark your eligibility for the Adobe Certification Restart program. Candidates who have been assigned this participation can complete the requirements to restart their expired certification, in each application.
 
 +++
 
 +++I have completed the requirements and do not see the results in my profile history, when will I get the Certificate? 
 
  The certification will be awarded within 72 hours after completing the requirements. It is important to note that this program will only award certification for eligible candidates.
+
++++
+
++++What should I do if my certification still shows as expired even after completing the restart requirements? 
+
+Unfortunately, once a certification has expired, it cannot be extended. In such cases, a new certification is issued instead of renewing the old one. 
 
 +++
 

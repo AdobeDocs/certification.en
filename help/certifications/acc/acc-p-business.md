@@ -52,7 +52,7 @@ You should have:
 Level: Professional (0-12 months' experience)
 Passing Score: 32/50
 Time: 100 mins
-Delivery: Online proctored (requires camera access) or test center 
+Delivery: Online proctored (requires camera access) 
 Available languages: English
 Cost: $125 (global) / $95 (India)
 Exam ID: AD0-E329
@@ -178,14 +178,14 @@ The sample questions allow you to see the type and format of items that you will
 
 Adobe uses two vendors to administer proctored exams, PSI and Examity. 
 
-* **PSI** offers two options for taking exams, test center and remote online
-* **Examity** only offers the remote online option
+* **PSI** offers test center and Japanese exam options (where available) 
+* **Examity** offers a remote online option
 
 To schedule, reschedule, or cancel your exam, simply click on the vendor of choice, and follow the instructions provided on screen. It's that simple!
 
 ### Exam number: AD0-E329
 
-[!BADGE Examity]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E329 newtab=true"}
+[!BADGE Examity]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E331 newtab=true"}
 
 You can pay for your certification exam by voucher or credit card. To purchase an exam voucher go to: [Adobe Certification Voucher Center](https://market.xvoucher.com/adobe/global){target="_blank"}. 
 

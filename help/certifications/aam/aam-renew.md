@@ -3,7 +3,7 @@ title: Certification renewal
 description: Learn how to renew your [!DNL Audience Manager] certification before it expires.
 solution: Audience Manager
 role: Developer
-badge: label="Campaign Standard Renewal" type="positive"
+badge: label="Adobe Audience Manager Renewal" type="positive"
 mini-toc-levels: 1
 hidefromtoc: yes
 ---
@@ -43,12 +43,12 @@ You should be currently certified (not expired) in:
   
 ```
 Level: Expert (1-3 years' experience)
-Passing Score: 26/34
+Passing Score: 23/30
 Time: 68 mins
 Delivery: On-demand / non-proctored
 Available languages: English
 Cost: FREE
-Exam ID: ADR-E826 - Adobe Audience Manager Business Practitioner expert renewal
+Exam ID: AD5-E826 - Adobe Audience Manager Business Practitioner expert renewal
 
 ```
 
@@ -102,7 +102,7 @@ Here are some suggested resources to help you prepare:
 
 This exam is free, open book, and un-proctored. You may take the exam up to three times. If you are unsuccessful after the third attempt, you must wait **30 days** to try again. Failure to comply might result in your certification being revoked.
 
-[!BADGE Take the Adobe Audience Manager Business Practitioner expert renewal exam ADR-E826]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADR-E826 newtab=true"} 
+[!BADGE Take the Adobe Audience Manager Business Practitioner expert renewal exam AD5-E826]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=AD5-E826 newtab=true"} 
 
 >[!TAB Master]
 
@@ -127,7 +127,7 @@ Time: 58 mins
 Delivery: On-demand / non-proctored
 Available languages: English
 Cost: FREE
-Exam ID: ADR-E825 - Adobe Audience Manager Architect Master renewal
+Exam ID: AD5-E825 - Adobe Audience Manager Architect Master renewal
 
 
 ```
@@ -182,7 +182,7 @@ Here are some suggested resources to help you prepare:
 
 This exam is free, open book, and un-proctored. You may take the exam up to three times. If you are unsuccessful after the third attempt, you must wait **30 days** to try again. Failure to comply might result in your certification being revoked.
 
-[!BADGE Take the Adobe Audience Manager Architect master renewal exam ADR-E82]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADR-E825 newtab=true"}
+[!BADGE Take the Adobe Audience Manager Architect master renewal exam AD5-E825]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=AD5-E825 newtab=true"}
 
 >[!ENDTABS]
 

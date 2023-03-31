@@ -10,21 +10,23 @@ mini-toc-levels: 1
 
 This limited time program, offered **from April 6th, 2023 through October 20th, 2023**, gives you a chance to update your skills and stay ahead of the curve in a rapidly changing digital landscape.
 
-If you've previously held an Adobe Digital Cloud Experience certification that has expired, you may be eligible for this **FREE** program!
+Individuals whose certifications expired starting in 2020 through April 23, 2023, are eligible for this **free** program.
 
-## What is the Adobe Restart program?
+## Introduction
 
-The Adobe Restart Program is an initiative that allows individuals with expired Experience Cloud certifications to re-certify, free of charge. If you have previously held an Adobe Digital Cloud Experience certification that has since expired, you may be eligible for a FREE new, frictionless certification! Depending on the solution, you can participate in continuous learning activities or take an un-proctored job role exam. This program is a valuable resource for people seeking to enhance their digital expertise and stay competitive.
+The Adobe Restart Program is an initiative that allows individuals with expired Experience Cloud certifications to re-certify, free of charge. If you have previously held an Adobe Digital Cloud Experience certification that has since expired, you may be eligible to Restart your certification via FREE and non-proctored testing formats. This program is a valuable resource for people seeking to enhance their digital expertise and stay competitive. 
 
-### How to proceed?{#exams}
+### Steps to restart your expired certification{#exams}
 
-* Log in to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
-* Go to [your profile history](https://www.certmetrics.com/adobe/candidate/requirements.aspx){target="_blank"}.
-* If you are eligible you will see an exam listed that begins with RES. 
-* Complete the requirements (course assessments/exam) before the deadline.
-* Need more information check the [Restart FAQ's](https://experienceleague.corp.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+>[!NOTE]
+>
+>If you have received an Email from Adobe Credential Program with a subject "Become Adobe Certified Again For Free," you can skip to step 2.
 
-### Restart options by solution
+* Step 1: Determine whether your expired certification is eligible for the Restart program by checking [here](https://solutionpartners.adobe.com/solution-partners/training_and_certification/certification.html#restart){target="_blank"}. If it is eligible, proceed to Step 2. 
+* Step 2: Review the restart requirements for your application. 
+* Step 3: Follow the steps to complete the course assessments/exams **before the October 20, 2023,** deadline from the options provided. 
+
+### Adobe Certification Restart paths by application
 
 >[!BEGINTABS]
 
@@ -42,7 +44,7 @@ Alternatively, study two courses, pass two course assessments and submit a custo
 
 For certain Adobe Experience Cloud certifications, the Adobe Credential Program accepts **customer references** that validate your continued work as an Adobe certified individual leading, managing and/or participating on an Adobe Experience Cloud implementation project.
 
-In these cases you can provide a customer reference affirming you have participated in at least 100 hours of demonstrated project engagement during your certification renewal 2-year interval.
+In these cases you can provide a customer reference affirming you have participated in at least 100 hours of demonstrated project engagement in the past 12 months.
 
 **Once your customer reference has been reviewed you will be notified by the Adobe Credential Team.**
 
@@ -82,7 +84,7 @@ Alternatively, study two courses, pass two course assessments and submit a custo
 
 For certain Adobe Experience Cloud certifications, the Adobe Credential Program accepts **customer references** that validate your continued work as an Adobe certified individual leading, managing and/or participating on an Adobe Experience Cloud implementation project.
 
-In these cases you can provide a customer reference affirming you have participated in at least 100 hours of demonstrated project engagement during your certification renewal 2-year interval.
+In these cases you can provide a customer reference affirming you have participated in at least 100 hours of demonstrated project engagement in the past 12 months.
 
 **Once your customer reference has been reviewed you will be notified by the Adobe Credential Team.**
 
@@ -94,7 +96,7 @@ The course assessments are free. There is no need to schedule them, and they are
 
 | Course | Course Assessment |
 | ------- | ------- |
-| [Adobe Analytics Attributing Value to Digital Touch-points in the Customer Journey](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing){target="_blank"} | [ADS-EA201](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADS-EA201){target="_blank"} |
+| [Adobe Analytics Attributing Value to Digital Touch-points in the Customer Journey](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2){target="_blank"} | [ADS-EA201](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADS-EA201){target="_blank"} |
 | [Export and democratize Adobe Analytics data - Lesson 5 & 6](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing){target="_blank"} | [ADS-EA202](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADS-EA202){target="_blank"} |
 | [Filtering your data with custom segmentation and dates - Lesson 2](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata){target="_blank"} | [ADS-EA203](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADS-EA203){target="_blank"} |
 | [Guided Analytics Implementation - Lesson 5](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1){target="_blank"} | [ADS-EA204](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADS-EA204){target="_blank"} |
@@ -119,7 +121,7 @@ Alternatively, study two courses, pass two course assessments and submit a custo
 
 For certain Adobe Experience Cloud certifications, the Adobe Credential Program accepts **customer references** that validate your continued work as an Adobe certified individual leading, managing and/or participating on an Adobe Experience Cloud implementation project.
 
-In these cases you can provide a customer reference affirming you have participated in at least 100 hours of demonstrated project engagement during your certification renewal 2-year interval.
+In these cases you can provide a customer reference affirming you have participated in at least 100 hours of demonstrated project engagement in the past 12 months.
 
 **Once your customer reference has been reviewed you will be notified by the Adobe Credential Team.**
 
@@ -159,7 +161,7 @@ The course assessments are free. There is no need to schedule them, and they are
   
 ```
 Level: Expert (1-3 years' experience)
-Passing Score: 26/34
+Passing Score: 23/30
 Time: 68 mins
 Delivery: On-demand / non-proctored
 Available languages: English
@@ -287,16 +289,38 @@ You are not required to complete training before taking the exam, and training a
 
 Here are some suggested resources to help you prepare:
 
-* [AAM: Technical Foundations](https://solutionpartners.adobe.com/training/learning_program/learningProgram32128.html){target="_blank"}
-* [AAM: Integration Series](https://solutionpartners.adobe.com/training/courses/course500091.html){target="_blank"}
-* [AAM: Advanced Features](https://solutionpartners.adobe.com/training/courses/course500092.html){target="_blank"}
-* [ Launch Training & Resources](https://solutionpartners.adobe.com/training/courses/course1326130.html){target="_blank"}
+**Section 1: Implementation Analysis**
+
+* [Audience Manager Guide](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html?lang=en){target="_blank"}
+* [Analytics Integration](https://experienceleague.adobe.com/docs/analytics/integration/home.html?lang=en){target="_blank"}
+* [Adobe Experience Cloud Identity Service](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=en){target="_blank"}
+
+**Section 2: Solution Design and Recommendations**
+
+* [Audience Manager Guide](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html?lang=en){target="_blank"}
+* [Audience Manager tutorials](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/overview.html?lang=en){target="_blank"}
+
+**Section 3: Segmentation and Activation**
+
+* [Audience Manager Guide](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html?lang=en){target="_blank"}
+* [Adobe Audience Manager](https://experienceleaguecommunities.adobe.com/t5/adobe-audience-manager/ct-p/adobe-audience-manager-community){target="_blank"}
+* [Audience Manager tutorials](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/overview.html?lang=en){target="_blank"}
+
+**Section 4: Privacy and Data Governance**
+
+* [Audience Manager Guide](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html?lang=en){target="_blank"}
+* [Audience Manager REST API](https://bank.demdex.com/portal/swagger/index.html#/Segments%20API){target="_blank"}
+* [Analytics Admin Guide](https://experienceleague.adobe.com/docs/analytics/admin/home.html?lang=en){target="_blank"}
+
+**Section 5: Performance and Reporting**
+
+* [Adobe Experience Cloud Identity Service](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=en){target="_blank"}
 
 ### Restart your certification
 
 This exam is free, open book, and un-proctored. You may take the exam up to three times. If you are unsuccessful after the third attempt, you must wait **30 days** to try again. Failure to comply might result in your certification being revoked.
 
-[!BADGE Take the Adobe Audience Manager Architect master restart exam ADS-E82]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADS-E825 newtab=true"}
+[!BADGE Take the Adobe Audience Manager Architect master restart exam ADS-E825]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADS-E825 newtab=true"}
 
 +++
 
@@ -505,7 +529,7 @@ This exam is free, open book, and un-proctored. You may take the exam up to thre
   
 ```
 Level: Expert (1-3 years' experience) and Master (3-5 years' experience)
-Passing Score: 41/55
+Passing Score: 42/55
 Time: 110 mins
 Delivery: On-demand / non-proctored
 Available languages: English
@@ -580,9 +604,9 @@ Here are some suggested resources to help you prepare:
 
 **Section 3: Data architecture**
 
-* [Transition from Campaign Classic v7 to Campaign v8](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/capability-matrix.html?lang=en){target="_blank"}
+* [Transition from Campaign Classic v7 to Campaign v8](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/v7-to-v8.html?lang=en){target="_blank"}
 * [Work with Sources and Destinations](https://experienceleague.adobe.com/docs/campaign-classic/using/integrating-with-adobe-experience-cloud/aep-sources-destinations/get-started-sources-destinations.html?lang=en){target="_blank"}
-* [Specific FFDA Campaign APIs](https://experienceleague.adobe.com/docs/campaign/campaign-v8/architecture/api/new-apis.html?lang=en){target="_blank"}
+* [Specific FFDA Campaign APIs](https://experienceleague.adobe.com/docs/campaign/campaign-v8/config/architecture/ffda/ffda-characteristics/new-apis.html?lang=en){target="_blank"}
 * [About Adobe ID](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/connect-to-campaign/connecting-via-an-adobe-id/about-adobe-id.html?lang=en){target="_blank"}
 
 **Section 4: Campaign, workflow, delivery, and reporting**

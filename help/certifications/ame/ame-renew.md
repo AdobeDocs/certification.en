@@ -48,7 +48,7 @@ Time: 80 mins
 Delivery: On-demand / non-proctored
 Available languages: English
 Cost: FREE
-Exam ID: ADR-E824 - Adobe Marketo Engage Business Practitioner expert renewal exam
+Exam ID: AD5-E824 - Adobe Marketo Engage Business Practitioner expert renewal exam
 
 
 ```
@@ -150,7 +150,7 @@ Here are some suggested resources to help you prepare:
 
 This exam is free, open book, and un-proctored. You may take the exam up to three times. If you are unsuccessful after the third attempt, you must wait **30 days** to try again. Failure to comply might result in your certification being revoked.
 
-[!BADGE Take the Adobe Marketo Engage Business Practitioner expert restart exam ADR-E824]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADR-E824 newtab=true"} 
+[!BADGE Take the Adobe Marketo Engage Business Practitioner expert restart exam AD5-E824]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=AD5-E824 newtab=true"} 
 
 >[!ENDTABS]
 

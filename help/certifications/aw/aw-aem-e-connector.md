@@ -140,22 +140,12 @@ The sample questions allow you to see the type and format of items that you will
 
 **Now that you have successfully logged in, the following links will be directly accessible.**
 
-**Take a practice test**
-
-We recommend taking the free practice test before you start. You'll have unrestricted access to all available practice tests for Adobe's expert-level exams.
-
-Our practice tests are all developed from the same blueprint as the live exams. The practice test will help you understand the topics covered in the live exam.
-
-Please remember that passing a practice test does not guarantee you will pass the certification exam.
-
-Go to the [Adobe Certification Exam Prep Portal](https://www.certmetrics.com/adobe/candidate/gmetrix_sso.aspx){target="_blank"} now to take a practice test.
-
 **Take the certification exam**
 
 Adobe uses two vendors to administer proctored exams, PSI and Examity. 
 
-* **PSI** offers two options for taking exams, test center and remote online
-* **Examity** only offers the remote online option
+* **PSI** offers test center and Japanese exam options (where available) 
+* **Examity** offers a remote online option
 
 To schedule, reschedule, or cancel your exam, simply click on the vendor of choice, and follow the instructions provided on screen. It's that simple!
 
