@@ -124,6 +124,8 @@ Section 6: Compliance/Security (12%)
 
 You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
 
+Here are some suggested resources to help you prepare:
+
 **Section 1: Core features/general configuration**
 
 * [[!DNL Commerce] merchant documentation](https://docs.magento.com/user-guide/getting-started.html){target="_blank"} 
