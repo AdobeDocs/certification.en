@@ -26,8 +26,6 @@ Adobe uses two vendors to administer proctored exams, PSI and Examity.
 ![Vendor Badge](/help/certifications/assets/PSI_Examity.png)
 
 
->[!TAB Taking your exam]
-
 >[!TAB Exams costs]
 
 These are the current costs for certification exams.
@@ -38,11 +36,13 @@ You can pay for your certification exam by voucher or credit card. To purchase a
 
 You can apply the voucher code when you schedule your exam. If you have a discount, it will apply at checkout.
 
->[!TAB Managing your certification profile]
+>[!TAB Taking your exam]
 
 >[!TAB Policies]
 
 >[!TAB Candidate agreement]
+
+>[!TAB Managing your certification profile]
 
 >[!TAB Manage your badges]
 
