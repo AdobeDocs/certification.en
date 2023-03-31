@@ -14,7 +14,7 @@ Individuals whose certifications expired starting in 2020 through April 23, 2023
 
 ## Introduction
 
-The Adobe Restart Program is an initiative that allows individuals with expired Experience Cloud certifications to re-certify, free of charge. If you have previously held an Adobe Digital Cloud Experience certification that has since expired, you may be eligible for a FREE new, frictionless certification! Depending on the solution, you can participate in continuous learning activities or take an un-proctored job role exam. This program is a valuable resource for people seeking to enhance their digital expertise and stay competitive.
+The Adobe Restart Program is an initiative that allows individuals with expired Experience Cloud certifications to re-certify, free of charge. If you have previously held an Adobe Digital Cloud Experience certification that has since expired, you may be eligible to Restart your certification via FREE and non-proctored testing formats. This program is a valuable resource for people seeking to enhance their digital expertise and stay competitive. 
 
 ### Steps to restart your expired certification{#exams}
 
