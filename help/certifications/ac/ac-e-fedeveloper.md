@@ -12,7 +12,7 @@ Learn how to become a certified Adobe Developer expert.
 
 ## Minimum experience:
 
-You should have at least 3-5 years of hands-on experience with Adobe Commerce Frontend development, and have the ability to translate the needs expressed by task requirements into a technical solution.
+You should have at least 1-3 years of hands-on experience with Adobe Commerce Frontend development, and have the ability to translate the needs expressed by task requirements into a technical solution.
 
 Additionally, you should be comfortable using the following technologies:
 
@@ -133,7 +133,7 @@ Here are some suggested resources to help you prepare:
 **Section 1: Theme management (Theme hierarchy, image configuration, translations)**
 
 * [Theme structure](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/themes/theme-structure.html){target="_blank"} 
-* [Create a new storefront theme](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/themes/theme-create.html){target="_blank"} 
+* [Create a storefront theme](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/themes/theme-create.html){target="_blank"} 
 * [Theme inheritance](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/themes/theme-inherit.html){target="_blank"} 
 * [Extend a layout](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/layouts/layout-extend.html){target="_blank"} 
 * [Email communications](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/5-3-store-communications.html?lang=en){target="_blank"} 

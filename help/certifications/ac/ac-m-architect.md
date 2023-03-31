@@ -12,7 +12,7 @@ Learn how to become a certified Adobe Architect master.
 
 ## Minimum experience:
 
-You should have at least 1 year experience leading Commerce development projects and are able to design, integrate, implement, and explain solutions to business problems by utilizing Adobe Commerce along with associated services.
+You should have at least 3-5 year experience leading Commerce development projects and are able to design, integrate, implement, and explain solutions to business problems by utilizing Adobe Commerce along with associated services.
 
 Additionally, you should be very familiar with the following activities and technologies:
 

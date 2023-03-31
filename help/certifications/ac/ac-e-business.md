@@ -12,7 +12,7 @@ Learn how to become a certified Adobe Business Practitioner expert.
 
 ## Minimum experience:
 
-You should have approximately 3 years of hands-on Commerce experience and a broad understanding of the e-commerce experience. 
+You should have approximately 1-3 years of hands-on Commerce experience and a broad understanding of the e-commerce experience. 
 
 You should have experience in:
 
@@ -179,7 +179,6 @@ Here are some suggested resources to help you prepare:
 * [Introduction to B2B for Adobe Commerce](https://docs.magento.com/user-guide/stores/b2b-features.html){target="_blank"}
 * [Managing Inventory](https://docs.magento.com/user-guide/catalog/inventory-management.html){target="_blank"}
 * [Introduction to MBI](https://docs.magento.com/mbi/getting-started/getting-started.html){target="_blank"}
-* [Live Search](https://devdocs.magento.com/guides/v2.4/install-gde/prereq/elasticsearch.html){target="_blank"}
 * [Search engine prerequisites](https://devdocs.magento.com/guides/v2.4/install-gde/prereq/elasticsearch.html){target="_blank"}
 * [Taxes](https://docs.magento.com/user-guide/tax/taxes.html){target="_blank"}
 * [Working with Shared Catalogs](https://docs.magento.com/user-guide/catalog/catalog-shared.html){target="_blank"}
@@ -188,12 +187,12 @@ Here are some suggested resources to help you prepare:
 
 **Section 5: Systems Architecture**
 
-* [Sites, stores, and views](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/1-3-apps-scopes-sites-stores.html?lang=en){target="_blank"}
-* [Store views and cache clearing](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/1-4-store-views-cache.html?lang=en){target="_blank"}
-* [Storefront](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/5-1-storefront-experience.html){target="_blank"}
+* [Commerce for business users - Sites, stores, and views](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/1-3-apps-scopes-sites-stores.html?lang=en){target="_blank"}
+* [Commerce for business users - Store views and cache clearing](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/1-4-store-views-cache.html?lang=en){target="_blank"}
+* [Commerce for business users - Storefront](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/5-1-storefront-experience.html){target="_blank"}
 * [Store Details](https://docs.magento.com/user-guide/configuration/configuration-basic.html){target="_blank"}
-* [Reports](https://docs.magento.com/user-guide/reports.html){target="_blank"}
-* [Web APIs](https://devdocs.magento.com/guides/v2.4/get-started/bk-get-started-api.html){target="_blank"}
+* [Reports menu](https://docs.magento.com/user-guide/reports.html){target="_blank"}
+* [Getting started with Adobe Commerce web APIs](https://devdocs.magento.com/guides/v2.4/get-started/bk-get-started-api.html){target="_blank"}
 
 **Section 6: Compliance/Security**
 
