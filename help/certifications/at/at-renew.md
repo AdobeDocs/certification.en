@@ -15,7 +15,7 @@ We're happy to announce that you are now able to renew your certification via a 
 
 >[!IMPORTANT]
 >
->The following course assessment links will **only** function after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
+>The following course assessment links will function **only** after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
 
 >[!BEGINTABS]
 

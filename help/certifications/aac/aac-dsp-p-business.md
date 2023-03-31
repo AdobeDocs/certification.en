@@ -1,12 +1,12 @@
 ---
-title: DSP Business Practitioner Professional Certification
-description: Learn how to become certified as an Adobe [!DNL Advertising DSP] Business Practitioner professional.
+title: Business Practitioner Professional certification
+description: Learn how to become certified as an Adobe [!DNL Advertising DSP] Business Practitioner Professional.
 solution: Advertising
 role: Developer
 badge: label="Exam AD0-E502" type="positive"
 mini-toc-levels: 1
 ---
-# Certification journey for [!DNL Advertising DSP] Business Practitioner professional
+# Certification journey for [!DNL Advertising DSP] Business Practitioner Professional
 
 Learn how to become a certified [!DNL Advertising DSP] Business Practitioner professional.
 

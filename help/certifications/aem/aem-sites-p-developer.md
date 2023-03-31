@@ -1,12 +1,12 @@
 ---
-title: Sites Developer Professional Certification 
-description: Learn how to become a certified Adobe Business Practitioner expert.
+title: Developer Professional certification 
+description: Learn how to become a certified Adobe Business Practitioner expert in [!DNL Experience Manager Sites].
 solution: Experience Manager Sites
 role: Developer
 badge: label="Exam AD0-E123" type="positive"
 mini-toc-levels: 1
 ---
-# Certification journey for Adobe Experience Manager Sites Developer professional
+# Certification journey for Adobe [!DNL Experience Manager Sites] Developer professional
 
 Learn how to become a certified Adobe Business Practitioner expert.
 
@@ -108,7 +108,7 @@ The sample questions allow you to see the type and format of items that you will
 **Section 3: Build and deployment**
 
 * [Core Components Introduction](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/introduction.html?lang=en){target="_blank"}
-* [Getting started with AEM Sites - WKND tutorial](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-wknd-tutorial-develop/overview.html){target="_blank"}
+* [Getting started with [!DNL AEM Sites] - WKND tutorial](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-wknd-tutorial-develop/overview.html){target="_blank"}
 
 
 **Section 4: Environment maintenance**
@@ -116,11 +116,11 @@ The sample questions allow you to see the type and format of items that you will
 * [AEM 6.4 Deploying User Guide](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/home.html?lang=en){target="_blank"}
 * [AEM 6.4 Developing User Guide](https://experienceleague.adobe.com/docs/experience-manager-64/developing/home.html?lang=en){target="_blank"}
 * [Operations Dashboard](https://experienceleague.adobe.com/docs/experience-manager-65/administering/operations/operations-dashboard.html?lang=en%20(Automated%20Maintenance%20Tasks)){target="_blank"}
-* [Release notes for Adobe Experience Manager 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html){target="_blank"}
-* [Experience Manager as a Cloud Service overview](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=en){target="_blank"}
+* [Release notes for Adobe [!DNL Experience Manager] 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html){target="_blank"}
+* [[!DNL Experience Manager as a Cloud Service] overview](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=en){target="_blank"}
 * [Core Components Introduction](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/introduction.html?lang=en)
-* [AEM as Cloud Service videos and tutorials](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/overview.html?lang=en){target="_blank"}
-* [Adobe Experience Manager Release Updates and Roadmap](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/home.html?lang=en){target="_blank"}
+* [[!DNL AEM as Cloud Service] videos and tutorials](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/overview.html?lang=en){target="_blank"}
+* [Adobe [!DNL Experience Manager] Release Updates and Roadmap](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/home.html?lang=en){target="_blank"}
 
 >[!TAB Get certified]
 

@@ -1,35 +1,35 @@
 ---
-title: Adobe Analytics Developer Professional Certification
-description: Learn how to become certified as an Adobe Analytics Developer professional.
+title: Developer Professional certification
+description: Learn how to become certified as an [!DNL Adobe Analytics] Developer Professional.
 solution: Analytics
 role: Developer
 badge: label="Exam AD0-E213" type="positive"
 mini-toc-levels: 1
 ---
-# Certification journey for Adobe Analytics Developer professional
+# Certification journey for [!DNL Adobe Analytics] Developer Professional
 
-Learn how to become a certified Analytics Developer professional.
+Learn how to become a certified [!DNL Analytics] Developer Professional.
 
 ## Minimum experience
 
 You should have:
 
-* 6-12 months' experience in Adobe Analytics implementation (web and mobile app)
+* 6-12 months' experience in [!DNL Adobe Analytics] implementation (web and mobile app)
 * Experience acting as a player supporting Analytics Implementation teams in bridging between IT and the business to understand how business requirements translate into a technical solution (SDR), and based on requirements provided by the analyst
 * Understanding of which type of variable is needed, where and how to collect the data, design the data model (data layer), configure, and maintain the tag management solution
 
 Experience with the following tasks:
 
-* Interpreting a Solutions Design Document (SDR) and understand the purpose of all Adobe Analytics variables collected
+* Interpreting a Solutions Design Document (SDR) and understand the purpose of all [!DNL Adobe Analytics] variables collected
 * Understanding and work with Adobe (Experience Platform) Launch
-* Understanding configuration of baseline Adobe Analytics dimensions and events Page Name, Link Name, Activity Map, etc., but will work with expert developers for more customer implementations - Variable mapping is still owned by Expert level developers
+* Understanding configuration of baseline [!DNL Adobe Analytics] dimensions and events Page Name, Link Name, Activity Map, etc., but will work with expert developers for more customer implementations - Variable mapping is still owned by Expert level developers
 * Creating and configuring rules within Launch following the design provided by an AA expert
 * Testing and validating the data being captured in variable and events firing by leveraging web console debuggers or mobile app systems like charles logs
 * Understanding what a data layer is and knows how to read a JavaScript object
 * Sharing reports, segments, and the process to request access, but not how to manage user groups, governance protocols, as well as manage the SDR
 * Providing guidance and configure mobile/SDK solution
 * Understanding general framework behind Video tracking (event-based) given knowledge base documentation
-* Performing basic reporting from Analysis Workspace and understanding the data outputs available from the Adobe Analytics Data Warehouse
+* Performing basic reporting from Analysis Workspace and understanding the data outputs available from the [!DNL Adobe Analytics] Data Warehouse
 * Basic experience with Adobe Experience Platform Launch (Adobe Launch) 
 
 >[!NOTE]
@@ -65,7 +65,7 @@ Section 1: Analytics in the Adobe Experience Cloud ecosystem (14%)
 
 * Identify features and capabilities of Adobe Experience Cloud ID
 * Identify uses for Adobe Launch
-* Identify how to enable / support Adobe Analytics tags in the Adobe Experience Cloud Ecosystem
+* Identify how to enable / support [!DNL Adobe Analytics] tags in the Adobe Experience Cloud Ecosystem
 
 Section 2: Analytics strategy and design based on a solution design reference (12%)
 
@@ -74,10 +74,10 @@ Section 2: Analytics strategy and design based on a solution design reference (1
 
 Section 3: Analytics implementation and configuration (30%)
 
-* Identify the steps to deploy Adobe Analytics Code
+* Identify the steps to deploy [!DNL Adobe Analytics] Code
 * Identify functions of minimal deployment code for Analytics tracking
-* Identify the steps to configure various components within Adobe Analytics UI
-* Identify functions of Adobe Analytics report suite and variable settings
+* Identify the steps to configure various components within [!DNL Adobe Analytics] UI
+* Identify functions of [!DNL Adobe Analytics] report suite and variable settings
 * Identify the characteristics of a data layer and data layer values
 * Identify App Measurement functions for tracking features such as link tracking and e-commerce tracking
 
@@ -90,15 +90,15 @@ Section 4: Tag management systems (18%)
 
 Section 5: Mobile services and API (8%)
 
-* Identify the functions of Adobe Analytics API (data feed, warehouse, data sources, reports)
+* Identify the functions of [!DNL Adobe Analytics] API (data feed, warehouse, data sources, reports)
 * Identify the characteristics of processing rules and mobile services
 
 Section 6: Testing, validation, and troubleshooting (18%)
 
 * Identify the meaning of common JavaScript errors
-* Identify the meaning of common Adobe Analytics variables errors
+* Identify the meaning of common [!DNL Adobe Analytics] variables errors
 * Given a scenario, identify testing and debugging validation best practices that should be followed
-* Identify how to track an Adobe Analytics server call across its lifecycle (i.e. from beacon request to showing up in the report)
+* Identify how to track an [!DNL Adobe Analytics] server call across its lifecycle (i.e. from beacon request to showing up in the report)
 
 >[!TAB Get prepped]
 
@@ -119,17 +119,17 @@ The sample questions allow you to see the type and format of items that you will
 * [AEM 6.5 Authoring User Guide](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html?lang=en){target="_blank"} 
 * [Overview](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/overview.html?lang=en){target="_blank"} 
 * [Tags overview](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html?lang=en){target="_blank"} 
-* [Implement Adobe Analytics](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=en){target="_blank"} 
+* [Implement [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=en){target="_blank"} 
 
 **Section 2: Analytics strategy and design based on a solution design reference**
 
 * [Analytics tutorials](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html?lang=en){target="_blank"}
-* [Implement Adobe Analytics](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=en){target="_blank"}
+* [Implement [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=en){target="_blank"}
 * [Analytics Admin Guide](https://experienceleague.adobe.com/docs/analytics/admin/home.html?lang=en){target="_blank"}
 
 **Section 3: Analytics implementation and configuration**
 
-* [Implement Adobe Analytics](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=en){target="_blank"}
+* [Implement [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=en){target="_blank"}
 * [Tags overview](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html?lang=en){target="_blank"}
 * [Analytics Tool Guide](https://experienceleague.adobe.com/docs/analytics/analyze/home.html?lang=en){target="_blank"}
 * [Analytics Admin Guide](https://experienceleague.adobe.com/docs/analytics/admin/home.html?lang=en){target="_blank"}
@@ -145,8 +145,8 @@ The sample questions allow you to see the type and format of items that you will
 
 **Section 5: Mobile services and API**
 
-* [Adobe Analytics: Email Marketing (ESP) Integration Case Study](https://adobeexchangeec.zendesk.com/hc/en-us/articles/360003848112-Adobe-Analytics-Email-Marketing-ESP-Integration-Case-Study){target="_blank"}
-* [Adobe Analytics APIs](https://adobedocs.github.io/analytics-2.0-apis/#/){target="_blank"}
+* [[!DNL Adobe Analytics]: Email Marketing (ESP) Integration Case Study](https://adobeexchangeec.zendesk.com/hc/en-us/articles/360003848112-Adobe-Analytics-Email-Marketing-ESP-Integration-Case-Study){target="_blank"}
+* [[!DNL Adobe Analytics] APIs](https://adobedocs.github.io/analytics-2.0-apis/#/){target="_blank"}
 * [Welcome to the enterprise and teams admin guide](https://helpx.adobe.com/enterprise/admin-guide.html){target="_blank"}
 * [Getting started with the Analytics API](https://developer.adobe.com/analytics-apis/docs/2.0/guides/){target="_blank"}
 * [Analytics Admin Guide](https://experienceleague.adobe.com/docs/analytics/admin/home.html?lang=en){target="_blank"}
@@ -155,7 +155,7 @@ The sample questions allow you to see the type and format of items that you will
 
 * [JavaScript error reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors){target="_blank"}
 * [Analytics Tech Notes](https://experienceleague.adobe.com/docs/analytics/technotes/home.html?lang=en){target="_blank"}
-* [Implement Adobe Analytics](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=en){target="_blank"}
+* [Implement [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=en){target="_blank"}
 
 >[!TAB Get certified]
 

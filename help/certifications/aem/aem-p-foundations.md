@@ -1,14 +1,14 @@
 ---
 title: Technical Foundations Professional Certification 
-description: Learn how to become a certified Adobe Experience Manager professional.
+description: Learn how to become a certified Adobe [!DNL Experience Manager] Professional.
 solution: Experience Manager
 role: Developer
 badge: label="Exam AD0-E132 type="positive"
 mini-toc-levels: 1
 ---
-# Certification journey for Adobe Experience Manager Technical Foundations professional
+# Certification journey for Adobe [!DNL Experience Manager] Technical Foundations Professional
 
-Learn how to become a certified Adobe Experience Manager professional.
+Learn how to become a certified Adobe [!DNL Experience Manager] professional.
 
 ## Minimum experience
 
@@ -104,7 +104,7 @@ Here are some suggested resources to help you prepare:
 
 * [AEM 6.4 Deploying User Guide](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/home.html?lang=en){target="_blank"} 
 * [AEM 6.5 Authoring User Guide](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html?lang=en){target="_blank"} 
-* [Experience Manager as a Cloud Service documentation](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=en){target="_blank"} 
+* [[!DNL Experience Manager as a Cloud Service] documentation](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=en){target="_blank"} 
 * [Assets Guide](https://experienceleague.adobe.com/docs/experience-manager-65/assets/home.html?lang=en){target="_blank"} 
 
 **Section 2: Implementation**
