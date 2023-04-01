@@ -1,12 +1,12 @@
 ---
-title: Adobe Marketo Engage Architect Master Certification
-description: Learn how to become a certified Adobe Architect master.
+title: Architect Master certification
+description: Learn how to become a certified Adobe Architect Master in Adobe [!DNL Marketo Engage].
 solution: Marketo Engage
 role: Architect
 badge: label="Exam AD0-E556" type="positive"
 mini-toc-levels: 1
 ---
-# Certification journey for Adobe Marketo Engage Architect master
+# Certification journey for Adobe [!DNL Marketo Engage] Architect Master
 
 Learn how to become a certified Adobe Architect master.
 
@@ -14,15 +14,15 @@ Learn how to become a certified Adobe Architect master.
 
 You should have: 
 
-* A current certification in Marketo Engage Business Practitioner Certified Expert
-* At least five years of experience preferably with multiple instances of Marketo Engage
+* A current certification in [!DNL Marketo Engage] Business Practitioner Certified Expert
+* At least five years of experience preferably with multiple instances of [!DNL Marketo Engage]
 * An understanding of the business impact and effectively explain/communicate their solution to the stakeholders (technical and non-technical) at different levels
-* The ability to conceptualize a solution and translate to a Marketo Engage architecture, understand the business processes impacted by integrations
+* The ability to conceptualize a solution and translate to a [!DNL Marketo Engage] architecture, understand the business processes impacted by integrations
 * Familiarity with the principles of architecting an instance
 
 Additionally, you should be familiar with the following tools and technologies:
 
-* Adobe Marketo Engage features, functionality, and apps
+* Adobe [!DNL Marketo Engage] features, functionality, and apps
 * Database systems
 * API connectivity
 * CRM platform
@@ -56,7 +56,7 @@ Additionally, you should be familiar with the following tools and technologies:
 **Exam details:**
 
 ```
-Pre requisite: Adobe Certified Expert – Marketo Engage Business Practitioner expert
+Pre requisite: Adobe Certified Expert – [!DNL Marketo Engage] Business Practitioner expert
 Level: Master (3-5 years' experience)
 Practitioner certification
 Passing Score: 30/50
@@ -81,7 +81,7 @@ Section 1: Project Leadership (16%)
 * Given a modified process, determine who needs enablement and efficient enablement rollout plan
 * Evaluate an audit and recommend priorities and timeline
 
-Section 2: Marketo Engage Architecture Design (48%)
+Section 2: [!DNL Marketo Engage] Architecture Design (48%)
 
 * Gather requirements/needs and recommend a lead management and lifecycle design
 * Review an existing implementation and provide findings
@@ -97,7 +97,7 @@ Section 3: Reporting and Attribution (20%)
 
 * Given a model to review, explain the concept of detours in the lifecycle modeler
 * Given an online advertising or organic social or content, recommend an approach for reporting
-* Illustrate how to validate Marketo Engage reporting in tracking lifecycle changes
+* Illustrate how to validate [!DNL Marketo Engage] reporting in tracking lifecycle changes
 * Identify metrics to use in a given report type
 * Identify how to track multi-channel attribution to evaluate ROI
 * Identify and describe the pros and cons of different attribution models
@@ -130,18 +130,18 @@ The sample questions allow you to see the type and format of items that you will
 * [Marketo Product Docs](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=en){target="_blank"}
 * [Documentation - REST API](https://developers.marketo.com/rest-api/){target="_blank"}
 
-**Section 2: Adobe Marketo Engage Architecture Design**
+**Section 2: Adobe [!DNL Marketo Engage] architecture design**
 
 * [Instructions for Creating a Custom Sync Rule](https://nation.marketo.com/t5/product-blogs/instructions-for-creating-a-custom-sync-rule/ba-p/242758#:~:text=First%2C%20what%20is%20a%20custom,have%20them%20sync%20to%20Marketo.){target="_blank"}
 * [The Definitive Guide to Lead Scoring](https://business.adobe.com/resources/guides/lead-scoring.html){target="_blank"}
 
-**Section 3: Reporting and Attribution**
+**Section 3: Reporting and attribution**
 
 * [Report Type Overview](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/report-types/report-type-overview.html?lang=en){target="_blank"}
 * [Understanding Attribution](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.html?lang=en){target="_blank"}
 * [Champion Blog - Marketo Nation](https://nation.marketo.com/t5/champion-blog/ct-p/champion-program){target="_blank"}
 
-**Section 4: Advanced Operations**
+**Section 4: Advanced operations**
 
 * [Marketo Product Docs](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=en){target="_blank"}
 * [Suppressing Soft Bounces](https://nation.marketo.com/t5/product-discussions/suppressing-soft-bounces-any-email-min-3x-encouraged/m-p/209411#M153533){target="_blank"}

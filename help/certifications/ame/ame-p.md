@@ -1,14 +1,14 @@
 ---
-title: Adobe Marketo Engage Professional Certification
-description: Learn how to become a certified Adobe Marketo professional.
+title: Professional certification
+description: Learn how to become a certified Adobe [!DNL Marketo Engage] Professional.
 solution: Marketo Engage
 role: Developer
 badge: label="Exam AD0-E555" type="positive"
 mini-toc-levels: 1
 ---
-# Certification journey for Adobe Marketo Engage professional
+# Certification journey for Adobe [!DNL Marketo Engage] professional
 
-Learn how to become a certified Adobe Marketo professional.
+Learn how to become a certified Adobe [!DNL Marketo] Professional.
 
 ## Minimum experience
 
@@ -20,13 +20,13 @@ You should have:
 * The ability to create a Smart List and Smart Campaign
 * Knowledge of how to create segmentations
 * An understanding of Data review (cleanup)
-* An understanding of Database (how to create people, Activity Log, unsubscribe, Blocklist, email invalid concepts)
+* An understanding of Database (how to create people, Activity Log, unsubscribe, blocklist, email invalid concepts)
 * The Ability to understand the importance of privacy regulations
 * Understanding of Email marketing
 
 And, you should be familiar with the following tools and technologies:
 
-* Adobe Marketo Engage
+* Adobe [!DNL Marketo Engage]
 * Excel or Google Sheets/Doc
 
 >[!NOTE]
@@ -99,7 +99,7 @@ Section 3: Defining and targeting audiences (33%)
 * Interpret Smart Campaign results.
 * Describe the purpose of a segmentation and its use.
 * Identify and navigate the Database.
-* Explain how to set privacy settings in Adobe Marketo Engage.
+* Explain how to set privacy settings in Adobe [!DNL Marketo Engage].
 * Differentiate between Smart Lists and Static Lists.
 * Define system Smart Lists.
 * Compare and contrast the different types of Smart Campaigns.
@@ -108,7 +108,7 @@ Section 3: Defining and targeting audiences (33%)
 
 Section 4: Analyzing and building reports (9%)
 
-* Explain the standard Adobe Marketo Engage reports and when they should be used (Email Link Performance, Email Performance, Landing Page Performance, People Performance, Program Performance, Web Page Activity, etc.)
+* Explain the standard Adobe [!DNL Marketo Engage] reports and when they should be used (Email Link Performance, Email Performance, Landing Page Performance, People Performance, Program Performance, Web Page Activity, etc.)
 * Comprehend Dashboard information and metrics (Email Program Dashboard, Engagement Program Dashboard)
 * Comprehend Email Insights metrics
 

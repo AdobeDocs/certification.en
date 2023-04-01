@@ -1,21 +1,21 @@
 ---
-title: Adobe Target Business Practitioner Professional Certification
-description: Learn how to become a certified Adobe Business Practitioner professional.
+title: Business Practitioner Professional certification
+description: Learn how to become a certified [!DNL Adobe Target] Business Practitioner Professional.
 solution: Target
 role: Developer
 badge: label="Exam AD0-E408" type="positive"
 mini-toc-levels: 1
 ---
-# Certification journey for Adobe Target Business Practitioner professional
+# Certification journey for [!DNL Adobe Target] Business Practitioner Professional
 
-Learn how to become a certified Adobe Business Practitioner professional.
+Learn how to become a certified Adobe Business Practitioner Professional.
 
 ## Minimum experience
 
 You should have:
 
-* 0-12 months experience with optimization platforms, including Adobe Target
-* Supervised hands-on experience with Adobe Target
+* 0-12 months experience with optimization platforms, including [!DNL Adobe Target]
+* Supervised hands-on experience with [!DNL Adobe Target]
 * 0-12 months experience leading/contributing to optimization programs
 * Ability to identify basic Target/Adobe Marketing Cloud administrative tasks (preferences, user roles and permissions, settings)
 * A basic knowledge of the three-step workflow (experiences, targeting, and goals and settings, including all reporting sources)
@@ -82,7 +82,7 @@ Section 2: Configuring, executing and managing (50%)
 Section 3: Analyzing and reporting (16%)
 
 * Describe settings to help set the elements that appear in a report
-* Describe the difference in Adobe Target Sample Size Calculator settings between planning and validating
+* Describe the difference in [!DNL Adobe Target] Sample Size Calculator settings between planning and validating
 * Describe common problems associated with A/B testing
 * Identify how Automated Personalization Summary reports differ from other reports
 * Describe the features of Experience Performance reports (MVT)
@@ -108,17 +108,17 @@ The sample questions allow you to see the type and format of items that you will
 
 **Section 1: Planning and strategy**
 
-* [Adobe Target Business Practitioner Guide](https://experienceleague.adobe.com/docs/target/using/target-home.html?lang=en){target="_blank"}
-* [Adobe Target Documentation](https://experienceleague.adobe.com/docs/target.html?lang=en){target="_blank"}
+* [[!DNL Adobe Target] Business Practitioner Guide](https://experienceleague.adobe.com/docs/target/using/target-home.html?lang=en){target="_blank"}
+* [[!DNL Adobe Target] Documentation](https://experienceleague.adobe.com/docs/target.html?lang=en){target="_blank"}
 * [Visitor Profiles](https://experienceleague.adobe.com/docs/target/using/audiences/visitor-profiles/visitor-profile.html?lang=en){target="_blank"}
-* [Adobe Target welcome kit](https://experienceleague.adobe.com/docs/target/using/introduction/welcome/target-welcome-kit.html?lang=en){target="_blank"}
+* [[!DNL Adobe Target] welcome kit](https://experienceleague.adobe.com/docs/target/using/introduction/welcome/target-welcome-kit.html?lang=en){target="_blank"}
 * [Success Metrics](https://experienceleague.adobe.com/docs/target/using/activities/success-metrics/success-metrics.html?lang=en){target="_blank"}
 * [Categories for audiences](https://experienceleague.adobe.com/docs/target/using/audiences/create-audiences/categories-audiences/target-rules.html?lang=en){target="_blank"}
 
 **Section 2: Configuring, executing and managing**
 
 * [Visual Experience Composer (VEC))](https://experienceleague.adobe.com/docs/target/using/experiences/vec/visual-experience-composer.html?lang=en){target="_blank"}
-* [Adobe Target welcome kit](https://experienceleague.adobe.com/docs/target/using/introduction/welcome/target-welcome-kit.html?lang=en){target="_blank"}
+* [[!DNL Adobe Target] welcome kit](https://experienceleague.adobe.com/docs/target/using/introduction/welcome/target-welcome-kit.html?lang=en){target="_blank"}
 * [A/B Test overview](https://experienceleague.adobe.com/docs/target/using/activities/abtest/test-ab.html?lang=en){target="_blank"}
 * [Create an Experience Targeting activity](https://experienceleague.adobe.com/docs/target/using/activities/experience-targeting/create-targeting/xt-create.html?lang=en){target="_blank"}
 * [Multivariate Test overview](https://experienceleague.adobe.com/docs/target/using/activities/multivariate-test/multivariate-testing.html?lang=en){target="_blank"}
@@ -133,7 +133,7 @@ The sample questions allow you to see the type and format of items that you will
 
 **Section 4: Troubleshooting**
 
-* [Adobe Target Business Practitioner Guide](https://experienceleague.adobe.com/docs/target/using/target-home.html?lang=en){target="_blank"}
+* [[!DNL Adobe Target] Business Practitioner Guide](https://experienceleague.adobe.com/docs/target/using/target-home.html?lang=en){target="_blank"}
 * [Adobe Experience Cloud Debugger overview](https://experienceleague.adobe.com/docs/debugger/using/experience-cloud-debugger.html?lang=en){target="_blank"}
 
 >[!TAB Get certified]

@@ -1,12 +1,12 @@
 ---
-title: Adobe Target Architect Master Certification
-description: Learn how to become a certified Adobe Architect master.
+title: Architect Master certification
+description: Learn how to become a certified [!DNL Adobe Target] Architect Master.
 solution: Target
 role: Developer
 badge: label="Exam AD0-E407" type="positive"
 mini-toc-levels: 1
 ---
-# Certification journey for Adobe Target Architect master
+# Certification journey for [!DNL Adobe Target] Architect Master
 
 Learn how to become a certified Adobe Architect master.
 
@@ -14,12 +14,12 @@ Learn how to become a certified Adobe Architect master.
 
 You should have:
 
-* At least three years of digital marketing optimization experience including implementing Adobe Target activities
-* At least two years' experience (or five engagements) implementing, deploying, and troubleshooting Adobe Target
+* At least three years of digital marketing optimization experience including implementing [!DNL Adobe Target] activities
+* At least two years' experience (or five engagements) implementing, deploying, and troubleshooting [!DNL Adobe Target]
 * Experience integrating Target with the Adobe Experience Cloud
 * Fundamental understanding of JavaScript, HTML, CSS, and front-end web development
-* Familiarity with/awareness of Adobe Target APIs/SDKs, server-side integration, reporting, and administration
-* Knowledge of implementing Adobe Target with Single Page Application (SPA) frameworks, mobile and email, and recommendations
+* Familiarity with/awareness of [!DNL Adobe Target] APIs/SDKs, server-side integration, reporting, and administration
+* Knowledge of implementing [!DNL Adobe Target] with Single Page Application (SPA) frameworks, mobile and email, and recommendations
 
 Additionally, you should be familiar with the following technologies and environments:
 
@@ -78,47 +78,47 @@ Exam ID: AD0-E407
 
 **Exam objectives and scope**
 
-Section 1: Adobe Target fundamentals (12%)
+Section 1: [!DNL Adobe Target] fundamentals (12%)
 
-* Identify the appropriate Adobe Target usage for a given scenario
-* Explain the fundamental technologies of an Adobe Target implementation
+* Identify the appropriate [!DNL Adobe Target] usage for a given scenario
+* Explain the fundamental technologies of an [!DNL Adobe Target] implementation
 
-Section 2: Integrating with Adobe Target (16%)
+Section 2: Integrating with [!DNL Adobe Target] (16%)
 
-* Apply the process to integrate Adobe Target with Adobe Analytics (A4T)
-* Apply the process to integrate Adobe Target to Adobe Experience Manager
+* Apply the process to integrate [!DNL Adobe Target] with Adobe Analytics (A4T)
+* Apply the process to integrate [!DNL Adobe Target] to Adobe Experience Manager
 * Describe integration with other Adobe Experience Cloud Solutions
 * Describe the integration with Adobe Experience Cloud Audiences
 
-Section 3: Adobe Target administration and governance (13%)
+Section 3: [!DNL Adobe Target] administration and governance (13%)
 
-* Define an ongoing Adobe Target implementation strategy and system governance
+* Define an ongoing [!DNL Adobe Target] implementation strategy and system governance
 * Apply the process and best practices to manage users
 * Describe the administration aspects of the implementation setup
 
-Section 4: Adobe Target and supported touch points (15%)
+Section 4: [!DNL Adobe Target] and supported touch points (15%)
 
 * Describe client-side delivery implementation
 * Describe server-side delivery implementation
 * Describe implementation requirements for mobile, email targeting, and APIs
 
-Section 5: Leverage Adobe Target recommendations (9%)
+Section 5: Leverage [!DNL Adobe Target] recommendations (9%)
 
 * Demonstrate an understanding of recommendations, catalogs, and environments
 * Apply the process to configure Target recommendations
 
-Section 6: Architect, design and implement Adobe Target (15%)
+Section 6: Architect, design and implement [!DNL Adobe Target] (15%)
 
 * Select the correct mbox implementation
-* Demonstrate designing an Adobe Target implementation
-* Describe the implementation of Adobe Target in Native Mobile Apps
+* Demonstrate designing an [!DNL Adobe Target] implementation
+* Describe the implementation of [!DNL Adobe Target] in Native Mobile Apps
 
 Section 7: Troubleshooting (20%)
 
 * Troubleshoot mbox errors
 * Troubleshoot activity errors
 * Understand integration errors
-* Troubleshoot Adobe Target Recommendations Errors
+* Troubleshoot [!DNL Adobe Target] Recommendations Errors
 
 >[!TAB Get prepped]
 
@@ -132,62 +132,62 @@ The sample questions allow you to see the type and format of items that you will
 
 [See sample questions](https://scorpion.caveon.com/launchpad/ad0-e407-adobe-target-architect-sample-exam/adobe-target-architect-sample-exam){target="_blank"}
 
-**Section 1: Adobe Target fundamentals**
+**Section 1: [!DNL Adobe Target] fundamentals**
 
-* [Adobe Target Business Practitioner Guide](https://experienceleague.adobe.com/docs/target/using/target-home.html?lang=en){target="_blank"}
-* [Learn How to use Adobe Target](https://experienceleague.adobe.com/docs/target-learn/tutorials/overview.html?lang=en){target="_blank"}
+* [[!DNL Adobe Target] Business Practitioner Guide](https://experienceleague.adobe.com/docs/target/using/target-home.html?lang=en){target="_blank"}
+* [Learn How to use [!DNL Adobe Target]](https://experienceleague.adobe.com/docs/target-learn/tutorials/overview.html?lang=en){target="_blank"}
 
-**Section 2: Integrating with Adobe Target**
+**Section 2: Integrating with [!DNL Adobe Target]**
 
-* [Adobe Target Business Practitioner Guide](https://experienceleague.adobe.com/docs/target/using/target-home.html?lang=en){target="_blank"}
+* [[!DNL Adobe Target] Business Practitioner Guide](https://experienceleague.adobe.com/docs/target/using/target-home.html?lang=en){target="_blank"}
 * [AEM Sites videos and tutorials](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/overview.html?lang=en){target="_blank"}
 * [Audience creation options](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-16471.html?lang=en){target="_blank"}
 * [Adobe Experience Cloud Audiences](https://experienceleague.adobe.com/docs/core-services/interface/services/audiences/audience-library.html?lang=en){target="_blank"}
 * [Integrate Audience Manager with Target](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/integration-other-solutions/aam-target-integration.html){target="_blank"}
 * [Adobe.IO Integration](http://developers.adobetarget.com/api/#introduction){target="_blank"}
-* [Exporting Experience Fragments to Adobe Target](https://experienceleague.adobe.com/docs/experience-manager-65/administering/integration/experience-fragments-target.html?lang=en#deleting-an-experience-fragment-already-exported-to-adobe-target){target="_blank"}
+* [Exporting Experience Fragments to [!DNL Adobe Target]](https://experienceleague.adobe.com/docs/experience-manager-65/administering/integration/experience-fragments-target.html?lang=en#deleting-an-experience-fragment-already-exported-to-adobe-target){target="_blank"}
 * [Integrating Experience Platform Launch and AEM](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/integrations/experience-platform-launch/overview.html?lang=en){target="_blank"}
 * [Publish segments to the Experience Cloud](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-publish.html){target="_blank"}
-* [Manually Configuring the Integration with Adobe Target](https://experienceleague.adobe.com/docs/experience-manager-65/administering/integration/target-configuring.html?lang=en){target="_blank"}
+* [Manually Configuring the Integration with [!DNL Adobe Target]](https://experienceleague.adobe.com/docs/experience-manager-65/administering/integration/target-configuring.html?lang=en){target="_blank"}
 * [Types of Data Collected](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/data-types-collected.html?lang=en){target="_blank"}
 
 
-**Section 3: Adobe Target administration and governance**
+**Section 3: [!DNL Adobe Target] administration and governance**
 
-* [Adobe Target Business Practitioner Guide](https://experienceleague.adobe.com/docs/target/using/target-home.html?lang=en){target="_blank"}
-* [Adobe Target Security Overview](https://www.adobe.com/content/dam/cc/en/security/pdfs/AdobeTargetSecurityOverview.pdf){target="_blank"}
+* [[!DNL Adobe Target] Business Practitioner Guide](https://experienceleague.adobe.com/docs/target/using/target-home.html?lang=en){target="_blank"}
+* [[!DNL Adobe Target] Security Overview](https://www.adobe.com/content/dam/cc/en/security/pdfs/AdobeTargetSecurityOverview.pdf){target="_blank"}
 * [Adobe Admin Console users](https://helpx.adobe.com/enterprise/using/users.html){target="_blank"}
 * [AEM 6.5 Administering User Guide](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html?lang=en){target="_blank"}
 
-**Section 4: Adobe Target and supported touch points**
+**Section 4: [!DNL Adobe Target] and supported touch points**
 
-* [Adobe Target Business Practitioner Guide](https://experienceleague.adobe.com/docs/target/using/target-home.html?lang=en){target="_blank"}
-* [Solved: Adobe Target iframe](https://experienceleaguecommunities.adobe.com/t5/adobe-target-questions/adobe-target-iframe/m-p/327224){target="_blank"}
+* [[!DNL Adobe Target] Business Practitioner Guide](https://experienceleague.adobe.com/docs/target/using/target-home.html?lang=en){target="_blank"}
+* [Solved: [!DNL Adobe Target] iframe](https://experienceleaguecommunities.adobe.com/t5/adobe-target-questions/adobe-target-iframe/m-p/327224){target="_blank"}
 * [Implement Adobe Experience Cloud in mobile apps tutorial](https://experienceleague.adobe.com/docs/platform-learn/implement-mobile-sdk/overview.html?lang=en){target="_blank"}
 * [Target API reference](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-target/target-api-reference#getthirdpartyid){target="_blank"}
 
-**Section 5: Leverage Adobe Target recommendations**
+**Section 5: Leverage [!DNL Adobe Target] recommendations**
 
-* [Adobe Target Business Practitioner Guide](https://experienceleague.adobe.com/docs/target/using/target-home.html?lang=en){target="_blank"}
+* [[!DNL Adobe Target] Business Practitioner Guide](https://experienceleague.adobe.com/docs/target/using/target-home.html?lang=en){target="_blank"}
 
-**Section 6: Architect, design and implement Adobe Target**
+**Section 6: Architect, design and implement [!DNL Adobe Target]**
 
-* [Adobe Target Business Practitioner Guide](https://experienceleague.adobe.com/docs/target/using/target-home.html?lang=en){target="_blank"}
-* [Add Adobe Target with tags](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/implement-solutions/target.html?lang=en){target="_blank"}
+* [[!DNL Adobe Target] Business Practitioner Guide](https://experienceleague.adobe.com/docs/target/using/target-home.html?lang=en){target="_blank"}
+* [Add [!DNL Adobe Target] with tags](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/implement-solutions/target.html?lang=en){target="_blank"}
 * [Customer IDs and Authentication States](https://experienceleague.adobe.com/docs/id-service/using/reference/authenticated-state.html?lang=en){target="_blank"}
-* [Learn How to use Adobe Target](https://experienceleague.adobe.com/docs/target-learn/tutorials/overview.html?lang=en){target="_blank"}
+* [Learn How to use [!DNL Adobe Target]](https://experienceleague.adobe.com/docs/target-learn/tutorials/overview.html?lang=en){target="_blank"}
 * [Target API reference](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-target/target-api-reference#getthirdpartyid){target="_blank"}
-* [Adobe Target Extension Overview](https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/adobe/target/overview.html?lang=en){target="_blank"}
+* [[!DNL Adobe Target] Extension Overview](https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/adobe/target/overview.html?lang=en){target="_blank"}
 * [Introduction to on-device decisioning](https://adobetarget-sdks.gitbook.io/docs/on-device-decisioning/introduction-to-on-device-decisioning){target="_blank"}
 * [When to use on-device vs. edge decisioning](https://adobetarget-sdks.gitbook.io/docs/best-practices/when-to-use-server-side-vs-on-device-decisioning){target="_blank"}
 * [Solved: JWT access token](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-questions/jwt-access-token-how-can-i-change-the-expiration/m-p/324806){target="_blank"}
 
 **Section 7: Troubleshooting**
 
-* [Adobe Target Business Practitioner Guide](https://experienceleague.adobe.com/docs/target/using/target-home.html?lang=en){target="_blank"}
-* [Adobe Target Tutorials](https://experienceleague.adobe.com/docs/target-learn/tutorials/overview.html?lang=en){target="_blank"}
+* [[!DNL Adobe Target] Business Practitioner Guide](https://experienceleague.adobe.com/docs/target/using/target-home.html?lang=en){target="_blank"}
+* [[!DNL Adobe Target] Tutorials](https://experienceleague.adobe.com/docs/target-learn/tutorials/overview.html?lang=en){target="_blank"}
 * [Clear cache and cookies for various Browsers](https://helpx.adobe.com/sign/kb/how-to-clear-Cache-Cookies-for-various-Browsers.html){target="_blank"}
-* [Exporting Experience Fragments to Adobe Target](https://experienceleague.adobe.com/docs/experience-manager-65/administering/integration/experience-fragments-target.html?lang=en#prerequisites){target="_blank"}
+* [Exporting Experience Fragments to [!DNL Adobe Target]](https://experienceleague.adobe.com/docs/experience-manager-65/administering/integration/experience-fragments-target.html?lang=en#prerequisites){target="_blank"}
 * [Solved: Why is my historical audience showing as "collecting data"?](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-cloud-audiences/why-is-my-historical-audience-showing-as-quot-collecting-data/m-p/286891){target="_blank"}
 * [Adobe Experience Cloud Audiences](https://experienceleague.adobe.com/docs/core-services/interface/services/audiences/audience-library.html?lang=en){target="_blank"}
 
