@@ -1,13 +1,13 @@
 ---
-title: Adobe Workfront Certification
-description: You have technical knowledge about audience segmentation, destination exports, and activation on real time basis for unified profiles that adhere to data and privacy regulations, customer data platforms (CDP) and knowledge of Adobe Experience Platform.
+title: Certification renewal
+description: Learn how to renew your Adobe [!DNL Workfront] certification before it expires.
 solution: Workfront
 role: Developer
 badge: label="Workfront Renewal" type="positive"
 mini-toc-levels: 1
 hidefromtoc: yes
 ---
-# Renew your Adobe Workfront certification
+# Renew your Adobe [!DNL Workfront] certification
 
 When you pass a certification exam, your certification is valid for two years.
 
