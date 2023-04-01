@@ -1,20 +1,20 @@
 ---
-title: Adobe Workfront Core Developer Expert Certification
-description: Learn how to become a certified Adobe Developer expert.
+title: Core Developer Expert certification
+description: Learn how to become a certified Adobe Developer Expert in Adobe [!DNL Workfront].
 solution: Workfront
 role: Developer
 badge: label="Exam AD0-E904" type="positive"
 mini-toc-levels: 1
 ---
-# Certification journey for Adobe Workfront Core Developer expert
+# Certification journey for Adobe [!DNL Workfront] Core Developer Expert
 
 Learn how to become a certified Adobe Developer expert.
 
 ## Minimum experience
 
-You should have at least 18-24 months experience with Workfront, and can:
+You should have at least 18-24 months experience with [!DNL Workfront], and can:
 
-* Navigate the Workfront system, understanding where its functionality resides
+* Navigate the [!DNL Workfront] system, understanding where its functionality resides
 * Configure all aspects of the system
 * Discuss requirements with customers and translate those into a viable solution
 * Elicit and modify existing process for improvement in a collaborative way
@@ -31,7 +31,7 @@ You should have at least 18-24 months experience with Workfront, and can:
 
 **Intended audience:** 
 
-* Workfront System Administrators specializing in implementation, and new or updated instance configuration
+* [!DNL Workfront] System Administrators specializing in implementation, and new or updated instance configuration
 * Process designer/architect
 * Business analyst
 * Technical consultant
@@ -63,7 +63,7 @@ Section 1: Core system administration and setup (17%)
 * Given a scenario, identify when a group status vs. a system status should be used.
 * Given a data set, demonstrate the capabilities of kickstarts.
 * Given a scenario, identify best practices for auto-provisioning users.
-* Given a scenario, demonstrate how Groups and Teams within a user's profile can impact what can be seen or done within Workfront
+* Given a scenario, demonstrate how Groups and Teams within a user's profile can impact what can be seen or done within [!DNL Workfront].
 * Given a scenario, recommend whether a Team should be standard, Kanban, or Scrum.
 * Given a scenario, determine the best practice for deploying Agile team custom storyboards.
 
@@ -98,14 +98,14 @@ Section 5: Reporting (13%)
 * Given a report or filter, demonstrate the merits of using wildcard values.
 * Identify parent-to-child relationships in a report.
 * Given a scenario, describe how reporting facilitates efficient execution of work.
-* Given a scenario, illustrate Workfront Reporting to monitor and improve user adoption.
+* Given a scenario, illustrate [!DNL Workfront] Reporting to monitor and improve user adoption.
 
 Section 6: Methodology / best practices / use cases (20%)
 
-* Given a scenario within Workfront, demonstrate functionality for setting up tracking of deliverables that are part of a single campaign.
-* Given a scenario within Workfront, demonstrate functionality around strategic prioritization and justification of work.
-* Given a scenario within Workfront, demonstrate functionality around financials, utilization, forecasting, billing rates/records
-* Given a scenario within Workfront, demonstrate functionality around setting up workflow and approvals.
+* Given a scenario within [!DNL Workfront], demonstrate functionality for setting up tracking of deliverables that are part of a single campaign.
+* Given a scenario within [!DNL Workfront], demonstrate functionality around strategic prioritization and justification of work.
+* Given a scenario within [!DNL Workfront], demonstrate functionality around financials, utilization, forecasting, billing rates/records
+* Given a scenario within [!DNL Workfront], demonstrate functionality around setting up workflow and approvals.
 * Given a scenario for Agile, identify native features to show progress.
 * Given a scenario, recommend a framework for governance around system administration when expanding a client's instance.
 * Given a scenario, identify areas for consideration when expanding a client's instance to enable additional teams to work together.
@@ -115,7 +115,7 @@ Section 7: Business consulting (8%)
 * Given a scenario, describe the process needed to fully support that effort.
 * Given a scenario, explain how to adapt an existing Workflow to meet a recent change in a critical, inflight business process.
 * Given a scenario, identify configuration settings that are most difficult to change to a given instance.
-* Given a scenario, identify the key considerations of change management for a Workfront implementation
+* Given a scenario, identify the key considerations of change management for a [!DNL Workfront] implementation
 * Given a scenario, provide a recommendation.
 
 >[!TAB Get prepped]
@@ -168,7 +168,7 @@ Here are some suggested resources to help you prepare:
 **Section 6: Methodology / best practices / use cases**
 
 * [Track progress from the project timeline](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/project-timelines/track-work-progress-from-the-project-timeline.html?lang=en){target="_blank"}
-* [Prioritize your work in Workfront Home](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home/prioritize-your-work-in-workfront-home.html?lang=en){target="_blank"}
+* [Prioritize your work in [!DNL Workfront] Home](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home/prioritize-your-work-in-workfront-home.html?lang=en){target="_blank"}
 * [Overview of Billing and Revenue](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/project-finances/billing-and-revenue-overview.html?lang=en){target="_blank"}
 * [View resource utilization information](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/resource-utilization/view-utilization-information.html){target="_blank"}
 * [Create an approval process for work items](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/approvals-milestones/create-approval-processes.html){target="_blank"}
@@ -180,7 +180,7 @@ Here are some suggested resources to help you prepare:
 * [Edit an automated workflow template](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/workfront-proof/proof-workflows/edit-an-automated-workflow-template.html?lang=en){target="_blank"}
 * [Convert issues to other work items](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/issues-requests/convert-issues-to-other-work-items.html?lang=en){target="_blank"}
 * [Configure global default project settings](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/configure-system-defaults/configure-global-default-project-settings.html?lang=en){target="_blank"}
-* [Defining objectives for your Adobe Workfront implementation](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/get-started-administration/define-wf-goals-objectives.html?lang=en){target="_blank"}
+* [Defining objectives for your Adobe [!DNL Workfront] implementation](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/get-started-administration/define-wf-goals-objectives.html?lang=en){target="_blank"}
 * [Best Practice - Resource Planner](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/resource-planner-bp.html?lang=en){target="_blank"}
 
 >[!TAB Get certified]
