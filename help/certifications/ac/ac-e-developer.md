@@ -12,7 +12,7 @@ Learn how to become a certified Adobe Developer expert.
 
 ## Minimum experience
 
-You should have at least 2 years of experience with Adobe [!DNL Commerce] Development and you're familiar with the following technologies and environments:
+You should have at least 1-3 years of experience with Adobe [!DNL Commerce] development and you're familiar with the following technologies and environments:
 
 * Adobe [!DNL Commerce] - version 2.4
 * PHP
@@ -215,11 +215,11 @@ Here are some suggested resources to help you prepare:
 
 **Section 4: Customizing the catalog**
 
-* [Creating a products](https://docs.magento.com/user-guide/catalog/product-create.html){target="_blank"}
+* [Create a products](https://docs.magento.com/user-guide/catalog/product-create.html){target="_blank"}
 * [Adding extension attributes to entities](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/extension_attributes/adding-attributes.html){target="_blank"}
 * [Indexing](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/indexing.html){target="_blank"}
 * [Indexer optimization](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/indexer-optimization.html){target="_blank"}
-* [Adding a custom indexer](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/indexing-custom.html){target="_blank"}
+* [Create a custom indexer](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/indexing-custom.html){target="_blank"}
 * [Manage the indexers](https://devdocs.magento.com/guides/v2.4/config-guide/cli/config-cli-subcommands-index.html){target="_blank"}
 * [Index management](https://docs.magento.com/user-guide/system/index-management.html){target="_blank"}
 * [Render prices on the frontend](https://devdocs.magento.com/guides/v2.4/ui_comp_guide/howto/price_rendering.html){target="_blank"}

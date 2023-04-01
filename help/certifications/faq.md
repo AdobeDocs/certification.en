@@ -3,7 +3,7 @@ title: FAQ
 description: Have questions about the Adobe Certification program? Go to this page to learn more.
 role: Developer
 recommendations: disable, exclude
-badge: label="FAQ" type="positive"
+badge: label="FAQs" type="positive"
 mini-toc-levels: 1
 ---
 # Adobe Certification FAQ
