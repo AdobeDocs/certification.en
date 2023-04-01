@@ -1,12 +1,12 @@
 ---
-title: Adobe Journey Optimizer Certification
-description: You have technical knowledge about audience segmentation, destination exports, and activation on real time basis for unified profiles that adhere to data and privacy regulations, customer data platforms (CDP) and knowledge of Adobe Experience Platform.
+title: Certification renewal
+description: Learn how to renew your Adobe [!DNL Journey Optimizer] certification before it expires.
 solution: Journey Optimizer
 role: Developer
 badge: label="Adobe Journey Optimizer Renewal" type="positive"
 hidefromtoc: yes
 ---
-# Renew your Adobe Journey Optimizer certification
+# Renew your Adobe [!DNL Journey Optimizer] certification
 
 When you pass a certification exam, your certification is valid for two years.
 

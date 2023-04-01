@@ -1,13 +1,13 @@
 ---
-title: Adobe Journey Optimizer Expert Certification
-description: Learn how to become a certified Adobe Journey Optimizer expert.
+title: Expert certification
+description: Learn how to become a certified Adobe [!DNL Journey Optimizer] expert.
 solution: Journey Optimizer
 role: Developer
 badge: label="Exam AD0-E603" type="positive"
 ---
-# Certification journey for Journey Optimizer Developer expert
+# Certification journey for [!DNL Journey Optimizer] Developer expert
 
-Learn how to become a certified Adobe Journey Optimizer expert.
+Learn how to become a certified Adobe [!DNL Journey Optimizer] expert.
 
 ## Minimum experience
 
@@ -106,7 +106,7 @@ Here are some suggested resources to help you prepare:
 
 **Section 1: Administration and configuration**
 
-*   [Adobe Journey Optimizer Documentation](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=en){target="_blank"}
+*   [Adobe [!DNL Journey Optimizer] Documentation](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=en){target="_blank"}
 
     * Access Control
     * Configuring Messages
@@ -119,7 +119,7 @@ Here are some suggested resources to help you prepare:
 
 **Section 2: AEP Foundation**
 
-*   [Adobe Experience Platform Documentation](https://experienceleague.adobe.com/docs/experience-platform.html?lang=en){target="_blank"} 
+*   [Adobe [!DNL Experience Platform] Documentation](https://experienceleague.adobe.com/docs/experience-platform.html?lang=en){target="_blank"} 
 
     * XDM guide
     * Real-time Customer Profile guide
@@ -130,24 +130,24 @@ Here are some suggested resources to help you prepare:
     * Segmentation Service guide
     * Schemas
 
-*   [Introduction to Adobe Experience Platform course](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1){target="_blank"} 
-*   [Getting started with Adobe Experience Platform for Data Engineers course](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-D-1-2020.2){target="_blank"} 
+*   [Introduction to Adobe [!DNL Experience Platform] course](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1){target="_blank"} 
+*   [Getting started with Adobe [!DNL Experience Platform] for Data Engineers course](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-D-1-2020.2){target="_blank"} 
 *   [Data Ingestion for Data Engineers course](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-D-1-2020.1.dataingestion){target="_blank"} 
 *   [Digital Experience Blueprints](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/overview.html?lang=en){target="_blank"} 
 
 **Section 3: Offer Decisioning**
 
-*   [Adobe Journey Optimizer Documentation](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=en){target="_blank"}
+*   [Adobe [!DNL Journey Optimizer] Documentation](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=en){target="_blank"}
 
     * Decision management
 
-*   [Adobe Journey Optimizer Videos and Tutorials](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html?lang=en){target="_blank"} 
+*   [Adobe [!DNL Journey Optimizer] Videos and Tutorials](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html?lang=en){target="_blank"} 
 
     * Create journeys
 
 **Section 4: Content Authoring**
 
-*   [Adobe Journey Optimizer Documentation](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=en){target="_blank"} 
+*   [Adobe [!DNL Journey Optimizer] Documentation](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=en){target="_blank"} 
 
     * Design content
     * Journeys
@@ -157,7 +157,7 @@ Here are some suggested resources to help you prepare:
 
 **Section 5: Journey Orchestration**
 
-* [Adobe Journey Optimizer Documentation](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=en){target="_blank"}
+* [Adobe [!DNL Journey Optimizer] Documentation](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=en){target="_blank"}
 
     * Journeys
     * Track and monitor
