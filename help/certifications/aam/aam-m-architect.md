@@ -1,14 +1,14 @@
 ---
-title: Architect Master Certification
-description: Learn how to become certified as an Adobe [!DNL Audience Manager] Architect master.
+title: Architect Master certification
+description: Learn how to become certified as an Adobe [!DNL Audience Manager] Architect Master.
 solution: Audience Manager
 role: Developer
 badge: label="Exam AD0-E454" type="positive"
 mini-toc-levels: 1
 ---
-# Certification journey for Adobe [!DNL Audience Manager] Architect master
+# Certification journey for Adobe [!DNL Audience Manager] Architect Master
 
-Learn how to become a certified [!DNL Audience Manager] Architect master.
+Learn how to become a certified [!DNL Audience Manager] Architect Master.
 
 ## Minimum experience
 
@@ -144,7 +144,7 @@ Here are some suggested resources to help you prepare:
 Adobe uses two vendors to administer proctored exams, PSI and Examity. 
 
 * **PSI** offers test center and Japanese exam options (where available) 
-* **Examity** offers a remote online option
+* **[!DNL Examity]** offers a remote online option
 
 To schedule, reschedule, or cancel your exam, select a vendor and follow the instructions provided on screen. It's that simple!
 

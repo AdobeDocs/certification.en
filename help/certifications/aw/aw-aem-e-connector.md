@@ -6,7 +6,7 @@ role: Developer
 badge: label="Exam AD0-E906" type="positive"
 mini-toc-levels: 1
 ---
-# Certification journey for Adobe [!DNL Workfront] for Experience Manager enhanced connector expert
+# Certification journey for [!DNL Workfront] for [!DNL Experience Manager] Enhanced Connector Expert
 
 Learn how to become a certified Adobe certified expert.
 
@@ -145,7 +145,7 @@ The sample questions allow you to see the type and format of items that you will
 Adobe uses two vendors to administer proctored exams, PSI and Examity. 
 
 * **PSI** offers test center and Japanese exam options (where available) 
-* **Examity** offers a remote online option
+* **[!DNL Examity]** offers a remote online option
 
 To schedule, reschedule, or cancel your exam, simply click on the vendor of choice, and follow the instructions provided on screen. It's that simple!
 

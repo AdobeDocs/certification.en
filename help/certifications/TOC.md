@@ -1,10 +1,10 @@
 ---
 user-guide-title: Certification at Adobe
 breadcrumb-title: Certification at Adobe
-user-guide-description: Learn about Experience Cloud Certification at Adobe. Find out what getting certified can do for you.
+user-guide-description: Learn about [!DNL Experience Cloud] Certification at Adobe. Find out what getting certified can do for you.
 ---
 
-# Certification {#certification}
+# Certification at Adobe {#certification}
 
 + [Certification home](overview.md)
 + [Get started](getting-started.md)
@@ -14,12 +14,12 @@ user-guide-description: Learn about Experience Cloud Certification at Adobe. Fin
 + [My profile](my-profile.md)
 + [FAQ](faq.md)
 + Technical certifications {#technical-certifications}
-  + Adobe Advertising {#aac}
+  + Adobe [!DNL Advertising] {#aac}
     + Professional {#aac-professional}
       + [Business Practitioner (Search)](/help/certifications/aac/aac-search-p-business.md)
       + [Business Practitioner (DSP)](/help/certifications/aac/aac-dsp-p-business.md)
     + [Renewal](/help/certifications/aac/aac-renew.md)
-  + Adobe Analytics {#aa}
+  + Adobe [!DNL Analytics] {#aa}
     + Professional {#aa-professional}
       + [Business Practitioner](/help/certifications/aa/aa-p-business.md)
       + [Developer](/help/certifications/aa/aa-p-developer.md)
@@ -29,10 +29,10 @@ user-guide-description: Learn about Experience Cloud Certification at Adobe. Fin
     + Master {#aa-master}
       + [Architect](/help/certifications/aa/aa-m-architect.md)
     + [Renewal](/help/certifications/aa/aa-renew.md)
-  + Adobe Customer Journey Analytics {#acja}
+  + Adobe [!DNL Customer Journey Analytics] {#acja}
     + Expert {#acja-expert}
       + [Developer](/help/certifications/acja/acja-e-developer.md)
-  + Adobe Audience Manager {#aam}
+  + Adobe [!DNL Audience Manager] {#aam}
     + Professional {#aam-professional}
       + [Business Practitioner](/help/certifications/aam/aam-p-business.md)
     + Expert {#aam-expert}
@@ -40,7 +40,7 @@ user-guide-description: Learn about Experience Cloud Certification at Adobe. Fin
     + Master {#aam-master}
       + [Architect](/help/certifications/aam/aam-m-architect.md)
     + [Renewal](/help/certifications/aam/aam-renew.md)
-  + Adobe Campaign Classic {#acc}
+  + Adobe [!DNL Campaign Classic] {#acc}
     + Professional {#acc-professional}
       + [Business Practitioner](/help/certifications/acc/acc-p-business.md)
       + [Developer](/help/certifications/acc/acc-p-developer.md)
@@ -50,12 +50,12 @@ user-guide-description: Learn about Experience Cloud Certification at Adobe. Fin
     + Master {#acc-master}
       + [Architect](/help/certifications/acc/acc-m-developer.md)
     + [Renewal](/help/certifications/acc/acc-renew.md)
-  + Adobe Campaign Standard {#acs}
+  + Adobe [!DNL Campaign Standard] {#acs}
     + Expert {#acs-expert}
       + [Business Practitioner](/help/certifications/acs/acs-e-business.md)
       + [Developer](/help/certifications/acs/acs-e-developer.md)
     + [Renewal](/help/certifications/acs/acs-renew.md)
-  + Adobe Commerce {#ac}
+  + Adobe [!DNL Commerce] {#ac}
     + Professional {#ac-professional}
       + [Business Practitioner](/help/certifications/ac/ac-p-business.md)
       + [Developer](/help/certifications/ac/ac-p-developer.md)
@@ -67,7 +67,7 @@ user-guide-description: Learn about Experience Cloud Certification at Adobe. Fin
     + Master {#ac-master}
       + [Architect](/help/certifications/ac/ac-m-architect.md)
     + [Renewal](/help/certifications/ac/ac-renew.md)
-  + Adobe Experience Manager {#aem}
+  + Adobe [!DNL Experience Manager] {#aem}
     + Professional {#aem-professional}
       + [Business Practitioner](/help/certifications/aem/aem-p-business.md)
       + [Developer (Sites)](/help/certifications/aem/aem-sites-p-developer.md)
@@ -83,11 +83,11 @@ user-guide-description: Learn about Experience Cloud Certification at Adobe. Fin
     + Master {#aem-master}
       + [Architect (Sites)](/help/certifications/aem/aem-sites-m-archtiect.md)
     + [Renewal](/help/certifications/aem/aem-renew.md)
-  + Adobe Experience Platform {#aep}
+  + Adobe [!DNL Experience Platform] {#aep}
     + Expert {#aem-expert}
       + [Technical Foundations](/help/certifications/aep/aep-e-foundations.md)
     + [Renewal](/help/certifications/aep/aep-renew.md)
-  + Adobe Marketo Engage {#ame}
+  + Adobe [!DNL Marketo Engage] {#ame}
     + Professional {#ame-professional}
       + [Certified Professional](/help/certifications/ame/ame-p.md)
     + Expert {#ame-expert}
@@ -95,7 +95,7 @@ user-guide-description: Learn about Experience Cloud Certification at Adobe. Fin
     + Master {#ame-master}
       + [Architect](/help/certifications/ame/ame-m-architect.md)
     + [Renewal](/help/certifications/ame/ame-renew.md)
-  + Adobe Doc Cloud {#adc}
+  + Adobe [!DNL Doc Cloud] {#adc}
     + Professional {#adc-professional}
       + [Business Practitioner](/help/certifications/adc/adc-professional.md)
     + [Renewal](/help/certifications/adc/adc-renew.md)
@@ -105,11 +105,11 @@ user-guide-description: Learn about Experience Cloud Certification at Adobe. Fin
     + Expert {#rtcdp-expert}
       + [Technical Practitioner](/help/certifications/rtcdp/rtcdp-e-technical.md)
     + [Renewal](/help/certifications/rtcdp/rtcdp-renew.md)
-  + Adobe Journey Optimizer {#ajo}
+  + Adobe [!DNL Journey Optimizer] {#ajo}
     + Expert {#ajo-expert}
       + [Developer](/help/certifications/ajo/ajo-e-developer.md)
     + [Renewal](/help/certifications/ajo/ajo-renew.md)
-  + Adobe Target {#at}
+  + Adobe [!DNL Target] {#at}
     + Professional {#at-professional}
       + [Business Practitioner](/help/certifications/at/at-p-business.md)
     + Expert {#at-expert}
@@ -117,7 +117,7 @@ user-guide-description: Learn about Experience Cloud Certification at Adobe. Fin
     + Master {#at-master}
       + [Architect](/help/certifications/at/at-m-architect.md)
     + [Renewal](/help/certifications/at/at-renew.md)
-  + Adobe Workfront {#aw}
+  + Adobe [!DNL Workfront] {#aw}
     + Professional {#aw-professional}
       + [Developer (Fusion)](/help/certifications/aw/aw-fusion-p-developer.md)
       + [Project Manager](/help/certifications/aw/aw-p-project-manager.md)

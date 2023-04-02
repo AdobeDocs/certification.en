@@ -1,6 +1,7 @@
 ---
-title: Get Started
-description: Get started with technical certifications. Learn about the program and how to navigate through our site pages.
+title: Get Started with Adobe certifications
+description: Get started with [!DNL Experience Cloud] certifications. Learn about the program and how to navigate through our site pages.
+solution: Experience Cloud
 badge: label="Get started" type="positive"
 mini-toc-levels: 1
 ---
@@ -9,7 +10,7 @@ mini-toc-levels: 1
 
 Adobe's certifications are designed to validate the skills and knowledge of professionals working with our digital marketing solutions. 
 
-Get started with technical certifications. Learn about the program, and how to navigate through our site pages.
+Get started with technical certifications. Learn about the program and how to navigate through our site pages.
 
 >[!BEGINTABS]
 
@@ -19,29 +20,29 @@ Learn the difference between the types of exams you will encounter on your certi
 
 | Type | Description |
 | ------- | ------- |
-| Certification exam | Certification is a credential that recognizes an individual's skill and competency in an Adobe application. A candidate who passes the Certification exam becomes an Adobe Certified Professional, Expert, or Master for the product and job role on which the exam is based.  |
-| Renewal exam | Adobe certifications expire after two years. By taking and passing a Renewal exam, your certification credential is extended for another two years. |
-| Course assessment | For certain solutions, Adobe offers an alternative to passing Renewal exams for maintaining your certification credential. Candidates will be offered (typically) 5 to 7 on-demand courses to review. Each course has a short assessment associated with that course, called a course assessment. The criterion to renew certification will be to pass any 3 assessments based on the courses OR pass 2 assessments and submit a signed customer reference form. |
-| Practice test | A Practice test is a complete version of a certification exam that is based on the same content (exam objectives) as the certification exam. Although they are not the same questions you will answer on the certification exam, the practice questions are written at the same time as the certification exam. While passing a practice exam cannot guarantee that you will pass the certification exam, it does provide an outstanding indicator of your readiness to take the exam  |
-| Sample questions | For some Certification exams, Adobe does not yet have full length Practice tests. For these exams, a representative set of sample questions is provided.  |
-| Readiness questionnaire | A Readiness Questionnaire is another tool you can use to assess your readiness to take your certification exam. The Readiness Questionnaire comprises affirming statements based on the exam objectives–by answering 'Yes' or 'No' to each statement, you can determine your readiness with respect to the major content areas covered on the exam. | 
+| Certification exam | Certification is a credential that recognizes an individual's skill and competency in an Adobe application. A candidate who passes the certification exam becomes an Adobe Certified Professional, Expert, or Master for the product and job role on which the exam is based.  |
+| Renewal exam | Adobe certifications expire after two years. By taking and passing a renewal Exam, your certification credential is extended for another two years. |
+| Course assessment | For certain solutions, Adobe offers an alternative to passing renewal exams for maintaining your certification credential. Candidates will be offered (typically) 5 to 7 on-demand courses to review. Each course has a short assessment associated with that course, called a _course assessment_. The criterion to renew certification is to pass any three assessments based on the courses OR pass two assessments and submit a signed customer reference form. |
+| Practice test | A practice test is a complete version of a certification exam that is based on the same content (exam objectives) as the certification exam. Although they are not the same questions you answer on the certification exam, the practice questions are written at the same time as the certification exam. While passing a practice test cannot guarantee that you will pass the certification exam, it does provide an outstanding indicator of your readiness to take the exam  |
+| Sample questions | For some certification exams, Adobe does not yet have full length practice tests. For these exams, a representative set of sample questions is provided.  |
+| Readiness questionnaire | A readiness questionnaire is another tool you can use to assess your readiness to take your certification exam. The readiness questionnaire comprises affirming statements based on the exam objectives--by answering "Yes" or "No" to each statement, you can determine your readiness with respect to the major content areas covered on the exam. | 
 
 
 >[!TAB Certification levels]
 
-Adobe Experience Cloud offers three different levels of certification: Professional, Expert, and Master. These certifications are designed to validate the skills and knowledge of professionals working with Adobe's digital marketing solutions.
+Adobe [!DNL Experience Cloud] offers three different levels of certification: Professional, Expert, and Master. These certifications are designed to validate the skills and knowledge of professionals working with Adobe's digital marketing solutions.
 
 These levels reflect a progression of proficiency and knowledge, with the Professional certification being the entry-level certification, Expert being the intermediate level, and Master being the highest level of certification.
 
-| ![Professional Badge](/help/certifications/assets/professional-badge-Xsmall.png)  | **Professional certifications** validate that a candidate has a foundational understanding of Adobe's digital marketing solutions. The certification exam covers basic concepts and functionalities of Adobe Experience Cloud. |
+| ![Professional Badge](/help/certifications/assets/professional-badge-Xsmall.png)  | **Professional certifications** validate that a candidate has a foundational understanding of Adobe's digital marketing solutions. The certification exam covers basic concepts and functionalities of Adobe [!DNL Experience Cloud]. |
 | --------- | ------- |
 
 
-| ![Expert Badge](/help/certifications/assets/expert-badge-Xsmall.png) | **Expert certifications** are for professionals who have a more advanced understanding of Adobe's digital marketing solutions. The certification exam covers more complex concepts and functionalities of Adobe Experience Cloud, including implementation and troubleshooting. |
+| ![Expert Badge](/help/certifications/assets/expert-badge-Xsmall.png) | **Expert certifications** are for professionals who have a more advanced understanding of Adobe's digital marketing solutions. The certification exam covers more complex concepts and functionalities of Adobe [!DNL Experience Cloud], including implementation and troubleshooting. |
 | ------- | ------- |
 
 
-| ![Master Badge](/help/certifications/assets/master-badge-Xsmall.png) | **Master certifications** are for professionals who have an in-depth understanding of Adobe's digital marketing solutions and have demonstrated expertise in multiple areas of Adobe Experience Cloud. The certification exam covers advanced topics and scenarios, including complex integrations, customizations, and troubleshooting.|
+| ![Master Badge](/help/certifications/assets/master-badge-Xsmall.png) | **Master certifications** are for professionals who have an in-depth understanding of Adobe's digital marketing solutions and have demonstrated expertise in multiple areas of Adobe [!DNL Experience Cloud]. The certification exam covers advanced topics and scenarios, including complex integrations, customizations, and troubleshooting.|
 | ------- | ------- |
 
 
@@ -49,18 +50,18 @@ These levels reflect a progression of proficiency and knowledge, with the Profes
 
 Adobe certification exams are customized to three different job roles. Read the information below to find the right certification for your career path.
 
-| ![Business Practitioner Badge](/help/certifications/assets/business_practitioner_blk_small.png) | **Business Practitioners** are responsible for designing, executing, and managing marketing campaigns using Adobe Experience Cloud solutions. They should have a foundational understanding of Adobe's digital marketing solutions, as well as experience in marketing and advertising. The Business Practitioner certification validates their ability to effectively use Adobe's digital marketing solutions to achieve business objectives. |
+| ![Business Practitioner Badge](/help/certifications/assets/business_practitioner_blk_small.png) | **Business Practitioners** are responsible for designing, executing, and managing marketing campaigns using Adobe [!DNL Experience Cloud] solutions. They should have a foundational understanding of Adobe's digital marketing solutions, as well as experience in marketing and advertising. The Business Practitioner certification validates their ability to effectively use Adobe's digital marketing solutions to achieve business objectives. |
 | ------- | ------- |
 
-| ![Developer Badge](/help/certifications/assets/developer_blk_small.png) | **Developers** are responsible for implementing and integrating Adobe Experience Cloud solutions into an organization's technology stack. They should have experience in software development and proficiency in web technologies, such as HTML, CSS, JavaScript, and RESTful APIs. The Developer certification validates their ability to effectively implement and customize Adobe's digital marketing solutions to meet business requirements. |
+| ![Developer Badge](/help/certifications/assets/developer_blk_small.png) | **Developers** are responsible for implementing and integrating Adobe [!DNL Experience Cloud] solutions into an organization's technology stack. They should have experience in software development and proficiency in web technologies, such as HTML, CSS, JavaScript, and RESTful APIs. The Developer certification validates their ability to effectively implement and customize Adobe's digital marketing solutions to meet business requirements. |
 | ------- | ------- |
 
-| ![Architect Badge](/help/certifications/assets/architect_blk_small.png) | **Architects** are responsible for designing and implementing enterprise-grade solutions using Adobe Experience Cloud solutions. They should have extensive knowledge of Adobe's digital marketing solutions and experience in software architecture, integration, and customization. The Architect certification validates their ability to design and implement complex solutions using Adobe's digital marketing solutions. |
+| ![Architect Badge](/help/certifications/assets/architect_blk_small.png) | **Architects** are responsible for designing and implementing enterprise-grade solutions using Adobe [!DNL Experience Cloud] solutions. They should have extensive knowledge of Adobe's digital marketing solutions and experience in software architecture, integration, and customization. The Architect certification validates their ability to design and implement complex solutions using Adobe's digital marketing solutions. |
 | ------- | ------- |
 
 >[!TAB Get ready]
 
-On the "Get ready" tab of each certification journey page, you will find the following information:
+On the **[!UICONTROL Get ready]** tab of each certification journey page, you find the following information:
 
 ![Ready Badge](/help/certifications/assets/get_ready.png)
 
@@ -70,7 +71,7 @@ On the "Get ready" tab of each certification journey page, you will find the fol
 
 >[!TAB Get prepped]
 
-On the "Get prepped" tab of each certification journey page, you will find any preparation material recommended for that certification.
+On the **[!UICONTROL Get prepped]** tab of each certification journey page, you will find any preparation material recommended for that certification.
 
 ![Prepped Badge](/help/certifications/assets/get_prepped_true.png)
 
@@ -81,7 +82,7 @@ On the "Get prepped" tab of each certification journey page, you will find any p
 
 >[!TAB Get certified]
 
-On the "Get certified" tab of each certification journey page, you will find a link to the Adobe Certification Prep Portal **for those exams that have practice tests**, and the link to register for your certification exam. 
+On the **[!UICONTROL Get certified]** tab of each certification journey page, you will find a link to the Adobe Certification Prep Portal **for those exams that have practice tests**, and the link to register for your certification exam. 
 
 You can pay for your certification exam by voucher or credit card. To purchase an exam voucher go to: [Adobe Certification Voucher Center](https://market.xvoucher.com/adobe/global){target="_blank"}.
 
@@ -89,7 +90,7 @@ You can pay for your certification exam by voucher or credit card. To purchase a
 
 >[!IMPORTANT]
 >
->Please note, the links on this page will not be directly accessibly until you have logged into the [Adobe Credential Management System](https://www.certmetrics.com/adobe/candidate/requirements.aspx){target="_blank"}.
+>Please note, the links on this page are not directly accessibly until you sign in to the [Adobe Credential Management System](https://www.certmetrics.com/adobe/candidate/requirements.aspx){target="_blank"}.
 
 
 >[!ENDTABS]

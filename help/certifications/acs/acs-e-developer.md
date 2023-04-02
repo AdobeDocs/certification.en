@@ -1,20 +1,20 @@
 ---
-title: Developer Expert Certification 
+title: Developer Expert certification 
 description: Learn how to become a certified Adobe Developer expert Adobe [!DNL Campaign Standard].
 solution: Campaign Standard
 role: Developer
 badge: label="Exam AD0-E306" type="positive"
 mini-toc-levels: 1
 ---
-# Certification journey for Adobe [!DNL Campaign Standard] Developer expert
+# Certification journey for Adobe [!DNL Campaign Standard] Developer Expert
 
-Learn how to become a certified Adobe Developer expert.
+Learn how to become a certified Adobe Developer Expert.
 
 ## Minimum experience
 
 You should have:
 
-* At least two years of Campaign software experience
+* At least two years of [!DNL Campaign] software experience
 * At least two years of relevant experience in multi-channel digital marketing campaigns and web development (e.g. REST API)
 * The ability to perform tasks in Adobe Campaign including template development, technical workflows, schema development, and integrations, and be able to monitor the instance using control panel
 * Experience working in a channel delivery environment (email, direct mail, mobile, and social)

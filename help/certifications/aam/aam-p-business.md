@@ -1,14 +1,14 @@
 ---
-title: Business Practitioner Professional Certification
-description: Learn how to become certified as an Adobe [!DNL Audience Manager] Business Practitioner professional.
+title: Business Practitioner Professional certification
+description: Learn how to become certified as an Adobe [!DNL Audience Manager] Business Practitioner Professional.
 solution: Audience Manager
 role: Developer
 badge: label="Exam AD0-E458" type="positive"
 mini-toc-levels: 1
 ---
-# Certification journey for Adobe [!DNL Audience Manager] Business Practitioner professional
+# Certification journey for Adobe [!DNL Audience Manager] Business Practitioner Professional
 
-Learn how to become certified as an [!DNL Audience Manager] Business Practitioner professional.
+Learn how to become certified as an [!DNL Audience Manager] Business Practitioner Professional.
 
 ## Minimum experience
 
@@ -150,7 +150,7 @@ The sample questions allow you to see the type and format of items that you will
 Adobe uses two vendors to administer proctored exams, PSI and Examity. 
 
 * **PSI** offers test center and Japanese exam options (where available) 
-* **Examity** offers a remote online option
+* **[!DNL Examity]** offers a remote online option
 
 To schedule, reschedule, or cancel your exam, simply click on the vendor of choice, and follow the instructions provided on screen. It's that simple!
 

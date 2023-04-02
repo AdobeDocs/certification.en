@@ -7,7 +7,7 @@ badge: label="Adobe Doc Cloud coming May 2023" type="positive"
 mini-toc-levels: 1
 hidefromtoc: yes
 ---
-# Certification Journey for Adobe Doc Cloud professional
+# Certification Journey for Adobe Doc Cloud Professional
 
 Learn how to become a certified Adobe Doc Cloud Professional.
 

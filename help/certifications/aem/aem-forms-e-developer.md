@@ -6,9 +6,9 @@ role: Developer
 badge: label="Exam AD0-E125" type="positive"
 mini-toc-levels: 1
 ---
-# Certification journey for [!DNL Experience Manager Forms] Developer expert
+# Certification journey for [!DNL Experience Manager Forms] Developer Expert
 
-Learn how to become a certified [!DNL Experience Manager Forms] Developer expert.
+Learn how to become a certified [!DNL Experience Manager Forms] Developer Expert.
 
 ## Minimum experience
 
@@ -172,7 +172,7 @@ Go to the [Adobe Certification Exam Prep Portal](https://www.certmetrics.com/ado
 Adobe uses two vendors to administer proctored exams, PSI and Examity. 
 
 * **PSI** offers test center and Japanese exam options (where available) 
-* **Examity** offers a remote online option
+* **[!DNL Examity]** offers a remote online option
 
 To schedule, reschedule, or cancel your exam, simply click on the vendor of choice, and follow the instructions provided on screen. It's that simple!
 

@@ -1,14 +1,14 @@
 ---
-title: Architect Master Certification
+title: Architect Master certification
 description: Learn how to become a certified Adobe Architect master in Adobe [!DNL Commerce].
 solution: Commerce
 role: Developer
 badge: label="Exam AD0-E718" type="positive"
 mini-toc-levels: 1
 ---
-# Certification journey for Adobe [!DNL Commerce] Architect master
+# Certification journey for Adobe [!DNL Commerce] Architect Master
 
-Learn how to become a certified Adobe Architect master.
+Learn how to become a certified Adobe Architect Master.
 
 ## Minimum experience
 
@@ -169,7 +169,7 @@ The sample questions allow you to see the type and format of items that you will
 Adobe uses two vendors to administer proctored exams, PSI and [!DNL Examity]. 
 
 * **PSI** offers test center and Japanese exam options (where available) 
-* **Examity** offers a remote online option
+* **[!DNL Examity]** offers a remote online option
 
 To schedule, reschedule, or cancel your exam, simply click on the vendor of choice, and follow the instructions provided on screen. It's that simple!
 

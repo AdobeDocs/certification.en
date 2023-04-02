@@ -1,5 +1,5 @@
 ---
-title: Getting certified at Adobe.
+title: Get certified at Adobe
 description: Learn how to get certified at Adobe. Find all the resources you need before, during and after you become certified.
 recommendations: disable, exclude
 badge: label="Get certified" type="positive"
@@ -13,15 +13,15 @@ Learn how to get certified at Adobe. Find all the resources you need before, dur
 
 >[!TAB Registration]
 
-Adobe uses two vendors to administer proctored exams, PSI and Examity. 
+Adobe uses two vendors to administer proctored exams, [!DNL PSI] and [!DNL Examity]. 
 
-* **PSI:** offers test center and Japanese exam options (where available) 
-* **Examity:** offers a remote online option
+* **[!DNL PSI]:** offers test center and Japanese exam options (where available) 
+* **[!DNL Examity]:** offers a remote online option
 
 **Follow these steps to register for your certification exam:**
 
 * **Step 1:** Successfully login to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}.
-* **Step 2:** Go to the "Get certified" tab on the Certification Journey page of the exam you would like register for. To schedule, reschedule, or cancel your exam, simply click on the vendor of choice, and follow the instructions provided on screen.
+* **Step 2:** Go to the **[!UICONTROL Get certified]** tab on the [!UICONTROL Certification Journey] page of the exam you would like register for. To schedule, reschedule, or cancel your exam, select a vendor, then follow the instructions provided on screen.
 
 ![Vendor Badge](/help/certifications/assets/PSI_Examity.png)
 
@@ -34,7 +34,7 @@ These are the current costs for certification exams.
 
 You can pay for your certification exam by voucher or credit card. To purchase an exam voucher go to: [Adobe Certification Voucher Center](https://market.xvoucher.com/adobe/global){target="_blank"}. 
 
-You can apply the voucher code when you schedule your exam. If you have a discount, it will apply at checkout.
+You can apply the voucher code when you schedule your exam. If you have a discount, it is applied at checkout.
 
 >[!TAB Taking your exam]
 
@@ -46,32 +46,32 @@ You can apply the voucher code when you schedule your exam. If you have a discou
 
 >[!TAB Manage your badges]
 
-Once you earn a credential you can download your digital badge. You can use your badge on social profiles and verify your achievement to your employer and customers that you are skilled in this application.
+Once you earn a credential, you can download your digital badge. You can use your badge on social profiles and verify your achievement to your employer and customers that you are skilled in this application.
 
 How to manage your badge:
 
 **Step 1: Sign in or create an account**
 
-* Go to [Credly](https://www.credly.com/users/sign_in){target="_blank"}
+* Go to [[!DNL Credly]](https://www.credly.com/users/sign_in){target="_blank"}
 
 ![Credly Badge](/help/certifications/assets/credly_signin.png)
 
 **Step 2: Choose your badge**
 
-* The most recent badge you earned will appear on your dashboard. (To view other badges, select the Badges tab)
+* The most recent badge you earned appears on your dashboard. (To view other badges, select the **[!UICONTROL Badges]** tab)
 
 ![Credly Badge](/help/certifications/assets/credly_badges.png)
 
 **Step 3 - Share your badge**
 
-* After you've selected the correct badge, select share to continue. 
+* After you've selected the correct badge, select **[!UICONTROL Share]** to continue. 
 
 ![Credly Badge](/help/certifications/assets/credly_share.png)
 
 **Connect to Your Social Media Account**
 
-* After you select share, you will be taken to a page where you can choose which social media account you would like to use
-* Click Connect to sign into your social media account. Click Remove to stop sharing on that social media platform.
+* After you select share, you are taken to a page where you can choose which social media account you want to use.
+* Click **[!UICONTROL Connect]** to sign in to your social media account. Click **[!UICONTROL Remove]** to stop sharing on that social media platform.
 * Confirm before sharing. 
 
 ![Credly Badge](/help/certifications/assets/credly_share_2.png)

@@ -6,13 +6,13 @@ role: Developer
 badge: label="Exam AD0-E129" type="positive"
 mini-toc-levels: 1
 ---
-# Certification journey for [!DNL Experience Manager] Assets Developer professional
+# Certification journey for [!DNL Experience Manager] Assets Developer Professional
 
-Learn how to become a certified [!DNL Experience Manager] professional.
+Learn how to become a certified [!DNL Experience Manager] Professional.
 
 ## Minimum experience
 
-You should be comfortable working in Adobe Managed Services and Adobe [!DNL Experience Manager] as a Cloud Service, and are able to set up Adobe [!DNL Experience Manager] environments and infrastructure. 
+You should be comfortable working in Adobe Managed Services and Adobe [!DNL Experience Manager as a Cloud Service], and are able to set up Adobe [!DNL Experience Manager] environments and infrastructure. 
 
 You should have:
 
@@ -160,7 +160,7 @@ The sample questions allow you to see the type and format of items that you will
 Adobe uses two vendors to administer proctored exams, PSI and Examity. 
 
 * **PSI** offers test center and Japanese exam options (where available) 
-* **Examity** offers a remote online option
+* **[!DNL Examity]** offers a remote online option
 
 To schedule, reschedule, or cancel your exam, simply click on the vendor of choice, and follow the instructions provided on screen. It's that simple!
 

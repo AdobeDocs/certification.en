@@ -1,13 +1,13 @@
 ---
 title: Expert certification
-description: Learn how to become a certified Adobe [!DNL Journey Optimizer] expert.
+description: Learn how to become a certified Adobe [!DNL Journey Optimizer] Expert.
 solution: Journey Optimizer
 role: Developer
 badge: label="Exam AD0-E603" type="positive"
 ---
-# Certification journey for [!DNL Journey Optimizer] Developer expert
+# Certification journey for [!DNL Journey Optimizer] Developer Expert
 
-Learn how to become a certified Adobe [!DNL Journey Optimizer] expert.
+Learn how to become a certified Adobe [!DNL Journey Optimizer] Expert.
 
 ## Minimum experience
 
@@ -188,7 +188,7 @@ Go to the [Adobe Certification Exam Prep Portal](https://www.certmetrics.com/ado
 Adobe uses two vendors to administer proctored exams, PSI and Examity. 
 
 * **PSI** offers test center and Japanese exam options (where available) 
-* **Examity** offers a remote online option
+* **[!DNL Examity]** offers a remote online option
 
 To schedule, reschedule, or cancel your exam, simply click on the vendor of choice, and follow the instructions provided on screen. It's that simple!
 

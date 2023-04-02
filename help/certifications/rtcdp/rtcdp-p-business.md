@@ -1,15 +1,15 @@
 ---
-title: Adobe Real-Time Customer Data Platform Professional Certification
-description: Learn how to become a certified Adobe Experience Platform professional.
+title: Professional certification
+description: Learn how to become a certified [!DNL Experience Platform] Professional in [!DNL Real-Time Customer Data Platform] 
 solution: Real-time Customer Data Platform
 role: Developer
 recommendations: disable, exclude
 badge: label="Exam AD0-E602" type="positive"
 mini-toc-levels: 1
 ---
-# Certification journey for Adobe Real-Time CDP Business Practitioner professional
+# Certification journey for Adobe [!DNL Real-Time CDP] Business Practitioner Professional
 
-Learn how to become a certified Adobe Experience Platform professional.
+Learn how to become a certified Adobe [!DNL Experience Platform] professional.
 
 ## Minimum experience
 
@@ -86,7 +86,7 @@ Section 3: Business analysis (30%)
 
 Section 4: Schemas and profiles (18%)
 
-* Demonstrate an understanding of Adobe Experience Platform concepts
+* Demonstrate an understanding of Adobe [!DNL Experience Platform] concepts
 * Use profile features
 
 >[!TAB Get prepped]
@@ -120,7 +120,7 @@ The sample questions allow you to see the type and format of items that you will
 **Section 3: Business analysis**
 
 * [Data Ingestion overview](https://experienceleague.adobe.com/docs/experience-platform/ingestion/home.html?lang=en){target="_blank"}
-* [Monitor data flows in Adobe Experience Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/monitoring/data-monitoring.html?lang=en){target="_blank"}
+* [Monitor data flows in Adobe [!DNL Experience Platform]](https://experienceleague.adobe.com/docs/platform-learn/tutorials/monitoring/data-monitoring.html?lang=en){target="_blank"}
 * [Privacy Service and Experience Cloud applications](https://experienceleague.adobe.com/docs/experience-platform/privacy/experience-cloud-apps.html?lang=en){target="_blank"}
 * [Policy enforcement overview](https://experienceleague.adobe.com/docs/experience-platform/data-governance/enforcement/overview.html?lang=en){target="_blank"}
 
@@ -153,7 +153,7 @@ Go to the [Adobe Certification Exam Prep Portal](https://www.certmetrics.com/ado
 Adobe uses two vendors to administer proctored exams, PSI and Examity. 
 
 * **PSI** offers test center and Japanese exam options (where available) 
-* **Examity** offers a remote online option
+* **[!DNL Examity]** offers a remote online option
 
 To schedule, reschedule, or cancel your exam, simply click on the vendor of choice, and follow the instructions provided on screen. It's that simple!
 

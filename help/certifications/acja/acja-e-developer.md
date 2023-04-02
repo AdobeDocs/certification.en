@@ -1,5 +1,5 @@
 ---
-title: Expert Certification
+title: Expert certification
 description: Learn how to become a certified expert Adobe in [!DNL Customer Journey Analytics]
 role: Developer
 solution: Customer Journey Analytics
@@ -8,7 +8,7 @@ mini-toc-levels: 1
 hidefromtoc: yes
 ---
 
-# Certification journey for Adobe [!DNL Customer Journey Analytics] expert
+# Certification journey for Adobe [!DNL Customer Journey Analytics] Expert
 
 Learn how to become a certified Adobe 
 
@@ -101,7 +101,7 @@ Go to the [Adobe Certification Exam Prep Portal](https://www.certmetrics.com/ado
 Adobe uses two vendors to administer proctored exams, PSI and Examity. 
 
 * **PSI** offers test center and Japanese exam options (where available) 
-* **Examity** offers a remote online option
+* **[!DNL Examity]** offers a remote online option
 
 To schedule, reschedule, or cancel your exam, simply click on the vendor of choice, and follow the instructions provided on screen. It's that simple!
 

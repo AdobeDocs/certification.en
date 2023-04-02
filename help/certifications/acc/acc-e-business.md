@@ -1,20 +1,20 @@
 ---
-title: Adobe Campaign Classic Business Practitioner Expert Certification
-description: Learn how to become a certified Adobe Business Practitioner expert.
+title: Business Practitioner Expert certification
+description: Learn how to become a certified Adobe Business Practitioner Expert with [!DNL Campaign Classic].
 solution: Campaign Classic
 role: Developer
 badge: label="Exam AD0-E327" type="positive"
 mini-toc-levels: 1
 ---
-# Certification journey for Adobe Campaign Classic Business Practitioner expert
+# Certification journey for Adobe [!DNL Campaign Classic] Business Practitioner Expert
 
-Learn how to become a certified Adobe Business Practitioner expert.
+Learn how to become a certified Adobe Business Practitioner Expert.
 
 ## Minimum experience
 
 You should have:
 
-* At least 2 years of extensive Campaign Classic software experience
+* At least 2 years of extensive [!DNL Campaign Classic] software experience
 * Multi-year experience developing marketing campaigns and tactics using digital omnichannel
 * Experience interpreting/translating business requirements to actionable Campaign deliverables
 * Experience with marketing metrics such as ROI, click-through rates, and conversion
@@ -110,11 +110,11 @@ Here are some suggested resources to help you prepare:
 
 **Section 1: Campaign management**
 
-* [Campaign Classic v7 Documentation](https://experienceleague.adobe.com/docs/campaign-classic/using/campaign-classic-home.html?lang=en){target="_blank"}
+* [[!DNL Campaign Classic] v7 Documentation](https://experienceleague.adobe.com/docs/campaign-classic/using/campaign-classic-home.html?lang=en){target="_blank"}
 * [Get started with marketing campaigns](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/orchestrate-campaigns/setting-up-marketing-campaigns.html?lang=en){target="_blank"}
 * [About seed addresses](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/using-seed-addresses/about-seed-addresses.html?lang=en)
 * [Get started with marketing campaigns](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/orchestrate-campaigns/setting-up-marketing-campaigns.html?lang=en)
-* [Adobe Campaign Classic V7 tutorials](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=en)
+* [Adobe [!DNL Campaign Classic] V7 tutorials](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=en)
 * [Use a custom recipient table](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/use-a-custom-recipient-table/about-custom-recipient-table.html?lang=en){target="_blank"}
 
 **Section 2: Workflow management**
@@ -178,7 +178,7 @@ Go to the [Adobe Certification Exam Prep Portal](https://www.certmetrics.com/ado
 Adobe uses two vendors to administer proctored exams, PSI and Examity. 
 
 * **PSI** offers test center and Japanese exam options (where available) 
-* **Examity** offers a remote online option
+* **[!DNL Examity]** offers a remote online option
 
 To schedule, reschedule, or cancel your exam, simply click on the vendor of choice, and follow the instructions provided on screen. It's that simple!
 

@@ -1,5 +1,5 @@
 ---
-title: Technical Foundations Professional Certification 
+title: Technical Foundations Professional certification 
 description: Learn how to become a certified Adobe [!DNL Experience Manager] Professional.
 solution: Experience Manager
 role: Developer
@@ -8,7 +8,7 @@ mini-toc-levels: 1
 ---
 # Certification journey for Adobe [!DNL Experience Manager] Technical Foundations Professional
 
-Learn how to become a certified Adobe [!DNL Experience Manager] professional.
+Learn how to become a certified Adobe [!DNL Experience Manager] Professional.
 
 ## Minimum experience
 
@@ -139,7 +139,7 @@ Here are some suggested resources to help you prepare:
 Adobe uses two vendors to administer proctored exams, PSI and Examity. 
 
 * **PSI** offers test center and Japanese exam options (where available) 
-* **Examity** offers a remote online option
+* **[!DNL Examity]** offers a remote online option
 
 To schedule, reschedule, or cancel your exam, simply click on the vendor of choice, and follow the instructions provided on screen. It's that simple!
 

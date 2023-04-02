@@ -14,7 +14,7 @@ Learn how to become a certified Adobe Business Practitioner expert.
 
 You should be an application developer and have:
 
-* 0-12 months of experience working with the AEM Platform
+* 0-12 months of experience working with the AEM [!DNL Platform]
 * The ability to perform component development
 * A basic understanding of the MVC framework, life cycle frameworks and libraries in AEM
 
@@ -136,7 +136,7 @@ The sample questions allow you to see the type and format of items that you will
 Adobe uses two vendors to administer proctored exams, PSI and Examity. 
 
 * **PSI** offers test center and Japanese exam options (where available) 
-* **Examity** offers a remote online option
+* **[!DNL Examity]** offers a remote online option
 
 To schedule, reschedule, or cancel your exam, simply click on the vendor of choice, and follow the instructions provided on screen. It's that simple!
 
