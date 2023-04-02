@@ -1,16 +1,16 @@
 ---
-title: Adobe Analytics Architect Master Certification
-description: Learn how to become certified as an Adobe Audience Manager Architect master.
-solution: Analytics
+title: Architect Master certification
+description: Learn how to become certified as an Adobe [!DNL Audience Manager] Architect Master.
+solution: Audience Manager
 role: Developer
 badge: label="Exam AD0-E454" type="positive"
 mini-toc-levels: 1
 ---
-# Certification journey for Adobe Audience Manager Architect master
+# Certification journey for Adobe [!DNL Audience Manager] Architect Master
 
-Learn how to become a certified Audience Manager Architect master.
+Learn how to become a certified [!DNL Audience Manager] Architect Master.
 
-## Minimum experience:
+## Minimum experience
 
 You should have at least 3 years of experience with data collection methods, data management platforms, and digital marketing technology stacks across Adobe and non-Adobe marketing platforms. You understand clients' unique technical and business requirements and develop customized solutions.
 
@@ -18,15 +18,15 @@ Additionally, you should be able to complete the following tasks:
 
 * Analyze business requirements to understand existing data and the additional data that is required
 * Design and develop specific implementations to meet customer requirements
-* Implement Adobe Audience Manager using different methodologies
+* Implement Adobe [!DNL Audience Manager] using different methodologies
 * Create segments
 * Activate audience segments across different Adobe and non-Adobe cloud solutions
-* Generate and analyze different reports within Audience Manager
+* Generate and analyze different reports within [!DNL Audience Manager]
 * Understand data collection strategies
 
 >[!NOTE]
 >
->Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
+>Your certification is valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
 
 >[!BEGINTABS]
 
@@ -34,7 +34,7 @@ Additionally, you should be able to complete the following tasks:
 
 **Intended audience:**
 
-* Audience Manager Consultant
+* [!DNL Audience Manager] Consultant
 * Multi-solution Architect
 * Adobe Practice Lead
 * Enterprise Architect
@@ -81,7 +81,7 @@ Section 2: Solution design and recommendations (18%)
 
 Section 3: Segmentation and activation (30%)
 
-* Apply procedural concepts to create destinations in Audience Manager
+* Apply procedural concepts to create destinations in [!DNL Audience Manager]
 * Identify signals to create Rule-Based, Onboarded, and Algorithmic Traits
 * Apply procedural concepts to create segments using frequency/recency
 * Determine how to create segments using profile merge rules
@@ -90,7 +90,7 @@ Section 3: Segmentation and activation (30%)
 
 Section 4: Privacy and data governance (8%)
 
-* Recommend Audience Manager capabilities as it relates to governance, privacy, and security
+* Recommend [!DNL Audience Manager] capabilities as it relates to governance, privacy, and security
 * Identify customer data policies that are in line with government regulations
 
 Section 5: Performance and reporting (18%)
@@ -105,25 +105,25 @@ Here are some suggested resources to help you prepare:
 
 **Section 1: Implementation Analysis**
 
-* [Audience Manager Guide](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html?lang=en){target="_blank"}
+* [[!DNL Audience Manager] Guide](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html?lang=en){target="_blank"}
 * [Analytics Integration](https://experienceleague.adobe.com/docs/analytics/integration/home.html?lang=en){target="_blank"}
 * [Adobe Experience Cloud Identity Service](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=en){target="_blank"}
 
 **Section 2: Solution Design and Recommendations**
 
-* [Audience Manager Guide](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html?lang=en){target="_blank"}
-* [Audience Manager tutorials](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/overview.html?lang=en){target="_blank"}
+* [[!DNL Audience Manager] Guide](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html?lang=en){target="_blank"}
+* [[!DNL Audience Manager] tutorials](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/overview.html?lang=en){target="_blank"}
 
 **Section 3: Segmentation and Activation**
 
-* [Audience Manager Guide](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html?lang=en){target="_blank"}
-* [Adobe Audience Manager](https://experienceleaguecommunities.adobe.com/t5/adobe-audience-manager/ct-p/adobe-audience-manager-community){target="_blank"}
-* [Audience Manager tutorials](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/overview.html?lang=en){target="_blank"}
+* [[!DNL Audience Manager] Guide](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html?lang=en){target="_blank"}
+* [Adobe [!DNL Audience Manager]](https://experienceleaguecommunities.adobe.com/t5/adobe-audience-manager/ct-p/adobe-audience-manager-community){target="_blank"}
+* [[!DNL Audience Manager] tutorials](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/overview.html?lang=en){target="_blank"}
 
 **Section 4: Privacy and Data Governance**
 
-* [Audience Manager Guide](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html?lang=en){target="_blank"}
-* [Audience Manager REST API](https://bank.demdex.com/portal/swagger/index.html#/Segments%20API){target="_blank"}
+* [[!DNL Audience Manager] Guide](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html?lang=en){target="_blank"}
+* [[!DNL Audience Manager] REST API](https://bank.demdex.com/portal/swagger/index.html#/Segments%20API){target="_blank"}
 * [Analytics Admin Guide](https://experienceleague.adobe.com/docs/analytics/admin/home.html?lang=en){target="_blank"}
 
 **Section 5: Performance and Reporting**
@@ -134,7 +134,7 @@ Here are some suggested resources to help you prepare:
 
 >[!IMPORTANT]
 >
->The following sections and links will **only** function after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
+>The following sections and links will function **only** after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
 
 
 **Now that you have successfully logged in, the following links will be directly accessible.**
@@ -144,9 +144,9 @@ Here are some suggested resources to help you prepare:
 Adobe uses two vendors to administer proctored exams, PSI and Examity. 
 
 * **PSI** offers test center and Japanese exam options (where available) 
-* **Examity** offers a remote online option
+* **[!DNL Examity]** offers a remote online option
 
-To schedule, reschedule, or cancel your exam, simply click on the vendor of choice, and follow the instructions provided on screen. It's that simple!
+To schedule, reschedule, or cancel your exam, select a vendor and follow the instructions provided on screen. It's that simple!
 
 ### Exam number: AD0-E454
 
@@ -160,6 +160,6 @@ You can apply the voucher code when you schedule your exam. If you have a discou
 
 **Questions**
 
-View the certification [FAQs](https://experienceleague.corp.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+View the certification [FAQ](https://experienceleague.corp.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
 Additional questions? Please email `certif@adobe.com`.

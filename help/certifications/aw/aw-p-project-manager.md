@@ -1,26 +1,26 @@
 ---
-title: Adobe Workfront Project Manager Professional Certification
-description: Learn how to become a certified Adobe Project Manager professional.
+title: Project Manager Professional certification
+description: Learn how to become a certified Adobe Project Manager Professional in Adobe [!DNL Workfront].
 solution: Workfront
 role: Developer
 badge: label="Exam AD0-E903" type="positive"
 mini-toc-levels: 1
 ---
-# Certification journey for Adobe Workfront Project Manager professional
+# Certification journey for Adobe [!DNL Workfront] Project Manager Professional
 
-Learn how to become a certified Adobe Project Manager professional.
+Learn how to become a certified Adobe Project Manager Professional.
 
-## Minimum experience:
+## Minimum experience
 
 You should have:
 
 * An understanding about work process from an initial work request through completion or has had exposure to project or work management
-* Completed self-guided training or bootcamp or have been a Workfront user for 6-12 months so they understand basic functionality
+* Completed self-guided training or bootcamp or have been a [!DNL Workfront] user for 6-12 months so they understand basic functionality
 * An understanding of how to configure, track, and monitor report data
 
 >[!NOTE]
 >
->Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
+>Your certification is valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
 
 >[!BEGINTABS]
 
@@ -30,13 +30,13 @@ You should have:
 
 * Project manager, work manager, planner
 * SCRUM master
-* Workfront power user
+* [!DNL Workfront] power user
 * System admin
 * Program manager, portfolio manager
 * Director, manager
 * Resource manager, traffic manager
 
-**Exam details - Adobe Workfront Project Manager**
+**Exam details - Adobe [!DNL Workfront] Project Manager**
 
 ```
 Level: Professional (0-12 months' experience)
@@ -63,14 +63,14 @@ Section 1: Intake and planning (30%)
 * Given a scenario, determine the appropriate task settings to plan the execution of a task in a specific time frame
 * Identify ways to locate key data on a project
 * Identify different ways to track project risk
-* Identify the correct hierarchy of objects in Workfront
+* Identify the correct hierarchy of objects in [!DNL Workfront]
 * Identify the appropriate field to view a specific assigned resource
 * Given a persona, determine the intake or planning reports/dashboards that are helpful for the persona during the work intake or planning stage of the project/work process
 
 Section 2: Execute (50%)
 
 * Identify ways to understand, apply, and measure of Milestones on a Project
-* Create Workfront Single Use Approvals and when an Approval would be used
+* Create [!DNL Workfront] Single Use Approvals and when an Approval would be used
 * Identify how different date types are used by the system
 * Given a scenario, identify the information that date types convey to a project manager
 * Given a scenario, determine how different Task Constraints affect the project timeline when used
@@ -78,14 +78,14 @@ Section 2: Execute (50%)
 * Given a scenario, describe how to upload a document and generate a proof
 * Identify the different ways to manage a project
 * Given a scenario, determine the Planned Variance for a specific job role within an individual project
-* Given a scenario, locate the specific financial element in Workfront
+* Given a scenario, locate the specific financial element in [!DNL Workfront]
 * Given a Gantt chart, explain the object relationships on the chart
 * Compare differences between Condition and Progress Status
-* Identify how Workfront teams and Workfront groups can be used
+* Identify how [!DNL Workfront] teams and [!DNL Workfront] groups can be used
 * Given a scenario, describe how to provide stakeholders the information they require
 * Given a scenario, determine how date types and durations impact project conditions
 * Given a scenario, determine the custom statuses are required
-* Identify the various types of reports available within Workfront
+* Identify the various types of reports available within [!DNL Workfront]
 * Given a scenario, describe the steps to build a custom report
 
 Section 3: Closeout (20%)
@@ -109,7 +109,7 @@ The sample questions allow you to see the type and format of items that you will
 
 **Recommended training course:**
 
-[Core team training for planners in the new Workfront experience](https://experienceleague.adobe.com/docs/workfront-course-map/using/learning-programs/core-team-training-program-for-planners.html){target="_blank"}
+[Core team training for planners in the new [!DNL Workfront] experience](https://experienceleague.adobe.com/docs/workfront-course-map/using/learning-programs/core-team-training-program-for-planners.html){target="_blank"}
 
 **Additional resources:**
 
@@ -121,10 +121,10 @@ The sample questions allow you to see the type and format of items that you will
 * [Task information](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&topicId=Content%2FManage_work%2FTasks%2FTask_information%2F_task-information.htm&_LANG=en){target="_blank"}
 * [Update work on a project](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&topicId=Content%2FManage_work%2FProjects%2FUpdating_Work_in_a_Project%2F_update-work-on-project.htm&_LANG=en){target="_blank"}
 * [Manage projects](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&topicId=Content%2FManage_work%2FProjects%2FManage_projects%2F_manage-projects-overview.htm&_LANG=en){target="_blank"}
-* [Adobe Workfront basics](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&topicId=Content%2FWorkfront_basics%2F_workfront-basics.htm&_LANG=en){target="_blank"}
-* [Navigate Adobe Workfront](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&topicId=Content%2FWorkfront_basics%2FNavigate_Workfront%2F_navigate-workfront.htm&_LANG=en){target="_blank"}
+* [Adobe [!DNL Workfront] basics](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&topicId=Content%2FWorkfront_basics%2F_workfront-basics.htm&_LANG=en){target="_blank"}
+* [Navigate Adobe [!DNL Workfront]](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&topicId=Content%2FWorkfront_basics%2FNavigate_Workfront%2F_navigate-workfront.htm&_LANG=en){target="_blank"}
 * [Assign tasks](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&topicId=Content%2FManage_work%2FTasks%2FAssign_tasks%2F_assign-tasks.htm&_LANG=en){target="_blank"}
-* [Get started with agile in Adobe Workfront](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&topicId=Content%2FAgile%2FGet_Started_with_Agile_in_Workfront%2F_get-started-with-agile.htm&_LANG=en){target="_blank"}
+* [Get started with agile in Adobe [!DNL Workfront]](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&topicId=Content%2FAgile%2FGet_Started_with_Agile_in_Workfront%2F_get-started-with-agile.htm&_LANG=en){target="_blank"}
 * [Create and manage reports](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&topicId=Content%2FReports_and_Dashboards%2FReports%2FCreating_and_Managing_Reports%2F_create-manage-reports.htm&_LANG=en){target="_blank"}
 
 **Section 2: Execute**
@@ -136,11 +136,11 @@ The sample questions allow you to see the type and format of items that you will
 * [Tasks](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&topicId=Content%2FManage_work%2FTasks%2F_tasks-overview.htm&_LANG=en){target="_blank"}
 * [Task Constraints](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&topicId=Content%2FManage_work%2FTasks%2FTask_Constraints%2F_task-constraints.htm&_LANG=en){target="_blank"}
 * [Use the Home area](https://one.workfront.com/s/document-item?bundleId=workfront-classic&topicId=Content%2FWorkfront_basics%2FUsing_Home%2FUsing_the_Home_Area%2F_use-the-home-area.htm&_LANG=en){target="_blank"}
-* [Add new documents to Adobe Workfront](https://one.workfront.com/s/document-item?bundleId=workfront-classic&topicId=Content%2FDocuments%2FAdding_Documents_to_Workfront%2F_add-new-documents-_to-workfront.htm&_LANG=en){target="_blank"}
+* [Add new documents to Adobe [!DNL Workfront]](https://one.workfront.com/s/document-item?bundleId=workfront-classic&topicId=Content%2FDocuments%2FAdding_Documents_to_Workfront%2F_add-new-documents-_to-workfront.htm&_LANG=en){target="_blank"}
 * [Burndown](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&topicId=Content%2FAgile%2FUse_Scrum_in_an_Agile_Team%2FBurndown%2F_burndown.htm&_LANG=en){target="_blank"}
 * [Resource Utilization](https://one.workfront.com/s/document-item?bundleId=workfront-classic&topicId=Content%2FResource_Mgmt%2FResource_utilization%2F_resource-utilization.htm&_LANG=en){target="_blank"}
 * [Project finances](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&topicId=Content%2FManage_work%2FProjects%2FProject_Finances%2F_project-finances-overview.htm&_LANG=en){target="_blank"}
-* [Workfront documentation](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&topic[%C3%A2%E2%82%AC%C2%A6]urce_utilization%2Fview-utilization-information.htm&_LANG=en){target="_blank"}
+* [[!DNL Workfront] documentation](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&topic[%C3%A2%E2%82%AC%C2%A6]urce_utilization%2Fview-utilization-information.htm&_LANG=en){target="_blank"}
 * [Gantt Chart overview](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&topicId=Content%2FManage_work%2FGantt_Chart%2FUse_the_Gantt_Chart%2F_gantt-chart-overview.htm&_LANG=en){target="_blank"}
 * [Group roles](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&topicId=Content%2FAdministration_and_Setup%2FManage_groups%2FGroup_roles%2F_group-roles.htm&_LANG=en){target="_blank"}
 * [Work with a group's objects](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&topicId=Content%2FAdministration_and_Setup%2FManage_groups%2FWork_with_group_objects%2F_work-with-a-groups-objects.htm&_LANG=en){target="_blank"}
@@ -151,7 +151,7 @@ The sample questions allow you to see the type and format of items that you will
 **Section 3: Closeout**
 
 * [Reporting elements overview](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&topicId=Content%2FReports_and_Dashboards%2FReports%2FReporting_Elements%2F_reporting-elements-overview.htm&_LANG=en){target="_blank"}
-* [Create and manage timesheets in Adobe Workfront](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&topicId=Content%2FTimesheets%2FCreate_and_Manage_Timesheets%2F_create-and-manage-timesheets.htm&_LANG=en){target="_blank"}
+* [Create and manage timesheets in Adobe [!DNL Workfront]](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&topicId=Content%2FTimesheets%2FCreate_and_Manage_Timesheets%2F_create-and-manage-timesheets.htm&_LANG=en){target="_blank"}
 * [Portfolio Management](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&topicId=Content%2FManage_work%2FPortfolios%2F_portfolio-management-overview.htm&_LANG=en){target="_blank"}
 * [Project Timeline](https://www.workfront.com/project-management/knowledge-areas/time-management/project-timeline){target="_blank"}
 * [Create projects](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&topicId=Content%2FManage_work%2FProjects%2FCreate_projects%2F_create-projects-overview.htm&_LANG=enus){target="_blank"}
@@ -160,7 +160,7 @@ The sample questions allow you to see the type and format of items that you will
 
 >[!IMPORTANT]
 >
->The following sections and links will **only** function after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
+>The following sections and links will function **only**  after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
 
 **Now that you have successfully logged in, the following links will be directly accessible.**
 
@@ -169,7 +169,7 @@ The sample questions allow you to see the type and format of items that you will
 Adobe uses two vendors to administer proctored exams, PSI and Examity. 
 
 * **PSI** offers test center and Japanese exam options (where available) 
-* **Examity** offers a remote online option
+* **[!DNL Examity]** offers a remote online option
 
 To schedule, reschedule, or cancel your exam, simply click on the vendor of choice, and follow the instructions provided on screen. It's that simple!
 
@@ -185,6 +185,6 @@ You can apply the voucher code when you schedule your exam. If you have a discou
 
 **Questions**
 
-View the certification [FAQs](https://experienceleague.corp.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+View the certification [FAQ](https://experienceleague.corp.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
 Additional questions? Please email `certif@adobe.com`.

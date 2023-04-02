@@ -1,18 +1,18 @@
 ---
-title: Adobe Analytics Developer Expert Certification
-description: Learn how to become certified as an Adobe Analytics Developer expert.
+title: Developer Expert certification
+description: Learn how to become certified as an [!DNL Adobe Analytics] Developer expert.
 solution: Analytics
 role: Developer
 badge: label="Exam AD0-E209" type="positive"
 mini-toc-levels: 1
 ---
-# Certification journey for Adobe Analytics Developer expert
+# Certification journey for [!DNL Adobe Analytics] Developer Expert
 
-Learn how to become a certified Adobe Analytics Developer expert.
+Learn how to become a certified [!DNL Adobe Analytics] Developer Expert.
 
-## Minimum experience:
+## Minimum experience
 
-You should have experience as an implementation consultant in a hybrid role with about 2 years' experience in Adobe Analytics implementation. You acts as the bridge between IT and the business, translate the business requirements into a technical solution (SDR), and based on requirements provided by the analyst, understand which type of variable is needed, where and how to collect the data, design the data model (data layer), configure and maintain the tag management solution. 
+You should have experience as an implementation consultant in a hybrid role with about 2 years' experience in [!DNL Adobe Analytics] implementation. You acts as the bridge between IT and the business, translate the business requirements into a technical solution (SDR), and based on requirements provided by the analyst, understand which type of variable is needed, where and how to collect the data, design the data model (data layer), configure and maintain the tag management solution. 
 
 You, as the Analytics Developer rarely implement the tags on the page; instead, they are implemented by IT or the system integrator.
 
@@ -21,15 +21,15 @@ You should be familiar with the following tools and environments:
 Tools:
 
 * Adobe Experience Platform Launch (Adobe Launch)
-* Debugging tools relevant to Adobe Analytics (Packet monitor such as Adobe Debugger, browser developer tools, Charles)
-* Adobe Analytics Admin console report suite settings
+* Debugging tools relevant to [!DNL Adobe Analytics] (Packet monitor such as Adobe Debugger, browser developer tools, Charles)
+* [!DNL Adobe Analytics] Admin console report suite settings
 * Basic Workspace knowledge
 * Web development tools, code editor and mobile debugging tools
 * Adobe Auditor
 * Processing rules
 * Classification rules – regex-based classification rules
 * JavaScript errors
-* Basic understanding of the available Adobe Analytics related APIs
+* Basic understanding of the available [!DNL Adobe Analytics] related APIs
 * Adobe I/O integration
 
 Environments:
@@ -41,7 +41,7 @@ Environments:
 
 >[!NOTE]
 >
->Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
+>Your certification is valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
 
 >[!BEGINTABS]
 
@@ -86,16 +86,16 @@ Section 2: Strategy and design based on a solution design reference (SDR) (6%)
 
 Section 3: Analytics Implementation and Configuration (36%)
 
-* Determine which environment to deploy Adobe Analytics Code
+* Determine which environment to deploy [!DNL Adobe Analytics] Code
 * Execute a minimal deployment code for Analytics tracking
-* Configure various components within Adobe Analytics UI
-* Configure Adobe Analytics report suite and variable settings
+* Configure various components within [!DNL Adobe Analytics] UI
+* Configure [!DNL Adobe Analytics] report suite and variable settings
 * Utilize a data layer within a deployment
 * Execute advanced tracking features such as link tracking and product strings
 
 Section 4: Tag management systems (20%)
 
-* Enumerate requirements to deploy Adobe Experience Platform Launch in Adobe Analytics
+* Enumerate requirements to deploy Adobe Experience Platform Launch in [!DNL Adobe Analytics]
 * Apply processes to configure website tagging with Adobe Launch
 * Enumerate requirements to enable extensions and Adobe Launch
 * Create rules and data elements
@@ -108,9 +108,9 @@ Section 5: Mobile services (8%)
 Section 6: Testing, validation, and troubleshooting (20%)
 
 * Troubleshoot JavaScript errors
-* Troubleshoot Adobe Analytics variables
+* Troubleshoot [!DNL Adobe Analytics] variables
 * Recommend testing and debugging best practices
-* Troubleshoot an Adobe Analytics server call across its lifecycle (i.e. from beacon request to showing up in the report)
+* Troubleshoot an [!DNL Adobe Analytics] server call across its lifecycle (i.e. from beacon request to showing up in the report)
 
 >[!TAB Get prepped]
 
@@ -127,13 +127,13 @@ Here are some suggested resources to help you prepare:
 **Section 2: Strategy and design based on a solution design reference (SDR)**
 
 * [Manage resources](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&topicId=Content%2FResource_Mgmt%2F_manage-resources.htm&_LANG=en){target="_blank"}
-* [Adobe Analytics Documentation](https://experienceleague.adobe.com/docs/analytics.html)
+* [[!DNL Adobe Analytics] Documentation](https://experienceleague.adobe.com/docs/analytics.html)
 
 **Section 3: Analytics implementation and configuration**
 
-* [Implement Adobe Analytics](https://experienceleague.adobe.com/docs/analytics/implementation/home.html){target="_blank"}
+* [Implement [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html){target="_blank"}
 * [Understanding and creating report suites](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.html){target="_blank"}
-* [Configuring Link Tracking for Adobe Analytics](https://experienceleague.adobe.com/docs/experience-manager-64/administering/integration/adobeanalytics-link.html){target="_blank"}
+* [Configuring Link Tracking for [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/experience-manager-64/administering/integration/adobeanalytics-link.html){target="_blank"}
 
 **Section 4: Tag management systems**
 
@@ -144,12 +144,12 @@ Here are some suggested resources to help you prepare:
 **Section 5: Mobile services**
 
 * [Implement Analytics for Mobile Devices](https://experienceleague.adobe.com/docs/analytics/implementation/mobile-device-sdk.html){target="_blank"}
-* [Migrate Mobile Services processing rules to Adobe Analytics](https://experienceleague.adobe.com/docs/analytics/technotes/migrate-mobile.html){target="_blank"}
+* [Migrate Mobile Services processing rules to [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/technotes/migrate-mobile.html){target="_blank"}
 
 **Section 6: Testing, validation, and troubleshooting**
 
 * [Adobe Experience Platform Debugger overview](https://experienceleague.adobe.com/docs/experience-platform/debugger/home.html){target="_blank"}
-* [Enabling, Debugging, and Customizing the Adobe Analytics Activity Map](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/components/activity-map/enabling-debugging-and-customizing-the-activity-map.html){target="_blank"}
+* [Enabling, Debugging, and Customizing the [!DNL Adobe Analytics] Activity Map](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/components/activity-map/enabling-debugging-and-customizing-the-activity-map.html){target="_blank"}
 * [Optimize Analysis Workspace performance](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/workspace-faq/optimizing-performance.html){target="_blank"}
 
 
@@ -157,7 +157,7 @@ Here are some suggested resources to help you prepare:
 
 >[!IMPORTANT]
 >
->The following sections and links will **only** function after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
+>The following sections and links will function **only**  after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
 
 
 **Now that you have successfully logged in, the following links will be directly accessible.**
@@ -177,7 +177,7 @@ Go to the [Adobe Certification Exam Prep Portal](https://www.certmetrics.com/ado
 Adobe uses two vendors to administer proctored exams, PSI and Examity. 
 
 * **PSI** offers test center and Japanese exam options (where available) 
-* **Examity** offers a remote online option
+* **[!DNL Examity]** offers a remote online option
 
 To schedule, reschedule, or cancel your exam, simply click on the vendor of choice, and follow the instructions provided on screen. It's that simple!
 
@@ -193,6 +193,6 @@ You can apply the voucher code when you schedule your exam. If you have a discou
 
 **Questions**
 
-View the certification [FAQs](https://experienceleague.corp.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+View the certification [FAQ](https://experienceleague.corp.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
 Additional questions? Please email `certif@adobe.com`.

@@ -1,18 +1,18 @@
 ---
-title: Adobe Experience Manager Professional Certification
-description: Learn how to become a certified Adobe Experience Manager professional.
+title: Professional certification
+description: Learn how to become a certified Adobe [!DNL Experience Manager] professional.
 solution: Experience Manager Assets
 role: Developer
 badge: label="Exam AD0-E129" type="positive"
 mini-toc-levels: 1
 ---
-# Certification journey for Adobe Experience Manager Assets Developer professional
+# Certification journey for [!DNL Experience Manager] Assets Developer Professional
 
-Learn how to become a certified Adobe Experience Manager professional.
+Learn how to become a certified [!DNL Experience Manager] Professional.
 
-## Minimum experience:
+## Minimum experience
 
-You should be comfortable working in Adobe Managed Services and Adobe Experience Manager as a Cloud Service, and are able to set up Adobe Experience Manager environments and infrastructure. 
+You should be comfortable working in Adobe Managed Services and Adobe [!DNL Experience Manager as a Cloud Service], and are able to set up Adobe [!DNL Experience Manager] environments and infrastructure. 
 
 You should have:
 
@@ -35,7 +35,7 @@ Additionally, you should have experience with the following technologies and env
 
 >[!NOTE]
 >
->Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
+>Your certification is valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
 
 >[!BEGINTABS]
 
@@ -143,7 +143,7 @@ The sample questions allow you to see the type and format of items that you will
 
 **Section 5: Asset feature sets and capabilities**
 
-* [Overview of Experience Manager Assets Brand Portal](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/brand-portal.html?lang=en){target="_blank"}
+* [Overview of [!DNL Experience Manager] Assets Brand Portal](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/brand-portal.html?lang=en){target="_blank"}
 * [Supported file formats](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/brand-portal-supported-formats.html?lang=en){target="_blank"}
 * [Dynamic Media Video Profiles](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/dynamicmedia/video-profiles.html?lang=en){target="_blank"}
 
@@ -151,7 +151,7 @@ The sample questions allow you to see the type and format of items that you will
 
 >[!IMPORTANT]
 >
->The following sections and links will **only** function after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
+>The following sections and links will function **only**  after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
 
 **Now that you have successfully logged in, the following links will be directly accessible.**
 
@@ -160,7 +160,7 @@ The sample questions allow you to see the type and format of items that you will
 Adobe uses two vendors to administer proctored exams, PSI and Examity. 
 
 * **PSI** offers test center and Japanese exam options (where available) 
-* **Examity** offers a remote online option
+* **[!DNL Examity]** offers a remote online option
 
 To schedule, reschedule, or cancel your exam, simply click on the vendor of choice, and follow the instructions provided on screen. It's that simple!
 
@@ -176,6 +176,6 @@ You can apply the voucher code when you schedule your exam. If you have a discou
 
 **Questions**
 
-View the certification [FAQs](https://experienceleague.corp.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+View the certification [FAQ](https://experienceleague.corp.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
 Additional questions? Please email `certif@adobe.com`.

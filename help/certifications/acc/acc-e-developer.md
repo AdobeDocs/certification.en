@@ -1,16 +1,16 @@
 ---
-title: Adobe Campaign Classic Developer Expert Certification
-description: Learn how to become a certified Adobe Developer expert.
+title: Developer Expert certification
+description: Learn how to become a certified Adobe Developer expert in [!DNL Campaign Classic].
 solution: Campaign Classic
 role: Developer
 badge: label="Exam AD0-E330" type="positive"
 mini-toc-levels: 1
 ---
-# Certification journey for Adobe Campaign Classic Developer expert
+# Certification journey for Adobe [!DNL Campaign Classic] Developer expert
 
 Learn how to become a certified Adobe Developer expert.
 
-## Minimum experience:
+## Minimum experience
 
 You should have:
 
@@ -24,7 +24,7 @@ You should have:
 
 >[!NOTE]
 >
->Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
+>Your certification is valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
 
 >[!BEGINTABS]
 
@@ -34,7 +34,7 @@ You should have:
 
 * Technical consultant
 * Marketing technology engineer
-* Campaign Classic developer
+* [!DNL Campaign Classic] developer
 
 **Exam details**
   
@@ -69,8 +69,8 @@ Section 2: Customization (22%)
 * Describe the implementation of APIs in Campaign
 * Describe best practices for developing with JavaScript in Adobe Campaign
 * Apply JavaScript libraries in workflows, SOAP calls, typology rules, and personalization blocks
-* Describe best practices for using SQL functions in Adobe Campaign Classic
-* Given a scenario, understand how to use SQL scripts in Adobe Campaign Classic
+* Describe best practices for using SQL functions in Adobe [!DNL Campaign Classic]
+* Given a scenario, understand how to use SQL scripts in Adobe [!DNL Campaign Classic]
 * Describe commonly used OOTB functions
 
 Section 3: Access management (8%)
@@ -115,7 +115,7 @@ Here are some suggested resources to help you prepare:
 
 **Section 1: System configuration**
 
-* [Campaign Classic v7 Documentation](https://experienceleague.adobe.com/docs/campaign-classic/using/campaign-classic-home.html?lang=en){target="_blank"}
+* [[!DNL Campaign Classic] v7 Documentation](https://experienceleague.adobe.com/docs/campaign-classic/using/campaign-classic-home.html?lang=en){target="_blank"}
 * [Get started with transactional messaging](https://experienceleague.adobe.com/docs/campaign-classic/using/transactional-messaging/about-transactional-messaging.html?lang=en){target="_blank"}
 * [General architecture](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/architecture-and-hosting-models/general-architecture.html?lang=en){target="_blank"}
 * [Get started with Adobe Campaign integrations](https://experienceleague.adobe.com/docs/campaign-classic/using/integrating-with-adobe-experience-cloud/about-campaign-integrations.html?lang=en){target="_blank"}
@@ -172,7 +172,7 @@ Here are some suggested resources to help you prepare:
 
 >[!IMPORTANT]
 >
->The following sections and links will **only** function after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
+>The following sections and links will function **only**  after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
 
 **Now that you have successfully logged in, the following links will be directly accessible.**
 
@@ -191,7 +191,7 @@ Go to the [Adobe Certification Exam Prep Portal](https://www.certmetrics.com/ado
 Adobe uses two vendors to administer proctored exams, PSI and Examity. 
 
 * **PSI** offers test center and Japanese exam options (where available) 
-* **Examity** offers a remote online option
+* **[!DNL Examity]** offers a remote online option
 
 To schedule, reschedule, or cancel your exam, simply click on the vendor of choice, and follow the instructions provided on screen. It's that simple!
 
@@ -207,6 +207,6 @@ You can apply the voucher code when you schedule your exam. If you have a discou
 
 **Questions**
 
-View the certification [FAQs](https://experienceleague.corp.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+View the certification [FAQ](https://experienceleague.corp.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
 Additional questions? Please email `certif@adobe.com`.

@@ -1,20 +1,20 @@
 ---
-title: Adobe Campaign Standard Developer Expert Certification 
-description: Learn how to become a certified Adobe Developer expert.
+title: Developer Expert certification 
+description: Learn how to become a certified Adobe Developer expert Adobe [!DNL Campaign Standard].
 solution: Campaign Standard
 role: Developer
 badge: label="Exam AD0-E306" type="positive"
 mini-toc-levels: 1
 ---
-# Certification journey for Adobe Campaign Standard Developer expert
+# Certification journey for Adobe [!DNL Campaign Standard] Developer Expert
 
-Learn how to become a certified Adobe Developer expert.
+Learn how to become a certified Adobe Developer Expert.
 
-## Minimum experience:
+## Minimum experience
 
 You should have:
 
-* At least two years of Campaign software experience
+* At least two years of [!DNL Campaign] software experience
 * At least two years of relevant experience in multi-channel digital marketing campaigns and web development (e.g. REST API)
 * The ability to perform tasks in Adobe Campaign including template development, technical workflows, schema development, and integrations, and be able to monitor the instance using control panel
 * Experience working in a channel delivery environment (email, direct mail, mobile, and social)
@@ -34,7 +34,7 @@ You should have:
 
 >[!NOTE]
 >
->Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
+>Your certification is valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
 
 >[!BEGINTABS]
 
@@ -150,7 +150,7 @@ You are not required to complete training before taking the exam, and training a
 
 >[!IMPORTANT]
 >
->The following sections and links will **only** function after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
+>The following sections and links will function **only**  after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
 
 
 **Now that you have successfully logged in, the following links will be directly accessible.**
@@ -186,6 +186,6 @@ You can apply the voucher code when you schedule your exam. If you have a discou
 
 **Questions**
 
-View the certification [FAQs](https://experienceleague.corp.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+View the certification [FAQ](https://experienceleague.corp.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
 Additional questions? Please email `certif@adobe.com`.

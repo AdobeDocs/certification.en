@@ -1,23 +1,23 @@
 ---
-title: Adobe Experience Manager Business Practitioner Expert Certification 
-description: Learn how to become a certified Adobe Business Practitioner expert.
+title: Business Practitioner Expert certification 
+description: Learn how to become a certified as a Business Practitioner Expert in [!DNL Experience Manager Sites].
 solution: Experience Manager Sites
 role: Developer
 badge: label="Exam AD0-E121" type="positive"
 mini-toc-levels: 1
 ---
-# Certification journey for Adobe Experience Manager Sites Business Practitioner expert
+# Certification journey for Adobe [!DNL Experience Manager Sites] Business Practitioner Expert
 
-Learn how to become a certified Adobe Business Practitioner expert.
+Learn how to become a certified Adobe Business Practitioner Expert.
 
-## Minimum experience:
+## Minimum experience
 
 You should have:
 
 * Experience with AEM features and capabilities needed to engage developers to find business solutions
 * The ability to use AEM products to manage content to drive digital experiences
 * An understanding of what modules are present
-* A deeper insight into modules such as Sites, Assets, and Forms
+* A deeper insight into modules such as [!DNL Sites], [!DNL Assets], and [!DNL Forms]
 
 Additionally, you should be familiar with the following technologies and environments: 
 
@@ -43,7 +43,7 @@ Additionally, you should be familiar with the following technologies and environ
 
 >[!NOTE]
 >
->Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
+>Your certification is valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
 
 >[!BEGINTABS]
 
@@ -115,23 +115,23 @@ Here are some suggested resources to help you prepare:
 **Section 1: Education**
 
 * [AEM 6.5 Developing User Guide](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html?lang=en){target="_blank"} 
-* [Learn about AEM 6.5 Capabilities](https://experienceleague.adobe.com/docs/experience-manager-65/user-guide/troubleshooting/learn.html?lang=en){target="_blank"} 
-* [AEM Sites videos and tutorials](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/overview.html?lang=en){target="_blank"} 
+* [Learn about AEM 6.5 capabilities](https://experienceleague.adobe.com/docs/experience-manager-65/user-guide/troubleshooting/learn.html?lang=en){target="_blank"} 
+* [AEM [!DNL Sites] videos and tutorials](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/overview.html?lang=en){target="_blank"} 
 * [Launches](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/page-authoring/launches.html?lang=en){target="_blank"} 
-* [First Steps for Authors](https://experienceleague.adobe.com/docs/experience-manager-64/authoring/essentials/first-steps.html?lang=en){target="_blank"} 
+* [First steps for authors](https://experienceleague.adobe.com/docs/experience-manager-64/authoring/essentials/first-steps.html?lang=en){target="_blank"} 
 * [Content editing best practices](https://experienceleague.adobe.com/docs/campaign-classic/using/designing-content/editing-html-content/content-editing-best-practices.html?lang=en){target="_blank"} 
-* [Creating and Organizing Pages](https://experienceleague.adobe.com/docs/experience-manager-64/authoring/authoring/managing-pages.html?lang=en){target="_blank"} 
-* [Concept of Authoring and Publishing](https://experienceleague.adobe.com/docs/experience-manager-64/authoring/essentials/author.html?lang=en){target="_blank"} 
+* [Creating and organizing pages](https://experienceleague.adobe.com/docs/experience-manager-64/authoring/authoring/managing-pages.html?lang=en){target="_blank"} 
+* [Concept of authoring and publishing](https://experienceleague.adobe.com/docs/experience-manager-64/authoring/essentials/author.html?lang=en){target="_blank"} 
 
 **Section 2: Architecture**
 
-* [An Introduction to Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/overview/introduction.html){target="_blank"} 
+* [An Introduction to Adobe [!DNL Experience Manager as a Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/overview/introduction.html){target="_blank"} 
 * [Learn About AEM 6.5 Capabilities](https://experienceleague.adobe.com/docs/experience-manager-65/user-guide/troubleshooting/learn.html?lang=en){target="_blank"} 
-* [Adobe Experience Manager documentation](https://experienceleague.adobe.com/docs/experience-manager.html?lang=en){target="_blank"} 
+* [Adobe [!DNL Experience Manager] documentation](https://experienceleague.adobe.com/docs/experience-manager.html?lang=en){target="_blank"} 
 * [Key features and capabilities](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/key-features.html?lang=en){target="_blank"} 
 * [Integrating with third-party services](https://experienceleague.adobe.com/docs/experience-manager-64/administering/integration/third-party-services.html?lang=en)
 * [Solutions integration](https://experienceleague.adobe.com/docs/experience-manager-64/administering/integration/integration.html?lang=en){target="_blank"} 
-* [Experience Cloud integrations overview](https://experienceleague.adobe.com/docs/core-services/interface/administration/marketing-cloud-integrations.html?lang=en){target="_blank"} 
+* [[!DNL Experience Cloud] integrations overview](https://experienceleague.adobe.com/docs/core-services/interface/administration/marketing-cloud-integrations.html?lang=en){target="_blank"} 
 * [Managing user roles and permissions](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.html?lang=en){target="_blank"} 
 * [Roles and permissions](https://experienceleague.adobe.com/docs/mobile-services/using/get-started-ug/c-mob-roles-and-permissions.html?lang=en){target="_blank"} 
 * [Users, roles, and permissions](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/admin/users-roles-permissions.html){target="_blank"} 
@@ -156,7 +156,7 @@ Here are some suggested resources to help you prepare:
 * [Adobe Experience Manager and Creative Cloud integration best practices](https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/aem-cc-integration-best-practices.html?lang=en){target="_blank"} 
 * [Managing Projects - Best Practices Checklist](https://experienceleague.adobe.com/docs/experience-manager-64/managing/managing-best-practices-checklist/best-practices.html?lang=en){target="_blank"} 
 * [Resources](https://experienceleague.adobe.com/docs/commerce-operations/operational-playbook/people/resources.html?lang=en){target="_blank"} 
-* [Guided Onboarding for Deployment Leaders: Adobe Experience Manager](https://experienceleague.adobe.com/welcome/aem/part5.html){target="_blank"} 
+* [Guided Onboarding for Deployment Leaders: Adobe [!DNL Experience Manager]](https://experienceleague.adobe.com/welcome/aem/part5.html){target="_blank"} 
 * [The Checklist - Further Reference](https://experienceleague.adobe.com/docs/experience-manager-64/managing/managing-best-practices-checklist/best-practices-further-reference.html?lang=en){target="_blank"} 
 
 
@@ -174,7 +174,7 @@ Here are some suggested resources to help you prepare:
 
 >[!IMPORTANT]
 >
->The following sections and links will **only** function after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
+>The following sections and links will function **only**  after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
 
 **Now that you have successfully logged in, the following links will be directly accessible.**
 
@@ -193,7 +193,7 @@ Go to the [Adobe Certification Exam Prep Portal](https://www.certmetrics.com/ado
 Adobe uses two vendors to administer proctored exams, PSI and Examity. 
 
 * **PSI** offers test center and Japanese exam options (where available) 
-* **Examity** offers a remote online option
+* **[!DNL Examity]** offers a remote online option
 
 To schedule, reschedule, or cancel your exam, simply click on the vendor of choice, and follow the instructions provided on screen. It's that simple!
 
@@ -209,6 +209,6 @@ You can apply the voucher code when you schedule your exam. If you have a discou
 
 **Questions**
 
-View the certification [FAQs](https://experienceleague.corp.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+View the certification [FAQ](https://experienceleague.corp.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
 Additional questions? Please email `certif@adobe.com`.

@@ -1,27 +1,27 @@
 ---
-title: Adobe Campaign Classic Developer Professional Certification
-description: Learn how to become a certified Adobe Developer professional.
+title: Developer Professional certification
+description: Learn how to become a certified Adobe Developer professional in [!DNL Campaign Classic].
 solution: Campaign Classic
 role: Developer
 badge: label="Exam AD0-E331" type="positive"
 mini-toc-levels: 1
 ---
-# Certification journey for Adobe Campaign Classic Developer professional
+# Certification journey for Adobe [!DNL Campaign Classic] Developer Professional
 
-Learn how to become a certified Adobe Developer professional.
+Learn how to become a certified Adobe Developer Professional.
 
-## Minimum experience:
+## Minimum experience
 
 You should have:
 
-* At least one year of Adobe Campaign Classic software experience
+* At least one year of Adobe [!DNL Campaign Classic] software experience
 * At least one year of combined experience in JavaScript programming, SQL development including ETL, and web technologies (XML, HTML and web services)
 * A basic understanding of marketing automation
 * An understanding relational database concepts
 
 >[!NOTE]
 >
->Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
+>Your certification is valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
 
 >[!BEGINTABS]
 
@@ -64,7 +64,7 @@ Section 1: System configuration (25%)
 * Identify the configuration settings for Open and Closed enumerations
 * Differentiate Typology Rule Types
 * Identify requirements to utilize a custom Target Map and its effects to OOTB functionality
-* Describe how externally generated audiences from other Adobe Experience Cloud solutions are accessed in Adobe Campaign Classic
+* Describe how externally generated audiences from other Adobe Experience Cloud solutions are accessed in Adobe [!DNL Campaign Classic]
 * Describe the business use case for interactions and offers
 * Describe the business use case for Message Center
 * Identify V8 API data import functionality
@@ -134,7 +134,7 @@ The sample questions allow you to see the type and format of items that you will
 * [Data schemas](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/editing-schemas/data-schemas.html?lang=en){target="_blank"}
 * [Extending or creating schemas](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/editing-schemas/about-schema-edition.html?lang=en#extending-or-creating-schemas){target="_blank"}
 * [Schema structure](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/schema-reference/schema-structure.html?lang=en){target="_blank"}
-* [List of Campaign Classic options](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/appendices/configuring-campaign-options.html?lang=en){target="_blank"}
+* [List of [!DNL Campaign Classic] options](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/appendices/configuring-campaign-options.html?lang=en){target="_blank"}
 * [Configure your external accounts](https://experienceleague.adobe.com/docs/campaign/campaign-v8/config/configuration/external-accounts.html%3Flang%3Dja){target="_blank"}
 * [Typology rules](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/campaign-optimization/about-campaign-typologies.html?lang=en#typology-rules){target="_blank"}
 
@@ -181,7 +181,7 @@ The sample questions allow you to see the type and format of items that you will
 
 >[!IMPORTANT]
 >
->The following sections and links will **only** function after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
+>The following sections and links will function **only**  after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
 
 
 **Now that you have successfully logged in, the following links will be directly accessible.**
@@ -191,7 +191,7 @@ The sample questions allow you to see the type and format of items that you will
 Adobe uses two vendors to administer proctored exams, PSI and Examity. 
 
 * **PSI** offers test center and Japanese exam options (where available) 
-* **Examity** offers a remote online option
+* **[!DNL Examity]** offers a remote online option
 
 To schedule, reschedule, or cancel your exam, simply click on the vendor of choice, and follow the instructions provided on screen. It's that simple!
 
@@ -207,6 +207,6 @@ You can apply the voucher code when you schedule your exam. If you have a discou
 
 **Questions**
 
-View the certification [FAQs](https://experienceleague.corp.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+View the certification [FAQ](https://experienceleague.corp.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
 Additional questions? Please email `certif@adobe.com`.

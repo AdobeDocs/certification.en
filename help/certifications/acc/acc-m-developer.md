@@ -1,21 +1,21 @@
 ---
-title: Adobe Campaign Classic Architect Master Certification
-description: Learn how to become a certified Adobe Architect master.
+title: Architect Master certification
+description: Learn how to become a certified Adobe Architect Master in [!DNL Campaign Classic].
 solution: Campaign Classic
 role: Architect
 badge: label="Exam AD0-E328" type="positive"
 mini-toc-levels: 1
 ---
 
-# Certification journey for Adobe Campaign Classic Architect master
+# Certification journey for Adobe [!DNL Campaign Classic] Architect Master
 
-Learn how to become a certified Adobe Architect master.
+Learn how to become a certified Adobe Architect Master in [!DNL Campaign Classic].
 
-## Minimum experience:
+## Minimum experience
 
 You should have:
 
-* Experience with multiple Campaign implementations
+* Experience with multiple [!DNL Campaign] implementations
 * An understanding of how Adobe Campaign works as a digital marketing solution and implements it based on project requirements
 * The ability to create a functional design document
 * The ability to create a functional scope of work for an Adobe Campaign installation
@@ -33,7 +33,7 @@ You should have:
 
 >[!NOTE]
 >
->Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
+>Your certification is valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
 
 >[!BEGINTABS]
 
@@ -41,9 +41,9 @@ You should have:
 
 **Intended audience:**
 
-* Technical Lead with Adobe Campaign Classic background
-* Adobe Certified Expert - Campaign Classic Developer
-* Adobe Campaign Classic developer or similar role
+* Technical Lead with Adobe [!DNL Campaign Classic] background
+* Adobe Certified Expert - [!DNL Campaign Classic] Developer
+* Adobe [!DNL Campaign Classic] developer or similar role
 * Martech Solution Architect
 
 **Exam details:**
@@ -69,7 +69,7 @@ Section 1: Solution definition (24%)
 
 * Given specific business requirements, determine the information relevant to solution design
 * Given a scenario, provide performance, infrastructure, and configuration recommendations
-* Analyze Campaign Classic setups to advise on improvements
+* Analyze [!DNL Campaign Classic] setups to advise on improvements
 * Determine business requirements to design a digital marketing solution
 * Given a scenario, specify the correct product deployment method
 
@@ -82,7 +82,7 @@ Section 2: Data landscaping (24%)
 Section 3: Installation and management (16%)
 
 * Given a set of key modules, validate the configuration of the module set-up
-* Given a scenario, recommend integration solutions to enable native and third-party integrations with Adobe Campaign Classic
+* Given a scenario, recommend integration solutions to enable native and third-party integrations with Adobe [!DNL Campaign Classic]
 * Given a scenario, determine diagnostic methods
 * Specify integration parameters and approach for Adobe and non-Adobe application integrations
 * Given a scenario, advise on the appropriate hardware infrastructure needed during solution design
@@ -151,7 +151,7 @@ Here are some suggested resources to help you prepare:
 
 >[!IMPORTANT]
 >
->The following sections and links will **only** function after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
+>The following sections and links will function **only**  after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
 
 **Now that you have successfully logged in, the following links will be directly accessible.**
 
@@ -160,7 +160,7 @@ Here are some suggested resources to help you prepare:
 Adobe uses two vendors to administer proctored exams, PSI and Examity. 
 
 * **PSI** offers test center and Japanese exam options (where available) 
-* **Examity** offers a remote online option
+* **[!DNL Examity]** offers a remote online option
 
 To schedule, reschedule, or cancel your exam, simply click on the vendor of choice, and follow the instructions provided on screen. It's that simple!
 
@@ -176,6 +176,6 @@ You can apply the voucher code when you schedule your exam. If you have a discou
 
 **Questions**
 
-View the certification [FAQs](https://experienceleague.corp.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+View the certification [FAQ](https://experienceleague.corp.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
 Additional questions? Please email `certif@adobe.com`.

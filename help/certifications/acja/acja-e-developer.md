@@ -1,24 +1,24 @@
 ---
-title: Adobe Customer Journey Analytics Expert Certification
-description: Learn how to become a certified Adobe
+title: Expert certification
+description: Learn how to become a certified expert Adobe in [!DNL Customer Journey Analytics]
 role: Developer
+solution: Customer Journey Analytics
 badge: label="Exam AD0-EXXX" type="positive"
 mini-toc-levels: 1
 hidefromtoc: yes
 ---
 
-# Certification journey for Adobe Customer Journey Analytics expert
+# Certification journey for Adobe [!DNL Customer Journey Analytics] Expert
 
 Learn how to become a certified Adobe 
 
-## Minimum experience:
+## Minimum experience
 
 You should have:
 
-
 >[!NOTE]
 >
->Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
+>Your certification is valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
 
 >[!BEGINTABS]
 
@@ -81,7 +81,7 @@ Here are some suggested resources to help you prepare:
 
 >[!IMPORTANT]
 >
->The following sections and links will **only** function after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
+>The following sections and links will function **only**  after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
 
 
 **Now that you have successfully logged in, the following links will be directly accessible.**
@@ -101,7 +101,7 @@ Go to the [Adobe Certification Exam Prep Portal](https://www.certmetrics.com/ado
 Adobe uses two vendors to administer proctored exams, PSI and Examity. 
 
 * **PSI** offers test center and Japanese exam options (where available) 
-* **Examity** offers a remote online option
+* **[!DNL Examity]** offers a remote online option
 
 To schedule, reschedule, or cancel your exam, simply click on the vendor of choice, and follow the instructions provided on screen. It's that simple!
 
@@ -117,6 +117,6 @@ You can apply the voucher code when you schedule your exam. If you have a discou
 
 **Questions**
 
-View the certification [FAQs](https://experienceleague.corp.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+View the certification [FAQ](https://experienceleague.corp.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
 Additional questions? Please email `certif@adobe.com`.

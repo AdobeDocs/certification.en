@@ -1,28 +1,28 @@
 ---
-title: Adobe Workfront for Experience Manager Enhanced Connector Expert Certification
-description: Learn how to become a certified Adobe certified expert.
+title: Enhanced Connector Expert certification
+description: Learn how to become a certified Adobe certified expert in Adobe [!DNL Workfront] for [!DNL Experience Manager] 
 solution: Workfront
 role: Developer
 badge: label="Exam AD0-E906" type="positive"
 mini-toc-levels: 1
 ---
-# Certification journey for Adobe Workfront for Experience Manager enhanced connector expert
+# Certification journey for [!DNL Workfront] for [!DNL Experience Manager] Enhanced Connector Expert
 
 Learn how to become a certified Adobe certified expert.
 
-## Minimum experience:
+## Minimum experience
 
 You should have achieved one or more of the following certifications: 
 
 * AEM Assets Developer Certified Expert
 * AEM Sites Developer Certified Expert
-* Workfront Core Developer Certified Expert
+* [!DNL Workfront] Core Developer Certified Expert
 
 And, you should have:
 
 * 1+ years CMS experience
 * 1+ years AEM experience
-* 1+ years Workfront experience
+* 1+ years [!DNL Workfront] experience
 * 2+ years Java/J2EE developer experience
 * Co-architected at least one AEM based solution
 * Experience working directly with clients to create customized solutions
@@ -31,7 +31,7 @@ And, you should have:
 
 >[!NOTE]
 >
->Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
+>Your certification is valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
 
 >[!BEGINTABS]
 
@@ -61,10 +61,10 @@ Exam ID: AD0-E906
 
 Section 1: Technical requirements (25%)
 
-* Use Workfront Custom Forms
+* Use [!DNL Workfront] Custom Forms
 * Given a scenario, demonstrate document management
 * Demonstrate knowledge of promoting code across environments
-* Given a scenario, identify how values are passed to Workfront custom forms
+* Given a scenario, identify how values are passed to [!DNL Workfront] custom forms
 * Troubleshoot server-side code
 
 Section 2: Configuration (26%)
@@ -77,10 +77,10 @@ Section 2: Configuration (26%)
 Section 3: Business practices (21%)
 
 * Interpret client needs in order to recommend the appropriate workflow strategies
-* Demonstrate how to set up Workfront approval and proofing workflows
+* Demonstrate how to set up [!DNL Workfront] approval and proofing workflows
 * Given a scenario, identify best practices for using the proofing viewer, settings, and markup functionality
 * Demonstrate an understanding of tracking deliverables as part of campaign management
-* Given a scenario, identify the key considerations of change management for a Workfront implementation
+* Given a scenario, identify the key considerations of change management for a [!DNL Workfront] implementation
 
 Section 4: Installation and configuration of connector (28%)
 
@@ -105,38 +105,38 @@ The sample questions allow you to see the type and format of items that you will
 * [Configure document integrations](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/configure-integrations/configure-document-integrations.html){target="_blank"}
 * [Understanding Multitenancy and Concurrent Development](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/deployment/multitenancy-concurrent-article-understand.html?lang=en){target="_blank"}
 * [Add calculated data to a custom form with the legacy form builder](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/custom-forms/custom-form-builder/use-the-custom-form-builder/add-calculated-data-to-custom-form.html){target="_blank"}
-* [The Adobe Workfront Status site](https://experienceleague.adobe.com/docs/workfront/using/basics/tips-tricks-for-basics/understand-the-status-site.html){target="_blank"}
+* [The Adobe [!DNL Workfront] Status site](https://experienceleague.adobe.com/docs/workfront/using/basics/tips-tricks-for-basics/understand-the-status-site.html){target="_blank"}
 * [Advanced troubleshooting with the Dev Tool](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/troubleshooting-and-error-handling/advanced-troubleshooting-with-the-dev-tool.html?lang=en){target="_blank"}
 
 **Section 2: Configuration**
 
 * [Best Practice - Onboarding and adoption](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/onboarding-adoption-bp.html?lang=en){target="_blank"} 
 * [Create an individual user profile](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/create-and-manage-users/create-an-individual-user-profile.html?lang=en){target="_blank"}
-* [Adobe Experience Manager Assets integration with Adobe Workfront](https://experienceleague.adobe.com/docs/experience-manager-65/assets/integrations/workfront-integrations.html?lang=en){target="_blank"}
+* [Adobe [!DNL Experience Manager Assets] integration with Adobe [!DNL Workfront]](https://experienceleague.adobe.com/docs/experience-manager-65/assets/integrations/workfront-integrations.html?lang=en){target="_blank"}
 * [Metadata and keywords: metadata setup](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/workfront-dam-program/metadata-and-keywords/metadata-setup.html%3Flang%3Dzh-Hant){target="_blank"}
-* [Install Workfront for Experience Manager enhanced connector](https://experienceleague.adobe.com/docs/experience-manager-64/assets/integrations/workfront-connector-install.html?lang=en){target="_blank"}
+* [Install [!DNL Workfront] for [!DNL Experience Manager] enhanced connector](https://experienceleague.adobe.com/docs/experience-manager-64/assets/integrations/workfront-connector-install.html?lang=en){target="_blank"}
 
 **Section 3: Business Practices**
 
-* [Develop a Workfront DAM strategy](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/workfront-dam-program/system-setup/analyze-and-plan-to-develop-a-workfront-dam-strategy.html?lang=en){target="_blank"}
+* [Develop a [!DNL Workfront] DAM strategy](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/workfront-dam-program/system-setup/analyze-and-plan-to-develop-a-workfront-dam-strategy.html?lang=en){target="_blank"}
 * [Create an approval process for work items](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/approvals-milestones/create-approval-processes.html){target="_blank"}
 * [Automated Workflow overview](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/proofing-overview/automated-workflow.html?lang=en){target="_blank"}
 * [Review and approve a proof](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/workfront-proof/review-and-approve-work-for-proof/review-and-approve-a-proof.html?lang=en){target="_blank"}
 * [Track progress from the project timeline](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/project-timelines/track-work-progress-from-the-project-timeline.html?lang=en){target="_blank"}
-* [Defining objectives for your Adobe Workfront implementation](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/get-started-administration/define-wf-goals-objectives.html?lang=en){target="_blank"}
+* [Defining objectives for your Adobe [!DNL Workfront] implementation](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/get-started-administration/define-wf-goals-objectives.html?lang=en){target="_blank"}
 
 **Section 4: Installation and Configuration of Connector** 
 
-* [Install Workfront for Experience Manager enhanced connector](https://experienceleague.adobe.com/docs/experience-manager-65/assets/integrations/workfront-connector-install.html?lang=en){target="_blank"}
-* [Workfront enhanced connector basics](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/workfront/enhanced-connector/basics.html%3Flang%3Den){target="_blank"}
-* [Configure Workfront for Experience Manager enhanced connector](https://experienceleague.adobe.com/docs/experience-manager-65/assets/integrations/workfront-connector-configure.html?lang=en){target="_blank"}
-* [Adobe Experience Manager Assets integration with Adobe Workfront](https://experienceleague.adobe.com/docs/experience-manager-65/assets/integrations/workfront-integrations.html?lang=en){target="_blank"}
+* [Install [!DNL Workfront] for [!DNL Experience Manager] enhanced connector](https://experienceleague.adobe.com/docs/experience-manager-65/assets/integrations/workfront-connector-install.html?lang=en){target="_blank"}
+* [[!DNL Workfront] enhanced connector basics](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/workfront/enhanced-connector/basics.html%3Flang%3Den){target="_blank"}
+* [Configure [!DNL Workfront] for [!DNL Experience Manager] enhanced connector](https://experienceleague.adobe.com/docs/experience-manager-65/assets/integrations/workfront-connector-configure.html?lang=en){target="_blank"}
+* [Adobe [!DNL Experience Manager Assets] integration with Adobe [!DNL Workfront]](https://experienceleague.adobe.com/docs/experience-manager-65/assets/integrations/workfront-integrations.html?lang=en){target="_blank"}
 
 >[!TAB Get certified]
 
 >[!IMPORTANT]
 >
->The following sections and links will **only** function after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
+>The following sections and links will function **only**  after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
 
 **Now that you have successfully logged in, the following links will be directly accessible.**
 
@@ -145,7 +145,7 @@ The sample questions allow you to see the type and format of items that you will
 Adobe uses two vendors to administer proctored exams, PSI and Examity. 
 
 * **PSI** offers test center and Japanese exam options (where available) 
-* **Examity** offers a remote online option
+* **[!DNL Examity]** offers a remote online option
 
 To schedule, reschedule, or cancel your exam, simply click on the vendor of choice, and follow the instructions provided on screen. It's that simple!
 
@@ -161,7 +161,7 @@ You can apply the voucher code when you schedule your exam. If you have a discou
 
 **Questions**
 
-View the certification [FAQs](https://experienceleague.corp.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+View the certification [FAQ](https://experienceleague.corp.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
 Additional questions? Please email `certif@adobe.com`.
 

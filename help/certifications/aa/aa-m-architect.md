@@ -1,20 +1,20 @@
 ---
-title: Adobe Analytics Architect Master Certification
-description: Learn how to become certified as an Adobe Analytics Architect master.
+title: Architect Master certification
+description: Learn how to become certified as an [!DNL Adobe Analytics] Architect Master.
 solution: Analytics
 role: Developer
 badge: label="Exam AD0-E207" type="positive"
 mini-toc-levels: 1
 ---
-# Certification journey for Adobe Analytics Architect master
+# Certification journey for [!DNL Adobe Analytics] Architect Master
 
-Learn how to become a certified Analytics Architect master.
+Learn how to become a certified Analytics Architect Master.
 
-## Minimum experience:
+## Minimum experience
 
-You should have a minimum 3-4 years of experience designing Adobe Analytics architecture, data layer specifications, and tag management, as well as a basic understanding of JavaScript code. 
+You should have a minimum 3-4 years of experience designing [!DNL Adobe Analytics] architecture, data layer specifications, and tag management, as well as a basic understanding of JavaScript code. 
 
-Additionally, you're responsible for translating business requirements into tracking specifications and Adobe Analytics variables, and you're familiar with the following technologies and environments:
+Additionally, you're responsible for translating business requirements into tracking specifications and [!DNL Adobe Analytics] variables, and you're familiar with the following technologies and environments:
 
 * Web Analytics Applications
 * Adobe Experience Cloud
@@ -26,7 +26,7 @@ Additionally, you're responsible for translating business requirements into trac
 
 >[!NOTE]
 >
->Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
+>Your certification is valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
 
 >[!BEGINTABS]
 
@@ -93,7 +93,7 @@ The sample questions allow you to see the type and format of items that you will
 
 **Section 1: Discovery**
 
-* [Implement Adobe Analytics](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=en){target="_blank"} 
+* [Implement [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=en){target="_blank"} 
 * [Analytics Components Guide](https://experienceleague.adobe.com/docs/analytics/components/home.html?lang=en){target="_blank"} 
 * [Tags overview](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html?lang=en){target="_blank"} 
 * [Analytics Tech Notes](https://experienceleague.adobe.com/docs/analytics/technotes/home.html?lang=en){target="_blank"} 
@@ -106,7 +106,7 @@ The sample questions allow you to see the type and format of items that you will
 * [Analytics Tools Guide](https://experienceleague.adobe.com/docs/analytics/analyze/home.html?lang=en){target="_blank"} 
 * [iOS SDK 4.x for Experience Cloud Solutions](https://experienceleague.adobe.com/docs/mobile-services/ios/overview.html?lang=en){target="_blank"} 
 * [Analytics Import Guide](https://experienceleague.adobe.com/docs/analytics/import/home.html?lang=en){target="_blank"} 
-* [Implement Adobe Analytics](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=en){target="_blank"} 
+* [Implement [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=en){target="_blank"} 
 * [Analytics Tutorials](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html?lang=en){target="_blank"} 
 * [Administrative roles](https://helpx.adobe.com/in/enterprise/using/admin-roles.html){target="_blank"} 
 * [Admin Console overview](https://helpx.adobe.com/in/enterprise/using/admin-console.html#Settings){target="_blank"} 
@@ -114,7 +114,7 @@ The sample questions allow you to see the type and format of items that you will
 
 **Section 3: Post Implementation**
 
-* [Implement Adobe Analytics](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=en){target="_blank"}
+* [Implement [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=en){target="_blank"}
 * [Analytics Components Guide](https://experienceleague.adobe.com/docs/analytics/components/home.html?lang=en){target="_blank"}
 * [Analytics Admin Guide](https://experienceleague.adobe.com/docs/analytics/admin/home.html?lang=en){target="_blank"}
 * [The Event-Driven Data Layer](https://jimalytics.com/tag-management/the-event-driven-data-layer/){target="_blank"}
@@ -130,7 +130,7 @@ The sample questions allow you to see the type and format of items that you will
 
 >[!IMPORTANT]
 >
->The following sections and links will **only** function after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
+>The following sections and links will function **only**  after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
 
 
 **Now that you have successfully logged in, the following links will be directly accessible.**
@@ -150,7 +150,7 @@ Go to the [Adobe Certification Exam Prep Portal](https://www.certmetrics.com/ado
 Adobe uses two vendors to administer proctored exams, PSI and Examity. 
 
 * **PSI** offers test center and Japanese exam options (where available) 
-* **Examity** offers a remote online option
+* **[!DNL Examity]** offers a remote online option
 
 To schedule, reschedule, or cancel your exam, simply click on the vendor of choice, and follow the instructions provided on screen. It's that simple!
 
@@ -166,6 +166,6 @@ You can apply the voucher code when you schedule your exam. If you have a discou
 
 **Questions**
 
-View the certification [FAQs](https://experienceleague.corp.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+View the certification [FAQ](https://experienceleague.corp.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
 Additional questions? Please email `certif@adobe.com`

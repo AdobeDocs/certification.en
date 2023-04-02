@@ -1,23 +1,23 @@
 ---
-title: Adobe Experience Platform Certification
-description: Learn how to become a certified Adobe Experience Platform expert.
+title: Platform certification
+description: Learn how to become a certified Adobe [!DNL Experience Platform] Expert.
 solution: Experience Platform
 role: Developer
 badge: label="Exam AD0-E600 & AD7-E601" type="positive"
 mini-toc-levels: 1
 ---
 
-# Certification journey for Adobe Experience Platform expert
+# Certification journey for Adobe [!DNL Experience Platform] Expert
 
-Learn how to become a certified Adobe Experience Platform expert.
+Learn how to become a certified Adobe [!DNL Experience Platform] Expert.
 
-## Minimum experience:
+## Minimum experience
 
 To earn a certification with exam, you need to pass 2 distinct exams with a proctor present, online or on-site, where available.
 
 You should have:
 
-* Basic knowledge of Experience Platform and can navigate through the UI
+* Basic knowledge of [!DNL Experience Platform] and can navigate through the UI
 * The ability to create segments and build audiences (logic included in that)
 * The ability to configure destinations
 * The ability to connect segments to destinations
@@ -32,7 +32,7 @@ You should have:
 
 >[!NOTE]
 >
->Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
+>Your certification is valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
 
 >[!BEGINTABS]
 
@@ -48,9 +48,9 @@ You should have:
 * Technical Consultant
 
 
-**Requirement 1: AD0-E600 Adobe Experience Platform Technical Foundations**
+**Requirement 1: AD0-E600 Adobe [!DNL Experience Platform] Technical Foundations**
 
-The AD0-E600 exam validates skills and knowledge covering the basic features and frequently performed tasks of Adobe Experience Platform at the Expert level.
+The AD0-E600 exam validates skills and knowledge covering the basic features and frequently performed tasks of Adobe [!DNL Experience Platform] at the Expert level.
 
 **Exam details:**
 
@@ -107,7 +107,7 @@ Here are some suggested resources to help you prepare:
 **Section 1: Data modeling**
 
 * [Understanding Schemas](https://experienceleague.adobe.com/docs/experience-platform/xdm/schema/composition.html){target="_blank"}
-* [Schema and XDM Overview / Adobe Experience Platform: Data Modeling and Ingestion](https://video.tv.adobe.com/v/27105){target="_blank"}
+* [Schema and XDM Overview / Adobe [!DNL Experience Platform]: Data Modeling and Ingestion](https://video.tv.adobe.com/v/27105){target="_blank"}
 * [Model data in Schemas](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/model-data-in-schemas.html){target="_blank"}
 * [Schema and XDM Overview](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/schemas-and-experience-data-model.html){target="_blank"}
 
@@ -131,7 +131,7 @@ Here are some suggested resources to help you prepare:
 
 >[!IMPORTANT]
 >
->The following sections and links will **only** function after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
+>The following sections and links will function **only**  after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
 
 **Now that you have successfully logged in, the following links will be directly accessible.**
 
@@ -150,7 +150,7 @@ Go to the [Adobe Certification Exam Prep Portal](https://www.certmetrics.com/ado
 Adobe uses two vendors to administer proctored exams, PSI and Examity. 
 
 * **PSI** offers test center and Japanese exam options (where available) 
-* **Examity** offers a remote online option
+* **[!DNL Examity]** offers a remote online option
 
 To schedule, reschedule, or cancel your exam, simply click on the vendor of choice, and follow the instructions provided on screen. It's that simple!
 
@@ -170,7 +170,7 @@ You can apply the voucher code when you schedule your exam. If you have a discou
 
 **Requirement 2: AD7-E601 Adobe Real-Time CDP Technical Practitioner**
 
-The AD7-E601 exam covers the creation, management and understanding of customer profile, segmentation, destinations across sources, and other topics. The exam validates the foundational skills and knowledge needed to employ Real-time CDP for audience segmentation, destination exports, and activation on a real-time basis for unified profiles that adhere to data and privacy regulations. Candidates should have experience with Customer Data Platforms (CDP) and knowledge of Adobe Experience Platform.
+The AD7-E601 exam covers the creation, management and understanding of customer profile, segmentation, destinations across sources, and other topics. The exam validates the foundational skills and knowledge needed to employ Real-time CDP for audience segmentation, destination exports, and activation on a real-time basis for unified profiles that adhere to data and privacy regulations. Candidates should have experience with Customer Data Platforms (CDP) and knowledge of Adobe [!DNL Experience Platform].
 
 **Exam details:**
 
@@ -222,7 +222,7 @@ Section 3: Destinations (27%)
 * [Getting started with Real-Time CDP](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/intro/rtcdp-intro/get-started.html?lang=en){target="_blank"} 
 * [Real-Time Customer Data Platform home page and dashboards](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/intro/rtcdp-intro/home-page-dashboards.html?lang=en){target="_blank"}
 * [Monitor dataflows for destinations in the UI](https://experienceleague.adobe.com/docs/experience-platform/dataflows/ui/monitor-destinations.html?lang=en){target="_blank"}
-* [Create and Activate Segments in Adobe Experience Platform](https://learning.adobe.com/catalog/adobe_experienceplatform/cours000000000097681.html){target="_blank"}
+* [Create and Activate Segments in Adobe [!DNL Experience Platform]](https://learning.adobe.com/catalog/adobe_experienceplatform/cours000000000097681.html){target="_blank"}
 * [Privacy overview](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/privacy/privacy-overview.html?lang=en){target="_blank"}
 * [Data Governance in Real-time CDP](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/privacy/data-governance-overview.html?lang=en){target="_blank"}
 * [Apply data governance framework](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/apply-data-governance-framework.html?lang=en){target="_blank"}
@@ -249,7 +249,7 @@ Section 3: Destinations (27%)
 * [Create multi-entry segments](https://video.tv.adobe.com/v/32179/){target="_blank"}
 * [Create segments with B2B data](https://video.tv.adobe.com/v/338252/){target="_blank"} 
 * [Demo of streaming segmentation](https://video.tv.adobe.com/v/36184){target="_blank"}
-* [Create and Activate Segments in Adobe Experience Platform](https://learning.adobe.com/catalog/adobe_experienceplatform/cours000000000097681.html){target="_blank"}
+* [Create and Activate Segments in Adobe [!DNL Experience Platform]](https://learning.adobe.com/catalog/adobe_experienceplatform/cours000000000097681.html){target="_blank"}
 * [Evaluate a segment](https://experienceleague.adobe.com/docs/experience-platform/segmentation/tutorials/evaluate-a-segment.html){target="_blank"}
 
 **Section 3: Destinations**
@@ -275,7 +275,7 @@ Section 3: Destinations (27%)
 
 >[!IMPORTANT]
 >
->The following sections and links will **only** function after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
+>The following sections and links will function **only**  after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
 
 **Now that you have successfully logged in, the following links will be directly accessible.**
 
@@ -294,7 +294,7 @@ Go to the [Adobe Certification Exam Prep Portal](https://www.certmetrics.com/ado
 Adobe uses two vendors to administer proctored exams, PSI and Examity. 
 
 * **PSI** offers test center and Japanese exam options (where available) 
-* **Examity** offers a remote online option
+* **[!DNL Examity]** offers a remote online option
 
 To schedule, reschedule, or cancel your exam, simply click on the vendor of choice, and follow the instructions provided on screen. It's that simple!
 
@@ -310,6 +310,6 @@ You can apply the voucher code when you schedule your exam. If you have a discou
 
 **Questions**
 
-View the certification [FAQs](https://experienceleague.corp.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+View the certification [FAQ](https://experienceleague.corp.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
 Additional questions? Please email `certif@adobe.com`.

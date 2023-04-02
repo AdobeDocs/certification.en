@@ -1,16 +1,16 @@
 ---
-title: Adobe Marketo Engage Professional Certification
-description: Learn how to become a certified Adobe Marketo professional.
+title: Professional certification
+description: Learn how to become a certified Adobe [!DNL Marketo Engage] Professional.
 solution: Marketo Engage
 role: Developer
 badge: label="Exam AD0-E555" type="positive"
 mini-toc-levels: 1
 ---
-# Certification journey for Adobe Marketo Engage professional
+# Certification journey for Adobe [!DNL Marketo Engage] professional
 
-Learn how to become a certified Adobe Marketo professional.
+Learn how to become a certified Adobe [!DNL Marketo] Professional.
 
-## Minimum experience:
+## Minimum experience
 
 You should have:
 
@@ -20,18 +20,18 @@ You should have:
 * The ability to create a Smart List and Smart Campaign
 * Knowledge of how to create segmentations
 * An understanding of Data review (cleanup)
-* An understanding of Database (how to create people, Activity Log, unsubscribe, Blocklist, email invalid concepts)
+* An understanding of Database (how to create people, Activity Log, unsubscribe, blocklist, email invalid concepts)
 * The Ability to understand the importance of privacy regulations
 * Understanding of Email marketing
 
 And, you should be familiar with the following tools and technologies:
 
-* Adobe Marketo Engage
+* Adobe [!DNL Marketo Engage]
 * Excel or Google Sheets/Doc
 
 >[!NOTE]
 >
->Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
+>Your certification is valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
 
 >[!BEGINTABS]
 
@@ -99,7 +99,7 @@ Section 3: Defining and targeting audiences (33%)
 * Interpret Smart Campaign results.
 * Describe the purpose of a segmentation and its use.
 * Identify and navigate the Database.
-* Explain how to set privacy settings in Adobe Marketo Engage.
+* Explain how to set privacy settings in Adobe [!DNL Marketo Engage].
 * Differentiate between Smart Lists and Static Lists.
 * Define system Smart Lists.
 * Compare and contrast the different types of Smart Campaigns.
@@ -108,7 +108,7 @@ Section 3: Defining and targeting audiences (33%)
 
 Section 4: Analyzing and building reports (9%)
 
-* Explain the standard Adobe Marketo Engage reports and when they should be used (Email Link Performance, Email Performance, Landing Page Performance, People Performance, Program Performance, Web Page Activity, etc.)
+* Explain the standard Adobe [!DNL Marketo Engage] reports and when they should be used (Email Link Performance, Email Performance, Landing Page Performance, People Performance, Program Performance, Web Page Activity, etc.)
 * Comprehend Dashboard information and metrics (Email Program Dashboard, Engagement Program Dashboard)
 * Comprehend Email Insights metrics
 
@@ -159,7 +159,7 @@ The sample questions allow you to see the type and format of items that you will
 
 >[!IMPORTANT]
 >
->The following sections and links will **only** function after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
+>The following sections and links will function **only**  after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
 
 **Now that you have successfully logged in, the following links will be directly accessible.**
 
@@ -168,7 +168,7 @@ The sample questions allow you to see the type and format of items that you will
 Adobe uses two vendors to administer proctored exams, PSI and Examity. 
 
 * **PSI** offers test center and Japanese exam options (where available) 
-* **Examity** offers a remote online option
+* **[!DNL Examity]** offers a remote online option
 
 To schedule, reschedule, or cancel your exam, simply click on the vendor of choice, and follow the instructions provided on screen. It's that simple!
 
@@ -184,6 +184,6 @@ You can apply the voucher code when you schedule your exam. If you have a discou
 
 **Questions**
 
-View the certification [FAQs](https://experienceleague.corp.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+View the certification [FAQ](https://experienceleague.corp.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
 Additional questions? Please email `certif@adobe.com`.

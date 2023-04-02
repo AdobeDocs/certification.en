@@ -1,50 +1,50 @@
 ---
-title: Adobe Commerce Architect Master Certification
-description: Learn how to become a certified Adobe Architect master.
+title: Architect Master certification
+description: Learn how to become a certified Adobe Architect master in Adobe [!DNL Commerce].
 solution: Commerce
 role: Developer
 badge: label="Exam AD0-E718" type="positive"
 mini-toc-levels: 1
 ---
-# Certification journey for Adobe Commerce Architect master
+# Certification journey for Adobe [!DNL Commerce] Architect Master
 
-Learn how to become a certified Adobe Architect master.
+Learn how to become a certified Adobe Architect Master.
 
-## Minimum experience:
+## Minimum experience
 
-You should have at least 3-5 year experience leading Commerce development projects and are able to design, integrate, implement, and explain solutions to business problems by utilizing Adobe Commerce along with associated services.
+You should have at least 3-5 year experience leading [!DNL Commerce] development projects and are able to design, integrate, implement, and explain solutions to business problems by utilizing Adobe [!DNL Commerce] along with associated services.
 
 Additionally, you should be very familiar with the following activities and technologies:
 
 * Extend core features
-* Configure Adobe Commerce fully
+* Configure Adobe [!DNL Commerce] fully
 * Create full blueprint of how an extension should work, requirements of company to blueprint of how it should work, without having to go into the code
 * Understand business needs/features
 * Performance implications of solutions and extensions
 * Service contracts logic
 * GraphQL
 * Understand Composer as a dependency tool
-* Set up and configure working instance of Adobe Commerce from scratch
+* Set up and configure working instance of Adobe [!DNL Commerce] from scratch
 * Customize admin dashboard, creating grids and forms
 * Cache and index management; creating custom index
 * Create new cache type
 * Troubleshoot and debug various problems in environment
 * Extend and manage database schema
 * Security features, provide secure installation and development extension
-* Perform server-based services which Commerce connects (Redis, Varnish configuration management)
+* Perform server-based services which [!DNL Commerce] connects (Redis, Varnish configuration management)
 * Aware of best coding standard practice, Coding standards, PSR, SOLID principle
-* Set up and use Commerce Services Connector (and associated services)
+* Set up and use [!DNL Commerce] Services Connector (and associated services)
 * Staging content management
-* Understanding Adobe Commerce defaults, when its' available and not available
-* Broad grasp of any related Commerce domain
+* Understanding Adobe [!DNL Commerce] defaults, when its' available and not available
+* Broad grasp of any related [!DNL Commerce] domain
 * Design project architecture
-* Optimize performance of Adobe Commerce default
+* Optimize performance of Adobe [!DNL Commerce] default
 * Creating and modifying B2B
-* AMQP protocol and adapters in Adobe Commerce (S3)
+* AMQP protocol and adapters in Adobe [!DNL Commerce] (S3)
 
 >[!NOTE]
 >
->Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
+>Your certification is valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
 
 >[!BEGINTABS]
 
@@ -52,7 +52,7 @@ Additionally, you should be very familiar with the following activities and tech
 
 **Intended audience:**
 
-* Lead Software/Commerce Architect
+* Lead Software/[!DNL Commerce] Architect
 * Technical Architect
 * Solution Architect
 * Technical Lead
@@ -85,31 +85,31 @@ Complete the [online readiness questionnaire](https://scorpion.caveon.com/launch
 
 Section 1: Design (46%)
 
-* Design and implement optimal solutions for Adobe Commerce to meet business needs
+* Design and implement optimal solutions for Adobe [!DNL Commerce] to meet business needs
 * Design logical and technical flows
-* Customize Commerce features
-* Integrate Adobe Commerce with external systems and services
+* Customize [!DNL Commerce] features
+* Integrate Adobe [!DNL Commerce] with external systems and services
 * Troubleshoot design flows
 
 Section 2- Review (32%)
 
-* Review and refactor existing Adobe Commerce customizations
-* Utilize Commerce test frameworks throughout the whole workflow
-* Optimize performance and scalability for Adobe Commerce
-* Troubleshoot to identify the root cause of issues with Adobe Commerce
+* Review and refactor existing Adobe [!DNL Commerce] customizations
+* Utilize [!DNL Commerce] test frameworks throughout the whole workflow
+* Optimize performance and scalability for Adobe [!DNL Commerce]
+* Troubleshoot to identify the root cause of issues with Adobe [!DNL Commerce]
 * Enforce coding standards
 
 Section 3: Configure and Deploy (22%)
 
-* Configure Adobe Commerce and make sure the project is set up optimally
-* Configure all aspects of Adobe Commerce Cloud
+* Configure Adobe [!DNL Commerce] and make sure the project is set up optimally
+* Configure all aspects of Adobe [!DNL Commerce] Cloud
 * Oversee and improve deployment process
 * Troubleshoot infrastructure and configuration issues
 
 Section 4: Compliance/security basics (13%)
 
 * Understand basics of compliance for privacy laws and payment security
-* Identify common security aspects of an Adobe Commerce project
+* Identify common security aspects of an Adobe [!DNL Commerce] project
 * Identify best practices and legal requirements of accessibility compliance
 
 >[!TAB Get prepped]
@@ -128,7 +128,7 @@ The sample questions allow you to see the type and format of items that you will
 
 * [Create a product](https://docs.magento.com/user-guide/catalog/product-create.html){target="_blank"} 
 * [Page caching](https://developer.adobe.com/commerce/php/development/cache/page/){target="_blank"} 
-* [Introduction to Commerce Customer Management](https://docs.magento.com/user-guide/customers/customers-menu.html){target="_blank"} 
+* [Introduction to [!DNL Commerce] Customer Management](https://docs.magento.com/user-guide/customers/customers-menu.html){target="_blank"} 
 * [Events and observers](https://developer.adobe.com/commerce/php/development/components/events-and-observers/){target="_blank"} 
 * [SEO overview](https://docs.magento.com/user-guide/marketing/seo-search.html){target="_blank"} 
 * [Store Details](https://docs.magento.com/user-guide/configuration/configuration-basic.html){target="_blank"} 
@@ -159,17 +159,17 @@ The sample questions allow you to see the type and format of items that you will
 
 >[!IMPORTANT]
 >
->The following sections and links will **only** function after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
+>The following sections and links will function **only** after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
 
 
 **Now that you have successfully logged in, the following links will be directly accessible.**
 
 **Take the certification exam**
 
-Adobe uses two vendors to administer proctored exams, PSI and Examity. 
+Adobe uses two vendors to administer proctored exams, PSI and [!DNL Examity]. 
 
 * **PSI** offers test center and Japanese exam options (where available) 
-* **Examity** offers a remote online option
+* **[!DNL Examity]** offers a remote online option
 
 To schedule, reschedule, or cancel your exam, simply click on the vendor of choice, and follow the instructions provided on screen. It's that simple!
 
@@ -185,6 +185,6 @@ You can apply the voucher code when you schedule your exam. If you have a discou
 
 **Questions**
 
-View the certification [FAQs](https://experienceleague.corp.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+View the certification [FAQ](https://experienceleague.corp.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
 Additional questions? Please email `certif@adobe.com`.

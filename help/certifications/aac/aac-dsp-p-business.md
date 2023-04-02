@@ -1,20 +1,20 @@
 ---
-title: Adobe Advertising DSP Business Practitioner Professional Certification
-description: Learn how to become certified as an Adobe Advertising DSP Business Practitioner professional.
+title: Business Practitioner Professional certification
+description: Learn how to become certified as an Adobe [!DNL Advertising DSP] Business Practitioner Professional.
 solution: Advertising
 role: Developer
 badge: label="Exam AD0-E502" type="positive"
 mini-toc-levels: 1
 ---
-# Certification journey for Adobe Advertising DSP Business Practitioner professional
+# Certification journey for [!DNL Advertising DSP] Business Practitioner Professional
 
-Learn how to become a certified Advertising DSP Business Practitioner professional.
+Learn how to become a certified [!DNL Advertising DSP] Business Practitioner professional.
 
-## Minimum experience:
+## Minimum experience
 
 You should have:
 
-* 6+ months experience with Adobe Advertising
+* 6+ months experience with [!DNL Adobe Advertising]
 * Experience in planning and or measuring key performance indicators in media buying software
 
 Familiarity with the following tools and technologies:
@@ -28,7 +28,7 @@ Familiarity with the following tools and technologies:
 
 >[!NOTE]
 >
->Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
+>Your certification is valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
 
 >[!BEGINTABS]
 
@@ -96,18 +96,18 @@ Here are some suggested resources to help you prepare:
 **Section 1: Setting up campaigns**
 
 
-* [About Audience Management in Advertising DSP](https://experienceleague.adobe.com/docs/advertising/dsp/audiences/audience-about.html?lang=en){target="_blank"}
-* [Overview of Inventory Features in Advertising DSP](https://experienceleague.adobe.com/docs/advertising/dsp/inventory/inventory-overview.html?lang=en){target="_blank"}
-* [Campaign Settings](https://experienceleague.adobe.com/docs/advertising/dsp/campaign-management/campaigns/campaign-settings.html?lang=en){target="_blank"}
+* [About Audience Management in [!DNL Advertising DSP]](https://experienceleague.adobe.com/docs/advertising/dsp/audiences/audience-about.html?lang=en){target="_blank"}
+* [Overview of Inventory Features in [!DNL Advertising DSP]](https://experienceleague.adobe.com/docs/advertising/dsp/inventory/inventory-overview.html?lang=en){target="_blank"}
+* [[!DNL Campaign] Settings](https://experienceleague.adobe.com/docs/advertising/dsp/campaign-management/campaigns/campaign-settings.html?lang=en){target="_blank"}
 * [Placement Settings](https://experienceleague.adobe.com/docs/advertising/dsp/campaign-management/placements/placement-settings.html?lang=en){target="_blank"}
 
 **Section 2: Running and optimizing campaigns**
 
-* [How Advertising DSP Optimizes Your Campaigns](https://experienceleague.adobe.com/docs/advertising/dsp/optimization/optimization-how-dsp-optimizes-campaigns.html?lang=en){target="_blank"}
+* [How [!DNL Advertising DSP] Optimizes Your Campaigns](https://experienceleague.adobe.com/docs/advertising/dsp/optimization/optimization-how-dsp-optimizes-campaigns.html?lang=en){target="_blank"}
 * [About Custom Goals](https://experienceleague.adobe.com/docs/advertising/dsp/optimization/custom-goals/custom-goal-about.html?lang=en){target="_blank"}
 * [Best Practices for Setting up Performance Campaigns](https://experienceleague.adobe.com/docs/advertising/dsp/optimization/campaign-best-practices-performance.html?lang=en){target="_blank"}
 * [About On Demand Premium Inventory](https://experienceleague.adobe.com/docs/advertising/dsp/inventory/on-demand/on-demand-inventory-about.html?lang=en){target="_blank"}
-* [Reporting with Advertising Marketing Channels](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/integrations/ad-cloud/reporting-with-advertising-cloud-marketing-channels.html?lang=en){target="_blank"}
+* [Reporting with [!DNL Advertising] Marketing Channels](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/integrations/ad-cloud/reporting-with-advertising-cloud-marketing-channels.html?lang=en){target="_blank"}
 
 **Section 3: Reporting and analyzing**
 
@@ -115,14 +115,14 @@ Here are some suggested resources to help you prepare:
 
 **Section 4: Supplying recommendations for campaigns**
 
-* [How Advertising DSP Optimizes Your Campaigns](https://experienceleague.adobe.com/docs/advertising/dsp/optimization/optimization-how-dsp-optimizes-campaigns.html?lang=en){target="_blank"}
-* [About Ad Management in Advertising DSP](https://experienceleague.adobe.com/docs/advertising/dsp/campaign-management/ads/ad-about.html?lang=en){target="_blank"}
+* [How [!DNL Advertising] DSP Optimizes Your Campaigns](https://experienceleague.adobe.com/docs/advertising/dsp/optimization/optimization-how-dsp-optimizes-campaigns.html?lang=en){target="_blank"}
+* [About Ad Management in [!DNL Advertising] DSP](https://experienceleague.adobe.com/docs/advertising/dsp/campaign-management/ads/ad-about.html?lang=en){target="_blank"}
 
 >[!TAB Get certified]
 
 >[!IMPORTANT]
 >
->The following sections and links will **only** function after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
+>The following sections and links will function **only**  after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
 
 
 **Now that you have successfully logged in, the following links will be directly accessible.**
@@ -132,7 +132,7 @@ Here are some suggested resources to help you prepare:
 Adobe uses two vendors to administer proctored exams, PSI and Examity. 
 
 * **PSI** offers test center and Japanese exam options (where available) 
-* **Examity** offers a remote online option
+* **[!DNL Examity]** offers a remote online option
 
 To schedule, reschedule, or cancel your exam, simply click on the vendor of choice, and follow the instructions provided on screen. It's that simple!
 
@@ -148,6 +148,6 @@ You can apply the voucher code when you schedule your exam. If you have a discou
 
 **Questions**
 
-View the certification [FAQs](https://experienceleague.corp.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+View the certification [FAQ](https://experienceleague.corp.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
 Additional questions? Please email `certif@adobe.com`.

@@ -1,14 +1,14 @@
 ---
 title: FAQ
-description: Have questions about the Adobe Certification program? Go to this page to learn more.
+description: Get answers to questions about the Adobe Certification program. Learn about the benefits of certification, how to register, and whom you can contact.
 role: Developer
 recommendations: disable, exclude
 badge: label="FAQs" type="positive"
 mini-toc-levels: 1
 ---
-# Adobe Certification FAQ
+# Adobe certification FAQ
 
-Refer to the frequently asked questions below, to learn more about Adobe's certification program.
+To learn more about the Adobe Certification program, refer to the frequently asked questions (FAQ) below.
 
 ![Banner](/help/certifications/assets/home_banner_narrow.png)
 
@@ -20,9 +20,9 @@ Refer to the frequently asked questions below, to learn more about Adobe's certi
 
 Individual benefits: Certification is a credential that recognizes an individual's skill and competency in an Adobe application. A candidate who passes the certification exam becomes an Adobe Certified Professional, Expert, or Master.  
 
-Certifications require commitment, are legally defensible, and validation from Adobe of your expertise. You can also feature your certification on your social profiles by downloading your badge from Credly. 
+Certifications require commitment, are legally defensible, and validation from Adobe of your expertise. You can also feature your certification on your social profiles by downloading your badge from [!DNL Credly]. 
 
-To learn more about how to manage your badges in Credly, go [HERE](https://experienceleague.corp.adobe.com/docs/certification/certification/how-to-get-certified.html?lang=en){target="_blank"}.
+To learn more about how to manage your badges in [!DNL Credly], go [HERE](https://experienceleague.corp.adobe.com/docs/certification/certification/how-to-get-certified.html?lang=en){target="_blank"}.
 
 +++
 
@@ -30,7 +30,7 @@ To learn more about how to manage your badges in Credly, go [HERE](https://exper
 
 Certifications are role-based, which means there are multiple exams available. Review the exam guides on the certification page to choose which exam to take. You will choose the exam by:
 
-* Application: for example, Adobe Analytics or Marketo Engage 
+* Application: for example, [!DNL Adobe Analytics] or [!DNL Marketo Engage] 
 * Role: for example, developer or business practitioner 
 * Level: for example, Professional, 0-12 months of experience; or Expert 1-3 years 
 
@@ -49,27 +49,27 @@ Add content
 
 +++What if I have technical issues during my proctored exam? 
 
-PSI and Examity have support available by chat, email, and phone. Adobe support can't help with technical issues that occur during the exam. 
+PSI and [!DNL Examity] have support available by chat, email, and phone. Adobe support can't help with technical issues that occur during the exam. 
 
-Examity Support - `adobepartnersupport@examity.com`
+[!DNL Examity] Support - `adobepartnersupport@examity.com`
 
 PSI Support - `psisupport@psionline.com`
 
 The quickest help resource is through their chat. All test candidates should ensure their computer has the proper system requirements before taking their exam. 
 
-For more details, see: PSI, and Examity pages for managing exams and technical setup. 
+For more details, see: PSI, and [!DNL Examity] pages for managing exams and technical setup. 
 
 +++
 
 +++Who can I can I contact with certification questions or problems?
 
-For questions about exam registration, exam payments, test delivery, testing centers, comments on exams, exam questions, testing experience, test accommodations, or questions about the certification portal, reach out to `certif@adobe.com`. 
+For questions about exam registration, exam payments, test delivery, testing centers, comments on exams, exam questions, testing experience, test accommodations, or questions about the certification portal, reach out to `certif@adobe.com`. 
 
 +++
 
 +++Can Adobe accommodate candidates with special needs?
 
-Adobe allows accommodations to candidates who are identified as having special needs. If you need additional time to complete your exam or another accommodation, please contact `examaccommodations@adobe.com` or `certif@adobe.com`. 
+Adobe allows accommodations to candidates who are identified as having special needs. If you need additional time to complete your exam or another accommodation, please contact `examaccommodations@adobe.com` or `certif@adobe.com`. 
 
 +++
 
@@ -83,11 +83,11 @@ If a candidate fails on their first attempt to pass any Adobe certification exam
 
 +++How can I get a copy of my score report? 
 
-* Step 1: Go to the login for the Adobe Certification Manager, CertMetrics. Sign in using your ID or email address and password. 
-* Step 2: Click Transcripts. 
+* Step 1: Go to the login for the Adobe Certification Manager, CertMetrics. Sign in using your ID or email address and password. 
+* Step 2: Click Transcripts. 
 * Step 3: Scroll through your transcript history and select the report you'd like to view. You can have the report emailed to you or view it onscreen
 
-To view your exam history and records, follow the instructions on this [page](https://spark.adobe.com/page/sqnjCTRNzylRy/){target="_blank"}. 
+To view your exam history and records, follow the instructions on this [page](https://spark.adobe.com/page/sqnjCTRNzylRy/){target="_blank"}. 
 
 +++
 
@@ -105,7 +105,7 @@ After you complete your exam, your results will immediately be displayed on-scre
 
 +++How do I sign in to or create an Adobe Credential Management/Certmetrics account?
 
-You can [sign in to or create an account](https://www.certmetrics.com/adobe/){target="_blank"}. There you view the available exams, your exam history, certification expiration dates, and any benefits, such as discounts, available to you. 
+You can [sign in to or create an account](https://www.certmetrics.com/adobe/){target="_blank"}. There you view the available exams, your exam history, certification expiration dates, and any benefits, such as discounts, available to you. 
 
 +++
 
@@ -142,9 +142,9 @@ Adobe certifications expire after two years. You can renew your certification by
 You have two options: 
 
 * Take the regular certification exam 
-* Take the renewal exam—a shorter exam that focuses on the newest solution capabilities as well as the things you already know.  
+* Take the renewal exam--a shorter exam that focuses on the newest solution capabilities as well as the things you already know.
 
-You can't take a renewal exam if you don't have the original certification or if your certification has expired. 
+You can't take a renewal exam if you don't have the original certification or if your certification has expired. 
 
 Occasionally, we retire an exam for a role. In that case, your certification will last for two years, then that certification will expire. For example, we no longer offer the Lead/Dev Ops certification, so that certification will expire without a replacement exam.
 
@@ -152,9 +152,9 @@ Occasionally, we retire an exam for a role. In that case, your certification wil
 
 +++What happens if I don't renew my certification before it expires?
 
-Your certification will expire and will show as expired in Credly and any of your social profiles. Also, if your certification expires, then you can't take the shorter renewal exam or renew via continuous learning. 
+Your certification will expire and will show as expired in [!DNL Credly] and any of your social profiles. Also, if your certification expires, then you can't take the shorter renewal exam or renew via continuous learning. 
 
-To learn more about how to manage your badges in Credly, go [HERE](https://experienceleague.corp.adobe.com/docs/certification/certification/how-to-get-certified.html?lang=en){target="_blank"}.
+To learn more about how to manage your badges in [!DNL Credly], go [HERE](https://experienceleague.corp.adobe.com/docs/certification/certification/how-to-get-certified.html?lang=en){target="_blank"}.
 
 +++
 
@@ -168,15 +168,15 @@ To learn more about How to Renew Your Certification, go [here](https://experienc
 
 +++Where can I see my certification expiration date? Will I get a notice? 
 
-Sign in to [Adobe Credential Management System](https://www.certmetrics.com/adobe/){target="_blank"}. There you can see when you achieved your credential and when it will expire. You should also check your profile and confirm that your contact, secondary email and job information are correct. 
+Sign in to [Adobe Credential Management System](https://www.certmetrics.com/adobe/){target="_blank"}. There you can see when you achieved your credential and when it will expire. You should also check your profile and confirm that your contact, secondary email and job information are correct. 
 
-You will get an email notification one month before your certification expires. But if you have changed jobs and haven't updated your email then you might not get notified. Add a secondary email (such as Gmail, Hotmail, Yahoo, etc.) in your CertMetrics account, so that you get a certification expiration reminder email, even if you change companies. 
+You will get an email notification one month before your certification expires. But if you have changed jobs and haven't updated your email then you might not get notified. Add a secondary email (such as Gmail, Hotmail, Yahoo, etc.) in your CertMetrics account, so that you get a certification expiration reminder email, even if you change companies. 
 
 +++
 
 +++Which exam do I need to take for my renewal?
 
-To find out what exam you will need to take, log in to the [Adobe Credential Management System](https://www.certmetrics.com/adobe/){target="_blank"} using your Adobe ID, click Certifications, and select the certification name. The renewal exam is listed under **requirement to stay current**. 
+To find out what exam you will need to take, log in to the [Adobe Credential Management System](https://www.certmetrics.com/adobe/){target="_blank"} using your Adobe ID, click Certifications, and select the certification name. The renewal exam is listed under **requirement to stay current**. 
 
 +++
 
@@ -232,13 +232,13 @@ No. All the activities are accessible via Adobe Credential Manager at no cost.
 
 +++Do I have to pass assessments and also submit a customer reference form?
 
-No, submitting a customer reference form is optional and one of the activities that candidates can complete to renew their certification. For example, Adobe Analytics certification renewal requires completing a minimum of 3 activities from a given list. The list includes passing 6 assessments and submitting a customer reference form. Candidate can pass 2 assessments and submit a customer reference form thereby meeting the minimum 3 requirements for renewal. 
+No, submitting a customer reference form is optional and one of the activities that candidates can complete to renew their certification. For example, [!DNL Adobe Analytics] certification renewal requires completing a minimum of 3 activities from a given list. The list includes passing 6 assessments and submitting a customer reference form. Candidate can pass 2 assessments and submit a customer reference form thereby meeting the minimum 3 requirements for renewal. 
 
 +++
 
 +++I hold three certifications in one solution. Do I need to complete the requirements for each certification? 
 
-No, you only need to complete the requirements listed for the solution. Your certification/s will be renewed after completing the required activities and submitting the results to the Adobe Credential Manager. For example, if you hold multiple certifications in Adobe Analytics as a Business Practitioner, Developer, and an Architect, you only need to complete 3 activities to meet renewal requirements for all certifications to be renewed. 
+No, you only need to complete the requirements listed for the solution. Your certification/s will be renewed after completing the required activities and submitting the results to the Adobe Credential Manager. For example, if you hold multiple certifications in [!DNL Adobe Analytics] as a Business Practitioner, Developer, and an Architect, you only need to complete 3 activities to meet renewal requirements for all certifications to be renewed. 
 
 +++
 
@@ -308,63 +308,63 @@ All active Adobe certifications, except for those that have retired, are part of
 
 | Exam ID |  Exam Name |
 | ------- | ------- |
-| AD0-E121  | Adobe Experience Manager Sites Business Practitioner Expert |
-| AD0-E102 | Adobe Experience Manager Sites Business Practitioner Expert |
-| AD0-E103 | Adobe Experience Manager Sites Developer Expert |
-| AD0-E116 | Adobe Experience Manager Sites Developer Expert |
-| AD0-E106 | Adobe Experience Manager Dev/Ops Engineer Expert |
-| AD0-E117 | Adobe Experience Manager Sites Architect Master |
-| AD0-E104 | Adobe Experience Manager Sites Architect Master |
+| AD0-E121  | [!DNL Adobe Experience Manager Sites] Business Practitioner Expert |
+| AD0-E102 | [!DNL Adobe Experience Manager Sites] Business Practitioner Expert |
+| AD0-E103 | [!DNL Adobe Experience Manager Sites] Developer Expert |
+| AD0-E116 | [!DNL Adobe Experience Manager Sites] Developer Expert |
+| AD0-E106 | [!DNL Adobe Experience Manager] Dev/Ops Engineer Expert |
+| AD0-E117 | [!DNL Adobe Experience Manager Sites] Architect Master |
+| AD0-E104 | [!DNL Adobe Experience Manager Sites] Architect Master |
 
-**Adobe Analytics**
+**[!DNL Adobe Analytics]**
 
 | Exam ID |  Exam Name |
 | ------- | ------- |
-| AD0-E201 | Adobe Analytics Developer Expert |
-| AD0-E202 | Adobe Analytics Business Practitioner Expert |
-| AD0-E200 | Adobe Analytics Architect Master |
-| AD0-E207 | Adobe Analytics Architect Master |
+| AD0-E201 | [!DNL Adobe Analytics] Developer Expert |
+| AD0-E202 | [!DNL Adobe Analytics] Business Practitioner Expert |
+| AD0-E200 | [!DNL Adobe Analytics] Architect Master |
+| AD0-E207 | [!DNL Adobe Analytics] Architect Master |
 
 **Adobe Audience Manager**
 
 | Exam ID |  Exam Name |
 | ------- | ------- |
-| AD0-E454 |  Adobe Audience Manager Architect Master |
-| AD0-E452 |  Adobe Audience Manager Architect Master |
-| AD0-E453 | Adobe Audience Manager Business Practitioner Expert |
+| AD0-E454 |  [!DNL Adobe Audience Manager] Architect Master |
+| AD0-E452 |  [!DNL Adobe Audience Manager] Architect Master |
+| AD0-E453 | [!DNL Adobe Audience Manager] Business Practitioner Expert |
 
 **Adobe Campaign Classic**
 
 | Exam ID |  Exam Name |
 | ------- | ------- |
-| AD0-E300  | Adobe Campaign Classic Sites Business Practitioner Expert |
-| AD0-E314 | Adobe Campaign Classic Sites Business Practitioner Expert |
-| AD0-E318 | Adobe Campaign Classic Architect Master |
-| AD0-E303 | Adobe Campaign Classic Architect Master |
-| AD0-E312 | Adobe Campaign Classic Developer Expert |
-| AD0-E308 | Adobe Campaign Classic Developer Expert |
+| AD0-E300  | Adobe [!DNL Campaign Classic] Sites Business Practitioner Expert |
+| AD0-E314 | Adobe [!DNL Campaign Classic] Sites Business Practitioner Expert |
+| AD0-E318 | Adobe [!DNL Campaign Classic] Architect Master |
+| AD0-E303 | Adobe [!DNL Campaign Classic] Architect Master |
+| AD0-E312 | Adobe [!DNL Campaign Classic] Developer Expert |
+| AD0-E308 | Adobe [!DNL Campaign Classic] Developer Expert |
 
 **Adobe Campaign Standard**
 
 | Exam ID |  Exam Name |
 | ------- | ------- |
-| AD0-E307  | Adobe Campaign Standard Business Practitioner Expert |
-| AD0-E302 | Adobe Campaign Standard Business Practitioner Expert |
-| AD0-E306 | Adobe Campaign Standard Developer Expert |
-| AD0-E301 | Adobe Campaign Standard Developer Expert |
+| AD0-E307  | Adobe [!DNL Campaign Standard] Business Practitioner Expert |
+| AD0-E302 | Adobe [!DNL Campaign Standard] Business Practitioner Expert |
+| AD0-E306 | Adobe [!DNL Campaign Standard] Developer Expert |
+| AD0-E301 | Adobe [!DNL Campaign Standard] Developer Expert |
 
-**Adobe Marketo Engage**
+**Adobe [!DNL Marketo Engage]**
 
 | Exam ID |  Exam Name |
 | ------- | ------- |
-| AD0-E552  | Adobe Marketo Engage Business Practitioner (previously MCE) |
+| AD0-E552  | Adobe [!DNL Marketo Engage] Business Practitioner (previously MCE) |
 
 **Adobe Target**
 
 | Exam ID |  Exam Name |
 | ------- | ------- |
-| AD0-E401  | Adobe Target Business Practitioner Expert |
-| AD0-E402 | Adobe Target Architect Master |
+| AD0-E401  | [!DNL Adobe Target] Business Practitioner Expert |
+| AD0-E402 | [!DNL Adobe Target] Architect Master |
 
 +++
 
@@ -376,17 +376,17 @@ The Restart Program is meant only for certifications that expired prior to April
 
 +++
 
-**Marketo Engage Solution Architect (MCSA) and Adobe Commerce**
+**[!DNL Marketo Engage] Solution Architect (MCSA) and Adobe Commerce**
 
-+++I have an expired Marketo Certified Solution Architect (MCSA). Can I re-instate that through this Program? 
++++I have an expired [!DNL Marketo] Certified Solution Architect (MCSA). Can I re-instate that through this Program? 
 
-Candidates with an expired Marketo Certified Solution Architect Certification may pursue the Marketo Business Practitioner Restart path for partial requirement towards the new Marketo Engage Architect certification. Final requirement is to pass the new Marketo Engage Architect exam. For all MCSA expired certificate holders, we are running a 50% discount promotion until Dec 31, 2023, please contact certification support for details.
+Candidates with an expired [!DNL Marketo] Certified Solution Architect Certification may pursue the Marketo Business Practitioner Restart path for partial requirement towards the new [!DNL Marketo Engage] Architect certification. Final requirement is to pass the new [!DNL Marketo Engage] Architect exam. For all MCSA expired certificate holders, we are running a 50% discount promotion until Dec 31, 2023, please contact certification support for details.
 
 +++
 
-+++Why are Adobe Commerce Certifications not part of Adobe Certification Restart Program? 
++++Why are Adobe [!DNL Commerce] Certifications not part of Adobe Certification Restart Program? 
 
-There are no expired certificate holders for currently offered Adobe Commerce Certifications as of April 23, 2023. Therefore, all active Adobe Commerce Certified candidates have the option to renew through the continuous learning [renewal path for certification](https://experienceleague.corp.adobe.com/docs/certification/certification/technical-certifications/ac/ac-renew.html?lang=en){target="_blank"}. 
+There are no expired certificate holders for currently offered Adobe [!DNL Commerce] Certifications as of April 23, 2023. Therefore, all active Adobe [!DNL Commerce] Certified candidates have the option to renew through the continuous learning [renewal path for certification](https://experienceleague.corp.adobe.com/docs/certification/certification/technical-certifications/ac/ac-renew.html?lang=en){target="_blank"}. 
 
 +++
 

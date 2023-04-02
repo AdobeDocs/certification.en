@@ -1,21 +1,21 @@
 ---
-title: Adobe Campaign Classic Renewal
-description: Learn how to renew your certification before it expires.
+title: Certification renewal
+description: Learn how to renew your [!DNL Campaign Classic] certification before it expires.
 solution: Campaign Classic
 role: Developer
 badge: label="Campaign Classic Renewal" type="positive"
 mini-toc-levels: 1
 hidefromtoc: yes
 ---
-# Renew your Adobe Campaign Classic certification
+# Renew your Adobe [!DNL Campaign Classic] certification
 
 When you pass a certification exam, your certification is valid for two years.
 
-We're happy to announce that you are now able to renew your certification via a new, no-cost format. It involves using on-demand Adobe Experience League courses and tutorials—simply complete three activities to renew your certification at no cost. You must renew before your certification expires, or you will need to take the full exam to become certified again. 
+We're happy to announce that you are now able to renew your certification via a new, no-cost format. It involves using on-demand Experience League courses and tutorials--simply complete three activities to renew your certification at no cost. You must renew before your certification expires, or you will need to take the full exam to become certified again. 
 
->[!NOTE]
+>[!IMPORTANT]
 >
->IMPORTANT NOTE: The following exam links will **only** function after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
+>The following sections and links will function **only** after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
 
 >[!BEGINTABS]
 
@@ -29,9 +29,9 @@ We're happy to announce that you are now able to renew your certification via a 
 
 You should be currently certified (not expired) in:
 
-* **Adobe Campaign Classic Developer expert**
-* **Adobe Campaign Classic Business Practitioner expert**
-* **Adobe Campaign Classic Architect master**
+* **Adobe [!DNL Campaign Classic] Developer expert**
+* **Adobe [!DNL Campaign Classic] Business Practitioner expert**
+* **Adobe [!DNL Campaign Classic] Architect master**
 
 ## How to renew your certification:
 
@@ -50,7 +50,7 @@ Time: 110 mins
 Cost: FREE/non-proctored
 Delivery: On-demand
 Available languages: English
-Prerequisite: current (not expired) Adobe Campaign Classic expert and/or master certification
+Prerequisite: current (not expired) Adobe [!DNL Campaign Classic] expert and/or master certification
 Exam ID: AD5-E823
 
 ```
@@ -62,7 +62,7 @@ Section 1: Installation and system configuration (23%)
 * Given a scenario, determine which options should be used (i.e., moving things from stage to production)
 * Ability to use Packages to migrate between instances
 * Explain how deployment Wizard settings impact deliverability
-* Outline the underlying infrastructure of the hosting model available for Adobe Campaign Classic v8
+* Outline the underlying infrastructure of the hosting model available for Adobe [!DNL Campaign Classic] v8
 * Describe commonly used OOTB functions
 * Explain integration with other Adobe Experience Cloud products
 * Explain integration using standard external accounts
@@ -109,7 +109,7 @@ Here are some suggested resources to help you prepare:
 * [Managing packages](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/importing-and-exporting-data/managing-packages.html?lang=en){target="_blank"}
 * [Work with data packages](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/administration-basics/working-with-data-packages.html?lang=en){target="_blank"}
 * [Deploying an instance](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/initial-configuration/deploying-an-instance.html?lang=en)
-* [Integrating with Adobe Campaign Classic](https://experienceleague.adobe.com/docs/experience-manager-65/administering/integration/campaignonpremise.html?lang=en){target="_blank"}
+* [Integrating with Adobe [!DNL Campaign Classic]](https://experienceleague.adobe.com/docs/experience-manager-65/administering/integration/campaignonpremise.html?lang=en){target="_blank"}
 
 **Section 2: Customization**
 
@@ -120,7 +120,7 @@ Here are some suggested resources to help you prepare:
 
 **Section 3: Data architecture**
 
-* [Transition from Campaign Classic v7 to Campaign v8](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/v7-to-v8.html?lang=en){target="_blank"}
+* [Transition from [!DNL Campaign Classic] v7 to Campaign v8](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/v7-to-v8.html?lang=en){target="_blank"}
 * [Work with Sources and Destinations](https://experienceleague.adobe.com/docs/campaign-classic/using/integrating-with-adobe-experience-cloud/aep-sources-destinations/get-started-sources-destinations.html?lang=en){target="_blank"}
 * [Specific FFDA Campaign APIs](https://experienceleague.adobe.com/docs/campaign/campaign-v8/config/architecture/ffda/ffda-characteristics/new-apis.html?lang=en){target="_blank"}
 * [About Adobe ID](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/connect-to-campaign/connecting-via-an-adobe-id/about-adobe-id.html?lang=en){target="_blank"}
@@ -136,18 +136,18 @@ Here are some suggested resources to help you prepare:
 
 >[!IMPORTANT]
 >
->The following sections and links will **only** function after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
+>The following sections and links will function **only**  after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
 
 **Now that you have successfully logged in, the following links will be directly accessible.**
 
 This exam is free, open book, and un-proctored. You may take the exam up to three times. If you are unsuccessful after the third attempt, you must wait **30 days** to try again. Failure to comply might result in your certification being revoked.
 
-[Take the Adobe Campaign Classic renewal for Business Practitioner, Developer and Architect exam now - AD5-823](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=AD5-E823){target="_blank"}
+[Take the Adobe [!DNL Campaign Classic] renewal for Business Practitioner, Developer and Architect exam now - AD5-823](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=AD5-E823){target="_blank"}
 
 >[!ENDTABS]
 
 **Questions**
 
-View the certification [FAQs](https://experienceleague.corp.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+View the certification [FAQ](https://experienceleague.corp.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
 Additional questions? Please email `certif@adobe.com`.

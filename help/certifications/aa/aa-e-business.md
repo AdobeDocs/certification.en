@@ -1,16 +1,16 @@
 ---
-title: Adobe Analytics Business Practitioner Certification
-description: Learn how to become certified as an Adobe Business Practitioner expert.
+title: Business Practitioner certification
+description: Learn how to become certified as an Adobe Business Practitioner Expert in [!DNL Adobe Analytics]
 solution: Analytics
 role: Developer
 badge: label="Exam AD0-E208" type="positive"
 mini-toc-levels: 1
 ---
-# Certification journey for Adobe Analytics Business Practitioner expert
+# Certification journey for [!DNL Adobe Analytics] Business Practitioner Expert
 
-Learn how to become a certified Analytics Business Practitioner expert.
+Learn how to become a certified Analytics Business Practitioner Expert.
 
-## Minimum experience:
+## Minimum experience
 
 You should have:
 
@@ -22,15 +22,15 @@ You should have:
 * The ability to communicate results and can propose a course of action based on analysis of reports
 * Helped clients understand how to extract/pull the information they want (e.g. help them define their business questions)
 * An understanding how the technology works and understands a client's implementation (e.g. where the data sits, how it can be collected, how it is tracked) from a functional standpoint
-* At least one year of Adobe Analytics hands-on experience
+* At least one year of [!DNL Adobe Analytics] hands-on experience
 * A basic understanding of how digital analytics is filtering/structuring data
-* An awareness of the integration of Adobe Analytics with other Adobe solutions
+* An awareness of the integration of [!DNL Adobe Analytics] with other Adobe solutions
 
 ### Additionally, you should be familiar with the following technologies and environments:
 
 * FTP client
-* Current Adobe Analytics Workspace features and other reporting options outside of Workspace (ex. schedule projects and schedule reports)
-* Debugging tools relevant to Adobe Analytics (Packet monitor such as an Adobe Debugger, browser developer tools, Charles)
+* Current [!DNL Adobe Analytics] Workspace features and other reporting options outside of Workspace (ex. schedule projects and schedule reports)
+* Debugging tools relevant to [!DNL Adobe Analytics] (Packet monitor such as an Adobe Debugger, browser developer tools, Charles)
 * Admin console (Analytics Reports Suite Admin console and Experience Cloud Admin console)
 * Adobe Launch fundamentals/basics
 * Apps, SPA, basic website understanding
@@ -40,7 +40,7 @@ You should have:
 
 >[!NOTE]
 >
->Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
+>Your certification is valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
 
 >[!BEGINTABS]
 
@@ -108,8 +108,8 @@ Section 3: Segmentation and calculated metrics (22%)
 Section 4: General tool knowledge and troubleshooting (12%)
 
 * Analyze reports and identify data quality issues
-* Define different types of dimensions and parameters existing in Adobe Analytics (evars, props and events)
-* Determine how to bring data in and out of Adobe Analytics
+* Define different types of dimensions and parameters existing in [!DNL Adobe Analytics] (evars, props and events)
+* Determine how to bring data in and out of [!DNL Adobe Analytics]
 * Identify information from marketing URLs
 
 Section 5: Administration (10%)
@@ -128,15 +128,15 @@ Here are some suggested resources to help you prepare:
 
 **Section 1: Business analysis**
 
-* [Which Adobe Analytics tool should I use?](https://experienceleague.adobe.com/docs/analytics/analyze/admin-overview/which-analytics-tool.html?lang=en){target="_blank"}
-* [Adobe Analytics Documentation](https://helpx.adobe.com/support/analytics.html){target="_blank"}
+* [Which [!DNL Adobe Analytics] tool should I use?](https://experienceleague.adobe.com/docs/analytics/analyze/admin-overview/which-analytics-tool.html?lang=en){target="_blank"}
+* [[!DNL Adobe Analytics] Documentation](https://helpx.adobe.com/support/analytics.html){target="_blank"}
 * [About Data Collection](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/reporting-interface/overview-data-collection.html?lang=en){target="_blank"}
 * [Analytics Data Feed overview](https://experienceleague.adobe.com/docs/analytics/export/analytics-data-feed/data-feed-overview.html?lang=en){target="_blank"}
 
 **Section 2: Reporting and dashboarding for projects**
 
 * [Get started with Reports & Analytics](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/getting-started.html?lang=en){target="_blank"}
-* [Adobe Analytics dashboards - Overview](https://experienceleague.adobe.com/docs/analytics/analyze/mobapp/home.html?lang=en){target="_blank"}
+* [[!DNL Adobe Analytics] dashboards - Overview](https://experienceleague.adobe.com/docs/analytics/analyze/mobapp/home.html?lang=en){target="_blank"}
 * [Projects overview](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/build-workspace-project/freeform-overview.html?lang=en){target="_blank"}
 * [Visualizations overview](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/freeform-analysis-visualizations.html?lang=en){target="_blank"}
 * [Intelligent Alerts overview](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/intelligent-alerts/intellligent-alerts.html?lang=en){target="_blank"}
@@ -161,7 +161,7 @@ Here are some suggested resources to help you prepare:
 
 >[!IMPORTANT]
 >
->The following sections and links will **only** function after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
+>The following sections and links will function **only**  after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
 
 
 **Now that you have successfully logged in, the following links will be directly accessible.**
@@ -178,10 +178,10 @@ Go to the [Adobe Certification Exam Prep Portal](https://www.certmetrics.com/ado
 
 **Take the certification exam**
 
-Adobe uses two vendors to administer proctored exams, PSI and Examity. 
+Adobe uses two vendors to administer proctored exams, PSI and [!DNL Examity]. 
 
 * **PSI** offers test center and Japanese exam options (where available) 
-* **Examity** offers a remote online option
+* **[!DNL Examity]** offers a remote online option
 
 To schedule, reschedule, or cancel your exam, simply click on the vendor of choice, and follow the instructions provided on screen. It's that simple!
 
@@ -197,6 +197,6 @@ You can apply the voucher code when you schedule your exam. If you have a discou
 
 **Questions**
 
-View the certification [FAQs](https://experienceleague.corp.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+View the certification [FAQ](https://experienceleague.corp.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
 Additional questions? Please email `certif@adobe.com`.

@@ -1,22 +1,22 @@
 ---
-title: Adobe Advertising Search Business Practitioner Professional Certification
-description: Learn how to become certified as an Adobe Advertising Search Business Practitioner professional.
+title: Business Practitioner Professional certification
+description: Learn how to become certified as an Adobe [!DNL Advertising Search] Business Practitioner Professional.
 solution: Advertising
 role: Developer
 badge: label="Exam AD0-E501" type="positive"
 mini-toc-levels: 1
 ---
-# Certification journey for Adobe Advertising Search Business Practitioner professional
+# Certification journey for Adobe [!DNL Advertising Search] Business Practitioner Professional
 
-Learn how to become a certified Advertising Search Business Practitioner professional.
+Learn how to become a certified [!DNL Advertising Search] Business Practitioner Professional.
 
-## Minimum experience:
+## Minimum experience
 
 You should have:
 
 * Experience as a program manager with 12-24 months of paid search performance industry
-* At least 3-6 months of Adobe Advertising Cloud – Search Platform experience
-* Experience working in Adobe Advertising Search and are familiar with paid search bidding automation, campaign management,
+* At least 3-6 months of [!DNL Advertising Search] Platform experience
+* Experience working in [!DNL Advertising Search] and are familiar with paid search bidding automation, campaign management,
 * An understanding of Portfolio theory
 
 Experience working with the following functions:
@@ -44,7 +44,7 @@ Experience working with the following functions:
 
 >[!NOTE]
 >
->Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
+>Your certification is valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
 
 >[!BEGINTABS]
 
@@ -108,8 +108,8 @@ Here are some suggested resources to help you prepare:
 
 **Section 1: Portfolios & optimizations**
 
-* [Introduction to Adobe Analytics for Adobe Advertising](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/intro-a4adc.html?lang=en){target="_blank"}
-* [Overview of Analytics for Advertising](https://experienceleague.adobe.com/docs/advertising-cloud/integrations/analytics/overview.html?lang=en){target="_blank"}
+* [Introduction to Adobe [!DNL Analytics] for Adobe [!DNL Advertising]](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/intro-a4adc.html?lang=en){target="_blank"}
+* [Overview of [!DNL Analytics] for [!DNL Advertising]](https://experienceleague.adobe.com/docs/advertising-cloud/integrations/analytics/overview.html?lang=en){target="_blank"}
 * [Performance Optimization](https://business.adobe.com/in/products/advertising/performance-optimization.html){target="_blank"}
 * [Understand KPIs in Enhanced Analytics](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/enhanced-analytics/10-kpis-overview.html){target="_blank"}
 * [Add a Constraint to a Smart List Filter](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.html?lang=en){target="_blank"}
@@ -117,17 +117,17 @@ Here are some suggested resources to help you prepare:
 
 **Section 2: Reports, insights, and tools**
 
-* [Analytics Tools Guide](https://experienceleague.adobe.com/docs/analytics/analyze/home.html?lang=en){target="_blank"}
-* [Get started with Reports & Analytics](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/getting-started.html?lang=en){target="_blank"}
-* [Campaign Reporting](https://business.adobe.com/in/products/campaign/campaign-reporting.html){target="_blank"}
-* [Create Analytics Profiles for Adobe Advertising Activation and Reporting](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/analytics-profiles-a4adc.html?lang=en){target="_blank"}
-* [Report on advertising data in Adobe Analytics](https://experienceleague.adobe.com/docs/analytics/integration/advertising-analytics/advertising-analytics-workflow/aa-report-ad-data-an.html?lang=en){target="_blank"}
+* [[!DNL Analytics] Tools Guide](https://experienceleague.adobe.com/docs/analytics/analyze/home.html?lang=en){target="_blank"}
+* [Get started with [!DNL Reports & Analytics]](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/getting-started.html?lang=en){target="_blank"}
+* [[!DNL Campaign] Reporting](https://business.adobe.com/in/products/campaign/campaign-reporting.html){target="_blank"}
+* [Create [!DNL Analytics] Profiles for Adobe [!DNL Advertising] Activation and Reporting](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/analytics-profiles-a4adc.html?lang=en){target="_blank"}
+* [Report on [!DNL Advertising] data in Adobe [!DNL Analytics]](https://experienceleague.adobe.com/docs/analytics/integration/advertising-analytics/advertising-analytics-workflow/aa-report-ad-data-an.html?lang=en){target="_blank"}
 * [Report Time Processing](https://experienceleague.adobe.com/docs/analytics/components/virtual-report-suites/vrs-report-time-processing.html?lang=en){target="_blank"}
-* [Adobe Analytics dashboards Scorecard Builder](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/additional-tools/analytics-dashboards/adobe-analytics-dashboards-scorecard-builder.html?lang=en){target="_blank"}
+* [Adobe [!DNL Analytics] dashboards Scorecard Builder](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/additional-tools/analytics-dashboards/adobe-analytics-dashboards-scorecard-builder.html?lang=en){target="_blank"}
 
 **Section 3: Campaign administration**
 
-* [Getting started with Campaign Administration](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/get-started-campaign-administration.html?lang=en){target="_blank"}
+* [Getting started with [!DNL Campaign] Administration](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/get-started-campaign-administration.html?lang=en){target="_blank"}
 * [See what makes it work](https://business.adobe.com/in/products/campaign/campaign-management.html){target="_blank"}
 * [Smarten up your search marketing](https://www.adobe.com/content/dam/www/us/en/avstg/search-marketing-management/pdfs/Adobe_Advertising_Cloud_Search_Marketing_Tips_and_Tricks_Sheet.pdf){target="_blank"}
 * [See the whole customer journey on a single screen](https://business.adobe.com/in/products/campaign/adobe-campaign.html){target="_blank"}
@@ -135,7 +135,7 @@ Here are some suggested resources to help you prepare:
 
 **Section 4: Measurement**
 
-* [Create Analytics Custom Metrics with Adobe Advertising Data](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/analytics-custom-metrics-a4adc.html?lang=en){target="_blank"}
+* [Create [!DNL Analytics] Custom Metrics with Adobe [!DNL Advertising] Data](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/analytics-custom-metrics-a4adc.html?lang=en){target="_blank"}
 * [Grids, guides, and measurements in PDFs](https://helpx.adobe.com/in/acrobat/using/grids-guides-measurements-pdfs.html){target="_blank"}
 * [Attribution & Measurement](https://business.adobe.com/in/products/advertising/attribution-measurement.html){target="_blank"}
 * [Marketo Measure Help Documentation](https://experienceleague.adobe.com/docs/marketo-measure/using/home.html?lang=en){target="_blank"}
@@ -145,17 +145,16 @@ Here are some suggested resources to help you prepare:
 
 >[!IMPORTANT]
 >
->The following sections and links will **only** function after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
-
+>The following sections and links will function **only**  after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
 
 **Now that you have successfully logged in, the following links will be directly accessible.**
 
 **Take the certification exam**
 
-Adobe uses two vendors to administer proctored exams, PSI and Examity. 
+Adobe uses two vendors to administer proctored exams, PSI and [!DNL Examity]. 
 
 * **PSI** offers test center and Japanese exam options (where available) 
-* **Examity** offers a remote online option
+* **[!DNL Examity]** offers a remote online option
 
 To schedule, reschedule, or cancel your exam, simply click on the vendor of choice, and follow the instructions provided on screen. It's that simple!
 
@@ -171,6 +170,6 @@ You can apply the voucher code when you schedule your exam. If you have a discou
 
 **Questions**
 
-View the certification [FAQs](https://experienceleague.corp.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+View the certification [FAQ](https://experienceleague.corp.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
 Additional questions? Please email `certif@adobe.com`.

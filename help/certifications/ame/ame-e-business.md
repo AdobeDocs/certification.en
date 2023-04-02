@@ -1,20 +1,20 @@
 ---
-title: Adobe Marketo Engage Business Practitioner Expert Certification
-description: Learn how to become a certified Adobe Business Practitioner expert.
+title: Business Practitioner Expert certification
+description: Learn how to become a certified Adobe Business Practitioner expert in [!DNL Marketo Engage].
 solution: Marketo Engage
 role: Developer
 badge: label="Exam AD0-E559" type="positive"
 mini-toc-levels: 1
 ---
-# Certification journey for Adobe Marketo Engage Business Practitioner expert
+# Certification journey for [!DNL Marketo Engage] Business Practitioner Expert
 
-Learn how to become a certified Adobe Business Practitioner expert.
+Learn how to become a certified Adobe Business Practitioner Expert.
 
-## Minimum experience:
+## Minimum experience
 
 You should have:
 
-* Approximately 18 months of experience with Marketo features and capabilities needed to create marketing campaigns and utilize customer behavior data
+* Approximately 18 months of experience with [!DNL Marketo] features and capabilities needed to create marketing campaigns and utilize customer behavior data
 
 You should be a marketer with experience in:
 
@@ -23,7 +23,7 @@ You should be a marketer with experience in:
 
 Additionally, you should be familiar with the following tools and technologies:
 
-* Adobe Marketo Engage
+* Adobe [!DNL Marketo Engage]
 * Excel and CSV file format
 * API concepts
 * CRM basics
@@ -33,7 +33,7 @@ Additionally, you should be familiar with the following tools and technologies:
 
 >[!NOTE]
 >
->Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
+>Your certification is valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
 
 >[!BEGINTABS]
 
@@ -44,7 +44,7 @@ Additionally, you should be familiar with the following tools and technologies:
 * Marketing operations manager/specialist/expert/analyst
 * Digital marketing manager/specialist/expert/analyst
 * Campaign manager/specialist/expert/analyst
-* Marketo Engage consultants
+* [!DNL Marketo Engage] consultants
 * Digital/marketing automation manager/specialist/expert/analyst
 * Marketing systems manager
 * Demand generation manager
@@ -137,9 +137,9 @@ Here are some suggested resources to help you prepare:
 
 **Section 1: Administration and maintenance**
 
-* [Understanding the Salesforce Sync](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html?lang=en){target="_blank"}
-* [Marketo: Administration for Business Practitioners](https://cpcontents.adobe.com/public/newlearner/newlearner_1fc76c7b.html#/course/1338335/overview?cert_id=undefined&lp_id=undefined){target="_blank"}
-* [Exporting a List of all Marketo API Field Names](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/field-management/export-a-list-of-all-marketo-api-field-names.html?lang=en){target="_blank"}
+* [Understanding the [!DNL Salesforce] Sync](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html?lang=en){target="_blank"}
+* [[!DNL Marketo]: Administration for Business Practitioners](https://cpcontents.adobe.com/public/newlearner/newlearner_1fc76c7b.html#/course/1338335/overview?cert_id=undefined&lp_id=undefined){target="_blank"}
+* [Exporting a List of all [!DNL Marketo] API Field Names](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/field-management/export-a-list-of-all-marketo-api-field-names.html?lang=en){target="_blank"}
 * [Custom Field Type Glossary](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/field-management/custom-field-type-glossary.html?lang=en){target="_blank"}
 * [Select Your Language, Locale and Time Zone](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/settings/select-your-language-locale-and-time-zone.html?lang=en){target="_blank"}
 * [Understanding Workspaces and Person Partitions](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.html){target="_blank"}
@@ -162,7 +162,7 @@ Here are some suggested resources to help you prepare:
 * [Create a Webhook](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/additional-integrations/create-a-webhook.html?lang=en){target="_blank"}
 
 
-**Section 3: Lead Management**
+**Section 3: Lead management**
 
 * [Set a Hidden Form Field Value](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/forms/form-fields/set-a-hidden-form-field-value.html?lang=en){target="_blank"}
 * [Change Score](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-score.html?lang=en){target="_blank"}
@@ -173,7 +173,7 @@ Here are some suggested resources to help you prepare:
 * [Understanding Revenue Models](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models.html?lang=en){target="_blank"}
 
 
-**Section 4: Data Management**
+**Section 4: Data management**
 
 * [Change Data Value](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.html?lang=en){target="_blank"}
 * [Define Values in a Radio or Selected Field in a Form](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/forms/form-actions/define-values-in-a-radio-or-selected-field-in-a-form.html?lang=en){target="_blank"}
@@ -190,7 +190,7 @@ Here are some suggested resources to help you prepare:
 * [Create a Program Analyzer](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/program-analytics/create-a-program-analyzer.html?lang=en){target="_blank"}
 * [Subscribe to a Basic Report](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.html?lang=en){target="_blank"}
 
-**Section 6: Best Practices**
+**Section 6: Best practices**
 
 * [Best Practice: How to Organize Your Programs](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs.html?lang=en){target="_blank"}
 * [Send a Sample Email](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/general/creating-an-email/send-a-sample-email.html){target="_blank"}
@@ -203,7 +203,7 @@ Here are some suggested resources to help you prepare:
 
 >[!IMPORTANT]
 >
->The following sections and links will **only** function after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
+>The following sections and links will function **only**  after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
 
 
 **Now that you have successfully logged in, the following links will be directly accessible.**
@@ -223,7 +223,7 @@ Go to the [Adobe Certification Exam Prep Portal](https://www.certmetrics.com/ado
 Adobe uses two vendors to administer proctored exams, PSI and Examity. 
 
 * **PSI** offers test center and Japanese exam options (where available) 
-* **Examity** offers a remote online option
+* **[!DNL Examity]** offers a remote online option
 
 To schedule, reschedule, or cancel your exam, simply click on the vendor of choice, and follow the instructions provided on screen. It's that simple!
 
@@ -245,6 +245,6 @@ You can apply the voucher code when you schedule your exam. If you have a discou
 
 **Questions**
 
-View the certification [FAQs](https://experienceleague.corp.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+View the certification [FAQ](https://experienceleague.corp.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
 Additional questions? Please email `certif@adobe.com`.

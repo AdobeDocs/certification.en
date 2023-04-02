@@ -1,16 +1,16 @@
 ---
-title: Adobe Experience Manager Forms Developer Expert Certification 
-description: Learn how to become a certified Adobe Forms Developer expert.
+title: AEM Forms Backend Developer professional certification 
+description: Learn how to become a certified Adobe [!DNL Experience Manager Forms] backend developer expert.
 solution: Experience Manager Forms
 role: Developer
 badge: label="Exam AD0-E125" type="positive"
 mini-toc-levels: 1
 ---
-# Certification journey for Adobe Experience Manager Forms Developer expert
+# Certification journey for [!DNL Experience Manager Forms] Developer Expert
 
-Learn how to become a certified Adobe Forms Developer expert.
+Learn how to become a certified [!DNL Experience Manager Forms] Developer Expert.
 
-## Minimum experience:
+## Minimum experience
 
 You should have:
 
@@ -48,7 +48,7 @@ Additionally, you should be familiar with the following technologies and environ
 
 >[!NOTE]
 >
->Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
+>Your certification is valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
 
 >[!BEGINTABS]
 
@@ -152,7 +152,7 @@ Here are some suggested resources to help you prepare:
 
 >[!IMPORTANT]
 >
->The following sections and links will **only** function after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
+>The following sections and links will function **only** after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
 
 
 **Now that you have successfully logged in, the following links will be directly accessible.**
@@ -172,7 +172,7 @@ Go to the [Adobe Certification Exam Prep Portal](https://www.certmetrics.com/ado
 Adobe uses two vendors to administer proctored exams, PSI and Examity. 
 
 * **PSI** offers test center and Japanese exam options (where available) 
-* **Examity** offers a remote online option
+* **[!DNL Examity]** offers a remote online option
 
 To schedule, reschedule, or cancel your exam, simply click on the vendor of choice, and follow the instructions provided on screen. It's that simple!
 
@@ -188,6 +188,6 @@ You can apply the voucher code when you schedule your exam. If you have a discou
 
 **Questions**
 
-View the certification [FAQs](https://experienceleague.corp.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+View the certification [FAQ](https://experienceleague.corp.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
 Additional questions? Please email `certif@adobe.com`.
