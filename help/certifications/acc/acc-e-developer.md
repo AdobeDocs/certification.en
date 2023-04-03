@@ -6,7 +6,7 @@ role: Developer
 badge: label="Exam AD0-E330" type="positive"
 mini-toc-levels: 1
 ---
-# Certification journey for Adobe [!DNL Campaign Classic] Developer expert
+# Certification journey for Adobe [!DNL Campaign Classic] Developer Expert
 
 Learn how to become a certified Adobe Developer expert.
 

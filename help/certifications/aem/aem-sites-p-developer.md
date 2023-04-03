@@ -6,7 +6,7 @@ role: Developer
 badge: label="Exam AD0-E123" type="positive"
 mini-toc-levels: 1
 ---
-# Certification journey for Adobe [!DNL Experience Manager Sites] Developer professional
+# Certification journey for Adobe [!DNL Experience Manager Sites] Developer Professional
 
 Learn how to become a certified Adobe Business Practitioner expert.
 

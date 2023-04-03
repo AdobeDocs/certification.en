@@ -6,7 +6,7 @@ role: Developer
 badge: label="Exam AD0-E555" type="positive"
 mini-toc-levels: 1
 ---
-# Certification journey for Adobe [!DNL Marketo Engage] professional
+# Certification journey for Adobe [!DNL Marketo Engage] Professional
 
 Learn how to become a certified Adobe [!DNL Marketo] Professional.
 
