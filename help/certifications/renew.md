@@ -35,16 +35,6 @@ You can now renew your certification either via continuous learning, or on-deman
 
 ### Solutions
 
-<<<<<<< HEAD
-* [Adobe Target](https://experienceleague.corp.adobe.com/docs/certification/certification/technical-certifications/at/at-renew.html?lang=en){target="_blank"} 
-* [Adobe Analytics](https://experienceleague.corp.adobe.com/docs/certification/certification/technical-certifications/aa/aa-renew.html?lang=en){target="_blank"}
-* [Adobe Experience Manager](https://experienceleague.corp.adobe.com/docs/certification/certification/technical-certifications/aem/aem-renew.html?lang=en){target="_blank"}
-* [Adobe Commerce](https://experienceleague.corp.adobe.com/docs/certification/certification/technical-certifications/ac/ac-renew.html?lang=en){target="_blank"}
-* [Adobe Audience Manager](https://experienceleague.corp.adobe.com/docs/certification/certification/technical-certifications/aam/aam-renew.html?lang=en){target="_blank"}
-* [Adobe Campaign Classic](https://experienceleague.corp.adobe.com/docs/certification/certification/technical-certifications/acc/acc-renew.html?lang=en){target="_blank"}
-* [Adobe Campaign Standard](https://experienceleague.corp.adobe.com/docs/certification/certification/technical-certifications/acs/acs-renew.html?lang=en){target="_blank"}
-* [Adobe Marketo Engage](https://experienceleague.corp.adobe.com/docs/certification/certification/technical-certifications/ame/ame-renew.html?lang=en){target="_blank"}
-=======
 * [Adobe [!DNL Target]](https://experienceleague.corp.adobe.com/docs/certification/certification/technical-certifications/at/at-renew.html?lang=en){target="_blank"} 
 * [Adobe [!DNL Analytics]](https://experienceleague.corp.adobe.com/docs/certification/certification/technical-certifications/aa/aa-renew.html?lang=en){target="_blank"}
 * [Adobe [!DNL Experience Manager]](https://experienceleague.corp.adobe.com/docs/certification/certification/technical-certifications/aem/aem-renew.html?lang=en){target="_blank"}
@@ -53,9 +43,7 @@ You can now renew your certification either via continuous learning, or on-deman
 * [Adobe [!DNL Campaign Classic]](https://experienceleague.corp.adobe.com/docs/certification/certification/technical-certifications/acc/acc-renew.html?lang=en){target="_blank"}
 * [Adobe [!DNL Campaign Standard]](https://experienceleague.corp.adobe.com/docs/certification/certification/technical-certifications/acs/acs-renew.html?lang=en){target="_blank"}
 * [Adobe [!DNL Marketo Engage]](https://experienceleague.corp.adobe.com/docs/certification/certification/technical-certifications/ame/ame-renew.html?lang=en){target="_blank"}
-* _Adobe Advertising Cloud - Coming Soon_
->>>>>>> e7bbdf89adf786414c451cc9f51e0a672b6dd7c7
-* _Adobe Workfront - Coming Soon_
+* _Adobe [!DNL Workfront] - Coming Soon_
 
 ### Questions
 
