@@ -6,7 +6,7 @@ role: Developer
 badge: label="Exam AD0-E502" type="positive"
 mini-toc-levels: 1
 ---
-# Certification journey for [!DNL Advertising DSP] Business Practitioner Professional
+# Certification journey for Adobe [!DNL Advertising DSP] Business Practitioner Professional
 
 Learn how to become a certified [!DNL Advertising DSP] Business Practitioner professional.
 
