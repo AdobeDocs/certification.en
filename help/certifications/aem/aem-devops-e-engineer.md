@@ -14,7 +14,7 @@ Learn how to become a certified Adobe DevOps Engineer Expert.
 
 You should have: 
 
-* At least one year of experience using and configuring Adobe Cloud Manager
+* At least 1-3 years' of experience using and configuring Adobe Cloud Manager
 * At least two years of experience configuring, implementing, and managing Continuous Integration/Continuous Deployment tasks
 
 You should be comfortable working in Adobe Managed Services and Adobe Experience Manager as a Cloud Service, and are able to set up Adobe Experience Manager environments and infrastructure.
@@ -118,15 +118,14 @@ Here are some suggested resources to help you prepare:
 
 **Section 2: Operate Cloud Manager and Cloud Manager API**
 
-* [Managing Environments](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/manage-environments.html?lang=en){target="_blank"} 
-* [Environment Provisioning](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/using/requirements/environments-provisioned.html?lang=en){target="_blank"} 
+* [Managing Environments](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/manage-environments.html?lang=en){target="_blank"}
 * [Getting Started with the Migration Journey to AEM as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/migration-journey/getting-started.html?lang=en){target="_blank"} 
 * [Adobe I/O integration overview](https://experienceleague.adobe.com/docs/places/using/web-service-api/adobe-i-o-integration.html?lang=en){target="_blank"} 
 
 **Section 3: Configure the web proxy infrastructure**
 
-* [Dispatcher Configurations](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/using/getting-started/dispatcher-configurations.html?lang=en){target="_blank"}
-* [Troubleshooting caching performance](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/troubleshooting-aem-forms-cloud-service/troubleshooting-caching-performance.html?lang=en){target="_blank"}
+* [Dispatcher Configurations](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/getting-started/dispatcher-configurations.html?lang=en){target="_blank"}
+* [Caching performance](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/troubleshooting-aem-forms-cloud-service/troubleshooting-caching-performance.html?lang=en){target="_blank"}
 
 **Section 4: Build and deployments**
 

@@ -128,7 +128,6 @@ Here are some suggested resources to help you prepare:
 * [An Introduction to Adobe [!DNL Experience Manager as a Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/overview/introduction.html){target="_blank"} 
 * [Learn About AEM 6.5 Capabilities](https://experienceleague.adobe.com/docs/experience-manager-65/user-guide/troubleshooting/learn.html?lang=en){target="_blank"} 
 * [Adobe [!DNL Experience Manager] documentation](https://experienceleague.adobe.com/docs/experience-manager.html?lang=en){target="_blank"} 
-* [Key features and capabilities](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/key-features.html?lang=en){target="_blank"} 
 * [Integrating with third-party services](https://experienceleague.adobe.com/docs/experience-manager-64/administering/integration/third-party-services.html?lang=en)
 * [Solutions integration](https://experienceleague.adobe.com/docs/experience-manager-64/administering/integration/integration.html?lang=en){target="_blank"} 
 * [[!DNL Experience Cloud] integrations overview](https://experienceleague.adobe.com/docs/core-services/interface/administration/marketing-cloud-integrations.html?lang=en){target="_blank"} 
@@ -155,8 +154,7 @@ Here are some suggested resources to help you prepare:
 * [Roles and Project Phases](https://experienceleague.adobe.com/docs/platform-learn/tutorials/intro-to-platform/roles-and-project-phases.html?lang=en){target="_blank"} 
 * [Adobe Experience Manager and Creative Cloud integration best practices](https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/aem-cc-integration-best-practices.html?lang=en){target="_blank"} 
 * [Managing Projects - Best Practices Checklist](https://experienceleague.adobe.com/docs/experience-manager-64/managing/managing-best-practices-checklist/best-practices.html?lang=en){target="_blank"} 
-* [Resources](https://experienceleague.adobe.com/docs/commerce-operations/operational-playbook/people/resources.html?lang=en){target="_blank"} 
-* [Guided Onboarding for Deployment Leaders: Adobe [!DNL Experience Manager]](https://experienceleague.adobe.com/welcome/aem/part5.html){target="_blank"} 
+* [Resources](https://experienceleague.adobe.com/docs/commerce-operations/operational-playbook/people/resources.html?lang=en){target="_blank"}
 * [The Checklist - Further Reference](https://experienceleague.adobe.com/docs/experience-manager-64/managing/managing-best-practices-checklist/best-practices-further-reference.html?lang=en){target="_blank"} 
 
 

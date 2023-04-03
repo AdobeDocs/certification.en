@@ -14,7 +14,7 @@ Learn how to become a certified Adobe Experience Manager Expert.
 
 You should have:
 
-* A minimum of 12 months experience working with the AEM Platform
+* A minimum of 1-3 years' experience working with the AEM Platform
 * The ability to perform advanced component development
 * A deep understanding of the Model View Controller (MVC) framework
 * The knowledge of frameworks and libraries in AEM
@@ -129,7 +129,6 @@ Here are some suggested resources to help you prepare:
 * [[!DNL Experience Manager as a Cloud Service] documentation](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=en){target="_blank"}
 * [AEM Foundation videos and tutorials](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/overview.html?lang=en){target="_blank"}
 * [Deploying and Maintaining](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/deploying/deploy.html?lang=en){target="_blank"}
-* [Introduction to Cloud Manager for AMS](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/using/introduction-to-cloud-manager.html?lang=en){target="_blank"}
 * [AEM 6.5 Administering User Guide](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html?lang=en){target="_blank"}
 * [AEM 6.5 Deploying User Guide](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html?lang=en){target="_blank"}
 
