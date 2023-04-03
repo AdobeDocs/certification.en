@@ -165,7 +165,7 @@ The sample questions allow you to see the type and format of items that you will
 * [Templates](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/templates/template-overview.html){target="_blank"}
 * [Translations](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/translations/xlate.html){target="_blank"}
 * [URL rewrites](https://docs.magento.com/user-guide/marketing/url-rewrite.html){target="_blank"}
-* [Confgure caching](https://devdocs.magento.com/guides/v2.4/config-guide/cache.html){target="_blank"}
+* [Configure caching](https://devdocs.magento.com/guides/v2.4/config-guide/cache.html){target="_blank"}
 * [Configure and use Varnish](https://devdocs.magento.com/guides/v2.4/config-guide/varnish/config-varnish.html){target="_blank"}
 * [Website Stores and Views](https://docs.magento.com/user-guide/stores/websites-stores-views.html){target="_blank"}
 * [Site, Store, and View Scope](https://docs.magento.com/user-guide/configuration/scope.html){target="_blank"}
