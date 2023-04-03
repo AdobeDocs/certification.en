@@ -15,7 +15,7 @@ Learn how to become a certified [!DNL Experience Manager] Expert.
 You should have:
 
 * An understanding of the overall changes to the architecture and features when moving from any AEM service (self-managed, AMS or any third-party cloud) to AEM as a Cloud Service. 
-* 2-3 years of web application development experience using Adobe [!DNL Experience Manager]
+* 1-3 years of web application development experience using Adobe [!DNL Experience Manager]
 * Hands on experience using AEM Forms, Assets, and Sites
 * The ability to guide customers through the migration process advising and participating in all phases of an AEM project 
 

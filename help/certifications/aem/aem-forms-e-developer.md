@@ -14,7 +14,7 @@ Learn how to become a certified [!DNL Experience Manager Forms] Developer Expert
 
 You should have:
 
-* 2-3 years' of experience with AEM Forms
+* 1-3 years' of experience with AEM Forms
 * At least 5 years of work experience in the IT industry
 * The ability to lead the development, configuration, testing, and deployment of customized forms solutions
 * The ability to configure a form, translate business requirements into workflows, integrate with external systems
@@ -141,7 +141,7 @@ Here are some suggested resources to help you prepare:
 
 **Section 4: API endpoints and integrations**
 
-* [Integrate Adobe Sign with AEM Forms as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-forms-cloud-service/forms/adobe-sign-integration-adaptive-forms.html){target="_blank"}
+* [Integrate Adobe Experience Manager Forms as Cloud Service with Acrobat Sign | Adobe Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/forms-and-sign/introduction.html?lang=en){target="_blank"}
 
 **Section 5: Interactive Communication**
 

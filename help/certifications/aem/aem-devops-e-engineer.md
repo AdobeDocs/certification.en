@@ -129,8 +129,8 @@ Here are some suggested resources to help you prepare:
 
 **Section 4: Build and deployments**
 
-* [Code Deployment](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/using/how-to-use/deploying-code.html?lang=en){target="_blank"}
-* [Configuring Production Pipelines](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/using/how-to-use/configuring-pipeline.html?lang=en){target="_blank"}
+* [Code Deployment](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/using/code-deployment.html?lang=en){target="_blank"}
+* [Configuring Production Pipelines](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/using/pipelines/production-pipelines.html?lang=en){target="_blank"}
 * [How to Work with Packages](https://experienceleague.adobe.com/docs/experience-manager-64/administering/contentmanagement/package-manager.html?lang=en){target="_blank"}
 * [AEM Project Structure](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/developing/aem-project-content-package-structure.html?lang=en){target="_blank"}
 
@@ -139,7 +139,7 @@ Here are some suggested resources to help you prepare:
 * [Monitoring and Maintaining Your AEM Instance](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/configuring/monitoring-and-maintaining.html#using-rlog-jar-to-find-requests-with-long-duration-times){target="_blank"}
 * [Tough Day: Adding Multiple Instances of the Same Test](https://experienceleague.adobe.com/docs/experience-manager-65/developing/testing/tough-day.html?lang=en#adding-multiple-instances-of-the-same-test){target="_blank"}
 * [Introduction to the Architecture of AEM as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/core-concepts/architecture.html?lang=en){target="_blank"}
-* [Introduction to Cloud Manager for AMS](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/using/introduction-to-cloud-manager.html?lang=en#autoscaling){target="_blank"}
+* [Autoscaling](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/introduction.html?lang=en#autoscaling){target="_blank"}
 
 **Section 6: Operate the Admin Console**
 
