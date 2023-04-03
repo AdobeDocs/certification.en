@@ -98,7 +98,7 @@ Other Vendor Resources:
 **Examity**
 
 * [Examity Online Proctoring Guide](https://www.examity.com/online-proctoring-troubleshooting-guide-for-test-takers-v4/){target="_blank"}
-* [FAQ]( https://www.examity.com/faq/test-takers/){target="_blank"}
+* [FAQ](https://www.examity.com/faq/test-takers/){target="_blank"}
 * [Examity test taker system requirements](https://www.examity.com/test-taker-systems-requirements/){target="_blank"}
 
 >[!NOTE]
