@@ -10,6 +10,8 @@ mini-toc-levels: 1
 
 Learn how to become a certified Adobe Architect Master.
 
+The Adobe Credential Program has launched a new Adobe Marketo Engage Architect certification for candidates interested in achieving the Certified Master title. It replaces the previous Marketo Certified Solution Architect (MCSA) certification interview process. [Read more](https://solutionpartners.adobe.com/solution-partners/news/2022/02/a-new-standard-for-adobe-marketo-engage-certified-architects.html){target="_blank"}
+
 ## Minimum experience
 
 You should have at least 3-5 year experience leading [!DNL Commerce] development projects and are able to design, integrate, implement, and explain solutions to business problems by utilizing Adobe [!DNL Commerce] along with associated services.
