@@ -25,7 +25,7 @@ Adobe uses two vendors to administer proctored exams: [!DNL PSI] and [!DNL Exami
 * **Step 3:** Choose your Adobe solution, certification level, and role
 * **Step 4:** Follow the steps provided under the **Get Certified** section. 
 
-More information 
+**Resources**
 
 **PSI:** 
 
