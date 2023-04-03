@@ -15,7 +15,7 @@ To avoid any disruptions to your certification status, please keep track of your
 
 ## How do I renew my certification?
 
-Renewing your Adobe certification is easy! Depending on your certification level, solution, or job role, you will complete your renewal by working through continuous learning activities and passing assessments, or by passing an non-proctored, on-demand job role exam. 
+Renewing your Adobe certification is easy! Depending on your certification level, solution, or job role, you will complete your renewal by working through continuous learning activities and passing assessments, or by passing a non-proctored, on-demand job role exam. 
 
 Adobe offers various resources and tools to help you renew your certification, including:
 
@@ -27,11 +27,11 @@ Adobe offers various resources and tools to help you renew your certification, i
 
 You can renew your certification **free of charge**. This provides you with a cost-effective way to maintain your certification, and keep your solution skills up to date.
 
-With Adobe's support and resources, renewing an Adobe Digital Cloud Experience Certification is a straightforward process that enables you to maintain your expertise and stay competitive in the digital marketplace.
+With Adobe's support and resources, renewing an Adobe Experience Cloud Certification is a straightforward process that enables you to maintain your expertise and stay competitive in the digital marketplace.
 
 ## Available renewal options
 
-You can now renew your certification either via continuous learning, or on-demand renewal exam. To learn how to renew your current certification before it expires, select a solution below.
+You can now renew your certification either via continuous learning, or by taking an on-demand renewal exam. To learn how to renew your current certification before it expires, select a solution below.
 
 ### Solutions
 
