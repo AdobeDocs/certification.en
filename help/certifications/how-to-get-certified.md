@@ -60,7 +60,7 @@ You can apply the voucher code when you schedule your exam. If you have a discou
 
 **Partner discounts** 
 
-Bronze and above partners get discounts on all Adobe certification exams and classes. They can read more about their discount and how to access their benefit on the [Solution Partner Portal](https://solutionpartners.adobe.com/solution-partners/training_and_certification/certification/certification_faq.html){target="_blank"}.  
+Bronze and above partners get discounts on all Adobe certification exams and classes. You can read more about these discount and how to access those benefit on the [Solution Partner Portal](https://solutionpartners.adobe.com/solution-partners/training_and_certification/certification/certification_faq.html){target="_blank"}.  
 
 **Other discounts**
 
