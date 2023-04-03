@@ -9,13 +9,13 @@ mini-toc-levels: 1
 ---
 # Restart your certification journey by going from expired to certified
 
-This limited time program, offered **from April 6th, 2023 through October 20th, 2023**, gives you a chance to update your skills and stay ahead of the curve in a rapidly changing digital landscape.
+This limited time program, offered **from April 17th, 2023 through October 20th, 2023**, gives you a chance to update your skills and stay ahead of the curve in a rapidly changing digital landscape.
 
 Individuals whose certifications expired starting in 2020 through April 23, 2023, are eligible for this **free** program.
 
 ## Introduction
 
-The Adobe Restart Program is an initiative that allows individuals with expired [!DNL Experience Cloud] certifications to re-certify, free of charge. If you have previously held an Adobe Digital Cloud Experience certification that has since expired, you may be eligible to Restart your certification via FREE and non-proctored testing formats. This program is a valuable resource for people seeking to enhance their digital expertise and stay competitive. 
+The Adobe Restart Program is an initiative that allows individuals with expired [!DNL Experience Cloud] certifications to re-certify, free of charge. If you have previously held an Adobe Experience Cloud certification that has since expired, you may be eligible to Restart your certification via FREE and non-proctored testing formats. This program is a valuable resource for people seeking to enhance their knowledge and skills of the Adobe Experience Cloud and stay competitive. 
 
 ### Steps to restart your expired certification{#exams}
 
@@ -50,7 +50,7 @@ In these cases you can provide a customer reference affirming you have participa
 **Once your customer reference has been reviewed you will be notified by the Adobe Credential Team.**
 
 
-The course assessments are free. There is no need to schedule them, and they are not proctored. If you hold multiple Adobe Experience Manager Expert and Master level certifications, you will only need to complete the requirements below and all your AEM certifications will get renewed.
+The course assessments are free. There is no need to schedule them, and they are not proctored. If you hold multiple Adobe Experience Manager Expert and Master level certifications, you will only need to complete the requirements below and your expert and master AEM certifications will get renewed.
 
 [Customer Reference Form for Adobe Experience Manager](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADS-EA100){target="_blank"}
 
@@ -69,7 +69,7 @@ The course assessments are free. There is no need to schedule them, and they are
 
 >[!NOTE]
 >
->You can repeat until you have successfully completed three activities or completed the customer reference form.
+>You can repeat until you have successfully completed three activities, or completed two activities and the customer reference form.
 
 >[!TAB Analytics]
 
@@ -89,7 +89,7 @@ In these cases you can provide a customer reference affirming you have participa
 
 **Once your customer reference has been reviewed you will be notified by the Adobe Credential Team.**
 
-The course assessments are free. There is no need to schedule them, and they are not proctored. If you hold multiple Adobe Experience Manager Expert and Master level certifications, you will only need to complete the requirements below and all your AEM certifications will get renewed.
+The course assessments are free. There is no need to schedule them, and they are not proctored. If you hold multiple Adobe Experience Manager Expert and Master level certifications, you will only need to complete the requirements below and your expert and master Analytic certifications will get renewed.
 
 [Customer Reference Form for Adobe Analytics](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADS-EA200){target="_blank"}
 
@@ -106,7 +106,7 @@ The course assessments are free. There is no need to schedule them, and they are
 
 >[!NOTE]
 >
->You can repeat until you have successfully completed three activities or completed the customer reference form.
+>You can repeat until you have successfully completed three activities, or completed two activities and the customer reference form.
 
 >[!TAB Target]
 
@@ -126,7 +126,7 @@ In these cases you can provide a customer reference affirming you have participa
 
 **After your customer reference has been reviewed, you will be notified by the Adobe Credential Team.**
 
-The course assessments are free. There is no need to schedule them, and they are not proctored. If you hold multiple Adobe Experience Manager Expert and Master level certifications, you will only need to complete the requirements below and all your AEM certifications will get renewed.
+The course assessments are free. There is no need to schedule them, and they are not proctored. If you hold multiple Adobe Experience Manager Expert and Master level certifications, you will only need to complete the requirements below and your expert and master Target certifications will get renewed.
 
 [Customer Reference Form for Adobe Target](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADS-EA400){target="_blank"}
 
@@ -142,7 +142,7 @@ The course assessments are free. There is no need to schedule them, and they are
 
 >[!NOTE]
 >
->You can repeat until you have successfully completed three activities or completed the customer reference form.
+>You can repeat until you have successfully completed three activities, or completed two activities and the customer reference form.
 
 >[!TAB Audience Manager]
 
