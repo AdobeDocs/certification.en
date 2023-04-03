@@ -14,9 +14,9 @@ Learn how to become a certified Adobe Business Practitioner Professional.
 
 You should have:
 
-* At least 12 months of experience using and configuring Adobe Cloud Manager
-* At least 12 months of experience with AEM features and capabilities needed to engage developers to find business solutions
-* At least 24 months of experience configuring, implementing, and managing Continuous Integration/Continuous Deployment tasks 
+* At least 0-12 months' of experience using and configuring Adobe Cloud Manager
+* At least 0-12 months' of experience with AEM features and capabilities needed to engage developers to find business solutions
+* At least 0-12 months' of experience configuring, implementing, and managing Continuous Integration/Continuous Deployment tasks 
 
 If you're comfortable working in Adobe Managed Services and Adobe [!DNL Experience Manager] as a Cloud Service, and are able to set up Adobe [!DNL Experience Manager] environments and infrastructure.
 
@@ -117,7 +117,6 @@ The sample questions allow you to see the type and format of items that you will
 * [AEM 6.5 Developing User Guide](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html?lang=en){target="_blank"}
 * [Adobe [!DNL Experience Manager] 6.5 [!DNL Forms] Guide](https://experienceleague.adobe.com/docs/experience-manager-65/forms/home.html?lang=en){target="_blank"}
 * [AEM 6.5 Managing User Guide](https://experienceleague.adobe.com/docs/experience-manager-65/managing/home.html?lang=en){target="_blank"}
-* [Introduction to Cloud Manager for AMS](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/using/introduction-to-cloud-manager.html?lang=en){target="_blank"}
 * [[!DNL Experience Manager as a Cloud Service] documentation](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=en){target="_blank"}
 * [[!DNL AEM Screens] and Best Practices Guide](https://experienceleague.adobe.com/docs/experience-manager-screens/using/about-guide.html?lang=en){target="_blank"}
 

@@ -14,7 +14,7 @@ Learn how to become a certified Adobe [!DNL Experience Manager] Professional.
 
 You should be an application developer and have:
 
-* A minimum of 12 months experience working with the AEM Platform
+* A minimum of 0-12 months' experience working with the AEM Platform
 * The ability to perform advanced component development
 * A deep understanding of the MVC framework
 * The awareness of frameworks and libraries in AEM
