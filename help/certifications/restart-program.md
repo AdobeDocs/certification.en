@@ -89,7 +89,7 @@ In these cases you can provide a customer reference affirming you have participa
 
 **Once your customer reference has been reviewed you will be notified by the Adobe Credential Team.**
 
-The course assessments are free. There is no need to schedule them, and they are not proctored. If you hold multiple Adobe Experience Manager Expert and Master level certifications, you will only need to complete the requirements below and your expert and master Analytic certifications will get renewed.
+The course assessments are free. There is no need to schedule them, and they are not proctored. If you hold multiple Adobe Analytic Expert and Master level certifications, you will only need to complete the requirements below and your expert and master Analytic certifications will get renewed.
 
 [Customer Reference Form for Adobe Analytics](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADS-EA200){target="_blank"}
 
@@ -126,7 +126,7 @@ In these cases you can provide a customer reference affirming you have participa
 
 **After your customer reference has been reviewed, you will be notified by the Adobe Credential Team.**
 
-The course assessments are free. There is no need to schedule them, and they are not proctored. If you hold multiple Adobe Experience Manager Expert and Master level certifications, you will only need to complete the requirements below and your expert and master Target certifications will get renewed.
+The course assessments are free. There is no need to schedule them, and they are not proctored. If you hold multiple Adobe Target Expert and Master level certifications, you will only need to complete the requirements below and your expert and master Target certifications will get renewed.
 
 [Customer Reference Form for Adobe Target](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADS-EA400){target="_blank"}
 
