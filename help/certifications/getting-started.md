@@ -8,7 +8,7 @@ mini-toc-levels: 1
 
 # Get started {#getting-started}
 
-Adobe's certifications are designed to validate the skills and knowledge of professionals working with our digital marketing solutions. 
+Adobe's certifications are designed to validate the knowledge and skills of professionals working with our digital marketing solutions. 
 
 Get started with technical certifications. Learn about the program and how to navigate through our site pages.
 

@@ -160,7 +160,6 @@ The sample questions allow you to see the type and format of items that you will
 * [Extensibility and modularity](https://devdocs.magento.com/guides/v2.4/architecture/extensibility.html){target="_blank"}
 * [Configuration files for deployment](https://devdocs.magento.com/guides/v2.4/config-guide/config/config-magento.html){target="_blank"}
 * [Command-line tool](https://devdocs.magento.com/guides/v2.4/config-guide/cli/config-cli.html){target="_blank"}
-* [Set Up a Customer Cron Job with Cron Group](https://devdocs.magento.com/guides/v2.4/config-guide/cron/custom-cron.html){target="_blank"}
 * [Events and Observers](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/events-and-observers.html){target="_blank"}
 * [Introduction to Admin systems](https://docs.magento.com/user-guide/system/tools.html){target="_blank"}
 * [Templates](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/templates/template-overview.html){target="_blank"}

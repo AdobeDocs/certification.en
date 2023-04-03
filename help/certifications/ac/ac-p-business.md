@@ -12,7 +12,7 @@ Learn how to become a certified Adobe Business Practitioner Professional.
 
 ## Minimum experience
 
-You should have a minimum of 6 months hands-on experience with [!DNL Magento Open Source] version 2.4.3 using the LUMA or BLANK theme and basic understanding of Adobe [!DNL Commerce] version 2.4.3. 
+You should have a minimum of 0-12 months hands-on experience with [!DNL Magento Open Source] version 2.4.3 using the LUMA or BLANK theme and basic understanding of Adobe [!DNL Commerce] version 2.4.3. 
 
 Additionally, you should have a basic understanding of the eCommerce experience, as well as familiarity with the following concepts:
 
@@ -116,23 +116,22 @@ The sample questions allow you to see the type and format of items that you will
 * [Offline Payment Methods](https://docs.magento.com/user-guide/payment/offline-payment-methods.html){target="_blank"}
 * [SEO and Search](https://docs.magento.com/user-guide/marketing/seo-search.html){target="_blank"}
 * [Page Builder](https://docs.magento.com/user-guide/cms/page-builder.html){target="_blank"}
-* [Payments](https://docs.magento.com/user-guide/payment/payments.html){target="_blank"}
+* [Payments  overview](https://docs.magento.com/user-guide/payment/payments.html){target="_blank"}
 * [Promotions](https://docs.magento.com/user-guide/marketing/promotions.html){target="_blank"}
 * [Cart Price Rules](https://docs.magento.com/user-guide/marketing/price-rules-cart.html){target="_blank"}
-* [Customers](https://docs.magento.com/user-guide/configuration/customers.html){target="_blank"}
+* [Configuration Reference Guide](https://docs.magento.com/user-guide/configuration/customers.html){target="_blank"}
 * [Scope](https://docs.magento.com/user-guide/configuration/scope.html){target="_blank"}
-* [All Stores](https://docs.magento.com/user-guide/stores/stores-all-stores.html){target="_blank"}
-* [Adding Store Views](https://docs.magento.com/user-guide/stores/stores-all-create-view.html){target="_blank"}
-* [Search Terms](https://docs.magento.com/user-guide/marketing/search-terms.html){target="_blank"}
+* [Store and site structure](https://docs.magento.com/user-guide/stores/stores-all-stores.html){target="_blank"}
+* [Store views](https://docs.magento.com/user-guide/stores/stores-all-create-view.html){target="_blank"}
+* [Manage search terms](https://docs.magento.com/user-guide/marketing/search-terms.html){target="_blank"}
 
 **Section 2: Adobe [!DNL Commerce] basics**
 
 * [Cloud Guide for [!DNL Commerce]](https://devdocs.magento.com/cloud/bk-cloud.html){target="_blank"}
 * [[!DNL Magento] Business Intelligence Introduction](https://docs.magento.com/mbi/getting-started/getting-started.html){target="_blank"}
-* [Content Elements](https://docs.magento.com/user-guide/cms/content-elements.html){target="_blank"}
-* [Catalog](https://docs.magento.com/user-guide/configuration/catalog.html){target="_blank"}
-* [Customers](https://docs.magento.com/user-guide/configuration/customers.html){target="_blank"}
-* [Live Search](https://docs.magento.com/user-guide/live-search/overview.html){target="_blank"}
+* [Pages](https://docs.magento.com/user-guide/cms/content-elements.html){target="_blank"}
+* [Configuration Reference Guide](https://docs.magento.com/user-guide/configuration/customers.html){target="_blank"}
+* [Introduction to Live Search](https://docs.magento.com/user-guide/live-search/overview.html){target="_blank"}
 * [Introduction to [!DNL Commerce] Merchandising and Promotions](https://docs.magento.com/user-guide/marketing/merchandising.html){target="_blank"}
 * [Checkout](https://docs.magento.com/user-guide/sales/checkout-process.html){target="_blank"}
 * [Adobe [!DNL Commerce] Admin Systems Guide](https://docs.magento.com/user-guide/system/system.html){target="_blank"}
@@ -140,15 +139,12 @@ The sample questions allow you to see the type and format of items that you will
 **Section 3: Digital marketing and eCommerce fundamentals**
 
 * [Promotions](https://docs.magento.com/user-guide/marketing/promotions.html){target="_blank"}
-* [Shopping Tools](https://docs.magento.com/user-guide/marketing/shopping-tools.html){target="_blank"}
-* [Communications](https://docs.magento.com/user-guide/marketing/communications.html){target="_blank"}
-* [SEO Best Practices](https://docs.magento.com/user-guide/marketing/seo-best-practices.html){target="_blank"}
+* [Shopping assistance](https://docs.magento.com/user-guide/marketing/shopping-tools.html){target="_blank"}
+* [Variables and customer communications](https://docs.magento.com/user-guide/marketing/communications.html){target="_blank"}
+* [SEO overview](https://docs.magento.com/user-guide/marketing/seo-best-practices.html){target="_blank"}
 * [Using a Site Map](https://docs.magento.com/user-guide/marketing/sitemap-xml.html){target="_blank"}
 * [Customer Journey](https://docs.magento.com/user-guide/quick-tour/customer-journey.html){target="_blank"}
 * [Business Intelligence Tools](https://docs.magento.com/user-guide/reports/business-intelligence.html){target="_blank"}
-* [Checkout Options](https://docs.magento.com/user-guide/sales/checkout-options.html){target="_blank"}
-* [Basic Delivery Methods](https://docs.magento.com/user-guide/shipping/shipping-flat-rate.html){target="_blank"}
-
 
 **Section 4: Compliance/security basics**
 
