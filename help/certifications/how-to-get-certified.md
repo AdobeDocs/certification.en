@@ -76,12 +76,6 @@ Note: Bulk discounts cannot be combined with any other offer or discount.
 | 25-49 | 25% |
 | 50+ | 33% |
 
->[!TAB Preparation for your exam]
-
-We recommend you follow the Get ready and Get prepped steps under the certification journey pages to help you prepare for your exam. 
-
-You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam. 
-
 >[!TAB Certification Vendors]
 
 The Adobe Credential team partners with vendors to help support the program's initiatives and goals.  Here are the vendors and their contact information: 
@@ -186,6 +180,7 @@ The following sections and links will function only after a successful login to 
 | Profile | [Demographic information page with location of account name, address, company, etc. Names can only be updated an Adobe Admin](https://www.certmetrics.com/adobe/candidate/demographics.aspx){target="_blank"}. |
 | Identification | [Location of Adobe/Login ID. Usually begins with ADB](https://www.certmetrics.com/adobe/candidate/identification.aspx){target="_blank"} |
 | History | [View score report and exam history](https://www.certmetrics.com/adobe/candidate/cert_summary.aspx){target="_blank"} |
+| Certifications | [View all your current and expired certifications](https://www.certmetrics.com/adobe/candidate/cert_summary.aspx){target="_blank"} |
 
 >[!TAB Manage your badges]
 
