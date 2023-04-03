@@ -59,39 +59,15 @@ Adobe certification exams are customized to three different job roles. Read the 
 | ![Architect Badge](/help/certifications/assets/architect_blk_small.png) | **Architects** are responsible for designing and implementing enterprise-grade solutions using Adobe [!DNL Experience Cloud] solutions. They should have extensive knowledge of Adobe's digital marketing solutions and experience in software architecture, integration, and customization. The Architect certification validates their ability to design and implement complex solutions using Adobe's digital marketing solutions. |
 | ------- | ------- |
 
->[!TAB Get ready]
+>[!TAB Certification Journey]
 
-On the **[!UICONTROL Get ready]** tab of each certification journey page, you find the following information:
+The Certification Journey Guide is a comprehensive tool designed to provide you with all the information you need to prepare for a certification exam. The guide is divided into three main sections: Get Ready, Get Prepped, and Get Certified.
 
-![Ready Badge](/help/certifications/assets/get_ready.png)
+The **Get Ready** section of the guide is intended to give an overview of the exam, including information about the intended audience, exam details, readiness self-assessment, exam objectives, and scope. This section helps you understand the exam and what you can expect when taking it. The readiness self-assessment is particularly helpful, as it allows you to determine your current level of knowledge and identify areas where you may need to focus your study efforts.
 
->[!NOTE]
->
->Readiness questionnaires are not currently available for every certification journey.
+The **Get Prepped** section is where you can find training and resources to help you prepare for the exam. This section includes information about and links to study materials and training courses. 
 
->[!TAB Get prepped]
-
-On the **[!UICONTROL Get prepped]** tab of each certification journey page, you will find any preparation material recommended for that certification.
-
-![Prepped Badge](/help/certifications/assets/get_prepped_true.png)
-
->[!NOTE]
->
->Sample questions are not currently available for every certification journey.
-
-
->[!TAB Get certified]
-
-On the **[!UICONTROL Get certified]** tab of each certification journey page, you will find a link to the Adobe Certification Prep Portal **for those exams that have practice tests**, and the link to register for your certification exam. 
-
-You can pay for your certification exam by voucher or credit card. To purchase an exam voucher go to: [Adobe Certification Voucher Center](https://market.xvoucher.com/adobe/global){target="_blank"}.
-
-![Prepped Badge](/help/certifications/assets/Get_certified.png)
-
->[!IMPORTANT]
->
->Please note, the links on this page are not directly accessibly until you sign in to the [Adobe Credential Management System](https://www.certmetrics.com/adobe/candidate/requirements.aspx){target="_blank"}.
-
+The **Get Certified** section offers valuable information on how to register for the certification exam, including details about the registration process and available payment methods. In addition, this section also provides a clear overview of the exam process. Look to this section for helpful resources, such as a link to the Adobe Certification Prep Portal for exams that offer practice tests, as well as links to register for certification exams.
 
 >[!ENDTABS]
 
