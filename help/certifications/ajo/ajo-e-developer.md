@@ -5,7 +5,7 @@ solution: Journey Optimizer
 role: Developer
 badge: label="Exam AD0-E603" type="positive"
 ---
-# Certification journey for [!DNL Journey Optimizer] Developer Expert
+# Certification journey for Adobe [!DNL Journey Optimizer] Developer Expert
 
 Learn how to become a certified Adobe [!DNL Journey Optimizer] Expert.
 

@@ -6,7 +6,7 @@ role: Developer
 badge: label="Exam AD0-E129" type="positive"
 mini-toc-levels: 1
 ---
-# Certification journey for [!DNL Experience Manager] Assets Developer Professional
+# Certification journey for Adobe [!DNL Experience Manager] Assets Developer Professional
 
 Learn how to become a certified [!DNL Experience Manager] Professional.
 

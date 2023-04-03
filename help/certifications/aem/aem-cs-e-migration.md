@@ -6,9 +6,9 @@ role: Developer
 badge: label="Exam AD0-E136" type="positive"
 mini-toc-levels: 1
 ---
-# Certification journey for [!DNL Experience Manager] as a Cloud Service Migration Expert
+# Certification journey for Adobe [!DNL Experience Manager] as a Cloud Service Migration Expert
 
-Learn how to become a certified [!DNL Experience Manager] Expert.
+Learn how to become a certified Adobe [!DNL Experience Manager] Expert.
 
 ## Minimum experience
 

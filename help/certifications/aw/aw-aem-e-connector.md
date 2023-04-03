@@ -6,7 +6,7 @@ role: Developer
 badge: label="Exam AD0-E906" type="positive"
 mini-toc-levels: 1
 ---
-# Certification journey for [!DNL Workfront] for [!DNL Experience Manager] Enhanced Connector Expert
+# Certification journey for Adobe [!DNL Workfront] for [!DNL Experience Manager] Enhanced Connector Expert
 
 Learn how to become a certified Adobe certified expert.
 

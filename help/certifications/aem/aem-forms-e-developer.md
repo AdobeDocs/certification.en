@@ -6,7 +6,7 @@ role: Developer
 badge: label="Exam AD0-E125" type="positive"
 mini-toc-levels: 1
 ---
-# Certification journey for [!DNL Experience Manager Forms] Developer Expert
+# Certification journey for Adobe [!DNL Experience Manager Forms] Developer Expert
 
 Learn how to become a certified [!DNL Experience Manager Forms] Developer Expert.
 

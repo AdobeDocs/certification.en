@@ -6,7 +6,7 @@ role: Developer
 badge: label="Exam AD0-E457" type="positive"
 mini-toc-levels: 1
 ---
-# Certification journey for [!DNL Audience Manager] Business Practitioner Expert
+# Certification journey for Adobe [!DNL Audience Manager] Business Practitioner Expert
 
 Learn how to become a certified [!DNL Audience Manager] Business Practitioner Expert.
 

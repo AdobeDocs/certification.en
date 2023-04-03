@@ -6,7 +6,7 @@ role: Developer
 badge: label="Exam AD0-E127" type="positive"
 mini-toc-levels: 1
 ---
-# Certification journey for [!DNL Experience Manager Forms] Backend Developer Professional
+# Certification journey for Adobe [!DNL Experience Manager Forms] Backend Developer Professional
 
 Learn how to become a certified [!DNL Adobe AEM Forms] Backend Developer Professional.
 
