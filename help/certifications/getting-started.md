@@ -63,11 +63,11 @@ Adobe certification exams are customized to three different job roles. Read the 
 
 The Certification Journey Guide is a comprehensive tool designed to provide you with all the information you need to prepare for a certification exam. The guide is divided into three main sections: Get Ready, Get Prepped, and Get Certified.
 
-The **Get Ready** section of the guide is intended to give an overview of the exam, including information about the intended audience, exam details, readiness self-assessment, exam objectives, and scope. This section helps you understand the exam and what you can expect when taking it. The readiness self-assessment is particularly helpful, as it allows you to determine your current level of knowledge and identify areas where you may need to focus your study efforts.
-
-The **Get Prepped** section is where you can find training and resources to help you prepare for the exam. This section includes information about and links to study materials and training courses. 
-
-The **Get Certified** section offers valuable information on how to register for the certification exam, including details about the registration process and available payment methods. In addition, this section also provides a clear overview of the exam process. Look to this section for helpful resources, such as a link to the Adobe Certification Prep Portal for exams that offer practice tests, as well as links to register for certification exams.
+| Sections | Description |
+| ------- | ------- |
+|**Get Ready** | Intended to give an overview of the exam, including information about the intended audience, exam details, readiness self-assessment, exam objectives, and scope. This section helps you understand the exam and what you can expect when taking it. The readiness self-assessment is particularly helpful, as it allows you to determine your current level of knowledge and identify areas where you may need to focus your study efforts. |
+| **Get Prepped** | Is where you can find training and resources to help you prepare for the exam. This section includes information about and links to study materials and training courses. |
+| **Get Certified** | Offers valuable information on how to register for the certification exam, including details about the registration process and available payment methods. In addition, this section also provides a clear overview of the exam process. Look to this section for helpful resources, such as a link to the Adobe Certification Prep Portal for exams that offer practice tests, as well as links to register for certification exams. |
 
 >[!ENDTABS]
 
