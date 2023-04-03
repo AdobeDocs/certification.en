@@ -67,9 +67,11 @@ For questions about exam registration, exam payments, test delivery, testing cen
 
 +++
 
-+++Can Adobe accommodate candidates with special needs?
++++Can Adobe accommodate candidates with special requirements? 
 
-Adobe allows accommodations to candidates who are identified as having special needs. If you need additional time to complete your exam or another accommodation, please contact `examaccommodations@adobe.com` or `certif@adobe.com`. 
+Adobe can accommodate certain special requirements. If you need additional time to complete your exam or another accommodation, please contact `certif@adobe.com` with your request. 
+
+**Your request must be sent 2 weeks before your exam schedule.**
 
 +++
 
@@ -186,9 +188,9 @@ No. Your digital badge will remain the same.
 
 +++
 
-+++Is it possible that I could take the same exam for renewal that I took to earn my initial certification?
++++Can I take the same exam I took for the initial certification to renew my certification?
 
-No. You cannot retake a version that you already successfully passed. You will have to wait until the new exam is released.  
+No, it is not possible to retake the same exam for renewal once you have passed it for initial certification.
 
 +++
 
