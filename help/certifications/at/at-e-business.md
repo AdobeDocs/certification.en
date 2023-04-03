@@ -1,26 +1,26 @@
 ---
-title: Adobe Target Business Practitioner Expert Certification.
-description: Learn how to become a certified Adobe Business Practitioner expert.
+title: Business Practitioner Expert certification
+description: Learn how to become a certified Adobe Business Practitioner Expert in [!DNL Adobe Target].
 solution: Target
 role: Developer
 badge: label="Exam AD0-E406" type="positive"
 mini-toc-levels: 1
 ---
-# Certification journey for Adobe Target Business Practitioner expert
+# Certification journey for [!DNL Adobe Target] Business Practitioner Expert
 
-Learn how to become a certified Adobe Business Practitioner expert.
+Learn how to become a certified Adobe Business Practitioner Expert.
 
-## Minimum experience:
+## Minimum experience
 
 You should have:
 
-* 2+ years' experience with optimization platforms, including Adobe Target
-* Hands-on experience with Adobe Target
+* 2+ years' experience with optimization platforms, including [!DNL Adobe Target]
+* Hands-on experience with [!DNL Adobe Target]
 * 2+ years' experience leading/contributing to optimization programs
 * An understanding of basics of Target/Adobe Marketing Cloud administrative tasks (preferences, user roles and permissions, settings)
 * The ability to understand and translate business KPIs into optimization goals
 * The ability to make suggestions based on needs assessment
-* The ability to determine the appropriate Adobe Target activity types based on optimization goals
+* The ability to determine the appropriate [!DNL Adobe Target] activity types based on optimization goals
 * Knowledge of how HTML and CSS can be used to optimize the user experience
 * Understanding of JavaScript as a concept
 * The knowledge of statistical concepts and data analysis as it applies to optimization
@@ -39,7 +39,7 @@ Technologies:
 * Network tools in browser
 * Basic understanding of other Adobe Tools
 * Developer Console (any web browser)
-* Adobe Target sample calculator
+* [!DNL Adobe Target] sample calculator
 * Adobe Audience Manager fundamentals
 * Adobe Experience Cloud (as audience source for Target)
 * Adobe Experience Manager
@@ -60,7 +60,7 @@ Environments:
 
 >[!NOTE]
 >
->Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
+>Your certification is valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
 
 >[!BEGINTABS]
 
@@ -120,7 +120,7 @@ Section 2: Configuring, executing and managing (42%)
 Section 3: Analyzing and reporting (17%)
 
 * Define and evaluate report settings to help set the elements that appear in a report
-* Evaluate and compare Adobe Target Sample Size Calculator settings when both planning Target activities and validating Target activities reports
+* Evaluate and compare [!DNL Adobe Target] Sample Size Calculator settings when both planning Target activities and validating Target activities reports
 * Evaluate and identify common problems associated with A/B testing and how to avoid them
 * Understand how Automated Personalization Summary reports differ from other reports
 * Evaluate Experience Performance reports (MVT)
@@ -140,22 +140,22 @@ Here are some suggested resources to help you prepare:
 
 **Section 1: Planning and strategy**
 
-* [Set up Account Preferences in Adobe Target](https://experienceleague.adobe.com/docs/target-learn/tutorials/administration/set-up-account-preferences.html?lang=en){target="_blank"}
-* [Understanding Enterprise User Permissions in Adobe Target](https://experienceleague.adobe.com/docs/target-learn/tutorials/administration/understanding-enterprise-user-permissions.html?lang=en){target="_blank"}
+* [Set up Account Preferences in [!DNL Adobe Target]](https://experienceleague.adobe.com/docs/target-learn/tutorials/administration/set-up-account-preferences.html?lang=en){target="_blank"}
+* [Understanding Enterprise User Permissions in [!DNL Adobe Target]](https://experienceleague.adobe.com/docs/target-learn/tutorials/administration/understanding-enterprise-user-permissions.html?lang=en){target="_blank"}
 * [Configure Enterprise User Permissions](https://experienceleague.adobe.com/docs/target-learn/tutorials/administration/1.2-configure-ent-user-permissions.html?lang=en){target="_blank"}
-* [Set up Workspaces in Adobe Target](https://experienceleague.adobe.com/docs/target-learn/tutorials/administration/set-up-workspaces.html?lang=en){target="_blank"}
+* [Set up Workspaces in [!DNL Adobe Target]](https://experienceleague.adobe.com/docs/target-learn/tutorials/administration/set-up-workspaces.html?lang=en){target="_blank"}
 * [ Introduction to Administration Setup](https://experienceleague.adobe.com/docs/target-learn/tutorials/administration/1.3-intro-to-admin-setup.html?lang=en){target="_blank"}
-* [Set up Properties in Adobe Target](https://experienceleague.adobe.com/docs/target-learn/tutorials/administration/set-up-properties.html?lang=en){target="_blank"}
+* [Set up Properties in [!DNL Adobe Target]](https://experienceleague.adobe.com/docs/target-learn/tutorials/administration/set-up-properties.html?lang=en){target="_blank"}
 
 **Section 2: Configuring, executing and managing**
 
-* [Introduction to Adobe Target implementation](https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/2.1-intro-to-target-implementation.html?lang=en){target="_blank"}
+* [Introduction to [!DNL Adobe Target] implementation](https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/2.1-intro-to-target-implementation.html?lang=en){target="_blank"}
 * [Integrate Target with tags](https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/3.1-target-launch.html?lang=en){target="_blank"}
 * [Benefits of using locations](https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/2.2-benefits-of-locations.html?lang=en){target="_blank"}
 * [Introduction to Target requests](https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/2.3-intro-to-target-requests.html?lang=en){target="_blank"}
 * [Introduction to Target parameters](https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/2.4-intro-to-target-params.html?lang=en){target="_blank"}
-* [Understanding How Adobe Target's at.js 2.0 Works](https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/understanding-how-atjs-20-works.html?lang=en){target="_blank"}
-* [Implement Adobe Target's at.js 2.0 in a Single Page Application (SPA)](https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/implement-atjs-20-in-a-single-page-application.html?lang=en){target="_blank"}
+* [Understanding How [!DNL Adobe Target]'s at.js 2.0 Works](https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/understanding-how-atjs-20-works.html?lang=en){target="_blank"}
+* [Implement [!DNL Adobe Target]'s at.js 2.0 in a Single Page Application (SPA)](https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/implement-atjs-20-in-a-single-page-application.html?lang=en){target="_blank"}
 * [Design a Target implementation](https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/2.5-design-target-implementation.html?lang=en){target="_blank"}
 * [Next steps to designing a Target implementation](https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/2.6-next-steps-design-target-implementation.html?lang=en){target="_blank"}
 
@@ -163,7 +163,7 @@ Here are some suggested resources to help you prepare:
 
 * [Use the Personalization Insights Reportss](https://experienceleague.adobe.com/docs/target-learn/tutorials/reports/use-the-personalization-insights-reports.html?lang=en){target="_blank"}
 * [Integrate Target with Analytics](https://experienceleague.adobe.com/docs/target-learn/tutorials/integrations/3.2-target-analytics.html?lang=en){target="_blank"}
-* [Use Adobe Analytics as a Data Source for Adobe Target (A4T)](https://experienceleague.adobe.com/docs/target-learn/tutorials/integrations/use-analytics-as-a-data-source-a4t.html?lang=en){target="_blank"}
+* [Use Adobe Analytics as a Data Source for [!DNL Adobe Target] (A4T)](https://experienceleague.adobe.com/docs/target-learn/tutorials/integrations/use-analytics-as-a-data-source-a4t.html?lang=en){target="_blank"}
 * [Setting up A4T reports in Analysis Workspace for Auto-Target activities](https://experienceleague.adobe.com/docs/target-learn/tutorials/integrations/set-up-a4t-reports-in-analysis-workspace-for-auto-target-activities.html?lang=en){target="_blank"}
 
 **Section 4: Troubleshooting**
@@ -178,7 +178,7 @@ Here are some suggested resources to help you prepare:
 
 >[!IMPORTANT]
 >
->The following sections and links will **only** function after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
+>The following sections and links will function **only**  after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
 
 **Now that you have successfully logged in, the following links will be directly accessible.**
 
@@ -197,7 +197,7 @@ Go to the [Adobe Certification Exam Prep Portal](https://www.certmetrics.com/ado
 Adobe uses two vendors to administer proctored exams, PSI and Examity. 
 
 * **PSI** offers test center and Japanese exam options (where available) 
-* **Examity** offers a remote online option
+* **[!DNL Examity]** offers a remote online option
 
 To schedule, reschedule, or cancel your exam, simply click on the vendor of choice, and follow the instructions provided on screen. It's that simple!
 
@@ -213,6 +213,6 @@ You can apply the voucher code when you schedule your exam. If you have a discou
 
 **Questions**
 
-View the certification [FAQs](https://experienceleague.corp.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+View the certification [FAQ](https://experienceleague.corp.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
 Additional questions? Please email `certif@adobe.com`.

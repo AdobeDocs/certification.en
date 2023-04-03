@@ -1,20 +1,20 @@
 ---
-title: Adobe Campaign Standard Renewal 
-description: Learn how to renew your certification before it expires.
+title: Certification renewal 
+description: Learn how to renew your Adobe [!DNL Campaign Standard] certification before it expires. 
 solution: Campaign Standard
 badge: label="Campaign Standard Renewal" type="positive"
 mini-toc-levels: 1
 hidefromtoc: yes
 ---
-# Renew your Adobe Campaign Standard certification
+# Renew your Adobe [!DNL Campaign Standard] certification
 
 When you pass a certification exam, your certification is valid for two years.
 
-We're happy to announce that you are now able to renew your certification via a new, no-cost format. It involves using on-demand Adobe Experience League courses and tutorials—simply complete three activities to renew your certification at no cost. You must renew before your certification expires, or you will need to take the full exam to become certified again. 
+We're happy to announce that you are now able to renew your certification via a new, no-cost format. It involves using on-demand Experience League courses and tutorials--simply complete three activities to renew your certification at no cost. You must renew before your certification expires, or you will need to take the full exam to become certified again. 
 
->[!NOTE]
+>[!IMPORTANT]
 >
->IMPORTANT NOTE: The following exam links will **only** function after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
+>The following sections and links will function **only** after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
 
 >[!BEGINTABS]
 
@@ -26,11 +26,11 @@ We're happy to announce that you are now able to renew your certification via a 
 
 >[!TAB Expert]
 
-+++Adobe Campaign Standard Business Practitioner expert renewal
++++Adobe [!DNL Campaign Standard] Business Practitioner expert renewal
 
 You should be currently certified (not expired) in:
 
-* Adobe Campaign Standard Business Practitioner expert
+* Adobe [!DNL Campaign Standard] Business Practitioner expert
 
 ## Instructions for renewing your certification:
 
@@ -49,7 +49,7 @@ Time: 110 mins
 Cost: FREE/non-proctored
 Delivery: On-demand
 Available languages: English
-Prerequisite: current (not expired) Adobe Campaign Standard Business Practitioner expert certification
+Prerequisite: current (not expired) Adobe [!DNL Campaign Standard] Business Practitioner expert certification
 Exam ID: AD5-E822
 
 ```
@@ -61,7 +61,7 @@ Section 1: Campaign management
 * Organize hierarchies based on a given use case
 * Given sample business requirements, determine what can be fulfilled by OOTB features
 * Given a scenario, apply best practices to design a multi- or cross-channel campaign
-* Identify channels (push notification, email, SMS, direct mail, in-app) in Campaign Standard
+* Identify channels (push notification, email, SMS, direct mail, in-app) in [!DNL Campaign Standard]
 
 Section 2: Delivery management
 
@@ -88,25 +88,25 @@ Here are some suggested resources to help you prepare:
 
 **Section 1: Campaign management**
 
-* [Adobe Campaign Standard Documentation](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=en){target="_blank"} (working with marketing activities, building email content, communication channels, deliveries, configuring channels) 
+* [Adobe [!DNL Campaign Standard] Documentation](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=en){target="_blank"} (working with marketing activities, building email content, communication channels, deliveries, configuring channels) 
 
 **Section 2: Delivery management**
 
-* [Adobe Campaign Standard Documentation](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=en){target="_blank"} (building email content, preparing and testing messages, communication channels -- email, application settings)
+* [Adobe [!DNL Campaign Standard] Documentation](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=en){target="_blank"} (building email content, preparing and testing messages, communication channels -- email, application settings)
 
 **Section 3: Workflow design and execution**
 
-* [Adobe Campaign Standard Documentation](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=en){target="_blank"} (managing processes and data, managing audiences, scheduling messages, adding or extending a resource)
+* [Adobe [!DNL Campaign Standard] Documentation](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=en){target="_blank"} (managing processes and data, managing audiences, scheduling messages, adding or extending a resource)
 
 **Section 4: Administration, monitoring, and reporting**
 
-* [Adobe Campaign Standard Documentation](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=en){target="_blank"} (executing a workflow, testing and sending, customizing reports, profiles and audiences, users and security)
+* [Adobe [!DNL Campaign Standard] Documentation](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=en){target="_blank"} (executing a workflow, testing and sending, customizing reports, profiles and audiences, users and security)
 
 ## Renew your certification
 
-To renew your exam click on the "Campaign Standard Business Practitioner renewal - AD5-822" link below. This will redirect you to the Adobe Credential Management system where you will click "renew your certification" tab on the right side of the screen > then search for Adobe Campaign to see the link to the renewal exam.
+To renew your exam click the _[!DNL Campaign Standard] Business Practitioner renewal - AD5-822 link below_. This redirects you to the Adobe Credential Management system where you can click **[!UICONTROL renew your certification]** tab on the right side of the screen, then search for [!DNL Adobe Campaign] to see the link to the renewal exam.
 
-* [Campaign Standard Business Practitioner renewal - AD5-822](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=AD5-E822){target="_blank"}
+* [[!DNL Campaign Standard] Business Practitioner renewal - AD5-822](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=AD5-E822){target="_blank"}
 
 >[!NOTE]
 >
@@ -114,11 +114,11 @@ To renew your exam click on the "Campaign Standard Business Practitioner renewal
 
 +++
 
-+++Adobe Campaign Standard Developer expert renewal
++++Adobe [!DNL Campaign Standard] Developer expert renewal
 
 You should be currently certified (not expired) in:
 
-* Adobe Campaign Standard Developer expert
+* Adobe [!DNL Campaign Standard] Developer expert
 
 ## Instructions for renewing your certification:
 
@@ -137,7 +137,7 @@ Time: 60 mins
 Cost: FREE/non-proctored
 Delivery: On-demand
 Available languages: English
-Prerequisite: current (not expired) Adobe Campaign Standard Developer Expert certification
+Prerequisite: current (not expired) Adobe [!DNL Campaign Standard] Developer Expert certification
 Exam ID: AD5-E821
 
 ```
@@ -222,9 +222,9 @@ Here are some suggested resources to help you prepare:
 
 ## Renew your certification
 
-To renew your exam click on the "Campaign Standard Developer renewal - AD5-821" link below. This will redirect you to the Adobe Credential Management system where you will click "renew your certification" tab on the right side of the screen > then search for Adobe Campaign to see the link to the renewal exam.
+To renew your exam click on the "[!DNL Campaign Standard] Developer renewal - AD5-821" link below. This will redirect you to the Adobe Credential Management system where you will click "renew your certification" tab on the right side of the screen > then search for Adobe Campaign to see the link to the renewal exam.
 
-* [Campaign Standard Developer renewal - AD5-821](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=AD5-E821){target="_blank"}
+* [[!DNL Campaign Standard] Developer renewal - AD5-821](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=AD5-E821){target="_blank"}
 
 >[!NOTE]
 >
@@ -238,4 +238,4 @@ To renew your exam click on the "Campaign Standard Developer renewal - AD5-821" 
 
 Have a question about Adobe Certification? Please email `certif@adobe.com`.
 
-View the certification [FAQs](https://experienceleague.corp.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+View the certification [FAQ](https://experienceleague.corp.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.

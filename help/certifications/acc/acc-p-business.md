@@ -1,16 +1,16 @@
 ---
-title: Adobe Campaign Classic Business Practitioner Professional Certification
-description: Learn how to become a certified Adobe Business Practitioner professional.
+title: Business Practitioner Professional certification
+description: Learn how to become a certified Adobe Business Practitioner professional in [!DNL Campaign Classic].
 solution: Campaign Classic
 role: Developer
 badge: label="Exam AD0-E329" type="positive"
 mini-toc-levels: 1
 ---
-# Certification journey for Adobe Campaign Classic Business Practitioner professional
+# Certification journey for Adobe [!DNL Campaign Classic] Business Practitioner Professional
 
-Learn how to become a certified Adobe Business Practitioner professional.
+Learn how to become a certified Adobe Business Practitioner Professional.
 
-## Minimum experience:
+## Minimum experience
 
 You should have:
 
@@ -30,7 +30,7 @@ You should have:
 
 >[!NOTE]
 >
->Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
+>Your certification is valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
 
 >[!BEGINTABS]
 
@@ -170,7 +170,7 @@ The sample questions allow you to see the type and format of items that you will
 
 >[!IMPORTANT]
 >
->The following sections and links will **only** function after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
+>The following sections and links will function **only**  after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
 
 **Now that you have successfully logged in, the following links will be directly accessible.**
 
@@ -179,7 +179,7 @@ The sample questions allow you to see the type and format of items that you will
 Adobe uses two vendors to administer proctored exams, PSI and Examity. 
 
 * **PSI** offers test center and Japanese exam options (where available) 
-* **Examity** offers a remote online option
+* **[!DNL Examity]** offers a remote online option
 
 To schedule, reschedule, or cancel your exam, simply click on the vendor of choice, and follow the instructions provided on screen. It's that simple!
 
@@ -195,6 +195,6 @@ You can apply the voucher code when you schedule your exam. If you have a discou
 
 **Questions**
 
-View the certification [FAQs](https://experienceleague.corp.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+View the certification [FAQ](https://experienceleague.corp.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
 Additional questions? Please email `certif@adobe.com`.

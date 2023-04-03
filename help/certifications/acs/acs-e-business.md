@@ -1,22 +1,22 @@
 ---
-title: Adobe Campaign Standard Business Practitioner Expert Certification 
-description: Learn how to become a certified Adobe Business Practitioner expert.
+title: Business Practitioner Expert certification 
+description: Learn how to become a certified Adobe Business Practitioner expert in Adobe [!DNL Campaign Standard] 
 solution: Campaign Standard
 role: Developer
 badge: label="Exam AD0-E307" type="positive"
 mini-toc-levels: 1
 ---
-# Certification journey for Adobe Campaign Standard Business Practitioner expert
+# Certification journey for Adobe [!DNL Campaign Standard] Business Practitioner Expert
 
-Learn how to become a certified Adobe Business Practitioner expert.
+Learn how to become a certified Adobe Business Practitioner Expert.
 
-## Minimum experience:
+## Minimum experience
 
 You should have experience working in a channel delivery environment (email, direct mail, mobile, and social); familiarity with marketing campaign tactics such as multi-touch, life cycle, and reactivation; and an understanding of marketing metrics such as ROI, clickthrough rates, and conversion.
 
 Additionally, you should have:
 
-* Field experience working with Campaign Standard with regular frequency
+* Field experience working with [!DNL Campaign Standard] with regular frequency
 * An ability to process data files
 * An understanding of the concepts of relational databases, triggers, APIs, and technical workflows
 * An understanding of how to build marketing workflows and work with the underlying data to launch marketing workflows
@@ -25,7 +25,7 @@ Additionally, you should have:
 
 >[!NOTE]
 >
->Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
+>Your certification is valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
 
 >[!BEGINTABS]
 
@@ -93,7 +93,7 @@ Section 5: Troubleshooting (10%)
 Section 6: Data management and administration (15%)
 
 * Explain data model resources
-* Perform Campaign Standard administration
+* Perform [!DNL Campaign Standard] administration
 * Apply the process to build targeted audiences
 
 >[!TAB Get prepped]
@@ -135,14 +135,14 @@ Here are some suggested resources to help you prepare:
 
 **Section 6: Data management and administration**
 
-* [Get started with Campaign Standard data model](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/get-started-data-model.html?lang=en){target="_blank"}
-* [Get started with Campaign Standard administration](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/get-started-campaign-administration.html?lang=en){target="_blank"}
+* [Get started with [!DNL Campaign Standard] data model](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/get-started-data-model.html?lang=en){target="_blank"}
+* [Get started with [!DNL Campaign Standard] administration](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/get-started-campaign-administration.html?lang=en){target="_blank"}
 
 >[!TAB Get certified]
 
 >[!IMPORTANT]
 >
->The following sections and links will **only** function after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
+>The following sections and links will function **only**  after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
 
 **Now that you have successfully logged in, the following links will be directly accessible.**
 
@@ -161,7 +161,7 @@ Go to the [Adobe Certification Exam Prep Portal](https://www.certmetrics.com/ado
 Adobe uses two vendors to administer proctored exams, PSI and Examity. 
 
 * **PSI** offers test center and Japanese exam options (where available) 
-* **Examity** offers a remote online option
+* **[!DNL Examity]** offers a remote online option
 
 To schedule, reschedule, or cancel your exam, simply click on the vendor of choice, and follow the instructions provided on screen. It's that simple!
 
@@ -177,6 +177,6 @@ You can apply the voucher code when you schedule your exam. If you have a discou
 
 **Questions**
 
-View the certification [FAQs](https://experienceleague.corp.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+View the certification [FAQ](https://experienceleague.corp.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
 Additional questions? Please email `certif@adobe.com`.

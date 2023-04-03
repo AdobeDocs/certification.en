@@ -1,11 +1,11 @@
 ---
-title: Certification Restart Eligibility Exam Checker
-description: Exams eligible for the restart program
+title: Certification restart eligibility exam checker
+description: Learn about exam eligibility for restarting a certification program at Adobe.
 recommendations: disable, exclude
 hidefromtoc: true
 ---
 
-# Certification Restart Eligibility Exam Checker
+# Certification restart eligibility exam checker
 
 Use the below table to see exams eligible for the restart program.
 

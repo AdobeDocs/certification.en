@@ -1,22 +1,22 @@
 ---
-title: Adobe Commerce Commerce Front-End Developer Expert Certification
-description: Learn how to become a certified Adobe Developer expert.
+title: Front-End Developer Expert certification
+description: Learn how to become a certified Adobe Developer Expert in Adobe [!DNL Commerce].
 solution: Commerce
 role: Developer
 badge: label="Exam AD0-E710" type="positive"
 mini-toc-levels: 1
 ---
-# Certification journey for Adobe Commerce Front-End Developer expert
+# Certification journey for Adobe [!DNL Commerce] Front-End Developer Expert
 
-Learn how to become a certified Adobe Developer expert.
+Learn how to become a certified Adobe Developer Expert.
 
-## Minimum experience:
+## Minimum experience
 
-You should have at least 1-3 years of hands-on experience with Adobe Commerce Frontend development, and have the ability to translate the needs expressed by task requirements into a technical solution.
+You should have at least 1-3 years of hands-on experience with Adobe [!DNL Commerce] Frontend development, and have the ability to translate the needs expressed by task requirements into a technical solution.
 
 Additionally, you should be comfortable using the following technologies:
 
-* Adobe Commerce - version 2.4.3
+* Adobe [!DNL Commerce] - version 2.4.3
 * Basic understanding of the front-end structure and layout
 * Experience and understanding of HTML, CSS (and preprocessors), LESS, JavaScript and UI Components, jQuery, Underscore, Require.JS, Knockout, also PHP templates, DB knowledge and content management
 * Familiarity with the platform, CMS Blocks, Widgets, CMS pages, Category pages, Product pages, Cart and Checkout, and Account Dashboard area
@@ -33,7 +33,7 @@ Additionally, you should be comfortable using the following technologies:
 
 >[!NOTE]
 >
->Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
+>Your certification is valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
 
 >[!BEGINTABS]
 
@@ -69,7 +69,7 @@ Complete the [online readiness questionnaire](https://scorpion.caveon.com/launch
 
 Section 1: Theme management (Theme hierarchy, image configuration, translations) (16%)
 
-* Describe Adobe Commerce theme folder structure and how it relates to folder based themes
+* Describe Adobe [!DNL Commerce] theme folder structure and how it relates to folder based themes
 * Demonstrate the ability to create a new theme (Inheritance/Fallbacks, design exceptions, theme properties)
 * Demonstrate ability to extend existing themes
 * Demonstrate ability to customize transactional emails
@@ -171,7 +171,7 @@ Here are some suggested resources to help you prepare:
 
 * [Call and initialize JavaScript](https://developer.adobe.com/commerce/frontend-core/javascript/init/){target="_blank"}
 * [Debug JavaScript components](https://developer.adobe.com/commerce/frontend-core/javascript/debug/){target="_blank"}
-* [RequireJS in Commerce](https://developer.adobe.com/commerce/frontend-core/javascript/requirejs/){target="_blank"}
+* [RequireJS in [!DNL Commerce]](https://developer.adobe.com/commerce/frontend-core/javascript/requirejs/){target="_blank"}
 * [JavaScript mixins](https://devdocs.magento.com/guides/v2.4/javascript-dev-guide/javascript/js_mixins.html){target="_blank"}
 * [Theme strings](https://developer.adobe.com/commerce/frontend-core/guide/translations/theory/){target="_blank"}
 * [Introduction to UI components](https://developer.adobe.com/commerce/frontend-core/ui-components/){target="_blank"}
@@ -194,7 +194,7 @@ Here are some suggested resources to help you prepare:
 **Section 6: Tools (CLI and Grunt)**
 
 * [Command-line tool](https://devdocs.magento.com/guides/v2.4/config-guide/cli/config-cli.html#config-new-cli-intro){target="_blank"}
-* [Commerce for developers - Code base](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-4-code-base.html?lang=en){target="_blank"}
+* [[!DNL Commerce] for developers - Code base](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-4-code-base.html?lang=en){target="_blank"}
 * [Uninstall modules](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/tutorials/uninstall-modules.html){target="_blank"}
 * [Manage extensions](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure-store/extensions.html){target="_blank"}
 * [Set the operation mode](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/cli/set-mode.html){target="_blank"}
@@ -205,7 +205,7 @@ Here are some suggested resources to help you prepare:
 
 >[!IMPORTANT]
 >
-> The following sections and links will **only** function after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
+> The following sections and links will function **only** after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
 
 **Now that you have successfully logged in, the following links will be directly accessible.**
 
@@ -224,7 +224,7 @@ Go to the [Adobe Certification Exam Prep Portal](https://www.certmetrics.com/ado
 Adobe uses two vendors to administer proctored exams, PSI and Examity. 
 
 * **PSI** offers test center and Japanese exam options (where available) 
-* **Examity** offers a remote online option
+* **[!DNL Examity]** offers a remote online option
 
 To schedule, reschedule, or cancel your exam, simply click on the vendor of choice, and follow the instructions provided on screen. It's that simple!
 
@@ -240,6 +240,6 @@ You can apply the voucher code when you schedule your exam. If you have a discou
 
 **Questions**
 
-View the certification [FAQs](https://experienceleague.corp.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+View the certification [FAQ](https://experienceleague.corp.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
 Additional questions? Please email `certif@adobe.com`.

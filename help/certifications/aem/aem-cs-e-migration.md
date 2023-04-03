@@ -1,21 +1,21 @@
 ---
-title: Adobe Experience Manager Expert Certification 
-description: Learn how to become a certified Adobe Experience Manager expert.
+title: Expert certification 
+description: Learn how to become a certified Adobe [!DNL Experience Manager] expert.
 solution: Experience Manager as a Cloud Service
 role: Developer
 badge: label="Exam AD0-E136" type="positive"
 mini-toc-levels: 1
 ---
-# Certification journey for Adobe Experience Manager as a Cloud Service Migration expert
+# Certification journey for [!DNL Experience Manager] as a Cloud Service Migration Expert
 
-Learn how to become a certified Adobe Experience Manager expert.
+Learn how to become a certified [!DNL Experience Manager] Expert.
 
-## Minimum experience:
+## Minimum experience
 
 You should have:
 
 * An understanding of the overall changes to the architecture and features when moving from any AEM service (self-managed, AMS or any third-party cloud) to AEM as a Cloud Service. 
-* 2-3 years of web application development experience using Adobe Experience Manager
+* 2-3 years of web application development experience using Adobe [!DNL Experience Manager]
 * Hands on experience using AEM Forms, Assets, and Sites
 * The ability to guide customers through the migration process advising and participating in all phases of an AEM project 
 
@@ -40,7 +40,7 @@ Additionally, you should be familiar with the following technologies and environ
 
 >[!NOTE]
 >
->Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
+>Your certification is valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
 
 >[!BEGINTABS]
 
@@ -48,13 +48,13 @@ Additionally, you should be familiar with the following technologies and environ
 
 **Intended audience:**
 
-* Developers who have experience with Adobe Experience Manager
+* Developers who have experience with Adobe [!DNL Experience Manager]
 * Developers who have participated in at least one Cloud Migration
-* Adobe Experience Manager Sites Developers
-* Adobe Experience Manager Sites Architect
-* Adobe Experience Manager Assets Developers
-* Adobe Experience Manager Forms Developers
-* Developers/DevOps/Leads/Architects who have participated in multiple AEM deployments with a minimum of 2-3 years of web application development experience using Adobe Experience Manager
+* Adobe [!DNL Experience Manager] Sites Developers
+* Adobe [!DNL Experience Manager] Sites Architect
+* Adobe [!DNL Experience Manager] Assets Developers
+* Adobe [!DNL Experience Manager] Forms Developers
+* Developers/DevOps/Leads/Architects who have participated in multiple AEM deployments with a minimum of 2-3 years of web application development experience using Adobe [!DNL Experience Manager]
 
 **Exam details**
 
@@ -118,13 +118,13 @@ Here are some suggested resources to help you prepare:
 **Section 1: Assessment**
 
 
-* [Experience Manager as a Cloud Service User Guide](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=en){target="_blank"} 
-* [Migration Guide to Adobe Experience Manager as a Cloud Service for Partners](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/migration-journey/getting-started-partners.html?lang=en){target="_blank"} 
+* [[!DNL Experience Manager] as a Cloud Service User Guide](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=en){target="_blank"} 
+* [Migration Guide to Adobe [!DNL Experience Manager] as a Cloud Service for Partners](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/migration-journey/getting-started-partners.html?lang=en){target="_blank"} 
 * [ Notable Changes to AEM as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/aem-cloud-changes.html?lang=en){target="_blank"} 
 
 **Section 2: Design**
 
-* [Adobe Experience Manager as a Cloud Service Documentation](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=en){target="_blank"}
+* [Adobe [!DNL Experience Manager] as a Cloud Service Documentation](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=en){target="_blank"}
 * [Introduction](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/content-delivery/caching.html){target="_blank"}
 
 **Section 3: Deployment**
@@ -148,7 +148,7 @@ Here are some suggested resources to help you prepare:
 
 >[!IMPORTANT]
 >
->The following sections and links will **only** function after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
+>The following sections and links will function **only**  after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
 
 
 **Now that you have successfully logged in, the following links will be directly accessible.**
@@ -158,7 +158,7 @@ Here are some suggested resources to help you prepare:
 Adobe uses two vendors to administer proctored exams, PSI and Examity. 
 
 * **PSI** offers test center and Japanese exam options (where available) 
-* **Examity** offers a remote online option
+* **[!DNL Examity]** offers a remote online option
 
 To schedule, reschedule, or cancel your exam, simply click on the vendor of choice, and follow the instructions provided on screen. It's that simple!
 
@@ -174,7 +174,7 @@ You can apply the voucher code when you schedule your exam. If you have a discou
 
 **Questions**
 
-View the certification [FAQs](https://experienceleague.corp.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+View the certification [FAQ](https://experienceleague.corp.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
 Additional questions? Please email `certif@adobe.com`.
 

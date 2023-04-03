@@ -1,37 +1,37 @@
 ---
-title: Adobe Workfront Core Developer Professional Certification
-description: Learn how to become a certified Adobe Developer professional.
+title: Core Developer Professional certification
+description: Learn how to become a certified Adobe Developer Professional in Adobe [!DNL Workfront].
 solution: Workfront
 role: Developer
 badge: label="Exam AD0-E905" type="positive"
 mini-toc-levels: 1
 ---
-# Certification journey for Adobe Workfront Core Developer professional
+# Certification journey for Adobe [!DNL Workfront] Core Developer Professional
 
 Learn how to become a certified Adobe Developer professional.
 
-## Minimum experience:
+## Minimum experience
 
 You should have:
 
-* At least 3 - 6 months of hands-on experience using Adobe Workfront
-* Experience with Adobe Workfront functionality and connectivity through intake, approval, planning, executing, and reporting
-* An in-depth understanding of Adobe Workfront object types, including custom forms and approval workflows, templates, durations, work effort/planned hours
-* An in-depth understanding of Adobe Workfront Setup, including access levels, layout templates, project preferences, and other methods to achieve simplicity of end-user design
+* At least 3 - 6 months of hands-on experience using Adobe [!DNL Workfront]
+* Experience with Adobe [!DNL Workfront] functionality and connectivity through intake, approval, planning, executing, and reporting
+* An in-depth understanding of Adobe [!DNL Workfront] object types, including custom forms and approval workflows, templates, durations, work effort/planned hours
+* An in-depth understanding of Adobe [!DNL Workfront] Setup, including access levels, layout templates, project preferences, and other methods to achieve simplicity of end-user design
 * An understanding of and experience with process mapping
-* An understanding of different Adobe Workfront personas and how to engage in support
+* An understanding of different Adobe [!DNL Workfront] personas and how to engage in support
 
 And, you should have: 
 
-* Familiarity with Workfront API and API explorer, but not necessarily proficient in API calls
-* The ability to use custom API calls for working with Workfront and other APIs
-* Familiarity with Adobe Workfront
-* Familiarity with native connectors and other Adobe Workfront products and services
+* Familiarity with [!DNL Workfront] API and API explorer, but not necessarily proficient in API calls
+* The ability to use custom API calls for working with [!DNL Workfront] and other APIs
+* Familiarity with Adobe [!DNL Workfront]
+* Familiarity with native connectors and other Adobe [!DNL Workfront] products and services
 * Familiarity with project management including agile and waterfall, and resource management concepts
 
 >[!NOTE]
 >
->Your certification will be valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
+>Your certification is valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
 
 >[!BEGINTABS]
 
@@ -47,7 +47,7 @@ And, you should have:
 * Resource manager
 * Analyst
 * IT specialist
-* Workfront implementation consultant/lead
+* [!DNL Workfront] implementation consultant/lead
 
 **Exam details:** 
 
@@ -99,9 +99,9 @@ Section 5. Execution (24%)
 * Demonstrate how to set up approval and proofing workflows
 * Recognize the purpose of creating an issue for a project
 * Demonstrate how to customize group-level project statuses
-* Identify the attributes needed to enable Agile in Workfront
-* Identify the ways to enter time in Workfront
-* Identify the elements of financial tracking in Workfront
+* Identify the attributes needed to enable Agile in [!DNL Workfront]
+* Identify the ways to enter time in [!DNL Workfront]
+* Identify the elements of financial tracking in [!DNL Workfront]
 
 >[!TAB Get prepped]
 
@@ -118,7 +118,7 @@ The sample questions allow you to see the type and format of items that you will
 **Section 1: Strategy and intake**
 
 * [Best Practice - Portfolios and programs](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/portfolios-programs-bp.html){target="_blank"}
-* [Portfolio overview in Adobe Workfront](https://experienceleague.adobe.com/docs/workfront/using/manage-work/portfolio-management/portfolio-overview-in-adobe-workfront/portfolio-overview.html){target="_blank"}
+* [Portfolio overview in Adobe [!DNL Workfront]](https://experienceleague.adobe.com/docs/workfront/using/manage-work/portfolio-management/portfolio-overview-in-adobe-workfront/portfolio-overview.html){target="_blank"}
 * [Create a Request Queue](https://experienceleague.adobe.com/docs/workfront/using/manage-work/requests/create-and-manage-request-queues/create-request-queue.html?lang=en){target="_blank"}
 * [Understand request queues](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/understand-request-queues.html?lang=en){target="_blank"}
 * [Custom forms overview](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/custom-forms/custom-forms-overview.html){target="_blank"}
@@ -126,7 +126,7 @@ The sample questions allow you to see the type and format of items that you will
 
 **Section 2: Budget and planning**
 
-* [Resource Planning in Adobe Workfront](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/resource-planning-in-adobe-workfront/resource-planning-overview.html){target="_blank"}
+* [Resource Planning in Adobe [!DNL Workfront]](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/resource-planning-in-adobe-workfront/resource-planning-overview.html){target="_blank"}
 * [What is the Resource Planner?](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-resources/resource-planning/what-is-the-resource-planner.html?lang=en){target="_blank"}
 * [Best Practice - Resource Planner](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/resource-planner-bp.html?lang=en){target="_blank"}
 * [Create a project template](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/create-and-manage-project-templates/create-a-project-template.html?lang=en){target="_blank"}
@@ -140,7 +140,7 @@ The sample questions allow you to see the type and format of items that you will
 * [System setup: groups and users](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/workfront-dam-program/system-setup/system-setup-groups-and-users.html?lang=en){target="_blank"}
 * [Share a project](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/projects/share-a-project.html?lang=en){target="_blank"}
 * [How access levels and permissions work together](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/add-users/access-levels/how-access-levels-permissions-work-together.html){target="_blank"}
-* [Import data into Adobe Workfront using a Kick-Start template](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/manage-wf/kick-starts/import-data-via-kickstarts.html){target="_blank"}
+* [Import data into Adobe [!DNL Workfront] using a Kick-Start template](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/manage-wf/kick-starts/import-data-via-kickstarts.html){target="_blank"}
 
 **Section 4: Metrics and reporting**
 
@@ -160,7 +160,7 @@ The sample questions allow you to see the type and format of items that you will
 
 >[!IMPORTANT]
 >
->The following sections and links will **only** function after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
+>The following sections and links will function **only**  after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
 
 
 **Now that you have successfully logged in, the following links will be directly accessible.**
@@ -170,7 +170,7 @@ The sample questions allow you to see the type and format of items that you will
 Adobe uses two vendors to administer proctored exams, PSI and Examity. 
 
 * **PSI** offers test center and Japanese exam options (where available) 
-* **Examity** offers a remote online option
+* **[!DNL Examity]** offers a remote online option
 
 To schedule, reschedule, or cancel your exam, simply click on the vendor of choice, and follow the instructions provided on screen. It's that simple!
 
@@ -186,6 +186,6 @@ You can apply the voucher code when you schedule your exam. If you have a discou
 
 **Questions**
 
-View the certification [FAQs](https://experienceleague.corp.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+View the certification [FAQ](https://experienceleague.corp.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
 Additional questions? Please email `certif@adobe.com`.
