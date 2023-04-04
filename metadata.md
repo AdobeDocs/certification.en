@@ -5,7 +5,7 @@ product: experience cloud
 type: Documentation
 mini-toc-levels: 1
 git-repo: https://github.com/AdobeDocs/certification.en
-index: no
+hide: yes
 ---
 
 # Metadata for internal use
