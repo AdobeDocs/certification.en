@@ -48,7 +48,7 @@ Neither Adobe Support or exam vendors can process rescheduling and cancellation 
 
  If you fail to pass an Adobe certification exam on your first attempt, you must wait at least 24 hours before retaking the exam. Failure to pass an exam on the second or any subsequent attempt requires a waiting period of 14 calendar days before retaking the exam. Each attempt will incur a separate exam fee. 
 
->[!TAB Exams costs]
+>[!TAB Exams cost]
 
 These are the current costs for certification exams.
 
@@ -76,7 +76,7 @@ Note: Bulk discounts cannot be combined with any other offer or discount.
 | 25-49 | 25% |
 | 50+ | 33% |
 
->[!TAB Certification Vendors]
+>[!TAB Certification vendors]
 
 The Adobe Credential team partners with vendors to help support the program's initiatives and goals.  Here are the vendors and their contact information: 
 
@@ -196,7 +196,7 @@ Your badge serves as tangible evidence of your proficiency with Adobe Experience
 
 **For new users, follow the instructions below to accept your Adobe Certification badge:**
 
-* **Step 1:** Go to the email you received from Credly to the accept the badge.
+* **Step 1:** Go to the email you received from Credly to accept the badge.
 * **Step 2:** Create an account. _(You must use the same email that you used to earn your Adobe credential, or you will not see your badge.)_
 * **Step 3:** Accept and share your badge.
 
