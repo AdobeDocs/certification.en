@@ -184,34 +184,17 @@ The following sections and links will function only after a successful login to 
 
 >[!TAB Manage your badges]
 
-Once you earn a credential, you can download your digital badge. You can use your badge on social profiles and verify your achievement to your employer and customers that you are skilled in this application.
+Once you've passed your certification exam, you will receive an Adobe Experience Cloud digital badge from Credly, a provider of digital credentialing services. 
 
-How to manage your badge:
+Your badge serves as tangible evidence of your proficiency with Adobe Experience Cloud products. By displaying it on your social media profiles or resume, you can demonstrate your accomplishment to potential employers and clients and showcase your skills in these applications.
 
-* **Step 1:** The first time you earn a certification, you will need to initially login to the [Adobe Credential Management system](https://www.certmetrics.com/adobe){target="_blank"}. 
-* **Step 2:** Sign in to [[!DNL Credly]](https://www.credly.com/users/sign_in){target="_blank"}
+**There are two ways to accept your Adobe Certification Badge:**
 
-![Credly Badge](/help/certifications/assets/credly_signin.png)
+* **Step 1:** Sign into [Credly](https://www.credly.com/users/sign_in){target="_blank"}. _(You must use the same email that you used to earn your Adobe credential, or you will not see your badge.)_
+* **Step 2:** Or go to the email you received from Credly to the accept the badge.
+* **Step 3:** Accept and share your badge.
 
-**Step 3: Choose your badge**
-
-* The most recent badge you earned appears on your dashboard. (To view other badges, select the **[!UICONTROL Badges]** tab)
-
-![Credly Badge](/help/certifications/assets/credly_badges.png)
-
-**Step 3 - Share your badge**
-
-* After you've selected the correct badge, select **[!UICONTROL Share]** to continue. 
-
-![Credly Badge](/help/certifications/assets/credly_share.png)
-
-**Connect to Your Social Media Account**
-
-* After you select share, you are taken to a page where you can choose which social media account you want to use.
-* Click **[!UICONTROL Connect]** to sign in to your social media account. Click **[!UICONTROL Remove]** to stop sharing on that social media platform.
-* Confirm before sharing. 
-
-![Credly Badge](/help/certifications/assets/credly_share_2.png)
+[Learn more](https://support.credly.com/hc/en-us/articles/360021222231-How-to-accept-and-manage-your-digital-badge){target="_blank"}
 
 >[!ENDTABS]
 
