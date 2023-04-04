@@ -188,10 +188,16 @@ Once you've passed your certification exam, you will receive an Adobe Experience
 
 Your badge serves as tangible evidence of your proficiency with Adobe Experience Cloud products. By displaying it on your social media profiles or resume, you can demonstrate your accomplishment to potential employers and clients and showcase your skills in these applications.
 
-**There are two ways to accept your Adobe Certification Badge:**
+**For existing users there are two ways to accept your Adobe Certification badge:**
 
 * **Step 1:** Sign into [Credly](https://www.credly.com/users/sign_in){target="_blank"}. _(You must use the same email that you used to earn your Adobe credential, or you will not see your badge.)_
 * **Step 2:** Or go to the email you received from Credly to the accept the badge.
+* **Step 3:** Accept and share your badge.
+
+**For new users, follow the instructions below to accept your Adobe Certification badge:**
+
+* **Step 1:** Go to the email you received from Credly to the accept the badge.
+* **Step 2:** Create an account. _(You must use the same email that you used to earn your Adobe credential, or you will not see your badge.)_
 * **Step 3:** Accept and share your badge.
 
 [Learn more](https://support.credly.com/hc/en-us/articles/360021222231-How-to-accept-and-manage-your-digital-badge){target="_blank"}
