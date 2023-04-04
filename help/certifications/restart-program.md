@@ -6,6 +6,7 @@ solution: Experience Cloud
 recommendations: disable, exclude
 badge: label="Restart program" type="positive"
 mini-toc-levels: 1
+hidefromtoc: yes
 ---
 # Restart your certification journey by going from expired to certified
 
