@@ -238,4 +238,4 @@ To renew your exam click on the "[!DNL Campaign Standard] Developer renewal - AD
 
 Have a question about Adobe Certification? Please email `certif@adobe.com`.
 
-View the certification [FAQ](https://experienceleague.corp.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+View the certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.

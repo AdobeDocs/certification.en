@@ -37,18 +37,18 @@ You can now renew your certification either via continuous learning, or by takin
 
 ### Solutions
 
-* [Adobe [!DNL Target]](https://experienceleague.corp.adobe.com/docs/certification/certification/technical-certifications/at/at-renew.html?lang=en){target="_blank"} 
-* [Adobe [!DNL Analytics]](https://experienceleague.corp.adobe.com/docs/certification/certification/technical-certifications/aa/aa-renew.html?lang=en){target="_blank"}
-* [Adobe [!DNL Experience Manager]](https://experienceleague.corp.adobe.com/docs/certification/certification/technical-certifications/aem/aem-renew.html?lang=en){target="_blank"}
-* [Adobe [!DNL Commerce]](https://experienceleague.corp.adobe.com/docs/certification/certification/technical-certifications/ac/ac-renew.html?lang=en){target="_blank"}
-* [Adobe [!DNL Audience Manager]](https://experienceleague.corp.adobe.com/docs/certification/certification/technical-certifications/aam/aam-renew.html?lang=en){target="_blank"}
-* [Adobe [!DNL Campaign Classic]](https://experienceleague.corp.adobe.com/docs/certification/certification/technical-certifications/acc/acc-renew.html?lang=en){target="_blank"}
-* [Adobe [!DNL Campaign Standard]](https://experienceleague.corp.adobe.com/docs/certification/certification/technical-certifications/acs/acs-renew.html?lang=en){target="_blank"}
-* [Adobe [!DNL Marketo Engage]](https://experienceleague.corp.adobe.com/docs/certification/certification/technical-certifications/ame/ame-renew.html?lang=en){target="_blank"}
+* [Adobe [!DNL Target]](https://experienceleague.adobe.com/docs/certification/certification/technical-certifications/at/at-renew.html?lang=en){target="_blank"} 
+* [Adobe [!DNL Analytics]](https://experienceleague.adobe.com/docs/certification/certification/technical-certifications/aa/aa-renew.html?lang=en){target="_blank"}
+* [Adobe [!DNL Experience Manager]](https://experienceleague.adobe.com/docs/certification/certification/technical-certifications/aem/aem-renew.html?lang=en){target="_blank"}
+* [Adobe [!DNL Commerce]](https://experienceleague.adobe.com/docs/certification/certification/technical-certifications/ac/ac-renew.html?lang=en){target="_blank"}
+* [Adobe [!DNL Audience Manager]](https://experienceleague.adobe.com/docs/certification/certification/technical-certifications/aam/aam-renew.html?lang=en){target="_blank"}
+* [Adobe [!DNL Campaign Classic]](https://experienceleague.adobe.com/docs/certification/certification/technical-certifications/acc/acc-renew.html?lang=en){target="_blank"}
+* [Adobe [!DNL Campaign Standard]](https://experienceleague.adobe.com/docs/certification/certification/technical-certifications/acs/acs-renew.html?lang=en){target="_blank"}
+* [Adobe [!DNL Marketo Engage]](https://experienceleague.adobe.com/docs/certification/certification/technical-certifications/ame/ame-renew.html?lang=en){target="_blank"}
 * _Adobe [!DNL Workfront] - Coming Soon_
 
 ### Questions
 
-View the certification [FAQ](https://experienceleague.corp.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+View the certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
 Additional questions? Please email `certif@adobe.com`.

@@ -206,6 +206,6 @@ Your badge serves as tangible evidence of your proficiency with Adobe Experience
 
 **Questions**
 
-View the certification [FAQ](https://experienceleague.corp.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+View the certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
 Additional questions? Please email `certif@adobe.com`.
