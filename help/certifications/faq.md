@@ -33,10 +33,10 @@ Certifications are role-based, which means there are multiple exams available. R
 * Role: for example, developer or business practitioner 
 * Level: for example, Professional, 0-12 months of experience; or Expert 1-3 years 
 
-Sometimes there are multiple versions of an exam. A current exam won't have any labels, but you might see either retiring or renewal: 
+Sometimes there are multiple versions of an exam. It's best to take the latest version.
 
-* Retiring means that this exam version will soon be removed because a new version of the exam is available. We encourage candidates to take the most recent version, but you can take the retiring version if you feel more prepared to take it. Either way, your certification will last for two years.  
-* Renewal exams renew your existing certification for two years, have fewer questions, and are lower cost. These exams cover more recent application capabilities. You must take the renewal exam before your certification expires. Once your existing certification expires, then you'll have to take the regular certification exam. 
+* If an exam is retiring, you will see a note on the certification journey page. This means that this exam version will soon be removed because a new version of the exam is available. We encourage candidates to take the most recent version, but you can take the retiring version if you feel more prepared to take it. Either way, your certification will last for two years.  
+* If your current certification is about to expire, you should renew it. Renewal options have fewer questions, and are FREE. These options cover the most recent application capabilities. If your certification expires, you'll have to take the latest version of the certification exam, which you would pay for. [Learn more about renewal options](https://experienceleague.adobe.com/docs/certification/certification/renew.html?lang=en){target="_blank"}.
 
 +++
 
