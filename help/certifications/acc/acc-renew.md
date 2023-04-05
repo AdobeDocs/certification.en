@@ -3,7 +3,6 @@ title: Certification renewal
 description: Learn how to renew your [!DNL Campaign Classic] certification before it expires.
 solution: Campaign Classic
 role: Developer
-badge: label="Campaign Classic Renewal" type="positive"
 mini-toc-levels: 1
 hidefromtoc: yes
 ---

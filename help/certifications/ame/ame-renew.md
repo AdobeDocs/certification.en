@@ -3,7 +3,6 @@ title: Certification renewal
 description: Learn how to renew your Adobe [!DNL Marketo Engage] certification before it expires.
 solution: Marketo Engage
 role: Developer
-badge: label="Marketo Engage Renewal" type="positive"
 mini-toc-levels: 1
 hidefromtoc: yes
 ---

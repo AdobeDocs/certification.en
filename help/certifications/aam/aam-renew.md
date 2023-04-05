@@ -3,7 +3,6 @@ title: Certification renewal
 description: Learn how to renew your [!DNL Audience Manager] certification before it expires.
 solution: Audience Manager
 role: Developer
-badge: label="Adobe Audience Manager Renewal" type="positive"
 mini-toc-levels: 1
 hidefromtoc: yes
 ---

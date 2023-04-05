@@ -3,7 +3,6 @@ title: Certification renewal
 description: Learn how to renew your Adobe [!DNL Workfront] certification before it expires.
 solution: Workfront
 role: Developer
-badge: label="Workfront Renewal" type="positive"
 mini-toc-levels: 1
 hidefromtoc: yes
 ---

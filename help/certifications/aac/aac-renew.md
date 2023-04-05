@@ -3,7 +3,6 @@ title: Certification renewal
 description: Learn how to renew your Adobe [!DNL Advertising] certification before it expires.
 solution: Advertising
 role: Developer
-badge: label="Advertising Cloud Renewal" type="positive"
 mini-toc-levels: 1
 hidefromtoc: yes
 ---

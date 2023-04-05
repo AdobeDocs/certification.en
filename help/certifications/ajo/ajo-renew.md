@@ -3,7 +3,6 @@ title: Certification renewal
 description: Learn how to renew your Adobe [!DNL Journey Optimizer] certification before it expires.
 solution: Journey Optimizer
 role: Developer
-badge: label="Adobe Journey Optimizer Renewal" type="positive"
 hidefromtoc: yes
 ---
 # Renew your Adobe [!DNL Journey Optimizer] certification

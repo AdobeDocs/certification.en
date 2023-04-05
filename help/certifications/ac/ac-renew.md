@@ -3,7 +3,6 @@ title: Certification renewal
 description: Learn how to renew your Adobe [!DNL Commerce] certification before it expires.
 solution: Commerce
 role: Developer
-badge: label="Target Renewal" type="positive"
 mini-toc-levels: 1
 hidefromtoc: yes
 ---

@@ -4,7 +4,6 @@ description: Learn how to renew your [!DNL Experience Platform] certification in
 solution: Real-time Customer Data Platform
 role: Developer
 recommendations: disable, exclude
-badge: label="RTCDP Renewal" type="positive"
 mini-toc-levels: 1
 hidefromtoc: yes
 ---
