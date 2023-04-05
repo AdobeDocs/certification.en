@@ -2,7 +2,6 @@
 title: Get Started with Adobe certifications
 description: Get started with [!DNL Experience Cloud] certifications. Learn about the program and how to navigate through our site pages.
 solution: Experience Cloud
-badge: label="Get started" type="positive"
 mini-toc-levels: 1
 ---
 

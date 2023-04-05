@@ -1,7 +1,6 @@
 ---
 title: Certification home
 description: Learn about [!DNL Experience Cloud] Certification at Adobe. Find out what getting certified can do for you.
-badge: label="Certification home" type="positive"
 mini-toc-levels: 1
 ---
 # Welcome to Certification at Adobe!

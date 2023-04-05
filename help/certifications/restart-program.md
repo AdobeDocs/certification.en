@@ -4,7 +4,6 @@ description: Go from expired to certified with Adobe Certifications. Find out if
 role: Developer
 solution: Experience Cloud
 recommendations: disable, exclude
-badge: label="Restart program" type="positive"
 mini-toc-levels: 1
 hidefromtoc: yes
 ---

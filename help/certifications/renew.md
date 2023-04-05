@@ -4,7 +4,6 @@ description: Learn how to renew your certification before it expires.
 solution: Real-time Customer Data Platform
 role: Developer
 recommendations: disable, exclude
-badge: label="Renewal program" type="positive"
 mini-toc-levels: 1
 ---
 # Renew your certification {#renew}
