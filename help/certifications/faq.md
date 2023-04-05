@@ -98,7 +98,7 @@ After you complete your exam, your results will immediately be displayed on-scre
 
 +++How do I sign in to or create an Adobe Credential Management/Certmetrics account?
 
-You can [sign in to or create an account](https://www.certmetrics.com/adobe/){target="_blank"}. There you view the available exams, your exam history, certification expiration dates, and any benefits, such as discounts, available to you. 
+You can [sign in to or create an account here](https://www.certmetrics.com/adobe/){target="_blank"}. There you view the available exams, your exam history, certification expiration dates, and any benefits, such as discounts, available to you. 
 
 +++
 
@@ -110,7 +110,7 @@ Because we need to ensure our Adobe certified individuals are current on new app
 
 +++Are exams available in languages other than english? 
 
-There are some exams available in Japanese through PSI (one of our vendors). If your exam is available in Japanese it will be noted in the exam details for that exam. The exams details are found on the "Get ready" tab of the certification journey pages.
+There are some exams available in Japanese through PSI (one of our vendors). If the exam is available in Japanese it will be noted in the exam details for that exam. The exams details are found on the "Get ready" tab of the certification journey pages.
 
 +++
 
