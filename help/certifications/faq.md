@@ -28,7 +28,7 @@ To learn more about how to manage your badges in [!DNL Credly], go [HERE](https:
 
 +++How do I know which exam to take?
 
-Certifications are role-based, which means there are multiple exams available. Review the exam guides on the certification page to choose which exam to take. You will choose the exam by:
+Certifications are role-based, which means there are multiple exams available. Review the certification journey pages to choose which exam to take. You will choose the exam by:
 
 * Application: for example, [!DNL Adobe Analytics] or [!DNL Marketo Engage] 
 * Role: for example, developer or business practitioner 
@@ -38,12 +38,6 @@ Sometimes there are multiple versions of an exam. A current exam won't have any 
 
 * Retiring means that this exam version will soon be removed because a new version of the exam is available. We encourage candidates to take the most recent version, but you can take the retiring version if you feel more prepared to take it. Either way, your certification will last for two years.  
 * Renewal exams renew your existing certification for two years, have fewer questions, and are lower cost. These exams cover more recent application capabilities. You must take the renewal exam before your certification expires. Once your existing certification expires, then you'll have to take the regular certification exam. 
-
-+++
-
-+++How do I register for an exam? 
-
-Add content
 
 +++
 
@@ -77,7 +71,7 @@ Adobe can accommodate certain special requirements. If you need additional time 
 
 +++If I don't pass the certification exam, when can I try again?
 
-ou will need to retake and pass the most recent certification exam to get or maintain your Adobe Certified status. Please plan to take the test in more than enough time to account for potential retakes before your certification expires. 
+You will need to retake and pass the most recent certification exam to get or maintain your Adobe Certified status. Please plan to take the test in more than enough time to account for potential retakes before your certification expires. 
 
 If a candidate fails on their first attempt to pass any Adobe certification exam, the candidate must wait at least 24 hours before retaking the exam. Failure to pass an exam on the second or any subsequent attempt requires a waiting period of 14 calendar days before retaking the exam. Each attempt will incur a separate exam fee. 
 
