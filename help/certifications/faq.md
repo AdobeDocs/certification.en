@@ -69,11 +69,11 @@ Adobe can accommodate certain special requirements. If you need additional time 
 
 +++
 
-+++If I don't pass the certification exam, when can I try again?
++++When can I attempt the certification exam again if I fail?
 
-You will need to retake and pass the most recent certification exam to get or maintain your Adobe Certified status. Please plan to take the test in more than enough time to account for potential retakes before your certification expires. 
+To obtain or keep your Adobe Certified status, you'll need to pass the most recent certification exam by retaking it. It is recommended that you allow sufficient time to account for potential retakes before your certification expires.
 
-If a candidate fails on their first attempt to pass any Adobe certification exam, the candidate must wait at least 24 hours before retaking the exam. Failure to pass an exam on the second or any subsequent attempt requires a waiting period of 14 calendar days before retaking the exam. Each attempt will incur a separate exam fee. 
+For candidates who fail the Adobe certification exam on their first attempt, they must wait at least 24 hours before attempting it again. If they fail on the second or any subsequent attempt, a waiting period of 14 calendar days is required before they can retake the exam. Each attempt incurs a separate exam fee.
 
 +++
 
