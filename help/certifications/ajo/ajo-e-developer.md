@@ -49,16 +49,13 @@ You should have at least one year experience working with various CDP and market
 
 **Exam details:**
   
-```
-Level: Expert (1-3 years experience)
-Passing Score: 31/51
-Time: 110 mins
-Delivery: Online proctored (requires camera access) or test center proctored
-Available languages: English
-Cost: $225 (global) / $150 (India)
-Exam ID: AD0-E603
-
-```
+* Level: Expert (1-3 years experience)
+* Passing Score: 31/51
+* Time: 110 mins
+* Delivery: Online proctored (requires camera access) or test center proctored
+* Available languages: English
+* Cost: $225 (global) / $150 (India)
+* Exam ID: AD0-E603
 
 **Readiness self-assessment**
 

@@ -58,16 +58,13 @@ Additionally, you should be familiar with the following technologies and environ
 
 **Exam details**
 
-```
-Level: Expert (1-3 years' experience)
-Passing Score: 31/50
-Time: 100 mins
-Delivery: Online proctored (requires camera access) or test center proctored
-Available languages: English
-Cost: $125 (global) / $95 (India)
-Exam ID: AD0-E136
-
-```
+* Level: Expert (1-3 years' experience)
+* Passing Score: 31/50
+* Time: 100 mins
+* Delivery: Online proctored (requires camera access) or test center proctored
+* Available languages: English
+* Cost: $125 (global) / $95 (India)
+* Exam ID: AD0-E136
 
 **Exam objectives and scope**
 

@@ -40,16 +40,13 @@ Additionally, you should be familiar with the following technologies and environ
 
 **Exam details:**
 
-```
-Level: Professional (0-12 months' experience)
-Passing Score: 50/77
-Time: 154 mins
-Delivery: Online proctored (requires camera access)
-Available languages: English
-Cost: $125 (global) / $95 (India)
-Exam ID: AD0-E717
-
-```
+* Level: Professional (0-12 months' experience)
+* Passing Score: 50/77
+* Time: 154 mins
+* Delivery: Online proctored (requires camera access)
+* Available languages: English
+* Cost: $125 (global) / $95 (India)
+* Exam ID: AD0-E717
 
 **Readiness self-assessment**
 

@@ -42,18 +42,14 @@ You should have at least 1-3 years of experience with Adobe [!DNL Commerce] deve
 * Technical Leaders
 
 **Exam details:**
-  
-```
 
-Level: Expert (1-3 years' experience)
-Passing Score: 41/69
-Time: 138 mins
-Delivery: Online proctored (requires camera access)
-Available languages: English
-Cost: $225 (global) / $150 (India)
-Exam ID: AD0-E716
-
-```
+* Level: Expert (1-3 years' experience)
+* Passing Score: 41/69
+* Time: 138 mins
+* Delivery: Online proctored (requires camera access)
+* Available languages: English
+* Cost: $225 (global) / $150 (India)
+* Exam ID: AD0-E716
 
 **Readiness self-assessment**
 

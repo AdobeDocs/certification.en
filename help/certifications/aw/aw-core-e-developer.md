@@ -39,16 +39,13 @@ You should have at least 18-24 months experience with [!DNL Workfront], and can:
 
 **Exam details:**
   
-```
-Level: Expert (1-3 years' experience)
-Passing Score: 36/64
-Time: 130 mins
-Delivery: Online proctored (requires camera access) or test center proctored
-Available languages: English
-Cost: $225 (global) / $150 (India)
-Exam ID: AD0-E904
-
-```
+* Level: Expert (1-3 years' experience)
+* Passing Score: 36/64
+* Time: 130 mins
+* Delivery: Online proctored (requires camera access) or test center proctored
+* Available languages: English
+* Cost: $225 (global) / $150 (India)
+* Exam ID: AD0-E904
 
 **Readiness self-assessment**
 

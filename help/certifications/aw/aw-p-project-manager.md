@@ -38,16 +38,13 @@ You should have:
 
 **Exam details - Adobe [!DNL Workfront] Project Manager**
 
-```
-Level: Professional (0-12 months' experience)
-Passing Score: 45/70
-Time: 140 mins
-Delivery: Online proctored (requires camera access)
-Available languages: English
-Cost: $125 (global) / $95 (India)
-Exam ID: AD0-E903
-
-```
+* Level: Professional (0-12 months' experience)
+* Passing Score: 45/70
+* Time: 140 mins
+* Delivery: Online proctored (requires camera access)
+* Available languages: English
+* Cost: $125 (global) / $95 (India)
+* Exam ID: AD0-E903
 
 **Readiness self-assessment**
 

@@ -62,7 +62,6 @@ Additionally, you should be familiar with the following technologies and environ
 
 **Exam details:**
   
-```
 Level: Expert (1-3 years' experience)
 Passing Score: 32/50
 Time: 100 mins
@@ -70,8 +69,6 @@ Delivery: Online proctored (requires camera access) or test center proctored
 Available languages: English & Japanese
 Cost: $225 (global) / $150 (India)
 Exam ID: AD0-E121
-
-```
 
 **Readiness self-assessment**
 

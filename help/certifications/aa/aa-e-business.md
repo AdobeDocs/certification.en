@@ -61,17 +61,13 @@ You should have:
 
 **Exam details:**
   
-```
-
-Level: Expert (1-3 years' experience)
-Passing Score: 31/50
-Time: 120 mins
-Delivery: Online proctored (requires camera access) or test center proctored
-Available languages: English
-Cost: $225 (global) / $150 (India)
-Exam ID: AD0-E208
-
-```
+* Level: Expert (1-3 years' experience)
+* Passing Score: 31/50
+* Time: 120 mins
+* Delivery: Online proctored (requires camera access) or test center proctored
+* Available languages: English
+* Cost: $225 (global) / $150 (India)
+* Exam ID: AD0-E208
 
 **Readiness self-assessment**
 
@@ -108,16 +104,16 @@ Section 3: Segmentation and calculated metrics (22%)
 Section 4: General tool knowledge and troubleshooting (12%)
 
 * Analyze reports and identify data quality issues
-* Define different types of dimensions and parameters existing in [!DNL Adobe Analytics] (evars, props and events)
+* Define different types of dimensions and parameters existing in [!DNL Adobe Analytics] (eVars, props and events)
 * Determine how to bring data in and out of [!DNL Adobe Analytics]
 * Identify information from marketing URLs
 
 Section 5: Administration (10%)
 
-* Apply the process to configure the Marketing Channel reports with Marketing Channel processing rules
+* Apply the process to configure the [!UICONTROL Marketing Channel] reports with [!UICONTROL Marketing Channel] processing rules
 * Apply the process to configure Classification Importer and Rule Builder
 * Apply the process to configure a virtual report suite based upon an existing segment
-* Use the Data Feed Manager Admin UI
+* Use the [!UICONTROL Data Feed] Manager Admin UI
 * Understanding of data governance
 
 >[!TAB Get prepped]

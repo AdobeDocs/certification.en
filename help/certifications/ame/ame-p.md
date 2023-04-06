@@ -55,16 +55,13 @@ And, you should be familiar with the following tools and technologies:
 
 **Exam details:**
 
-```
-Level: Professional (0-12 months' experience)
-Passing Score: 36/55
-Time: 110 mins
-Delivery: Online proctored (requires camera access) or test center proctored
-Available languages: English
-Cost: $125 (global) / $95 (India)
-Exam ID: AD0-E555
-
-```
+* Level: Professional (0-12 months' experience)
+* Passing Score: 36/55
+* Time: 110 mins
+* Delivery: Online proctored (requires camera access) or test center proctored
+* Available languages: English
+* Cost: $125 (global) / $95 (India)
+* Exam ID: AD0-E555
 
 **Readiness self-assessment**
 

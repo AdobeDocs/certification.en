@@ -51,16 +51,13 @@ You should have:
 
 **Exam details:**
   
-```
-Level: Expert (1-3 years experience)
-Passing Score: 29/50
-Time: 100 mins
-Delivery: Online proctored (requires camera access) or test center proctored
-Available languages: English
-Cost: $225 (global) / $150 (India)
-Exam ID: AD0-E306
-
-```
+* Level: Expert (1-3 years experience)
+* Passing Score: 29/50
+* Time: 100 mins
+* Delivery: Online proctored (requires camera access) or test center proctored
+* Available languages: English
+* Cost: $225 (global) / $150 (India)
+* Exam ID: AD0-E306
 
 **Readiness self-assessment**
 

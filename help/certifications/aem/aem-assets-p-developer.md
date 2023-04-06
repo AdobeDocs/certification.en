@@ -54,16 +54,13 @@ Additionally, you should have experience with the following technologies and env
 
 **Exam details:**
 
-```
-Level: Professional (0-12 months' experience)
-Passing Score: 30/50
-Time: 100 mins
-Delivery: Online proctored (requires camera access)
-Available languages: English
-Cost: $125 (global) / $95 (India)
-Exam ID: AD0-E129
-
-```
+* Level: Professional (0-12 months' experience)
+* Passing Score: 30/50
+* Time: 100 mins
+* Delivery: Online proctored (requires camera access)
+* Available languages: English
+* Cost: $125 (global) / $95 (India)
+* Exam ID: AD0-E129
 
 **Readiness self assessment**
 

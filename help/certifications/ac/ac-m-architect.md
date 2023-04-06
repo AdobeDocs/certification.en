@@ -66,16 +66,13 @@ Additionally, you should be very familiar with the following activities and tech
 
 **Exam details:**
 
-```
-Level: Master (3-5 years' experience)
-Passing Score: 29/50
-Time: 120 mins
-Delivery: Online proctored (requires camera access)
-Available languages: English
-Cost: $225 (global) / $150 (India)
-Exam ID: AD0-E718
-
-```
+* Level: Master (3-5 years' experience)
+* Passing Score: 29/50
+* Time: 120 mins
+* Delivery: Online proctored (requires camera access)
+* Available languages: English
+* Cost: $225 (global) / $150 (India)
+* Exam ID: AD0-E718
 
 **Readiness self-assessment**
 
