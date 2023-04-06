@@ -47,16 +47,13 @@ Additionally, you should be able to complete the following tasks:
 
 **Exam details**
 
-```
-Level: Master (3-5 years' experience)
-Passing Score: 29/50
-Time: 100 mins
-Delivery: Online proctored (requires camera access) or test center proctored
-Available languages: English
-Cost: $225 (global) / $150 (India)
-Exam ID: AD0-E454
-
-```
+* Level: Master (3-5 years' experience)
+* Passing Score: 29/50
+* Time: 100 mins
+* Delivery: Online proctored (requires camera access) or test center proctored
+* Available languages: English
+* Cost: $225 (global) / $150 (India)
+* Exam ID: AD0-E454
 
 **Readiness self-assessment**
 

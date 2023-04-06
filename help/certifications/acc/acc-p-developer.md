@@ -36,16 +36,13 @@ You should have:
 
 **Exam details:**
 
-```
-Level: Professional (0-12 months' experience)
-Passing Score: 33/50
-Time: 100 mins
-Delivery: Online proctored (requires camera access) or test center proctored
-Available languages: English
-Cost: $125 (global) / $95 (India)
-Exam ID: AD0-E331
-
-```
+* Level: Professional (0-12 months' experience)
+* Passing Score: 33/50
+* Time: 100 mins
+* Delivery: Online proctored (requires camera access) or test center proctored
+* Available languages: English
+* Cost: $125 (global) / $95 (India)
+* Exam ID: AD0-E331
 
 **Readiness self-assessment**
 

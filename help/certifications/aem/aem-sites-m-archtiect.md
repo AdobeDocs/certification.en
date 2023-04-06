@@ -59,16 +59,13 @@ Additionally, you should have the ability to perform the following tasks:
 
 **Exam details:**
 
-```
-Level: Master (3-5 years' experience)
-Passing Score: 29/50
-Time: 100 mins
-Delivery: Online proctored (requires camera access) or test center proctored
-Available languages: English, Japanese
-Cost: $225 (global) / $150 (India)
-Exam ID: AD0-E117
-
-```
+* Level: Master (3-5 years' experience)
+* Passing Score: 29/50
+* Time: 100 mins
+* Delivery: Online proctored (requires camera access) or test center proctored
+* Available languages: English, Japanese
+* Cost: $225 (global) / $150 (India)
+* Exam ID: AD0-E117
 
 **Readiness self assessment**
 

@@ -54,16 +54,13 @@ The AD0-E600 exam validates skills and knowledge covering the basic features and
 
 **Exam details:**
 
-```
-Level: Expert (1-3 years' experience)
-Passing Score: 35/50
-Time: 105 mins
-Delivery: Online proctored (requires camera access) or test center proctored
-Language: English
-Cost: $225 (global) / $150 (India)
-Exam ID: AD0-E600
-
-```
+* Level: Expert (1-3 years' experience)
+* Passing Score: 35/50
+* Time: 105 mins
+* Delivery: Online proctored (requires camera access) or test center proctored
+* Language: English
+* Cost: $225 (global) / $150 (India)
+* Exam ID: AD0-E600
 
 **Exam Objectives and scope**
 
@@ -174,16 +171,13 @@ The AD7-E601 exam covers the creation, management and understanding of customer 
 
 **Exam details:**
 
-```
-Level: Expert (1-3 years' experience)
-Passing Score: 25/34
-Time: 51 mins
-Delivery: Online proctored (requires camera access) or test center proctored
-Language: English
-Cost: $225 (global) / $150 (India)
-Exam ID: AD7-E601
-
-```
+* Level: Expert (1-3 years' experience)
+* Passing Score: 25/34
+* Time: 51 mins
+* Delivery: Online proctored (requires camera access) or test center proctored
+* Language: English
+* Cost: $225 (global) / $150 (India)
+* Exam ID: AD7-E601
 
 **Readiness self-assessment**
 

@@ -17,7 +17,7 @@ You should have a minimum of 3 months of experience in [!DNL Adobe Analytics] an
 * A marketing background or come from a marketing role but can come from a variety of job roles.
 * A basic familiarity with digital analytics metrics and dimensions.
 * The ability to use Analytics to build reports and answer business questions, and communicate the results.
-* An understanding of basic digital analytics concepts—e.g. segmentation, report building, standard metric definitions.
+* An understanding of basic digital analytics concepts like segmentation, report building, standard metric definitions.
 
 >[!NOTE]
 >
@@ -42,16 +42,15 @@ You should have a minimum of 3 months of experience in [!DNL Adobe Analytics] an
 
 **Exam details:**
 
-```
-Level: Professional (0-12 months' experience)
-Passing Score: 31/50
-Time: 100 mins
-Delivery: Online proctored (requires camera access)
-Available languages: English
-Cost: $125 (global) / $95 (India)
-Exam ID: AD0-E212
-
-```
+>[!INFO]
+>
+>* **Level:** Professional (0-12 months' experience)
+>* **Passing Score:** 31/50
+>* **Time:** 100 mins
+>* **Delivery:** Online proctored (requires camera access)
+>* **Available languages:** English
+>* **Cost:** $125 (global) / $95 (India)
+>* **Exam ID:** AD0-E212
 
 **Readiness self-assessment**
 

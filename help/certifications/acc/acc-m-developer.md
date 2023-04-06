@@ -48,16 +48,13 @@ You should have:
 
 **Exam details:**
 
-```
-Level: Master (3-5 years' experience)
-Passing Score: 30/50
-Time: 100 mins
-Delivery: Online proctored (requires camera access) or test center proctored
-Available languages: English
-Cost: $225 (global) / $150 (India)
-Exam ID: AD0-E328
-
-```
+* Level: Master (3-5 years' experience)
+* Passing Score: 30/50
+* Time: 100 mins
+* Delivery: Online proctored (requires camera access) or test center proctored
+* Available languages: English
+* Cost: $225 (global) / $150 (India)
+* Exam ID: AD0-E328
 
 **Readiness self assessment**
 

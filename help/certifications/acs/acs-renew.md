@@ -41,17 +41,13 @@ You should be currently certified (not expired) in:
 
 **Exam details:**
   
-```
-
-Passing Score: 23/30
-Time: 110 mins
-Cost: FREE/non-proctored
-Delivery: On-demand
-Available languages: English
-Prerequisite: current (not expired) Adobe [!DNL Campaign Standard] Business Practitioner expert certification
-Exam ID: AD5-E822
-
-```
+* Passing Score: 23/30
+* Time: 110 mins
+* Cost: FREE/non-proctored
+* Delivery: On-demand
+* Available languages: English
+* Prerequisite: current (not expired) Adobe [!DNL Campaign Standard] Business Practitioner expert certification
+* Exam ID: AD5-E822
 
 **Scope and objectives**
 
@@ -129,17 +125,13 @@ You should be currently certified (not expired) in:
 
 **Exam details:**
   
-```
-
-Passing Score: 23/30
-Time: 60 mins
-Cost: FREE/non-proctored
-Delivery: On-demand
-Available languages: English
-Prerequisite: current (not expired) Adobe [!DNL Campaign Standard] Developer Expert certification
-Exam ID: AD5-E821
-
-```
+* Passing Score: 23/30
+* Time: 60 mins
+* Cost: FREE/non-proctored
+* Delivery: On-demand
+* Available languages: English
+* Prerequisite: current (not expired) Adobe [!DNL Campaign Standard] Developer Expert certification
+* Exam ID: AD5-E821
 
 **Scope and objectives**
 

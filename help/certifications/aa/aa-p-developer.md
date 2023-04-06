@@ -48,16 +48,13 @@ Experience with the following tasks:
 
 **Exam details:**
   
-```
-Level: Professional (0-12 months' experience)
-Passing Score: 31/50
-Time: 100 mins
-Delivery: Online proctored (requires camera access)
-Available languages: English
-Cost: $125 (global) and $950 (India)
-Exam ID: AD0-E213
-
-```
+* Level: Professional (0-12 months' experience)
+* Passing Score: 31/50
+* Time: 100 mins
+* Delivery: Online proctored (requires camera access)
+* Available languages: English
+* Cost: $125 (global) and $950 (India)
+* Exam ID: AD0-E213
 
 **Exam objectives and scope**
 

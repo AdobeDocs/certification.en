@@ -51,16 +51,13 @@ And, you should have:
 
 **Exam details:** 
 
-```
-Level: Professional (0-12 months' experience)
-Passing Score: 44/70
-Time: 140 mins
-Delivery: Online proctored (requires camera access)
-Available languages: English
-Cost: $125 (global) / $95 (India)
-Exam ID: AD0-E905
-
-```
+* Level: Professional (0-12 months' experience)
+* Passing Score: 44/70
+* Time: 140 mins
+* Delivery: Online proctored (requires camera access)
+* Available languages: English
+* Cost: $125 (global) / $95 (India)
+* Exam ID: AD0-E905
 
 **Readiness self-assessment**
 
