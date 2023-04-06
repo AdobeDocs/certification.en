@@ -80,6 +80,8 @@ The Certification Journey Guide is a comprehensive tool designed to provide you 
 
 >[!ENDTABS]
 
+[!BADGE Get certified]{type=Informative url="https://experienceleague.adobe.com/docs/certification/certification/how-to-get-certified.html?lang=en newtab=true"}
+
 **Questions**
 
 View the certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
