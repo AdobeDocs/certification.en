@@ -2,7 +2,7 @@
 title: Architect Master certification
 description: Learn how to become a certified [!DNL Adobe Target] Architect Master.
 solution: Target
-role: Developer
+role: Data Architect
 badge: label="Exam AD0-E407" type="positive"
 mini-toc-levels: 1
 ---

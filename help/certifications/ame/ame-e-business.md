@@ -2,7 +2,7 @@
 title: Business Practitioner Expert certification
 description: Learn how to become a certified Adobe Business Practitioner expert in [!DNL Marketo Engage].
 solution: Marketo Engage
-role: Developer
+role: User
 badge: label="Exam AD0-E559" type="positive"
 mini-toc-levels: 1
 ---

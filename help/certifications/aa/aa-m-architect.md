@@ -2,7 +2,7 @@
 title: Architect Master certification
 description: Learn how to become certified as an [!DNL Adobe Analytics] Architect Master.
 solution: Analytics
-role: Developer
+role: Data Architect
 badge: label="Exam AD0-E207" type="positive"
 mini-toc-levels: 1
 ---

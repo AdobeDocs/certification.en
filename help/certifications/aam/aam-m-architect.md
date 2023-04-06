@@ -2,7 +2,7 @@
 title: Architect Master certification
 description: Learn how to become certified as an Adobe [!DNL Audience Manager] Architect Master.
 solution: Audience Manager
-role: Developer
+role: Data Architect
 badge: label="Exam AD0-E454" type="positive"
 mini-toc-levels: 1
 ---

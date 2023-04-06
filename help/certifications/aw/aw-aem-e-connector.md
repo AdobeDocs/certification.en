@@ -1,6 +1,6 @@
 ---
 title: Enhanced Connector Expert certification
-description: Learn how to become a certified Adobe certified expert in Adobe [!DNL Workfront] for [!DNL Experience Manager] 
+description: Learn how to become a certified Adobe certified Expert in Adobe [!DNL Workfront] for [!DNL Experience Manager] 
 solution: Workfront
 role: Developer
 badge: label="Exam AD0-E906" type="positive"
@@ -8,7 +8,7 @@ mini-toc-levels: 1
 ---
 # Certification journey for Adobe [!DNL Workfront] for [!DNL Experience Manager] Enhanced Connector Expert
 
-Learn how to become a certified Adobe certified expert.
+Learn how to become a certified Adobe certified Expert.
 
 ## Minimum experience
 

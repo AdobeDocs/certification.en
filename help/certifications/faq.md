@@ -1,7 +1,7 @@
 ---
 title: FAQ
 description: Get answers to questions about the Adobe Certification program. Learn about the benefits of certification, how to register, and whom you can contact.
-role: Developer
+role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
 ---

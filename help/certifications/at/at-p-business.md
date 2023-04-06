@@ -2,7 +2,7 @@
 title: Business Practitioner Professional certification
 description: Learn how to become a certified [!DNL Adobe Target] Business Practitioner Professional.
 solution: Target
-role: Developer
+role: User
 badge: label="Exam AD0-E408" type="positive"
 mini-toc-levels: 1
 ---
