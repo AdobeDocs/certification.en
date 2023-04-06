@@ -153,4 +153,4 @@ This exam is free, open book, and un-proctored. You may take the exam up to thre
 
 View the certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-Additional questions? Please email `certif@adobe.com`.
+Additional questions? [Contact Us](mailto:certif@adobe.com).
