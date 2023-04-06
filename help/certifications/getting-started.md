@@ -11,7 +11,7 @@ Adobe's certifications are designed to validate the knowledge and skills of prof
 
 >[!BEGINTABS]
 
->[!TAB Exam Types]
+>[!TAB Exam types]
 
 Learn the difference between the types of exams you will encounter on your certification journey.
 
@@ -66,7 +66,7 @@ Adobe certification exams are customized to three different job roles. Read the 
 
 {style="table-layout:auto"}
 
->[!TAB Certification Journey]
+>[!TAB Certification journey]
 
 The Certification Journey Guide is a comprehensive tool designed to provide you with all the information you need to prepare for a certification exam. The guide is divided into three main sections: Get Ready, Get Prepped, and Get Certified.
 
@@ -84,6 +84,6 @@ The Certification Journey Guide is a comprehensive tool designed to provide you 
 
 View the certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-Additional questions? [Contact Us](mailto:certif@adobe.com)
+Additional questions? [Contact Us](mailto:certif@adobe.com){:target="_blank"}.
 
 
