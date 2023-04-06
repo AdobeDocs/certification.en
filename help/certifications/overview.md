@@ -29,3 +29,4 @@ Getting an Adobe [!DNL Experience Cloud] certification can be beneficial for sev
 Our certification program is designed for professionals in a variety of fields, including developers, business practitioners, and architects. With many different certification paths to choose from, you can showcase your proficiency and expertise within the Adobe [!DNL Experience Cloud] and impress clients and employers alike.
 
 So why wait? Take the first step towards unlocking your professional potential and [explore our certification paths today](https://experienceleague.adobe.com/docs/certification/certification/getting-started.html?lang=en){target="_blank"}!
+
