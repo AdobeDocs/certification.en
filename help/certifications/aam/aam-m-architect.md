@@ -4,6 +4,7 @@ description: Learn how to become certified as an Adobe [!DNL Audience Manager] A
 solution: Audience Manager
 product: Audience Manager
 role: Data Architect
+level: Experienced
 badge: label="Exam AD0-E454" type="positive"
 mini-toc-levels: 1
 ---

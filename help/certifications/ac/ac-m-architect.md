@@ -4,6 +4,7 @@ description: Learn how to become a certified Adobe Architect master in Adobe [!D
 solution: Commerce
 product: Magento
 role: Data Architect
+level: Experienced
 badge: label="Exam AD0-E718" type="positive"
 mini-toc-levels: 1
 ---
