@@ -26,7 +26,7 @@ Additionally, you should be familiar with the following technologies and environ
 Technologies:
 
 * Multiple Adobe Experience Cloud Programs (Adobe Analytics, Adobe Campaign, Adobe Experience Manager, Adobe Experience Cloud Debugger, Target APIs)
-* JavaScript (Ajax, JQuery, etc.)
+* JavaScript (Ajax, JQuery, and so on)
 * Browser-based debugging tools (Chrome developer tools, VEC helper), JSON for debugging responses from Target
 * Debugging tools for native apps (Charles Proxy, Fiddler)
 * HTML, CSS, HTTP, XML configuration

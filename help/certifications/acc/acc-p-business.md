@@ -23,7 +23,7 @@ You should have:
 * Hands-on experience setting up cross- channel, personalized workflows and sending deliveries
 * Experience analyzing and monitoring logs and errors
 * An understanding of digital marketing concepts and tactics
-* Basic understanding automation, metrics, and campaign tactics (capabilities around data management, cloud services, approvals, etc.)
+* Basic understanding automation, metrics, and campaign tactics (capabilities around data management, cloud services, approvals, and so on)
 * An understanding of basic relational databases and of targeting queries in a campaign
 * Experience with basic HTML and personalization
 * Subscription service management (opt in/opt out)

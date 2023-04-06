@@ -92,7 +92,7 @@ You can track your certification status by going to [Adobe Credential Management
 
 +++What do I get after I pass the certification exam? 
 
-After you complete your exam, your results will immediately be displayed on-screen. Within 72 hours, you will get an email confirmation of your score from CertMetrics, with a PDF of your certificate. You can access logos from your CertMetrics account that show your certification status and can be used on your website, email, signature, business card, social profiles, etc. 
+After you complete your exam, your results will immediately be displayed on-screen. Within 72 hours, you will get an email confirmation of your score from CertMetrics, with a PDF of your certificate. You can access logos from your CertMetrics account that show your certification status and can be used on your website, email, signature, business card, social profiles, and so on. 
 
 +++
 
@@ -163,7 +163,7 @@ To learn more about How to Renew Your Certification, go [here](https://experienc
 
 Sign in to [Adobe Credential Management System](https://www.certmetrics.com/adobe/){target="_blank"}. There you can see when you achieved your credential and when it will expire. You should also check your profile and confirm that your contact, secondary email and job information are correct. 
 
-You will get an email notification one month before your certification expires. But if you have changed jobs and haven't updated your email then you might not get notified. Add a secondary email (such as Gmail, Hotmail, Yahoo, etc.) in your CertMetrics account, so that you get a certification expiration reminder email, even if you change companies. 
+You will get an email notification one month before your certification expires. But if you have changed jobs and haven't updated your email then you might not get notified. Add a secondary email (such as Gmail, Hotmail, Yahoo, and so on) in your CertMetrics account, so that you get a certification expiration reminder email, even if you change companies. 
 
 +++
 

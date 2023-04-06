@@ -66,7 +66,7 @@ Section 1: Implementation analysis (26%)
 * Determine how to guide and support implementation of AAM as a stand-alone product or as part of a cloud solution
 * Analyze outbound destination options and recommend an AAM implementation approach
 * Determine a data onboarding strategy for a business use case
-* Identify features such as visitor profile viewer, tags, RBAC, etc. to align with business goals
+* Identify features such as visitor profile viewer, tags, RBAC, and so on, to align with business goals
 * Determine how to design and test pixels required to create segments and traits
 
 Section 2: Solution design and recommendations (18%)

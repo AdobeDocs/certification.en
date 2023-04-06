@@ -28,7 +28,7 @@ And, you should be comfortable using the following technologies:
 
 * Adobe [!DNL Commerce] - version 2.4
 * Analytics and performance tools: Google Analytics, tag manager, SWAT, New Relic, Fastly, Google Lighthouse
-* Security tools: PCI compliance, ADA, GDPR, etc.
+* Security tools: PCI compliance, ADA, GDPR, and so on
 * Cloud or on-premise architecture
 
 >[!NOTE]

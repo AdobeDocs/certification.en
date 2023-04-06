@@ -25,7 +25,7 @@ You should be familiar with the following technologies and environments:
 
 Technologies:
 
-* DSP Platform (Trade Desk, Double Click Bid Manager, etc.)
+* DSP Platform (Trade Desk, Double Click Bid Manager, and so on)
 * Excel
 * Tableau and similar tools (PowerBI, Qlik)
 * Ad Server (Double Click Campaign Manager)

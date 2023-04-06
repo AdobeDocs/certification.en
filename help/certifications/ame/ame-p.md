@@ -105,7 +105,7 @@ Section 3: Defining and targeting audiences (33%)
 
 Section 4: Analyzing and building reports (9%)
 
-* Explain the standard Adobe [!DNL Marketo Engage] reports and when they should be used (Email Link Performance, Email Performance, Landing Page Performance, People Performance, Program Performance, Web Page Activity, etc.)
+* Explain the standard Adobe [!DNL Marketo Engage] reports and when they should be used (Email Link Performance, Email Performance, Landing Page Performance, People Performance, Program Performance, Web Page Activity, and so on)
 * Comprehend Dashboard information and metrics (Email Program Dashboard, Engagement Program Dashboard)
 * Comprehend Email Insights metrics
 

@@ -22,7 +22,7 @@ Experience with the following tasks:
 
 * Interpreting a Solutions Design Document (SDR) and understand the purpose of all [!DNL Adobe Analytics] variables collected
 * Understanding and work with Adobe (Experience Platform) Launch
-* Understanding configuration of baseline [!DNL Adobe Analytics] dimensions and events Page Name, Link Name, Activity Map, etc., but will work with expert developers for more customer implementations - Variable mapping is still owned by Expert level developers
+* Understanding configuration of baseline [!DNL Adobe Analytics] dimensions and events Page Name, Link Name, Activity Map, and so on, but will work with expert developers for more customer implementations - Variable mapping is still owned by Expert level developers
 * Creating and configuring rules within Launch following the design provided by an AA expert
 * Testing and validating the data being captured in variable and events firing by leveraging web console debuggers or mobile app systems like charles logs
 * Understanding what a data layer is and knows how to read a JavaScript object

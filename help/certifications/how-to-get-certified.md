@@ -176,7 +176,7 @@ The following sections and links will function only after a successful login to 
 | Quick Links | Description |
 | ------- | ------- | 
 | Adobe Credential Management System | [Initial login to Adobe Credential Management](https://www.certmetrics.com/adobe){target="_blank"} |
-| Profile | [Demographic information page with location of account name, address, company, etc. Names can only be updated an Adobe Admin](https://www.certmetrics.com/adobe/candidate/demographics.aspx){target="_blank"}. |
+| Profile | [Demographic information page with location of account name, address, company, and so on. Names can only be updated an Adobe Admin](https://www.certmetrics.com/adobe/candidate/demographics.aspx){target="_blank"}. |
 | Identification | [Location of Adobe/Login ID. Usually begins with ADB](https://www.certmetrics.com/adobe/candidate/identification.aspx){target="_blank"} |
 | History | [View score report and exam history](https://www.certmetrics.com/adobe/candidate/cert_summary.aspx){target="_blank"} |
 | Certifications | [View all your current and expired certifications](https://www.certmetrics.com/adobe/candidate/cert_summary.aspx){target="_blank"} |
