@@ -42,15 +42,13 @@ You should have a minimum of 3 months of experience in [!DNL Adobe Analytics] an
 
 **Exam details:**
 
->[!INFO]
->
->* **Level:** Professional (0-12 months' experience)
->* **Passing Score:** 31/50
->* **Time:** 100 mins
->* **Delivery:** Online proctored (requires camera access)
->* **Available languages:** English
->* **Cost:** $125 (global) / $95 (India)
->* **Exam ID:** AD0-E212
+* Level: Professional (0-12 months' experience)
+* Passing Score: 31/50
+* Time: 100 mins
+* Delivery: Online proctored (requires camera access)
+* Available languages: English
+* Cost: $125 (global) / $95 (India)
+* Exam ID: AD0-E212
 
 **Readiness self-assessment**
 
