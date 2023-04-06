@@ -61,13 +61,13 @@ You should have:
 
 **Exam details:**
   
->* **Level:** Expert (1-3 years' experience)
->* **Passing Score:** 31/50
->* **Time:** 120 mins
->* **Delivery:** Online proctored (requires camera access) or >test center proctored
->* **Available languages:** English
->* **Cost:** $225 (global) / $150 (India)
->* **Exam ID:** AD0-E208
+* **Level:** Expert (1-3 years' experience)
+* **Passing Score:** 31/50
+* **Time:** 120 mins
+* **Delivery:** Online proctored (requires camera access) or >test center proctored
+* **Available languages:** English
+* **Cost:** $225 (global) / $150 (India)
+* **Exam ID:** AD0-E208
 
 **Readiness self-assessment**
 
