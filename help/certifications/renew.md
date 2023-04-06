@@ -50,4 +50,4 @@ You can now renew your certification either via continuous learning, or by takin
 
 View the certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-Additional questions? [Contact Us](mailto:certif@adobe.com){:target="_blank"}.
+Additional questions? [Contact us](mailto:certif@adobe.com){:target="_blank"}.
