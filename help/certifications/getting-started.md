@@ -84,5 +84,6 @@ The Certification Journey Guide is a comprehensive tool designed to provide you 
 
 View the certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-Additional questions? Please email `certif@adobe.com`.
+Additional questions? [Contact Us](mailto:certif@adobe.com)
+
 
