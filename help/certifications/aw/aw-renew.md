@@ -36,4 +36,4 @@ We're happy to announce that you are now able to renew your certification via a 
 
 View the certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-Additional questions? [Contact us](mailto:certif@adobe.com){:target="_blank"}.
+Additional questions? [Contact us](mailto:certif@adobe.com){target="_blank"}.
