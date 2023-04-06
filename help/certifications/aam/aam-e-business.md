@@ -2,7 +2,7 @@
 title: Business Practitioner Expert certification
 description: Learn how to become certified as an Adobe [!DNL Audience Manager] Business Manager Expert.
 solution: Audience Manager
-role: Developer
+role: User
 badge: label="Exam AD0-E457" type="positive"
 mini-toc-levels: 1
 ---

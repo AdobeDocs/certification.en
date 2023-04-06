@@ -2,7 +2,7 @@
 title: Certification renewal
 description: Learn how to renew your [!DNL Experience Platform] certification in [!DNL Real-Time Customer Data Platform].
 solution: Real-time Customer Data Platform
-role: Developer
+role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
 hidefromtoc: yes
