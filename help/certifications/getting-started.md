@@ -1,15 +1,13 @@
 ---
 title: Get Started with Adobe certifications
-description: Get started with [!DNL Experience Cloud] certifications. Learn about the program and how to navigate through our site pages.
+description: Get started with [!DNL Experience Cloud] certifications. Learn about the program and this website.
 solution: Experience Cloud
 mini-toc-levels: 1
 ---
 
 # Get started {#getting-started}
 
-Adobe's certifications are designed to validate the knowledge and skills of professionals working with our digital marketing solutions. 
-
-Get started with technical certifications. Learn about the program and how to navigate through our site pages.
+Adobe's certifications are designed to validate the knowledge and skills of professionals working with our digital marketing solutions. Use the following tabs to begin learning about the certification program.
 
 >[!BEGINTABS]
 
@@ -26,6 +24,7 @@ Learn the difference between the types of exams you will encounter on your certi
 | Sample questions | For some certification exams, Adobe does not yet have full length practice tests. For these exams, a representative set of sample questions is provided.  |
 | Readiness questionnaire | A readiness questionnaire is another tool you can use to assess your readiness to take your certification exam. The readiness questionnaire comprises affirming statements based on the exam objectives--by answering "Yes" or "No" to each statement, you can determine your readiness with respect to the major content areas covered on the exam. | 
 
+{style="table-layout:auto"}
 
 >[!TAB Certification levels]
 
@@ -36,14 +35,17 @@ These levels reflect a progression of proficiency and knowledge, with the Profes
 | ![Professional Badge](/help/certifications/assets/professional-badge-Xsmall.png)  | **Professional certifications** validate that a candidate has a foundational understanding of Adobe's digital marketing solutions. The certification exam covers basic concepts and functionalities of Adobe [!DNL Experience Cloud]. |
 | --------- | ------- |
 
+{style="table-layout:auto"}
 
 | ![Expert Badge](/help/certifications/assets/expert-badge-Xsmall.png) | **Expert certifications** are for professionals who have a more advanced understanding of Adobe's digital marketing solutions. The certification exam covers more complex concepts and functionalities of Adobe [!DNL Experience Cloud], including implementation and troubleshooting. |
 | ------- | ------- |
 
+{style="table-layout:auto"}
 
 | ![Master Badge](/help/certifications/assets/master-badge-Xsmall.png) | **Master certifications** are for professionals who have an in-depth understanding of Adobe's digital marketing solutions and have demonstrated expertise in multiple areas of Adobe [!DNL Experience Cloud]. The certification exam covers advanced topics and scenarios, including complex integrations, customizations, and troubleshooting.|
 | ------- | ------- |
 
+{style="table-layout:auto"}
 
 >[!TAB Job roles]
 
@@ -52,11 +54,17 @@ Adobe certification exams are customized to three different job roles. Read the 
 | ![Business Practitioner Badge](/help/certifications/assets/business_practitioner_blk_small.png) | **Business Practitioners** are responsible for designing, executing, and managing marketing campaigns using Adobe [!DNL Experience Cloud] solutions. They should have a foundational understanding of Adobe's digital marketing solutions, as well as experience in marketing and advertising. The Business Practitioner certification validates their ability to effectively use Adobe's digital marketing solutions to achieve business objectives. |
 | ------- | ------- |
 
+{style="table-layout:auto"}
+
 | ![Developer Badge](/help/certifications/assets/developer_blk_small.png) | **Developers** are responsible for implementing and integrating Adobe [!DNL Experience Cloud] solutions into an organization's technology stack. They should have experience in software development and proficiency in web technologies, such as HTML, CSS, JavaScript, and RESTful APIs. The Developer certification validates their ability to effectively implement and customize Adobe's digital marketing solutions to meet business requirements. |
 | ------- | ------- |
 
+{style="table-layout:auto"}
+
 | ![Architect Badge](/help/certifications/assets/architect_blk_small.png) | **Architects** are responsible for designing and implementing enterprise-grade solutions using Adobe [!DNL Experience Cloud] solutions. They should have extensive knowledge of Adobe's digital marketing solutions and experience in software architecture, integration, and customization. The Architect certification validates their ability to design and implement complex solutions using Adobe's digital marketing solutions. |
 | ------- | ------- |
+
+{style="table-layout:auto"}
 
 >[!TAB Certification Journey]
 
@@ -67,6 +75,8 @@ The Certification Journey Guide is a comprehensive tool designed to provide you 
 |**Get Ready** | Intended to give an overview of the exam, including information about the intended audience, exam details, readiness self-assessment, exam objectives, and scope. This section helps you understand the exam and what you can expect when taking it. The readiness self-assessment is particularly helpful, as it allows you to determine your current level of knowledge and identify areas where you may need to focus your study efforts. |
 | **Get Prepped** | Is where you can find training and resources to help you prepare for the exam. This section includes information about and links to study materials and training courses. |
 | **Get Certified** | Offers valuable information on how to register for the certification exam, including details about the registration process and available payment methods. In addition, this section also provides a clear overview of the exam process. Look to this section for helpful resources, such as a link to the Adobe Certification Prep Portal for exams that offer practice tests, as well as links to register for certification exams. |
+
+{style="table-layout:auto"}
 
 >[!ENDTABS]
 
