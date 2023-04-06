@@ -19,10 +19,10 @@ You should have:
 
 Familiarity with the following tools and technologies:
 
-* Ad testing/debugging software (e.g. VAST INSPECTOR, Chrome developer tools)
-* Analytics tools (e.g. Adobe Analytics, Google Analytics)
-* Third-party tagging software (e.g. Sizmek, Google tag manager)
-* Third-party media quality tools (e.g. IAS, MOAT)
+* Ad testing/debugging software (VAST INSPECTOR, Chrome developer tools)
+* Analytics tools (Adobe Analytics, Google Analytics)
+* Third-party tagging software (Sizmek, Google tag manager)
+* Third-party media quality tools (IAS, MOAT)
 * Major browsers
 * Ad exchanges, SSPs, and DMPs
 

@@ -35,7 +35,7 @@ Tools:
 Environments:
 
 * Front-end web development environments
-* Knowledge of mobile application (limitations and differences, e.g., why it is different than web)
+* Knowledge of mobile application (limitations and differences, for example, why it is different than web)
 * The field of digital marketing
 * Minimal knowledge of backend development environments including PC, Mac, Android/iOS operating systems (basic operations, not development)
 

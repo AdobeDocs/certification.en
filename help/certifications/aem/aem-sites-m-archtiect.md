@@ -35,7 +35,7 @@ Additionally, you should have the ability to perform the following tasks:
 * Create and deliver infrastructure/deployment diagrams
 * Determine information models to use with AEM applications
 * Define authentication and authorization security models and concepts
-* Determine persistence models based on customers' requirements (e.g., binary storage, deployment scenario etc.)
+* Determine persistence models based on customers' requirements (binary storage, deployment scenario, and so on)
 * Design workflow models for business processes
 * Establish strategies for platform performance and penetration/security testing
 * Reuse content across multiple channels

@@ -26,7 +26,7 @@ You should have:
 * The knowledge of statistical concepts and data analysis as it applies to optimization
 * An in-depth knowledge of the three-step workflow (experiences, targeting, goals and settings, including all reporting sources)
 * The ability to translate Activity reporting results into actionable insights and suggestions
-* An understanding of the impact of changing technologies on Target (e.g., ITP, GDPR/CCPA, SPA)
+* An understanding of the impact of changing technologies on Target (ITP, GDPR/CCPA, SPA)
 * An understanding of how Recommendation Activities can be used as a solution
 
 Additionally, you should be familiar with the following technologies and environments:

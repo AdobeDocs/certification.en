@@ -28,7 +28,7 @@ You should have:
 * The ability to describe and demonstrate product features and capabilities
 * The ability to map product capabilities to high use cases
 * Experience supporting the pre-sales team
-* The ability to offer deskside coaching (e.g., product best practice, reporting metrics etc.)
+* The ability to offer deskside coaching (product best practice, reporting metrics, and so on)
 * Experience describing the differences between deployment models
 
 >[!NOTE]

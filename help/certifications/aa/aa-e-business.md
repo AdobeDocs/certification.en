@@ -20,8 +20,8 @@ You should have:
 * The ability to translate business requirements into metrics or KPIs
 * The ability to build and interpret reports
 * The ability to communicate results and can propose a course of action based on analysis of reports
-* Helped clients understand how to extract/pull the information they want (e.g. help them define their business questions)
-* An understanding how the technology works and understands a client's implementation (e.g. where the data sits, how it can be collected, how it is tracked) from a functional standpoint
+* Helped clients understand how to extract/pull the information they want (for example, help them define their business questions)
+* An understanding how the technology works and understands a client's implementation (for example, where the data sits, how it can be collected, how it is tracked) from a functional standpoint
 * At least one year of [!DNL Adobe Analytics] hands-on experience
 * A basic understanding of how digital analytics is filtering/structuring data
 * An awareness of the integration of [!DNL Adobe Analytics] with other Adobe solutions
@@ -61,13 +61,13 @@ You should have:
 
 **Exam details:**
   
-* Level: Expert (1-3 years' experience)
-* Passing Score: 31/50
-* Time: 120 mins
-* Delivery: Online proctored (requires camera access) or test center proctored
-* Available languages: English
-* Cost: $225 (global) / $150 (India)
-* Exam ID: AD0-E208
+>* **Level:** Expert (1-3 years' experience)
+>* **Passing Score:** 31/50
+>* **Time:** 120 mins
+>* **Delivery:** Online proctored (requires camera access) or >test center proctored
+>* **Available languages:** English
+>* **Cost:** $225 (global) / $150 (India)
+>* **Exam ID:** AD0-E208
 
 **Readiness self-assessment**
 

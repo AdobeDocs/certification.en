@@ -15,7 +15,7 @@ Learn how to become a certified Adobe Developer Expert.
 You should have:
 
 * At least two years of [!DNL Campaign] software experience
-* At least two years of relevant experience in multi-channel digital marketing campaigns and web development (e.g. REST API)
+* At least two years of relevant experience in multi-channel digital marketing campaigns and web development (such as, REST API)
 * The ability to perform tasks in Adobe Campaign including template development, technical workflows, schema development, and integrations, and be able to monitor the instance using control panel
 * Experience working in a channel delivery environment (email, direct mail, mobile, and social)
 * Familiarity with marketing campaign tactics such as multi-touch, life cycle, and reactivation

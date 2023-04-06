@@ -120,7 +120,7 @@ Certifications are offered at certain Adobe‐sponsored events.
 
 +++
 
-+++Are certifications tied to specific versions of applications (E.G. Adobe Experience Manager 6.5)? 
++++Are certifications tied to specific versions of applications (for example, Adobe Experience Manager 6.5)? 
 
 Not directly, no. But because certification will now require renewal every 2 years, your certification ensures that you remain current on the latest version of an Adobe application. 
 
