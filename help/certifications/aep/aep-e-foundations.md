@@ -2,6 +2,7 @@
 title: Platform certification
 description: Learn how to become a certified Adobe [!DNL Experience Platform] Expert.
 solution: Experience Platform
+product: Experience Platform
 role: Developer
 badge: label="Exam AD0-E600 & AD7-E601" type="positive"
 mini-toc-levels: 1

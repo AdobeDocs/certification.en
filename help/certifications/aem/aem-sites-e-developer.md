@@ -2,6 +2,7 @@
 title: Developer Expert certification
 description: Learn how to become a certified Adobe [!DNL Experience Manager Sites] Expert.
 solution: Experience Manager Sites
+product: Experience Manager
 role: Developer
 badge: label="Exam AD0-E134" type="positive"
 mini-toc-levels: 1

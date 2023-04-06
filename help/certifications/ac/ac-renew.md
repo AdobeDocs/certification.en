@@ -2,7 +2,8 @@
 title: Certification renewal
 description: Learn how to renew your Adobe [!DNL Commerce] certification before it expires.
 solution: Commerce
-role: Developer
+product: Magento
+role: Developer,User,Data Architect
 mini-toc-levels: 1
 hidefromtoc: yes
 ---

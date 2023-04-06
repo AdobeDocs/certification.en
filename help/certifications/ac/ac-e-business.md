@@ -1,7 +1,8 @@
 ---
-title: Business Practitioner Expert Certification
-description: Learn how to become a certified as an Adobe Business Practitioner expert in Adobe [!DNL Commerce].
+title: Business Practitioner Expert certification
+description: Learn how to become a certified as an Adobe Business Practitioner Expert in Adobe [!DNL Commerce].
 solution: Commerce
+product: Magento
 role: User
 badge: label="Exam AD0-E708" type="positive"
 mini-toc-levels: 1

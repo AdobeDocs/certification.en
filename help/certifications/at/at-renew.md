@@ -2,6 +2,7 @@
 title: Certification renewal
 description: Learn how to renew your [!DNL Adobe Target] certification before it expires.
 solution: Target
+product: Target
 role: Developer
 mini-toc-levels: 1
 hidefromtoc: yes

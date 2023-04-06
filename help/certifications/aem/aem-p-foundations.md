@@ -2,7 +2,8 @@
 title: Technical Foundations Professional certification 
 description: Learn how to become a certified Adobe [!DNL Experience Manager] Professional.
 solution: Experience Manager
-role: Developer
+product: Experience Manager
+role: User
 badge: label="Exam AD0-E132 type="positive"
 mini-toc-levels: 1
 ---

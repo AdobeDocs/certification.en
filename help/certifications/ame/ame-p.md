@@ -2,7 +2,8 @@
 title: Professional certification
 description: Learn how to become a certified Adobe [!DNL Marketo Engage] Professional.
 solution: Marketo Engage
-role: Developer
+product: Marketo
+role: User
 badge: label="Exam AD0-E555" type="positive"
 mini-toc-levels: 1
 ---

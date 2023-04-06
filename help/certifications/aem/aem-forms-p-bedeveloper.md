@@ -1,7 +1,8 @@
 ---
 title: AEM Forms Backend Developer professional certification 
-description: Learn how to become a certified Adobe AEM Forms Backend Developer professional.
+description: Learn how to become a certified Adobe AEM Forms Backend Developer Professional.
 solution: Experience Manager Forms
+product: Experience Manager
 role: Developer
 badge: label="Exam AD0-E127" type="positive"
 mini-toc-levels: 1

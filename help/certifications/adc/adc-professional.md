@@ -2,7 +2,8 @@
 title: Professional certification
 description: Learn how to become a certified Adobe Doc Cloud Professional.
 solution: Document Cloud
-role: Developer
+product: Document Cloud
+role: User
 badge: label="Adobe Doc Cloud coming May 2023" type="positive"
 mini-toc-levels: 1
 hidefromtoc: yes

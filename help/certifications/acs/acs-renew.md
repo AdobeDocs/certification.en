@@ -2,6 +2,8 @@
 title: Certification renewal 
 description: Learn how to renew your Adobe [!DNL Campaign Standard] certification before it expires. 
 solution: Campaign Standard
+product: Campaign
+role: User,Developer
 mini-toc-levels: 1
 hidefromtoc: yes
 ---

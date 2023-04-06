@@ -2,7 +2,8 @@
 title: Business Practitioner Professional certification
 description: Learn how to become certified as an Adobe [!DNL Audience Manager] Business Practitioner Professional.
 solution: Audience Manager
-role: Developer
+product: Audience Manager
+role: User
 badge: label="Exam AD0-E458" type="positive"
 mini-toc-levels: 1
 ---

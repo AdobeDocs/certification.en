@@ -2,6 +2,7 @@
 title: Front-end Developer Professional certification
 description: Learn how to become a certified Adobe Developer professional for Adobe [!DNL Commerce] .
 solution: Commerce
+product: Magento
 role: Developer
 badge: label="Exam AD0-E719" type="positive"
 mini-toc-levels: 1

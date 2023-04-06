@@ -2,6 +2,7 @@
 title: Business Practitioner Expert certification
 description: Learn how to become a certified Adobe Business Practitioner Expert in [!DNL Adobe Target].
 solution: Target
+product: Target
 role: User
 badge: label="Exam AD0-E406" type="positive"
 mini-toc-levels: 1

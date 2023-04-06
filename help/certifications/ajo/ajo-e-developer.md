@@ -1,13 +1,14 @@
 ---
 title: Expert certification
-description: Learn how to become a certified Adobe [!DNL Journey Optimizer] Expert.
+description: Learn how to become a certified Adobe [!DNL Journey Optimizer] Developer Expert.
 solution: Journey Optimizer
+product: Journey Optimizer
 role: Developer
 badge: label="Exam AD0-E603" type="positive"
 ---
 # Certification journey for Adobe [!DNL Journey Optimizer] Developer Expert
 
-Learn how to become a certified Adobe [!DNL Journey Optimizer] Expert.
+Learn how to become a certified Adobe [!DNL Journey Optimizer] Developer Expert.
 
 ## Minimum experience
 
