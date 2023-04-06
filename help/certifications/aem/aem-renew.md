@@ -2,7 +2,8 @@
 title: Certification renewal 
 description: Learn how to renew your [!DNL Experience Manager Sites] certification before it expires.
 solution: Experience Manager Sites
-role: Developer
+product: Experience Manager
+role: User,Developer,Data Architect
 hidefromtoc: yes
 ---
 # Renew your Adobe [!DNL Experience Manager] certification

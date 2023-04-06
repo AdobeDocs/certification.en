@@ -1,7 +1,8 @@
 ---
 title: Professional certification
-description: Learn how to become a certified Adobe [!DNL Experience Manager] professional.
+description: Learn how to become a certified Adobe [!DNL Experience Manager] Professional.
 solution: Experience Manager Assets
+product: Experience Manager
 role: Developer
 badge: label="Exam AD0-E129" type="positive"
 mini-toc-levels: 1

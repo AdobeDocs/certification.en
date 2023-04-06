@@ -2,6 +2,7 @@
 title: Expert certification 
 description: Learn how to become a certified Adobe [!DNL Experience Manager] expert.
 solution: Experience Manager as a Cloud Service
+product: Experience Manager
 role: Developer
 badge: label="Exam AD0-E136" type="positive"
 mini-toc-levels: 1

@@ -2,7 +2,7 @@
 title: Professional certification
 description: Learn how to become a certified [!DNL Experience Platform] Professional in [!DNL Real-Time Customer Data Platform] 
 solution: Real-time Customer Data Platform
-role: Developer
+role: User
 recommendations: disable, exclude
 badge: label="Exam AD0-E602" type="positive"
 mini-toc-levels: 1

@@ -2,7 +2,8 @@
 title: Certification renewal
 description: Learn how to renew your [!DNL Audience Manager] certification before it expires.
 solution: Audience Manager
-role: Developer
+product: Audience Manager
+role: User
 mini-toc-levels: 1
 hidefromtoc: yes
 ---

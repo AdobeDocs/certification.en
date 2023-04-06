@@ -2,7 +2,8 @@
 title: Architect Master certification
 description: Learn how to become a certified Adobe Architect Master in Adobe [!DNL Marketo Engage].
 solution: Marketo Engage
-role: Architect
+product: Marketo
+role: Data Architect
 badge: label="Exam AD0-E556" type="positive"
 mini-toc-levels: 1
 ---

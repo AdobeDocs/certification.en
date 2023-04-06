@@ -2,7 +2,8 @@
 title: Certification renewal
 description: Learn how to renew your Adobe [!DNL Document Cloud] certification before it expires.
 solution: Document Cloud
-role: Developer
+product: Document Cloud
+role: User
 mini-toc-levels: 1
 hidefromtoc: yes
 ---

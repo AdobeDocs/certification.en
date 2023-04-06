@@ -2,6 +2,7 @@
 title: Front-End Developer Expert certification
 description: Learn how to become a certified Adobe Developer Expert in Adobe [!DNL Commerce].
 solution: Commerce
+product: Magento
 role: Developer
 badge: label="Exam AD0-E710" type="positive"
 mini-toc-levels: 1

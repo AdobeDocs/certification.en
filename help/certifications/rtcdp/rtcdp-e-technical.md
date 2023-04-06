@@ -2,7 +2,7 @@
 title: Expert certification
 description: Learn how to become a certified [!DNL Experience Platform] Expert in [!DNL Real-Time Customer Data Platform]
 solution: Real-time Customer Data Platform
-role: Developer
+role: Developer,Data Architect
 recommendations: disable, exclude
 badge: label="Exam AD0-E600 & AD7-E601" type="positive"
 mini-toc-levels: 1

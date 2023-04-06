@@ -2,6 +2,7 @@
 title: Developer Professional certification
 description: Learn how to become a certified Adobe Developer professional in Adobe [!DNL Commerce].
 solution: Commerce
+product: Magento
 role: Developer
 badge: label="Exam AD0-E717" type="positive"
 mini-toc-levels: 1

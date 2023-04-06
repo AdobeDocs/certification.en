@@ -2,6 +2,7 @@
 title: Developer Professional certification
 description: Learn how to become certified as an [!DNL Adobe Analytics] Developer Professional.
 solution: Analytics
+product: Analytics
 role: Developer
 badge: label="Exam AD0-E213" type="positive"
 mini-toc-levels: 1

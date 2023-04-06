@@ -1,7 +1,8 @@
 ---
 title: Developer Professional certification
-description: Learn how to become a certified Adobe Developer professional in [!DNL Campaign Classic].
+description: Learn how to become a certified Adobe Developer Professional in [!DNL Campaign Classic].
 solution: Campaign Classic
+product: Campaign
 role: Developer
 badge: label="Exam AD0-E331" type="positive"
 mini-toc-levels: 1

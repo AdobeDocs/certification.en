@@ -1,7 +1,8 @@
 ---
 title: Developer Expert certification
-description: Learn how to become certified as an [!DNL Adobe Analytics] Developer expert.
+description: Learn how to become certified as an [!DNL Adobe Analytics] Developer Expert.
 solution: Analytics
+product: Analytics
 role: Developer
 badge: label="Exam AD0-E209" type="positive"
 mini-toc-levels: 1

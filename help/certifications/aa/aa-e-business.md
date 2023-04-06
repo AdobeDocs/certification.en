@@ -2,6 +2,7 @@
 title: Business Practitioner certification
 description: Learn how to become certified as an Adobe Business Practitioner Expert in [!DNL Adobe Analytics]
 solution: Analytics
+product: Analytics
 role: User
 badge: label="Exam AD0-E208" type="positive"
 mini-toc-levels: 1
