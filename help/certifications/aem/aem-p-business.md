@@ -66,10 +66,14 @@ Section 2: Architecture (22%)
 * Identify where to define roles and permissions
 * Given a scenario, define available caching approaches
 
-Section 3: Setup and implementation (13%)
+Section 3: Business Analysis (43%)
 
-* Identify best AEM practices to use content components
-* Given a scenario, identify the correct implementation of a feature
+* Given a scenario, identify standard modules of AEM that address customer business problems
+* Identify content management concepts for AEM modules
+* Identify typical project stakeholders
+* Identify realistic collaboration scenarios between involved teams
+* Given a scenario, describe a correct approach to meet business goals while remaining within budget and/or scope
+* Identify ways to connect business goals with the development team
 
 Section 4: Setup and implementation (13%)
 
