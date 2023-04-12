@@ -5,6 +5,7 @@ solution: Journey Optimizer
 product: Journey Optimizer
 role: Developer
 hidefromtoc: yes
+exl-id: 393255d0-dff1-4a49-93cd-e767b9b14fc5
 ---
 # Renew your Adobe [!DNL Journey Optimizer] certification
 

@@ -6,6 +6,7 @@ product: Marketo
 role: User
 mini-toc-levels: 1
 hidefromtoc: yes
+exl-id: b0c79168-768b-4be9-9d5c-0177e801c0d2
 ---
 # Renew your Adobe [!DNL Marketo Engage] certification
 

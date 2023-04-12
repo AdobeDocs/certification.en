@@ -6,6 +6,7 @@ product: Target
 role: Developer
 mini-toc-levels: 1
 hidefromtoc: yes
+exl-id: abd73bc0-2283-47d8-83fd-3568bc0298d8
 ---
 # Renew your [!DNL Adobe Target] certification
 

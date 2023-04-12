@@ -6,6 +6,7 @@ product: Magento
 role: Developer,User,Data Architect
 mini-toc-levels: 1
 hidefromtoc: yes
+exl-id: 8587a974-e0c4-41a7-bcd1-4c038f1eabe0
 ---
 # Renew your Adobe [!DNL Commerce] certification
 
@@ -75,4 +76,3 @@ The course assessments are free. There is no need to schedule them, and they are
 View the certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
 Additional questions? [Contact us](mailto:certif@adobe.com){target="_blank"}.
-

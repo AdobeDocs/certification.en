@@ -1,11 +1,12 @@
 ---
-title: Business Practitioner Professional certification 
+title: Business Practitioner Professional certification
 description: Learn how to become a certified Business Practitioner Professional in Adobe [!DNL Experience Manager].
 solution: Experience Manager
 product: Experience Manager
 role: User
 badge: label="Exam AD0-E126" type="positive"
 mini-toc-levels: 1
+exl-id: 83ee013f-aa37-409b-8bcb-385be6962b26
 ---
 # Certification journey for Adobe [!DNL Experience Manager] Business Practitioner Professional
 

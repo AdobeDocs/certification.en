@@ -1,11 +1,12 @@
 ---
-title: Architect Master certification 
+title: Architect Master certification
 description: Learn how to become a certified Architect Master in Experience Manager Sites.
 solution: Experience Manager Sites
 product: Experience Manager
 role: Data Architect
 badge: label="Exam AD0-E117" type="positive"
 mini-toc-levels: 1
+exl-id: 519381bd-fcea-40fd-a10a-046b7fb97913
 ---
 # Certification journey for Adobe [!DNL Experience Manager Sites] Architect Master
 

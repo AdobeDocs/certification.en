@@ -6,6 +6,7 @@ product: Analytics
 role: User,Developer, Data Architect
 mini-toc-levels: 1
 hidefromtoc: yes
+exl-id: c230a7b1-db10-497c-975a-920eb09acb29
 ---
 # Renew your [!DNL Analytics] certification
 

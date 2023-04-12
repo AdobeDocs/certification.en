@@ -6,8 +6,8 @@ role: Developer,Data Architect
 recommendations: disable, exclude
 badge: label="Exam AD0-E600 & AD7-E601" type="positive"
 mini-toc-levels: 1
+exl-id: 76c22cfc-e3ef-4c54-bc8f-04174c976a73
 ---
-
 # Certification journey for Adobe [!DNL Real-Time Customer Data Platform] Expert
 
 Learn how to become a certified Adobe [!DNL Experience Platform] expert in Real-Time Customer Data Platform (RTCDP).

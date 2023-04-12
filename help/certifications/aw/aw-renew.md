@@ -5,6 +5,7 @@ solution: Workfront
 role: Developer
 mini-toc-levels: 1
 hidefromtoc: yes
+exl-id: 5ccc1b87-c6eb-4087-9ee4-324419af3b84
 ---
 # Renew your Adobe [!DNL Workfront] certification
 

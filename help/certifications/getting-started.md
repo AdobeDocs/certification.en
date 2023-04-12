@@ -3,8 +3,8 @@ title: Get Started with Adobe certifications
 description: Get started with [!DNL Experience Cloud] certifications. Learn about the program and this website.
 solution: Experience Cloud
 mini-toc-levels: 1
+exl-id: 751e4c99-cce8-47a1-84cc-2cb3aacdaec8
 ---
-
 # Get started {#getting-started}
 
 Adobe's certifications are designed to validate the knowledge and skills of professionals working with our digital marketing solutions. Use the following tabs to begin learning about the certification program.
@@ -87,5 +87,3 @@ The Certification Journey Guide is a comprehensive tool designed to provide you 
 View the certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
 Additional questions? [Contact us](mailto:certif@adobe.com){target="_blank"}.
-
-

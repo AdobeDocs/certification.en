@@ -6,6 +6,7 @@ product: Document Cloud
 role: User
 mini-toc-levels: 1
 hidefromtoc: yes
+exl-id: d7b3688b-2ed8-4855-951b-80ac1be932eb
 ---
 # Renew your Adobe [!DNL Document Cloud] certification
 

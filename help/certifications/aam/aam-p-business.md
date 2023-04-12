@@ -6,6 +6,7 @@ product: Audience Manager
 role: User
 badge: label="Exam AD0-E458" type="positive"
 mini-toc-levels: 1
+exl-id: 3665137b-8057-4205-ba4e-5deecf2672d6
 ---
 # Certification journey for Adobe [!DNL Audience Manager] Business Practitioner Professional
 

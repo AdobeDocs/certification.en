@@ -6,6 +6,7 @@ product: Magento
 role: Data Architect
 badge: label="Exam AD0-E718" type="positive"
 mini-toc-levels: 1
+exl-id: 594503d8-2064-4b05-ba09-9569e6ef9fc7
 ---
 # Certification journey for Adobe [!DNL Commerce] Architect Master
 

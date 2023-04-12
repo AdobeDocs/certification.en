@@ -6,6 +6,7 @@ product: Experience Manager
 role: Developer
 badge: label="Exam AD0-E134" type="positive"
 mini-toc-levels: 1
+exl-id: 4b97177a-38aa-4082-95da-1e4c9962f3c8
 ---
 # Certification journey for Adobe [!DNL Experience Manager Sites] Developer Expert
 

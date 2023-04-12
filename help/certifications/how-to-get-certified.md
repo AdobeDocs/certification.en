@@ -3,6 +3,7 @@ title: Get certified at Adobe
 description: Learn how to get certified at Adobe. Find all the resources you need before, during and after you become certified.
 recommendations: disable, exclude
 mini-toc-levels: 1
+exl-id: 753f63e1-599e-43cd-8cf7-8688a8dac512
 ---
 # How to get certified{#how}
 

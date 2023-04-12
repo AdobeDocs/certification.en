@@ -6,6 +6,7 @@ product: Campaign
 role: User,Developer,Data Architect
 mini-toc-levels: 1
 hidefromtoc: yes
+exl-id: af895356-3e6b-424f-a637-a695b916aa47
 ---
 # Renew your Adobe [!DNL Campaign Classic] certification
 

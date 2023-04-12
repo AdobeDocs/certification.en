@@ -6,6 +6,7 @@ product: Advertising Cloud
 role: User,Developer, Data Architect
 mini-toc-levels: 1
 hidefromtoc: yes
+exl-id: 8016ac6f-2a30-4a72-bc17-b2ca422c21e8
 ---
 # Renew your [!DNL Advertising] certification
 

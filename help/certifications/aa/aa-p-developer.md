@@ -6,6 +6,7 @@ product: Analytics
 role: Developer
 badge: label="Exam AD0-E213" type="positive"
 mini-toc-levels: 1
+exl-id: 83074292-b71e-4ae1-b5e3-5645e3ad1ade
 ---
 # Certification journey for [!DNL Adobe Analytics] Developer Professional
 

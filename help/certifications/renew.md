@@ -5,6 +5,7 @@ solution: Real-time Customer Data Platform
 role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
+exl-id: e54d11bb-d563-4779-ad42-b749be64611a
 ---
 # Renew your certification {#renew}
 

@@ -6,6 +6,7 @@ product: Advertising Cloud
 role: User
 badge: label="Exam AD0-E502" type="positive"
 mini-toc-levels: 1
+exl-id: 15f3e05a-4896-488c-a65d-d6e8f948c8cc
 ---
 # Certification journey for Adobe [!DNL Advertising DSP] Business Practitioner Professional
 

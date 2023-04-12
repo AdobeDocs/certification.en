@@ -6,6 +6,7 @@ product: Analytics
 role: User
 badge: label="Exam AD0-E208" type="positive"
 mini-toc-levels: 1
+exl-id: 48e3dc7c-0801-4f6d-853b-1fab9bb35e06
 ---
 # Certification journey for [!DNL Adobe Analytics] Business Practitioner Expert
 

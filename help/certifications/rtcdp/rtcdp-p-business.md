@@ -1,11 +1,12 @@
 ---
 title: Professional certification
-description: Learn how to become a certified [!DNL Experience Platform] Professional in [!DNL Real-Time Customer Data Platform] 
+description: Learn how to become a certified [!DNL Experience Platform] Professional in [!DNL Real-Time Customer Data Platform]
 solution: Real-time Customer Data Platform
 role: User
 recommendations: disable, exclude
 badge: label="Exam AD0-E602" type="positive"
 mini-toc-levels: 1
+exl-id: 3b970c7a-177c-4bf6-bf0b-4ea2f78bdcd2
 ---
 # Certification journey for Adobe [!DNL Real-Time CDP] Business Practitioner Professional
 

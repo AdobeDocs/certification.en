@@ -5,6 +5,7 @@ solution: Workfront
 role: Developer
 badge: label="Exam AD0-E903" type="positive"
 mini-toc-levels: 1
+exl-id: 5bb372b4-6237-44f9-ac71-6093e2f0d03f
 ---
 # Certification journey for Adobe [!DNL Workfront] Project Manager Professional
 

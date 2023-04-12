@@ -1,11 +1,12 @@
 ---
-title: DevOps Engineer Expert Certification 
+title: DevOps Engineer Expert Certification
 description: Learn how to become a certified Adobe Experience Manager DevOps Engineer Expert.
 solution: Experience Manager
 product: Experience Manager
 role: Developer
 badge: label="Exam AD0-E124" type="positive"
 mini-toc-levels: 1
+exl-id: 9cfb51b0-9ab8-46fb-a111-434c13e4affa
 ---
 # Certification journey for Adobe Experience Manager DevOps Engineer Expert
 

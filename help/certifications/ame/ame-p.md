@@ -6,6 +6,7 @@ product: Marketo
 role: User
 badge: label="Exam AD0-E555" type="positive"
 mini-toc-levels: 1
+exl-id: df1a2c71-5216-47d1-a971-5c07dd3e2d2a
 ---
 # Certification journey for Adobe [!DNL Marketo Engage] Professional
 

@@ -6,8 +6,8 @@ product: Campaign
 role: Data Architect
 badge: label="Exam AD0-E328" type="positive"
 mini-toc-levels: 1
+exl-id: 81b4fc87-73c8-4e8c-9a33-4c90050e6dc1
 ---
-
 # Certification journey for Adobe [!DNL Campaign Classic] Architect Master
 
 Learn how to become a certified Adobe Architect Master in [!DNL Campaign Classic].

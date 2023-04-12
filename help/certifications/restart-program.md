@@ -1,11 +1,12 @@
 ---
 title: Adobe Certification Restart program
-description: Go from expired to certified with Adobe Certifications. Find out if you are eligible for this limited time program. 
+description: Go from expired to certified with Adobe Certifications. Find out if you are eligible for this limited time program.
 role: Developer
 solution: Experience Cloud
 recommendations: disable, exclude
 mini-toc-levels: 1
 hidefromtoc: yes
+exl-id: 507ed14b-fd89-4701-aeeb-8905daec7270
 ---
 # Restart your certification journey by going from expired to certified
 

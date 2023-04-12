@@ -6,6 +6,7 @@ product: Audience Manager
 role: User
 mini-toc-levels: 1
 hidefromtoc: yes
+exl-id: 20086c0d-e925-49b4-80eb-c7231e5e0b3e
 ---
 # Renew your Adobe [!DNL Audience Manager] certification
 

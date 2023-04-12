@@ -6,6 +6,7 @@ product: Campaign
 role: User
 badge: label="Exam AD0-E327" type="positive"
 mini-toc-levels: 1
+exl-id: 082a21f3-1b05-47d4-add1-6b7f86779e82
 ---
 # Certification journey for Adobe [!DNL Campaign Classic] Business Practitioner Expert
 

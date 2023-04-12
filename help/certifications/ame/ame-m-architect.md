@@ -6,6 +6,7 @@ product: Marketo
 role: Data Architect
 badge: label="Exam AD0-E556" type="positive"
 mini-toc-levels: 1
+exl-id: 3ce6b278-5bee-4ba3-ae5a-1d5de79d07bf
 ---
 # Certification journey for Adobe [!DNL Marketo Engage] Architect Master
 

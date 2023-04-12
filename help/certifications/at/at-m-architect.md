@@ -6,6 +6,7 @@ product: Target
 role: Data Architect
 badge: label="Exam AD0-E407" type="positive"
 mini-toc-levels: 1
+exl-id: 05041fba-a1c3-491f-9f88-59498d507e61
 ---
 # Certification journey for [!DNL Adobe Target] Architect Master
 

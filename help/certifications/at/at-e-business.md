@@ -6,6 +6,7 @@ product: Target
 role: User
 badge: label="Exam AD0-E406" type="positive"
 mini-toc-levels: 1
+exl-id: e907929f-b4a4-45e1-ba2d-f407f46d41c6
 ---
 # Certification journey for [!DNL Adobe Target] Business Practitioner Expert
 
