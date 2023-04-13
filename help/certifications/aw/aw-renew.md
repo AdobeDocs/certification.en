@@ -33,8 +33,8 @@ We're happy to announce that you are now able to renew your certification via a 
 
 **Exam details:**
   
-* Passing Score:
-* Time:  mins
+* Passing Score: 25/34
+* Time: 66 mins
 * Cost: FREE/non-proctored
 * Delivery: On-demand
 * Available languages: English
@@ -43,13 +43,51 @@ We're happy to announce that you are now able to renew your certification via a 
 
 **Scope and objectives**
 
-ADD
+Section 1: Core System Administration and Setup (26%)
+
+* Given a Fusion scenario that requires a function to be nested inside another function, select the properly formed expression.
+* Given a Fusion scenario that requires timezone manipulation, distinguish between the user, visible organization, and where overriding the timezone is needed.
+* Given a Fusion scenario, select the Mapping Panel expression and/or module(s) that would appropriately transform input data to output data.
+* Identify the correct way(s) to utilize the Fusion Dev Tool to troubleshoot errors in execution or determine calls and responses made to third-party systems.
+
+Section 2: Scenario Design and Architecture (47%)
+
+* Given a list of steps, choose the correct sequence to parse JSON and convert to bundles.
+* Given a Fusion scenario, identify an opportunity to simplify the design and/or optimize for maintenance.
+* Given a situation, identify an opportunity to reduce data flow through a scenario.
+* Given an example of the number of bundles shown on a search module and a following aggregator, explain the changes in the number of operations processed and displayed by the bundle inspector. 
+* Given an example of an error 403:forbidden, correctly select the origin of the error message and cause
+* Identify the appropriate usage of References and Collections on Workfront Search and Read modules.
+
+Section 3: Testing and Error Handling (15%)
+
+* Given a Fusion scenario, correctly identify the a solution to prevent or handle an unreliable service. 
+* Given a Fusion scenario with missing required data, select ways to handle the invalid data.
+
+Section 4: Working with APIs (12%)
+
+* Given a 3rd-party system that does not have a dedicated app, identify the HTTP app and select the appropriate module. 
+* Identify the difference between CRUD operations and other common capabilities of REST APIs.
 
 ## Get prepped
 
 You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
 
 Here are some suggested resources to help you prepare:
+
+**Section 1: Core System Administration and Setup**
+
+ADD
+
+**Section 2: Scenario Design and Architecture**
+
+ADD
+
+**Section 3: Testing and Error Handling**
+
+ADD
+
+**Section 4: Working with APIs**
 
 ADD
 
@@ -61,7 +99,7 @@ To renew your exam click the Workfront Fusion Developer renewal - AD5-830 link b
 
 >[!NOTE]
 >
->This exam is free, open book, and non-proctored. You may take the exam up to three times. If you fail to receive 75% after three attempts, you must wait **30 days** to try again. Failure to comply might result in your certification being revoked.
+>This exam is free, open book, and un-proctored. You may take the exam up to three times. If you are unsuccessful after the third attempt, you must wait **30 days** to try again. Failure to comply might result in your certification being revoked.
 
 +++
 
