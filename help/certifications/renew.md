@@ -45,7 +45,7 @@ You can now renew your certification either via continuous learning, or by takin
 * [Adobe [!DNL Campaign Classic]](https://experienceleague.adobe.com/docs/certification/certification/technical-certifications/acc/acc-renew.html?lang=en){target="_blank"}
 * [Adobe [!DNL Campaign Standard]](https://experienceleague.adobe.com/docs/certification/certification/technical-certifications/acs/acs-renew.html?lang=en){target="_blank"}
 * [Adobe [!DNL Marketo Engage]](https://experienceleague.adobe.com/docs/certification/certification/technical-certifications/ame/ame-renew.html?lang=en){target="_blank"}
-* _Adobe [!DNL Workfront] - Coming Soon_
+* _Adobe [!DNL Workfront] Fusion Developer- Coming Soon_
 
 ### Questions
 
