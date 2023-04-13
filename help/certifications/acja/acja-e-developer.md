@@ -4,18 +4,35 @@ description: Learn how to become a certified Expert Adobe in [!DNL Customer Jour
 role: User
 solution: Customer Journey Analytics
 product: Customer Journey Analytics
-badge: label="Exam AD0-EXXX" type="positive"
+badge: label="Exam AD0-E604" type="positive"
 mini-toc-levels: 1
 hidefromtoc: yes
 exl-id: 9ffe9fc9-5427-4297-9d8d-14ce62e239e4
 ---
 # Certification journey for Adobe [!DNL Customer Journey Analytics] Expert
 
-Learn how to become a certified Adobe 
+Learn how to become a certified Adobe Analytics Customer Journey Developer.
 
 ## Minimum experience
 
-You should have:
+You should have 12-24 months experience in Adobe Customer Journey Analytics, and be able to perform the following tasks: 
+
+* Read and understand XDM schema (classes) 
+* Demonstrate a familiarity with the platform interface 
+* Validate data (query service), seeing your data in a dataset 
+* Understand required Admin permissions for different access levels 
+* Read and understand a QA script
+* Define a QC script to hand off to AEP engineer
+* Configure connections with primary identities (person ID)
+* Configure connections with multiple datasets
+* Configure a data view (Metric / dimension configuration)
+* Configure CJA
+* Transform data within the dimensions and metrics
+* Analyze Workspace basics (visualizations, attribution settings, filters, calculated metrics)
+* Understand data governance in CJA (DULE)
+* Build across channel metrics or people-based filters
+* Distinguish/understand sandboxes in AEP
+* Understand audience publishing (sharing)
 
 >[!NOTE]
 >
@@ -27,29 +44,49 @@ You should have:
 
 **Intended audience:** 
 
+* Technical Architect 
+* Technical Manager
+* Data Analyst
+* Data Architect/Engineer
+* Solution Architect
+* Enterprise Architect
+* Implementation Expert
+* Marketing Technology Lead
 
 **Exam details:**
   
 * Level: Expert (1-3 years' experience)
-* Passing Score: 
-* Time: 
+* Passing Score: 33/50
+* Time: 100 mins
 * Delivery: Online proctored (requires camera access) or test center proctored
 * Available languages: English
 * Cost: $225 (global) / $150 (India)
-
-**Readiness self-assessment**
-
-Complete the [online readiness questionnaire](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-9ts38u/ad-q-e116-readiness-questionnaire-for-adobe-aem-developer-expert-exam){target="_blank"} to see if your current experience matches the recommended minimum candidate qualification.
+* Exam ID: AD0-E604
 
 **Exam objectives and scope**
 
-Section 1: 
+Section 1: Connections (22%)
 
-Section 2: 
+* Design CJA connections with appropriate settings 
+* Create CJA connections from XDM data sets available in AEP by sandbox 
 
-Section 3: 
+Section 2: Data Views (30%) 
 
-Section 4: 
+* Configure data views for reporting and analysis 
+* Modify components within data views 
+
+Section 3: Data Validation and Troubleshooting (34%) 
+
+* Validate that data is populating accurately and completely 
+* Troubleshoot connections and data views 
+* Build or troubleshoot components 
+* Monitor usage to licensure 
+
+Section 4: Reporting and Activation (14%) 
+
+* Use Analysis Workspace to demonstrate cross-channel customer journeys with appropriate visualizations 
+* Send the members of a CJA Filter to an RTCDP Audience 
+* Design and create filters across datasets
 
 >[!TAB Get prepped]
 
@@ -57,21 +94,7 @@ You are not required to complete training before taking the exam, and training a
 
 Here are some suggested resources to help you prepare:
 
-**Section 1:**
-
-* [ADD Resource](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/underlying-technology/introduction-dispatcher.html?lang=en){target="_blank"} 
-
-**Section 2:**
-
-* [ADD Resource](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/underlying-technology/introduction-dispatcher.html?lang=en){target="_blank"} 
-
-**Section 3:**
-
-* [ADD Resource](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/underlying-technology/introduction-dispatcher.html?lang=en){target="_blank"} 
-
-**Section 4:**
-
-* [ADD Resource](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/underlying-technology/introduction-dispatcher.html?lang=en){target="_blank"} 
+_Coming soon!_
 
 >[!TAB Get certified]
 
@@ -82,16 +105,6 @@ Here are some suggested resources to help you prepare:
 
 **Now that you have successfully logged in, the following links will be directly accessible.**
 
-**Take a practice test**
-
-We recommend taking the free practice test before you start. You'll have unrestricted access to all available practice tests for Adobe's expert-level exams.
-
-Our practice tests are all developed from the same blueprint as the live exams. The practice test will help you understand the topics covered in the live exam.
-
-Please remember that passing a practice test does not guarantee you will pass the certification exam.
-
-Go to the [Adobe Certification Exam Prep Portal](https://www.certmetrics.com/adobe/candidate/gmetrix_sso.aspx){target="_blank"} now to take a practice test.
-
 **Take the certification exam**
 
 Adobe uses two vendors to administer proctored exams, PSI and Examity. 
@@ -101,9 +114,9 @@ Adobe uses two vendors to administer proctored exams, PSI and Examity.
 
 To schedule, reschedule, or cancel your exam, simply click on the vendor of choice, and follow the instructions provided on screen. It's that simple!
 
-### Exam number: AD0-EXXX
+### Exam number: AD0-E604
 
-[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&ec=AD0-E134 newtab=true"} [!BADGE Examity]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E134 newtab=true"}
+[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&ec=AD0-E604 newtab=true"} [!BADGE Examity]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E604 newtab=true"}
 
 You can pay for your certification exam by voucher or credit card. To purchase an exam voucher go to: [Adobe Certification Voucher Center](https://market.xvoucher.com/adobe/global){target="_blank"}. 
 
