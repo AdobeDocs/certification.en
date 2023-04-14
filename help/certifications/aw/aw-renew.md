@@ -77,19 +77,21 @@ Here are some suggested resources to help you prepare:
 
 **Section 1: Core System Administration and Setup**
 
-ADD
+* [Workfront Documentation](https://experienceleague.adobe.com/docs/workfront/using/home.html?lang=en){target="_blank"} - Functions in Adobe Workfront Fusion, Organizations in Adobe Workfront Fusion, Modules in Adobe Workfront Fusion, Scenarios in Adobe Workfront Fusion
 
 **Section 2: Scenario Design and Architecture**
 
-ADD
+* [Workfront Fusion scenario optimization](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/design-optimization-and-testing/workfront-fusion-scenario-optimization.html?lang=en){target="_blank"} - Tutorial
+* [Workfront Documentation](https://experienceleague.adobe.com/docs/workfront/using/home.html?lang=en){target="_blank"} - Modules in Adobe Workfront Fusion 
 
 **Section 3: Testing and Error Handling**
 
-ADD
+* [Workfront Documentation](https://experienceleague.adobe.com/docs/workfront/using/home.html?lang=en){target="_blank"} - Scenario Settings Panel in Adobe Workfront Fusion, Errors in Adobe Workfront Fusion, Functions in Adobe Workfront Fusion
 
 **Section 4: Working with APIs**
 
-ADD
+* [Workfront Documentation](https://experienceleague.adobe.com/docs/workfront/using/home.html?lang=en){target="_blank"} - HTTP Modules, Connections in Adobe Workfront Fusion, Modules in Adobe Workfront Fusion 
+* [Adobe Workfront API](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-api/workfront-api.html?lang=en){target="_blank"}
 
 ## Renew your certification
 
