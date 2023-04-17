@@ -102,7 +102,7 @@ Here are some suggested resources to help you prepare:
 
 ## Renew your certification
 
-To renew your exam click the _[!DNL Campaign Standard] Business Practitioner renewal - AD5-822 link below_. This redirects you to the Adobe Credential Management system where you can click **[!UICONTROL renew your certification]** tab on the right side of the screen, then search for [!DNL Adobe Campaign] to see the link to the renewal exam.
+Ensure that you have followed step 1 above, and successfully logged in to [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"} first. Then, to renew your exam click the [!DNL Campaign Standard] Business Practitioner renewal - AD5-822 link below. 
 
 * [[!DNL Campaign Standard] Business Practitioner renewal - AD5-822](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=AD5-E822){target="_blank"}
 
@@ -216,7 +216,7 @@ Here are some suggested resources to help you prepare:
 
 ## Renew your certification
 
-To renew your exam click on the "[!DNL Campaign Standard] Developer renewal - AD5-821" link below. This will redirect you to the Adobe Credential Management system where you will click "renew your certification" tab on the right side of the screen > then search for Adobe Campaign to see the link to the renewal exam.
+Ensure that you have followed step 1 above, and successfully logged in to [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"} first. Then, to renew your exam click on the "[!DNL Campaign Standard] Developer renewal - AD5-821" link below.
 
 * [[!DNL Campaign Standard] Developer renewal - AD5-821](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=AD5-E821){target="_blank"}
 
