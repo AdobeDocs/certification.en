@@ -93,7 +93,28 @@ You are not required to complete training before taking the exam, and training a
 
 Here are some suggested resources to help you prepare:
 
-_Coming soon!_
+**Section 1: Connections**
+
+* [Connections overview](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/overview.html?lang=en){target="_blank"} 
+* [Create a connection](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/create-connection.html?lang=en){target="_blank"} 
+
+**Section 2: Data Views**
+
+* [Data views overview](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/data-views.html?lang=en){target="_blank"} 
+* [Component settings](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-settings/overview.html?lang=en){target="_blank"} 
+
+**Section 3: Data Validation and Troubleshooting**
+
+* [Data views overview](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/data-views.html?lang=en){target="_blank"} 
+* [Create or edit a data view](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/create-dataview.html?lang=en){target="_blank"}
+* [Component settings](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-settings/overview.html?lang=en){target="_blank"}
+* [Standard component reference](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-reference.html?lang=en){target="_blank"}
+
+**Section 4: Reporting and Activation**
+
+* [Visualizations overview](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/freeform-analysis-visualizations.html?lang=en){target="_blank"}
+* [Analysis Workspace overview](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/home.html?lang=en){target="_blank"}
+* [Data views overview](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/data-views.html?lang=en){target="_blank"}
 
 >[!TAB Get certified]
 
