@@ -98,9 +98,14 @@ Here are some suggested resources to help you prepare:
 
 **Restart your certification**
 
-This exam is free, open book, and un-proctored. You may take the exam up to three times. If you are unsuccessful after the third attempt, you must wait **30 days** to try again. Failure to comply might result in your certification being revoked.
+Ensure that you have followed step 1 above, and successfully logged in to [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"} first. Then, to renew your certification, click on the Adobe Audience Manager Business Practitioner Expert - AD5-E826 link below.
 
-[!BADGE Take the Adobe Audience Manager Business Practitioner expert renewal exam AD5-E826]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=AD5-E826 newtab=true"} 
+[!BADGE Take the Adobe Audience Manager Business Practitioner Expert renewal exam AD5-E826]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=AD5-E826 newtab=true"} 
+
+>[!NOTE]
+>
+>This exam is free, open book, and un-proctored. You may take the exam up to three times. If you are unsuccessful after the third attempt, you must wait **30 days** to try again. Failure to comply might result in your certification being revoked.
+
 
 >[!TAB Master]
 
@@ -172,11 +177,16 @@ Here are some suggested resources to help you prepare:
 * [AAM: Advanced Features](https://solutionpartners.adobe.com/training/courses/course500092.html){target="_blank"}
 * [ Launch Training & Resources](https://solutionpartners.adobe.com/training/courses/course1326130.html){target="_blank"}
 
-### Restart your certification
+### Renew your certification
 
-This exam is free, open book, and un-proctored. You may take the exam up to three times. If you are unsuccessful after the third attempt, you must wait **30 days** to try again. Failure to comply might result in your certification being revoked.
+Ensure that you have followed step 1 above, and successfully logged in to [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"} first. Then, to renew your certification, click on the Adobe Audience Manager Architect Master renewal - AD5-E825 link below.
 
-[!BADGE Take the Adobe Audience Manager Architect master renewal exam AD5-E825]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=AD5-E825 newtab=true"}
+[!BADGE Take the Adobe Audience Manager Architect Master renewal exam AD5-E825]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=AD5-E825 newtab=true"}
+
+>[!NOTE]
+>
+>This exam is free, open book, and un-proctored. You may take the exam up to three times. If you are unsuccessful after the third attempt, you must wait **30 days** to try again. Failure to comply might result in your certification being revoked.
+
 
 >[!ENDTABS]
 

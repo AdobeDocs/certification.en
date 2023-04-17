@@ -131,15 +131,13 @@ Here are some suggested resources to help you prepare:
 
 ### Renew your certification
 
->[!IMPORTANT]
->
->The following sections and links will function **only**  after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
-
-**Now that you have successfully logged in, the following links will be directly accessible.**
-
-This exam is free, open book, and un-proctored. You may take the exam up to three times. If you are unsuccessful after the third attempt, you must wait **30 days** to try again. Failure to comply might result in your certification being revoked.
+Ensure that you have followed step 1 above, and successfully logged in to [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"} first. Then, to renew your certification, click the Campaign Classic renewal - AD5-823 link below.
 
 [Take the Adobe [!DNL Campaign Classic] renewal for Business Practitioner, Developer and Architect exam now - AD5-823](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=AD5-E823){target="_blank"}
+
+>[!NOTE]
+>
+>This exam is free, open book, and un-proctored. You may take the exam up to three times. If you are unsuccessful after the third attempt, you must wait **30 days** to try again. Failure to comply might result in your certification being revoked.
 
 >[!ENDTABS]
 

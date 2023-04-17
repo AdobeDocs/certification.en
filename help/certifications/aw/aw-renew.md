@@ -95,7 +95,7 @@ Here are some suggested resources to help you prepare:
 
 ## Renew your certification
 
-Ensure that you have followed step 1 above, and successfully logged in to [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"} first. Then, to renew your exam click the Workfront Fusion Developer renewal - AD5-830 link below.
+Ensure that you have followed step 1 above, and successfully logged in to [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"} first. Then, to renew your certification, click the Workfront Fusion Developer renewal - AD5-830 link below.
 
 * [Workfront Fusion Developer renewal - AD5-830](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=AD5-E830){target="_blank"}
 
