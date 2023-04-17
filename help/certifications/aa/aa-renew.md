@@ -50,7 +50,7 @@ In these cases you can provide a customer reference affirming you have participa
 
 **Once your customer reference has been reviewed you will be notified by the Adobe Credential Team.**
 
-The course assessments are free. There is no need to schedule them, and they are not proctored. If you hold multiple Adobe Experience Manager Expert and Master level certifications, you will only need to complete the requirements below and all your AEM certifications will get renewed.
+The course assessments are free. There is no need to schedule them, and they are not proctored. If you hold multiple Adobe Analytics Expert and Master level certifications, you will only need to complete the requirements below and all your Adobe Analytics certifications at this level, will get renewed.
 
 [Customer Reference Form for Adobe Analytics](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADR-EA200){target="_blank"}
 
@@ -67,7 +67,7 @@ The course assessments are free. There is no need to schedule them, and they are
 
 >[!NOTE]
 >
->You can repeat until you have successfully completed three activities or completed the customer reference form.
+>You can repeat until you have successfully completed three activities or completed two activities, plus the customer reference form.
 
 >[!ENDTABS]
 
