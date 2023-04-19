@@ -6,22 +6,22 @@ description: Overview of certification options for Adobe Analytics
 
 **Professional**
 
-| Professional | Exam Number |
+| Professional Role | Exam Number |
 |--- |--- |
-| [Business](/help/certifications/aa/aa-p-business.md) | Exam AD0-E212 |
-| [Developer](/help/certifications/aa/aa-p-developer.md) | Exam AD0-E213 |
+| [Business](/help/certifications/aa/aa-p-business.md) | [!BADGE Exam AD0-E212] |
+| [Developer](/help/certifications/aa/aa-p-developer.md) | [!BADGE Exam AD0-E213] |
 
 **Expert**
 
-| Expert | Exam Number |
+| Expert Role | Exam Number |
 |--- |--- |
-| [Business Practioner](/help/certifications/aa/aa-e-business.md) | Exam AD0-E212 |
-| [Developer](/help/certifications/aa/aa-e-developer.md) | Exam AD0-E213 |
+| [Business Practioner](/help/certifications/aa/aa-e-business.md) | [!BADGE Exam AD0-E208] |
+| [Developer](/help/certifications/aa/aa-e-developer.md) | [!BADGE Exam AD0-E209] |
 
 **Master**
 
-| Expert | Exam Number |
+| Master Role | Exam Number |
 |--- |--- |
-| [Architect](/help/certifications/aa/aa-m-architect.md) | Exam AD0-E213 |
+| [Architect](/help/certifications/aa/aa-m-architect.md) | [!BADGE Exam AD0-E207] |
 
 [Renew Certification](/help/certifications/aa/aa-renew.md)
