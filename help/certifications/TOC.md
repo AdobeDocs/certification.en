@@ -15,12 +15,13 @@ user-guide-description: Learn about [!DNL Experience Cloud] Certification at Ado
 + [FAQ](faq.md)
 + Technical certifications {#technical-certifications}
   + Adobe [!DNL Advertising] {#aac}
+    + [Advertising Overview](/help/certifications/aac/aac-overview.md)
     + Professional {#aac-professional}
       + [Business Practitioner (Search)](/help/certifications/aac/aac-search-p-business.md)
       + [Business Practitioner (DSP)](/help/certifications/aac/aac-dsp-p-business.md)
     + [Renewal](/help/certifications/aac/aac-renew.md)
   + Adobe [!DNL Analytics] {#aa}
-    + [Analytics](/help/certifications/aa/aa-overview.md)
+    + [Analytics Overview](/help/certifications/aa/aa-overview.md)
     + Professional {#aa-professional}
       + [Business Practitioner](/help/certifications/aa/aa-p-business.md)
       + [Developer](/help/certifications/aa/aa-p-developer.md)
@@ -31,6 +32,7 @@ user-guide-description: Learn about [!DNL Experience Cloud] Certification at Ado
       + [Architect](/help/certifications/aa/aa-m-architect.md)
     + [Renewal](/help/certifications/aa/aa-renew.md)
   + Adobe [!DNL Customer Journey Analytics] {#acja}
+    + [Customer Journey Analytics Overview](/help/certifications/acja/acja-overview.md)
     + Expert {#acja-expert}
       + [Developer](/help/certifications/acja/acja-e-developer.md)
   + Adobe [!DNL Audience Manager] {#aam}
