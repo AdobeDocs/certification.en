@@ -45,6 +45,7 @@ user-guide-description: Learn about [!DNL Experience Cloud] Certification at Ado
       + [Architect](/help/certifications/aam/aam-m-architect.md)
     + [Renewal](/help/certifications/aam/aam-renew.md)
   + Adobe [!DNL Campaign Classic] {#acc}
+    + [Campaign Classic Overview](/help/certifications/acc/acc-overview.md)
     + Professional {#acc-professional}
       + [Business Practitioner](/help/certifications/acc/acc-p-business.md)
       + [Developer](/help/certifications/acc/acc-p-developer.md)
@@ -55,6 +56,7 @@ user-guide-description: Learn about [!DNL Experience Cloud] Certification at Ado
       + [Architect](/help/certifications/acc/acc-m-developer.md)
     + [Renewal](/help/certifications/acc/acc-renew.md)
   + Adobe [!DNL Campaign Standard] {#acs}
+    + [Campaign Classic Overview](/help/certifications/acs/acs-overview.md)
     + Expert {#acs-expert}
       + [Business Practitioner](/help/certifications/acs/acs-e-business.md)
       + [Developer](/help/certifications/acs/acs-e-developer.md)
