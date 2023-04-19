@@ -20,6 +20,7 @@ user-guide-description: Learn about [!DNL Experience Cloud] Certification at Ado
       + [Business Practitioner (DSP)](/help/certifications/aac/aac-dsp-p-business.md)
     + [Renewal](/help/certifications/aac/aac-renew.md)
   + Adobe [!DNL Analytics] {#aa}
+    + [Analytics](/help/certifications/aa/aa-overview.md)
     + Professional {#aa-professional}
       + [Business Practitioner](/help/certifications/aa/aa-p-business.md)
       + [Developer](/help/certifications/aa/aa-p-developer.md)
