@@ -6,15 +6,22 @@ description: Overview of certification options for Adobe Analytics
 
 **Professional**
 
-| Type | Exam Number |
+| Professional | Exam Number |
 |--- |--- |
-| [Professional - Business](/help/certifications/aa/aa-p-business.md) | Exam AD0-E212 |
-| [Professional - Developer](/help/certifications/aa/aa-p-developer.md) | Exam AD0-E213 |
+| [Business](/help/certifications/aa/aa-p-business.md) | Exam AD0-E212 |
+| [Developer](/help/certifications/aa/aa-p-developer.md) | Exam AD0-E213 |
 
 **Expert**
 
+| Expert | Exam Number |
+|--- |--- |
+| [Business Practioner](/help/certifications/aa/aa-e-business.md) | Exam AD0-E212 |
+| [Developer](/help/certifications/aa/aa-e-developer.md) | Exam AD0-E213 |
+
 **Master**
 
-
+| Expert | Exam Number |
+|--- |--- |
+| [Architect](/help/certifications/aa/aa-m-architect.md) | Exam AD0-E213 |
 
 [Renew Certification](/help/certifications/aa/aa-renew.md)
