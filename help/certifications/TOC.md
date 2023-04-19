@@ -36,6 +36,7 @@ user-guide-description: Learn about [!DNL Experience Cloud] Certification at Ado
     + Expert {#acja-expert}
       + [Developer](/help/certifications/acja/acja-e-developer.md)
   + Adobe [!DNL Audience Manager] {#aam}
+    + [Audience Manager Overview](/help/certifications/aam/aam-overview.md)
     + Professional {#aam-professional}
       + [Business Practitioner](/help/certifications/aam/aam-p-business.md)
     + Expert {#aam-expert}

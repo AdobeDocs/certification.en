@@ -8,7 +8,7 @@ description: Overview of certification options for Adobe Analytics
 
 | Professional Role | Exam Number |
 |--- |--- |
-| [Business](/help/certifications/aa/aa-p-business.md) | [!BADGE Exam AD0-E212]{type=Positive} |
+| [Business Practioner](/help/certifications/aa/aa-p-business.md) | [!BADGE Exam AD0-E212]{type=Positive} |
 | [Developer](/help/certifications/aa/aa-p-developer.md) | [!BADGE Exam AD0-E213]{type=Positive} |
 
 **Expert**

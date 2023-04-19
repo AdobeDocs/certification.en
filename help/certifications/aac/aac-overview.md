@@ -8,6 +8,7 @@ description: Overview of certification options for Adobe Advertising
 
 | Professional Role | Exam Number |
 |--- |--- |
-| [Business](/help/certifications/aac/aac-dsp-p-business.md) | [!BADGE Exam AD0-E502]{type=Positive} |
+| [Business Practitioner (Search)](/help/certifications/aac/aac-search-p-business.md) | [!BADGE Exam AD0-E501]{type=Positive} |
+| [Business Practitioner (DSP)](/help/certifications/aac/aac-dsp-p-business.md) | [!BADGE Exam AD0-E502]{type=Positive} |
 
 [Renew Certification](/help/certifications/aac/aac-renew.md)
