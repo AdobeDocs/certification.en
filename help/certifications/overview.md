@@ -9,7 +9,7 @@ exl-id: 6ee30cfb-2b7b-4795-9061-adbd6cae18a4
 
 Learn about Certification at Adobe and what getting certified can do for you.
 
-![Banner](/help/certifications/assets/home_banner_narrow.png)
+![Banner](/help/certifications/assets/home_banner_small.png)
 
 The Adobe [!DNL Experience Cloud] is a suite of digital marketing solutions that enables businesses to deliver personalized customer experiences across multiple channels, including web, mobile, email, and social media. [!DNL Experience Cloud] includes a range of products, such as Adobe [!DNL Real-Time CDP], Adobe [!DNL Experience Manager], [!DNL Adobe Commerce], [!DNL Adobe Journey Optimizer], [!DNL Adobe Customer Analytics], and more.
 
