@@ -92,6 +92,7 @@ user-guide-description: Learn about [!DNL Experience Cloud] Certification at Ado
       + [Architect (Sites)](/help/certifications/aem/aem-sites-m-architect.md)
     + [Renewal](/help/certifications/aem/aem-renew.md)
   + Adobe [!DNL Marketo Engage] {#ame}
+    + [Marketo Engage Overview](/help/certifications/ame/ame-overview.md)
     + Professional {#ame-professional}
       + [Certified Professional](/help/certifications/ame/ame-p.md)
     + Expert {#ame-expert}

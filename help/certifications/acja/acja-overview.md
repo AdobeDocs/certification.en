@@ -6,9 +6,7 @@ description: Overview of certification options for Adobe Customer Journey Analyt
 
 **Expert**
 
-| Expert Role | Exam Number |
-|--- |--- |
-| [Developer](/help/certifications/acja/acja-e-developer.md) | [!BADGE Exam AD0-E604]{type=Positive} |
+* [Developer](/help/certifications/acja/acja-e-developer.md) <!--AD0-E604-->
 
 <!--
 [Renew Certification](/help/certifications/aa/aa-renew.md)

@@ -6,20 +6,14 @@ description: Overview of certification options for Adobe Audience Manager
 
 **Professional**
 
-| Professional Role | Exam Number |
-|--- |--- |
-| [Business Practioner](/help/certifications/aam/aam-p-business.md) | [!BADGE Exam AD0-E458]{type=Positive} |
+* [Business Practioner](/help/certifications/aam/aam-p-business.md) <!--AD0-E458-->
 
 **Expert**
 
-| Expert Role | Exam Number |
-|--- |--- |
-| [Business Practioner](/help/certifications/aam/aam-e-business.md) | [!BADGE Exam AD0-E457]{type=Positive} |
+* [Business Practioner](/help/certifications/aam/aam-e-business.md) <!--AD0-E457-->
 
 **Master**
 
-| Master Role | Exam Number |
-|--- |--- |
-| [Architect](/help/certifications/aam/aam-m-architect.md) | [!BADGE Exam AD0-E454]{type=Positive} |
+* [Architect](/help/certifications/aam/aam-m-architect.md) <!--AD0-E454-->
 
 [Renew Certification](/help/certifications/aam/aam-renew.md)
