@@ -1,6 +1,8 @@
 ---
 title: Advertising Certification Overview
 description: Overview of certification options for Adobe Advertising
+solution: Advertising
+product: Advertising Cloud
 ---
 # Advertising Certification Overview
 

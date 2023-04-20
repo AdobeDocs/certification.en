@@ -1,6 +1,8 @@
 ---
 title: Audience Manager Certification Overview
 description: Overview of certification options for Adobe Audience Manager
+solution: Audience Manager
+product: Audience Manager
 ---
 # Audience Manager Certification Overview
 

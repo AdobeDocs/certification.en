@@ -1,6 +1,7 @@
 ---
 title: Workfront Certification Overview
 description: Overview of certification options for Adobe Workfront
+solution: Workfront
 ---
 # Workfront Certification Overview
 

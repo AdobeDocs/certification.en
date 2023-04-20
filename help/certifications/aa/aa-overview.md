@@ -1,6 +1,8 @@
 ---
 title: Analytics Certification Overview
 description: Overview of certification options for Adobe Analytics
+solution: Analytics
+product: Analytics
 ---
 # Analytics Certification Overview
 

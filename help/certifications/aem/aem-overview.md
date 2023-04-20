@@ -1,6 +1,7 @@
 ---
 title: Experience Manager Certification Overview
 description: Overview of certification options for Adobe Experience Manager
+solution: Experience Manager
 ---
 # Experience Manager Certification Overview
 

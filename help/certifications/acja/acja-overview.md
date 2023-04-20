@@ -1,6 +1,8 @@
 ---
 title: Customer Journey Analytics Certification Overview
 description: Overview of certification options for Adobe Customer Journey Analytics
+solution: Customer Journey Analytics
+product: Customer Journey Analytics
 ---
 # Customer Journey Analytics Certification Overview
 

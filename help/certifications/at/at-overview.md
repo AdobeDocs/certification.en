@@ -1,6 +1,7 @@
 ---
 title: Target Certification Overview
 description: Overview of certification options for Adobe Target
+solution: Target
 ---
 # Target Certification Overview
 

@@ -1,6 +1,7 @@
 ---
 title: Journey Optimizer Certification Overview
 description: Overview of certification options for Adobe Journey Optimizer
+solution: Journey Optimizer
 ---
 # Journey Optimizer Certification Overview
 

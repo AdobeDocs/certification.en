@@ -1,8 +1,9 @@
 ---
-title: Marketo Engage Certification Overview
-description: Overview of certification options for Adobe Marketo Engage
+title: Real-Time CDP Certification Overview
+description: Overview of certification options for Adobe Real-Time CDP
+solution: Real-time Customer Data Platform
 ---
-# Marketo Engage Certification Overview
+# Real-Time CDP Certification Overview
 
 **Professional**
 

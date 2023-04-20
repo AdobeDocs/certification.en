@@ -1,6 +1,7 @@
 ---
 title: Document Cloud Certification Overview
 description: Overview of certification options for Adobe Document Cloud
+solution: Document Cloud
 hide: yes
 hidefromtoc: yes
 ---

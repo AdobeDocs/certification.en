@@ -1,6 +1,8 @@
 ---
 title: Campaign Standard Certification Overview
 description: Overview of certification options for Adobe Campaign Standard
+solution: Campaign, Campaign Standard
+version: Standard
 ---
 # Campaign Standard Certification Overview
 

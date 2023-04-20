@@ -1,6 +1,8 @@
 ---
 title: Campaign Classic Certification Overview
 description: Overview of certification options for Adobe Campaign Classic
+solution: Campaign, Campaign Classic v7
+version: Classic v7
 ---
 # Campaign Classic Certification Overview
 

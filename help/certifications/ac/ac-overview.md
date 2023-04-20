@@ -1,6 +1,8 @@
 ---
 title: Commerce Certification Overview
 description: Overview of certification options for Adobe Commerce
+solution: Commerce
+product: Magento
 ---
 # Commerce Certification Overview
 
