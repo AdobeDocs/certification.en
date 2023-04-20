@@ -118,6 +118,7 @@ user-guide-description: Learn about [!DNL Experience Cloud] Certification at Ado
       + [Developer](/help/certifications/ajo/ajo-e-developer.md)
     + [Renewal](/help/certifications/ajo/ajo-renew.md)
   + Adobe [!DNL Target] {#at}
+    + [Target Overview](/help/certifications/at/at-overview.md)
     + Professional {#at-professional}
       + [Business Practitioner](/help/certifications/at/at-p-business.md)
     + Expert {#at-expert}
@@ -126,6 +127,7 @@ user-guide-description: Learn about [!DNL Experience Cloud] Certification at Ado
       + [Architect](/help/certifications/at/at-m-architect.md)
     + [Renewal](/help/certifications/at/at-renew.md)
   + Adobe [!DNL Workfront] {#aw}
+    + [Workfront Overview](/help/certifications/aw/aw-overview.md)
     + Professional {#aw-professional}
       + [Developer (Fusion)](/help/certifications/aw/aw-fusion-p-developer.md)
       + [Project Manager](/help/certifications/aw/aw-p-project-manager.md)
