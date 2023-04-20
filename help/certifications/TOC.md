@@ -56,13 +56,13 @@ user-guide-description: Learn about [!DNL Experience Cloud] Certification at Ado
       + [Architect](/help/certifications/acc/acc-m-developer.md)
     + [Renewal](/help/certifications/acc/acc-renew.md)
   + Adobe [!DNL Campaign Standard] {#acs}
-    + [Campaign Classic Overview](/help/certifications/acs/acs-overview.md)
+    + [Campaign Standard Overview](/help/certifications/acs/acs-overview.md)
     + Expert {#acs-expert}
       + [Business Practitioner](/help/certifications/acs/acs-e-business.md)
       + [Developer](/help/certifications/acs/acs-e-developer.md)
     + [Renewal](/help/certifications/acs/acs-renew.md)
   + Adobe [!DNL Commerce] {#ac}
-    + [Analytics Overview](/help/certifications/ac/ac-overview.md)
+    + [Commerce Overview](/help/certifications/ac/ac-overview.md)
     + Professional {#ac-professional}
       + [Business Practitioner](/help/certifications/ac/ac-p-business.md)
       + [Developer](/help/certifications/ac/ac-p-developer.md)
@@ -75,6 +75,7 @@ user-guide-description: Learn about [!DNL Experience Cloud] Certification at Ado
       + [Architect](/help/certifications/ac/ac-m-architect.md)
     + [Renewal](/help/certifications/ac/ac-renew.md)
   + Adobe [!DNL Experience Manager] {#aem}
+    + [Experience Manager Overview](/help/certifications/aem/aem-overview.md)
     + Professional {#aem-professional}
       + [Business Practitioner](/help/certifications/aem/aem-p-business.md)
       + [Developer (Sites)](/help/certifications/aem/aem-sites-p-developer.md)
@@ -88,7 +89,7 @@ user-guide-description: Learn about [!DNL Experience Cloud] Certification at Ado
       + [Developer (Forms)](/help/certifications/aem/aem-forms-e-developer.md)
       + [Cloud Service Migration](/help/certifications/aem/aem-cs-e-migration.md)
     + Master {#aem-master}
-      + [Architect (Sites)](/help/certifications/aem/aem-sites-m-archtiect.md)
+      + [Architect (Sites)](/help/certifications/aem/aem-sites-m-architect.md)
     + [Renewal](/help/certifications/aem/aem-renew.md)
   + Adobe [!DNL Marketo Engage] {#ame}
     + Professional {#ame-professional}
