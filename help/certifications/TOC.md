@@ -100,17 +100,20 @@ user-guide-description: Learn about [!DNL Experience Cloud] Certification at Ado
     + Master {#ame-master}
       + [Architect](/help/certifications/ame/ame-m-architect.md)
     + [Renewal](/help/certifications/ame/ame-renew.md)
-  + Adobe [!DNL Doc Cloud] {#adc}
+  + Adobe [!DNL Document Cloud] {#adc}
+    + [Document Cloud Overview](/help/certifications/adc/adc-overview.md)
     + Professional {#adc-professional}
       + [Business Practitioner](/help/certifications/adc/adc-professional.md)
     + [Renewal](/help/certifications/adc/adc-renew.md)
   + Adobe Real-Time CDP {#rtcdp}
+    + [Real-Time CDP Overview](/help/certifications/rtcdp/rtcdp-overview.md)
     + Professional {#rtcdp-professional}
       + [Business Practitioner](/help/certifications/rtcdp/rtcdp-p-business.md)
     + Expert {#rtcdp-expert}
       + [Technical Practitioner](/help/certifications/rtcdp/rtcdp-e-technical.md)
     + [Renewal](/help/certifications/rtcdp/rtcdp-renew.md)
   + Adobe [!DNL Journey Optimizer] {#ajo}
+    + [Journey Optimizer Overview](/help/certifications/ajo/ajo-overview.md)
     + Expert {#ajo-expert}
       + [Developer](/help/certifications/ajo/ajo-e-developer.md)
     + [Renewal](/help/certifications/ajo/ajo-renew.md)
