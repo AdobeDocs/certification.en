@@ -62,6 +62,7 @@ user-guide-description: Learn about [!DNL Experience Cloud] Certification at Ado
       + [Developer](/help/certifications/acs/acs-e-developer.md)
     + [Renewal](/help/certifications/acs/acs-renew.md)
   + Adobe [!DNL Commerce] {#ac}
+    + [Analytics Overview](/help/certifications/ac/ac-overview.md)
     + Professional {#ac-professional}
       + [Business Practitioner](/help/certifications/ac/ac-p-business.md)
       + [Developer](/help/certifications/ac/ac-p-developer.md)
