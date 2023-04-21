@@ -38,4 +38,25 @@ description: Overview of certification options for Professional users
 * [Back-end Developer (Forms)](/help/certifications/aem/aem-forms-p-bedeveloper.md) <!--AD0-E127-->
 * [Technical Foundations](/help/certifications/aem/aem-p-foundations.md) <!--AD0-E132-->
 
-IN PROGRESS
+**Marketo Engage**
+
+* [Certified Professional](/help/certifications/ame/ame-p.md) <!--AD0-E555-->
+
+**Real-Time CDP**
+
+* [Business Practitioner](/help/certifications/rtcdp/rtcdp-p-business.md) <!--AD0-E602-->
+
+**Target**
+
+* [Certified Professional](/help/certifications/at/at-p-business.md) <!--AD0-E408-->
+
+**Workfront**
+
+* [Developer (Fusion)](/help/certifications/aw/aw-fusion-p-developer.md) <!--AD0-E902-->
+* [Project Manager](/help/certifications/aw/aw-p-project-manager.md) <!--AD0-E903-->
+* [Developer (Core)](/help/certifications/aw/aw-core-p-developer.md) <!--AD0-E905-->
+
+>[!MORELIKETHIS]
+>
+>* [Expert technical certifications](expert.md)
+>* [Master technical certifications](master.md)
