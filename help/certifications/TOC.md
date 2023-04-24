@@ -4,7 +4,7 @@ breadcrumb-title: Certification at Adobe
 user-guide-description: Learn about [!DNL Experience Cloud] Certification at Adobe. Find out what getting certified can do for you.
 ---
 
-# Certification at Adobe {#certification}
+# Certification at Adobe {#program}
 
 + [Certification home](overview.md)
 + [Get started](getting-started.md)
