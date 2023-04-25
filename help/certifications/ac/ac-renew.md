@@ -52,11 +52,11 @@ The course assessments are free. There is no need to schedule them, and they are
 
 | Course | Course Assessment |
 | ------- | ------- |
-| [Adobe [!DNL Commerce] E-Commerce Trends](https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/on-device-decisioning-overview.html?lang=en){target="_blank"} | [ADR-EA714](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADR-EA714){target="_blank"} |
-| [Adobe [!DNL Commerce] Personalization](https://business.adobe.com/summit/2021/sessions/adobe-target-innovations-in-personalization-s901.html){target="_blank"} | [ADR-EA715](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADR-EA715){target="_blank"} |
-| [Adobe [!DNL Commerce] AI Automation](https://experienceleague.adobe.com/?recommended=Target-D-1-2020.1.mobile){target="_blank"} | [ADR-EA716](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADR-EA716){target="_blank"} |
-| [[!DNL Commerce]: Data Integrations to Experience Platform & Beyond](https://experienceleague.adobe.com/?recommended=Target-D-1-2019.1.web){target="_blank"} | [ADR-EA720](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADR-EA720){target="_blank"} |
-| [[!DNL Commerce]: Composable Commerce on Adobe [!DNL Commerce]](https://experienceleague.adobe.com/?recommended=Target-D-1-2019.1.web){target="_blank"} | [ADR-EA721](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADR-EA721){target="_blank"} |
+| [Adobe [!DNL Commerce] E-Commerce Trends](https://experienceleague.adobe.com/docs/commerce-events/events/commerce-and-coffee/2022/ecommerce-trends.html?lang=en){target="_blank"} | [ADR-EA714](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADR-EA714){target="_blank"} |
+| [Adobe [!DNL Commerce] Personalization](https://experienceleague.adobe.com/docs/commerce-events/events/commerce-and-coffee/2022/personalization.html?lang=en){target="_blank"} | [ADR-EA715](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADR-EA715){target="_blank"} |
+| [Adobe [!DNL Commerce] AI Automation](https://experienceleague.adobe.com/docs/commerce-events/events/commerce-and-coffee/2022/ai-and-automation.html?lang=en){target="_blank"} | [ADR-EA716](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADR-EA716){target="_blank"} |
+| [[!DNL Commerce]: Data Integrations to Experience Platform & Beyond](https://video.tv.adobe.com/v/3413334/){target="_blank"} | [ADR-EA720](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADR-EA720){target="_blank"} |
+| [[!DNL Commerce]: Composable Commerce on Adobe [!DNL Commerce]](https://video.tv.adobe.com/v/3413335/){target="_blank"} | [ADR-EA721](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADR-EA721){target="_blank"} |
 
 >[!NOTE]
 >
@@ -96,11 +96,11 @@ certifications at this level, will get renewed.
 
 | Course | Course Assessment |
 | ------- | ------- |
-| [Adobe [!DNL Commerce] E-Commerce Trends](https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/on-device-decisioning-overview.html?lang=en){target="_blank"} | [ADR-EA703](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADR-EA703){target="_blank"} |
-| [Adobe [!DNL Commerce] Personalization](https://business.adobe.com/summit/2021/sessions/adobe-target-innovations-in-personalization-s901.html){target="_blank"} | [ADR-EA704](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADR-EA704){target="_blank"} |
-| [Adobe [!DNL Commerce] AI Automation](https://experienceleague.adobe.com/?recommended=Target-D-1-2020.1.mobile){target="_blank"} | [ADR-EA705](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADR-EA705){target="_blank"} |
-| [[!DNL Commerce]: Data Integrations to Experience Platform & Beyond](https://experienceleague.adobe.com/?recommended=Target-D-1-2019.1.web){target="_blank"} | [ADR-EA709](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADR-EA709){target="_blank"} |
-| [[!DNL Commerce]: Composable Commerce on Adobe [!DNL Commerce]](https://experienceleague.adobe.com/?recommended=Target-D-1-2019.1.web){target="_blank"} | [ADR-EA710](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADR-EA710){target="_blank"} |
+| [Adobe [!DNL Commerce] E-Commerce Trends](https://experienceleague.adobe.com/docs/commerce-events/events/commerce-and-coffee/2022/ecommerce-trends.html?lang=en){target="_blank"} | [ADR-EA703](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADR-EA703){target="_blank"} |
+| [Adobe [!DNL Commerce] Personalization](https://experienceleague.adobe.com/docs/commerce-events/events/commerce-and-coffee/2022/personalization.html?lang=en){target="_blank"} | [ADR-EA704](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADR-EA704){target="_blank"} |
+| [Adobe [!DNL Commerce] AI Automation](https://experienceleague.adobe.com/docs/commerce-events/events/commerce-and-coffee/2022/ai-and-automation.html?lang=en){target="_blank"} | [ADR-EA705](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADR-EA705){target="_blank"} |
+| [[!DNL Commerce]: Data Integrations to Experience Platform & Beyond](https://video.tv.adobe.com/v/3413334/){target="_blank"} | [ADR-EA709](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADR-EA709){target="_blank"} |
+| [[!DNL Commerce]: Composable Commerce on Adobe [!DNL Commerce]](https://video.tv.adobe.com/v/3413335/){target="_blank"} | [ADR-EA710](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADR-EA710){target="_blank"} |
 
 >[!NOTE]
 >
