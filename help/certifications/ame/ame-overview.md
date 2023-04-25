@@ -2,6 +2,7 @@
 title: Marketo Engage Certification Overview
 description: Overview of certification options for Adobe Marketo Engage
 solution: Experience Manager
+exl-id: e86c3ed5-84b1-47d5-a852-d87d3f232c11
 ---
 # Marketo Engage Certification Overview
 

@@ -3,6 +3,7 @@ title: Campaign Classic Certification Overview
 description: Overview of certification options for Adobe Campaign Classic
 solution: Campaign, Campaign Classic v7
 version: Classic v7
+exl-id: 70d2e3e2-5e58-43e2-b093-15cdb16f0a0c
 ---
 # Campaign Classic Certification Overview
 

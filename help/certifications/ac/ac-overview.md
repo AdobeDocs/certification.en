@@ -3,6 +3,7 @@ title: Commerce Certification Overview
 description: Overview of certification options for Adobe Commerce
 solution: Commerce
 product: Magento
+exl-id: 31e38071-d2a2-4b99-93c0-62cf5a2a9c03
 ---
 # Commerce Certification Overview
 

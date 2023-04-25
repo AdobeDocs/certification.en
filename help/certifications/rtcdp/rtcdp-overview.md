@@ -2,6 +2,7 @@
 title: Real-Time CDP Certification Overview
 description: Overview of certification options for Adobe Real-Time CDP
 solution: Real-time Customer Data Platform
+exl-id: 389377d8-5a73-418a-afb4-9428d3aef990
 ---
 # Real-Time CDP Certification Overview
 
