@@ -3,6 +3,7 @@ title: Analytics Certification Overview
 description: Overview of certification options for Adobe Analytics
 solution: Analytics
 product: Analytics
+exl-id: e765bf4c-e0bc-45d7-a5c7-f501aad7fdd2
 ---
 # Analytics Certification Overview
 
