@@ -13,4 +13,4 @@ solution: Real-time Customer Data Platform
 
 * [Technical Practioner](/help/certifications/rtcdp/rtcdp-e-technical.md) <!--AD0-E600 and E601-->
 
-[Renew Certification](/help/certifications/rtcdp/rtcdp-renew.md)
+Visit the [Renew your certification](/help/certifications/renew.md) page to see if a renewal option is available for this product.

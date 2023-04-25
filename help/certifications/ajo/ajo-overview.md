@@ -9,4 +9,4 @@ solution: Journey Optimizer
 
 * [Developer](/help/certifications/ajo/ajo-e-developer.md) <!--AD0-E603-->
 
-[Renew Certification](/help/certifications/ajo/ajo-renew.md)
+Visit the [Renew your certification](/help/certifications/renew.md) page to see if a renewal option is available for this product.

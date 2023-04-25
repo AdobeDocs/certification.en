@@ -16,5 +16,5 @@ solution: Workfront
 * [Developer (Core)](/help/certifications/aw/aw-core-e-developer.md) <!--AD0-E904-->
 * [AEM Enhanced Connector](/help/certifications/aw/aw-aem-e-connector.md) <!--AD0-E906-->
 
-[Renew Certification](/help/certifications/aw/aw-renew.md)
+Visit the [Renew your certification](/help/certifications/renew.md) page to see if a renewal option is available for this product.
  

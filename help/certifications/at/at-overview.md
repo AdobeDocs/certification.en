@@ -17,5 +17,5 @@ solution: Target
 
 * [Architect](/help/certifications/at/at-m-architect.md) <!--AD0-E407-->
 
-[Renew Certification](/help/certifications/at/at-renew.md)
+Visit the [Renew your certification](/help/certifications/renew.md) page to see if a renewal option is available for this product.
  

@@ -20,4 +20,4 @@ version: Classic v7
 
 * [Developer](/help/certifications/acc/acc-m-developer.md) <!--AD0-E328-->
 
-[Renew Certification](/help/certifications/acc/acc-renew.md)
+Visit the [Renew your certification](/help/certifications/renew.md) page to see if a renewal option is available for this product.

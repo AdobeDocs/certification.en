@@ -11,4 +11,4 @@ product: Advertising Cloud
 * [Business Practitioner (Search)](/help/certifications/aac/aac-search-p-business.md) <!--AD0-E501-->
 * [Business Practitioner (DSP)](/help/certifications/aac/aac-dsp-p-business.md) <!--AD0-E502-->
 
-[Renew Certification](/help/certifications/aac/aac-renew.md)
+Visit the [Renew your certification](/help/certifications/renew.md) page to see if a renewal option is available for this product.

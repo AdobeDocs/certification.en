@@ -25,4 +25,4 @@ solution: Experience Manager
 
 * [Architect (Sites)](/help/certifications/aem/aem-sites-m-architect.md) <!--AD0-E117-->
 
-[Renew Certification](/help/certifications/aem/aem-renew.md)
+Visit the [Renew your certification](/help/certifications/renew.md) page to see if a renewal option is available for this product.

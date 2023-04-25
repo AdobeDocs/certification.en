@@ -22,4 +22,4 @@ product: Magento
 
 * [Architect](/help/certifications/ac/ac-m-architect.md) <!--AD0-E718-->
 
-[Renew Certification](/help/certifications/ac/ac-renew.md)
+Visit the [Renew your certification](/help/certifications/renew.md) page to see if a renewal option is available for this product.

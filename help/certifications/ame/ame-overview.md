@@ -17,4 +17,4 @@ solution: Experience Manager
 
 * [Architect](/help/certifications/ame/ame-m-architect.md) <!--AD0-E556-->
 
-[Renew Certification](/help/certifications/ame/ame-renew.md)
+Visit the [Renew your certification](/help/certifications/renew.md) page to see if a renewal option is available for this product.

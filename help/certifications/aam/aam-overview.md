@@ -18,4 +18,4 @@ product: Audience Manager
 
 * [Architect](/help/certifications/aam/aam-m-architect.md) <!--AD0-E454-->
 
-[Renew Certification](/help/certifications/aam/aam-renew.md)
+Visit the [Renew your certification](/help/certifications/renew.md) page to see if a renewal option is available for this product.

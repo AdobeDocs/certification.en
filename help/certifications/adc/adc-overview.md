@@ -11,4 +11,4 @@ hidefromtoc: yes
 
 * [Business Practitioner (Search)](/help/certifications/adc/adc-professional.md) <!--AD0-??-->
 
-[Renew Certification](/help/certifications/adc/adc-renew.md)
+Visit the [Renew your certification](/help/certifications/renew.md) page to see if a renewal option is available for this product.
