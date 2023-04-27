@@ -32,17 +32,17 @@ Adobe [!DNL Experience Cloud] offers three different levels of certification: Pr
 
 These levels reflect a progression of proficiency and knowledge, with the Professional certification being the entry-level certification, Expert being the intermediate level, and Master being the highest level of certification.
 
-| ![Professional Badge](/help/certifications/assets/professional-badge-Xsmall.png)  | **Professional certifications** validate that a candidate has a foundational understanding of Adobe's digital marketing solutions. The certification exam covers basic concepts and functionalities of Adobe [!DNL Experience Cloud]. |
-| --------- | ------- |
-
-{style="table-layout:auto"}
-
-| ![Expert Badge](/help/certifications/assets/expert-badge-Xsmall.png) | **Expert certifications** are for professionals who have a more advanced understanding of Adobe's digital marketing solutions. The certification exam covers more complex concepts and functionalities of Adobe [!DNL Experience Cloud], including implementation and troubleshooting. |
+|![Professional Badge](/help/certifications/assets/professional-badge-Xsmall.png)| **Professional certifications** validate that a candidate has a foundational understanding of Adobe's digital marketing solutions. The certification exam covers basic concepts and functionalities of Adobe [!DNL Experience Cloud]. |
 | ------- | ------- |
 
 {style="table-layout:auto"}
 
-| ![Master Badge](/help/certifications/assets/master-badge-Xsmall.png) | **Master certifications** are for professionals who have an in-depth understanding of Adobe's digital marketing solutions and have demonstrated expertise in multiple areas of Adobe [!DNL Experience Cloud]. The certification exam covers advanced topics and scenarios, including complex integrations, customizations, and troubleshooting.|
+|![Expert Badge](/help/certifications/assets/expert-badge-Xsmall.png)| **Expert certifications** are for professionals who have a more advanced understanding of Adobe's digital marketing solutions. The certification exam covers more complex concepts and functionalities of Adobe [!DNL Experience Cloud], including implementation and troubleshooting. |
+| ------- | ------- |
+
+{style="table-layout:auto"}
+
+|![Master Badge](/help/certifications/assets/master-badge-Xsmall.png)| **Master certifications** are for professionals who have an in-depth understanding of Adobe's digital marketing solutions and have demonstrated expertise in multiple areas of Adobe [!DNL Experience Cloud]. The certification exam covers advanced topics and scenarios, including complex integrations, customizations, and troubleshooting.|
 | ------- | ------- |
 
 {style="table-layout:auto"}
