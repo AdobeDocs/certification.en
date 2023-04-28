@@ -82,10 +82,10 @@ The Adobe Credential team partners with vendors to help support the program's in
 
 | Vendor Name | Description | Support Page/Email |
 | ------- | ------- | ------- |
-| Credly | Badge Management System | [Support](https://credlyissuer.zendesk.com/hc/en-us){target="_blank"} |
-| Examity | Test Delivery Vendor (only Online Proctoring) | support@examity.com or 855-Examity (855-392-6489) |
-| PSI  | Test Delivery Vendor for Proctored exams at a location or in Japanese | adobe.psisupport@psionline.com |
-| Xvoucher - Adobe Certification Voucher Center | Voucher center to purchase individual or bulk vouchers | support@xvoucher.com or [Online help](https://help.xvoucher.com/hc/en-us){target="_blank"} |
+|Credly| Badge Management System |[Support](https://credlyissuer.zendesk.com/hc/en-us){target="_blank"} |
+|Examity|Test Delivery Vendor (only Online Proctoring)| [Email](mailto:support@examity.com){target="_blank"} or 855-Examity (855-392-6489) |
+|PSI|Test Delivery Vendor for Proctored exams at a location or in Japanese|[Email](mailto:adobe.psisupport@psionline.com){target="_blank"}|
+|Xvoucher - Adobe Certification Voucher Center|Voucher center to purchase individual or bulk vouchers|[Email](mailto:support@xvoucher.com){target="_blank"} or [Online help](https://help.xvoucher.com/hc/en-us)|
 
 Other Vendor Resources:
 
