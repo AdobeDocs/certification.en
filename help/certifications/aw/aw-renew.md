@@ -21,7 +21,7 @@ We're happy to announce that you are now able to renew your certification via a 
 
 >[!TAB Professional]
 
-+++Workfront Fusion Developer
++++Workfront Fusion Developer Professional
 
 ## Instructions for renewing your certification:
 
@@ -34,11 +34,11 @@ We're happy to announce that you are now able to renew your certification via a 
 **Exam details:**
   
 * Passing Score: 25/34
-* Time: 66 mins
+* Time: 68 mins
 * Cost: FREE/non-proctored
 * Delivery: On-demand
 * Available languages: English
-* Prerequisite: current (not expired) Adobe Workfront Fusion Developer certification
+* Prerequisite: current (not expired) Adobe Workfront Fusion Developer Professional certification
 * Exam ID: AD5-E830
 
 **Scope and objectives**
@@ -105,11 +105,247 @@ Ensure that you have followed step 1 above, and successfully logged in to [Adobe
 
 +++
 
->[!TAB Expert]
++++Workfront Project Manager Professional
+
+## Instructions for renewing your certification:
+
+* **Step 1**: Successfully log in to [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}, then return to this page
+* **Step 2**: Review the exam objectives and resources
+* **Step 3**: Take and pass the exam
+
+### Get ready
+
+**Exam details:**
+  
+* Passing Score: 25/35
+* Time: 70 mins
+* Cost: FREE/non-proctored
+* Delivery: On-demand
+* Available languages: English
+* Prerequisite: current (not expired) Adobe Workfront Project Manager Professional certification
+* Exam ID: AD5-E833
+
+**Scope and objectives**
+
+Section 1: Intake and Planning (29%)
+
+* Given a request, review the custom data to determine the appropriate action. (Consider attached documents, approval required, how complete the data is, priority, etc.)
+* Given a scenario, determine the sharing permissions that are required for an activity. (Consider dashboard/report sharing, actions on a task or request, visibility, inherited permissions, agile, etc.)
+* Given a scenario, determine the appropriate task settings to plan the execution of a task in a specific time frame. (Consider duration, planned hours, constraint and task or cross-project predecessors, lead and lag on predecessors, task assignment and time-off.)
+* Identify the correct hierarchy of objects in Workfront. (Consider portfolios, programs, projects, tasks, and issues.)
+* Given a persona, determine the intake or planning reports/dashboards that are helpful for the persona during the work intake or planning stage of the project/work process. (Consider project owners, executives / sponsors, task assignees, requestors, etc.)
+
+Section 2: Execute (59%)
+
+* Create Workfront Single Use Approvals and when an Approval would be used. (Consider Project and Task Approvals, Multipath Approvals, and Multistage Approvals.)
+* Given a scenario, identify the information that date types convey to a project manager. (Consider Planned Dates, Actual Dates, Manual Dates, Commit Dates, Estimate Dates)
+* Given a scenario, determine how different Task Constraints affect the project timeline when used. (Consider the understanding of what the different task constraints do, knowing what the different task constraints are, and when to use the different task constraints)
+* Given a scenario, demonstrate how to find project teams and how to notify them of work assignments, updates, or completion of work items. (Consider notification types, project team notifications, People tab, Updates to projects/tasks, when and why to subscribe to a work object, and how to modify individual email notifications)
+* Identify the different ways to manage a project. (Consider waterfall, Agile, SCRUM, and Kanban.)
+* Given a scenario, describe how to provide stakeholders the information they require. (Consider exporting reports, exporting files, recurring deliveries, etc.)
+* Given a scenario, determine how date types and durations impact project conditions. (Consider planned start, projected start, individuals commit date, etc.)
+* Given a scenario, determine how to implement or modify changes in system-level or group-level custom statuses
+* Given a scenario, describe the steps to build a report and determine the type of report needed.
+* Given a scenario, determine when an issue should be utilized on a project.
+
+Section 3: Closeout (12%)
+
+* Given a particular object status, determine what activities need to be executed or what actions are triggered. (Consider pending approvals, i.e., approval is required or a project cannot be closed until approvals are resolved, notification sent on active projects only - not on statuses equivalent to planning, editing data or deleting tasks with logged hours on a completed project, etc.)
+* Identify the project elements that can be used to measure project success. (Consider baseline variants, financials, planned vs actual dates/hours/costs, custom data/KPIs, etc. DO NOT use Case specific questions. Focus on technical elements.)
+
+## Get prepped
+
+You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
+
+Here are some suggested resources to help you prepare:
+
+**Section 1: Intake and Planning**
+
+* [Understand request queues](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/understand-request-queues.html?lang=en){target="_blank"}
+* [Approving work](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/work-approvals/approving-work.html?lang=en){target="_blank"}
+* [Share a project](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/projects/share-a-project.html?lang=en){target="_blank"}
+* [Edit project templates](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/create-and-manage-project-templates/edit-templates.html?lang=en){target="_blank"}
+* [Assign tasks from the project plan](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/assign-tasks-from-the-project-plan.html?lang=en){target="_blank"}
+* [Tasks overview](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/task-information/tasks-overview.html?lang=en){target="_blank"}
+* [Duration Type overview: Calculated Work](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/)
+* [Understand objects in Adobe Workfront](https://experienceleague.adobe.com/docs/workfront/using/basics/navigate/understand-objects.html?lang=en){target="_blank"}
+* [Convert issues to other work items](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/issues-requests/convert-issues-to-other-work-items.html?lang=en){target="_blank"}
+* [Share a project in Adobe Workfront](https://experienceleague.adobe.com/docs/workfront/using/basics/grant-request-object-permissions/share-a-project.html?lang=en){target="_blank"}
+* [Designate Resource Managers for a project or template](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/plan-a-project/designate-resource-managers-for-projects-and-templates.html?lang=en){target="_blank"}
+* [Create dashboards](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-dashboards.html?lang=en){target="_blank"}
+
+**Section 2: Execute**
+
+* [Approval process overview](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/work-approvals/approval-process-in-workfront.html?lang=en){target="_blank"}
+* [Create an approval process for work items](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/approvals-milestones/create-approval-processes.html?lang=en){target="_blank"}
+* [Convert an issue to a task in Adobe Workfront](https://experienceleague.adobe.com/docs/workfront/using/manage-work/issues/convert-issues/convert-issue-to-task.html?lang=en){target="_blank"}
+* [Create issues](https://experienceleague.adobe.com/docs/workfront/using/manage-work/issues/manage-issues/create-issues.html?lang=en){target="_blank"}
+* [Handle unplanned work](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/issues-requests/handle-unplanned-work.html?lang=en){target="_blank"}
+* [Create a simple report](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-simple-report.html?lang=en){target="_blank"}
+* [Commit Date overview](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/update-work-on-a-project/overview-of-commit-dates.html?lang=en){target="_blank"}
+* [Task Constraints](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/task-constraints/task-constraints.html?lang=en){target="_blank"}
+* [Groups vs. teams in Adobe Workfront](https://experienceleague.adobe.com/docs/workfront/using/teams-groups/work-with-groups-teams/understanding-differences-and-similarities-between-groups-and-teams.html?lang=en){target="_blank"}
+* [Edit projects](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/manage-projects/edit-projects.html?lang=en){target="_blank"}
+* [Create an agile team](https://experienceleague.adobe.com/docs/workfront/using/agile/agile-in-workfront/create-an-agile-team.html?lang=en){target="_blank"}
+* [Using the iteration page](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/agile/scrum/using-the-iteration-page.html?lang=en){target="_blank"}
+* [Understand project communication](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-project-communication.html?lang=en){target="_blank"}
+* [Schedule an automatic report delivery](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/create-manage-reports/set-up-automatic-report-delivery.html?lang=en){target="_blank"}
+* [Overview of Project Condition and Condition Type](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/manage-projects/project-condition-and-condition-type.html?lang=en){target="_blank"}
+* [Understand date types and progress status](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/project-timelines/understand-task-dates-and-progress-status.html?lang=en){target="_blank"}
+* [Manage Your Team's Work Using Dashboards](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/manage-your-team-s-work-using-dashboards/ba-p/518250){target="_blank"}
+* [Use Adobe Workfront built-in reports](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/built-in-reports/use-workfront-built-in-reports.html?lang=en){target="_blank"}
+
+
+**Section 3: Closeout**
+
+* [Change the status of a project](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/manage-projects/change-project-status.html?lang=en){target="_blank"}
+* [System project statuses](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/statuses-priority-labels/system-project-statuses.html?lang=en){target="_blank"}
+* [Use the Milestone view](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/report-elements/use-milestone-view.html?lang=en){target="_blank"}
+* [Overview of Business Case financial fields](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/define-business-case/business-case-finances.html?lang=en){target="_blank"}
+* [Project finances included in project baselines](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/project-finances/project-finances-included-in-project-baselines.html?lang=en#financial-information-included-in-baseline-reports){target="_blank"}
+* [Track work progress with project metrics](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/projects/track-work-progress-with-project-metrics.html?lang=en){target="_blank"}
+
+## Renew your certification
+
+Ensure that you have followed step 1 above, and successfully logged in to [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"} first. Then, to renew your certification, click the Workfront Project Manager Professional renewal - AD5-833 link below.
+
+* [Workfront Project Manager Professional renewal - AD5-833](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=AD5-E833){target="_blank"}
 
 >[!NOTE]
 >
->Expert renewal coming soon.
+>This exam is free, open book, and un-proctored. You may take the exam up to three times. If you are unsuccessful after the third attempt, you must wait **30 days** to try again. Failure to comply might result in your certification being revoked.
+
++++
+
+>[!TAB Expert]
+
++++Workfront Core Developer Expert
+
+## Instructions for renewing your certification:
+
+* **Step 1**: Successfully log in to [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}, then return to this page
+* **Step 2**: Review the exam objectives and resources
+* **Step 3**: Take and pass the exam
+
+### Get ready
+
+**Exam details:**
+  
+* Passing Score: 25/35
+* Time: 70 mins
+* Cost: FREE/non-proctored
+* Delivery: On-demand
+* Available languages: English
+* Prerequisite: current (not expired) Adobe Workfront Core Developer Expert certification
+* Exam ID: AD5-E829
+
+**Scope and objectives**
+
+Section 1: Core System Administration and Setup (27%)
+
+* Given a requirement, select the appropriate group level settings.
+* Given a scenario where an enterprise account wants to make sure SSO is working effectively to maintain system security, identify best practices for auto-provisioning users. (Considerations include Admin Console, Classic SSO, and restrictions when using Admin Console)
+* Given a scenario recommend a Boards configuration to meet a custom requirement.
+
+Section 2: Intake, Custom Forms, and Project Management (11%)
+
+* Given a scenario with multiple forms, determine actions to control access, visibility, and dependency.
+* Given a scenario with calculated fields on multi-object forms, identify the correct formula.
+
+Section 3: Strategic Functionality (Portfolio and Program Management, Resource Management) (11%)
+
+* Given a scenario, provide a mechanism to ensure that projects are fully staffed by using Resource Management tools.
+* Given a scenario Resource Management tools to determine why a user is over allocated.
+
+Section 4: Document Management and Proof (11%)
+
+* Given a scenario, demonstrate how to edit and set permissions with proofing.
+* Given a scenario, setup a connection to AEM as a Cloud Service or AEM Assets Essentials.
+
+Section 5: Reporting (11%)
+
+* Given a scenario, determine how a field type would render on a report. (Field types include rich text, images, multi-select)
+* Identify Adobe Workfront capabilities that support monitoring and improving user adoption.
+
+Section 6: Methodology / Best Practices / Use Cases (29%)
+
+* Given a scenario within Workfront, demonstrate functionality for setting up tracking of deliverables that are part of a single campaign. (Consider a marketing use case.)
+* Given a scenario within Workfront, demonstrate functionality around financials, utilization, forecasting, billing rates/records (professional services)
+* Given a scenario within Workfront, demonstrate functionality around setting up workflow and approvals. (Consider regulatory/compliance situations.)
+* Given a scenario using Workfront Boards, identify native features to show progress.
+* Given a scenario, recommend a framework for governance around system and group administration.
+
+## Get prepped
+
+You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
+
+Here are some suggested resources to help you prepare:
+
+**Section 1: Core System Administration and Setup**
+
+* [Workfront documentation](https://experienceleague.adobe.com/docs/workfront/using/home.html?lang=en){target="_blank"} - (Administration and Setup, Manage Groups, Agile)
+* [Create and modify a group's project templates](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/manage-groups/group-objects/create-and-modify-a-groups-templates.html?lang=en){target="_blank"}
+* [Understand group-specific approval processes](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/approval-processes-and-milestone-paths/group-specific-approval-processes.html?lang=en){target="_blank"}
+* [How groups inherit statuses](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/manage-groups/group-statuses/how-groups-inherit-statuses.html?lang=en){target="_blank"}
+* [Create and modify a group's teams](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/manage-groups/group-objects/create-and-modify-a-groups-teams.html?lang=en){target="_blank"}
+* [Named User Licensing | Deployment guide](https://helpx.adobe.com/enterprise/using/deployment-planning.html){target="_blank"}
+* [Configure card falloff](https://experienceleague.adobe.com/docs/workfront/using/agile/agile-planning-boards/configure-card-falloff.html?lang=en){target="_blank"}
+* [Use connected cards on boards](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/connected-cards.html?lang=en){target="_blank"}
+* [Add or remove members from a board](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/add-members-to-board.html?lang=en){target="_blank"}
+
+**Section 2: Intake, Custom Forms, and Project Management**
+
+* [Workfront documentation](https://experienceleague.adobe.com/docs/workfront/using/home.html?lang=en){target="_blank"} - (Administration and Set up, Custom Forms, Reports, Reporting Elements)
+* [Add a section break to a custom form with the legacy form builder](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/custom-forms/add-a-section-break-to-a-custom-form.html?lang=en){target="_blank"}
+* [Wildcard filter variables](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/report-elements/understand-wildcard-filter-variables.html?lang=en){target="_blank"}
+
+**Section 3: Strategic Functionality (Portfolio and Program Management, Resource Management)**
+
+* [Workfront documentation](https://experienceleague.adobe.com/docs/workfront/using/home.html?lang=en){target="_blank"} - (The Workload Balancer, Resource Planning in Adobe Workfront, Assign Tasks)
+* [Assign work in bulk using the Workload Balancer](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/the-workload-balancer/assign-work-in-workload-balancer-in-bulk.html?lang=en){target="_blank"}
+* [Budget resources in the Resource Planner using the Project and Role views](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/resource-planning-in-adobe-workfront/budget-resources-project-role-views-resource-planner.html?lang=en){target="_blank"}
+* [Filter information in the Workload Balancer](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/the-workload-balancer/filter-information-workload-balancer.html?lang=en){target="_blank"}
+* [Assign work in bulk using the Workload Balancer](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/the-workload-balancer/assign-work-in-workload-balancer-in-bulk.html?lang=en){target="_blank"}
+* [Smart assignments overview](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/assign-tasks/smart-assignments.html?lang=en){target="_blank"}
+
+**Section 4: Document Management and Proof**
+
+* [Workfront documentation](https://experienceleague.adobe.com/docs/workfront/using/home.html?lang=en){target="_blank"} - (Review and approve work, Configure proofing, Configure integrations)
+* [Proof Permission Profile overview](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/create-and-manage-project-templates/create-a-project-template.html?lang=en){target="_blank"}
+* [Proof Roles overview](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/proofing-overview/proof-roles.html?lang=en){target="_blank"}
+* [Configure a user's proofing access](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/manage-wf/configure-proofing/configure-a-users-proofing-access.html?lang=en){target="_blank"}
+* [Configure the Experience Manager Assets Essentials integration](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/configure-integrations/setup-asset-essentials.html?lang=en){target="_blank"}
+* [Configure the Experience Manager Assets as a Cloud Service integration](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/configure-integrations/configure-aacs-integration.html?lang=en){target="_blank"}
+
+**Section 5: Reporting**
+
+* [Workfront documentation](https://experienceleague.adobe.com/docs/workfront/using/home.html?lang=en){target="_blank"} - (Review and approve work, Configure proofing, Configure integrations)
+* [Create a project template](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/create-and-manage-project-templates/create-a-project-template.html?lang=en){target="_blank"}
+* [Add or edit an image or other asset widget in a custom form with the legacy form builder](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/custom-forms/custom-form-builder/use-the-custom-form-builder/add-widget-or-edit-its-properties-in-a-custom-form.html?lang=en){target="_blank"}
+* [Chart a report by a multi-select custom field](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/custom-view-samples/chart-report-by-multi-select-custom-field.html?lang=en){target="_blank"}
+* [Blueprints overview](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/blueprints/blueprints-overview.html?lang=en){target="_blank"}
+
+**Section 6: Methodology / Best Practices / Use Cases**
+
+* [Experience Manager as a Cloud Service documentation](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=en){target="_blank"} -(Integration with Adobe Workfront)
+* [Workfront documentation](https://experienceleague.adobe.com/docs/workfront/using/home.html?lang=en){target="_blank"} (Reporting elements, Project finances, Resource utilization, Use agile planning tools in boards, Configure proofing functionality)
+* [System Admin Essentials Webinar: What IS Workfront Governance?](https://experienceleaguecommunities.adobe.com/t5/workfront-questions/system-admin-essentials-webinar-what-is-workfront-governance-mar/m-p/480721#M13550){target="_blank"}
+* [Configure asset metadata mapping between Adobe Workfront and Experience Manager Assets](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/integrations/configure-asset-metadata-mapping.html?lang=en){target="_blank"}
+* [About Metadata](https://www.adobe.com/digitalimag/pdfs/about_metadata.pdf){target="_blank"}
+* [Use the Milestone view](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/report-elements/use-milestone-view.html?lang=en){target="_blank"}
+* [Track costs](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/project-finances/track-costs.html?lang=en){target="_blank"}
+
+## Renew your certification
+
+Ensure that you have followed step 1 above, and successfully logged in to [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"} first. Then, to renew your certification, click the Workfront Core Developer renewal - AD5-829 link below.
+
+* [Workfront Core Developer Expert renewal - AD5-829](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=AD5-E829){target="_blank"}
+
+>[!NOTE]
+>
+>This exam is free, open book, and un-proctored. You may take the exam up to three times. If you are unsuccessful after the third attempt, you must wait **30 days** to try again. Failure to comply might result in your certification being revoked.
+
++++
 
 >[!ENDTABS]
 
