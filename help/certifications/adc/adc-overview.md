@@ -10,6 +10,6 @@ exl-id: dde41cf9-13ef-4571-8948-341ef5585da7
 
 **Professional**
 
-* [Business Practitioner (Search)](/help/certifications/adc/adc-professional.md) <!--AD0-??-->
+* [Business Practitioner (Search)](/help/certifications/adc/adc-p-business.md) <!--AD0-??-->
 
 Visit the [Renew your certification](/help/certifications/renew.md) page to see if a renewal option is available for this product.

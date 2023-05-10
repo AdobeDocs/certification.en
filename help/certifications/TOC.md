@@ -103,7 +103,7 @@ user-guide-description: Learn about [!DNL Experience Cloud] Certification at Ado
   + Adobe [!DNL Document Cloud] {#adc}
     + [Document Cloud Overview](/help/certifications/adc/adc-overview.md)
     + Professional {#adc-professional}
-      + [Business Practitioner](/help/certifications/adc/adc-professional.md)
+      + [Business Practitioner](/help/certifications/adc/adc-p-business.md)
     + [Renewal](/help/certifications/adc/adc-renew.md)
   + Adobe Real-Time CDP {#rtcdp}
     + [Real-Time CDP Overview](/help/certifications/rtcdp/rtcdp-overview.md)
