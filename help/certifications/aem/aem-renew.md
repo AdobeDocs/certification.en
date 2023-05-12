@@ -60,7 +60,7 @@ The course assessments are free. There is no need to schedule them, and they are
 
 [Customer Reference Form for Adobe Experience Manager](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADR-EA100){target="_blank"}
 
-### Courses and course assessments:
+### Courses and course assessments for expert and master:
 
 
 | Course | Course Assessment |
