@@ -58,7 +58,7 @@ The course assessments are free. There is no need to schedule them, and they are
 
 [Customer Reference Form for Adobe Analytics](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADR-EA200){target="_blank"}
 
-### Courses and Course Assessments:
+### Courses and Course Assessments for expert and master:
 
 | Course | Course Assessment |
 | ------- | ------- |
