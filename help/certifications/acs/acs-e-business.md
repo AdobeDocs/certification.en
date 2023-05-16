@@ -1,7 +1,7 @@
 ---
 title: Business Practitioner Expert certification
 description: Learn how to become a certified Adobe Business Practitioner Expert in Adobe [!DNL Campaign Standard]
-solution: Campaign Standard
+solution: Campaign,Campaign Standard
 product: Campaign
 role: User
 badge: label="Exam AD0-E307" type="positive"

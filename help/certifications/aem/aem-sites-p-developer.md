@@ -1,7 +1,7 @@
 ---
 title: Developer Professional certification
 description: Learn how to become a certified Adobe Business Practitioner Expert in [!DNL Experience Manager Sites].
-solution: Experience Manager Sites
+solution: Experience Manager,Experience Manager Sites
 product: Experience Manager
 role: Developer
 badge: label="Exam AD0-E123" type="positive"

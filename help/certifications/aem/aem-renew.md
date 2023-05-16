@@ -1,7 +1,7 @@
 ---
 title: Certification renewal
 description: Learn how to renew your [!DNL Experience Manager Sites] certification before it expires.
-solution: Experience Manager Sites
+solution: Experience Manager,Experience Manager Sites
 product: Experience Manager
 role: User,Developer,Data Architect
 hidefromtoc: yes

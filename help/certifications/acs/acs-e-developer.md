@@ -1,7 +1,7 @@
 ---
 title: Developer Expert certification
 description: Learn how to become a certified Adobe Developer Expert Adobe [!DNL Campaign Standard].
-solution: Campaign Standard
+solution: Campaign,Campaign Standard
 product: Campaign
 role: Developer
 badge: label="Exam AD0-E306" type="positive"
