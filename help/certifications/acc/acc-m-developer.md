@@ -1,7 +1,7 @@
 ---
 title: Architect Master certification
 description: Learn how to become a certified Adobe Architect Master in [!DNL Campaign Classic].
-solution: Campaign Classic
+solution: Campaign Classic v7
 product: Campaign
 role: Data Architect
 badge: label="Exam AD0-E328" type="positive"
