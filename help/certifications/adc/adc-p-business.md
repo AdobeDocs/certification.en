@@ -74,8 +74,6 @@ You are not required to complete training before taking the exam, and training a
 
 Here are some suggested resources to help you prepare:
 
-**Section 1: Education**
-
 **Section 1: Use Case Discovery**
 
 * [Document Services Overview](https://developer.adobe.com/document-services/docs/overview/){target="_blank"}
