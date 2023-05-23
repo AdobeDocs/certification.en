@@ -105,6 +105,7 @@ Here are some suggested resources to help you prepare:
 * [What's a digital signature?](https://www.adobe.com/sign/digital-signatures.html){target="_blank"}
 * [The Total Economic Impact of Adobe Sign](https://www.adobe.com/content/dam/dx-dc/pdf/total-economic-impact-adobe-sign-ue.pdf)
 * [Reimagine document experiences with PDF APIs designed for developers](https://developer.adobe.com/document-services){target="_blank"}
+* [Limit Document Visibility](https://helpx.adobe.com/sign/using/limited-document-visibility.html){target="_blank"}
 
 **Section 4: Recommend Solution**
 
