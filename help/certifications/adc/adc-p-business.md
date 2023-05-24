@@ -9,7 +9,7 @@ mini-toc-levels: 1
 hidefromtoc: yes
 exl-id: 9eb01f45-fa59-4e14-85db-2d3fe1f512bc
 ---
-# Certification journey for Adobe Doc Cloud Business Practitioner Professional
+# Certification journey for Adobe Document Cloud Business Practitioner Professional
 
 Learn how to become a certified Adobe Business Practitioner Professional.
 
@@ -34,7 +34,6 @@ You should have:
 * Solution consultant
 * Business Analyst
 * Sales
-* Developer
 
 **Exam details:**
 
@@ -53,7 +52,7 @@ Section 1: Use Case Discovery (36%)
 * Ask qualifying questions to identify Document Cloud opportunities
 * Define high level business use cases
 
-Section 2: Business Process Evaluation (34)
+Section 2: Business Process Evaluation (34%)
 
 * Identify key areas of process improvement and solution fit
 * Align business goals with Document Cloud capabilities
