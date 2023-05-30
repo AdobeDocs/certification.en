@@ -61,7 +61,7 @@ Section 1: Discovery (18%)
 * Investigate client needs to build business requirements
 * Given a scenario, create measurement framework
 
-Section 2: Solution design (26%)
+Section 2: Solution design (54%)
 
 * Translate business requirements into variables and metrics
 * Demonstrate ability to manage report suites settings
