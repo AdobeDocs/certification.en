@@ -19,6 +19,6 @@ exl-id: 70d2e3e2-5e58-43e2-b093-15cdb16f0a0c
 
 **Master**
 
-* [Developer](/help/certifications/acc/acc-m-developer.md) <!--AD0-E328-->
+* [Architect](/help/certifications/acc/acc-m-developer.md) <!--AD0-E328-->
 
 Visit the [Renew your certification](/help/certifications/renew.md) page to see if a renewal option is available for this product.
