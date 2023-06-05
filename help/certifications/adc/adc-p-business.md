@@ -6,7 +6,6 @@ product: Document Cloud
 role: User
 badge: label="Exam AD0-D106" type="positive"
 mini-toc-levels: 1
-hidefromtoc: yes
 exl-id: 9eb01f45-fa59-4e14-85db-2d3fe1f512bc
 ---
 # Certification journey for Adobe Document Cloud Business Practitioner Professional
