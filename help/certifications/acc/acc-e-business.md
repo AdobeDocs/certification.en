@@ -108,55 +108,55 @@ Here are some suggested resources to help you prepare:
 
 **Section 1: Campaign management**
 
-* [[!DNL Campaign Classic] v7 Documentation](https://experienceleague.adobe.com/docs/campaign-classic/using/campaign-classic-home.html?lang=en){target="_blank"}
-* [Get started with marketing campaigns](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/orchestrate-campaigns/setting-up-marketing-campaigns.html?lang=en){target="_blank"}
-* [About seed addresses](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/using-seed-addresses/about-seed-addresses.html?lang=en)
-* [Get started with marketing campaigns](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/orchestrate-campaigns/setting-up-marketing-campaigns.html?lang=en)
-* [Adobe [!DNL Campaign Classic] V7 tutorials](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=en)
-* [Use a custom recipient table](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/use-a-custom-recipient-table/about-custom-recipient-table.html?lang=en){target="_blank"}
+* [[!DNL Campaign Classic] v7 Documentation](https://experienceleague.adobe.com/docs/campaign-classic/using/campaign-classic-home.html){target="_blank"}
+* [Get started with marketing campaigns](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/orchestrate-campaigns/setting-up-marketing-campaigns.html){target="_blank"}
+* [About seed addresses](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/using-seed-addresses/about-seed-addresses.html)
+* [Get started with marketing campaigns](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/orchestrate-campaigns/setting-up-marketing-campaigns.html)
+* [Adobe [!DNL Campaign Classic] V7 tutorials](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html)
+* [Use a custom recipient table](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/use-a-custom-recipient-table/about-custom-recipient-table.html){target="_blank"}
 
 **Section 2: Workflow management**
 
-* [Get started with A/B testing](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/a-b-testing/get-started-a-b-testing.html?lang=en){target="_blank"}
-* [Get started with message tracking](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/tracking-messages/about-message-tracking.html?lang=en){target="_blank"}
-* [Get started with workflows](https://experienceleague.adobe.com/docs/campaign/automation/workflows/introduction/about-workflows.html?lang=en){target="_blank"}
-* [Targeting activities in workflows](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/about-targeting-activities.html?lang=en){target="_blank"}
-* [Query](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/query.html?lang=en){target="_blank"}
+* [Get started with A/B testing](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/a-b-testing/get-started-a-b-testing.html){target="_blank"}
+* [Get started with message tracking](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/tracking-messages/about-message-tracking.html){target="_blank"}
+* [Get started with workflows](https://experienceleague.adobe.com/docs/campaign/automation/workflows/introduction/about-workflows.html){target="_blank"}
+* [Targeting activities in workflows](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/about-targeting-activities.html){target="_blank"}
+* [Query](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/query.html){target="_blank"}
 
 **Section 3: Data management**
 
-* [Data schemas](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/editing-schemas/data-schemas.html?lang=en){target="_blank"}
-* [Action activities in workflows](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/action-activities/about-action-activities.html?lang=en){target="_blank"}
-* [Get started with processes and data management](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/get-started-workflows.html?lang=en){target="_blank"}
-* [Identify a form](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/input-forms/identifying-a-form.html?lang=en){target="_blank"}
-* [About content management](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/content-management/about-content-management.html?lang=en){target="_blank"}
+* [Data schemas](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/editing-schemas/data-schemas.html){target="_blank"}
+* [Action activities in workflows](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/action-activities/about-action-activities.html){target="_blank"}
+* [Get started with processes and data management](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/get-started-workflows.html){target="_blank"}
+* [Identify a form](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/input-forms/identifying-a-form.html){target="_blank"}
+* [About content management](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/content-management/about-content-management.html){target="_blank"}
 
 
 **Section 4: Delivery management**
 
-* [About Campaign integrations](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/get-started-campaign-integrations.html?lang=en){target="_blank"}
-* [Delivery](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/action-activities/delivery.html?lang=en){target="_blank"}
-* [Get started with marketing campaigns](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/orchestrate-campaigns/setting-up-marketing-campaigns.html?lang=en){target="_blank"}
-* [About deliveries creation steps](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/key-steps-when-creating-a-delivery/steps-about-delivery-creation-steps.html?lang=en){target="_blank"}
-* [Get started with delivery monitoring](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/monitoring-deliveries/about-delivery-monitoring.html?lang=en){target="_blank"}
+* [About Campaign integrations](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/get-started-campaign-integrations.html){target="_blank"}
+* [Delivery](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/action-activities/delivery.html){target="_blank"}
+* [Get started with marketing campaigns](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/orchestrate-campaigns/setting-up-marketing-campaigns.html){target="_blank"}
+* [About deliveries creation steps](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/key-steps-when-creating-a-delivery/steps-about-delivery-creation-steps.html){target="_blank"}
+* [Get started with delivery monitoring](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/monitoring-deliveries/about-delivery-monitoring.html){target="_blank"}
 
 **Section 5: Reporting**
 
-* [About reports on deliveries](https://experienceleague.adobe.com/docs/campaign-classic/using/reporting/reports-on-deliveries/reports-on-deliveries.html?lang=en){target="_blank"}
-* [Get started with reporting](https://experienceleague.adobe.com/docs/campaign-classic/using/reporting/reporting-in-adobe-campaign/about-adobe-campaign-reporting-tools.html?lang=en){target="_blank"}
+* [About reports on deliveries](https://experienceleague.adobe.com/docs/campaign-classic/using/reporting/reports-on-deliveries/reports-on-deliveries.html){target="_blank"}
+* [Get started with reporting](https://experienceleague.adobe.com/docs/campaign-classic/using/reporting/reporting-in-adobe-campaign/about-adobe-campaign-reporting-tools.html){target="_blank"}
 
 **Section 6: Administration**
 
-* [Configuration principle](https://experienceleague.adobe.com/docs/campaign-classic/using/monitoring-campaign-classic/production-procedures/configuration-principle.html?lang=en){target="_blank"}
-* [Get started with permissions](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management.html?lang=en){target="_blank"}
-* [About SFTP management](https://experienceleague.adobe.com/docs/control-panel/using/sftp-management/about-sftp-management.html?lang=en){target="_blank"}
+* [Configuration principle](https://experienceleague.adobe.com/docs/campaign-classic/using/monitoring-campaign-classic/production-procedures/configuration-principle.html){target="_blank"}
+* [Get started with permissions](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management.html){target="_blank"}
+* [About SFTP management](https://experienceleague.adobe.com/docs/control-panel/using/sftp-management/about-sftp-management.html){target="_blank"}
 
 
 >[!TAB Get certified]
 
 >[!IMPORTANT]
 >
->The following sections and links will function **only**  after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
+>The following sections and links will function **only**  after a **successful login** to the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}. 
 
 
 **Now that you have successfully logged in, the following links will be directly accessible.**
@@ -196,6 +196,6 @@ You can apply the voucher code when you schedule your exam. If you have a discou
 
 **Questions**
 
-View the certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+View the certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Additional questions? [Contact us](mailto:certif@adobe.com){target="_blank"}.

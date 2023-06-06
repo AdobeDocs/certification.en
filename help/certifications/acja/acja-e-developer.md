@@ -95,32 +95,32 @@ Here are some suggested resources to help you prepare:
 
 **Section 1: Connections**
 
-* [Connections overview](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/overview.html?lang=en){target="_blank"} 
-* [Create a connection](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/create-connection.html?lang=en){target="_blank"} 
+* [Connections overview](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/overview.html){target="_blank"} 
+* [Create a connection](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/create-connection.html){target="_blank"} 
 
 **Section 2: Data Views**
 
-* [Data views overview](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/data-views.html?lang=en){target="_blank"} 
-* [Component settings](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-settings/overview.html?lang=en){target="_blank"} 
+* [Data views overview](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/data-views.html){target="_blank"} 
+* [Component settings](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-settings/overview.html){target="_blank"} 
 
 **Section 3: Data Validation and Troubleshooting**
 
-* [Data views overview](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/data-views.html?lang=en){target="_blank"} 
-* [Create or edit a data view](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/create-dataview.html?lang=en){target="_blank"}
-* [Component settings](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-settings/overview.html?lang=en){target="_blank"}
-* [Standard component reference](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-reference.html?lang=en){target="_blank"}
+* [Data views overview](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/data-views.html){target="_blank"} 
+* [Create or edit a data view](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/create-dataview.html){target="_blank"}
+* [Component settings](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-settings/overview.html){target="_blank"}
+* [Standard component reference](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-reference.html){target="_blank"}
 
 **Section 4: Reporting and Activation**
 
-* [Visualizations overview](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/freeform-analysis-visualizations.html?lang=en){target="_blank"}
-* [Analysis Workspace overview](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/home.html?lang=en){target="_blank"}
-* [Data views overview](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/data-views.html?lang=en){target="_blank"}
+* [Visualizations overview](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/freeform-analysis-visualizations.html){target="_blank"}
+* [Analysis Workspace overview](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/home.html){target="_blank"}
+* [Data views overview](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/data-views.html){target="_blank"}
 
 >[!TAB Get certified]
 
 >[!IMPORTANT]
 >
->The following sections and links will function **only**  after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
+>The following sections and links will function **only**  after a **successful login** to the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}. 
 
 
 **Now that you have successfully logged in, the following links will be directly accessible.**
@@ -150,6 +150,6 @@ You can apply the voucher code when you schedule your exam. If you have a discou
 
 **Questions**
 
-View the certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+View the certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Additional questions? [Contact us](mailto:certif@adobe.com){target="_blank"}.

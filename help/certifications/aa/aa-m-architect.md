@@ -92,44 +92,44 @@ The sample questions allow you to see the type and format of items that you will
 
 **Section 1: Discovery**
 
-* [Implement [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=en){target="_blank"} 
-* [[!DNL Analytics] Components Guide](https://experienceleague.adobe.com/docs/analytics/components/home.html?lang=en){target="_blank"} 
-* [Tags overview](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html?lang=en){target="_blank"} 
-* [[!DNL Analytics] Tech Notes](https://experienceleague.adobe.com/docs/analytics/technotes/home.html?lang=en){target="_blank"} 
+* [Implement [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html){target="_blank"} 
+* [[!DNL Analytics] Components Guide](https://experienceleague.adobe.com/docs/analytics/components/home.html){target="_blank"} 
+* [Tags overview](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html){target="_blank"} 
+* [[!DNL Analytics] Tech Notes](https://experienceleague.adobe.com/docs/analytics/technotes/home.html){target="_blank"} 
 * [Data Layer Manager](https://exchange.adobe.com/apps/ec/101462/data-layer-manager){target="_blank"} 
 
 **Section 2: Solution Design**
 
-* [[!DNL Analytics] Admin Guide](https://experienceleague.adobe.com/docs/analytics/admin/home.html?lang=en){target="_blank"} 
-* [[!DNL Analytics] Components Guide](https://experienceleague.adobe.com/docs/analytics/components/home.html?lang=en){target="_blank"} 
-* [[!DNL Analytics] Tools Guide](https://experienceleague.adobe.com/docs/analytics/analyze/home.html?lang=en){target="_blank"} 
-* [iOS SDK 4.x for Experience Cloud Solutions](https://experienceleague.adobe.com/docs/mobile-services/ios/overview.html?lang=en){target="_blank"} 
-* [[!DNL Analytics] Import Guide](https://experienceleague.adobe.com/docs/analytics/import/home.html?lang=en){target="_blank"} 
-* [Implement [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=en){target="_blank"} 
-* [[!DNL Analytics] Tutorials](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html?lang=en){target="_blank"} 
+* [[!DNL Analytics] Admin Guide](https://experienceleague.adobe.com/docs/analytics/admin/home.html){target="_blank"} 
+* [[!DNL Analytics] Components Guide](https://experienceleague.adobe.com/docs/analytics/components/home.html){target="_blank"} 
+* [[!DNL Analytics] Tools Guide](https://experienceleague.adobe.com/docs/analytics/analyze/home.html){target="_blank"} 
+* [iOS SDK 4.x for Experience Cloud Solutions](https://experienceleague.adobe.com/docs/mobile-services/ios/overview.html){target="_blank"} 
+* [[!DNL Analytics] Import Guide](https://experienceleague.adobe.com/docs/analytics/import/home.html){target="_blank"} 
+* [Implement [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html){target="_blank"} 
+* [[!DNL Analytics] Tutorials](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html){target="_blank"} 
 * [Administrative roles](https://helpx.adobe.com/in/enterprise/using/admin-roles.html){target="_blank"} 
 * [Admin Console overview](https://helpx.adobe.com/in/enterprise/using/admin-console.html#Settings){target="_blank"} 
 * [Manage users individually](https://helpx.adobe.com/in/enterprise/using/manage-users-individually.html){target="_blank"} 
 
 **Section 3: Post Implementation**
 
-* [Implement [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=en){target="_blank"}
-* [[!DNL Analytics] Components Guide](https://experienceleague.adobe.com/docs/analytics/components/home.html?lang=en){target="_blank"}
-* [[!DNL Analytics] Admin Guide](https://experienceleague.adobe.com/docs/analytics/admin/home.html?lang=en){target="_blank"}
+* [Implement [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html){target="_blank"}
+* [[!DNL Analytics] Components Guide](https://experienceleague.adobe.com/docs/analytics/components/home.html){target="_blank"}
+* [[!DNL Analytics] Admin Guide](https://experienceleague.adobe.com/docs/analytics/admin/home.html){target="_blank"}
 * [The Event-Driven Data Layer](https://jimalytics.com/tag-management/the-event-driven-data-layer/){target="_blank"}
-* [[!DNL Analytics] Export Guide](https://experienceleague.adobe.com/docs/analytics/export/home.html?lang=en){target="_blank"}
-* [Adobe [!DNL Target] Business Practitioner Guide](https://experienceleague.adobe.com/docs/target/using/target-home.html?lang=en){target="_blank"}
-* [Adobe [!DNL Experience Cloud] Identity Service](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=en){target="_blank"}
-* [[!DNL Analytics] Import Guide](https://experienceleague.adobe.com/docs/analytics/import/home.html?lang=en){target="_blank"}
-* [[!DNL Analytics] Tools Guide](https://experienceleague.adobe.com/docs/analytics/analyze/home.html?lang=en){target="_blank"}
+* [[!DNL Analytics] Export Guide](https://experienceleague.adobe.com/docs/analytics/export/home.html){target="_blank"}
+* [Adobe [!DNL Target] Business Practitioner Guide](https://experienceleague.adobe.com/docs/target/using/target-home.html){target="_blank"}
+* [Adobe [!DNL Experience Cloud] Identity Service](https://experienceleague.adobe.com/docs/id-service/using/home.html){target="_blank"}
+* [[!DNL Analytics] Import Guide](https://experienceleague.adobe.com/docs/analytics/import/home.html){target="_blank"}
+* [[!DNL Analytics] Tools Guide](https://experienceleague.adobe.com/docs/analytics/analyze/home.html){target="_blank"}
 * [Data Insertion Process](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/data-insertion-api/overview/c_data_insertion_process.md){target="_blank"}
-* [Implement the Experience Cloud in Websites with Tags Tutorial](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/overview.html?lang=en){target="_blank"}
+* [Implement the Experience Cloud in Websites with Tags Tutorial](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/overview.html){target="_blank"}
 
 >[!TAB Get certified]
 
 >[!IMPORTANT]
 >
->The following sections and links will function **only**  after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
+>The following sections and links will function **only**  after a **successful login** to the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}. 
 
 **Now that you have successfully logged in, the following links will be directly accessible.**
 
@@ -158,6 +158,6 @@ You can apply the voucher code when you schedule your exam. If you have a discou
 
 **Questions**
 
-View the certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+View the certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Additional questions? Please email `certif@adobe.com`

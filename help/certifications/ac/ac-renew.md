@@ -20,7 +20,7 @@ It's important to note that if your certification expires, you'll have to retake
 
 >[!IMPORTANT]
 >
->The following course assessment links will function **only** after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
+>The following course assessment links will function **only** after a **successful login** to the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}. 
 
 >[!BEGINTABS]
 
@@ -36,7 +36,7 @@ You should be currently certified (not expired) in:
 
 Select **three activities** to complete and pass the course assessments associated with each.
 
-* **Step 1**: Successfully log in to [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}, then return to this page
+* **Step 1**: Successfully log in to [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}, then return to this page
 * **Step 2**: Study the courses in Experience League
 * **Step 3**: Complete and pass each course assessment with at least 80%
 
@@ -56,9 +56,9 @@ The course assessments are free. There is no need to schedule them, and they are
 
 | Course | Course Assessment |
 | ------- | ------- |
-| [Adobe [!DNL Commerce] E-Commerce Trends](https://experienceleague.adobe.com/docs/commerce-events/events/commerce-and-coffee/2022/ecommerce-trends.html?lang=en){target="_blank"} | [ADR-EA714](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADR-EA714){target="_blank"} |
-| [Adobe [!DNL Commerce] Personalization](https://experienceleague.adobe.com/docs/commerce-events/events/commerce-and-coffee/2022/personalization.html?lang=en){target="_blank"} | [ADR-EA715](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADR-EA715){target="_blank"} |
-| [Adobe [!DNL Commerce] AI Automation](https://experienceleague.adobe.com/docs/commerce-events/events/commerce-and-coffee/2022/ai-and-automation.html?lang=en){target="_blank"} | [ADR-EA716](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADR-EA716){target="_blank"} |
+| [Adobe [!DNL Commerce] E-Commerce Trends](https://experienceleague.adobe.com/docs/commerce-events/events/commerce-and-coffee/2022/ecommerce-trends.html){target="_blank"} | [ADR-EA714](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADR-EA714){target="_blank"} |
+| [Adobe [!DNL Commerce] Personalization](https://experienceleague.adobe.com/docs/commerce-events/events/commerce-and-coffee/2022/personalization.html){target="_blank"} | [ADR-EA715](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADR-EA715){target="_blank"} |
+| [Adobe [!DNL Commerce] AI Automation](https://experienceleague.adobe.com/docs/commerce-events/events/commerce-and-coffee/2022/ai-and-automation.html){target="_blank"} | [ADR-EA716](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADR-EA716){target="_blank"} |
 | [[!DNL Commerce]: Data Integrations to Experience Platform & Beyond](https://video.tv.adobe.com/v/3413334/){target="_blank"} | [ADR-EA720](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADR-EA720){target="_blank"} |
 | [[!DNL Commerce]: Composable Commerce on Adobe [!DNL Commerce]](https://video.tv.adobe.com/v/3413335/){target="_blank"} | [ADR-EA721](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADR-EA721){target="_blank"} |
 
@@ -79,7 +79,7 @@ You should be currently certified (not expired) in:
 
 Select **three activities** to complete and pass the course assessments associated with each.
 
-* **Step 1**: Successfully log in to [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}, then return to this page
+* **Step 1**: Successfully log in to [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}, then return to this page
 * **Step 2**: Study the courses in Experience League
 * **Step 3**: Complete and pass each course assessment with at least 80%
 
@@ -100,9 +100,9 @@ certifications at this level, will get renewed.
 
 | Course | Course Assessment |
 | ------- | ------- |
-| [Adobe [!DNL Commerce] E-Commerce Trends](https://experienceleague.adobe.com/docs/commerce-events/events/commerce-and-coffee/2022/ecommerce-trends.html?lang=en){target="_blank"} | [ADR-EA703](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADR-EA703){target="_blank"} |
-| [Adobe [!DNL Commerce] Personalization](https://experienceleague.adobe.com/docs/commerce-events/events/commerce-and-coffee/2022/personalization.html?lang=en){target="_blank"} | [ADR-EA704](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADR-EA704){target="_blank"} |
-| [Adobe [!DNL Commerce] AI Automation](https://experienceleague.adobe.com/docs/commerce-events/events/commerce-and-coffee/2022/ai-and-automation.html?lang=en){target="_blank"} | [ADR-EA705](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADR-EA705){target="_blank"} |
+| [Adobe [!DNL Commerce] E-Commerce Trends](https://experienceleague.adobe.com/docs/commerce-events/events/commerce-and-coffee/2022/ecommerce-trends.html){target="_blank"} | [ADR-EA703](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADR-EA703){target="_blank"} |
+| [Adobe [!DNL Commerce] Personalization](https://experienceleague.adobe.com/docs/commerce-events/events/commerce-and-coffee/2022/personalization.html){target="_blank"} | [ADR-EA704](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADR-EA704){target="_blank"} |
+| [Adobe [!DNL Commerce] AI Automation](https://experienceleague.adobe.com/docs/commerce-events/events/commerce-and-coffee/2022/ai-and-automation.html){target="_blank"} | [ADR-EA705](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADR-EA705){target="_blank"} |
 | [[!DNL Commerce]: Data Integrations to Experience Platform & Beyond](https://video.tv.adobe.com/v/3413334/){target="_blank"} | [ADR-EA709](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADR-EA709){target="_blank"} |
 | [[!DNL Commerce]: Composable Commerce on Adobe [!DNL Commerce]](https://video.tv.adobe.com/v/3413335/){target="_blank"} | [ADR-EA710](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADR-EA710){target="_blank"} |
 
@@ -114,6 +114,6 @@ certifications at this level, will get renewed.
 
 **Questions**
 
-View the certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+View the certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Additional questions? [Contact us](mailto:certif@adobe.com){target="_blank"}.

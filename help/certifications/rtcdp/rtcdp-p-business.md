@@ -101,38 +101,38 @@ The sample questions allow you to see the type and format of items that you will
 
 **Section 1: Segments and activation**
 
-* [Segmentation Service overview](https://experienceleague.adobe.com/docs/experience-platform/segmentation/home.html?lang=en){target="_blank"}
-* [Create sequential segments](https://experienceleague.adobe.com/docs/platform-learn/tutorials/segments/create-sequential-segments.html?lang=en){target="_blank"}
-* [Evaluate and access segment results](https://experienceleague.adobe.com/docs/experience-platform/segmentation/tutorials/evaluate-a-segment.html?lang=en){target="_blank"}
-* [Segmentation Service UI guide](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/overview.html?lang=en#scheduled-segmentation){target="_blank"}
-* [Destinations overview](https://experienceleague.adobe.com/docs/experience-platform/destinations/home.html?lang=en){target="_blank"}
-* [Destination types and categories](https://experienceleague.adobe.com/docs/experience-platform/destinations/destination-types.html?lang=en){target="_blank"}
-* [Activate audience data to streaming profile export destinations](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/activate/activate-streaming-profile-destinations.html?lang=en){target="_blank"}
-* [Creating a new destination connection](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/connect-destination.html?lang=en){target="_blank"}
+* [Segmentation Service overview](https://experienceleague.adobe.com/docs/experience-platform/segmentation/home.html){target="_blank"}
+* [Create sequential segments](https://experienceleague.adobe.com/docs/platform-learn/tutorials/segments/create-sequential-segments.html){target="_blank"}
+* [Evaluate and access segment results](https://experienceleague.adobe.com/docs/experience-platform/segmentation/tutorials/evaluate-a-segment.html){target="_blank"}
+* [Segmentation Service UI guide](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/overview.html#scheduled-segmentation){target="_blank"}
+* [Destinations overview](https://experienceleague.adobe.com/docs/experience-platform/destinations/home.html){target="_blank"}
+* [Destination types and categories](https://experienceleague.adobe.com/docs/experience-platform/destinations/destination-types.html){target="_blank"}
+* [Activate audience data to streaming profile export destinations](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/activate/activate-streaming-profile-destinations.html){target="_blank"}
+* [Creating a new destination connection](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/connect-destination.html){target="_blank"}
 
 **Section 2: Identity and data governance**
 
-* [Identity namespace overview](https://experienceleague.adobe.com/docs/experience-platform/identity/namespaces.html?lang=en){target="_blank"}
-* [Data Governance overview](https://experienceleague.adobe.com/docs/experience-platform/data-governance/home.html?lang=en){target="_blank"}
+* [Identity namespace overview](https://experienceleague.adobe.com/docs/experience-platform/identity/namespaces.html){target="_blank"}
+* [Data Governance overview](https://experienceleague.adobe.com/docs/experience-platform/data-governance/home.html){target="_blank"}
 
 **Section 3: Business analysis**
 
-* [Data Ingestion overview](https://experienceleague.adobe.com/docs/experience-platform/ingestion/home.html?lang=en){target="_blank"}
-* [Monitor data flows in Adobe [!DNL Experience Platform]](https://experienceleague.adobe.com/docs/platform-learn/tutorials/monitoring/data-monitoring.html?lang=en){target="_blank"}
-* [Privacy Service and Experience Cloud applications](https://experienceleague.adobe.com/docs/experience-platform/privacy/experience-cloud-apps.html?lang=en){target="_blank"}
-* [Policy enforcement overview](https://experienceleague.adobe.com/docs/experience-platform/data-governance/enforcement/overview.html?lang=en){target="_blank"}
+* [Data Ingestion overview](https://experienceleague.adobe.com/docs/experience-platform/ingestion/home.html){target="_blank"}
+* [Monitor data flows in Adobe [!DNL Experience Platform]](https://experienceleague.adobe.com/docs/platform-learn/tutorials/monitoring/data-monitoring.html){target="_blank"}
+* [Privacy Service and Experience Cloud applications](https://experienceleague.adobe.com/docs/experience-platform/privacy/experience-cloud-apps.html){target="_blank"}
+* [Policy enforcement overview](https://experienceleague.adobe.com/docs/experience-platform/data-governance/enforcement/overview.html){target="_blank"}
 
 **Section 4: Schemas and profiles**
 
-* [XDM System overview](https://experienceleague.adobe.com/docs/experience-platform/xdm/home.html?lang=en){target="_blank"}
-* [Real-Time Customer Profile overview](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/profile/profile-overview.html?lang=en){target="_blank"}
-* [Union schema UI guide](https://experienceleague.adobe.com/docs/experience-platform/profile/union-schemas/union-schema.html?lang=en){target="_blank"}
+* [XDM System overview](https://experienceleague.adobe.com/docs/experience-platform/xdm/home.html){target="_blank"}
+* [Real-Time Customer Profile overview](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/profile/profile-overview.html){target="_blank"}
+* [Union schema UI guide](https://experienceleague.adobe.com/docs/experience-platform/profile/union-schemas/union-schema.html){target="_blank"}
 
 >[!TAB Get certified]
 
 >[!IMPORTANT]
 >
->The following sections and links will function **only**  after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
+>The following sections and links will function **only**  after a **successful login** to the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}. 
 
 **Now that you have successfully logged in, the following links will be directly accessible.**
 
@@ -171,6 +171,6 @@ You can apply the voucher code when you schedule your exam. If you have a discou
 
 **Questions**
 
-View the certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+View the certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Additional questions? [Contact us](mailto:certif@adobe.com){target="_blank"}.

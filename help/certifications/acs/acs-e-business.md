@@ -104,44 +104,44 @@ Here are some suggested resources to help you prepare:
 **Section 1: Delivery management**
 
 * [Portfolio Management](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&topicId=Content%2FManage_work%2FPortfolios%2F_portfolio-management-overview.htm&_LANG=en){target="_blank"} 
-* [About channel configuration](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/configuring-channels/about-channel-configuration.html?lang=en){target="_blank"}
-* [Monitoring a delivery](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/monitoring-messages/monitoring-a-delivery.html?lang=en){target="_blank"}
-* [Campaign Email Designer](https://experienceleague.adobe.com/docs/campaign-standard/using/designing-content/designing-content-in-adobe-campaign.html?lang=en){target="_blank"}
+* [About channel configuration](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/configuring-channels/about-channel-configuration.html){target="_blank"}
+* [Monitoring a delivery](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/monitoring-messages/monitoring-a-delivery.html){target="_blank"}
+* [Campaign Email Designer](https://experienceleague.adobe.com/docs/campaign-standard/using/designing-content/designing-content-in-adobe-campaign.html){target="_blank"}
 
 **Section 2: Campaign management**
 
-* [About workflow execution](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/executing-a-workflow/about-workflow-execution.html?lang=en){target="_blank"}
-* [Modifying custom resources for privacy requests](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/privacy/custom-resources-for-privacy-requests.html?lang=en){target="_blank"}
-* [Creating audiences](https://experienceleague.adobe.com/docs/campaign-standard/using/profiles-and-audiences/managing-audiences/creating-audiences.html?lang=en){target="_blank"}
+* [About workflow execution](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/executing-a-workflow/about-workflow-execution.html){target="_blank"}
+* [Modifying custom resources for privacy requests](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/privacy/custom-resources-for-privacy-requests.html){target="_blank"}
+* [Creating audiences](https://experienceleague.adobe.com/docs/campaign-standard/using/profiles-and-audiences/managing-audiences/creating-audiences.html){target="_blank"}
 
 **Section 3: Requirements analysis**
 
-* [Building a workflow](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/workflow-general-operation/building-a-workflow.html?lang=en){target="_blank"}
-* [Users management](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/users-and-security/users-management.html?lang=en){target="_blank"}
+* [Building a workflow](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/workflow-general-operation/building-a-workflow.html){target="_blank"}
+* [Users management](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/users-and-security/users-management.html){target="_blank"}
 
 **Section 4: Reporting**
 
-* [Get started with dynamic reporting](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/about-reporting/about-dynamic-reports.html?lang=en){target="_blank"}
-* [Introduction to reporting](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/getting-started/reporting-with-adobe-campaign-introduction.html?lang=en){target="_blank"}
-* [Custom Creating a report based on custom profile attributes](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/reporting/custom-profile-attributes-dynamic-reports.html?lang=en){target="_blank"}
-* [Get started with dynamic reports](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/about-reporting/about-dynamic-reports.html?lang=en){target="_blank"}
-* [Creating a report based on workflow segments](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/customizing-reports/creating-a-report-workflow-segment.html?lang=en){target="_blank"}
+* [Get started with dynamic reporting](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/about-reporting/about-dynamic-reports.html){target="_blank"}
+* [Introduction to reporting](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/getting-started/reporting-with-adobe-campaign-introduction.html){target="_blank"}
+* [Custom Creating a report based on custom profile attributes](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/reporting/custom-profile-attributes-dynamic-reports.html){target="_blank"}
+* [Get started with dynamic reports](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/about-reporting/about-dynamic-reports.html){target="_blank"}
+* [Creating a report based on workflow segments](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/customizing-reports/creating-a-report-workflow-segment.html){target="_blank"}
 
 **Section 5: Troubleshooting**
 
-* [Workflows best practices](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/workflow-general-operation/best-practices-workflows.html?lang=en){target="_blank"}
-* [API troubleshooting](https://experienceleague.adobe.com/docs/campaign-standard/using/working-with-apis/troubleshooting.html?lang=en){target="_blank"}
+* [Workflows best practices](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/workflow-general-operation/best-practices-workflows.html){target="_blank"}
+* [API troubleshooting](https://experienceleague.adobe.com/docs/campaign-standard/using/working-with-apis/troubleshooting.html){target="_blank"}
 
 **Section 6: Data management and administration**
 
-* [Get started with [!DNL Campaign Standard] data model](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/get-started-data-model.html?lang=en){target="_blank"}
-* [Get started with [!DNL Campaign Standard] administration](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/get-started-campaign-administration.html?lang=en){target="_blank"}
+* [Get started with [!DNL Campaign Standard] data model](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/get-started-data-model.html){target="_blank"}
+* [Get started with [!DNL Campaign Standard] administration](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/get-started-campaign-administration.html){target="_blank"}
 
 >[!TAB Get certified]
 
 >[!IMPORTANT]
 >
->The following sections and links will function **only**  after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
+>The following sections and links will function **only**  after a **successful login** to the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}. 
 
 **Now that you have successfully logged in, the following links will be directly accessible.**
 
@@ -180,6 +180,6 @@ You can apply the voucher code when you schedule your exam. If you have a discou
 
 **Questions**
 
-View the certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+View the certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Additional questions? [Contact us](mailto:certif@adobe.com){target="_blank"}.

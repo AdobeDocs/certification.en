@@ -126,40 +126,40 @@ Here are some suggested resources to help you prepare:
 
 **Section 1: Business analysis**
 
-* [Which [!DNL Adobe Analytics] tool should I use?](https://experienceleague.adobe.com/docs/analytics/analyze/admin-overview/which-analytics-tool.html?lang=en){target="_blank"}
+* [Which [!DNL Adobe Analytics] tool should I use?](https://experienceleague.adobe.com/docs/analytics/analyze/admin-overview/which-analytics-tool.html){target="_blank"}
 * [[!DNL Adobe Analytics] Documentation](https://helpx.adobe.com/support/analytics.html){target="_blank"}
-* [About Data Collection](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/reporting-interface/overview-data-collection.html?lang=en){target="_blank"}
-* [Analytics Data Feed overview](https://experienceleague.adobe.com/docs/analytics/export/analytics-data-feed/data-feed-overview.html?lang=en){target="_blank"}
+* [About Data Collection](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/reporting-interface/overview-data-collection.html){target="_blank"}
+* [Analytics Data Feed overview](https://experienceleague.adobe.com/docs/analytics/export/analytics-data-feed/data-feed-overview.html){target="_blank"}
 
 **Section 2: Reporting and dashboarding for projects**
 
-* [Get started with Reports & Analytics](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/getting-started.html?lang=en){target="_blank"}
-* [[!DNL Adobe Analytics] dashboards - Overview](https://experienceleague.adobe.com/docs/analytics/analyze/mobapp/home.html?lang=en){target="_blank"}
-* [Projects overview](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/build-workspace-project/freeform-overview.html?lang=en){target="_blank"}
-* [Visualizations overview](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/freeform-analysis-visualizations.html?lang=en){target="_blank"}
-* [Intelligent Alerts overview](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/intelligent-alerts/intellligent-alerts.html?lang=en){target="_blank"}
+* [Get started with Reports & Analytics](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/getting-started.html){target="_blank"}
+* [[!DNL Adobe Analytics] dashboards - Overview](https://experienceleague.adobe.com/docs/analytics/analyze/mobapp/home.html){target="_blank"}
+* [Projects overview](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/build-workspace-project/freeform-overview.html){target="_blank"}
+* [Visualizations overview](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/freeform-analysis-visualizations.html){target="_blank"}
+* [Intelligent Alerts overview](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/intelligent-alerts/intellligent-alerts.html){target="_blank"}
 
 **Section 3: Segmentation and calculated metric**
 
-* [Analytics segmentation](https://experienceleague.adobe.com/docs/analytics/components/segmentation/seg-home.html?lang=en){target="_blank"}
-* [Calculated and Advanced Calculated (Derived) Metrics](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/cm-overview.html?lang=en){target="_blank"}
+* [Analytics segmentation](https://experienceleague.adobe.com/docs/analytics/components/segmentation/seg-home.html){target="_blank"}
+* [Calculated and Advanced Calculated (Derived) Metrics](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/cm-overview.html){target="_blank"}
 
 **Section 4: General tool knowledge and troubleshooting**
 
-* [Analytics Tools Guide](https://experienceleague.adobe.com/docs/analytics/analyze/home.html?lang=en){target="_blank"}
-* [Analysis Workspace Overview](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/intelligent-alerts/intellligent-alerts.html?lang=en){target="_blank"}
+* [Analytics Tools Guide](https://experienceleague.adobe.com/docs/analytics/analyze/home.html){target="_blank"}
+* [Analysis Workspace Overview](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/intelligent-alerts/intellligent-alerts.html){target="_blank"}
 
 **Section 5: Administration**
 
-* [Analytics Admin Guide](https://experienceleague.adobe.com/docs/analytics/admin/home.html?lang=en){target="_blank"}
-* [Frequently asked questions](https://experienceleague.adobe.com/docs/analytics/technotes/data-governance/gdpr-faq.html?lang=en){target="_blank"}
-* [Classification Rule Builder workflow](https://experienceleague.adobe.com/docs/analytics/components/classifications/classifications-rulebuilder/classification-rule-builder.html?lang=en){target="_blank"}
+* [Analytics Admin Guide](https://experienceleague.adobe.com/docs/analytics/admin/home.html){target="_blank"}
+* [Frequently asked questions](https://experienceleague.adobe.com/docs/analytics/technotes/data-governance/gdpr-faq.html){target="_blank"}
+* [Classification Rule Builder workflow](https://experienceleague.adobe.com/docs/analytics/components/classifications/classifications-rulebuilder/classification-rule-builder.html){target="_blank"}
 
 >[!TAB Get certified]
 
 >[!IMPORTANT]
 >
->The following sections and links will function **only**  after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
+>The following sections and links will function **only**  after a **successful login** to the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}. 
 
 
 **Now that you have successfully logged in, the following links will be directly accessible.**
@@ -199,6 +199,6 @@ You can apply the voucher code when you schedule your exam. If you have a discou
 
 **Questions**
 
-View the certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+View the certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Additional questions? [Contact us](mailto:certif@adobe.com){target="_blank"}.

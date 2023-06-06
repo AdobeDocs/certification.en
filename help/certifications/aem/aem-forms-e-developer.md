@@ -120,38 +120,38 @@ Here are some suggested resources to help you prepare:
 
 **Section 1: Forms creation and management**
 
-* [Adobe Experience Manager 6.4 Forms Guide](https://experienceleague.adobe.com/docs/experience-manager-64/forms/home.html?lang=en){target="_blank"} 
-* [AEM Forms Data Integration](https://experienceleague.adobe.com/docs/experience-manager-65/forms/form-data-model/data-integration.html?lang=en){target="_blank"} 
-* [Introduction to publishing forms](https://experienceleague.adobe.com/docs/experience-manager-64/forms/publish-process-aem-forms/introduction-publishing-forms.html?lang=en#aem-forms-portal-components-overview){target="_blank"} 
-* [Using Client-Side Libraries](https://experienceleague.adobe.com/docs/experience-manager-65/developing/introduction/clientlibs.html?lang=en#locating-a-client-library-folder-and-using-the-proxy-client-libraries-servlet){target="_blank"} 
+* [Adobe Experience Manager 6.4 Forms Guide](https://experienceleague.adobe.com/docs/experience-manager-64/forms/home.html){target="_blank"} 
+* [AEM Forms Data Integration](https://experienceleague.adobe.com/docs/experience-manager-65/forms/form-data-model/data-integration.html){target="_blank"} 
+* [Introduction to publishing forms](https://experienceleague.adobe.com/docs/experience-manager-64/forms/publish-process-aem-forms/introduction-publishing-forms.html#aem-forms-portal-components-overview){target="_blank"} 
+* [Using Client-Side Libraries](https://experienceleague.adobe.com/docs/experience-manager-65/developing/introduction/clientlibs.html#locating-a-client-library-folder-and-using-the-proxy-client-libraries-servlet){target="_blank"} 
 
 **Section 2: Processes and workflow**
 
-* [AEM Forms Tutorials and Videos](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/overview.html?lang=en){target="_blank"}
-* [Custom storage for drafts and submissions](https://experienceleague.adobe.com/docs/experience-manager-64/forms/use-forms-portal/adding-custom-storage-provider-forms.html?lang=en){target="_blank"}
-* [Output Service](https://experienceleague.adobe.com/docs/experience-manager-65/forms/use-document-services/output-service.html?lang=en#generating-non-interactive-form-documents){target="_blank"}
+* [AEM Forms Tutorials and Videos](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/overview.html){target="_blank"}
+* [Custom storage for drafts and submissions](https://experienceleague.adobe.com/docs/experience-manager-64/forms/use-forms-portal/adding-custom-storage-provider-forms.html){target="_blank"}
+* [Output Service](https://experienceleague.adobe.com/docs/experience-manager-65/forms/use-document-services/output-service.html#generating-non-interactive-form-documents){target="_blank"}
 
 **Section 3: Administration and troubleshooting**
 
-* [Debugging AEM as a Cloud Service using logs](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/debugging/debugging-aem-as-a-cloud-service/logs.html?lang=en#:~:text=aemerror%20is%20the%20Java%20error%20log%20%28found%20at,log%20levels%20for%20custom%20loggers%20per%20environment%20type%3A){target="_blank"}
-* [Enable Logging for HTML5 Forms](https://experienceleague.adobe.com/docs/experience-manager-65/forms/html5-forms/enable-logs.html?lang=en){target="_blank"}
+* [Debugging AEM as a Cloud Service using logs](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/debugging/debugging-aem-as-a-cloud-service/logs.html#:~:text=aemerror%20is%20the%20Java%20error%20log%20%28found%20at,log%20levels%20for%20custom%20loggers%20per%20environment%20type%3A){target="_blank"}
+* [Enable Logging for HTML5 Forms](https://experienceleague.adobe.com/docs/experience-manager-65/forms/html5-forms/enable-logs.html){target="_blank"}
 * [Adobe Experience Manager 6.5 Latest Service Pack Release Notes](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html){target="_blank"}
-* [Configuring Dispatcher](https://experienceleague.adobe.com/docs/experience-manager-dispatcher/using/configuring/dispatcher-configuration.html?lang=en){target="_blank"}
+* [Configuring Dispatcher](https://experienceleague.adobe.com/docs/experience-manager-dispatcher/using/configuring/dispatcher-configuration.html){target="_blank"}
 
 **Section 4: API endpoints and integrations**
 
-* [Integrate Adobe Experience Manager Forms as Cloud Service with Acrobat Sign | Adobe Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/forms-and-sign/introduction.html?lang=en){target="_blank"}
+* [Integrate Adobe Experience Manager Forms as Cloud Service with Acrobat Sign | Adobe Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/forms-and-sign/introduction.html){target="_blank"}
 
 **Section 5: Interactive Communication**
 
-* [Interaction Communications Overview](https://experienceleague.adobe.com/docs/experience-manager-64/forms/getting-started/interactive-communications-overview.html?lang=en){target="_blank"}
-* [Conditions in Interactive Communications](https://experienceleague.adobe.com/docs/experience-manager-65/forms/interactive-communications/conditions-interactive-communications.html?lang=en){target="_blank"}
+* [Interaction Communications Overview](https://experienceleague.adobe.com/docs/experience-manager-64/forms/getting-started/interactive-communications-overview.html){target="_blank"}
+* [Conditions in Interactive Communications](https://experienceleague.adobe.com/docs/experience-manager-65/forms/interactive-communications/conditions-interactive-communications.html){target="_blank"}
 
 >[!TAB Get certified]
 
 >[!IMPORTANT]
 >
->The following sections and links will function **only** after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
+>The following sections and links will function **only** after a **successful login** to the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}. 
 
 
 **Now that you have successfully logged in, the following links will be directly accessible.**
@@ -191,6 +191,6 @@ You can apply the voucher code when you schedule your exam. If you have a discou
 
 **Questions**
 
-View the certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+View the certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Additional questions? [Contact us](mailto:certif@adobe.com){target="_blank"}.

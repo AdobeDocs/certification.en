@@ -103,33 +103,33 @@ The sample questions allow you to see the type and format of items that you will
 
 **Section 1: Business analysis**
 
-* [Analytics Tools Guide](https://experienceleague.adobe.com/docs/analytics/analyze/home.html?lang=en){target="_blank"} 
-* [Analytics Components Guide](https://experienceleague.adobe.com/docs/analytics/components/home.html?lang=en){target="_blank"} 
-* [Implement [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=en){target="_blank"} 
-* [Data Workbench Help](https://experienceleague.adobe.com/docs/data-workbench/using/home.html?lang=en){target="_blank"} 
+* [Analytics Tools Guide](https://experienceleague.adobe.com/docs/analytics/analyze/home.html){target="_blank"} 
+* [Analytics Components Guide](https://experienceleague.adobe.com/docs/analytics/components/home.html){target="_blank"} 
+* [Implement [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html){target="_blank"} 
+* [Data Workbench Help](https://experienceleague.adobe.com/docs/data-workbench/using/home.html){target="_blank"} 
 
 **Section 2: Reporting and dashboarding for projects**
 
-* [Analytics Admin Guide](https://experienceleague.adobe.com/docs/analytics/admin/home.html?lang=en){target="_blank"}
-* [Analytics Tools Guide](https://experienceleague.adobe.com/docs/analytics/analyze/home.html?lang=en){target="_blank"}
-* [Visualization Overview](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/freeform-analysis-visualizations.html?lang=en#quick-viz){target="_blank"}
-* [Analytics Components Guide](https://experienceleague.adobe.com/docs/analytics/components/home.html?lang=en){target="_blank"}
-* [Customer Journey Analytics Guide](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=en){target="_blank"}
+* [Analytics Admin Guide](https://experienceleague.adobe.com/docs/analytics/admin/home.html){target="_blank"}
+* [Analytics Tools Guide](https://experienceleague.adobe.com/docs/analytics/analyze/home.html){target="_blank"}
+* [Visualization Overview](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/freeform-analysis-visualizations.html#quick-viz){target="_blank"}
+* [Analytics Components Guide](https://experienceleague.adobe.com/docs/analytics/components/home.html){target="_blank"}
+* [Customer Journey Analytics Guide](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html){target="_blank"}
 
 **Section 3: Segmentation and calculated metrics**
 
-* [Analytics Components Guide](https://experienceleague.adobe.com/docs/analytics/components/home.html?lang=en){target="_blank"}
+* [Analytics Components Guide](https://experienceleague.adobe.com/docs/analytics/components/home.html){target="_blank"}
 
 **Section 4: General tool knowledge and troubleshooting**
 
-* [Implement [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=en){target="_blank"}
-* [Analytics Components Guide](https://experienceleague.adobe.com/docs/analytics/components/home.html?lang=en){target="_blank"}
+* [Implement [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html){target="_blank"}
+* [Analytics Components Guide](https://experienceleague.adobe.com/docs/analytics/components/home.html){target="_blank"}
 
 >[!TAB Get certified]
 
 >[!IMPORTANT]
 >
->The following sections and links will function **only**  after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
+>The following sections and links will function **only**  after a **successful login** to the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}. 
 
 
 **Now that you have successfully logged in, the following links will be directly accessible.**
@@ -159,6 +159,6 @@ You can apply the voucher code when you schedule your exam. If you have a discou
 
 **Questions**
 
-View the certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+View the certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Additional questions? [Contact us](mailto:certif@adobe.com){target="_blank"}.

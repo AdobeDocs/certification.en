@@ -20,7 +20,7 @@ It's important to note that if your certification expires, you'll have to retake
 
 >[!IMPORTANT]
 >
->The following course assessment links will function **only** after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
+>The following course assessment links will function **only** after a **successful login** to the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}. 
 
 >[!BEGINTABS]
 
@@ -41,7 +41,7 @@ You should be currently certified (not expired) in:
 
 Select **three activities** to complete and pass the course assessments associated with each.
 
-* **Step 1**: Successfully log in to [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}, then return to this page
+* **Step 1**: Successfully log in to [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}, then return to this page
 * **Step 2**: Study the courses in Experience League
 * **Step 3**: Complete and pass each course assessment with at least 80%
 
@@ -61,7 +61,7 @@ The course assessments are free. There is no need to schedule them, and they are
 
 | Course | Course Assessment |
 | ------- | ------- |
-| [[!DNL Adobe Target] On-Device Decisioning Overview](https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/on-device-decisioning-overview.html?lang=en){target="_blank"} | [ADR-EA401](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADR-EA401){target="_blank"} |
+| [[!DNL Adobe Target] On-Device Decisioning Overview](https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/on-device-decisioning-overview.html){target="_blank"} | [ADR-EA401](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADR-EA401){target="_blank"} |
 | [[!DNL Adobe Target] Innovations in Personalization Course](https://business.adobe.com/summit/2021/sessions/adobe-target-innovations-in-personalization-s901.html){target="_blank"} | [ADR-EA402](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADR-EA402){target="_blank"} |
 | [Mobile App Implementation and Personalization Course](https://experienceleague.adobe.com/?recommended=Target-D-1-2020.1.mobile){target="_blank"} | [ADR-EA403](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADR-EA403){target="_blank"} |
 | [Guided Mobile and IoT Launch for Developers Course](https://experienceleague.adobe.com/?recommended=Target-D-1-2019.1.web){target="_blank"} | [ADR-EA404](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADR-EA404){target="_blank"} |
@@ -75,6 +75,6 @@ The course assessments are free. There is no need to schedule them, and they are
 
 **Questions**
 
-View the certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+View the certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Additional questions? [Contact us](mailto:certif@adobe.com){target="_blank"}.

@@ -113,34 +113,34 @@ The sample questions allow you to see the type and format of items that you will
 
 **Section 1: Analytics in the Adobe Experience Cloud ecosystem**
 
-* [Adobe Experience Cloud Identity Service](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=en){target="_blank"} 
-* [FAQs](https://experienceleague.adobe.com/docs/id-service/using/faqs/faq-intro.html?lang=en){target="_blank"} 
-* [AEM 6.5 Authoring User Guide](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html?lang=en){target="_blank"} 
-* [Overview](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/overview.html?lang=en){target="_blank"} 
-* [Tags overview](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html?lang=en){target="_blank"} 
-* [Implement [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=en){target="_blank"} 
+* [Adobe Experience Cloud Identity Service](https://experienceleague.adobe.com/docs/id-service/using/home.html){target="_blank"} 
+* [FAQs](https://experienceleague.adobe.com/docs/id-service/using/faqs/faq-intro.html){target="_blank"} 
+* [AEM 6.5 Authoring User Guide](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html){target="_blank"} 
+* [Overview](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/overview.html){target="_blank"} 
+* [Tags overview](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html){target="_blank"} 
+* [Implement [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html){target="_blank"} 
 
 **Section 2: Analytics strategy and design based on a solution design reference**
 
-* [Analytics tutorials](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html?lang=en){target="_blank"}
-* [Implement [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=en){target="_blank"}
-* [Analytics Admin Guide](https://experienceleague.adobe.com/docs/analytics/admin/home.html?lang=en){target="_blank"}
+* [Analytics tutorials](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html){target="_blank"}
+* [Implement [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html){target="_blank"}
+* [Analytics Admin Guide](https://experienceleague.adobe.com/docs/analytics/admin/home.html){target="_blank"}
 
 **Section 3: Analytics implementation and configuration**
 
-* [Implement [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=en){target="_blank"}
-* [Tags overview](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html?lang=en){target="_blank"}
-* [Analytics Tool Guide](https://experienceleague.adobe.com/docs/analytics/analyze/home.html?lang=en){target="_blank"}
-* [Analytics Admin Guide](https://experienceleague.adobe.com/docs/analytics/admin/home.html?lang=en){target="_blank"}
-* [Developers Live: Adobe Client Data Layer: Track your visitor data](https://experienceleague.adobe.com/docs/adobe-developers-live-events/assets/adobe-client-data-layer.pdf?lang=en){target="_blank"}
+* [Implement [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html){target="_blank"}
+* [Tags overview](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html){target="_blank"}
+* [Analytics Tool Guide](https://experienceleague.adobe.com/docs/analytics/analyze/home.html){target="_blank"}
+* [Analytics Admin Guide](https://experienceleague.adobe.com/docs/analytics/admin/home.html){target="_blank"}
+* [Developers Live: Adobe Client Data Layer: Track your visitor data](https://experienceleague.adobe.com/docs/events/adobe-developers-live-recordings/2021/feb2021/adobe-client-data-layer.html){target="_blank"}
 * [Quick tip – Passing Data into Launch Rules](https://webanalyticsfordevelopers.com/2018/09/18/quick-tip-passing-data-into-launch-rules/){target="_blank"}
 
 **Section 4: Tag management systems**
 
-* [Tags overview](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html?lang=en){target="_blank"}
+* [Tags overview](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html){target="_blank"}
 * [Tag Management](https://business.adobe.com/products/analytics/tag-management.html){target="_blank"}
-* [Overview](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/overview.html?lang=en){target="_blank"}
-* [Analytics tutorials](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html?lang=en){target="_blank"}
+* [Overview](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/overview.html){target="_blank"}
+* [Analytics tutorials](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html){target="_blank"}
 
 **Section 5: Mobile services and API**
 
@@ -148,19 +148,19 @@ The sample questions allow you to see the type and format of items that you will
 * [[!DNL Adobe Analytics] APIs](https://adobedocs.github.io/analytics-2.0-apis/#/){target="_blank"}
 * [Welcome to the enterprise and teams admin guide](https://helpx.adobe.com/enterprise/admin-guide.html){target="_blank"}
 * [Getting started with the Analytics API](https://developer.adobe.com/analytics-apis/docs/2.0/guides/){target="_blank"}
-* [Analytics Admin Guide](https://experienceleague.adobe.com/docs/analytics/admin/home.html?lang=en){target="_blank"}
+* [Analytics Admin Guide](https://experienceleague.adobe.com/docs/analytics/admin/home.html){target="_blank"}
 
 **Section 6: Testing, validation, and troubleshooting**
 
 * [JavaScript error reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors){target="_blank"}
-* [Analytics Tech Notes](https://experienceleague.adobe.com/docs/analytics/technotes/home.html?lang=en){target="_blank"}
-* [Implement [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=en){target="_blank"}
+* [Analytics Tech Notes](https://experienceleague.adobe.com/docs/analytics/technotes/home.html){target="_blank"}
+* [Implement [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html){target="_blank"}
 
 >[!TAB Get certified]
 
 >[!IMPORTANT]
 >
->The following sections and links will function **only**  after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
+>The following sections and links will function **only**  after a **successful login** to the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}. 
 
 
 **Now that you have successfully logged in, the following links will be directly accessible.**
@@ -190,6 +190,6 @@ You can apply the voucher code when you schedule your exam. If you have a discou
 
 **Questions**
 
-View the certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+View the certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Additional questions? [Contact us](mailto:certif@adobe.com){target="_blank"}.

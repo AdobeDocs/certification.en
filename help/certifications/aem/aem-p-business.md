@@ -95,48 +95,48 @@ The sample questions allow you to see the type and format of items that you will
 
 **Section 1: Education**
 
-* [Authoring Guide Overview](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html?lang=en){target="_blank"} 
-* [Basic Configuration Concepts](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/configuring/configuring.html?lang=en){target="_blank"}
-* [Upgrading to AEM 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/upgrading/upgrade.html?lang=en){target="_blank"} 
-* [Learn About AEM 6.5 Capabilities](https://experienceleague.adobe.com/docs/experience-manager-65/user-guide/troubleshooting/learn.html?lang=en){target="_blank"}
-* [Adobe [!DNL Experience Manager] as a Cloud Service - Terminology](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/terminology.html?lang=en){target="_blank"}
-* [[!DNL Experience Manager] as a Cloud Service documentation](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=en){target="_blank"}
+* [Authoring Guide Overview](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html){target="_blank"} 
+* [Basic Configuration Concepts](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/configuring/configuring.html){target="_blank"}
+* [Upgrading to AEM 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/upgrading/upgrade.html){target="_blank"} 
+* [Learn About AEM 6.5 Capabilities](https://experienceleague.adobe.com/docs/experience-manager-65/user-guide/troubleshooting/learn.html){target="_blank"}
+* [Adobe [!DNL Experience Manager] as a Cloud Service - Terminology](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/terminology.html){target="_blank"}
+* [[!DNL Experience Manager] as a Cloud Service documentation](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html){target="_blank"}
 * [Manage assets using Adobe Asset Link](https://helpx.adobe.com/enterprise/using/manage-assets-using-adobe-asset-link.html){target="_blank"}
 
 **Section 2: Architecture**
 
-* [AEM 6.4 Administering User Guide](https://experienceleague.adobe.com/docs/experience-manager-64/administering/home.html?lang=en){target="_blank"}
-* [Assets Guide](https://experienceleague.adobe.com/docs/experience-manager-64/assets/home.html?lang=en){target="_blank"}
-* [[!DNL Experience Manager as a Cloud Service] documentation](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=en){target="_blank"}
-* [Dispatcher Overview](https://experienceleague.adobe.com/docs/experience-manager-dispatcher/using/dispatcher.html?lang=en){target="_blank"}
+* [AEM 6.4 Administering User Guide](https://experienceleague.adobe.com/docs/experience-manager-64/administering/home.html){target="_blank"}
+* [Assets Guide](https://experienceleague.adobe.com/docs/experience-manager-64/assets/home.html){target="_blank"}
+* [[!DNL Experience Manager as a Cloud Service] documentation](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html){target="_blank"}
+* [Dispatcher Overview](https://experienceleague.adobe.com/docs/experience-manager-dispatcher/using/dispatcher.html){target="_blank"}
 
 **Section 3: Business analysis**
 
-* [AEM 6.4 Managing User Guide](https://experienceleague.adobe.com/docs/experience-manager-64/managing/home.html?lang=en){target="_blank"}
-* [AEM 6.5 Administering User Guide](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html?lang=en){target="_blank"}
-* [Assets Guide](https://experienceleague.adobe.com/docs/experience-manager-64/assets/home.html?lang=en){target="_blank"}
-* [AEM 6.5 Authoring User Guide](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html?lang=en){target="_blank"}
-* [Adobe [!DNL Experience Manager] 6.5 Communities Guide](https://experienceleague.adobe.com/docs/experience-manager-65/communities/home.html?lang=en){target="_blank"}
-* [AEM 6.5 Developing User Guide](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html?lang=en){target="_blank"}
-* [Adobe [!DNL Experience Manager] 6.5 [!DNL Forms] Guide](https://experienceleague.adobe.com/docs/experience-manager-65/forms/home.html?lang=en){target="_blank"}
-* [AEM 6.5 Managing User Guide](https://experienceleague.adobe.com/docs/experience-manager-65/managing/home.html?lang=en){target="_blank"}
-* [[!DNL Experience Manager as a Cloud Service] documentation](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=en){target="_blank"}
-* [[!DNL AEM Screens] and Best Practices Guide](https://experienceleague.adobe.com/docs/experience-manager-screens/using/about-guide.html?lang=en){target="_blank"}
+* [AEM 6.4 Managing User Guide](https://experienceleague.adobe.com/docs/experience-manager-64/managing/home.html){target="_blank"}
+* [AEM 6.5 Administering User Guide](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html){target="_blank"}
+* [Assets Guide](https://experienceleague.adobe.com/docs/experience-manager-64/assets/home.html){target="_blank"}
+* [AEM 6.5 Authoring User Guide](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html){target="_blank"}
+* [Adobe [!DNL Experience Manager] 6.5 Communities Guide](https://experienceleague.adobe.com/docs/experience-manager-65/communities/home.html){target="_blank"}
+* [AEM 6.5 Developing User Guide](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html){target="_blank"}
+* [Adobe [!DNL Experience Manager] 6.5 [!DNL Forms] Guide](https://experienceleague.adobe.com/docs/experience-manager-65/forms/home.html){target="_blank"}
+* [AEM 6.5 Managing User Guide](https://experienceleague.adobe.com/docs/experience-manager-65/managing/home.html){target="_blank"}
+* [[!DNL Experience Manager as a Cloud Service] documentation](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html){target="_blank"}
+* [[!DNL AEM Screens] and Best Practices Guide](https://experienceleague.adobe.com/docs/experience-manager-screens/using/about-guide.html){target="_blank"}
 
 **Section 4: Setup and implementation**
 
-* [AEM 6.4 Authoring User Guide](https://experienceleague.adobe.com/docs/experience-manager-64/authoring/home.html?lang=en){target="_blank"}
-* [AEM 6.4 Developing User Guide](https://experienceleague.adobe.com/docs/experience-manager-64/developing/home.html?lang=en){target="_blank"}
-* [AEM 6.5 Administering User Guide](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html?lang=en){target="_blank"}
-* [AEM Development - Guidelines and Best Practices](https://experienceleague.adobe.com/docs/experience-manager-65/developing/introduction/dev-guidelines-bestpractices.html?lang=en){target="_blank"}
-* [Integrating with Adobe [!DNL Target]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/sites/integrations/integrating-adobe-target.html?lang=en){target="_blank"}
-* [AEM [!DNL Sites] videos and tutorials](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/overview.html?lang=en){target="_blank"}
+* [AEM 6.4 Authoring User Guide](https://experienceleague.adobe.com/docs/experience-manager-64/authoring/home.html){target="_blank"}
+* [AEM 6.4 Developing User Guide](https://experienceleague.adobe.com/docs/experience-manager-64/developing/home.html){target="_blank"}
+* [AEM 6.5 Administering User Guide](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html){target="_blank"}
+* [AEM Development - Guidelines and Best Practices](https://experienceleague.adobe.com/docs/experience-manager-65/developing/introduction/dev-guidelines-bestpractices.html){target="_blank"}
+* [Integrating with Adobe [!DNL Target]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/sites/integrations/integrating-adobe-target.html){target="_blank"}
+* [AEM [!DNL Sites] videos and tutorials](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/overview.html){target="_blank"}
 
 >[!TAB Get certified]
 
 >[!IMPORTANT]
 >
->The following sections and links will function **only**  after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
+>The following sections and links will function **only**  after a **successful login** to the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}. 
 
 **Now that you have successfully logged in, the following links will be directly accessible.**
 
@@ -165,6 +165,6 @@ You can apply the voucher code when you schedule your exam. If you have a discou
 
 **Questions**
 
-View the certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+View the certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Additional questions? [Contact us](mailto:certif@adobe.com){target="_blank"}.
