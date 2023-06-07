@@ -9,7 +9,7 @@ exl-id: 507ed14b-fd89-4701-aeeb-8905daec7270
 ---
 # Restart your certification journey by going from expired to certified
 
->[!AVAILABILTY]
+>[!AVAILABILITY]
 >
 > This limited time program, offered from **April 24th, 2023 through October 20th, 2023**.  The program provides an opportunity to update your skills and stay ahead of the curve in a rapidly changing digital landscape.
 >
