@@ -728,7 +728,7 @@ This exam is free, open book, and un-proctored. You may take the exam up to thre
 
 >[!ENDTABS]
 
-### Questions
+## Questions
 
 View the certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 

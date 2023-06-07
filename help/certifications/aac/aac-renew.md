@@ -40,7 +40,7 @@ We're happy to announce that you are now able to renew your certification via a 
 
 >[!ENDTABS]
 
-**Questions**
+## Questions
 
 View the certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 

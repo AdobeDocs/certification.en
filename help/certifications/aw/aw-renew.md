@@ -353,7 +353,7 @@ Ensure that you have followed step 1 above, and successfully logged in to [Adobe
 
 >[!ENDTABS]
 
-**Questions**
+## Questions
 
 View the certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 

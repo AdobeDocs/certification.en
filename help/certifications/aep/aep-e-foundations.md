@@ -311,7 +311,7 @@ You can apply the voucher code when you schedule your exam. If you have a discou
 
 >[!ENDTABS]
 
-**Questions**
+## Questions
 
 View the certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 

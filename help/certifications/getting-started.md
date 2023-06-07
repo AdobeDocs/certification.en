@@ -66,9 +66,12 @@ The Certification Journey Guide is a comprehensive tool designed to provide you 
 
 >[!ENDTABS]
 
-[!BADGE Get certified]{type=Informative url="https://experienceleague.adobe.com/docs/certification/certification/how-to-get-certified.html newtab=true"}
+<a href="https://experienceleague.adobe.com/docs/certification/certification/how-to-get-certified.html" class="spectrum-Button spectrum-Button--primary spectrum-Button--sizeM">
+  <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Get Certified</span>
+</a>
 
-**Questions**
+
+## Questions
 
 View the certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 

@@ -204,7 +204,7 @@ Your badge serves as tangible evidence of your proficiency with Adobe Experience
 
 >[!ENDTABS]
 
-**Questions**
+## Questions
 
 View the certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
