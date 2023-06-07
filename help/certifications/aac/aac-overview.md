@@ -25,7 +25,7 @@ Visit the [Renew your certification](/help/certifications/renew.md) page to see 
 For more information about these products, use these [business.adobe.com](https://business.adobe.com/) links,
 
 * [Adobe Advertising Demand-side Platform (DSP)](https://business.adobe.com/products/advertising/demand-side-platform.html){target="_blank"}
-* [Adobe Advertising Search](https://business.adobe.com/products/advertising/search-marketing-management){target="_blank"}
+* [Adobe Advertising Search](https://business.adobe.com/products/advertising/search-marketing-management.html){target="_blank"}
 
 ## Questions
 
