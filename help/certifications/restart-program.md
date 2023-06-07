@@ -9,13 +9,15 @@ exl-id: 507ed14b-fd89-4701-aeeb-8905daec7270
 ---
 # Restart your certification journey by going from expired to certified
 
-This limited time program, offered **from April 24th, 2023 through October 20th, 2023**, gives you a chance to update your skills and stay ahead of the curve in a rapidly changing digital landscape.
-
-Individuals whose certifications expired starting in 2020 through April 23, 2023, are eligible for this **free** program.
+>[!AVAILABILTY]
+>
+> This limited time program, offered from **April 24th, 2023 through October 20th, 2023**.  The program provides an opportunity to update your skills and stay ahead of the curve in a rapidly changing digital landscape.
+>
+> ** ELIGIBILITY : Individuals whose certifications expired starting in 2020 through April 23, 2023 are eligible for this **free** program.
 
 ## Introduction
 
-The Adobe Restart Program is an initiative that allows individuals with expired [!DNL Experience Cloud] certifications to re-certify, free of charge. If you have previously held an Adobe Experience Cloud certification that has since expired, you may be eligible to Restart your certification via FREE and non-proctored testing formats. This program is a valuable resource for people seeking to enhance their knowledge and skills of the Adobe Experience Cloud and stay competitive. 
+The Adobe Restart Program is an initiative that allows individuals with expired [!DNL Experience Cloud] certifications to re-certify, free of charge. If you have previously held an Adobe Experience Cloud certification that has since expired, you may be eligible to Restart your certification via FREE and non-proctored testing formats. This program is a valuable resource for people seeking to enhance their knowledge and skills of the Adobe Experience Cloud and stay competitive.
 
 ### Steps to restart your expired certification{#exams}
 
@@ -204,12 +206,9 @@ The course assessments are free. There is no need to schedule them, and they are
 
 You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
 
-Here are some suggested resources to help you prepare:
+Here are suggested resources,
 
-[!BADGE Sample questions]{type=Informative url="https://sei.caveon.com/launchpad/ad4-e453-adobe-audience-manager-business-practitioner-sample-exam newtab=true"}
-
-**Resources:**
-
+* [Sample Exam](https://sei.caveon.com/launchpad/ad4-e453-adobe-audience-manager-business-practitioner-sample-exam){target="_blank"}
 * [[!DNL Audience Manager] Product Documentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html){target="_blank"}
 * [Adobe Support - [!DNL Experience Cloud] Audiences](https://experienceleaguecommunities.adobe.com/t5/Adobe-Experience-Cloud-Audiences/ct-p/experience-cloud-audiences-community){target="_blank"}
 * [[!DNL Experience Cloud] Learn and Support](https://helpx.adobe.com/support/experience-cloud.html){target="_blank"}
@@ -217,9 +216,14 @@ Here are some suggested resources to help you prepare:
 
 **Restart your certification**
 
-This exam is free, open book, and un-proctored. You may take the exam up to three times. If you are unsuccessful after the third attempt, you must wait **30 days** to try again. Failure to comply might result in your certification being revoked.
+The Adobe Audience Manager Business Practitioner expert restart exam ADS-E826 is free, open book, and un-proctored. You may take the exam up to three times. If you are unsuccessful after the third attempt, you must wait **30 days** to try again. Failure to comply might result in your certification being revoked.
 
-[!BADGE Take the Adobe Audience Manager Business Practitioner expert restart exam ADS-E826]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADS-E826 newtab=true"} 
+<a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADS-E82" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+                    
+ <span class="spectrum-Button-label has-no-wrap">
+   Take the exam
+</span>
+</a>
 
 +++
 
@@ -313,9 +317,14 @@ Here are some suggested resources to help you prepare:
 
 ### Restart your certification
 
-This exam is free, open book, and un-proctored. You may take the exam up to three times. If you are unsuccessful after the third attempt, you must wait **30 days** to try again. Failure to comply might result in your certification being revoked.
+The Adobe Audience Manager Architect master restart exam ADS-E825 is free, open book, and un-proctored. You may take the exam up to three times. If you are unsuccessful after the third attempt, you must wait **30 days** to try again. Failure to comply might result in your certification being revoked.
 
-[!BADGE Take the Adobe Audience Manager Architect master restart exam ADS-E825]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADS-E825 newtab=true"}
+<a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADS-E825" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+                    
+ <span class="spectrum-Button-label has-no-wrap">
+   Take the exam
+</span>
+</a>
 
 +++
 
@@ -423,9 +432,14 @@ Here are some suggested resources to help you prepare:
 
 ### Restart your certification
 
-This exam is free, open book, and un-proctored. You may take the exam up to three times. If you are unsuccessful after the third attempt, you must wait **30 days** to try again. Failure to comply might result in your certification being revoked.
+The Adobe [!DNL Campaign Standard] Developer Expert restart exam ADS-821 is free, open book, and un-proctored. You may take the exam up to three times. If you are unsuccessful after the third attempt, you must wait **30 days** to try again. Failure to comply might result in your certification being revoked.
 
-[!BADGE Take the Adobe [!DNL Campaign Standard] Developer Expert restart exam ADS-821]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADS-E821 newtab=true"} 
+<a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADS-E821" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+                    
+ <span class="spectrum-Button-label has-no-wrap">
+   Take the exam
+</span>
+</a>
 
 +++
 
@@ -496,9 +510,14 @@ Section 4: Administration, monitoring and reporting
 
 ### Restart your certification
 
-This exam is free, open book, and un-proctored. You may take the exam up to three times. If you are unsuccessful after the third attempt, you must wait **30 days** to try again. Failure to comply might result in your certification being revoked.
+The Adobe [!DNL Campaign Standard] Business Practitioner Expert restart exam ADS-822 is free, open book, and un-proctored. You may take the exam up to three times. If you are unsuccessful after the third attempt, you must wait **30 days** to try again. Failure to comply might result in your certification being revoked.
 
-[!BADGE Take the Adobe [!DNL Campaign Standard] Business Practitioner Expert restart exam ADS-822]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADS-E822 newtab=true"} 
+<a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADS-E822" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+                    
+ <span class="spectrum-Button-label has-no-wrap">
+   Take the exam
+</span>
+</a>
 
 +++
 
@@ -601,9 +620,14 @@ Here are some suggested resources to help you prepare:
 
 ### Restart your certification
 
-This exam is free, open book, and un-proctored. You may take the exam up to three times. If you are unsuccessful after the third attempt, you must wait **30 days** to try again. Failure to comply might result in your certification being revoked.
+The Adobe Campaign Classic restart exam ADS-823 is free, open book, and un-proctored. You may take the exam up to three times. If you are unsuccessful after the third attempt, you must wait **30 days** to try again. Failure to comply might result in your certification being revoked.
 
-[!BADGE Take the Adobe Campaign Classic restart exam ADS-823]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADS-E823 newtab=true"} 
+<a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADS-E823" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+                    
+ <span class="spectrum-Button-label has-no-wrap">
+   Take the exam
+</span>
+</a>
 
 +++
 
@@ -722,9 +746,14 @@ Here are some suggested resources to help you prepare:
 
 ### Restart your certification
 
-This exam is free, open book, and un-proctored. You may take the exam up to three times. If you are unsuccessful after the third attempt, you must wait **30 days** to try again. Failure to comply might result in your certification being revoked.
+The Adobe Marketo Engage Business Practitioner expert restart exam ADS-E824is free, open book, and un-proctored. You may take the exam up to three times. If you are unsuccessful after the third attempt, you must wait **30 days** to try again. Failure to comply might result in your certification being revoked.
 
-[!BADGE Take the Adobe Marketo Engage Business Practitioner expert restart exam ADS-E824]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADS-E824 newtab=true"} 
+<a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADS-E824" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+                    
+ <span class="spectrum-Button-label has-no-wrap">
+   Take the exam
+</span>
+</a>
 
 >[!ENDTABS]
 
