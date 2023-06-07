@@ -84,7 +84,10 @@ two
 
 4 
 
-[View course](https://experienceleague.adobe.com/?recommended=MarketoEngage-U-5-2023.1#dashboard/learning){class="spectrum-Button spectrum-Button--cta spectrum-Button--sizeM is-margin-bottom-big"}
+[View course](https://experienceleague.adobe.com/?recommended=MarketoEngage-U-5-2023.1#dashboard/learning){target="_blank" class="spectrum-Button spectrum-Button--cta spectrum-Button--sizeM is-margin-bottom-big"}
+
+5
+[Get certified](https://experienceleague.adobe.com/?recommended=MarketoEngage-U-5-2023.1#dashboard/learning){target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6"}
 
 ## Questions
 
