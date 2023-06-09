@@ -127,12 +127,12 @@ Here are some suggested resources to help you prepare:
 **Section 1: Core features/general configuration**
 
 * [[!DNL Commerce] merchant documentation](https://docs.magento.com/user-guide/getting-started.html){target="_blank"} 
-* [Understanding Product Types](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/3-1-product-types-options.html?lang=en){target="_blank"} 
-* [Customer Management](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/5-2-customer-management.html?lang=en){target="_blank"} 
+* [Understanding Product Types](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/3-1-product-types-options.html){target="_blank"} 
+* [Customer Management](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/5-2-customer-management.html){target="_blank"} 
 * [Create a product](https://docs.magento.com/user-guide/catalog/product-types.html){target="_blank"} 
-* [Admin menus](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/1-1-menus.html?lang=en){target="_blank"} 
-* [Data grids](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/1-2-data-grids.html?lang=en){target="_blank"} 
-* [Store settings](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/1-7-business-settings.html?lang=en){target="_blank"} 
+* [Admin menus](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/1-1-menus.html){target="_blank"} 
+* [Data grids](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/1-2-data-grids.html){target="_blank"} 
+* [Store settings](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/1-7-business-settings.html){target="_blank"} 
 * [Introduction to stores and purchase experience](https://docs.magento.com/user-guide/stores/stores.html){target="_blank"} 
 * [Introduction to Admin systems: Operation management](https://docs.magento.com/user-guide/operations.html){target="_blank"} 
 * [Import and export products](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/3-7-import-export-products.html){target="_blank"} 
@@ -152,14 +152,14 @@ Here are some suggested resources to help you prepare:
 **Section 2: Merchandising**
 
 * [Promotions](https://docs.magento.com/user-guide/marketing/promotions.html){target="_blank"} 
-* [Product categories](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/2-1-categories.html?lang=en){target="_blank"} 
+* [Product categories](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/2-1-categories.html){target="_blank"} 
 * [Category positioning](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/4-2-arrange-product-categories.html){target="_blank"} 
 * [Product settings](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/3-2-product-settings.html){target="_blank"} 
 * [Attributes](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/3-3-product-attributes.html){target="_blank"} 
 * [Attribute sets](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/3-4-product-attribute-sets.html){target="_blank"} 
 * [Simple products](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/3-5-create-simple-product.html){target="_blank"} 
-* [Configurable attributes](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/3-6-configurable-attributes.html?lang=en){target="_blank"} 
-* [Layered navigation](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/4-1-layered-navigation.html?lang=en){target="_blank"} 
+* [Configurable attributes](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/3-6-configurable-attributes.html){target="_blank"} 
+* [Layered navigation](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/4-1-layered-navigation.html){target="_blank"} 
 * [Introduction to catalog management](https://docs.magento.com/user-guide/catalog.html){target="_blank"} 
 * [Advanced Pricing](https://docs.magento.com/user-guide/catalog/pricing.html){target="_blank"} 
 
@@ -185,8 +185,8 @@ Here are some suggested resources to help you prepare:
 
 **Section 5: Systems Architecture**
 
-* [Commerce for business users - Sites, stores, and views](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/1-3-apps-scopes-sites-stores.html?lang=en){target="_blank"}
-* [Commerce for business users - Store views and cache clearing](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/1-4-store-views-cache.html?lang=en){target="_blank"}
+* [Commerce for business users - Sites, stores, and views](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/1-3-apps-scopes-sites-stores.html){target="_blank"}
+* [Commerce for business users - Store views and cache clearing](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/1-4-store-views-cache.html){target="_blank"}
 * [Commerce for business users - Storefront](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/5-1-storefront-experience.html){target="_blank"}
 * [Store Details](https://docs.magento.com/user-guide/configuration/configuration-basic.html){target="_blank"}
 * [Reports menu](https://docs.magento.com/user-guide/reports.html){target="_blank"}
@@ -194,8 +194,8 @@ Here are some suggested resources to help you prepare:
 
 **Section 6: Compliance/Security**
 
-* [Users and roles](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/1-5-users-roles.html?lang=en){target="_blank"}
-* [Role scopes and permissions](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/1-6-role-scopes.html?lang=en){target="_blank"}
+* [Users and roles](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/1-5-users-roles.html){target="_blank"}
+* [Role scopes and permissions](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/1-6-role-scopes.html){target="_blank"}
 * [Permissions](https://docs.magento.com/user-guide/system/permissions.html){target="_blank"}
 * [Store Privacy Policy](https://docs.magento.com/user-guide/stores/privacy-policy.html){target="_blank"}
 * [Security and compliance](https://docs.magento.com/user-guide/payment-services/security.html){target="_blank"}
@@ -206,7 +206,7 @@ Here are some suggested resources to help you prepare:
 
 >[!IMPORTANT]
 >
->The following sections and links will function **only**  after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
+>The following sections and links will function **only**  after a **successful login** to the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}. 
 
 **Now that you have successfully logged in, the following links will be directly accessible.**
 
@@ -245,6 +245,6 @@ You can apply the voucher code when you schedule your exam. If you have a discou
 
 **Questions**
 
-View the certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+View the certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Additional questions? [Contact us](mailto:certif@adobe.com){target="_blank"}.

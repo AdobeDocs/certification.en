@@ -32,4 +32,4 @@ Our certification program is designed for professionals in a variety of fields, 
 
 So why wait? Take the first step towards unlocking your professional potential and explore our certification paths today!
 
-[!BADGE Get Started]{type=Informative url="https://experienceleague.adobe.com/docs/certification/certification/getting-started.html?lang=en newtab=true"}
+[!BADGE Get Started]{type=Informative url="https://experienceleague.adobe.com/docs/certification/certification/getting-started.html newtab=true"}

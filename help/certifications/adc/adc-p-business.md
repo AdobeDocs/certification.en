@@ -90,7 +90,7 @@ Here are some suggested resources to help you prepare:
 * [Adobe PDF Embed API](https://developer.adobe.com/document-services/apis/pdf-embed/){target="_blank"}
 * [PDF and e-signature tools for your business. Acrobat's got it.](https://www.adobe.com/acrobat/business.html){target="_blank"}
 * [Adobe Acrobat User Guide](https://helpx.adobe.com/acrobat/user-guide.html){target="_blank"}
-* [Integrations overview- What's new](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/integrations/integrations-overview.html?lang=en#what%E2%80%99s-new){target="_blank"}
+* [Integrations overview- What's new](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/integrations/integrations-overview.html#what%E2%80%99s-new){target="_blank"}
 * [Safe, flexible online signatures](https://www.adobe.com/sign/online-signature.html){target="_blank"}
 
 **Section 3: Define Document Cloud (DC) Capabilities**
@@ -116,7 +116,7 @@ Here are some suggested resources to help you prepare:
 
 >[!IMPORTANT]
 >
->The following sections and links will function **only**  after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
+>The following sections and links will function **only**  after a **successful login** to the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}. 
 
 **Now that you have successfully logged in, the following links will be directly accessible.**
 
@@ -157,7 +157,7 @@ You can apply the voucher code when you schedule your exam. If you have a discou
 
 **Questions**
 
-View the certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+View the certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Additional questions? [Contact us](mailto:certif@adobe.com){target="_blank"}.
 

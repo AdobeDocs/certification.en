@@ -22,7 +22,7 @@ Individual benefits: Certification is a credential that recognizes an individual
 
 Certifications require commitment, are legally defensible, and validation from Adobe of your expertise. You can also feature your certification on your social profiles by downloading your badge from [!DNL Credly]. 
 
-To learn more about how to manage your badges in [!DNL Credly], go [HERE](https://experienceleague.adobe.com/docs/certification/certification/how-to-get-certified.html?lang=en){target="_blank"}.
+To learn more about how to manage your badges in [!DNL Credly], go [HERE](https://experienceleague.adobe.com/docs/certification/certification/how-to-get-certified.html){target="_blank"}.
 
 +++
 
@@ -37,7 +37,7 @@ Certifications are role-based, which means there are multiple exams available. R
 Sometimes there are multiple versions of an exam. It's best to take the latest version.
 
 * If an exam is retiring, you will see a note on the certification journey page. This means that this exam version will soon be removed because a new version of the exam is available. We encourage candidates to take the most recent version, but you can take the retiring version if you feel more prepared to take it. Either way, your certification will last for two years.  
-* If your current certification is about to expire, you should renew it. Renewal options have fewer questions, and are FREE. These options cover the most recent application capabilities. If your certification expires, you'll have to take the latest version of the certification exam, which you would pay for. [Learn more about renewal options](https://experienceleague.adobe.com/docs/certification/certification/renew.html?lang=en){target="_blank"}.
+* If your current certification is about to expire, you should renew it. Renewal options have fewer questions, and are FREE. These options cover the most recent application capabilities. If your certification expires, you'll have to take the latest version of the certification exam, which you would pay for. [Learn more about renewal options](https://experienceleague.adobe.com/docs/certification/certification/renew.html){target="_blank"}.
 
 +++
 
@@ -148,7 +148,7 @@ Occasionally, we retire an exam for a role. In that case, your certification wil
 
 Your certification will expire and will show as expired in [!DNL Credly] and any of your social profiles. Also, if your certification expires, then you can't take the shorter renewal exam or renew via continuous learning. 
 
-To learn more about how to manage your badges in [!DNL Credly], go [HERE](https://experienceleague.adobe.com/docs/certification/certification/how-to-get-certified.html?lang=en){target="_blank"}.
+To learn more about how to manage your badges in [!DNL Credly], go [HERE](https://experienceleague.adobe.com/docs/certification/certification/how-to-get-certified.html){target="_blank"}.
 
 +++
 
@@ -156,7 +156,7 @@ To learn more about how to manage your badges in [!DNL Credly], go [HERE](https:
 
 You can renew your certification free of charge. This provides you with a cost-effective way to maintain your certification, and keep your solution skills up to date.
 
-To learn more about How to Renew Your Certification, go [here](https://experienceleague.adobe.com/docs/certification/certification/renew.html?lang=en){target="_blank"}.
+To learn more about How to Renew Your Certification, go [here](https://experienceleague.adobe.com/docs/certification/certification/renew.html){target="_blank"}.
 
 +++
 
@@ -381,7 +381,7 @@ Final requirement is to pass the new [!DNL Marketo Engage] Architect exam. For a
 
 +++Why are Adobe [!DNL Commerce] Certifications not part of Adobe Certification Restart Program? 
 
-There are no expired certificate holders for currently offered Adobe [!DNL Commerce] Certifications as of April 23, 2023. Therefore, all active Adobe [!DNL Commerce] Certified candidates have the option to renew through the continuous learning [renewal path for certification](https://experienceleague.corp.adobe.com/docs/certification/certification/technical-certifications/ac/ac-renew.html?lang=en){target="_blank"}. 
+There are no expired certificate holders for currently offered Adobe [!DNL Commerce] Certifications as of April 23, 2023. Therefore, all active Adobe [!DNL Commerce] Certified candidates have the option to renew through the continuous learning [renewal path for certification](https://experienceleague.adobe.com/docs/certification/program/technical-certifications/ac/ac-renew.html){target="_blank"}. 
 
 +++
 
