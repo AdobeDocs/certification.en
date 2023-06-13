@@ -204,6 +204,7 @@ Here are some suggested resources to help you prepare:
 >[!IMPORTANT]
 >
 > The following sections and links will function **only** after a **successful login** to the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}. 
+
 {{$include /help/_includes/practice-test.md}}
 
 **Take the certification exam**
