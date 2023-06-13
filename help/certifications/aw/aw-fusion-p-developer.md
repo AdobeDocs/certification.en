@@ -151,7 +151,6 @@ The sample questions allow you to see the type and format of items that you will
 >
 >The following sections and links will function **only**  after a **successful login** to the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}. 
 
-**Now that you have successfully logged in, the following links will be directly accessible.**
 
 **Take the certification exam**
 

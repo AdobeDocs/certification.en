@@ -38,6 +38,4 @@ All of the details about each available product certification are listed in the 
 
 So why wait? Take the first step towards unlocking your professional potential and explore our certification paths today!
 
-<a href="https://experienceleague.adobe.com/docs/certification/certification/getting-started.html" class="spectrum-Button spectrum-Button--primary spectrum-Button--sizeM">
-  <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Get Started</span>
-</a>
+<a href="https://experienceleague.adobe.com/docs/certification/certification/getting-started.html" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6"><span class="spectrum-Button-label has-no-wrap">Get Started</span></a>
