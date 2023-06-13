@@ -5,7 +5,7 @@ description: A limited number of certifications have practice tests
 
 # Practice Tests
 
-### Take a practice test
+## Take a practice test
 
 We recommend taking the free practice test before you start. You'll have unrestricted access to all available practice tests for Adobe's expert-level exams.
 

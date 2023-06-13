@@ -1,4 +1,6 @@
-### Take the certification exam
+# Certification exam
+
+## Take the certification exam
 
 We recommend taking the free practice test before you start. You'll have unrestricted access to all available practice tests for Adobe's expert-level exams.
 
