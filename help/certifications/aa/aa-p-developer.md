@@ -55,7 +55,7 @@ Experience with the following tasks:
 * Time: 100 mins
 * Delivery: Online proctored (requires camera access)
 * Available languages: English
-* Cost: $125 (global) and $950 (India)
+* Cost: $125 (global) and $95 (India)
 * Exam ID: AD0-E213
 
 **Exam objectives and scope**
@@ -172,7 +172,7 @@ Adobe uses two vendors to administer proctored exams, PSI and Examity.
 * **PSI** offers test center and Japanese exam options (where available) 
 * **[!DNL Examity]** offers a remote online option
 
-To schedule, reschedule, or cancel your exam, simply click on the vendor of choice, and follow the instructions provided on screen. It’s that simple! 
+To schedule, reschedule, or cancel your exam, simply click on the vendor of choice, and follow the instructions provided on screen. It's that simple! 
 
 Your profile name in the Adobe Credential Management System must exactly match your Government ID. Failure to have identical information or any mismatch will result in the proctor terminating the exam and will require you to reschedule your appointment in addition to paying an additional exam fee.
 
