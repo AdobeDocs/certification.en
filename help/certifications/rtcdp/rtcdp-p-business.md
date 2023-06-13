@@ -133,6 +133,7 @@ The sample questions allow you to see the type and format of items that you will
 >[!IMPORTANT]
 >
 >The following sections and links will function **only**  after a **successful login** to the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}. 
+
 {{$include /help/_includes/practice-test.md}}
 
 **Take the certification exam**
