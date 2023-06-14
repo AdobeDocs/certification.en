@@ -67,10 +67,12 @@ user-guide-description: Learn about [!DNL Experience Cloud] Certification at Ado
       + [Business Practitioner](/help/certifications/ac/ac-p-business.md)
       + [Developer](/help/certifications/ac/ac-p-developer.md)
       + [Front-end Developer](/help/certifications/ac/ac-p-fedeveloper.md)
+      + [Front-end Developer](/help/certifications/ac/ac-p-fedeveloper0623.md) (New)
     + Expert {#ac-expert}
       + [Business Practitioner](/help/certifications/ac/ac-e-business.md)
       + [Developer](/help/certifications/ac/ac-e-developer.md)
       + [Front-end Developer](/help/certifications/ac/ac-e-fedeveloper.md)
+      + [Front-end Developer](/help/certifications/ac/ac-e-fedeveloper0623.md) (New)
     + Master {#ac-master}
       + [Architect](/help/certifications/ac/ac-m-architect.md)
     + [Renewal](/help/certifications/ac/ac-renew.md)
