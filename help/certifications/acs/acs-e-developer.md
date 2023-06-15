@@ -151,7 +151,9 @@ You are not required to complete training before taking the exam, and training a
 >
 >The following sections and links will function **only**  after a **successful login** to the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}. 
 
-{{$include /help/_includes/practice-test.md}}
+## Take a practice test
+
+{{practice-test}}
 
 **Take the certification exam**
 
