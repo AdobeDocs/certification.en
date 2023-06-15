@@ -132,7 +132,11 @@ The sample questions allow you to see the type and format of items that you will
 >The following sections and links will function **only**  after a **successful login** to the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}. 
 
 
-**Take the certification exam**
+## About the exam
+
+{{about-certification-exam}}
+
+## Take the exam
 
 Adobe uses two vendors to administer proctored exams, PSI and Examity. 
 
@@ -145,13 +149,27 @@ Your profile name in the Adobe Credential Management System must exactly match y
 
 Cancellations and rescheduling are possible if initiated prior to 48 hours before the scheduled exam appointment. Candidates must modify this appointment themselves.
 
-### Exam number: AD0-E207
+## Take the exam (AD0-E207)
 
-[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&ec=AD0-E207 newtab=true"} [!BADGE Examity]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E207 newtab=true"}
+### Available options
 
-You can pay for your certification exam by voucher or credit card. To purchase an exam voucher go to: [Adobe Certification Voucher Center](https://market.xvoucher.com/adobe/global){target="_blank"}. 
+**PSI** ( *classroom / Japanese langauge* )
 
-You can apply the voucher code when you schedule your exam. If you have a discount, it will apply at checkout.
+<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&ec=AD0-E207 newtab=true" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+                    
+ <span class="spectrum-Button-label has-no-wrap">
+   Take exam
+</span>
+</a>
+
+**[!DNL Examity]** ( *online* )
+
+<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E207 newtab=true" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+                    
+ <span class="spectrum-Button-label has-no-wrap">
+   Take exam
+</span>
+</a>
 
 >[!ENDTABS]
 

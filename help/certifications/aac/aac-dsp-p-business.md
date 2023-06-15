@@ -125,7 +125,11 @@ Here are some suggested resources to help you prepare:
 
 
 
-**Take the certification exam**
+## About the exam
+
+{{about-certification-exam}}
+
+## Take the exam
 
 Adobe uses two vendors to administer proctored exams, PSI and Examity. 
 
@@ -141,10 +145,6 @@ Cancellations and rescheduling are possible if initiated prior to 48 hours befor
 ### Exam number: AD0-E502
 
 [!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&ec=AD0-E502 newtab=true"} [!BADGE Examity]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E502 newtab=true"}
-
-You can pay for your certification exam by voucher or credit card. To purchase an exam voucher go to: [Adobe Certification Voucher Center](https://market.xvoucher.com/adobe/global){target="_blank"}. 
-
-You can apply the voucher code when you schedule your exam. If you have a discount, it will apply at checkout.
 
 >[!ENDTABS]
 
