@@ -187,6 +187,7 @@ The sample questions allow you to see the type and format of items that you will
    Take exam
 </span>
 </a>
+
 >[!ENDTABS]
 
 ## Questions
