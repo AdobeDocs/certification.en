@@ -13,7 +13,7 @@ user-guide-description: Learn about [!DNL Experience Cloud] Certification at Ado
 + [Restart program](restart-program.md)
 + [My profile](my-profile.md)
 + [FAQ](faq.md)
-+ Technical certifications by solution {#certifications} 
++ Technical certifications by solution {#technical-certifications}
   + Adobe [!DNL Advertising] {#aac}
     + [Advertising Overview](/help/certifications/aac/aac-overview.md)
     + Professional {#aac-professional}
