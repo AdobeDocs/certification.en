@@ -13,12 +13,12 @@ Adobe Commerce Front End Developer professional and expert certifications  have 
 
 The current versions are:
 
-* Adobe Commerce Front End Developer Professional (AD0-E719)
-* Adobe Commerce Front End Developer Expert (AD0-E710)
+* [Adobe Commerce Front End Developer Professional (AD0-E719)](/help/certifications/ac/ac-p-fedeveloper.md)
+* [Adobe Commerce Front End Developer Expert (AD0-E710)](/help/certifications/ac/ac-e-fedeveloper.md)
 
 If you have already scheduled or have started studying for the current exam, please make sure you schedule and complete the exam **before August 18, 2023**. 
 
-However, if you are just getting started on your certification, we recommend that you take the updated version of the exam.
+However, if you are just getting started on your certification, we recommend that you take the **NEW** version of the exam.
 
 ## All Available Exams for Commerce
 
@@ -33,7 +33,7 @@ However, if you are just getting started on your certification, we recommend tha
 
 * [Business Practitioner](/help/certifications/ac/ac-e-business.md) <!--AD0-E708-->
 * [Developer](/help/certifications/ac/ac-e-developer.md) <!--AD0-E716-->
-* [Front-end Developer - expiring August 18, 202](/help/certifications/ac/ac-e-fedeveloper.md) <!--AD0-E710-->
+* [Front-end Developer - expiring August 18, 2023](/help/certifications/ac/ac-e-fedeveloper.md) <!--AD0-E710-->
 * [Front-end Developer NEW](/help/certifications/ac/ac-e-fedeveloper0623.md)
 
 **Master**
