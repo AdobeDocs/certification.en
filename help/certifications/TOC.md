@@ -127,6 +127,7 @@ user-guide-description: Learn about [!DNL Experience Cloud] Certification at Ado
       + [Business Practitioner](/help/certifications/at/at-e-business.md)
     + Master {#at-master}
       + [Architect](/help/certifications/at/at-m-architect.md)
+      + [Architect (New)](/help/certifications/at/at-m-architect0623.md)
     + [Renewal](/help/certifications/at/at-renew.md)
   + Adobe [!DNL Workfront] {#aw}
     + [Workfront Overview](/help/certifications/aw/aw-overview.md)
