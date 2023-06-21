@@ -130,6 +130,8 @@ The sample questions allow you to see the type and format of items that you will
 >[!IMPORTANT]
 >
 >The following sections and links will function **only**  after a **successful login** to the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}. 
+>
+>In addition, your profile name in the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} must exactly match your Government ID. Failure to have identical information or any mismatch will result in the proctor terminating the exam and will require you to reschedule your appointment in addition to paying an additional exam fee.*
 
 
 ## About the exam
@@ -153,7 +155,7 @@ Cancellations and rescheduling are possible if initiated prior to 48 hours befor
 
 ### Available options
 
-**PSI** ( *classroom / Japanese langauge* )
+**PSI** (*test center / Japanese exam options (where available)*)
 
 <a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&ec=AD0-E207" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
                     

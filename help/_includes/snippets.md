@@ -12,8 +12,6 @@ Go to the [Adobe Certification Exam Prep Portal](https://www.certmetrics.com/ado
 
 ## About the certification exam {#about-certification-exam}
 
-**IMPORTANT** *Your profile name in the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} must exactly match your Government ID. Failure to have identical information or any mismatch will result in the proctor terminating the exam and will require you to reschedule your appointment in addition to paying an additional exam fee.*
-
 Adobe uses two vendors to administer proctored exams, PSI and [!DNL Examity]. 
 
 * **PSI** offers test center and Japanese exam options (where available) 
