@@ -182,6 +182,7 @@ Here are some suggested resources to help you prepare:
    Take exam
 </span>
 </a>
+
 >[!ENDTABS]
 
 ## Questions
