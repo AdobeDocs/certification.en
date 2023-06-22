@@ -140,3 +140,4 @@ user-guide-description: Learn about [!DNL Experience Cloud] Certification at Ado
 + Hidden {#hidden}
   + [Certification Restart Eligibility Exam Checker](exam-eligibility-check.md)
   + [Experience Platform Overview](/help/certifications/aep/aep-overview.md)
+  + [Developer)](/help/certifications/aep/aep-e-foundations.md)
