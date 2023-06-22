@@ -32,7 +32,23 @@ Our certification program is designed for professionals in a variety of fields, 
 
 ## View all certifications
 
-All of the details about each available product certification are listed in the table of contents to the left.
+All of the details about each available product certification are listed in the table of contents to the left and in the below list,
+
+* [Adobe Analytics](/help/certifications/aa/aa-overview.md)
+* [Adobe Advertising Cloud](/help/certifications/aac/aac-overview.md)
+* [Adobe Audience Manager](/help/certifications/aam/aam-overview.md)
+* [Adobe Commerce](/help/certifications/ac/ac-overview.md)
+* [Adobe Campaign Classic](/help/certifications/acc/acc-overview.md)
+* [Adobe Customer Journey Analytics](/help/certifications/acja/acja-overview.md)
+* [Adobe Campaign Standard](/help/certifications/acs/acs-overview.md)
+* [Adobe Document Cloud](/help/certifications/adc/adc-overview.md)
+* [Adobe Experience Manager](/help/certifications/aem/aem-overview.md)
+* [Adobe Experience Platform](/help/certifications/aep/aep-overview.md)
+* [Adobe Journey Optimizer](/help/certifications/ajo/ajo-overview.md)
+* [Adobe Marketo Engage](/help/certifications/ame/ame-overview.md)
+* [Adobe Target](/help/certifications/at/at-overview.md)
+* [Adobe Workfront](/help/certifications/aw/aw-overview.md)
+
 
 ## Get started
 
