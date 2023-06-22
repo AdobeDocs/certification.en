@@ -12,6 +12,10 @@ exl-id: 90ce0bb5-cfa3-4c4c-9ba0-1d63661cf593
 
 Learn how to become a certified Adobe Developer Expert.
 
+>[!NOTE]
+>
+>This exam Adobe Commerce Front End Developer Expert (AD0-E710) has been updated. If you have already started studying or are scheduled to take this version, please be sure to complete it before August 18, 2023. If you are just getting started, we recommend taking the [newest version of this exam](ac-e-fedeveloper0623.md). 
+
 ## Minimum experience
 
 You should have at least 1-3 years of hands-on experience with Adobe [!DNL Commerce] Frontend development, and have the ability to translate the needs expressed by task requirements into a technical solution.
@@ -32,10 +36,6 @@ Additionally, you should be comfortable using the following technologies:
 * Understanding code packages
 * Implement translation
 * Understanding how to work with email templates
-
->[!NOTE]
->
->Your certification is valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
 
 >[!BEGINTABS]
 

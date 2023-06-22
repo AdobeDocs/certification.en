@@ -12,6 +12,10 @@ exl-id: aad1587f-f458-413a-af93-727666e94147
 
 Learn how to become a certified Adobe Developer Professional.
 
+>[!NOTE]
+>
+>This exam Adobe Commerce Front End Developer Professional (AD0-E719) has been updated. If you have already started studying or are scheduled to take this version, please be sure to complete it before August 18, 2023. If you are just getting started, we recommend taking the [newest version of this exam](ac-p-fedeveloper0623.md). 
+
 ## Minimum experience
 
 You should have 0-12 months of hands-on experience with Adobe [!DNL Commerce] Front-end development and the ability to work with technical solutions to deliver individual components.
@@ -35,10 +39,6 @@ Additionally, you should exhibit knowledge of the following technologies:
 * Basic understanding of XML
 * Basic understanding of out-of-the-box SEO, optimization and performance techniques
 * Basic understanding of canonical links, as well as merging JavaScript and CSS
-
->[!NOTE]
->
->Your certification is valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
 
 >[!BEGINTABS]
 
@@ -172,7 +172,6 @@ The sample questions allow you to see the type and format of items that you will
 >The following sections and links will function **only**  after a **successful login** to the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}. 
 >
 >In addition, your profile name in the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} must exactly match your Government ID. Failure to have identical information or any mismatch will result in the proctor terminating the exam and will require you to reschedule your appointment in addition to paying an additional exam fee.*
-
 
 
 ## About the exam

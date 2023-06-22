@@ -55,7 +55,7 @@ Experience with the following tasks:
 * Time: 100 mins
 * Delivery: Online proctored (requires camera access)
 * Available languages: English
-* Cost: $125 (global) and $950 (India)
+* Cost: $125 (global) and $95 (India)
 * Exam ID: AD0-E213
 
 **Exam objectives and scope**
