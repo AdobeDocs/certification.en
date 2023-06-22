@@ -3,6 +3,7 @@ title: Platform certification
 description: Learn how to become a certified Adobe [!DNL Experience Platform] Expert.
 solution: Experience Platform
 product: Experience Platform
+hidefromtoc: yes
 ---
 # Adobe [!DNL Experience Platform] Certification Overview
 

@@ -139,3 +139,4 @@ user-guide-description: Learn about [!DNL Experience Cloud] Certification at Ado
 + [Credentials for end users](https://learning.adobe.com/certification/credentials)
 + Hidden {#hidden}
   + [Certification Restart Eligibility Exam Checker](exam-eligibility-check.md)
+  + [Experience Platform Overview](/help/certifications/aep/aep-overview.md)
