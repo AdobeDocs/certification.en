@@ -32,7 +32,7 @@ It's important to note that if your certification expires, you'll have to retake
 
 >[!ENDTABS]
 
-**Questions**
+## Questions
 
 View the certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
