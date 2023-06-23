@@ -73,7 +73,7 @@ The course assessments are free. There is no need to schedule them, and they are
 
 >[!ENDTABS]
 
-**Questions**
+## Questions
 
 View the certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
