@@ -12,6 +12,10 @@ exl-id: 05041fba-a1c3-491f-9f88-59498d507e61
 
 Learn how to become a certified Adobe Architect Master.
 
+>[!NOTE]
+>
+>This exam, Adobe Target Architect Master (AD0-E407), has been updated. If you have already started studying or are scheduled to take this version, please be sure to complete it before August 18, 2023. If you are just getting started, we recommend taking the [newest version of this exam](at-m-architect0623.md). 
+
 ## Minimum experience
 
 You should have:
@@ -46,10 +50,6 @@ Environments:
 * Web and mobile environments
 * AMS hosted environment
 * Adobe I/O Runtime
-
->[!NOTE]
->
->Your certification is valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
 
 >[!BEGINTABS]
 
