@@ -16,8 +16,8 @@ We're happy to announce that you are now able to renew your certification via a 
 >[!NOTE]
 >Expert renewal coming soon.
 
-**Questions**
+## Questions
 
-View the certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+View the certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Additional questions? [Contact us](mailto:certif@adobe.com){target="_blank"}.

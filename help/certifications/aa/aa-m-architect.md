@@ -7,6 +7,7 @@ level: Experienced
 role: Data Architect,Developer
 badge: label="Exam AD0-E207" type="positive"
 mini-toc-levels: 1
+exl-id: 5f9c77bb-506d-46eb-8625-8fd2dbce1be5
 ---
 # Certification journey for [!DNL Adobe Analytics] Architect Master
 
@@ -61,7 +62,7 @@ Section 1: Discovery (18%)
 * Investigate client needs to build business requirements
 * Given a scenario, create measurement framework
 
-Section 2: Solution design (26%)
+Section 2: Solution design (54%)
 
 * Translate business requirements into variables and metrics
 * Demonstrate ability to manage report suites settings
@@ -92,79 +93,91 @@ The sample questions allow you to see the type and format of items that you will
 
 **Section 1: Discovery**
 
-* [Implement [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=en){target="_blank"} 
-* [[!DNL Analytics] Components Guide](https://experienceleague.adobe.com/docs/analytics/components/home.html?lang=en){target="_blank"} 
-* [Tags overview](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html?lang=en){target="_blank"} 
-* [[!DNL Analytics] Tech Notes](https://experienceleague.adobe.com/docs/analytics/technotes/home.html?lang=en){target="_blank"} 
+* [Implement [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html){target="_blank"} 
+* [[!DNL Analytics] Components Guide](https://experienceleague.adobe.com/docs/analytics/components/home.html){target="_blank"} 
+* [Tags overview](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html){target="_blank"} 
+* [[!DNL Analytics] Tech Notes](https://experienceleague.adobe.com/docs/analytics/technotes/home.html){target="_blank"} 
 * [Data Layer Manager](https://exchange.adobe.com/apps/ec/101462/data-layer-manager){target="_blank"} 
 
 **Section 2: Solution Design**
 
-* [[!DNL Analytics] Admin Guide](https://experienceleague.adobe.com/docs/analytics/admin/home.html?lang=en){target="_blank"} 
-* [[!DNL Analytics] Components Guide](https://experienceleague.adobe.com/docs/analytics/components/home.html?lang=en){target="_blank"} 
-* [[!DNL Analytics] Tools Guide](https://experienceleague.adobe.com/docs/analytics/analyze/home.html?lang=en){target="_blank"} 
-* [iOS SDK 4.x for Experience Cloud Solutions](https://experienceleague.adobe.com/docs/mobile-services/ios/overview.html?lang=en){target="_blank"} 
-* [[!DNL Analytics] Import Guide](https://experienceleague.adobe.com/docs/analytics/import/home.html?lang=en){target="_blank"} 
-* [Implement [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=en){target="_blank"} 
-* [[!DNL Analytics] Tutorials](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html?lang=en){target="_blank"} 
+* [[!DNL Analytics] Admin Guide](https://experienceleague.adobe.com/docs/analytics/admin/home.html){target="_blank"} 
+* [[!DNL Analytics] Components Guide](https://experienceleague.adobe.com/docs/analytics/components/home.html){target="_blank"} 
+* [[!DNL Analytics] Tools Guide](https://experienceleague.adobe.com/docs/analytics/analyze/home.html){target="_blank"} 
+* [iOS SDK 4.x for Experience Cloud Solutions](https://experienceleague.adobe.com/docs/mobile-services/ios/overview.html){target="_blank"} 
+* [[!DNL Analytics] Import Guide](https://experienceleague.adobe.com/docs/analytics/import/home.html){target="_blank"} 
+* [Implement [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html){target="_blank"} 
+* [[!DNL Analytics] Tutorials](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html){target="_blank"} 
 * [Administrative roles](https://helpx.adobe.com/in/enterprise/using/admin-roles.html){target="_blank"} 
 * [Admin Console overview](https://helpx.adobe.com/in/enterprise/using/admin-console.html#Settings){target="_blank"} 
 * [Manage users individually](https://helpx.adobe.com/in/enterprise/using/manage-users-individually.html){target="_blank"} 
 
 **Section 3: Post Implementation**
 
-* [Implement [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=en){target="_blank"}
-* [[!DNL Analytics] Components Guide](https://experienceleague.adobe.com/docs/analytics/components/home.html?lang=en){target="_blank"}
-* [[!DNL Analytics] Admin Guide](https://experienceleague.adobe.com/docs/analytics/admin/home.html?lang=en){target="_blank"}
+* [Implement [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html){target="_blank"}
+* [[!DNL Analytics] Components Guide](https://experienceleague.adobe.com/docs/analytics/components/home.html){target="_blank"}
+* [[!DNL Analytics] Admin Guide](https://experienceleague.adobe.com/docs/analytics/admin/home.html){target="_blank"}
 * [The Event-Driven Data Layer](https://jimalytics.com/tag-management/the-event-driven-data-layer/){target="_blank"}
-* [[!DNL Analytics] Export Guide](https://experienceleague.adobe.com/docs/analytics/export/home.html?lang=en){target="_blank"}
-* [Adobe [!DNL Target] Business Practitioner Guide](https://experienceleague.adobe.com/docs/target/using/target-home.html?lang=en){target="_blank"}
-* [Adobe [!DNL Experience Cloud] Identity Service](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=en){target="_blank"}
-* [[!DNL Analytics] Import Guide](https://experienceleague.adobe.com/docs/analytics/import/home.html?lang=en){target="_blank"}
-* [[!DNL Analytics] Tools Guide](https://experienceleague.adobe.com/docs/analytics/analyze/home.html?lang=en){target="_blank"}
+* [[!DNL Analytics] Export Guide](https://experienceleague.adobe.com/docs/analytics/export/home.html){target="_blank"}
+* [Adobe [!DNL Target] Business Practitioner Guide](https://experienceleague.adobe.com/docs/target/using/target-home.html){target="_blank"}
+* [Adobe [!DNL Experience Cloud] Identity Service](https://experienceleague.adobe.com/docs/id-service/using/home.html){target="_blank"}
+* [[!DNL Analytics] Import Guide](https://experienceleague.adobe.com/docs/analytics/import/home.html){target="_blank"}
+* [[!DNL Analytics] Tools Guide](https://experienceleague.adobe.com/docs/analytics/analyze/home.html){target="_blank"}
 * [Data Insertion Process](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/data-insertion-api/overview/c_data_insertion_process.md){target="_blank"}
-* [Implement the Experience Cloud in Websites with Tags Tutorial](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/overview.html?lang=en){target="_blank"}
+* [Implement the Experience Cloud in Websites with Tags Tutorial](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/overview.html){target="_blank"}
 
 >[!TAB Get certified]
 
 >[!IMPORTANT]
 >
->The following sections and links will function **only**  after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
+>The following sections and links will function **only**  after a **successful login** to the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}. 
+>
+>In addition, your profile name in the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} must exactly match your Government ID. Failure to have identical information or any mismatch will result in the proctor terminating the exam and will require you to reschedule your appointment in addition to paying an additional exam fee.*
 
 
-**Now that you have successfully logged in, the following links will be directly accessible.**
+## About the exam
 
-**Take a practice test**
+{{about-certification-exam}}
 
-We recommend taking the free practice test before you start. You'll have unrestricted access to all available practice tests for Adobe's expert-level exams.
-
-Our practice tests are all developed from the same blueprint as the live exams. The practice test will help you understand the topics covered in the live exam.
-
-Please remember that passing a practice test does not guarantee you will pass the certification exam.
-
-Go to the [Adobe Certification Exam Prep Portal](https://www.certmetrics.com/adobe/candidate/gmetrix_sso.aspx){target="_blank"} now to take a practice test.
-
-**Take the certification exam**
+## Take the exam
 
 Adobe uses two vendors to administer proctored exams, PSI and Examity. 
 
 * **PSI** offers test center and Japanese exam options (where available) 
 * **[!DNL Examity]** offers a remote online option
 
-To schedule, reschedule, or cancel your exam, simply click on the vendor of choice, and follow the instructions provided on screen. It's that simple!
+To schedule, reschedule, or cancel your exam, simply click on the vendor of choice, and follow the instructions provided on screen. It's that simple! 
 
-### Exam number: AD0-E207
+Your profile name in the Adobe Credential Management System must exactly match your Government ID. Failure to have identical information or any mismatch will result in the proctor terminating the exam and will require you to reschedule your appointment in addition to paying an additional exam fee.
 
-[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&ec=AD0-E207 newtab=true"} [!BADGE Examity]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E207 newtab=true"}
+Cancellations and rescheduling are possible if initiated prior to 48 hours before the scheduled exam appointment. Candidates must modify this appointment themselves.
 
-You can pay for your certification exam by voucher or credit card. To purchase an exam voucher go to: [Adobe Certification Voucher Center](https://market.xvoucher.com/adobe/global){target="_blank"}. 
+## Take the exam (AD0-E207)
 
-You can apply the voucher code when you schedule your exam. If you have a discount, it will apply at checkout.
+### Available options
+
+**PSI** (*test center / Japanese exam options (where available)*)
+
+<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&ec=AD0-E207" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+                    
+ <span class="spectrum-Button-label has-no-wrap">
+   Take exam
+</span>
+</a>
+
+**[!DNL Examity]** ( *online* )
+
+<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E207" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+                    
+ <span class="spectrum-Button-label has-no-wrap">
+   Take exam
+</span>
+</a>
 
 >[!ENDTABS]
 
-**Questions**
+## Questions
 
-View the certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+View the certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Additional questions? Please email `certif@adobe.com`

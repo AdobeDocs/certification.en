@@ -3,6 +3,7 @@ title: Get certified at Adobe
 description: Learn how to get certified at Adobe. Find all the resources you need before, during and after you become certified.
 recommendations: disable, exclude
 mini-toc-levels: 1
+exl-id: 753f63e1-599e-43cd-8cf7-8688a8dac512
 ---
 # How to get certified{#how}
 
@@ -19,7 +20,7 @@ Adobe uses two vendors to administer proctored exams: [!DNL PSI] and [!DNL Exami
 
 **Follow these steps to register for your certification exam:**
 
-* **Step 1:** Successfully login to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}.
+* **Step 1:** Successfully login to the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
 * **Step 2:** Return to this site and click on Technical certifications.  
 * **Step 3:** Choose your Adobe solution, certification level, and role
 * **Step 4:** Follow the steps provided under the **Get Certified** section. 
@@ -43,7 +44,7 @@ Cancellations and rescheduling are possible if initiated prior to 48 hours befor
 
 Neither Adobe Support or exam vendors can process rescheduling and cancellation requests. Cancellations under 48 hours are subject to a rescheduling fee in addition to the exam fee. 
 
- Once you complete an exam, you receive a provisional pass or fail. The final score can take up to 72 hours to populate. You will find your result and score report under the History tab in the [Adobe Credential Manager](http://www.certmetrics.com/adobe){target="_blank"}.  
+ Once you complete an exam, you receive a provisional pass or fail. The final score can take up to 72 hours to populate. You will find your result and score report under the History tab in the [Adobe Credential Manager](https://www.certmetrics.com/adobe){target="_blank"}.  
 
  If you fail to pass an Adobe certification exam on your first attempt, you must wait at least 24 hours before retaking the exam. Failure to pass an exam on the second or any subsequent attempt requires a waiting period of 14 calendar days before retaking the exam. Each attempt will incur a separate exam fee. 
 
@@ -81,10 +82,10 @@ The Adobe Credential team partners with vendors to help support the program's in
 
 | Vendor Name | Description | Support Page/Email |
 | ------- | ------- | ------- |
-| Credly | Badge Management System | [Support](https://credlyissuer.zendesk.com/hc/en-us){target="_blank"} |
-| Examity | Test Delivery Vendor (only Online Proctoring) | support@examity.com or 855-Examity (855-392-6489) |
-| PSI  | Test Delivery Vendor for Proctored exams at a location or in Japanese | adobe.psisupport@psionline.com |
-| Xvoucher - Adobe Certification Voucher Center | Voucher center to purchase individual or bulk vouchers | support@xvoucher.com or [Online help](https://help.xvoucher.com/hc/en-us){target="_blank"} |
+|Credly| Badge Management System |[Support](https://credlyissuer.zendesk.com/hc/en-us){target="_blank"} |
+|Examity|Test Delivery Vendor (only Online Proctoring)| [Email](mailto:support@examity.com){target="_blank"} or 855-Examity (855-392-6489) |
+|PSI|Test Delivery Vendor for Proctored exams at a location or in Japanese|[Email](mailto:adobe.psisupport@psionline.com){target="_blank"}|
+|Xvoucher - Adobe Certification Voucher Center|Voucher center to purchase individual or bulk vouchers|[Email](mailto:support@xvoucher.com){target="_blank"} or [Online help](https://help.xvoucher.com/hc/en-us)|
 
 Other Vendor Resources:
 
@@ -203,8 +204,8 @@ Your badge serves as tangible evidence of your proficiency with Adobe Experience
 
 >[!ENDTABS]
 
-**Questions**
+## Questions
 
-View the certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+View the certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Additional questions? [Contact us](mailto:certif@adobe.com){target="_blank"}.

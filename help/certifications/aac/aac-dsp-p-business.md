@@ -6,6 +6,7 @@ product: Advertising Cloud
 role: User
 badge: label="Exam AD0-E502" type="positive"
 mini-toc-levels: 1
+exl-id: 15f3e05a-4896-488c-a65d-d6e8f948c8cc
 ---
 # Certification journey for Adobe [!DNL Advertising DSP] Business Practitioner Professional
 
@@ -94,58 +95,66 @@ Here are some suggested resources to help you prepare:
 **Section 1: Setting up campaigns**
 
 
-* [About Audience Management in [!DNL Advertising DSP]](https://experienceleague.adobe.com/docs/advertising/dsp/audiences/audience-about.html?lang=en){target="_blank"}
-* [Overview of Inventory Features in [!DNL Advertising DSP]](https://experienceleague.adobe.com/docs/advertising/dsp/inventory/inventory-overview.html?lang=en){target="_blank"}
-* [[!DNL Campaign] Settings](https://experienceleague.adobe.com/docs/advertising/dsp/campaign-management/campaigns/campaign-settings.html?lang=en){target="_blank"}
-* [Placement Settings](https://experienceleague.adobe.com/docs/advertising/dsp/campaign-management/placements/placement-settings.html?lang=en){target="_blank"}
+* [About Audience Management in [!DNL Advertising DSP]](https://experienceleague.adobe.com/docs/advertising/dsp/audiences/audience-about.html){target="_blank"}
+* [Overview of Inventory Features in [!DNL Advertising DSP]](https://experienceleague.adobe.com/docs/advertising/dsp/inventory/inventory-overview.html){target="_blank"}
+* [[!DNL Campaign] Settings](https://experienceleague.adobe.com/docs/advertising/dsp/campaign-management/campaigns/campaign-settings.html){target="_blank"}
+* [Placement Settings](https://experienceleague.adobe.com/docs/advertising/dsp/campaign-management/placements/placement-settings.html){target="_blank"}
 
 **Section 2: Running and optimizing campaigns**
 
-* [How [!DNL Advertising DSP] Optimizes Your Campaigns](https://experienceleague.adobe.com/docs/advertising/dsp/optimization/optimization-how-dsp-optimizes-campaigns.html?lang=en){target="_blank"}
-* [About Custom Goals](https://experienceleague.adobe.com/docs/advertising/dsp/optimization/custom-goals/custom-goal-about.html?lang=en){target="_blank"}
-* [Best Practices for Setting up Performance Campaigns](https://experienceleague.adobe.com/docs/advertising/dsp/optimization/campaign-best-practices-performance.html?lang=en){target="_blank"}
-* [About On Demand Premium Inventory](https://experienceleague.adobe.com/docs/advertising/dsp/inventory/on-demand/on-demand-inventory-about.html?lang=en){target="_blank"}
-* [Reporting with [!DNL Advertising] Marketing Channels](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/integrations/ad-cloud/reporting-with-advertising-cloud-marketing-channels.html?lang=en){target="_blank"}
+* [How [!DNL Advertising DSP] Optimizes Your Campaigns](https://experienceleague.adobe.com/docs/advertising/dsp/optimization/optimization-how-dsp-optimizes-campaigns.html){target="_blank"}
+* [About Custom Goals](https://experienceleague.adobe.com/docs/advertising/dsp/optimization/custom-goals/custom-goal-about.html){target="_blank"}
+* [Best Practices for Setting up Performance Campaigns](https://experienceleague.adobe.com/docs/advertising/dsp/optimization/campaign-best-practices-performance.html){target="_blank"}
+* [About On Demand Premium Inventory](https://experienceleague.adobe.com/docs/advertising/dsp/inventory/on-demand/on-demand-inventory-about.html){target="_blank"}
+* [Reporting with [!DNL Advertising] Marketing Channels](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/integrations/ad-cloud/reporting-with-advertising-cloud-marketing-channels.html){target="_blank"}
 
 **Section 3: Reporting and analyzing**
 
-* [Web Console](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/configuring/web-console.html?lang=en){target="_blank"}
+* [Web Console](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/configuring/web-console.html){target="_blank"}
 
 **Section 4: Supplying recommendations for campaigns**
 
-* [How [!DNL Advertising] DSP Optimizes Your Campaigns](https://experienceleague.adobe.com/docs/advertising/dsp/optimization/optimization-how-dsp-optimizes-campaigns.html?lang=en){target="_blank"}
-* [About Ad Management in [!DNL Advertising] DSP](https://experienceleague.adobe.com/docs/advertising/dsp/campaign-management/ads/ad-about.html?lang=en){target="_blank"}
+* [How [!DNL Advertising] DSP Optimizes Your Campaigns](https://experienceleague.adobe.com/docs/advertising/dsp/optimization/optimization-how-dsp-optimizes-campaigns.html){target="_blank"}
+* [About Ad Management in [!DNL Advertising] DSP](https://experienceleague.adobe.com/docs/advertising/dsp/campaign-management/ads/ad-about.html){target="_blank"}
 
 >[!TAB Get certified]
 
 >[!IMPORTANT]
 >
->The following sections and links will function **only**  after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
+>The following sections and links will function **only**  after a **successful login** to the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}. 
+>
+>In addition, your profile name in the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} must exactly match your Government ID. Failure to have identical information or any mismatch will result in the proctor terminating the exam and will require you to reschedule your appointment in addition to paying an additional exam fee.*
 
+## About the exam
 
-**Now that you have successfully logged in, the following links will be directly accessible.**
+{{about-certification-exam}}
 
-**Take the certification exam**
+## Take the exam (AD0-E502)
 
-Adobe uses two vendors to administer proctored exams, PSI and Examity. 
+### Available options
 
-* **PSI** offers test center and Japanese exam options (where available) 
-* **[!DNL Examity]** offers a remote online option
+**PSI** (*test center / Japanese exam options (where available)*)
 
-To schedule, reschedule, or cancel your exam, simply click on the vendor of choice, and follow the instructions provided on screen. It's that simple!
+<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&ec=AD0-E502" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+                    
+ <span class="spectrum-Button-label has-no-wrap">
+   Take exam
+</span>
+</a>
 
-### Exam number: AD0-E502
+**[!DNL Examity]** ( *online* )
 
-[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&ec=AD0-E502 newtab=true"} [!BADGE Examity]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E502 newtab=true"}
-
-You can pay for your certification exam by voucher or credit card. To purchase an exam voucher go to: [Adobe Certification Voucher Center](https://market.xvoucher.com/adobe/global){target="_blank"}. 
-
-You can apply the voucher code when you schedule your exam. If you have a discount, it will apply at checkout.
+<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E502" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+                    
+ <span class="spectrum-Button-label has-no-wrap">
+   Take exam
+</span>
+</a>
 
 >[!ENDTABS]
 
-**Questions**
+## Questions
 
-View the certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+View the certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Additional questions? [Contact us](mailto:certif@adobe.com){target="_blank"}.

@@ -6,16 +6,21 @@ product: Marketo
 role: User
 mini-toc-levels: 1
 hidefromtoc: yes
+exl-id: b0c79168-768b-4be9-9d5c-0177e801c0d2
 ---
 # Renew your Adobe [!DNL Marketo Engage] certification
 
-When you pass a certification exam, your certification is valid for two years.
-
-We're happy to announce that you are now able to renew your certification via a new, no-cost format. It involves using on-demand Experience League courses and tutorials—simply complete three activities to renew your certification at no cost. You must renew before your certification expires, or you will need to take the full exam to become certified again. 
+Your Adobe certification is valid for two years. If you are nearing this two-year mark, it's time to renew your certification to keep it active. 
+ 
+First, select the appropriate level on the tab below (Professional, Expert, or Master). Then carefully review what you'll need to do to renew your certification. 
+ 
+Be sure that you provide ample time to complete all the requirements before your certification expires. 
+ 
+It's important to note that if your certification expires, you'll have to retake the certification exam, which is NOT free of charge. 
 
 >[!IMPORTANT]
 >
->The following sections and links will function **only** after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
+>The following sections and links will function **only** after a **successful login** to the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}. 
 
 >[!BEGINTABS]
 
@@ -33,7 +38,7 @@ You should be currently certified (not expired) in:
 
 ## Instructions for renewing your certification:
 
-* **Step 1**: Successfully log in to [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}, then return to this page
+* **Step 1**: Successfully log in to [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}, then return to this page
 * **Step 2**: Review the exam objectives and resources
 * **Step 3**: Take and pass the exam
 
@@ -113,45 +118,50 @@ Here are some suggested resources to help you prepare:
 
 **Section 1: Administration and maintenance**
 
-* [Experience League - [!DNL Marketo Engage] Product Documentation](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=en){target="_blank"} (Field Management, CRM Sync, Audit Trail, User Administration, Workspaces and Partitions, Smart Lists, Custom Field)
+* [Experience League - [!DNL Marketo Engage] Product Documentation](https://experienceleague.adobe.com/docs/marketo/using/home.html){target="_blank"} (Field Management, CRM Sync, Audit Trail, User Administration, Workspaces and Partitions, Smart Lists, Custom Field)
 * [Adobe Marketo Nation](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} (Synching with Salesforce, CRM integrations)
 
 **Section 2: Marketing activities/Campaign management**
 
 * [Adobe Marketo Nation](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} (Random Sample, Smart Campaign with data value fire, Wait Steps, member.webinar url, Campaign Inspector, Filter Logic, Using Tokens in Emails, Lead creation via Form Fill Out, Assets and Workspaces, Managing Forms)
-* [Experience League - [!DNL Marketo Engage] Product Documentation](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=en){target="_blank"} (Smart Lists, Smart Campaigns, Demand Generation Forms, Demand Generation Events, Email Marketing, Creating Programs, Events, Audit Trail, Working with Programs, Administration Tags, Drip Nurturing, Landing Pages, Tokens, Administration Additional Integrations, Webhook, Program Member Custom Fields, Workspace and Person Partitions)
+* [Experience League - [!DNL Marketo Engage] Product Documentation](https://experienceleague.adobe.com/docs/marketo/using/home.html){target="_blank"} (Smart Lists, Smart Campaigns, Demand Generation Forms, Demand Generation Events, Email Marketing, Creating Programs, Events, Audit Trail, Working with Programs, Administration Tags, Drip Nurturing, Landing Pages, Tokens, Administration Additional Integrations, Webhook, Program Member Custom Fields, Workspace and Person Partitions)
 
 **Section 3: Lead management**
 
 * [Adobe Marketo Nation](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} (Build a Lead Lifecycle Program video, Unsubscribe from Email)
-* [Experience League - [!DNL Marketo Engage] Product Documentation](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=en){target="_blank"} (Smart Campaigns, Marketo Sales Insight, Interesting Moments, Managing People in Smart Lists, System Managed Fields)
+* [Experience League - [!DNL Marketo Engage] Product Documentation](https://experienceleague.adobe.com/docs/marketo/using/home.html){target="_blank"} (Smart Campaigns, Marketo Sales Insight, Interesting Moments, Managing People in Smart Lists, System Managed Fields)
 
 **Section 4: Data management**
 
 * [Adobe Marketo Nation](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} (Maintaining a Directory of Leads Bouncing Emails article, How to Manage Your Marketo Database for Deliverability support blog, Marketo Activities Data Retention Policy - Under the Hood article)
-* [Experience League - [!DNL Marketo Engage] Product Documentation](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=en){target="_blank"} (Email Marketing Hard and Soft Bounces, Report Types, Personalization, Dynamic Content)
+* [Experience League - [!DNL Marketo Engage] Product Documentation](https://experienceleague.adobe.com/docs/marketo/using/home.html){target="_blank"} (Email Marketing Hard and Soft Bounces, Report Types, Personalization, Dynamic Content)
 
 **Section 5: Reporting**
 
 * [Adobe Marketo Nation](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} (Setting Acquisition best practices article)
-* [Experience League - [!DNL Marketo Engage] Product Documentation](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=en){target="_blank"} (Reporting, Performance Insights, Program Performance Report, Editing reports, Program Membership)
+* [Experience League - [!DNL Marketo Engage] Product Documentation](https://experienceleague.adobe.com/docs/marketo/using/home.html){target="_blank"} (Reporting, Performance Insights, Program Performance Report, Editing reports, Program Membership)
 
 **Section 6: Best practices**
 
 * [The Definitive Guide to Lead Scoring](https://www.marketo.com/definitive-guides/lead-scoring){target="_blank"}
-* [Experience League - [!DNL Marketo Engage] Product Documentation](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=en){target="_blank"} (Working with Programs, Email Marketing, A/B Testing)
+* [Experience League - [!DNL Marketo Engage] Product Documentation](https://experienceleague.adobe.com/docs/marketo/using/home.html){target="_blank"} (Working with Programs, Email Marketing, A/B Testing)
 * [Adobe Marketo Nation](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} (Mind your QA Process)
 
-### Restart your certification
+### Renew your certification
 
-This exam is free, open book, and un-proctored. You may take the exam up to three times. If you are unsuccessful after the third attempt, you must wait **30 days** to try again. Failure to comply might result in your certification being revoked.
+Ensure that you have followed step 1 above, and successfully logged in to [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} first. Then, to renew your certification, click on the Marketo Engage Business Practitioner Expert renewal link below.
 
-[!BADGE Take the Adobe [!DNL Marketo Engage] Business Practitioner expert restart exam AD5-E824]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=AD5-E824 newtab=true"} 
+[!BADGE Take the Adobe [!DNL Marketo Engage] Business Practitioner expert renewal exam AD5-E824]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=AD5-E824 newtab=true"} 
+
+>[!NOTE]
+>
+>This exam is free, open book, and un-proctored. You may take the exam up to three times. If you are unsuccessful after the third attempt, you must wait **30 days** to try again. Failure to comply might result in your certification being revoked.
 
 >[!ENDTABS]
 
+
 ### Questions
 
-View the certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+View the certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Additional questions? [Contact us](mailto:certif@adobe.com){target="_blank"}.

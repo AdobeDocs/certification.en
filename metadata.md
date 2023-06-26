@@ -3,7 +3,7 @@ cloud: Experience Cloud
 solution: Experience Cloud
 product: experience cloud
 level: Experienced
-type: Documentation
+type: Certification
 topic: Certification
 mini-toc-levels: 1
 git-repo: https://github.com/AdobeDocs/certification.en

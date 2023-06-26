@@ -6,6 +6,7 @@ role: Developer
 level: Experienced
 badge: label="Exam AD0-E716" type="positive"
 mini-toc-levels: 1
+exl-id: 025be894-3f29-4370-ac41-19901df4fb00
 ---
 # Certification journey for Adobe [!DNL Commerce] Developer Expert
 
@@ -150,30 +151,30 @@ Here are some suggested resources to help you prepare:
 
 **Section 1: Adobe [!DNL Commerce] architecture and customization techniques**
 
-* [[!DNL Commerce] for developers - Overview](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-1-1-overview.html?lang=en#video-content){target="_blank"}
-* [[!DNL Commerce] for developers - Development workflow](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-1-2-workflow.html?lang=en){target="_blank"}
-* [[!DNL Commerce] for developers - Code base](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-4-code-base.html?lang=en){target="_blank"}
-* [[!DNL Commerce] for developers - Exercises](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-6-practice.html?lang=en){target="_blank"}
-* [Magento 2 Development Essentials](https://learning.adobe.com/catalog/adobe_commerce/cours000000000096867.html){target="_blank"} 
+* [[!DNL Commerce] for developers - Overview](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-1-1-overview.html#video-content){target="_blank"}
+* [[!DNL Commerce] for developers - Development workflow](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-1-2-workflow.html){target="_blank"}
+* [[!DNL Commerce] for developers - Code base](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-4-code-base.html){target="_blank"}
+* [[!DNL Commerce] for developers - Exercises](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-6-practice.html){target="_blank"}
+* [Magento 2 Development Essentials](https://learning.adobe.com/catalog/adobe_commerce/cours000000000099263.html){target="_blank"} 
 * [Adobe [!DNL Commerce] Cloud: Magento Commerce - Back-End Developer](https://learning.adobe.com/learning-path/adobe_commerce/curra000000000006251.html){target="_blank"} 
 * [Adobe [!DNL Commerce] 2.4 Developer Guide](https://devdocs.magento.com/){target="_blank"} 
 * [Partial caching](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/cache/partial-caching.html){target="_blank"} 
 * [Page Caching](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/cache/page-caching.html){target="_blank"} 
 * [Add extension attributes to entities](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/extension_attributes/adding-attributes.html){target="_blank"} 
 * [Categories - Design settings](https://docs.magento.com/user-guide/catalog/categories-custom-design.html){target="_blank"} 
-* [Create a module](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/create-module.html?lang=en){target="_blank"} 
+* [Create a module](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/create-module.html){target="_blank"} 
 * [Component development](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/module-development.html){target="_blank"} 
-* [[!DNL Commerce] for developers - development basics](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-5-1-dev-basics.html?lang=en){target="_blank"} 
-* [[!DNL Commerce] for developers - Post install](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-3-post-install.html?lang=en){target="_blank"} 
-* [[!DNL Commerce] for developers - Routing](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-5-3-routing.html?lang=en){target="_blank"} 
+* [[!DNL Commerce] for developers - development basics](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-5-1-dev-basics.html){target="_blank"} 
+* [[!DNL Commerce] for developers - Post install](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-3-post-install.html){target="_blank"} 
+* [[!DNL Commerce] for developers - Routing](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-5-3-routing.html){target="_blank"} 
 * [Create a New Page](https://devdocs.magento.com/videos/fundamentals/create-a-new-page/){target="_blank"} 
 * [Page Builder](https://docs.magento.com/user-guide/cms/page-builder.html){target="_blank"} 
 * [What is Page Builder](https://devdocs.magento.com/page-builder/docs/){target="_blank"} 
 * [Set up multiple websites or stores](https://devdocs.magento.com/cloud/project/project-multi-sites.html){target="_blank"} 
 * [Multiple websites or stores](https://devdocs.magento.com/guides/v2.4/config-guide/multi-site/ms_over.html){target="_blank"} 
-* [Dependency injection example](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/dependency-injection.html?lang=en){target="_blank"} 
+* [Dependency injection example](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/dependency-injection.html){target="_blank"} 
 * [System.xml reference](https://devdocs.magento.com/guides/v2.4/config-guide/prod/config-reference-systemxml.html){target="_blank"} 
-* [[!DNL Commerce] for developers - Installation](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-2-install.html?lang=en){target="_blank"} 
+* [[!DNL Commerce] for developers - Installation](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-2-install.html){target="_blank"} 
 * [Apply patches](https://devdocs.magento.com/cloud/project/project-patch.html){target="_blank"} 
 * [Add CLI Commands](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/cli-cmds/cli-add.html){target="_blank"} 
 * [Integration testing](https://devdocs.magento.com/guides/v2.4/test/integration/integration_test_execution.html){target="_blank"} 
@@ -187,12 +188,12 @@ Here are some suggested resources to help you prepare:
 
 **Section 2: Working with databases and EAV**
 
-* [Create a product attribute](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/add-product-attribute.html?lang=en){target="_blank"}
+* [Create a product attribute](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/add-product-attribute.html){target="_blank"}
 * [EAV and extension attributes](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/attributes.html){target="_blank"}
 * [How to add a new product attribute](https://devdocs.magento.com/videos/fundamentals/add-new-product-attribute/){target="_blank"}
 * [Add a custom text field attribute](https://devdocs.magento.com/guides/v2.4/howdoi/custom-attributes/text-field.html){target="_blank"}
-* [[!DNL Commerce] for developers - Declarative schema](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-5-2-declarative-schema.html?lang=en){target="_blank"}
-* [Add a new table to a database](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/new-db-table.html?lang=en){target="_blank"}
+* [[!DNL Commerce] for developers - Declarative schema](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-5-2-declarative-schema.html){target="_blank"}
+* [Add a new table to a database](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/new-db-table.html){target="_blank"}
 * [Declarative Schema](https://developer.adobe.com/commerce/php/development/components/declarative-schema/){target="_blank"}
 * [Data Transfer](https://docs.magento.com/user-guide/system/data-transfer.html){target="_blank"}
 * [Custom import entity](https://devdocs.magento.com/guides/v2.4/ext-best-practices/tutorials/custom-import-entity.html){target="_blank"}
@@ -201,7 +202,7 @@ Here are some suggested resources to help you prepare:
 
 **Section 3: Developing with admin**
 
-* [[!DNL Commerce] for developers - Create an Admin Page](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-5-4-admin-page.html?lang=en){target="_blank"}
+* [[!DNL Commerce] for developers - Create an Admin Page](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-5-4-admin-page.html){target="_blank"}
 * [Add an Admin grid](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/admin-grid.html){target="_blank"}
 * [Listing (grid) component](https://devdocs.magento.com/guides/v2.4/ui_comp_guide/components/ui-listing-grid.html){target="_blank"}
 * [Form component](https://devdocs.magento.com/guides/v2.4/ui_comp_guide/components/ui-form.html){target="_blank"}
@@ -245,7 +246,7 @@ Here are some suggested resources to help you prepare:
 
 * [Pro project workflow](https://devdocs.magento.com/cloud/architecture/pro-develop-deploy-workflow.html){target="_blank"}
 * [Cloud CLI](https://devdocs.magento.com/cloud/reference/cli-ref-topic.html){target="_blank"}
-* [[!DNL Commerce] on Cloud Infrastructure](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/overview.html?lang=en){target="_blank"}
+* [[!DNL Commerce] on Cloud Infrastructure](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/overview.html){target="_blank"}
 * [ECE-Tools Package](https://devdocs.magento.com/cloud/reference/ece-tools-reference.html){target="_blank"}
 
 
@@ -267,41 +268,35 @@ Here are some suggested resources to help you prepare:
 
 >[!IMPORTANT]
 >
->The following sections and links will function **only**  after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
+>The following sections and links will function **only**  after a **successful login** to the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}. 
+>
+>In addition, your profile name in the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} must exactly match your Government ID. Failure to have identical information or any mismatch will result in the proctor terminating the exam and will require you to reschedule your appointment in addition to paying an additional exam fee.*
 
-**Now that you have successfully logged in, the following links will be directly accessible.**
+## Take a practice test
 
-**Take a practice test**
+{{practice-test}}
 
-We recommend taking the free practice test before you start. You'll have unrestricted access to all available practice tests for Adobe's expert-level exams.
+## About the exam
 
-Our practice tests are all developed from the same blueprint as the live exams. The practice test will help you understand the topics covered in the live exam.
+{{about-certification-exam}}
 
-Please remember that passing a practice test does not guarantee you will pass the certification exam.
+## Take the exam (AD0-E716)
 
-Go to the [Adobe Certification Exam Prep Portal](https://www.certmetrics.com/adobe/candidate/gmetrix_sso.aspx){target="_blank"} now to take a practice test.
+### Available options
 
-**Take the certification exam**
+**[!DNL Examity]** ( *online* )
 
-Adobe uses two vendors to administer proctored exams, PSI and Examity. 
-
-* **PSI** offers test center and Japanese exam options (where available) 
-* **[!DNL Examity]** offers a remote online option
-
-To schedule, reschedule, or cancel your exam, simply click on the vendor of choice, and follow the instructions provided on screen. It's that simple!
-
-### Exam number: AD0-E716
-
-[!BADGE Examity]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E716 newtab=true"}
-
-You can pay for your certification exam by voucher or credit card. To purchase an exam voucher go to: [Adobe Certification Voucher Center](https://market.xvoucher.com/adobe/global){target="_blank"}. 
-
-You can apply the voucher code when you schedule your exam. If you have a discount, it will apply at checkout.
+<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E716" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+                    
+ <span class="spectrum-Button-label has-no-wrap">
+   Take exam
+</span>
+</a>
 
 >[!ENDTABS]
 
-**Questions**
+## Questions
 
-View the certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+View the certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Additional questions? [Contact us](mailto:certif@adobe.com){target="_blank"}.

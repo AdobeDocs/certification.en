@@ -7,6 +7,7 @@ role: Developer
 level: Experienced
 badge: label="Exam AD0-E213" type="positive"
 mini-toc-levels: 1
+exl-id: 83074292-b71e-4ae1-b5e3-5645e3ad1ade
 ---
 # Certification journey for [!DNL Adobe Analytics] Developer Professional
 
@@ -55,7 +56,7 @@ Experience with the following tasks:
 * Time: 100 mins
 * Delivery: Online proctored (requires camera access)
 * Available languages: English
-* Cost: $125 (global) and $950 (India)
+* Cost: $125 (global) and $95 (India)
 * Exam ID: AD0-E213
 
 **Exam objectives and scope**
@@ -113,34 +114,34 @@ The sample questions allow you to see the type and format of items that you will
 
 **Section 1: Analytics in the Adobe Experience Cloud ecosystem**
 
-* [Adobe Experience Cloud Identity Service](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=en){target="_blank"} 
-* [FAQs](https://experienceleague.adobe.com/docs/id-service/using/faqs/faq-intro.html?lang=en){target="_blank"} 
-* [AEM 6.5 Authoring User Guide](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html?lang=en){target="_blank"} 
-* [Overview](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/overview.html?lang=en){target="_blank"} 
-* [Tags overview](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html?lang=en){target="_blank"} 
-* [Implement [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=en){target="_blank"} 
+* [Adobe Experience Cloud Identity Service](https://experienceleague.adobe.com/docs/id-service/using/home.html){target="_blank"} 
+* [FAQs](https://experienceleague.adobe.com/docs/id-service/using/faqs/faq-intro.html){target="_blank"} 
+* [AEM 6.5 Authoring User Guide](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html){target="_blank"} 
+* [Overview](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/overview.html){target="_blank"} 
+* [Tags overview](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html){target="_blank"} 
+* [Implement [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html){target="_blank"} 
 
 **Section 2: Analytics strategy and design based on a solution design reference**
 
-* [Analytics tutorials](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html?lang=en){target="_blank"}
-* [Implement [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=en){target="_blank"}
-* [Analytics Admin Guide](https://experienceleague.adobe.com/docs/analytics/admin/home.html?lang=en){target="_blank"}
+* [Analytics tutorials](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html){target="_blank"}
+* [Implement [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html){target="_blank"}
+* [Analytics Admin Guide](https://experienceleague.adobe.com/docs/analytics/admin/home.html){target="_blank"}
 
 **Section 3: Analytics implementation and configuration**
 
-* [Implement [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=en){target="_blank"}
-* [Tags overview](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html?lang=en){target="_blank"}
-* [Analytics Tool Guide](https://experienceleague.adobe.com/docs/analytics/analyze/home.html?lang=en){target="_blank"}
-* [Analytics Admin Guide](https://experienceleague.adobe.com/docs/analytics/admin/home.html?lang=en){target="_blank"}
-* [Developers Live: Adobe Client Data Layer: Track your visitor data](https://experienceleague.adobe.com/docs/adobe-developers-live-events/assets/adobe-client-data-layer.pdf?lang=en){target="_blank"}
+* [Implement [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html){target="_blank"}
+* [Tags overview](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html){target="_blank"}
+* [Analytics Tool Guide](https://experienceleague.adobe.com/docs/analytics/analyze/home.html){target="_blank"}
+* [Analytics Admin Guide](https://experienceleague.adobe.com/docs/analytics/admin/home.html){target="_blank"}
+* [Developers Live: Adobe Client Data Layer: Track your visitor data](https://experienceleague.adobe.com/docs/events/adobe-developers-live-recordings/2021/feb2021/adobe-client-data-layer.html){target="_blank"}
 * [Quick tip – Passing Data into Launch Rules](https://webanalyticsfordevelopers.com/2018/09/18/quick-tip-passing-data-into-launch-rules/){target="_blank"}
 
 **Section 4: Tag management systems**
 
-* [Tags overview](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html?lang=en){target="_blank"}
+* [Tags overview](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html){target="_blank"}
 * [Tag Management](https://business.adobe.com/products/analytics/tag-management.html){target="_blank"}
-* [Overview](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/overview.html?lang=en){target="_blank"}
-* [Analytics tutorials](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html?lang=en){target="_blank"}
+* [Overview](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/overview.html){target="_blank"}
+* [Analytics tutorials](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html){target="_blank"}
 
 **Section 5: Mobile services and API**
 
@@ -148,44 +149,52 @@ The sample questions allow you to see the type and format of items that you will
 * [[!DNL Adobe Analytics] APIs](https://adobedocs.github.io/analytics-2.0-apis/#/){target="_blank"}
 * [Welcome to the enterprise and teams admin guide](https://helpx.adobe.com/enterprise/admin-guide.html){target="_blank"}
 * [Getting started with the Analytics API](https://developer.adobe.com/analytics-apis/docs/2.0/guides/){target="_blank"}
-* [Analytics Admin Guide](https://experienceleague.adobe.com/docs/analytics/admin/home.html?lang=en){target="_blank"}
+* [Analytics Admin Guide](https://experienceleague.adobe.com/docs/analytics/admin/home.html){target="_blank"}
 
 **Section 6: Testing, validation, and troubleshooting**
 
 * [JavaScript error reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors){target="_blank"}
-* [Analytics Tech Notes](https://experienceleague.adobe.com/docs/analytics/technotes/home.html?lang=en){target="_blank"}
-* [Implement [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=en){target="_blank"}
+* [Analytics Tech Notes](https://experienceleague.adobe.com/docs/analytics/technotes/home.html){target="_blank"}
+* [Implement [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html){target="_blank"}
 
 >[!TAB Get certified]
 
 >[!IMPORTANT]
 >
->The following sections and links will function **only**  after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
+>The following sections and links will function **only**  after a **successful login** to the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}. 
+>
+>In addition, your profile name in the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} must exactly match your Government ID. Failure to have identical information or any mismatch will result in the proctor terminating the exam and will require you to reschedule your appointment in addition to paying an additional exam fee.*
 
+## About the exam
 
-**Now that you have successfully logged in, the following links will be directly accessible.**
+{{about-certification-exam}}
 
-**Take the certification exam**
+## Take the exam (AD0-E213)
 
-Adobe uses two vendors to administer proctored exams, PSI and Examity. 
+### Available options
 
-* **PSI** offers test center and Japanese exam options (where available) 
-* **[!DNL Examity]** offers a remote online option
+**PSI** (*test center / Japanese exam options (where available)*)
 
-To schedule, reschedule, or cancel your exam, simply click on the vendor of choice, and follow the instructions provided on screen. It's that simple!
+<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&ec=AD0-E213" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+                    
+ <span class="spectrum-Button-label has-no-wrap">
+   Take exam
+</span>
+</a>
 
-### Exam number: AD0-E213
+**[!DNL Examity]** ( *online* )
 
-[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&ec=AD0-E213 newtab=true"} [!BADGE Examity]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E213 newtab=true"}
-
-You can pay for your certification exam by voucher or credit card. To purchase an exam voucher go to: [Adobe Certification Voucher Center](https://market.xvoucher.com/adobe/global){target="_blank"}. 
-
-You can apply the voucher code when you schedule your exam. If you have a discount, it will apply at checkout.
+<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E213" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+                    
+ <span class="spectrum-Button-label has-no-wrap">
+   Take exam
+</span>
+</a>
 
 >[!ENDTABS]
 
-**Questions**
+## Questions
 
-View the certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+View the certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Additional questions? [Contact us](mailto:certif@adobe.com){target="_blank"}.

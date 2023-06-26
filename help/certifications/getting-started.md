@@ -3,8 +3,8 @@ title: Get Started with Adobe certifications
 description: Get started with [!DNL Experience Cloud] certifications. Learn about the program and this website.
 solution: Experience Cloud
 mini-toc-levels: 1
+exl-id: 751e4c99-cce8-47a1-84cc-2cb3aacdaec8
 ---
-
 # Get started {#getting-started}
 
 Adobe's certifications are designed to validate the knowledge and skills of professionals working with our digital marketing solutions. Use the following tabs to begin learning about the certification program.
@@ -32,18 +32,11 @@ Adobe [!DNL Experience Cloud] offers three different levels of certification: Pr
 
 These levels reflect a progression of proficiency and knowledge, with the Professional certification being the entry-level certification, Expert being the intermediate level, and Master being the highest level of certification.
 
-| ![Professional Badge](/help/certifications/assets/professional-badge-Xsmall.png)  | **Professional certifications** validate that a candidate has a foundational understanding of Adobe's digital marketing solutions. The certification exam covers basic concepts and functionalities of Adobe [!DNL Experience Cloud]. |
-| --------- | ------- |
-
-{style="table-layout:auto"}
-
-| ![Expert Badge](/help/certifications/assets/expert-badge-Xsmall.png) | **Expert certifications** are for professionals who have a more advanced understanding of Adobe's digital marketing solutions. The certification exam covers more complex concepts and functionalities of Adobe [!DNL Experience Cloud], including implementation and troubleshooting. |
+|Badge|Description |
 | ------- | ------- |
-
-{style="table-layout:auto"}
-
-| ![Master Badge](/help/certifications/assets/master-badge-Xsmall.png) | **Master certifications** are for professionals who have an in-depth understanding of Adobe's digital marketing solutions and have demonstrated expertise in multiple areas of Adobe [!DNL Experience Cloud]. The certification exam covers advanced topics and scenarios, including complex integrations, customizations, and troubleshooting.|
-| ------- | ------- |
+|![Professional Badge](/help/certifications/assets/professional-badge-Xsmall.png)| **Professional certifications** validate that a candidate has a foundational understanding of Adobe's digital marketing solutions. The certification exam covers basic concepts and functionalities of Adobe [!DNL Experience Cloud]. |
+|![Expert Badge](/help/certifications/assets/expert-badge-Xsmall.png)| **Expert certifications** are for professionals who have a more advanced understanding of Adobe's digital marketing solutions. The certification exam covers more complex concepts and functionalities of Adobe [!DNL Experience Cloud], including implementation and troubleshooting. |
+|![Master Badge](/help/certifications/assets/master-badge-Xsmall.png)| **Master certifications** are for professionals who have an in-depth understanding of Adobe's digital marketing solutions and have demonstrated expertise in multiple areas of Adobe [!DNL Experience Cloud]. The certification exam covers advanced topics and scenarios, including complex integrations, customizations, and troubleshooting.|
 
 {style="table-layout:auto"}
 
@@ -51,18 +44,11 @@ These levels reflect a progression of proficiency and knowledge, with the Profes
 
 Adobe certification exams are customized to three different job roles. Read the information below to find the right certification for your career path.
 
-| ![Business Practitioner Badge](/help/certifications/assets/business_practitioner_blk_small.png) | **Business Practitioners** are responsible for designing, executing, and managing marketing campaigns using Adobe [!DNL Experience Cloud] solutions. They should have a foundational understanding of Adobe's digital marketing solutions, as well as experience in marketing and advertising. The Business Practitioner certification validates their ability to effectively use Adobe's digital marketing solutions to achieve business objectives. |
+|Logo|Description |
 | ------- | ------- |
-
-{style="table-layout:auto"}
-
-| ![Developer Badge](/help/certifications/assets/developer_blk_small.png) | **Developers** are responsible for implementing and integrating Adobe [!DNL Experience Cloud] solutions into an organization's technology stack. They should have experience in software development and proficiency in web technologies, such as HTML, CSS, JavaScript, and RESTful APIs. The Developer certification validates their ability to effectively implement and customize Adobe's digital marketing solutions to meet business requirements. |
-| ------- | ------- |
-
-{style="table-layout:auto"}
-
-| ![Architect Badge](/help/certifications/assets/architect_blk_small.png) | **Architects** are responsible for designing and implementing enterprise-grade solutions using Adobe [!DNL Experience Cloud] solutions. They should have extensive knowledge of Adobe's digital marketing solutions and experience in software architecture, integration, and customization. The Architect certification validates their ability to design and implement complex solutions using Adobe's digital marketing solutions. |
-| ------- | ------- |
+|![Business Practitioner Badge](/help/certifications/assets/business_practitioner_blk_small.png)| **Business Practitioners** are responsible for designing, executing, and managing marketing campaigns using Adobe [!DNL Experience Cloud] solutions. They should have a foundational understanding of Adobe's digital marketing solutions, as well as experience in marketing and advertising. The Business Practitioner certification validates their ability to effectively use Adobe's digital marketing solutions to achieve business objectives. |
+|![Developer Badge](/help/certifications/assets/developer_blk_small.png)| **Developers** are responsible for implementing and integrating Adobe [!DNL Experience Cloud] solutions into an organization's technology stack. They should have experience in software development and proficiency in web technologies, such as HTML, CSS, JavaScript, and RESTful APIs. The Developer certification validates their ability to effectively implement and customize Adobe's digital marketing solutions to meet business requirements. |
+|![Architect Badge](/help/certifications/assets/architect_blk_small.png)| **Architects** are responsible for designing and implementing enterprise-grade solutions using Adobe [!DNL Experience Cloud] solutions. They should have extensive knowledge of Adobe's digital marketing solutions and experience in software architecture, integration, and customization. The Architect certification validates their ability to design and implement complex solutions using Adobe's digital marketing solutions. |
 
 {style="table-layout:auto"}
 
@@ -80,12 +66,15 @@ The Certification Journey Guide is a comprehensive tool designed to provide you 
 
 >[!ENDTABS]
 
-[!BADGE Get certified]{type=Informative url="https://experienceleague.adobe.com/docs/certification/certification/how-to-get-certified.html?lang=en newtab=true"}
+<a href="https://experienceleague.adobe.com/docs/certification/certification/how-to-get-certified.html" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+                    
+ <span class="spectrum-Button-label has-no-wrap">
+   Get Certified
+</span>
+</a>
 
-**Questions**
+## Questions
 
-View the certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+View the certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Additional questions? [Contact us](mailto:certif@adobe.com){target="_blank"}.
-
-

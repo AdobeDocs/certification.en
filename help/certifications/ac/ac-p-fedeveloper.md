@@ -6,10 +6,15 @@ product: Magento
 role: Developer
 badge: label="Exam AD0-E719" type="positive"
 mini-toc-levels: 1
+exl-id: aad1587f-f458-413a-af93-727666e94147
 ---
 # Certification journey for Adobe [!DNL Commerce] Front-end Developer Professional
 
 Learn how to become a certified Adobe Developer Professional.
+
+>[!NOTE]
+>
+>This exam Adobe Commerce Front End Developer Professional (AD0-E719) has been updated. If you have already started studying or are scheduled to take this version, please be sure to complete it before August 18, 2023. If you are just getting started, we recommend taking the [newest version of this exam](ac-p-fedeveloper0623.md). 
 
 ## Minimum experience
 
@@ -34,10 +39,6 @@ Additionally, you should exhibit knowledge of the following technologies:
 * Basic understanding of XML
 * Basic understanding of out-of-the-box SEO, optimization and performance techniques
 * Basic understanding of canonical links, as well as merging JavaScript and CSS
-
->[!NOTE]
->
->Your certification is valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
 
 >[!BEGINTABS]
 
@@ -168,32 +169,41 @@ The sample questions allow you to see the type and format of items that you will
 
 >[!IMPORTANT]
 >
->The following sections and links will function **only**  after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
+>The following sections and links will function **only**  after a **successful login** to the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}. 
+>
+>In addition, your profile name in the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} must exactly match your Government ID. Failure to have identical information or any mismatch will result in the proctor terminating the exam and will require you to reschedule your appointment in addition to paying an additional exam fee.*
 
 
-**Now that you have successfully logged in, the following links will be directly accessible.**
+## About the exam
 
-**Take the certification exam**
+{{about-certification-exam}}
 
-Adobe uses two vendors to administer proctored exams, PSI and Examity. 
+## Take the exam (AD0-E719)
 
-* **PSI** offers test center and Japanese exam options (where available) 
-* **[!DNL Examity]** offers a remote online option
+### Available options
 
-To schedule, reschedule, or cancel your exam, simply click on the vendor of choice, and follow the instructions provided on screen. It's that simple!
+**PSI** (*test center / Japanese exam options (where available)*)
 
-### Exam number: AD0-E719
+<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&ec=AD0-E719" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+                    
+ <span class="spectrum-Button-label has-no-wrap">
+   Take exam
+</span>
+</a>
 
-[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&ec=AD0-E719 newtab=true"} [!BADGE Examity]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E719 newtab=true"}
+**[!DNL Examity]** ( *online* )
 
-You can pay for your certification exam by voucher or credit card. To purchase an exam voucher go to: [Adobe Certification Voucher Center](https://market.xvoucher.com/adobe/global){target="_blank"}. 
-
-You can apply the voucher code when you schedule your exam. If you have a discount, it will apply at checkout.
+<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E719" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+                    
+ <span class="spectrum-Button-label has-no-wrap">
+   Take exam
+</span>
+</a>
 
 >[!ENDTABS]
 
-**Questions**
+## Questions
 
-View the certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+View the certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Additional questions? [Contact us](mailto:certif@adobe.com){target="_blank"}.

@@ -7,10 +7,15 @@ role: Developer
 level: Experienced
 badge: label="Exam AD0-E710" type="positive"
 mini-toc-levels: 1
+exl-id: 90ce0bb5-cfa3-4c4c-9ba0-1d63661cf593
 ---
 # Certification journey for Adobe [!DNL Commerce] Front-End Developer Expert
 
 Learn how to become a certified Adobe Developer Expert.
+
+>[!NOTE]
+>
+>This exam Adobe Commerce Front End Developer Expert (AD0-E710) has been updated. If you have already started studying or are scheduled to take this version, please be sure to complete it before August 18, 2023. If you are just getting started, we recommend taking the [newest version of this exam](ac-e-fedeveloper0623.md). 
 
 ## Minimum experience
 
@@ -32,10 +37,6 @@ Additionally, you should be comfortable using the following technologies:
 * Understanding code packages
 * Implement translation
 * Understanding how to work with email templates
-
->[!NOTE]
->
->Your certification is valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
 
 >[!BEGINTABS]
 
@@ -134,7 +135,7 @@ Here are some suggested resources to help you prepare:
 * [Create a storefront theme](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/themes/theme-create.html){target="_blank"} 
 * [Theme inheritance](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/themes/theme-inherit.html){target="_blank"} 
 * [Extend a layout](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/layouts/layout-extend.html){target="_blank"} 
-* [Email communications](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/5-3-store-communications.html?lang=en){target="_blank"} 
+* [Email communications](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/5-3-store-communications.html){target="_blank"} 
 * [Customize email templates](https://docs.magento.com/user-guide/marketing/email-template-custom.html){target="_blank"} 
 * [Email templates](https://docs.magento.com/user-guide/marketing/email-template-list.html){target="_blank"} 
 * [Translations](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/translations/xlate.html){target="_blank"} 
@@ -177,7 +178,7 @@ Here are some suggested resources to help you prepare:
 * [Custom Knockout.js bindings](https://devdocs.magento.com/guides/v2.4/ui_comp_guide/concepts/knockout-bindings.html){target="_blank"}
 * [Binding syntax](https://developer.adobe.com/commerce/frontend-core/ui-components/concepts/binding-syntax/){target="_blank"}
 * [jQuery widgets](https://developer.adobe.com/commerce/frontend-core/javascript/jquery-widgets/){target="_blank"}
-* [Add a JavaScript module](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/frontend-development/add-javascript-module.html?lang=en){target="_blank"}
+* [Add a JavaScript module](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/frontend-development/add-javascript-module.html){target="_blank"}
 
 **Section 5: Admin configuration and PageBuilder**
 
@@ -192,7 +193,7 @@ Here are some suggested resources to help you prepare:
 **Section 6: Tools (CLI and Grunt)**
 
 * [Command-line tool](https://devdocs.magento.com/guides/v2.4/config-guide/cli/config-cli.html#config-new-cli-intro){target="_blank"}
-* [[!DNL Commerce] for developers - Code base](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-4-code-base.html?lang=en){target="_blank"}
+* [[!DNL Commerce] for developers - Code base](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-4-code-base.html){target="_blank"}
 * [Uninstall modules](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/tutorials/uninstall-modules.html){target="_blank"}
 * [Manage extensions](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure-store/extensions.html){target="_blank"}
 * [Set the operation mode](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/cli/set-mode.html){target="_blank"}
@@ -203,41 +204,42 @@ Here are some suggested resources to help you prepare:
 
 >[!IMPORTANT]
 >
-> The following sections and links will function **only** after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
+> The following sections and links will function **only** after a **successful login** to the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}. 
 
-**Now that you have successfully logged in, the following links will be directly accessible.**
+## Take a practice test
 
-**Take a practice test**
+{{practice-test}}
 
-We recommend taking the free practice test before you start. You'll have unrestricted access to all available practice tests for Adobe's expert-level exams.
+## About the exam
 
-Our practice tests are all developed from the same blueprint as the live exams. The practice test will help you understand the topics covered in the live exam.
+{{about-certification-exam}}
 
-Please remember that passing a practice test does not guarantee you will pass the certification exam.
+## Take the exam (AD0-E710)
 
-Go to the [Adobe Certification Exam Prep Portal](https://www.certmetrics.com/adobe/candidate/gmetrix_sso.aspx){target="_blank"} now to take a practice test.
+### Available options
 
-**Take the certification exam**
+**PSI** (*test center / Japanese exam options (where available)*)
 
-Adobe uses two vendors to administer proctored exams, PSI and Examity. 
+<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&ec=AD0-E710" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+                    
+ <span class="spectrum-Button-label has-no-wrap">
+   Take exam
+</span>
+</a>
 
-* **PSI** offers test center and Japanese exam options (where available) 
-* **[!DNL Examity]** offers a remote online option
+**[!DNL Examity]** ( *online* )
 
-To schedule, reschedule, or cancel your exam, simply click on the vendor of choice, and follow the instructions provided on screen. It's that simple!
-
-### Exam number: AD0-E710
-
-[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&ec=AD0-E710 newtab=true"} [!BADGE Examity]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E710 newtab=true"}
-
-You can pay for your certification exam by voucher or credit card. To purchase an exam voucher go to: [Adobe Certification Voucher Center](https://market.xvoucher.com/adobe/global){target="_blank"}. 
-
-You can apply the voucher code when you schedule your exam. If you have a discount, it will apply at checkout.
+<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E710" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+                    
+ <span class="spectrum-Button-label has-no-wrap">
+   Take exam
+</span>
+</a>
 
 >[!ENDTABS]
 
-**Questions**
+## Questions
 
-View the certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+View the certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Additional questions? [Contact us](mailto:certif@adobe.com){target="_blank"}.

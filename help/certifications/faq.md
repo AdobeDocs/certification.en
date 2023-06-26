@@ -4,6 +4,7 @@ description: Get answers to questions about the Adobe Certification program. Lea
 role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
+exl-id: 0406eaf4-862c-4256-94c7-e9b02e628caa
 ---
 # Adobe certification FAQ
 
@@ -21,7 +22,7 @@ Individual benefits: Certification is a credential that recognizes an individual
 
 Certifications require commitment, are legally defensible, and validation from Adobe of your expertise. You can also feature your certification on your social profiles by downloading your badge from [!DNL Credly]. 
 
-To learn more about how to manage your badges in [!DNL Credly], go [HERE](https://experienceleague.adobe.com/docs/certification/certification/how-to-get-certified.html?lang=en){target="_blank"}.
+To learn more about how to manage your badges in [!DNL Credly], go [HERE](https://experienceleague.adobe.com/docs/certification/certification/how-to-get-certified.html){target="_blank"}.
 
 +++
 
@@ -36,7 +37,7 @@ Certifications are role-based, which means there are multiple exams available. R
 Sometimes there are multiple versions of an exam. It's best to take the latest version.
 
 * If an exam is retiring, you will see a note on the certification journey page. This means that this exam version will soon be removed because a new version of the exam is available. We encourage candidates to take the most recent version, but you can take the retiring version if you feel more prepared to take it. Either way, your certification will last for two years.  
-* If your current certification is about to expire, you should renew it. Renewal options have fewer questions, and are FREE. These options cover the most recent application capabilities. If your certification expires, you'll have to take the latest version of the certification exam, which you would pay for. [Learn more about renewal options](https://experienceleague.adobe.com/docs/certification/certification/renew.html?lang=en){target="_blank"}.
+* If your current certification is about to expire, you should renew it. Renewal options have fewer questions, and are FREE. These options cover the most recent application capabilities. If your certification expires, you'll have to take the latest version of the certification exam, which you would pay for. [Learn more about renewal options](https://experienceleague.adobe.com/docs/certification/certification/renew.html){target="_blank"}.
 
 +++
 
@@ -147,7 +148,7 @@ Occasionally, we retire an exam for a role. In that case, your certification wil
 
 Your certification will expire and will show as expired in [!DNL Credly] and any of your social profiles. Also, if your certification expires, then you can't take the shorter renewal exam or renew via continuous learning. 
 
-To learn more about how to manage your badges in [!DNL Credly], go [HERE](https://experienceleague.adobe.com/docs/certification/certification/how-to-get-certified.html?lang=en){target="_blank"}.
+To learn more about how to manage your badges in [!DNL Credly], go [HERE](https://experienceleague.adobe.com/docs/certification/certification/how-to-get-certified.html){target="_blank"}.
 
 +++
 
@@ -155,7 +156,7 @@ To learn more about how to manage your badges in [!DNL Credly], go [HERE](https:
 
 You can renew your certification free of charge. This provides you with a cost-effective way to maintain your certification, and keep your solution skills up to date.
 
-To learn more about How to Renew Your Certification, go [here](https://experienceleague.adobe.com/docs/certification/certification/renew.html?lang=en){target="_blank"}.
+To learn more about How to Renew Your Certification, go [here](https://experienceleague.adobe.com/docs/certification/certification/renew.html){target="_blank"}.
 
 +++
 
@@ -238,6 +239,169 @@ No, you only need to complete the requirements listed for the solution. Your cer
 +++Do I need to review the courses, or can I simply start taking assessments?
 
 The assessments are based on the Courses in Experience League and reviewing them will prepare candidates to successfully pass them. However, the key requirement for renewal is just to pass the Assessments. 
+
++++
+
+>[!TAB Restart program]
+
+**Program Overview**
+
++++What is the Adobe Certification Restart Program?  
+
+The Adobe Certification Restart Program is a one-time initiative that allows individuals to re-attain their expired Adobe certifications by passing online short exams or assessments, free of cost. 
+
++++
+
++++How long will the Restart Program run?
+
+The program will run for six months, from April 24 to October 20, 2023. 
+
++++
+
++++Will Adobe be offering this type of program again in the future?  
+
+Currently, we do not plan to offer this again. This is a one-time offering only. 
+
++++
+
++++Which certification levels are included in the Restart Program?
+
+Only Expert and Master level certifications are being included in the Restart Program. Professional level certifications will have a renewal path available starting June 2023. 
+
++++
+
+**Program Eligibility**
+
++++Who is eligible for the Adobe Certification Restart Program? 
+
+Individuals whose certifications expired from 2020 through April 23, 2023, are eligible for the Restart Program, provided the certification they seek is included in the program (see the Eligible Certification Exams list below). 
+
++++
+
++++ Why aren't all certification exams released over the years included in the Restart program?   
+Exams released prior to 2019 are excluded from the Restart program.
+
++++
+
++++Why is April 23, 2023, the cut-off date for Restart Program eligibility? 
+
+Because it allows individuals who were not able to participate in the FREE certification renewal period (launched on January 23, 2023) sufficient time to renew their certifications.
+
++++
+
++++Which certifications are part of the Adobe Certification Restart Program?  
+
+All active Adobe certifications, except for those that have retired, are part of the program.
+
++++
+
++++Can you show a list of eligible exams by application?
+
+**Adobe Experience Manager**
+
+| Exam ID |  Exam Name |
+| ------- | ------- |
+| AD0-E121  | [!DNL Adobe Experience Manager Sites] Business Practitioner Expert |
+| AD0-E102 | [!DNL Adobe Experience Manager Sites] Business Practitioner Expert |
+| AD0-E103 | [!DNL Adobe Experience Manager Sites] Developer Expert |
+| AD0-E116 | [!DNL Adobe Experience Manager Sites] Developer Expert |
+| AD0-E106 | [!DNL Adobe Experience Manager] Dev/Ops Engineer Expert |
+| AD0-E117 | [!DNL Adobe Experience Manager Sites] Architect Master |
+| AD0-E104 | [!DNL Adobe Experience Manager Sites] Architect Master |
+
+**[!DNL Adobe Analytics]**
+
+| Exam ID |  Exam Name |
+| ------- | ------- |
+| AD0-E201 | [!DNL Adobe Analytics] Developer Expert |
+| AD0-E202 | [!DNL Adobe Analytics] Business Practitioner Expert |
+| AD0-E200 | [!DNL Adobe Analytics] Architect Master |
+| AD0-E207 | [!DNL Adobe Analytics] Architect Master |
+
+**Adobe Audience Manager**
+
+| Exam ID |  Exam Name |
+| ------- | ------- |
+| AD0-E454 |  [!DNL Adobe Audience Manager] Architect Master |
+| AD0-E452 |  [!DNL Adobe Audience Manager] Architect Master |
+| AD0-E453 | [!DNL Adobe Audience Manager] Business Practitioner Expert |
+
+**Adobe Campaign Classic**
+
+| Exam ID |  Exam Name |
+| ------- | ------- |
+| AD0-E300  | Adobe [!DNL Campaign Classic] Sites Business Practitioner Expert |
+| AD0-E314 | Adobe [!DNL Campaign Classic] Sites Business Practitioner Expert |
+| AD0-E318 | Adobe [!DNL Campaign Classic] Architect Master |
+| AD0-E303 | Adobe [!DNL Campaign Classic] Architect Master |
+| AD0-E312 | Adobe [!DNL Campaign Classic] Developer Expert |
+| AD0-E308 | Adobe [!DNL Campaign Classic] Developer Expert |
+
+**Adobe Campaign Standard**
+
+| Exam ID |  Exam Name |
+| ------- | ------- |
+| AD0-E307  | Adobe [!DNL Campaign Standard] Business Practitioner Expert |
+| AD0-E302 | Adobe [!DNL Campaign Standard] Business Practitioner Expert |
+| AD0-E306 | Adobe [!DNL Campaign Standard] Developer Expert |
+| AD0-E301 | Adobe [!DNL Campaign Standard] Developer Expert |
+
+**Adobe [!DNL Marketo Engage]**
+
+| Exam ID |  Exam Name |
+| ------- | ------- |
+| AD0-E552  | Adobe [!DNL Marketo Engage] Business Practitioner (previously MCE) |
+
+**Adobe Target**
+
+| Exam ID |  Exam Name |
+| ------- | ------- |
+| AD0-E401  | [!DNL Adobe Target] Business Practitioner Expert |
+| AD0-E402 | [!DNL Adobe Target] Architect Master |
+
++++
+
++++My Certification expires between April 24 and October 20, 2023, while this program is available., Can I pursue the Restart program for my certification once it expires? 
+
+No. All candidates with active certifications as of the launch date and beyond have the option to pursue the continuous learning renewal path we announced in January 2023. 
+
+The Restart Program is meant only for certifications that expired prior to April 24, 2023, in order to offer certification to candidates who couldn't partake in the continuous learning program.
+
++++
+
+**[!DNL Marketo Engage] Solution Architect (MCSA) and Adobe Commerce**
+
++++I have an expired [!DNL Marketo] Certified Solution Architect (MCSA). Can I re-instate that through this Program? 
+
+Candidates with an expired [!DNL Marketo] Certified Solution Architect Certification may pursue the Marketo Business Practitioner Restart path for partial requirement towards the new [!DNL Marketo Engage] Architect certification. 
+
+Final requirement is to pass the new [!DNL Marketo Engage] Architect exam. For all MCSA expired certificate holders, we are running a 50% discount promotion until Dec 31, 2023, please contact certification support for details.
+
++++
+
++++Why are Adobe [!DNL Commerce] Certifications not part of Adobe Certification Restart Program? 
+
+There are no expired certificate holders for currently offered Adobe [!DNL Commerce] Certifications as of April 23, 2023. Therefore, all active Adobe [!DNL Commerce] Certified candidates have the option to renew through the continuous learning [renewal path for certification](https://experienceleague.adobe.com/docs/certification/program/technical-certifications/ac/ac-renew.html){target="_blank"}. 
+
++++
+
+**Adobe Credential Manager Profile**
+
++++Why do I see _Participation_ under the history section of my Profile in the Adobe Credential Manager?
+
+This is to mark your eligibility for the Adobe Certification Restart program. Candidates who have been assigned this participation can complete the requirements to restart their expired certification, in each application.
+
++++
+
++++I have completed the requirements and do not see the results in my profile history, when will I get the Certificate?
+
+The certification will be awarded within 72 hours after completing the requirements. It is important to note that this program will only award certification for eligible candidates.
+
++++
+
++++What should I do if my certification still shows as expired even after completing the restart requirements? 
+
+Unfortunately, once a certification has expired, it cannot be extended. In such cases, a new certification is issued instead of renewing the old one. 
 
 +++
 

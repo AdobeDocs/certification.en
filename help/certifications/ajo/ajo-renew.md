@@ -5,6 +5,7 @@ solution: Journey Optimizer
 product: Journey Optimizer
 role: Developer
 hidefromtoc: yes
+exl-id: 393255d0-dff1-4a49-93cd-e767b9b14fc5
 ---
 # Renew your Adobe [!DNL Journey Optimizer] certification
 
@@ -14,13 +15,13 @@ We're happy to announce that you are now able to renew your certification via a 
 
 >[!IMPORTANT]
 >
->The following sections and links will function **only** after a **successful login** to the [Adobe Credential Management System](http://www.certmetrics.com/adobe){target="_blank"}. 
+>The following sections and links will function **only** after a **successful login** to the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}. 
 
 >[!NOTE]
 >Expert renewal coming soon.
 
-**Questions**
+## Questions
 
-View the certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+View the certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Additional questions? [Contact us](mailto:certif@adobe.com){target="_blank"}.
