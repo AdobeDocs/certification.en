@@ -2,6 +2,7 @@
 cloud: Experience Cloud
 solution: Experience Cloud
 product: experience cloud
+level: Experienced
 type: Certification
 topic: Certification
 mini-toc-levels: 1

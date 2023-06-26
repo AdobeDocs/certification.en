@@ -3,6 +3,7 @@ title: Business Practitioner Professional certification
 description: Learn how to become certified as an Adobe [!DNL Advertising Search] Business Practitioner Professional.
 solution: Advertising
 product: Advertising Cloud
+level: Experienced
 role: User
 badge: label="Exam AD0-E501" type="positive"
 mini-toc-levels: 1

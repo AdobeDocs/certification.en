@@ -3,6 +3,7 @@ title: Developer Expert certification
 description: Learn how to become a certified Adobe Developer Expert in Adobe [!DNL Commerce].
 solution: Commerce
 role: Developer
+level: Experienced
 badge: label="Exam AD0-E716" type="positive"
 mini-toc-levels: 1
 exl-id: 025be894-3f29-4370-ac41-19901df4fb00
