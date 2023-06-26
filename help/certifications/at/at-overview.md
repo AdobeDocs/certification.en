@@ -14,7 +14,7 @@ The current version is:
 
 * [Adobe Target Architect Master (AD0-E409)](/help/certifications/at/at-m-architect.md)
 
-If you have already scheduled or have started studying for the current exam, please make sure you schedule and complete the exam **before August 25, 2023**. 
+If you have already scheduled or have started studying for the current exam, please make sure you schedule and complete the exam **before September 8, 2023**. 
 
 However, if you are just getting started on your certification, we recommend that you take the **NEW** version of the exam.
 

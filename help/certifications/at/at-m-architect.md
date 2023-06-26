@@ -14,7 +14,7 @@ Learn how to become a certified Adobe Architect Master.
 
 >[!NOTE]
 >
->This exam, Adobe Target Architect Master (AD0-E407), has been updated. If you have already started studying or are scheduled to take this version, please be sure to complete it before August 18, 2023. If you are just getting started, we recommend taking the [newest version of this exam](at-m-architect0623.md). 
+>This exam, Adobe Target Architect Master (AD0-E407), has been updated. If you have already started studying or are scheduled to take this version, please be sure to complete it before September 8, 2023. If you are just getting started, we recommend taking the [newest version of this exam](at-m-architect0623.md). 
 
 ## Minimum experience
 
