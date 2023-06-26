@@ -13,7 +13,7 @@ Learn how to become a certified Adobe Architect Master.
 
 >[!NOTE]
 >
->This is the newest Adobe Target Architect Master exam. If you have already started studying or have scheduled the [older version](at-m-architect.md) you have until August 25, 2023 to complete it. 
+>This is the newest Adobe Target Architect Master exam. If you have already started studying or have scheduled the [older version](at-m-architect.md) you have until September 8, 2023 to complete it. 
 
 ## Minimum experience
 
