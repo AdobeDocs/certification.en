@@ -88,10 +88,12 @@ Section 3: Styles (24%)
 
 Section 4: JavaScript (16%)
 
-* Demonstrate the basic usage of content management
-* Describe steps to apply/schedule a theme to a specific scope (website, store, store-view)
-* Describe steps to apply design changes to categories, products, and CMS pages using admin configuration
-* Describe steps to customize transactional emails
+* Demonstrate the ability to initialize and call JavaScript components
+* Demonstrate the usage of RequireJS
+* Describe the usage of mixins
+* Describe how to add a translation in JS
+* Describe the usage of Knockout JS
+* Describe the usage of jQuery widgets
 
 Section 5: Admin configuration and pagebuilder (12%)
 
