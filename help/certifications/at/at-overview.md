@@ -30,7 +30,7 @@ However, if you are just getting started on your certification, we recommend tha
 
 **Master**
 
-* [Architect - expiring August 25, 2023](/help/certifications/at/at-m-architect.md) <!--AD0-E407-->
+* [Architect - expiring September 8, 2023](/help/certifications/at/at-m-architect.md) <!--AD0-E407-->
 * [Architect NEW](/help/certifications/at/at-m-architect0623.md) <!--AD0-E409-->
 
 Visit the [Renew your certification](/help/certifications/renew.md) page to see if a renewal option is available for this product.
