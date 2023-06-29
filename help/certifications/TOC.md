@@ -34,7 +34,7 @@ user-guide-description: Learn about [!DNL Experience Cloud] Certification at Ado
   + Adobe [!DNL Customer Journey Analytics] {#acja}
     + [Customer Journey Analytics Overview](/help/certifications/acja/acja-overview.md)
     + Professional {#acja-professional}
-      + [Developer](/help/certifications/acja/acja-p-business.md)
+      + [Business Practitioner](/help/certifications/acja/acja-p-business.md)
     + Expert {#acja-expert}
       + [Developer](/help/certifications/acja/acja-e-developer.md)
   + Adobe [!DNL Audience Manager] {#aam}

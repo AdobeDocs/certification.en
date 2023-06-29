@@ -1,8 +1,8 @@
 ---
 title: Professional certification
-description: Learn how to become a certified Adobe Customer Journey Analytics Business Practitioner Professional.
-solution: Adobe Customer Journey Analytics
-product: Adobe Customer Journey Analytics
+description: Learn how to become a certified Adobe Professional in [!DNL Customer Journey Analytics]
+solution: Customer Journey Analytics
+product: Customer Journey Analytics
 role: User
 badge: label="Exam AD0-E608" type="positive"
 mini-toc-levels: 1
