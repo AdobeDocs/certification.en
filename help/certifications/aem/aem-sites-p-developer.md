@@ -44,10 +44,6 @@ You should be an application developer and have:
 * Cost: $125 (global) / $95 (India)
 * Exam ID: AD0-E123
 
-**Readiness self-assessment**
-
-Complete the [online readiness questionnaire](https://scorpion.caveon.com/launchpad/ad-q-e123-readiness-questionnaire-for-adobe-experience-manager-sites-developer-professional-exam){target="_blank"} to see if your current experience matches the recommended minimum candidate qualification.
-
 **Exam objectives and scope**
 
 Section 1: Configurations (26%)
