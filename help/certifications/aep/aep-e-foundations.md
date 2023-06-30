@@ -283,7 +283,7 @@ Section 3: Destinations (27%)
 
 ### Available options
 
-{{#PSI-note}}
+{{PSI-note}}
 
 **PSI** (*test center / Japanese exam options (where available)*)
 
