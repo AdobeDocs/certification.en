@@ -43,7 +43,6 @@ All of the details about each available product certification are listed in the 
 * [Adobe Campaign Standard](/help/certifications/acs/acs-overview.md)
 * [Adobe Document Cloud](/help/certifications/adc/adc-overview.md)
 * [Adobe Experience Manager](/help/certifications/aem/aem-overview.md)
-<!-- * [Adobe Experience Platform](/help/certifications/aep/aep-overview.md) -->
 * [Adobe Journey Optimizer](/help/certifications/ajo/ajo-overview.md)
 * [Adobe Marketo Engage](/help/certifications/ame/ame-overview.md)
 * [Adobe Target](/help/certifications/at/at-overview.md)
