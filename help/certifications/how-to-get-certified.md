@@ -13,7 +13,9 @@ Learn how to get certified at Adobe. Find all the resources you need before, dur
 
 >[!TAB Registration]
 
-Adobe uses two vendors to administer proctored exams: [!DNL PSI] and [!DNL Examity]. 
+Adobe uses two vendors to administer proctored exams: [!DNL PSI] and [!DNL Examity].
+
+{{PSI-note}}
 
 * **[!DNL PSI]:** offers test center and Japanese exam options (where available) 
 * **[!DNL Examity]:** offers a remote online option
@@ -79,6 +81,8 @@ Note: Bulk discounts cannot be combined with any other offer or discount.
 >[!TAB Certification vendors]
 
 The Adobe Credential team partners with vendors to help support the program's initiatives and goals.  Here are the vendors and their contact information: 
+
+{{PSI-note}}
 
 | Vendor Name | Description | Support Page/Email |
 | ------- | ------- | ------- |

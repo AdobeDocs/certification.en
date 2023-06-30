@@ -109,7 +109,9 @@ Because we need to ensure our Adobe certified individuals are current on new app
 
 +++
 
-+++Are exams available in languages other than english? 
++++Are exams available in languages other than English? 
+
+{{PSI-note}}
 
 There are some exams available in Japanese through PSI (one of our vendors). If the exam is available in Japanese it will be noted in the exam details for that exam. The exams details are found on the "Get ready" tab of the certification journey pages.
 
