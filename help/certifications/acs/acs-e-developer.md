@@ -165,7 +165,7 @@ You are not required to complete training before taking the exam, and training a
 
 ### Available options
 
-{#PSI-note}
+{{#PSI-note}}
 
 **PSI** (*test center / Japanese exam options (where available)*)
 

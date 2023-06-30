@@ -23,7 +23,7 @@ Cancellations and rescheduling are possible if initiated prior to 48 hours befor
 
 Pay for your certification exam either by voucher or credit card. To purchase an exam voucher go to: [Adobe Certification Voucher Center](https://market.xvoucher.com/adobe/global){target="_blank"}. You can apply the voucher code when you schedule your exam. If you have a discount, it will apply at checkout.
 
-## PSI note {#PSI-note}
+## PSI note {{#PSI-note}}
 
 >[!IMPORTANT]
 >
