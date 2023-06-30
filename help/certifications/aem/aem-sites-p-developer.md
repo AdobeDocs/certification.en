@@ -132,6 +132,8 @@ The sample questions allow you to see the type and format of items that you will
 
 ### Available options
 
+{#PSI-note}
+
 **PSI** (*test center / Japanese exam options (where available)*)
 
 **[!DNL Examity]** ( *online* )

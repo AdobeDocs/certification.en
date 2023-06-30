@@ -285,6 +285,8 @@ Section 3: Destinations (27%)
 
 ### Available options
 
+{#PSI-note}
+
 **PSI** (*test center / Japanese exam options (where available)*)
 
 <a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&ec=AD0-E601" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
