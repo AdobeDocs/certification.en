@@ -183,7 +183,7 @@ Here are some suggested resources to help you prepare:
 
 ### Available options
 
-{#PSI-note}
+{{#PSI-note}}
 
 **PSI** (*test center / Japanese exam options (where available)*)
 

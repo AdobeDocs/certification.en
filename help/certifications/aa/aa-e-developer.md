@@ -185,7 +185,7 @@ Cancellations and rescheduling are possible if initiated prior to 48 hours befor
 
 ### Available options
 
-{#PSI-note}
+{{#PSI-note}}
 
 **PSI** (*test center / Japanese exam options (where available)*)
 
