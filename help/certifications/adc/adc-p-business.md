@@ -121,13 +121,9 @@ Here are some suggested resources to help you prepare:
 >In addition, your profile name in the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} must exactly match your Government ID. Failure to have identical information or any mismatch will result in the proctor terminating the exam and will require you to reschedule your appointment in addition to paying an additional exam fee.*
 
 
-**Take a practice test - coming soon!**
+## Take a practice test
 
-We recommend taking the free practice test before you start. You'll have unrestricted access to all available practice tests for Adobe's expert-level exams.
-
-Our practice tests are all developed from the same blueprint as the live exams. The practice test will help you understand the topics covered in the live exam.
-
-Please remember that passing a practice test does not guarantee you will pass the certification exam.
+{{practice-test}}
 
 ## About the exam
 

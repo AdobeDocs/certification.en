@@ -13,7 +13,7 @@ Learn how to become a certified Adobe Business Practitioner Professional.
 
 ## Minimum experience
 
-The ideal MQC is an analyst with at least 6 months of experience in Customer Journey Analytics and a foundational understanding of how CJA works in conjunction with Adobe Experience Platform. The candidate is able to use the appropriate reporting and visualization options to perform basic and advanced analysis for a given business need.
+The ideal minimally qualified candidate is an analyst with at least 6 months of experience in Customer Journey Analytics and a foundational understanding of how CJA works in conjunction with Adobe Experience Platform. The candidate is able to use the appropriate reporting and visualization options to perform basic and advanced analysis for a given business need.
 
 >[!NOTE]
 >
