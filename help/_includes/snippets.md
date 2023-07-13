@@ -27,4 +27,4 @@ Pay for your certification exam either by voucher or credit card. To purchase an
 
 >[!IMPORTANT]
 >
->Beginning August 1, 2023, exam scheduling will no longer be available with PSI. If you have already scheduled an exam with PSI, you must take it before August 1, 2023. If you have scheduled an exam with PSI after August 1, 2023, please reschedule your exam to take place before that date. If you are not able or not prepared to take your exam before August 1, 2023, please email <certif@adobe.edu> so that we can support you transferring your exam to Examity. This includes Japanese-language exams.
+>Beginning August 1, 2023, exam scheduling will no longer be available with PSI. If you have already scheduled an exam with PSI, you must take it before August 1, 2023. If you have scheduled an exam with PSI after August 1, 2023, please reschedule your exam to take place before that date. If you are not able or not prepared to take your exam before August 1, 2023, please email <certif@adobe.com> so that we can support you transferring your exam to Examity. This includes Japanese-language exams.
