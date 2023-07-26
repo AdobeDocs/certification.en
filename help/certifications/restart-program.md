@@ -9,7 +9,7 @@ exl-id: 507ed14b-fd89-4701-aeeb-8905daec7270
 ---
 # Restart your certification journey by going from expired to certified
 
- The Adobe Restart Program allows individuals with eligible expired [!DNL Experience Cloud] certifications to re-certify free of charge through non-proctored, on-demand assessments or exams. 
+The Adobe Restart Program allows individuals with eligible expired [!DNL Experience Cloud] certifications to re-certify free of charge through non-proctored, on-demand assessments or exams. 
 
 Certification is a valuable resource for people seeking to stay competitive, and this program provides an opportunity to update [!DNL Experience Cloud] skills and keep ahead of the curve in a rapidly changing digital landscape.
 
@@ -114,13 +114,19 @@ To be eligible, your certification must meet **all** of the following criteria:
 * **Step 2**: Study the courses in Experience League
 * **Step 3**: Choose from the options below.
 
-**Option 1:** Select **three activities** to complete and pass the course assessments associated with each at a score of 80% or higher. Course assessments are free, on-demand, and non-proctored. You can repeat the courses until you have successfully passed the assessments at 80%.
+   **Option A:**
+   
+   Select **three courses** to complete and pass each course assessment with a score of 80% or higher. Course assessments are free, on-demand, non-proctored, and open book. You can repeat the courses until you have successfully passed the assessments at 80%.
 
-**Option 2:** Select **two activities** to complete and pass the course assessments associated with each at a score of 80% or higher. Course assessments are free, on-demand, and non-proctored. You can repeat the courses until you have successfully passed the assessments at 80%. Then, **submit a customer reference form** validating your engagement in a project totaling at least 100 hours in the past 12 months.
+   **Option B:**
+   
+   First, select **two courses** to complete and pass each course assessment with a score of 80% or higher. Course assessments are free, on-demand, non-proctored, and open book. You can repeat the courses until you have successfully passed the assessments at 80%.
+   
+   Second, **submit a customer reference form** validating your continued work as an Adobe certified individual leading, managing and/or participating on an Adobe Experience Cloud implementation project. This form affirms that you have participated in at least 100 hours of demonstrated project engagement in the past 12 months. 
 
-[Customer Reference Form for Adobe Experience Manager](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADS-EA100){target="_blank"}
+   [Customer Reference Form for Adobe Experience Manager](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADS-EA100){target="_blank"}
 
-You will be notified by the Adobe Credential Team when your customer reference has been reviewed.
+   You will be notified by the Adobe Credential Team when your customer reference has been reviewed. If your reference is not accepted, you may submit again until you are successful, as long as it is before your certification expires.
 
 ### Courses and Course Assessments for Expert and Master:
 
@@ -143,13 +149,19 @@ You will be notified by the Adobe Credential Team when your customer reference h
 * **Step 2**: Study the courses in Experience League
 * **Step 3**: Choose from the options below.
 
-**Option 1:** Select **three activities** to complete and pass the course assessments associated with each at a score of 80% or higher. Course assessments are free, on-demand, and non-proctored. You can repeat the courses until you have successfully passed the assessments at 80%.
+   **Option A:**
+   
+   Select **three courses** to complete and pass each course assessment with a score of 80% or higher. Course assessments are free, on-demand, non-proctored, and open book. You can repeat the courses until you have successfully passed the assessments at 80%.
 
-**Option 2:** Select **two activities** to complete and pass the course assessments associated with each at a score of 80% or higher. Course assessments are free, on-demand, and non-proctored. You can repeat the courses until you have successfully passed the assessments at 80%. Then, **submit a customer reference form** validating your engagement in a project totaling at least 100 hours in the past 12 months.
+   **Option B:**
+   
+   First, select **two courses** to complete and pass each course assessment with a score of 80% or higher. Course assessments are free, on-demand, non-proctored, and open book. You can repeat the courses until you have successfully passed the assessments at 80%.
+   
+   Second, **submit a customer reference form** validating your continued work as an Adobe certified individual leading, managing and/or participating on an Adobe Experience Cloud implementation project. This form affirms that you have participated in at least 100 hours of demonstrated project engagement in the past 12 months. 
 
-[Customer Reference Form for Adobe Experience Manager](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADS-EA100){target="_blank"}
+   [Customer Reference Form for Adobe Analytics](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADR-EA200){target="_blank"}
 
-You will be notified by the Adobe Credential Team when your customer reference has been reviewed.
+   You will be notified by the Adobe Credential Team when your customer reference has been reviewed. If your reference is not accepted, you may submit again until you are successful, as long as it is before your certification expires.
 
 ### Courses and Course Assessments for Expert and Master:
 
@@ -170,13 +182,19 @@ You will be notified by the Adobe Credential Team when your customer reference h
 * **Step 2**: Study the courses in Experience League
 * **Step 3**: Choose from the options below.
 
-**Option 1:** Select **three activities** to complete and pass the course assessments associated with each at a score of 80% or higher. Course assessments are free, on-demand, and non-proctored. You can repeat the courses until you have successfully passed the assessments at 80%.
+   **Option A:**
+   
+   Select **three courses** to complete and pass each course assessment with a score of 80% or higher. Course assessments are free, on-demand, non-proctored, and open book. You can repeat the courses until you have successfully passed the assessments at 80%.
 
-**Option 2:** Select **two activities** to complete and pass the course assessments associated with each at a score of 80% or higher. Course assessments are free, on-demand, and non-proctored. You can repeat the courses until you have successfully passed the assessments at 80%. Then, **submit a customer reference form** validating your engagement in a project totaling at least 100 hours in the past 12 months.
+   **Option B:**
+   
+   First, select **two courses** to complete and pass each course assessment with a score of 80% or higher. Course assessments are free, on-demand, non-proctored, and open book. You can repeat the courses until you have successfully passed the assessments at 80%.
+   
+   Second, **submit a customer reference form** validating your continued work as an Adobe certified individual leading, managing and/or participating on an Adobe Experience Cloud implementation project. This form affirms that you have participated in at least 100 hours of demonstrated project engagement in the past 12 months. 
 
-[Customer Reference Form for Adobe Experience Manager](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADS-EA100)
+   [Customer Reference Form for Adobe Target](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADR-EA400)
 
-You will be notified by the Adobe Credential Team when your customer reference has been reviewed.
+   You will be notified by the Adobe Credential Team when your customer reference has been reviewed. If your reference is not accepted, you may submit again until you are successful, as long as it is before your certification expires.
 
 ### Courses and Course Assessments for Expert and Master:
 
