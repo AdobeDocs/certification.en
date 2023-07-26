@@ -9,27 +9,100 @@ exl-id: 507ed14b-fd89-4701-aeeb-8905daec7270
 ---
 # Restart your certification journey by going from expired to certified
 
->[!AVAILABILITY]
+ The Adobe Restart Program allows individuals with eligible expired [!DNL Experience Cloud] certifications to re-certify free of charge through non-proctored, on-demand assessments or exams. 
+
+Certification is a valuable resource for people seeking to stay competitive, and this program provides an opportunity to update [!DNL Experience Cloud] skills and keep ahead of the curve in a rapidly changing digital landscape.
+
+>[!IMPORTANT]
 >
-> This limited time program, offered from **April 24th, 2023 through October 20th, 2023**.  The program provides an opportunity to update your skills and stay ahead of the curve in a rapidly changing digital landscape.
->
-> ** ELIGIBILITY : Individuals whose certifications expired starting in 2020 through April 23, 2023 are eligible for this **free** program.
+>**This limited-time program is only offered from April 24, 2023 through October 20, 2023.**
 
-## Introduction
+## Eligibility
 
-The Adobe Restart Program is an initiative that allows individuals with expired [!DNL Experience Cloud] certifications to re-certify, free of charge. If you have previously held an Adobe Experience Cloud certification that has since expired, you may be eligible to Restart your certification via FREE and non-proctored testing formats. This program is a valuable resource for people seeking to enhance their knowledge and skills of the Adobe Experience Cloud and stay competitive.
+Individuals with expired certifications who are eligible for this program should have received an email from the Adobe Certification Program with the subject, "Become Adobe Certified Again for Free."
 
-### Steps to restart your expired certification{#exams}
+If you are not sure whether you are eligible, please check [here](https://solutionpartners.adobe.com/solution-partners/training_and_certification/certification.html#restart).
 
->[!NOTE]
->
->If you have received an Email from Adobe Credential Program with a subject "Become Adobe Certified Again For Free," you can skip to step 2.
+To be eligible, your certification must meet **all** of the following criteria:
 
-* Step 1: Determine whether your expired certification is eligible for the Restart program by checking [here](https://solutionpartners.adobe.com/solution-partners/training_and_certification/certification.html#restart){target="_blank"}. If it is eligible, proceed to Step 2. 
-* Step 2: Review the restart requirements for your application. 
-* Step 3: Follow the steps to complete the course assessments/exams **before the October 20, 2023,** deadline from the options provided. 
+* It must have expired between January 1, 2020 and April 23, 2023.
+* It must be Expert or Master level.
+* It must have a current exam available. (If the certification no longer has an active exam, it is not eligible for the Restart Program.)
+* It must appear on the list of eligible certifications below:
 
-### Adobe Certification Restart paths by application
++++View eligible certifications
+
+**Adobe Experience Manager**
+
+| Exam ID |  Exam Name |
+| ------- | ------- |
+| AD0-E121  | [!DNL Adobe Experience Manager Sites] Business Practitioner Expert |
+| AD0-E102 | [!DNL Adobe Experience Manager Sites] Business Practitioner Expert |
+| AD0-E103 | [!DNL Adobe Experience Manager Sites] Developer Expert |
+| AD0-E116 | [!DNL Adobe Experience Manager Sites] Developer Expert |
+| AD0-E106 | [!DNL Adobe Experience Manager] Dev/Ops Engineer Expert |
+| AD0-E117 | [!DNL Adobe Experience Manager Sites] Architect Master |
+| AD0-E104 | [!DNL Adobe Experience Manager Sites] Architect Master |
+
+**[!DNL Adobe Analytics]**
+
+| Exam ID |  Exam Name |
+| ------- | ------- |
+| AD0-E201 | [!DNL Adobe Analytics] Developer Expert |
+| AD0-E202 | [!DNL Adobe Analytics] Business Practitioner Expert |
+| AD0-E200 | [!DNL Adobe Analytics] Architect Master |
+| AD0-E207 | [!DNL Adobe Analytics] Architect Master |
+
+**Adobe Audience Manager**
+
+| Exam ID |  Exam Name |
+| ------- | ------- |
+| AD0-E454 |  [!DNL Adobe Audience Manager] Architect Master |
+| AD0-E452 |  [!DNL Adobe Audience Manager] Architect Master |
+| AD0-E453 | [!DNL Adobe Audience Manager] Business Practitioner Expert |
+
+**Adobe Campaign Classic**
+
+| Exam ID |  Exam Name |
+| ------- | ------- |
+| AD0-E300  | Adobe [!DNL Campaign Classic] Sites Business Practitioner Expert |
+| AD0-E314 | Adobe [!DNL Campaign Classic] Sites Business Practitioner Expert |
+| AD0-E318 | Adobe [!DNL Campaign Classic] Architect Master |
+| AD0-E303 | Adobe [!DNL Campaign Classic] Architect Master |
+| AD0-E312 | Adobe [!DNL Campaign Classic] Developer Expert |
+| AD0-E308 | Adobe [!DNL Campaign Classic] Developer Expert |
+
+**Adobe Campaign Standard**
+
+| Exam ID |  Exam Name |
+| ------- | ------- |
+| AD0-E307  | Adobe [!DNL Campaign Standard] Business Practitioner Expert |
+| AD0-E302 | Adobe [!DNL Campaign Standard] Business Practitioner Expert |
+| AD0-E306 | Adobe [!DNL Campaign Standard] Developer Expert |
+| AD0-E301 | Adobe [!DNL Campaign Standard] Developer Expert |
+
+**Adobe [!DNL Marketo Engage]**
+
+| Exam ID |  Exam Name |
+| ------- | ------- |
+| AD0-E552  | Adobe [!DNL Marketo Engage] Business Practitioner (previously MCE) |
+
+**Adobe Target**
+
+| Exam ID |  Exam Name |
+| ------- | ------- |
+| AD0-E401  | [!DNL Adobe Target] Business Practitioner Expert |
+| AD0-E402 | [!DNL Adobe Target] Architect Master |
+
++++
+
+## Steps to restart your expired certification{#exams}
+
+* **Step 1:** See the Eligibility section above to determine whether your certification is eligible for the Restart program. If it is, proceed to step 2.
+* **Step 2:** Find your application among the tabs below and review the Restart Program requirements for your certification. 
+* **Step 3:** Follow the instructions to complete the required course assessments or exams from the options provided **before the October 20, 2023 deadline**. 
+
+## Adobe Certification Restart Program paths by application
 
 >[!BEGINTABS]
 
@@ -37,26 +110,19 @@ The Adobe Restart Program is an initiative that allows individuals with expired 
 
 ### Instructions for restarting your Adobe [!DNL Experience Manager] certification
 
-Select **three activities** to complete and pass the course assessments associated with each.
-
 * **Step 1**: Successfully log in to [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}, then return to this page
 * **Step 2**: Study the courses in Experience League
-* **Step 3**: Complete and pass each course assessment with at least 80%
+* **Step 3**: Choose from the options below.
 
-Alternatively, study two courses, pass two course assessments and submit a customer reference form validating your engagement in a project totaling 100 hours in the past 12 months.
+**Option 1:** Select **three activities** to complete and pass the course assessments associated with each at a score of 80% or higher. Course assessments are free, on-demand, and non-proctored. You can repeat the courses until you have successfully passed the assessments at 80%.
 
-For certain Adobe [!DNL Experience Cloud] certifications, the Adobe Credential Program accepts **customer references** that validate your continued work as an Adobe certified individual leading, managing and/or participating on an Adobe [!DNL Experience Cloud] implementation project.
-
-In these cases you can provide a customer reference affirming you have participated in at least 100 hours of demonstrated project engagement in the past 12 months.
-
-**Once your customer reference has been reviewed you will be notified by the Adobe Credential Team.**
-
-
-The course assessments are free. There is no need to schedule them, and they are not proctored. If you hold multiple Adobe Experience Manager Expert and Master level certifications, you will only need to complete the requirements below and your expert and master AEM certifications will get renewed.
+**Option 2:** Select **two activities** to complete and pass the course assessments associated with each at a score of 80% or higher. Course assessments are free, on-demand, and non-proctored. You can repeat the courses until you have successfully passed the assessments at 80%. Then, **submit a customer reference form** validating your engagement in a project totaling at least 100 hours in the past 12 months.
 
 [Customer Reference Form for Adobe Experience Manager](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADS-EA100){target="_blank"}
 
-### Courses and Course Assessments:
+You will be notified by the Adobe Credential Team when your customer reference has been reviewed.
+
+### Courses and Course Assessments for Expert and Master:
 
 | Course | Course Assessment |
 | ------- | ------- |
@@ -69,33 +135,23 @@ The course assessments are free. There is no need to schedule them, and they are
 | [Adobe Experience Manager Cloud Manager Skill Builder](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-u-1-2019-1-cloudmgr-builder.html){target="_blank"} | [ADS-EA107](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADS-EA107){target="_blank"} |
 | [Adobe Experience Manager Sites for Architects](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-d-1-2019-1-architect.html){target="_blank"} | [ADS-EA108](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADS-EA108){target="_blank"} |
 
->[!NOTE]
->
->You can repeat until you have successfully completed three activities, or completed two activities and the customer reference form.
-
 >[!TAB Analytics]
 
 ### Instructions for restarting your Adobe Analytics certification
 
-Select **three activities** to complete and pass the course assessments associated with each.
-
 * **Step 1**: Successfully log in to [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}, then return to this page
 * **Step 2**: Study the courses in Experience League
-* **Step 3**: Complete and pass each course assessment with at least 80%
+* **Step 3**: Choose from the options below.
 
-Alternatively, study two courses, pass two course assessments and submit a customer reference form validating your engagement in a project totaling 100 hours in the past 12 months.
+**Option 1:** Select **three activities** to complete and pass the course assessments associated with each at a score of 80% or higher. Course assessments are free, on-demand, and non-proctored. You can repeat the courses until you have successfully passed the assessments at 80%.
 
-For certain Adobe [!DNL Experience Cloud] certifications, the Adobe Credential Program accepts **customer references** that validate your continued work as an Adobe certified individual leading, managing and/or participating on an Adobe [!DNL Experience Cloud] implementation project.
+**Option 2:** Select **two activities** to complete and pass the course assessments associated with each at a score of 80% or higher. Course assessments are free, on-demand, and non-proctored. You can repeat the courses until you have successfully passed the assessments at 80%. Then, **submit a customer reference form** validating your engagement in a project totaling at least 100 hours in the past 12 months.
 
-In these cases you can provide a customer reference affirming you have participated in at least 100 hours of demonstrated project engagement in the past 12 months.
+[Customer Reference Form for Adobe Experience Manager](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADS-EA100){target="_blank"}
 
-**Once your customer reference has been reviewed you will be notified by the Adobe Credential Team.**
+You will be notified by the Adobe Credential Team when your customer reference has been reviewed.
 
-The course assessments are free. There is no need to schedule them, and they are not proctored. If you hold multiple Adobe Analytic Expert and Master level certifications, you will only need to complete the requirements below and your expert and master Analytic certifications will get renewed.
-
-[Customer Reference Form for Adobe Analytics](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADS-EA200){target="_blank"}
-
-### Courses and Course Assessments:
+### Courses and Course Assessments for Expert and Master:
 
 | Course | Course Assessment |
 | ------- | ------- |
@@ -106,33 +162,23 @@ The course assessments are free. There is no need to schedule them, and they are
 | [ Implementing and Measuring Internal Site Search - Lesson 3 & 4](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.search){target="_blank"} | [ADS-EA205](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADS-EA205){target="_blank"} |
 | [Adobe Analytics APIs](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/apis/using-analysis-workspace-to-build-api-2-requests.html){target="_blank"} | [ADS-EA206](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADS-EA206){target="_blank"} |
 
->[!NOTE]
->
->You can repeat until you have successfully completed three activities, or completed two activities and the customer reference form.
-
 >[!TAB Target]
 
 ### Instructions for restarting your Adobe Target certification
 
-Select **three activities** to complete and pass the course assessments associated with each.
-
 * **Step 1**: Successfully log in to [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}, then return to this page
 * **Step 2**: Study the courses in Experience League
-* **Step 3**: Complete and pass each course assessment with at least 80%
+* **Step 3**: Choose from the options below.
 
-Alternatively, study two courses, pass two course assessments and submit a customer reference form validating your engagement in a project totaling 100 hours in the past 12 months.
+**Option 1:** Select **three activities** to complete and pass the course assessments associated with each at a score of 80% or higher. Course assessments are free, on-demand, and non-proctored. You can repeat the courses until you have successfully passed the assessments at 80%.
 
-For certain Adobe [!DNL Experience Cloud] certifications, the Adobe Credential Program accepts **customer references** that validate your continued work as an Adobe certified individual leading, managing and/or participating on an Adobe [!DNL Experience Cloud] implementation project.
+**Option 2:** Select **two activities** to complete and pass the course assessments associated with each at a score of 80% or higher. Course assessments are free, on-demand, and non-proctored. You can repeat the courses until you have successfully passed the assessments at 80%. Then, **submit a customer reference form** validating your engagement in a project totaling at least 100 hours in the past 12 months.
 
-In these cases you can provide a customer reference affirming you have participated in at least 100 hours of demonstrated project engagement in the past 12 months.
+[Customer Reference Form for Adobe Experience Manager](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADS-EA100)
 
-**After your customer reference has been reviewed, you will be notified by the Adobe Credential Team.**
+You will be notified by the Adobe Credential Team when your customer reference has been reviewed.
 
-The course assessments are free. There is no need to schedule them, and they are not proctored. If you hold multiple Adobe Target Expert and Master level certifications, you will only need to complete the requirements below and your expert and master Target certifications will get renewed.
-
-[Customer Reference Form for Adobe Target](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADS-EA400){target="_blank"}
-
-### Courses and Course Assessments:
+### Courses and Course Assessments for Expert and Master:
 
 | Course | Course Assessment |
 | ------- | ------- |
@@ -142,15 +188,11 @@ The course assessments are free. There is no need to schedule them, and they are
 | [Guided Mobile and IoT Launch for Developers Course](https://experienceleague.adobe.com/?recommended=Target-D-1-2019.1.web){target="_blank"} | [ADS-EA404](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADS-EA404){target="_blank"} |
 | [Guided Website Launch for Developers Course](https://experienceleague.adobe.com/?recommended=Target-D-1-2019.1.web){target="_blank"} | [ADS-EA405](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADS-EA405){target="_blank"} |
 
->[!NOTE]
->
->You can repeat until you have successfully completed three activities, or completed two activities and the customer reference form.
-
 >[!TAB Audience Manager]
 
 ### Select the applicable exam based on role to restart your Adobe Audience Manager certification
 
-+++ADS-E826 Adobe Audience Manager **Business Practitioner** expert restart exam
++++ADS-E826 Adobe Audience Manager **Business Practitioner** Expert Restart exam
 
 **Instructions for restarting your certification:**
 
@@ -168,7 +210,7 @@ The course assessments are free. There is no need to schedule them, and they are
 * Delivery: On-demand / non-proctored
 * Available languages: English
 * Cost: FREE
-* Exam ID: ADS-E826 - Adobe Audience Manager Business Practitioner expert restart
+* Exam ID: ADS-E826 - Adobe Audience Manager Business Practitioner Expert Restart
 
 
 **Exam Objectives and Scope**
@@ -216,7 +258,7 @@ Here are suggested resources,
 
 **Restart your certification**
 
-The Adobe Audience Manager Business Practitioner expert restart exam ADS-E826 is free, open book, and un-proctored. You may take the exam up to three times. If you are unsuccessful after the third attempt, you must wait **30 days** to try again. Failure to comply might result in your certification being revoked.
+The Adobe Audience Manager Business Practitioner Expert Restart exam ADS-E826 is free, open book, and non-proctored. You may take the exam up to three times. If you are unsuccessful after the third attempt, you must wait **30 days** to try again. Failure to comply may result in your certification being revoked.
 
 <a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADS-E82" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
                     
@@ -227,7 +269,7 @@ The Adobe Audience Manager Business Practitioner expert restart exam ADS-E826 is
 
 +++
 
-+++ADS-E825 Adobe Audience Manager **Architect** master restart exam
++++ADS-E825 Adobe Audience Manager **Architect** Master Restart exam
 
 **Instructions for restarting your certification:**
 
@@ -245,7 +287,7 @@ The Adobe Audience Manager Business Practitioner expert restart exam ADS-E826 is
 * Delivery: On-demand / non-proctored
 * Available languages: English
 * Cost: FREE
-* Exam ID: ADS-E825 - Adobe Audience Manager Architect Master restart
+* Exam ID: ADS-E825 - Adobe Audience Manager Architect Master Restart
 
 **Scope and objectives:**
 
@@ -317,7 +359,7 @@ Here are some suggested resources to help you prepare:
 
 ### Restart your certification
 
-The Adobe Audience Manager Architect master restart exam ADS-E825 is free, open book, and un-proctored. You may take the exam up to three times. If you are unsuccessful after the third attempt, you must wait **30 days** to try again. Failure to comply might result in your certification being revoked.
+The Adobe Audience Manager Architect Master Restart exam ADS-E825 is free, open book, and non-proctored. You may take the exam up to three times. If you are unsuccessful after the third attempt, you must wait **30 days** to try again. Failure to comply may result in your certification being revoked.
 
 <a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADS-E825" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
                     
@@ -332,7 +374,7 @@ The Adobe Audience Manager Architect master restart exam ADS-E825 is free, open 
 
 ### Select the applicable exam based on role to restart your Adobe Campaign certification
 
-+++ADS-E821 Adobe **Campaign Standard Developer** expert restart exam
++++ADS-E821 Adobe **Campaign Standard Developer** Expert Restart exam
 
 **Instructions for restarting your certification:**
 
@@ -350,7 +392,7 @@ The Adobe Audience Manager Architect master restart exam ADS-E825 is free, open 
 * Delivery: On-demand / non-proctored
 * Available languages: English
 * Cost: FREE
-* Exam ID: ADS-E821 - Adobe Campaign Standard Developer expert restart
+* Exam ID: ADS-E821 - Adobe Campaign Standard Developer Expert Restart
 
 **Scope and objectives:**
 
@@ -432,7 +474,7 @@ Here are some suggested resources to help you prepare:
 
 ### Restart your certification
 
-The Adobe [!DNL Campaign Standard] Developer Expert restart exam ADS-821 is free, open book, and un-proctored. You may take the exam up to three times. If you are unsuccessful after the third attempt, you must wait **30 days** to try again. Failure to comply might result in your certification being revoked.
+The Adobe [!DNL Campaign Standard] Developer Expert Restart exam ADS-821 is free, open book, and un-proctored. You may take the exam up to three times. If you are unsuccessful after the third attempt, you must wait **30 days** to try again. Failure to comply might result in your certification being revoked.
 
 <a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADS-E821" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
                     
@@ -443,7 +485,7 @@ The Adobe [!DNL Campaign Standard] Developer Expert restart exam ADS-821 is free
 
 +++
 
-+++ADS-E822 Adobe **Campaign Standard Business Practitioner** expert restart exam
++++ADS-E822 Adobe **Campaign Standard Business Practitioner** Expert Restart exam
 
 **Instructions for restarting your certification:**
 
@@ -461,7 +503,7 @@ The Adobe [!DNL Campaign Standard] Developer Expert restart exam ADS-821 is free
 * Delivery: On-demand / non-proctored
 * Available languages: English
 * Cost: FREE
-* Exam ID: ADS-E822 - Campaign Standard Business Practitioner expert restart
+* Exam ID: ADS-E822 - Campaign Standard Business Practitioner Expert Restart
 
 **Scope and objectives:**
 
@@ -521,7 +563,7 @@ The Adobe [!DNL Campaign Standard] Business Practitioner Expert restart exam ADS
 
 +++
 
-+++ADS-E823 Adobe **Campaign Classic** expert and/or master restart exam
++++ADS-E823 Adobe **Campaign Classic** Expert and/or Master Restart exam
 
 **Instructions for restarting your certification:**
 
@@ -539,7 +581,7 @@ The Adobe [!DNL Campaign Standard] Business Practitioner Expert restart exam ADS
 * Delivery: On-demand / non-proctored
 * Available languages: English
 * Cost: FREE
-* Exam ID: ADS-E823 - Adobe [!DNL Campaign Classic] expert and/or master restart
+* Exam ID: ADS-E823 - Adobe [!DNL Campaign Classic] Expert and/or Master Restart
 
 **Scope and objectives**
 
@@ -620,7 +662,7 @@ Here are some suggested resources to help you prepare:
 
 ### Restart your certification
 
-The Adobe Campaign Classic restart exam ADS-823 is free, open book, and un-proctored. You may take the exam up to three times. If you are unsuccessful after the third attempt, you must wait **30 days** to try again. Failure to comply might result in your certification being revoked.
+The Adobe Campaign Classic Restart exam ADS-823 is free, open book, and un-proctored. You may take the exam up to three times. If you are unsuccessful after the third attempt, you must wait **30 days** to try again. Failure to comply might result in your certification being revoked.
 
 <a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADS-E823" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
                     
@@ -649,7 +691,7 @@ The Adobe Campaign Classic restart exam ADS-823 is free, open book, and un-proct
 * Delivery: On-demand / non-proctored
 * Available languages: English
 * Cost: FREE
-* Exam ID: ADS-E824 - Adobe Marketo Engage Business Practitioner expert restart
+* Exam ID: ADS-E824 - Adobe Marketo Engage Business Practitioner Expert Restart
 
 **Scope and objectives:**
 
