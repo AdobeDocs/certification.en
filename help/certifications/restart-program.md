@@ -21,7 +21,7 @@ Certification is a valuable resource for people seeking to stay competitive, and
 
 Individuals with expired certifications who are eligible for this program should have received an email from the Adobe Certification Program with the subject, "Become Adobe Certified Again for Free."
 
-If you are not sure whether you are eligible, please check [here](https://solutionpartners.adobe.com/solution-partners/training_and_certification/certification.html#restart).
+If you are not sure whether you are eligible, please check [here](https://solutionpartners.adobe.com/solution-partners/training_and_certification/certification.html#restart){target="_blank"}.
 
 To be eligible, your certification must meet **all** of the following criteria:
 
@@ -192,7 +192,7 @@ To be eligible, your certification must meet **all** of the following criteria:
    
    Second, **submit a customer reference form** validating your continued work as an Adobe certified individual leading, managing and/or participating on an Adobe Experience Cloud implementation project. This form affirms that you have participated in at least 100 hours of demonstrated project engagement in the past 12 months. 
 
-   [Customer Reference Form for Adobe Target](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADR-EA400)
+   [Customer Reference Form for Adobe Target](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADR-EA400){target="_blank"}
 
    You will be notified by the Adobe Credential Team when your customer reference has been reviewed. If your reference is not accepted, you may submit again until you are successful, as long as it is before your certification expires.
 
@@ -266,7 +266,7 @@ To be eligible, your certification must meet **all** of the following criteria:
 
 You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
 
-Here are suggested resources,
+Here are suggested resources:
 
 * [Sample Exam](https://sei.caveon.com/launchpad/ad4-e453-adobe-audience-manager-business-practitioner-sample-exam){target="_blank"}
 * [[!DNL Audience Manager] Product Documentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html){target="_blank"}
