@@ -32,7 +32,7 @@ It's important to note that if your certification expires before you complete yo
 
 >[!TAB Expert and Master]
 
-## You should be currently certified (not expired) in:
+## You must have at least one of the following **active** certifications to renew:
 
 * [!DNL Adobe Target] Business Practitioner Expert
 * [!DNL Adobe Target] Architect Master
@@ -44,7 +44,6 @@ It's important to note that if your certification expires before you complete yo
 * **Step 3:** Choose from the options below to complete your renewal.
 
    **Option A:**
-
    Select **three courses** to complete and pass each course assessment with a score of 80% or higher. Course assessments are free, on-demand, non-proctored, and open book. You can repeat the courses until you have successfully passed the assessments at 80%.
 
    **Option B:**
@@ -58,7 +57,7 @@ It's important to note that if your certification expires before you complete yo
 
 >[!NOTE]
 >
->If you hold multiple [!DNL Adobe Target] Expert and Master-level certifications, complete the renewal requirements for just one certification, and the rest will be renewed automatically.
+>If you hold multiple [!DNL Adobe Target] Expert and Master certifications, complete the renewal requirements for just one certification, and the rest will be renewed automatically.
 
 ## Courses and Course Assessments for Expert and Master:
 

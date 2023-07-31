@@ -31,7 +31,7 @@ It's important to note that if your certification expires, you'll have to retake
 
 >[!TAB Expert and Master]
 
-You should be currently certified (not expired) in:
+## You must have at least one of the following **active** certifications to renew:
 
 * Adobe [!DNL Experience Manager Sites] Developer Expert
 * Adobe [!DNL Experience Manager Sites] Business Practitioner Expert
@@ -42,28 +42,30 @@ You should be currently certified (not expired) in:
 
 ## Instructions for renewing your Adobe [!DNL Experience Manager] certification
 
-Select **three activities** to complete and pass the course assessments associated with each.
+* **Step 1:** Successfully log in to [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}, then return to this page
+* **Step 2:** Study the courses in Experience League
+* **Step 3:** Choose from the options below to complete your renewal.
 
-* **Step 1**: Successfully log in to [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}, then return to this page
-* **Step 2**: Study the courses in Experience League
-* **Step 3**: Complete and pass each course assessment with at least 80%
+   **Option A:**
+   Select **three courses** to complete and pass each course assessment with a score of 80% or higher. Course assessments are free, on-demand, non-proctored, and open book. You can repeat the courses until you have successfully passed the assessments at 80%.
 
-Alternatively, study two courses, pass two course assessments and submit a customer reference form validating your engagement in a project totaling 100 hours in the past 12 months.
+   **Option B:**
+   First, select **two courses** to complete and pass each course assessment with a score of 80% or higher. Course assessments are free, on-demand, non-proctored, and open book. You can repeat the courses until you have successfully passed the assessments at 80%.
 
-For certain Adobe Experience Cloud certifications, the Adobe Credential Program accepts **customer references** that validate your continued work as an Adobe certified individual leading, managing and/or participating on an Adobe Experience Cloud implementation project.
+   Second, **submit a customer reference form** validating your continued work as an Adobe certified individual leading, managing and/or participating on an Adobe Experience Cloud implementation project. This form affirms that you have participated in at least 100 hours of demonstrated project engagement during your certification renewal 2-year interval. 
 
-In these cases you can provide a customer reference affirming you have participated in at least 100 hours of demonstrated project engagement during your certification renewal 2-year interval.
+   [Customer Reference Form for Adobe Experience Manager](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADR-EA100){target="_blank"}
 
-**Once your customer reference has been reviewed you will be notified by the Adobe Credential Team.**
+   You will be notified by the Adobe Credential Team when your customer reference has been reviewed. If your reference is not accepted, you may submit again until you are successful, as long as it is before your certification expires.
 
-The course assessments are free. There is no need to schedule them, and they are not proctored. If you hold multiple Adobe Experience Manager Expert and Master level certifications, you will only need to complete the requirements below and all your AEM certifications at this level, will get renewed.
+>[!NOTE]
+>
+>If you hold multiple [!DNL Adobe Experience Manager] Expert and Master certifications, complete the renewal requirements for just one certification, and the rest will be renewed automatically.
 
-[Customer Reference Form for Adobe Experience Manager](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADR-EA100){target="_blank"}
-
-### Courses and course assessments for expert and master:
+## Courses and course assessments for Expert and Master:
 
 
-| Course | Course Assessment |
+| Courses for Expert and Master | Course Assessment |
 | ------- | ------- |
 | [Moving to Adobe [!DNL Experience Manager as a Cloud Service]](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-d-1-2021-1-migration.html){target="_blank"} | [ADR-EA101](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADR-EA101){target="_blank"} |
 | [Planning Your Move to Adobe [!DNL Experience Manager as a Cloud Service]](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-a-1-2021-1-migration.html){target="_blank"} | [ADR-EA102](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADR-EA102){target="_blank"} |
@@ -73,10 +75,6 @@ The course assessments are free. There is no need to schedule them, and they are
 | [Integrate [!DNL Experience Manager Forms Cloud Service] with [!DNL Salesforce]](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-d-1-2021-formscs-salesforce.html){target="_blank"} | [ADR-EA106](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADR-EA106){target="_blank"} |
 | [Adobe [!DNL Experience Manager Cloud Manager] Skill Builder](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-u-1-2019-1-cloudmgr-builder.html){target="_blank"} | [ADR-EA107](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADR-EA107){target="_blank"} |
 | [Adobe [!DNL Experience Manager Sites] for Architects](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-d-1-2019-1-architect.html){target="_blank"} | [ADR-EA108](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADR-EA108){target="_blank"} |
-
->[!NOTE]
->
->You can repeat until you have successfully completed three activities or completed two activities, plus the customer reference form.
 
 >[!ENDTABS]
 
