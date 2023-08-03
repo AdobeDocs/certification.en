@@ -10,6 +10,17 @@ exl-id: 519381bd-fcea-40fd-a10a-046b7fb97913
 ---
 # Certification journey for Adobe [!DNL Experience Manager Sites] Architect Master
 
+>[!NOTE]
+>
+>This exam (AD0-E117) is undergoing maintenance and is temporarily unavailable. We sincerely apologize for the inconvenience. Please use the button below to sign up to be notified when it is available again.
+
+<a href="https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4R3Iwdbolq9LpEOJ07Ii-i9URDdWMjUzODdITVoxQTNPVTZOSUNKUDhFQS4u" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+                    
+ <span class="spectrum-Button-label has-no-wrap">
+   Notify me
+</span>
+</a>
+
 Learn how to become a certified Architect Master.
 
 ## Minimum experience
@@ -210,23 +221,14 @@ The sample questions allow you to see the type and format of items that you will
 
 ### Available options
 
-{{PSI-note}}
+>[!NOTE]
+>
+>This exam (AD0-E117) is undergoing maintenance and is temporarily unavailable. We sincerely apologize for the inconvenience. Please use the button below to sign up to be notified when it is available again.
 
-**PSI** (*test center / Japanese exam options (where available)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&ec=AD0-E117" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+<a href="https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4R3Iwdbolq9LpEOJ07Ii-i9URDdWMjUzODdITVoxQTNPVTZOSUNKUDhFQS4u" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
                     
  <span class="spectrum-Button-label has-no-wrap">
-   Take exam
-</span>
-</a>
-
-**[!DNL Examity]** ( *online* )
-
-<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E117" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-                    
- <span class="spectrum-Button-label has-no-wrap">
-   Take exam
+   Notify me
 </span>
 </a>
 
