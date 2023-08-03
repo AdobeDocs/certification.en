@@ -12,14 +12,7 @@ exl-id: 519381bd-fcea-40fd-a10a-046b7fb97913
 
 >[!NOTE]
 >
->This exam (AD0-E117) is undergoing maintenance and is temporarily unavailable. We sincerely apologize for the inconvenience. Please use the button below to sign up to be notified when it is available again.
-
-<a href="https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4R3Iwdbolq9LpEOJ07Ii-i9URDdWMjUzODdITVoxQTNPVTZOSUNKUDhFQS4u" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-                    
- <span class="spectrum-Button-label has-no-wrap">
-   Notify me
-</span>
-</a>
+>This exam (AD0-E117) is undergoing maintenance and is temporarily unavailable. We sincerely apologize for the inconvenience. [Sign up to be notified](https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4R3Iwdbolq9LpEOJ07Ii-i9URDdWMjUzODdITVoxQTNPVTZOSUNKUDhFQS4u) when it is available again.
 
 Learn how to become a certified Architect Master.
 
@@ -223,14 +216,7 @@ The sample questions allow you to see the type and format of items that you will
 
 >[!NOTE]
 >
->This exam (AD0-E117) is undergoing maintenance and is temporarily unavailable. We sincerely apologize for the inconvenience. Please use the button below to sign up to be notified when it is available again.
-
-<a href="https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4R3Iwdbolq9LpEOJ07Ii-i9URDdWMjUzODdITVoxQTNPVTZOSUNKUDhFQS4u" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-                    
- <span class="spectrum-Button-label has-no-wrap">
-   Notify me
-</span>
-</a>
+>This exam (AD0-E117) is undergoing maintenance and is temporarily unavailable. We sincerely apologize for the inconvenience. [Sign up to be notified](https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4R3Iwdbolq9LpEOJ07Ii-i9URDdWMjUzODdITVoxQTNPVTZOSUNKUDhFQS4u) when it is available again.
 
 >[!ENDTABS]
 
