@@ -13,6 +13,8 @@ exl-id: 519381bd-fcea-40fd-a10a-046b7fb97913
 >[!NOTE]
 >
 >This exam (AD0-E117) is undergoing maintenance and is temporarily unavailable. We sincerely apologize for the inconvenience. [Sign up to be notified](https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4R3Iwdbolq9LpEOJ07Ii-i9URDdWMjUzODdITVoxQTNPVTZOSUNKUDhFQS4u) when it is available again.
+>
+>**Questions?** See our [FAQ](#AEM-FAQ) at the bottom of this page.
 
 Learn how to become a certified Architect Master.
 
@@ -205,7 +207,6 @@ The sample questions allow you to see the type and format of items that you will
 >
 >In addition, your profile name in the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} must exactly match your Government ID. Failure to have identical information or any mismatch will result in the proctor terminating the exam and will require you to reschedule your appointment in addition to paying an additional exam fee.*
 
-
 ## About the exam
 
 {{about-certification-exam}}
@@ -217,6 +218,8 @@ The sample questions allow you to see the type and format of items that you will
 >[!NOTE]
 >
 >This exam (AD0-E117) is undergoing maintenance and is temporarily unavailable. We sincerely apologize for the inconvenience. [Sign up to be notified](https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4R3Iwdbolq9LpEOJ07Ii-i9URDdWMjUzODdITVoxQTNPVTZOSUNKUDhFQS4u) when it is available again.
+>
+>**Questions?** See our [FAQ](#AEM-FAQ) at the bottom of this page.
 
 >[!ENDTABS]
 
@@ -225,3 +228,23 @@ The sample questions allow you to see the type and format of items that you will
 View the certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Additional questions? [Contact us](mailto:certif@adobe.com){target="_blank"}.
+
+## FAQ for Adobe Experience Manager Sites Architect Master Exam (AD0-E117) {#AEM-FAQ}
+
+The certification exam AD0-E117 is undergoing maintenance and is temporarily unavailable. We sincerely apologize for the inconvenience. [Sign up to be notified](https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4R3Iwdbolq9LpEOJ07Ii-i9URDdWMjUzODdITVoxQTNPVTZOSUNKUDhFQS4u) when it is available again.
+
+**What happens if I already scheduled my exam?**
+
+All scheduled AD0-E117 exams have been canceled. Candidates who are affected will need to schedule the exam again when the new version is available. 
+ 
+**I already paid for the exam. Will I receive a refund?**
+
+* If you paid for your exam with a credit card via Examity, you will be fully refunded.   
+* If you paid with a voucher, your code will reset and you will be able to apply it to your new exam appointment.   
+* If your voucher expires before you can use it, we will issue you a new voucher once you are ready to schedule.  
+ 
+**I need to renew my certification prior to October; will this impact my renewal?**
+
+No. You will be able to renew via continuous learning. Make sure to follow the instructions and process provided under [Renew your certification](https://experienceleague.adobe.com/docs/certification/program/renew.html){target="_blank"}.
+
+
