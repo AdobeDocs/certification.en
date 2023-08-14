@@ -12,16 +12,13 @@ Go to the [Adobe Certification Exam Prep Portal](https://www.certmetrics.com/ado
 
 ## About the certification exam {#about-certification-exam}
 
-Adobe uses two vendors to administer proctored exams, PSI and [!DNL Examity]. 
+Adobe uses Examity to administer proctored exams online. In the Examity portal, you can: 
 
-* **PSI** offers test center and Japanese exam options (where available) 
-* **[!DNL Examity]** offers a remote online option
+* **Schedule, reschedule or cancel your exam.** Please note that canceling and rescheduling must be initiated prior to 48 hours before the scheduled exam appointment. Candidates must modify this appointment themselves. 
 
-To schedule, reschedule, or cancel your exam, simply select the vendor of choice, and follow the instructions provided on screen. It's that simple!
+* **Pay for your exam.** Pay for your certification exam either by voucher or credit card in the Examity portal. To purchase an exam voucher go to: [Adobe Certification Voucher System](https://market.xvoucher.com/adobe/global){target="_blank"}. You can apply the voucher code when you schedule your exam. If you have a discount, it will apply at checkout. 
 
-Cancellations and rescheduling are possible if initiated prior to 48 hours before the scheduled exam appointment. Candidates must modify this appointment themselves.
-
-Pay for your certification exam either by voucher or credit card. To purchase an exam voucher go to: [Adobe Certification Voucher Center](https://market.xvoucher.com/adobe/global){target="_blank"}. You can apply the voucher code when you schedule your exam. If you have a discount, it will apply at checkout.
+* **Take your exam.**
 
 ## PSI note {#PSI-note}
 

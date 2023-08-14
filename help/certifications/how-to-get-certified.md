@@ -13,25 +13,16 @@ Learn how to get certified at Adobe. Find all the resources you need before, dur
 
 >[!TAB Registration]
 
-Adobe uses two vendors to administer proctored exams: [!DNL PSI] and [!DNL Examity].
-
-{{PSI-note}}
-
-* **[!DNL PSI]:** offers test center and Japanese exam options (where available) 
-* **[!DNL Examity]:** offers a remote online option
+Adobe uses Examity to administer proctored exams online.
 
 **Follow these steps to register for your certification exam:**
 
 * **Step 1:** Successfully login to the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
 * **Step 2:** Return to this site and click on Technical certifications.  
-* **Step 3:** Choose your Adobe solution, certification level, and role
+* **Step 3:** Choose your Adobe application, certification level, and role
 * **Step 4:** Follow the steps provided under the **Get Certified** section. 
 
 **Resources**
-
-**PSI:** 
-
-* [How to Register for an Exam at a Testing Center](https://express.adobe.com/page/C8QDu4upy4gF3/){target="_blank"}
 
 Examity: 
 
@@ -44,7 +35,7 @@ Your [profile](https://www.certmetrics.com/adobe/candidate/demographics.aspx){ta
 
 Cancellations and rescheduling are possible if initiated prior to 48 hours before the scheduled exam appointment. Candidates must modify this appointment themselves.  
 
-Neither Adobe Support or exam vendors can process rescheduling and cancellation requests. Cancellations under 48 hours are subject to a rescheduling fee in addition to the exam fee. 
+Neither Adobe Support or Examity can process rescheduling and cancellation requests. Cancellations under 48 hours are subject to a rescheduling fee in addition to the exam fee. 
 
  Once you complete an exam, you receive a provisional pass or fail. The final score can take up to 72 hours to populate. You will find your result and score report under the History tab in the [Adobe Credential Manager](https://www.certmetrics.com/adobe){target="_blank"}.  
 
@@ -82,13 +73,10 @@ Note: Bulk discounts cannot be combined with any other offer or discount.
 
 The Adobe Credential team partners with vendors to help support the program's initiatives and goals.  Here are the vendors and their contact information: 
 
-{{PSI-note}}
-
 | Vendor Name | Description | Support Page/Email |
 | ------- | ------- | ------- |
 |Credly| Badge Management System |[Support](https://credlyissuer.zendesk.com/hc/en-us){target="_blank"} |
 |Examity|Test Delivery Vendor (only Online Proctoring)| [Email](mailto:support@examity.com){target="_blank"} or 855-Examity (855-392-6489) |
-|PSI|Test Delivery Vendor for Proctored exams at a location or in Japanese|[Email](mailto:adobe.psisupport@psionline.com){target="_blank"}|
 |Xvoucher - Adobe Certification Voucher Center|Voucher center to purchase individual or bulk vouchers|[Email](mailto:support@xvoucher.com){target="_blank"} or [Online help](https://help.xvoucher.com/hc/en-us)|
 
 Other Vendor Resources:

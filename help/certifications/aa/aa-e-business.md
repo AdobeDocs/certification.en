@@ -161,37 +161,22 @@ Here are some suggested resources to help you prepare:
 >
 >The following sections and links will function **only**  after a **successful login** to the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}. 
 >
->In addition, your profile name in the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} must exactly match your Government ID. Failure to have identical information or any mismatch will result in the proctor terminating the exam and will require you to reschedule your appointment in addition to paying an additional exam fee.*
+>In addition, your profile name in the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} must exactly match your Government ID. Failure to have identical information or any mismatch will result in the proctor terminating the exam and will require you to reschedule your appointment in addition to paying an additional exam fee.
 
 ## Take a practice test
 
 {{practice-test}}
 
-## About the exam
+## About the certification exam
 
 {{about-certification-exam}}
 
-## Take the exam (AD0-E208)
-
-### Available options
-
-{{PSI-note}}
-
-**PSI** (*test center / Japanese exam options (where available)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&ec=AD0-E208" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-                    
- <span class="spectrum-Button-label has-no-wrap">
-   Take exam
-</span>
-</a>
-
-**[!DNL Examity]** ( *online* )
+## Schedule or take exam AD0-E208
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E208" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
                     
  <span class="spectrum-Button-label has-no-wrap">
-   Take exam
+   Go to Examity portal
 </span>
 </a>
 
