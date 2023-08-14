@@ -26,9 +26,128 @@ It's important to note that if your certification expires, you'll have to retake
 
 >[!TAB Professional]
 
++++Adobe Analytics Developer Professional
+
+## Instructions for renewing your certification:
+
+* **Step 1**: Successfully log in to [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}, then return to this page
+* **Step 2**: Review the exam objectives and resources
+* **Step 3**: Take and pass the exam
+
+### Get ready
+
+**Exam details:**
+  
+* Passing Score: 30/40
+* Time: 80 mins
+* Cost: FREE/non-proctored
+* Delivery: On-demand
+* Available languages: English
+* Prerequisite: current (not expired) Adobe Analytics Developer Professional certification
+* Exam ID: AD5-E831
+
+**Scope and objectives**
+
+Section 1: Analytics in the Adobe Experience Cloud Eco-system (13%)
+
+* Identify features and capability of Adobe Experience Cloud ID.
+* Identify uses for Adobe Launch.
+* Identify how to enable / support Adobe Analytics tags in the Adobe Experience Cloud Eco-system.
+
+Section 2: Analytics Strategy and Design based on a SDR (13%)
+
+* Given a Solution Design Reference, identify which data objects have to be populated.
+* Given a part of a Tech Spec document, identify how to implement the data capture.
+
+Section 3: Analytics Implementation and Configuration (30%)
+
+* Identify the steps to deploy Adobe Analytics Code.
+* Identify functions of minimal deployment code for Analytics tracking.
+* Identify the steps to configure various components within Adobe Analytics UI.
+* Identify functions of Adobe Analytics report suite and variable settings.
+* Identify the characteristics of a data layer and data layer values.
+* Identify App Measurement functions for tracking features such as link tracking and e-commerce tracking.
+
+Section 4: Tag Management Systems (17%)
+
+* Identify if requirements have been met using tag audits.
+* Identify the steps to configure website tagging with Adobe Launch.
+* Given a scenario, identify how to enable, modify, and troubleshoot extensions in Adobe Launch.
+* Identify how to create rules and data elements.
+
+Section 5: Components of Adobe Analytics (7%)
+
+* Identify the functions of Adobe Analytics API (data feed, warehouse, data sources, reports).
+* Identify the characteristics of processing rules and mobile services.
+
+Section 6: Testing, Validation, and Troubleshooting (20%)
+
+* Identify the meaning of common JavaScript errors.
+* Identify the meaning of common Adobe Analytics variables errors.
+* Given a scenario, identify testing and debugging validation best practices that should be followed.
+* Identify how to track an Adobe Analytics server call across its lifecycle (i.e. From beacon request to showing up in the report.)
+
+## Get prepped
+
+You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
+
+Here are some suggested resources to help you prepare:
+
+**Section 1**
+
+* [Analytics Cookies](https://experienceleague.adobe.com/docs/core-services/interface/administration/ec-cookies/cookies-analytics.html)
+* [Add a data element, a rule and a library](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/configure-tags/add-data-elements-rules.html){target="_blank"}
+* [Add the embed code](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/configure-tags/add-embed-code.html){target="_blank"}
+
+**Section 2** 
+
+* [Validating your Global Page Load Rule in Launch](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/via-adobe-launch/validating-your-global-page-load-rule-in-launch.html){target="_blank"}
+* [Satellite object reference](https://experienceleague.adobe.com/docs/experience-platform/tags/client-side/satellite-object.html?#environment){target="_blank"}
+* [linkTrackEvents](https://experienceleague.adobe.com/docs/analytics/implementation/vars/config-vars/linktrackevents.html){target="_blank"}
+
+**Section 3**
+
+* [appendVisitorIDsTo (Cross-Domain Tracking)](https://experienceleague.adobe.com/docs/id-service/using/id-service-api/methods/appendvisitorid.html){target="_blank"}
+* [s_objectID](https://experienceleague.adobe.com/docs/analytics/implementation/vars/page-vars/s-objectid.html){target="_blank"}
+* [transactionID](https://experienceleague.adobe.com/docs/analytics/implementation/vars/page-vars/transactionid.html){target="_blank"}
+
+**Section 4**
+
+* [Add the embed code](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/configure-tags/add-embed-code.html){target="_blank"}
+* [Adobe Experience Cloud Identity Service extension overview](https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/client/id-service/overview.html){target="_blank"}
+* [Opt-in Reference](https://experienceleague.adobe.com/docs/id-service/using/implementation/opt-in-service/api.html){target="_blank"}
+
+**Section 5**
+
+* [Analytics Export Guide](https://experienceleague.adobe.com/docs/analytics/export/home.html){target="_blank"}
+* [How processing rules work](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/report-suite-general/c-processing-rules/c-processing-rules-configuration/processing-rules-about.html){target="_blank"}
+* [Adobe Analytics APIs](https://adobedocs.github.io/analytics-2.0-apis/#/Reports){target="_blank"}
+
+**Section 6**
+
+* [Troubleshoot JavaScript implementation](https://adobedocs.github.io/analytics-2.0-apis/#/Reports){target="_blank"}
+* [Switch tag environments with the Experience Cloud Debugger](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/configure-tags/switch-environments.html){target="_blank"}
+* [Data collection query parameters](https://experienceleague.adobe.com/docs/analytics/implementation/validate/query-parameters.html){target="_blank"}
+
+## Renew your certification
+
+Ensure that you have followed step 1 above, and successfully logged in to [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} first. Then, to renew your certification, click the Adobe Analytics Developer Professional Renewal Exam - AD5-E831 link below.
+
+* [Adobe Analytics Developer Professional Renewal Exam - AD5-E831](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=AD5-E831){target="_blank"}
+
 >[!NOTE]
 >
->Professional renewal coming soon.
+>This exam is free, open book, and un-proctored. You may take the exam up to three times. If you are unsuccessful after the third attempt, you must wait **30 days** to try again. Failure to comply might result in your certification being revoked.
+
++++
+
++++Business Practitioner Professional
+
+>[!NOTE]
+>
+>Renewal coming soon.
+
++++
 
 >[!TAB Expert and Master]
 
