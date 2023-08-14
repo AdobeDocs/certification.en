@@ -26,7 +26,7 @@ It's important to note that if your certification expires, you'll have to retake
 
 >[!TAB Professional]
 
-+++Adobe Analytics Developer Professional
++++[!DNL Adobe Analytics] Developer Professional
 
 ## Instructions for renewing your certification:
 
@@ -141,7 +141,7 @@ Ensure that you have followed step 1 above, and successfully logged in to [Adobe
 
 +++
 
-+++Business Practitioner Professional
++++[!DNL Adobe Analytics] Business Practitioner Professional
 
 >[!NOTE]
 >

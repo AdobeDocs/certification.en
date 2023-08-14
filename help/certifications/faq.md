@@ -43,15 +43,13 @@ Sometimes there are multiple versions of an exam. It's best to take the latest v
 
 +++What if I have technical issues during my proctored exam? 
 
-PSI and [!DNL Examity] have support available by chat, email, and phone. Adobe support can't help with technical issues that occur during the exam. 
+[!DNL Examity] has support available by chat, email, and phone. Adobe support can't help with technical issues that occur during the exam. 
 
-[!DNL Examity] Support - `adobepartnersupport@examity.com`
-
-PSI Support - `psisupport@psionline.com`
+[!DNL Examity] Support: `adobepartnersupport@examity.com`
 
 The quickest help resource is through their chat. All test candidates should ensure their computer has the proper system requirements before taking their exam. 
 
-For more details, see: PSI, and [!DNL Examity] pages for managing exams and technical setup. 
+For more details, see the [!DNL Examity] page for managing exams and technical setup. 
 
 +++
 
@@ -111,9 +109,7 @@ Because we need to ensure our Adobe certified individuals are current on new app
 
 +++Are exams available in languages other than English? 
 
-{{PSI-note}}
-
-There are some exams available in Japanese through PSI (one of our vendors). If the exam is available in Japanese it will be noted in the exam details for that exam. The exams details are found on the "Get ready" tab of the certification journey pages.
+Some exams are available in Japanese. If the exam is available in Japanese, it will be noted in the exam details for that exam. The exams details are found on the "Get ready" tab of the certification journey pages.
 
 +++
 
