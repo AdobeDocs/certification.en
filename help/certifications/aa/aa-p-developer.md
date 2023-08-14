@@ -18,7 +18,7 @@ Learn how to become a certified [!DNL Analytics] Developer Professional.
 You should have:
 
 * 6-12 months' experience in [!DNL Adobe Analytics] implementation (web and mobile app)
-* Experience acting as a player supporting Analytics Implementation teams in bridging between IT and the business to understand how business requirements translate into a technical solution (SDR), and based on requirements provided by the analyst
+* Experience supporting Analytics Implementation teams in bridging between IT and the business to understand how business requirements translate into a technical solution (SDR), and based on requirements provided by the analyst
 * Understanding of which type of variable is needed, where and how to collect the data, design the data model (data layer), configure, and maintain the tag management solution
 
 Experience with the following tasks:
