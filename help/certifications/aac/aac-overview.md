@@ -5,7 +5,7 @@ solution: Advertising
 product: Advertising Cloud
 exl-id: 616c8b98-17ee-4744-8593-8d8675703b9c
 ---
-# Advertising Certification Overview
+# Adobe Advertising Certification Overview
 
 Adobe offers multiple certifications for Advertising Business practitioners.  This pages has all of the information you'll need to get started on your certification journey or to renew your existing certification.
 

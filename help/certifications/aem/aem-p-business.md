@@ -10,7 +10,7 @@ exl-id: 83ee013f-aa37-409b-8bcb-385be6962b26
 ---
 # Certification journey for Adobe [!DNL Experience Manager] Business Practitioner Professional
 
-Learn how to become a certified Adobe Business Practitioner Professional.
+Learn how to become a certified Adobe [!DNL Experience Manager] Business Practitioner Professional.
 
 ## Minimum experience
 
@@ -141,20 +141,16 @@ The sample questions allow you to see the type and format of items that you will
 >In addition, your profile name in the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} must exactly match your Government ID. Failure to have identical information or any mismatch will result in the proctor terminating the exam and will require you to reschedule your appointment in addition to paying an additional exam fee.*
 
 
-## About the exam
+## About the certification exam
 
 {{about-certification-exam}}
 
-## Take the exam (AD0-E126)
-
-### Available options
-
-**[!DNL Examity]** ( *online* )
+## Schedule or take exam AD0-E126
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E126" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
                     
  <span class="spectrum-Button-label has-no-wrap">
-   Take exam
+   Go to Examity portal
 </span>
 </a>
 

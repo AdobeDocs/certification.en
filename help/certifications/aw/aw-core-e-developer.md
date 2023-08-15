@@ -9,11 +9,11 @@ exl-id: 6f7570dc-5647-402b-a8c1-18c4fa5f85d4
 ---
 # Certification journey for Adobe [!DNL Workfront] Core Developer Expert
 
-Learn how to become a certified Adobe Developer Expert.
+Learn how to become a certified Adobe [!DNL Workfront] Core Developer Expert.
 
 ## Minimum experience
 
-You should have at least 18-24 months experience with [!DNL Workfront], and can:
+You should have at least 18-24 months experience with Adobe [!DNL Workfront], and can:
 
 * Navigate the [!DNL Workfront] system, understanding where its functionality resides
 * Configure all aspects of the system
@@ -193,31 +193,16 @@ Here are some suggested resources to help you prepare:
 
 {{practice-test}}
 
-## About the exam
+## About the certification exam
 
 {{about-certification-exam}}
 
-## Take the exam (AD0-E904)
-
-### Available options
-
-{{PSI-note}}
-
-**PSI** (*test center / Japanese exam options (where available)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&ec=AD0-E904" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-                    
- <span class="spectrum-Button-label has-no-wrap">
-   Take exam
-</span>
-</a>
-
-**[!DNL Examity]** ( *online* )
+## Schedule or take exam AD0-E904
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E904" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
                     
  <span class="spectrum-Button-label has-no-wrap">
-   Take exam
+   Go to Examity portal
 </span>
 </a>
 

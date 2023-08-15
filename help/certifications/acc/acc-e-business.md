@@ -10,13 +10,13 @@ exl-id: 082a21f3-1b05-47d4-add1-6b7f86779e82
 ---
 # Certification journey for Adobe [!DNL Campaign Classic] Business Practitioner Expert
 
-Learn how to become a certified Adobe Business Practitioner Expert.
+Learn how to become a certified Adobe [!DNL Campaign Classic] Business Practitioner Expert.
 
 ## Minimum experience
 
 You should have:
 
-* At least 2 years of extensive [!DNL Campaign Classic] software experience
+* At least 2 years of extensive Adobe [!DNL Campaign Classic] software experience
 * Multi-year experience developing marketing campaigns and tactics using digital omnichannel
 * Experience interpreting/translating business requirements to actionable Campaign deliverables
 * Experience with marketing metrics such as ROI, click-through rates, and conversion
@@ -164,20 +164,16 @@ Here are some suggested resources to help you prepare:
 
 {{practice-test}}
 
-## About the exam
+## About the certification exam
 
 {{about-certification-exam}}
 
-## Take the exam (AD0-E327)
-
-### Available options
-
-**[!DNL Examity]** ( *online* )
+## Schedule or take exam AD0-E327
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E327" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
                     
  <span class="spectrum-Button-label has-no-wrap">
-   Take exam
+   Go to Examity portal
 </span>
 </a>
 

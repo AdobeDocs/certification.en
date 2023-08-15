@@ -11,7 +11,7 @@ exl-id: 76c22cfc-e3ef-4c54-bc8f-04174c976a73
 ---
 # Certification journey for Adobe [!DNL Real-Time Customer Data Platform] Expert
 
-Learn how to become a certified Adobe [!DNL Experience Platform] expert in Real-Time Customer Data Platform (RTCDP).
+Learn how to become a certified Adobe [!DNL Real-Time Customer Data Platform] Expert.
 
 ## Minimum experience
 
@@ -138,26 +138,19 @@ Here are some suggested resources to help you prepare:
 
 {{practice-test}}
 
-## About the exam
+## About the certification exam
 
 {{about-certification-exam}}
 
-## Take the exam
+## Schedule or take exam AD0-E600
 
-Adobe uses two vendors to administer proctored exams, PSI and Examity. 
+<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E600" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+                    
+ <span class="spectrum-Button-label has-no-wrap">
+   Go to Examity portal
+</span>
+</a>
 
-* **PSI** offers test center and Japanese exam options (where available) 
-* **[!DNL Examity]** offers a remote online option
-
-To schedule, reschedule, or cancel your exam, simply click on the vendor of choice, and follow the instructions provided on screen. It’s that simple! 
-
-Your profile name in the Adobe Credential Management System must exactly match your Government ID. Failure to have identical information or any mismatch will result in the proctor terminating the exam and will require you to reschedule your appointment in addition to paying an additional exam fee.
-
-Cancellations and rescheduling are possible if initiated prior to 48 hours before the scheduled exam appointment. Candidates must modify this appointment themselves.
-
-### Exam number: AD0-E600
-
-[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&ec=AD0-E600 newtab=true"} [!BADGE Examity]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E600 newtab=true"}
 
 >[!ENDTABS]
 
@@ -277,31 +270,16 @@ Section 3: Destinations (27%)
 
 {{practice-test}}
 
-## About the exam
+## About the certification exam
 
 {{about-certification-exam}}
 
-## Take the exam (AD0-E601)
-
-### Available options
-
-{{PSI-note}}
-
-**PSI** (*test center / Japanese exam options (where available)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&ec=AD0-E601" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-                    
- <span class="spectrum-Button-label has-no-wrap">
-   Take exam
-</span>
-</a>
-
-**[!DNL Examity]** ( *online* )
+## Schedule or take exam AD0-E601
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E601" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
                     
  <span class="spectrum-Button-label has-no-wrap">
-   Take exam
+   Go to Examity portal
 </span>
 </a>
 

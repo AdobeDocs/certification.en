@@ -8,9 +8,9 @@ badge: label="Exam AD0-E457" type="positive"
 mini-toc-levels: 1
 exl-id: 71141d87-828c-4c28-a6e2-0e12e885e1ad
 ---
-# Certification journey for Adobe [!DNL Audience Manager] Business Practitioner Expert
+# Certification journey for [!DNL Adobe Audience Manager] Business Practitioner Expert
 
-Learn how to become a certified [!DNL Audience Manager] Business Practitioner Expert.
+Learn how to become a certified [!DNL Adobe Audience Manager] Business Practitioner Expert.
 
 ## Minimum experience
 
@@ -160,31 +160,16 @@ Here are some suggested resources to help you prepare:
 
 {{practice-test}}
 
-## About the exam
+## About the certification exam
 
 {{about-certification-exam}}
 
-## Take the exam (AD0-E457)
-
-### Available options
-
-{{PSI-note}}
-
-**PSI** (*test center / Japanese exam options (where available)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&ec=AD0-E457" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-                    
- <span class="spectrum-Button-label has-no-wrap">
-   Take exam
-</span>
-</a>
-
-**[!DNL Examity]** ( *online* )
+## Schedule or take exam AD0-E457
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E457" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
                     
  <span class="spectrum-Button-label has-no-wrap">
-   Take exam
+   Go to Examity portal
 </span>
 </a>
 

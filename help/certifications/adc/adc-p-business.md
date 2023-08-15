@@ -8,17 +8,17 @@ badge: label="Exam AD0-D106" type="positive"
 mini-toc-levels: 1
 exl-id: 9eb01f45-fa59-4e14-85db-2d3fe1f512bc
 ---
-# Certification journey for Adobe Document Cloud Business Practitioner Professional
+# Certification journey for [!DNL Adobe Document Cloud] Business Practitioner Professional
 
-Learn how to become a certified Adobe Business Practitioner Professional.
+Learn how to become a certified [!DNL Adobe Document Cloud] Business Practitioner Professional.
 
 ## Minimum experience
 
 You should have:
 
-* At least 0-12 months' of experience within Adobe Document Cloud 
+* At least 0-12 months' of experience within [!DNL Adobe Document Cloud] 
 * Be able to identify and communicate business needs
-* Be able to perform product enablement advise on Adobe Document Cloud solutions.
+* Be able to perform product enablement advise on [!DNL Adobe Document Cloud] solutions.
 
 >[!NOTE]
 >
@@ -125,20 +125,16 @@ Here are some suggested resources to help you prepare:
 
 {{practice-test}}
 
-## About the exam
+## About the certification exam
 
 {{about-certification-exam}}
 
-## Take the exam (AD0-D106)
-
-### Available options
-
-**[!DNL Examity]** ( *online* )
+## Schedule or take exam AD0-D106
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-D106" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
                     
  <span class="spectrum-Button-label has-no-wrap">
-   Take exam
+   Go to Examity portal
 </span>
 </a>
 

@@ -9,13 +9,13 @@ badge: label="Exam AD0-E710" type="positive"
 mini-toc-levels: 1
 exl-id: 90ce0bb5-cfa3-4c4c-9ba0-1d63661cf593
 ---
-# Certification journey for Adobe [!DNL Commerce] Front-End Developer Expert
+# Certification journey for [!DNL Adobe Commerce] Front-End Developer Expert
 
-Learn how to become a certified Adobe Developer Expert.
+Learn how to become a certified [!DNL Adobe Commerce] Developer Expert.
 
 >[!NOTE]
 >
->This exam Adobe Commerce Front End Developer Expert (AD0-E710) has been updated. If you have already started studying or are scheduled to take this version, please be sure to complete it before August 18, 2023. If you are just getting started, we recommend taking the [newest version of this exam](ac-e-fedeveloper0623.md). 
+>This exam [!DNL Adobe Commerce] Front End Developer Expert (AD0-E710) has been updated. If you have already started studying or are scheduled to take this version, please be sure to complete it before August 18, 2023. If you are just getting started, we recommend taking the [newest version of this exam](ac-e-fedeveloper0623.md). 
 
 ## Minimum experience
 
@@ -210,31 +210,16 @@ Here are some suggested resources to help you prepare:
 
 {{practice-test}}
 
-## About the exam
+## About the certification exam
 
 {{about-certification-exam}}
 
-## Take the exam (AD0-E710)
-
-### Available options
-
-{{PSI-note}}
-
-**PSI** (*test center / Japanese exam options (where available)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&ec=AD0-E710" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-                    
- <span class="spectrum-Button-label has-no-wrap">
-   Take exam
-</span>
-</a>
-
-**[!DNL Examity]** ( *online* )
+## Schedule or take exam AD0-E710
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E710" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
                     
  <span class="spectrum-Button-label has-no-wrap">
-   Take exam
+   Go to Examity portal
 </span>
 </a>
 

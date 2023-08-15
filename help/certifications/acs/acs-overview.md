@@ -5,7 +5,7 @@ solution: Campaign, Campaign Standard
 version: Standard
 exl-id: 72e0fc04-4a63-4951-89d1-8f13ad58d70e
 ---
-# Campaign Standard Certification Overview
+# Adobe [!DNL Campaign Standard] Certification Overview
 
 **Expert**
 

@@ -5,7 +5,7 @@ solution: Customer Journey Analytics
 product: Customer Journey Analytics
 exl-id: 44c88dad-f8f0-4b2c-ab5a-ef0d2a498284
 ---
-# Customer Journey Analytics Certification Overview
+# Adobe [!DNL Customer Journey Analytics] Certification Overview
 
 **Professional**
 

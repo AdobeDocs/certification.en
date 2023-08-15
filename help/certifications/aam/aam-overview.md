@@ -5,7 +5,7 @@ solution: Audience Manager
 product: Audience Manager
 exl-id: a278740d-7175-4e23-8b46-310dbf6fd97f
 ---
-# Audience Manager Certification Overview
+# Adobe Audience Manager Certification Overview
 
 **Professional**
 

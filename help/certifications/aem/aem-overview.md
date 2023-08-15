@@ -4,7 +4,7 @@ description: Overview of certification options for Adobe Experience Manager
 solution: Experience Manager
 exl-id: 75f283b8-017d-464d-b7d4-a6bd2d20b90c
 ---
-# Experience Manager Certification Overview
+# Adobe [!DNL Experience Manager] Certification Overview
 
 Select your level and job role to find more information on the certification you are interested in.
 

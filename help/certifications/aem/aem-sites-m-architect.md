@@ -16,7 +16,7 @@ exl-id: 519381bd-fcea-40fd-a10a-046b7fb97913
 >
 >**Questions?** See our [FAQ](#AEM-FAQ) at the bottom of this page.
 
-Learn how to become a certified Architect Master.
+Learn how to become a certified Adobe [!DNL Experience Manager Sites] Architect Master.
 
 ## Minimum experience
 
@@ -207,13 +207,11 @@ The sample questions allow you to see the type and format of items that you will
 >
 >In addition, your profile name in the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} must exactly match your Government ID. Failure to have identical information or any mismatch will result in the proctor terminating the exam and will require you to reschedule your appointment in addition to paying an additional exam fee.*
 
-## About the exam
+## About the certification exam
 
 {{about-certification-exam}}
 
-## Take the exam (AD0-E117)
-
-### Available options
+## Schedule or take exam AD0-E117
 
 >[!NOTE]
 >

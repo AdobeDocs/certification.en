@@ -9,11 +9,11 @@ mini-toc-levels: 1
 ---
 # Certification journey for [!DNL Adobe Target] Architect Master
 
-Learn how to become a certified Adobe Architect Master.
+Learn how to become a certified [!DNL Adobe Target] Architect Master.
 
 >[!NOTE]
 >
->This is the newest Adobe Target Architect Master exam. If you have already started studying or have scheduled the [older version](at-m-architect.md) you have until September 8, 2023 to complete it. 
+>This is the newest [!DNL Adobe Target] Architect Master exam. If you have already started studying or have scheduled the [older version](at-m-architect.md) you have until September 8, 2023 to complete it. 
 
 ## Minimum experience
 
@@ -182,26 +182,18 @@ Here are some suggested resources to help you prepare:
 
 **Now that you have successfully logged in, the following links will be directly accessible.**
 
-**Take the certification exam**
+## About the certification exam
 
-Adobe uses two vendors to administer proctored exams, PSI and Examity. 
+{{about-certification-exam}}
 
-* **PSI** offers test center and Japanese exam options (where available) 
-* **[!DNL Examity]** offers a remote online option
+## Schedule or take exam AD0-E409
 
-To schedule, reschedule, or cancel your exam, simply click on the vendor of choice, and follow the instructions provided on screen. It's that simple! 
-
-Your profile name in the Adobe Credential Management System must exactly match your Government ID. Failure to have identical information or any mismatch will result in the proctor terminating the exam and will require you to reschedule your appointment in addition to paying an additional exam fee.
-
-Cancellations and rescheduling are possible if initiated prior to 48 hours before the scheduled exam appointment. Candidates must modify this appointment themselves.
-
-### Exam number: AD0-E409
-
-[!BADGE Examity]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E409 newtab=true"}
-
-You can pay for your certification exam by voucher or credit card. To purchase an exam voucher go to: [Adobe Certification Voucher Center](https://market.xvoucher.com/adobe/global){target="_blank"}. 
-
-You can apply the voucher code when you schedule your exam. If you have a discount, it will apply at checkout.
+<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E409" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+                    
+ <span class="spectrum-Button-label has-no-wrap">
+   Go to Examity portal
+</span>
+</a>
 
 >[!ENDTABS]
 

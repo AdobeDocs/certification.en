@@ -4,7 +4,7 @@ description: Overview of certification options for Adobe Workfront
 solution: Workfront
 exl-id: 0bd627c8-6ba2-49bb-b0e7-477d61b6ce3e
 ---
-# Workfront Certification Overview
+# Adobe [!DNL Workfront] Certification Overview
 
 **Professional**
 

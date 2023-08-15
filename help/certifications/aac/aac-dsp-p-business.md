@@ -10,7 +10,7 @@ exl-id: 15f3e05a-4896-488c-a65d-d6e8f948c8cc
 ---
 # Certification journey for Adobe [!DNL Advertising DSP] Business Practitioner Professional
 
-Learn how to become a certified [!DNL Advertising DSP] Business Practitioner professional.
+Learn how to become a certified [!DNL Adobe Advertising DSP] Business Practitioner professional.
 
 ## Minimum experience
 
@@ -22,7 +22,7 @@ You should have:
 Familiarity with the following tools and technologies:
 
 * Ad testing/debugging software (VAST INSPECTOR, Chrome developer tools)
-* Analytics tools (Adobe Analytics, Google Analytics)
+* Analytics tools ([!DNL Adobe Analytics], Google Analytics)
 * Third-party tagging software (Sizmek, Google tag manager)
 * Third-party media quality tools (IAS, MOAT)
 * Major browsers
@@ -125,31 +125,16 @@ Here are some suggested resources to help you prepare:
 >
 >In addition, your profile name in the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} must exactly match your Government ID. Failure to have identical information or any mismatch will result in the proctor terminating the exam and will require you to reschedule your appointment in addition to paying an additional exam fee.*
 
-## About the exam
+## About the certification exam
 
 {{about-certification-exam}}
 
-## Take the exam (AD0-E502)
-
-### Available options
-
-{{PSI-note}}
-
-**PSI** (*test center / Japanese exam options (where available)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&ec=AD0-E502" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-                    
- <span class="spectrum-Button-label has-no-wrap">
-   Take exam
-</span>
-</a>
-
-**[!DNL Examity]** ( *online* )
+## Schedule or take exam AD0-E502
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E502" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
                     
  <span class="spectrum-Button-label has-no-wrap">
-   Take exam
+   Go to Examity portal
 </span>
 </a>
 
