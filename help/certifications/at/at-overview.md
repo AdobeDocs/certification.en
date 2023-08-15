@@ -4,11 +4,11 @@ description: Overview of certification options for Adobe Target
 solution: Target
 exl-id: 6853b7c9-23df-4082-b752-026dadcb3087
 ---
-# Target Certification Overview
+# [!DNL Adobe Target] Certification Overview
 
 ## What's new
 
-The Adobe Target Architect Master certification has been updated. 
+The [!DNL Adobe Target] Architect Master certification has been updated. 
 
 The current version is:
 

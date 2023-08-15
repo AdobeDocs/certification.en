@@ -8,7 +8,7 @@ mini-toc-levels: 1
 hidefromtoc: yes
 exl-id: 8016ac6f-2a30-4a72-bc17-b2ca422c21e8
 ---
-# Renew your [!DNL Advertising] certification
+# Renew your [!DNL Adobe Advertising] certification
 
 When you pass a certification exam, your certification is valid for two years.
 

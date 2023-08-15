@@ -10,13 +10,13 @@ exl-id: be24274b-7a61-47f5-9947-984015c07a96
 ---
 # Certification journey for Adobe [!DNL Campaign Standard] Developer Expert
 
-Learn how to become a certified Adobe Developer Expert.
+Learn how to become a certified Adobe [!DNL Campaign Standard] Developer Expert.
 
 ## Minimum experience
 
 You should have:
 
-* At least two years of [!DNL Campaign] software experience
+* At least two years of Adobe [!DNL Campaign Standard] software experience
 * At least two years of relevant experience in multi-channel digital marketing campaigns and web development (such as, REST API)
 * The ability to perform tasks in Adobe Campaign including template development, technical workflows, schema development, and integrations, and be able to monitor the instance using control panel
 * Experience working in a channel delivery environment (email, direct mail, mobile, and social)
@@ -157,31 +157,16 @@ You are not required to complete training before taking the exam, and training a
 
 {{practice-test}}
 
-## About the exam
+## About the certification exam
 
 {{about-certification-exam}}
 
-## Take the exam (AD0-E306)
-
-### Available options
-
-{{PSI-note}}
-
-**PSI** (*test center / Japanese exam options (where available)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&ec=AD0-E306" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-                    
- <span class="spectrum-Button-label has-no-wrap">
-   Take exam
-</span>
-</a>
-
-**[!DNL Examity]** ( *online* )
+## Schedule or take exam AD0-E306
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E306" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
                     
  <span class="spectrum-Button-label has-no-wrap">
-   Take exam
+   Go to Examity portal
 </span>
 </a>
 

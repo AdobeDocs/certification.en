@@ -5,7 +5,7 @@ solution: Document Cloud
 hide: yes
 exl-id: dde41cf9-13ef-4571-8948-341ef5585da7
 ---
-# Document Cloud Certification Overview
+# [!DNL Adobe Document Cloud] Certification Overview
 
 **Professional**
 

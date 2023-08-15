@@ -7,13 +7,13 @@ role: User
 badge: label="Exam AD0-E608" type="positive"
 mini-toc-levels: 1
 ---
-# Certification journey for Adobe Customer Journey Analytics Business Practitioner Professional
+# Certification journey for Adobe [!DNL Customer Journey Analytics] Business Practitioner Professional
 
-Learn how to become a certified Adobe Business Practitioner Professional.
+Learn how to become a certified Adobe [!DNL Customer Journey Analytics] Business Practitioner Professional.
 
 ## Minimum experience
 
-The ideal minimally qualified candidate is an analyst with at least 6 months of experience in Customer Journey Analytics and a foundational understanding of how CJA works in conjunction with Adobe Experience Platform. The candidate is able to use the appropriate reporting and visualization options to perform basic and advanced analysis for a given business need.
+The ideal minimally qualified candidate is an analyst with at least 6 months of experience in Adobe [!DNL Customer Journey Analytics] and a foundational understanding of how it works in conjunction with [!DNL Adobe Experience Platform]. The candidate is able to use the appropriate reporting and visualization options to perform basic and advanced analysis for a given business need.
 
 >[!NOTE]
 >
@@ -106,7 +106,7 @@ Here are some suggested resources to help you prepare:
 
 >[!IMPORTANT]
 >
->The following sections and links will function **only**  after a **successful login** to the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}. 
+>The following sections and links will function **only** after a **successful login** to the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}. 
 >
 >In addition, your profile name in the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} must exactly match your Government ID. Failure to have identical information or any mismatch will result in the proctor terminating the exam and will require you to reschedule your appointment in addition to paying an additional exam fee.*
 
@@ -115,20 +115,16 @@ Here are some suggested resources to help you prepare:
 
 {{practice-test}}
 
-## About the exam
+## About the certification exam
 
 {{about-certification-exam}}
 
-## Take the exam (AD0-E608)
-
-### Available options
-
-**[!DNL Examity]** ( *online* )
+## Schedule or take exam AD0-E608
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E608" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
                     
  <span class="spectrum-Button-label has-no-wrap">
-   Take exam
+   Go to Examity portal
 </span>
 </a>
 

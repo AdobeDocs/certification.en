@@ -10,16 +10,16 @@ exl-id: 3ce6b278-5bee-4ba3-ae5a-1d5de79d07bf
 ---
 # Certification journey for Adobe [!DNL Marketo Engage] Architect Master
 
-Learn how to become a certified Adobe Architect Master.
+Learn how to become a certified Adobe [!DNL Marketo Engage] Architect Master.
 
-The Adobe Credential Program has launched a new Adobe Marketo Engage Architect certification for candidates interested in achieving the Certified Master title. It replaces the previous Marketo Certified Solution Architect (MCSA) certification interview process. [Read more](https://solutionpartners.adobe.com/solution-partners/news/2022/02/a-new-standard-for-adobe-marketo-engage-certified-architects.html){target="_blank"}
+The Adobe Credential Program has launched a new Adobe [!DNL Marketo Engage] Engage Architect certification for candidates interested in achieving the Certified Master title. It replaces the previous Marketo Certified Solution Architect (MCSA) certification interview process. [Read more](https://solutionpartners.adobe.com/solution-partners/news/2022/02/a-new-standard-for-adobe-marketo-engage-certified-architects.html){target="_blank"}
 
 ## Minimum experience
 
 You should have: 
 
-* A current certification in [!DNL Marketo Engage] Business Practitioner Certified Expert
-* At least five years of experience preferably with multiple instances of [!DNL Marketo Engage]
+* A current certification in Adobe [!DNL Marketo Engage] Business Practitioner Certified Expert
+* At least five years of experience preferably with multiple instances of Adobe [!DNL Marketo Engage]
 * An understanding of the business impact and effectively explain/communicate their solution to the stakeholders (technical and non-technical) at different levels
 * The ability to conceptualize a solution and translate to a [!DNL Marketo Engage] architecture, understand the business processes impacted by integrations
 * Familiarity with the principles of architecting an instance
@@ -158,31 +158,16 @@ The sample questions allow you to see the type and format of items that you will
 
 
 
-## About the exam
+## About the certification exam
 
 {{about-certification-exam}}
 
-## Take the exam (AD0-E556)
-
-### Available options
-
-{{PSI-note}}
-
-**PSI** (*test center / Japanese exam options (where available)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&ec=AD0-E556" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-                    
- <span class="spectrum-Button-label has-no-wrap">
-   Take exam
-</span>
-</a>
-
-**[!DNL Examity]** ( *online* )
+## Schedule or take exam AD0-E556
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E556" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
                     
  <span class="spectrum-Button-label has-no-wrap">
-   Take exam
+   Go to Examity portal
 </span>
 </a>
 

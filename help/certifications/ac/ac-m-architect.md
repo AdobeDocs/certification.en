@@ -9,41 +9,41 @@ badge: label="Exam AD0-E718" type="positive"
 mini-toc-levels: 1
 exl-id: 594503d8-2064-4b05-ba09-9569e6ef9fc7
 ---
-# Certification journey for Adobe [!DNL Commerce] Architect Master
+# Certification journey for [!DNL Adobe Commerce] Architect Master
 
-Learn how to become a certified Adobe Architect Master.
+Learn how to become a certified [!DNL Adobe Commerce] Architect Master.
 
 ## Minimum experience
 
-You should have at least 3-5 year experience leading [!DNL Commerce] development projects and are able to design, integrate, implement, and explain solutions to business problems by utilizing Adobe [!DNL Commerce] along with associated services.
+You should have at least 3-5 year experience leading [!DNL Commerce] development projects and are able to design, integrate, implement, and explain solutions to business problems by utilizing [!DNL Adobe Commerce] along with associated services.
 
 Additionally, you should be very familiar with the following activities and technologies:
 
 * Extend core features
-* Configure Adobe [!DNL Commerce] fully
+* Configure [!DNL Adobe Commerce] fully
 * Create full blueprint of how an extension should work, requirements of company to blueprint of how it should work, without having to go into the code
 * Understand business needs/features
 * Performance implications of solutions and extensions
 * Service contracts logic
 * GraphQL
 * Understand Composer as a dependency tool
-* Set up and configure working instance of Adobe [!DNL Commerce] from scratch
+* Set up and configure working instance of Adobe [!DNL Adobe Commerce] from scratch
 * Customize admin dashboard, creating grids and forms
 * Cache and index management; creating custom index
 * Create new cache type
 * Troubleshoot and debug various problems in environment
 * Extend and manage database schema
 * Security features, provide secure installation and development extension
-* Perform server-based services which [!DNL Commerce] connects (Redis, Varnish configuration management)
+* Perform server-based services which [!DNL Adobe Commerce] connects (Redis, Varnish configuration management)
 * Aware of best coding standard practice, Coding standards, PSR, SOLID principle
-* Set up and use [!DNL Commerce] Services Connector (and associated services)
+* Set up and use [!DNL Adobe Commerce] Services Connector (and associated services)
 * Staging content management
-* Understanding Adobe [!DNL Commerce] defaults, when its' available and not available
-* Broad grasp of any related [!DNL Commerce] domain
+* Understanding [!DNL Adobe Commerce] defaults, when its' available and not available
+* Broad grasp of any related [!DNL Adobe Commerce] domain
 * Design project architecture
-* Optimize performance of Adobe [!DNL Commerce] default
+* Optimize performance of [!DNL Adobe Commerce] default
 * Creating and modifying B2B
-* AMQP protocol and adapters in Adobe [!DNL Commerce] (S3)
+* AMQP protocol and adapters in [!DNL Adobe Commerce] (S3)
 
 >[!NOTE]
 >
@@ -55,7 +55,7 @@ Additionally, you should be very familiar with the following activities and tech
 
 **Intended audience:**
 
-* Lead Software/[!DNL Commerce] Architect
+* Lead Software/[!DNL Adobe Commerce] Architect
 * Technical Architect
 * Solution Architect
 * Technical Lead
@@ -163,31 +163,16 @@ The sample questions allow you to see the type and format of items that you will
 
 
 
-## About the exam
+## About the certification exam
 
 {{about-certification-exam}}
 
-## Take the exam (AD0-E718)
-
-### Available options
-
-{{PSI-note}}
-
-**PSI** (*test center / Japanese exam options (where available)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&ec=AD0-E718" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-                    
- <span class="spectrum-Button-label has-no-wrap">
-   Take exam
-</span>
-</a>
-
-**[!DNL Examity]** ( *online* )
+## Schedule or take exam AD0-E718
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E718" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
                     
  <span class="spectrum-Button-label has-no-wrap">
-   Take exam
+   Go to Examity portal
 </span>
 </a>
 

@@ -10,7 +10,7 @@ exl-id: 48e3dc7c-0801-4f6d-853b-1fab9bb35e06
 ---
 # Certification journey for [!DNL Adobe Analytics] Business Practitioner Expert
 
-Learn how to become a certified Analytics Business Practitioner Expert.
+Learn how to become a certified [!DNL Adobe Analytics] Business Practitioner Expert.
 
 ## Minimum experience
 

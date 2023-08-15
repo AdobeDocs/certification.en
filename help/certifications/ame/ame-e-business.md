@@ -10,13 +10,13 @@ exl-id: 88f9cbfb-c9bc-4d27-a9de-1199c5cd013e
 ---
 # Certification journey for Adobe [!DNL Marketo Engage] Business Practitioner Expert
 
-Learn how to become a certified Adobe Business Practitioner Expert.
+Learn how to become a certified Adobe [!DNL Marketo Engage] Business Practitioner Expert.
 
 ## Minimum experience
 
 You should have:
 
-* Approximately 18 months of experience with [!DNL Marketo] features and capabilities needed to create marketing campaigns and utilize customer behavior data
+* Approximately 18 months of experience with Adobe [!DNL Marketo Engage] features and capabilities needed to create marketing campaigns and utilize customer behavior data
 
 You should be a marketer with experience in:
 
@@ -210,38 +210,16 @@ Here are some suggested resources to help you prepare:
 
 {{practice-test}}
 
-## About the exam
+## About the certification exam
 
 {{about-certification-exam}}
 
-## Take the exam (AD0-E559)
-
-### Available options
-
-{{PSI-note}}
-
-**PSI** (*test center / Japanese exam options (where available)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&ec=AD0-E559" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-                    
- <span class="spectrum-Button-label has-no-wrap">
-   Take English exam
-</span>
-</a>
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&ec=AD0-E559-j" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-                    
- <span class="spectrum-Button-label has-no-wrap">
-   Take Japanese exam
-</span>
-</a>
-
-**[!DNL Examity]** ( *online* )
+## Schedule or take exam AD0-E559
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E559" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
                     
  <span class="spectrum-Button-label has-no-wrap">
-   Take exam
+   Go to Examity portal
 </span>
 </a>
 

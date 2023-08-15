@@ -8,9 +8,9 @@ badge: label="Exam AD0-E716" type="positive"
 mini-toc-levels: 1
 exl-id: 025be894-3f29-4370-ac41-19901df4fb00
 ---
-# Certification journey for Adobe [!DNL Commerce] Developer Expert
+# Certification journey for [!DNL Adobe Commerce] Developer Expert
 
-Learn how to become a certified Adobe Developer Expert.
+Learn how to become a certified [!DNL Adobe Commerce] Developer Expert.
 
 ## Minimum experience
 
@@ -276,20 +276,16 @@ Here are some suggested resources to help you prepare:
 
 {{practice-test}}
 
-## About the exam
+## About the certification exam
 
 {{about-certification-exam}}
 
-## Take the exam (AD0-E716)
-
-### Available options
-
-**[!DNL Examity]** ( *online* )
+### Schedule or take exam AD0-E716
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E716" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
                     
  <span class="spectrum-Button-label has-no-wrap">
-   Take exam
+   Go to Examity portal
 </span>
 </a>
 

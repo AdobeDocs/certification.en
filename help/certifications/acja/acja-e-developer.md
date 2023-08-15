@@ -10,11 +10,11 @@ exl-id: 9ffe9fc9-5427-4297-9d8d-14ce62e239e4
 ---
 # Certification journey for Adobe [!DNL Customer Journey Analytics] Expert
 
-Learn how to become a certified Adobe Analytics Customer Journey Developer.
+Learn how to become a certified Adobe [!DNL Customer Journey Analytics] Developer Expert.
 
 ## Minimum experience
 
-You should have 12-24 months experience in Adobe Customer Journey Analytics, and be able to perform the following tasks: 
+You should have 12-24 months experience in Adobe [!DNL Customer Journey Analytics], and be able to perform the following tasks: 
 
 * Read and understand XDM schema (classes) 
 * Demonstrate a familiarity with the platform interface 
@@ -25,7 +25,7 @@ You should have 12-24 months experience in Adobe Customer Journey Analytics, and
 * Configure connections with primary identities (person ID)
 * Configure connections with multiple datasets
 * Configure a data view (Metric / dimension configuration)
-* Configure CJA
+* Configure Adobe [!DNL Customer Journey Analytics]
 * Transform data within the dimensions and metrics
 * Analyze Workspace basics (visualizations, attribution settings, filters, calculated metrics)
 * Understand data governance in CJA (DULE)
@@ -128,31 +128,16 @@ Here are some suggested resources to help you prepare:
 
 {{practice-test}}
 
-## About the exam
+## About the certification exam
 
 {{about-certification-exam}}
 
-## Take the exam (AD0-E604)
-
-### Available options
-
-{{PSI-note}}
-
-**PSI** (*test center / Japanese exam options (where available)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&ec=AD0-E604" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-                    
- <span class="spectrum-Button-label has-no-wrap">
-   Take exam
-</span>
-</a>
-
-**[!DNL Examity]** ( *online* )
+## Schedule or take exam AD0-E604
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E604" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
                     
  <span class="spectrum-Button-label has-no-wrap">
-   Take exam
+   Go to Examity portal
 </span>
 </a>
 

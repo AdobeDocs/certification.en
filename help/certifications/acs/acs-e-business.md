@@ -10,7 +10,7 @@ exl-id: ba66d1cc-3545-49ed-8578-1f6aa07f64e7
 ---
 # Certification journey for Adobe [!DNL Campaign Standard] Business Practitioner Expert
 
-Learn how to become a certified Adobe Business Practitioner Expert.
+Learn how to become a certified Adobe [!DNL Campaign Standard] Business Practitioner Expert.
 
 ## Minimum experience
 
@@ -18,7 +18,7 @@ You should have experience working in a channel delivery environment (email, dir
 
 Additionally, you should have:
 
-* Field experience working with [!DNL Campaign Standard] with regular frequency
+* Field experience working with Adobe [!DNL Campaign Standard] with regular frequency
 * An ability to process data files
 * An understanding of the concepts of relational databases, triggers, APIs, and technical workflows
 * An understanding of how to build marketing workflows and work with the underlying data to launch marketing workflows
@@ -149,31 +149,16 @@ Here are some suggested resources to help you prepare:
 
 {{practice-test}}
 
-## About the exam
+## About the certification exam
 
 {{about-certification-exam}}
 
-## Take the exam (AD0-E307)
-
-### Available options
-
-{{PSI-note}}
-
-**PSI** (*test center / Japanese exam options (where available)*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&ec=AD0-E307" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-                    
- <span class="spectrum-Button-label has-no-wrap">
-   Take exam
-</span>
-</a>
-
-**[!DNL Examity]** ( *online* )
+## Schedule or take exam AD0-E307
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E307" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
                     
  <span class="spectrum-Button-label has-no-wrap">
-   Take exam
+   Go to Examity portal
 </span>
 </a>
 
