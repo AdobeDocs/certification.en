@@ -7,6 +7,7 @@ role: Developer
 badge: label="Exam AD0-E719" type="positive"
 mini-toc-levels: 1
 exl-id: aad1587f-f458-413a-af93-727666e94147
+hide-from-toc: true 
 ---
 # Certification journey for Adobe [!DNL Commerce] Front-end Developer Professional
 
