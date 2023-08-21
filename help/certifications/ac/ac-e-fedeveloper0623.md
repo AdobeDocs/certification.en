@@ -11,10 +11,6 @@ mini-toc-levels: 1
 
 Learn how to become a certified [!DNL Adobe Commerce] Developer Expert.
 
->[!NOTE]
->
->This is the newest [!DNL Adobe Commerce] Front End Developer Expert exam. If you have already started studying or have scheduled the [older version](ac-e-fedeveloper.md) you have until August 18, 2023 to complete it. 
-
 ## Minimum experience
 
 The [!DNL Adobe Commerce] Frontend Developer is considered an Expert-level role and has at least 1-3 years of hands-on experience with Adobe Commerce Frontend development. They should have the ability to translate the needs expressed by task requirements into a technical solution.
