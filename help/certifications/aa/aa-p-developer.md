@@ -164,10 +164,6 @@ The sample questions allow you to see the type and format of items that you will
 >
 >In addition, your profile name in the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} must exactly match your Government ID. Failure to have identical information or any mismatch will result in the proctor terminating the exam and will require you to reschedule your appointment in addition to paying an additional exam fee.*
 
-## Take a practice test
-
-{{practice-test}}
-
 ## About the certification exam
 
 {{about-certification-exam}}
