@@ -53,6 +53,6 @@ All of the details about each available product certification are listed in the 
 * [Adobe Experience Manager](/help/certifications/aem/aem-overview.md)
 * [Adobe Journey Optimizer](/help/certifications/ajo/ajo-overview.md)
 * [Adobe Marketo Engage](/help/certifications/ame/ame-overview.md)
-* [Adobe Real-Time CDP](/help/certifications/rtcdp/rtcdp-overview.md)
+* [Adobe Real-Time CDP](/help/certifications/rtcdp-overview.md)
 * [Adobe Target](/help/certifications/at/at-overview.md)
 * [Adobe Workfront](/help/certifications/aw/aw-overview.md)
