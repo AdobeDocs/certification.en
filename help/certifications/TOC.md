@@ -106,6 +106,7 @@ user-guide-description: Learn about [!DNL Experience Cloud] Certification at Ado
       + [Business Practitioner](/help/certifications/ame/ame-e-business.md)
     + Master {#ame-master}
       + [Architect](/help/certifications/ame/ame-m-architect.md)
+      + [Architect - NEW](/help/certifications/ame/ame-m-architect-23-08.md)
     + [Renewal](/help/certifications/ame/ame-renew.md)
   + Adobe Real-Time CDP {#rtcdp}
     + [Real-Time CDP Overview](/help/certifications/rtcdp/rtcdp-overview.md)
@@ -137,6 +138,7 @@ user-guide-description: Learn about [!DNL Experience Cloud] Certification at Ado
       + [Developer (Core)](/help/certifications/aw/aw-core-p-developer.md)
     + Expert {#aw-expert}
       + [Developer (Core)](/help/certifications/aw/aw-core-e-developer.md)
+      + [Developer (Core) - NEW](/help/certifications/aw/aw-core-e-developer-23-08.md)
       + [AEM enhanced connector](/help/certifications/aw/aw-aem-e-connector.md)
     + [Renewal](/help/certifications/aw/aw-renew.md)
 + [Credentials for end users](https://learning.adobe.com/certification/credentials)
