@@ -5,7 +5,7 @@ solution: Commerce
 product: Magento
 role: Data Architect
 level: Experienced
-badge: label="Exam AD0-E718" type="positive"
+badge: label="Exam AD0-E722" type="positive"
 mini-toc-levels: 1
 exl-id: 594503d8-2064-4b05-ba09-9569e6ef9fc7
 ---
@@ -70,12 +70,12 @@ Additionally, you should be very familiar with the following activities and tech
 **Exam details:**
 
 * Level: Master (3-5 years' experience)
-* Passing Score: 29/50
+* Passing Score: 30/50
 * Time: 120 mins
 * Delivery: Online proctored (requires camera access)
 * Available languages: English
 * Cost: $225 (global) / $150 (India)
-* Exam ID: AD0-E718
+* Exam ID: AD0-E722
 
 **Readiness self-assessment**
 
@@ -117,12 +117,6 @@ Section 4: Compliance/security basics (13%)
 You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
 
 Here are some suggested resources to help you prepare:
-
-**Sample questions**
-
-The sample questions allow you to see the type and format of items that you will encounter in the actual exam. There is no sign-on needed. The results of the sample questions are not stored, and do not predict your actual test results.
-
-[See sample questions](https://scorpion.caveon.com/launchpad/ad0-e718-adobe-commerce-architect-master-copy-kzcvh7){target="_blank"}
 
 **Section 1: Design**
 
@@ -167,9 +161,9 @@ The sample questions allow you to see the type and format of items that you will
 
 {{about-certification-exam}}
 
-## Schedule or take exam AD0-E718
+## Schedule or take exam AD0-E722
 
-<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E718" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E722" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
                     
  <span class="spectrum-Button-label has-no-wrap">
    Go to Examity portal
