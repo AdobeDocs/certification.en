@@ -5,7 +5,6 @@ solution: Workfront
 role: Developer
 badge: label="Exam AD0-E907" type="positive"
 mini-toc-levels: 1
-exl-id:
 hidefromtoc: true
 ---
 
