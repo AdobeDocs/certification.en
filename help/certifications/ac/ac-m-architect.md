@@ -9,7 +9,7 @@ badge: label="Exam AD0-E722" type="positive"
 mini-toc-levels: 1
 exl-id: 594503d8-2064-4b05-ba09-9569e6ef9fc7
 ---
-# Certification journey for [!DNL Adobe Commerce] Architect Master
+# Certification journey for Adobe [!DNL Commerce] Architect Master
 
 Learn how to become a certified [!DNL Adobe Commerce] Architect Master.
 
