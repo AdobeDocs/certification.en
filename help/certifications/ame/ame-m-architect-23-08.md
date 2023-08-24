@@ -6,7 +6,6 @@ product: Marketo
 role: Data Architect
 badge: label="Exam AD0-E560" type="positive"
 mini-toc-levels: 1
-exl-id:
 hidefromtoc: true
 ---
 
