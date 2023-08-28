@@ -71,7 +71,7 @@ Additionally, you should be very familiar with the following activities and tech
 
 * Level: Master (3-5 years' experience)
 * Passing Score: 30/50
-* Time: 120 mins
+* Time: 100 mins
 * Delivery: Online proctored (requires camera access)
 * Available languages: English
 * Cost: $225 (global) / $150 (India)
@@ -105,12 +105,6 @@ Section 3: Configure and Deploy (22%)
 * Configure all aspects of Adobe [!DNL Commerce] Cloud
 * Oversee and improve deployment process
 * Troubleshoot infrastructure and configuration issues
-
-Section 4: Compliance/security basics (13%)
-
-* Understand basics of compliance for privacy laws and payment security
-* Identify common security aspects of an Adobe [!DNL Commerce] project
-* Identify best practices and legal requirements of accessibility compliance
 
 >[!TAB Get prepped]
 
