@@ -52,7 +52,7 @@ You should be currently certified (not expired) in:
 * Delivery: On-demand / non-proctored
 * Available languages: English
 * Cost: FREE
-* Exam ID: AD5-E824 - Adobe [!DNL Marketo Engage] Business Practitioner expert renewal exam
+* Exam ID: AD5-E824 - Adobe [!DNL Marketo Engage] Business Practitioner Expert Renewal Exam
 
 **Scope and objectives:**
 
@@ -152,6 +152,119 @@ Here are some suggested resources to help you prepare:
 Ensure that you have followed step 1 above, and successfully logged in to [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} first. Then, to renew your certification, click on the Marketo Engage Business Practitioner Expert renewal link below.
 
 [!BADGE Take the Adobe [!DNL Marketo Engage] Business Practitioner expert renewal exam AD5-E824]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=AD5-E824 newtab=true"} 
+
+>[!NOTE]
+>
+>This exam is free, open book, and un-proctored. You may take the exam up to three times. If you are unsuccessful after the third attempt, you must wait **30 days** to try again. Failure to comply might result in your certification being revoked.
+
+>[!TAB Master]
+
+You should be currently certified (not expired) in:
+
+* Adobe Marketo Engage Architect Master
+
+## Instructions for renewing your certification:
+
+* **Step 1**: Successfully log in to [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}, then return to this page
+* **Step 2**: Review the exam objectives and resources
+* **Step 3**: Take and pass the exam
+
+### Get ready
+
+**Exam details:**
+  
+* Level: Expert (3-5 years' experience)
+* Passing Score: 27/36
+* Time: 72 mins
+* Delivery: On-demand / non-proctored
+* Available languages: English
+* Cost: FREE
+* Exam ID: AD5-E834 - Adobe [!DNL Marketo Engage] Architect Master
+
+**Scope and objectives:**
+
+Section 1: Project Leadership 16%
+
+* 1.1 Given a case study, identify the right stakeholders
+* 1.2 Evaluate a set of requirements and recommend project boundaries, budget, resources, and scope
+* 1.3 Given a modified process, determine impact, change management, and enablement requirements
+* 1.4 Given a set of business requirements, evaluate, audit, and recommend priorities and timeline
+
+Section 2: Marketo Architecture Design 48%
+
+* 2.1 Gather requirements/needs and recommend a lead management and lifecycle design
+* 2.2 Review an existing implementation and provide findings
+* 2.3 Given a business need, identify the most efficient way to set up scoring
+* 2.4 Review existing workflows and recommend actions to efficiently scale campaign execution
+* 2.5 Outline the most effective approaches to facilitate Marketing operations and lead management across multiple countries
+* 2.6 Given a scenario, evaluate the impact and requirements to incorporate new technology to an instance
+* 2.7 Identify different types of integrations (Adobe Experience Cloud or external products) and when to use them
+* 2.8 Given a scenario/case study, identify the different stages in the lead lifecycle that will be affected by the proposed changes or requirements.
+* 2.9 Recommend appropriate campaign logic to support a specific business requirement
+
+Section 3: Reporting and Attribution 20%
+
+* 3.1 Given a model to review, explain/articulate the concept of detours in the lifecycle modeler
+* 3.2 Given a multi-channel campaign (online advertising/organic social/content), recommend an approach for reporting
+* 3.3 Validate that Marketo reporting tracks lifecycle changes
+* 3.4 Identify metrics to use in a given report type
+* 3.5 Identify how to track multi-channel attribution to evaluate ROI
+* 3.6 Identify and describe the pros and cons of different attribution models
+* 3.7 Given a business requirement, describe the effects of channel setup to reporting
+
+Section 4: Advanced Administration 16%
+
+* 4.1 Given a scenario, identify appropriate steps to improve platform governance
+* 4.2 Given an integration specification, recommend an efficient data schema
+* 4.3 Evaluate an implementation and recommend actions to improve email performance
+* 4.4 Evaluate an implementation and recommend actions to improve administration management
+* 4.5 Gather information about an implementation and recommend security practices
+* 4.6 Explain the applicability of workspace and partitions for a given scenario
+
+### Get prepped
+
+You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
+
+Here are some suggested resources to help you prepare:
+
+**Section 1: Project Leadership**
+
+* [Champion Blog - Marketo Nation](https://nation.marketo.com/t5/champion-blog/ct-p/champion-program){target="_blank"}
+* [Marketo Product Docs](https://experienceleague.adobe.com/docs/marketo/using/home.html){target="_blank"}
+* [Documentation - REST API](https://developers.marketo.com/rest-api/){target="_blank"}
+* [Understanding Revenue Models](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models.html){target="_blank"}
+
+**Section 2: Adobe [!DNL Marketo Engage] architecture design**
+
+* [Instructions for Creating a Custom Sync Rule](https://nation.marketo.com/t5/product-blogs/instructions-for-creating-a-custom-sync-rule/ba-p/242758#:~:text=First%2C%20what%20is%20a%20custom,have%20them%20sync%20to%20Marketo.){target="_blank"}
+* [The Definitive Guide to Lead Scoring](https://business.adobe.com/resources/guides/lead-scoring.html){target="_blank"}
+* [Email Scripting](https://developers.marketo.com/email-scripting/){target="_blank"}
+* [Initial Setup](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/dynamic-chat/initial-setup.html){target="_blank"}
+
+**Section 3: Reporting and attribution**
+
+* [Report Type Overview](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/report-types/report-type-overview.html){target="_blank"}
+* [Understanding Attribution](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.html){target="_blank"}
+* [Champion Blog - Marketo Nation](https://nation.marketo.com/t5/champion-blog/ct-p/champion-program){target="_blank"}
+* [The Predictive Content Summary](https://experienceleague.adobe.com/docs/marketo/using/product-docs/predictive-content/the-predictive-content-summary.html){target="_blank"}
+
+**Section 4: Advanced operations**
+
+* [Marketo Product Docs](https://experienceleague.adobe.com/docs/marketo/using/home.html){target="_blank"}
+* [Suppressing Soft Bounces](https://nation.marketo.com/t5/product-discussions/suppressing-soft-bounces-any-email-min-3x-encouraged/m-p/209411#M153533){target="_blank"}
+* [Understanding Workspaces and Person Partitions](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.html){target="_blank"}
+* [Understanding Marketo Custom Objects](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.html){target="_blank"}
+
+### Renew your certification
+
+First, ensure that you have successfully logged in to [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}. Then, to renew your Adobe [!DNL Marketo Engage] Architect Master certification, click on the link below.
+
+<a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=AD5-E834" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+                    
+ <span class="spectrum-Button-label has-no-wrap">
+   Take exam AD5-E834
+</span>
+</a>
 
 >[!NOTE]
 >

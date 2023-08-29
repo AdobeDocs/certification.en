@@ -12,6 +12,10 @@ exl-id: 3ce6b278-5bee-4ba3-ae5a-1d5de79d07bf
 
 Learn how to become a certified Adobe [!DNL Marketo Engage] Architect Master.
 
+>[!NOTE]
+>
+>This exam, [!DNL Adobe Marketo Engage] Architect Master (AD0-E556), has been updated. If you have already started studying or are scheduled to take this version, please be sure to complete it before October 31, 2023. If you are just getting started, we recommend taking the [newest version of this exam (AD0-E560)](ame-m-architect-23-08.md). 
+
 The Adobe Credential Program has launched a new Adobe [!DNL Marketo Engage] Engage Architect certification for candidates interested in achieving the Certified Master title. It replaces the previous Marketo Certified Solution Architect (MCSA) certification interview process. [Read more](https://solutionpartners.adobe.com/solution-partners/news/2022/02/a-new-standard-for-adobe-marketo-engage-certified-architects.html){target="_blank"}
 
 ## Minimum experience
