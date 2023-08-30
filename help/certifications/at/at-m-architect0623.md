@@ -11,10 +11,6 @@ mini-toc-levels: 1
 
 Learn how to become a certified [!DNL Adobe Target] Architect Master.
 
->[!NOTE]
->
->This is the newest [!DNL Adobe Target] Architect Master exam. If you have already started studying or have scheduled the [older version](at-m-architect.md) you have until September 8, 2023 to complete it. 
-
 ## Minimum experience
 
 You should have:
