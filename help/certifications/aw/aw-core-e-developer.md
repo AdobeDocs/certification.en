@@ -11,6 +11,10 @@ exl-id: 6f7570dc-5647-402b-a8c1-18c4fa5f85d4
 
 Learn how to become a certified Adobe [!DNL Workfront] Core Developer Expert.
 
+>[!NOTE]
+>
+>This exam, Adobe [!DNL Workfront] Core Developer Expert (AD0-E904), has been updated. If you have already started studying or are scheduled to take this version, please be sure to complete it before November 6, 2023. If you are just getting started, we recommend taking the [newest version of this exam (AD0-907)](aw-core-e-developer-23-08.md). 
+
 ## Minimum experience
 
 You should have at least 18-24 months experience with Adobe [!DNL Workfront], and can:
