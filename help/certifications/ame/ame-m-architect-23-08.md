@@ -6,30 +6,29 @@ product: Marketo
 role: Data Architect
 badge: label="Exam AD0-E560" type="positive"
 mini-toc-levels: 1
-hidefromtoc: true
 ---
-
-<!--This is NOT updated with the AD0-E560 information-->
 
 # Certification journey for Adobe [!DNL Marketo Engage] Architect Master
 
 Learn how to become a certified Adobe [!DNL Marketo Engage] Architect Master.
 
-The Adobe Credential Program has launched a new Adobe [!DNL Marketo Engage] Engage Architect certification for candidates interested in achieving the Certified Master title. It replaces the previous Marketo Certified Solution Architect (MCSA) certification interview process. [Read more](https://solutionpartners.adobe.com/solution-partners/news/2022/02/a-new-standard-for-adobe-marketo-engage-certified-architects.html){target="_blank"}
+>[!NOTE]
+>
+>This is the newest [!DNL Adobe Marketo Engage] Architect Master exam. If you have already started studying or have scheduled the [older version](ame-m-architect.md), you must complete the exam by October 31, 2023. 
 
 ## Minimum experience
 
-You should have: 
+You should have:
 
-* A current certification in Adobe [!DNL Marketo Engage] Business Practitioner Certified Expert
-* At least five years of experience preferably with multiple instances of Adobe [!DNL Marketo Engage]
+* A current certification as an Marketo Engage Business Practitioner Certified Expert
+* At least five years of experience preferably with multiple instances of Marketo Engage
 * An understanding of the business impact and effectively explain/communicate their solution to the stakeholders (technical and non-technical) at different levels
-* The ability to conceptualize a solution and translate to a [!DNL Marketo Engage] architecture, understand the business processes impacted by integrations
+* The ability to conceptualize a solution and translate to a Marketo Engage architecture, understand the business processes impacted by integrations
 * Familiarity with the principles of architecting an instance
 
 Additionally, you should be familiar with the following tools and technologies:
 
-* Adobe [!DNL Marketo Engage] features, functionality, and apps
+* Adobe Marketo Engage features, functionality, and apps
 * Database systems
 * API connectivity
 * CRM platform
@@ -62,15 +61,15 @@ Additionally, you should be familiar with the following tools and technologies:
 
 **Exam details:**
 
-* Pre requisite: Adobe Certified Expert – [!DNL Marketo Engage] Business Practitioner expert
+* Pre requisite: Current (not expired) Adobe [!DNL Marketo Engage] Business Practitioner Expert Certification
 * Level: Master (3-5 years' experience)
 * Practitioner certification
 * Passing Score: 30/50
-* Time: 150 mins
+* Time: 100 mins
 * Delivery: Online proctored (requires camera access) or test center proctored
 * Available languages: English
 * Cost: $225 (global) / $150 (India)
-* Exam ID: AD0-E556
+* Exam ID: AD0-E560
 
 **Readiness self assessment**
 
@@ -78,14 +77,14 @@ Complete the [online readiness questionnaire](https://scorpion.caveon.com/launch
 
 **Exam objectives and scope**
 
-Section 1: Project Leadership (16%)
+**Section 1: Project Leadership (16%)**
 
 * Given a case study, identify the right stakeholders
 * Evaluate a set of requirements and recommend project boundaries, budget, resources, and scope
 * Given a modified process, determine who needs enablement and efficient enablement rollout plan
 * Evaluate an audit and recommend priorities and timeline
 
-Section 2: [!DNL Marketo Engage] Architecture Design (48%)
+**Section 2: Marketo Engage Architecture Design (48%)**
 
 * Gather requirements/needs and recommend a lead management and lifecycle design
 * Review an existing implementation and provide findings
@@ -97,17 +96,17 @@ Section 2: [!DNL Marketo Engage] Architecture Design (48%)
 * Given a scenario, outline various stages in the person lifecycle impacted by proposed changes/requirements
 * Appraise a set of requirements and recommend an approach to campaign logic
 
-Section 3: Reporting and Attribution (20%)
+**Section 3: Reporting and Attribution (20%)**
 
 * Given a model to review, explain the concept of detours in the lifecycle modeler
 * Given an online advertising or organic social or content, recommend an approach for reporting
-* Illustrate how to validate [!DNL Marketo Engage] reporting in tracking lifecycle changes
+* Illustrate how to validate Marketo Engage reporting in tracking lifecycle changes
 * Identify metrics to use in a given report type
 * Identify how to track multi-channel attribution to evaluate ROI
 * Identify and describe the pros and cons of different attribution models
 * Given a business requirement, describe the effects of channel set up to reporting
 
-Section 4: Advanced Operations (16%)
+**Section 4: Advanced Operations (16%)**
 
 * Given a scenario, identify appropriate steps to improve management or governance
 * Given a set of requirements, recommend an efficient data schema
@@ -136,6 +135,7 @@ The sample questions allow you to see the type and format of items that you will
 
 **Section 2: Adobe [!DNL Marketo Engage] architecture design**
 
+* [Reporting Overview](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/reporting-overview.html){target="_blank"}
 * [Instructions for Creating a Custom Sync Rule](https://nation.marketo.com/t5/product-blogs/instructions-for-creating-a-custom-sync-rule/ba-p/242758#:~:text=First%2C%20what%20is%20a%20custom,have%20them%20sync%20to%20Marketo.){target="_blank"}
 * [The Definitive Guide to Lead Scoring](https://business.adobe.com/resources/guides/lead-scoring.html){target="_blank"}
 
@@ -155,19 +155,17 @@ The sample questions allow you to see the type and format of items that you will
 
 >[!IMPORTANT]
 >
->The following sections and links will function **only**  after a **successful login** to the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}. 
+>The following sections and links will function **only** after a **successful login** to the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}. 
 >
->In addition, your profile name in the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} must exactly match your Government ID. Failure to have identical information or any mismatch will result in the proctor terminating the exam and will require you to reschedule your appointment in addition to paying an additional exam fee.*
-
-
+>In addition, your profile name in the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} must exactly match your Government ID. Failure to have identical information or any mismatch will result in the proctor terminating the exam and will require you to reschedule your appointment in addition to paying an additional exam fee.
 
 ## About the certification exam
 
 {{about-certification-exam}}
 
-## Schedule or take exam AD0-E556
+## Schedule or take exam AD0-E560
 
-<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E556" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E560" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
                     
  <span class="spectrum-Button-label has-no-wrap">
    Go to Examity portal
