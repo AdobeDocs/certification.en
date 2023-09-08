@@ -7,14 +7,11 @@ role: Data Architect
 badge: label="Exam AD0-E407" type="positive"
 mini-toc-levels: 1
 exl-id: 05041fba-a1c3-491f-9f88-59498d507e61
+hidefromtoc: true
 ---
 # Certification journey for [!DNL Adobe Target] Architect Master
 
 Learn how to become a certified [!DNL Adobe Target] Architect Master.
-
->[!NOTE]
->
->This exam, [!DNL Adobe Target] Architect Master (AD0-E407), has been updated. If you have already started studying or are scheduled to take this version, please be sure to complete it before September 8, 2023. If you are just getting started, we recommend taking the [newest version of this exam](at-m-architect0623.md). 
 
 ## Minimum experience
 
