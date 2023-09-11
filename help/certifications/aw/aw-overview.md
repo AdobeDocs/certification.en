@@ -6,6 +6,18 @@ exl-id: 0bd627c8-6ba2-49bb-b0e7-477d61b6ce3e
 ---
 # Adobe [!DNL Workfront] Certification Overview
 
+## What's new
+
+The Adobe [!DNL Workfront] Developer (Core) Expert certification exam has been updated. 
+
+The current version is: [Adobe [!DNL Workfront] Developer (Core) (AD0-E904)](/help/certifications/aw/aw-core-e-developer.md)
+
+If you have already scheduled or have started studying for the current exam, please make sure you schedule and complete the exam **before November 6, 2023**. 
+
+However, if you are just getting started on your certification, we recommend that you take the **NEW** version of the exam: [Adobe [!DNL Workfront] Developer (Core) (AD0-E907)](/help/certifications/aw/aw-core-e-developer-23-08.md)
+
+## All Available Exams for Workfront
+
 **Professional**
 
 * [Developer (Fusion)](/help/certifications/aw/aw-fusion-p-developer.md) <!--AD0-E902-->
@@ -14,7 +26,8 @@ exl-id: 0bd627c8-6ba2-49bb-b0e7-477d61b6ce3e
 
 **Expert**
 
-* [Developer (Core)](/help/certifications/aw/aw-core-e-developer.md) <!--AD0-E904-->
+* [Developer (Core) - expiring November 6, 2023](/help/certifications/aw/aw-core-e-developer.md) <!--AD0-E904-->
+* [Developer (Core) - NEW](/help/certifications/aw/aw-core-e-developer-23-08.md) <!--AD0-E907-->
 * [AEM Enhanced Connector](/help/certifications/aw/aw-aem-e-connector.md) <!--AD0-E906-->
 
 Visit the [Renew your certification](/help/certifications/renew.md) page to see if a renewal option is available for this product.
