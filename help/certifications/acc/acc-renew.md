@@ -28,7 +28,7 @@ It's important to note that if your certification expires, you'll have to retake
 
 >[!NOTE]
 >
->Professional renewal coming soon.
+>The Professional renewal is in development. Those whose certifications are expiring will receive an extension so that they can still make use of this free renewal method when it is available.
 
 >[!TAB Expert and Master]
 
