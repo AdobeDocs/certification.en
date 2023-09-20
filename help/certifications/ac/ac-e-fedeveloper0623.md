@@ -101,9 +101,9 @@ Section 4: JavaScript (mage widgets, mage library, customer data module, Knockou
 * Demonstrate the usage of jQuery widgets
 * Demonstrate the usage of JS components using Layout XML
 
-Section 5: Admin Configuration and PageBuilder (12%)
+Section 5: Admin Configuration and Page Builder (12%)
 
-* Demonstrate the ability to customize Page Builder content"
+* Demonstrate the ability to customize Page Builder content
 * Describe front-end optimization
 * Customize transactional emails
 * Demonstrate the usage of admin development tools

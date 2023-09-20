@@ -27,7 +27,7 @@ Additionally, you should exhibit knowledge of the following technologies:
 * CLI command (cache cleaning, setup:upgrade, indexers, deployment mode) & Grunt
 * Caching technologies, client-side browser, understanding storages (Cookies, local storage)
 * Understanding responsive design and media queries
-* WYSIWYG/Page builder
+* WYSIWYG/Page Builder
 * Understanding code packages
 * Implement translation
 * Understanding how to work with email templates
