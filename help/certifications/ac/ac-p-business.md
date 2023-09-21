@@ -63,7 +63,7 @@ Complete the [online readiness questionnaire](https://scorpion.caveon.com/launch
 
 **Exam objectives and scope**
 
-Section 1: [!DNL Magento Open Source] core feature (49%)
+Section 1: [!DNL Magento Open Source] core features (49%)
 
 * Identify the features of [!DNL Magento Open Source]
 * Distinguish the correct scope and when to use each
