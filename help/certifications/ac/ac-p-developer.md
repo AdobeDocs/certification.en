@@ -10,35 +10,15 @@ exl-id: 5dc85678-91f9-4865-b310-3460081b19f8
 ---
 # Certification journey for Adobe [!DNL Commerce] Developer Professional
 
-Learn how to become a certified [!DNL Adobe Commerce] Developer Professional.
+{{intro}}
 
-## Minimum experience
+## Exam description {#exam-description}
 
-You should be comfortable working in Adobe [!DNL Commerce] and have a basic understanding of Adobe [!DNL Commerce] admin development, architecture, EAV/database, layout/UI, checkout and sales, and catalog. 
+{{exam-description}}
 
-Additionally, you should be familiar with the following technologies and environments:
+<br>
 
-* Adobe [!DNL Commerce] - version 2.4
-* Good understanding of PHP
-* Knowledge of MYSQL
-* Knowledge of Object-Oriented Programming
-* Knowledge of Cloud Architecture
-
->[!NOTE]
->
->Your certification is valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
-
->[!BEGINTABS]
-
->[!TAB Get ready]
-
-**Intended audience:**
-
-* Developers
-* Lead Developers
-* Backend Developer
-* Solution Architects
-* Technical Leaders
+### Exam details {#exam-details}
 
 **Exam details:**
 
@@ -50,19 +30,43 @@ Additionally, you should be familiar with the following technologies and environ
 * Cost: $125 (global) / $95 (India)
 * Exam ID: AD0-E717
 
-**Readiness self-assessment**
+<br>
 
-Complete the [online readiness questionnaire](https://scorpion.caveon.com/launchpad/ad-q-e717-readiness-questionnaire-for-adobe-commerce-developer-professional/ad-q-e717-readiness-questionnaire-for-adobe-commerce-developer-professional) to see if your current experience matches the recommended minimum candidate qualification.
+### Intended audience {#intended-audience}
 
-**Exam objectives and scope**
+* Developers
+* Lead Developers
+* Backend Developer
+* Solution Architects
+* Technical Leaders
 
-Section 1: Working with Admin (5%)
+<br>
+
+### Minimum experience {#minimum-experience}
+
+You should be comfortable working in Adobe [!DNL Commerce] and have a basic understanding of Adobe [!DNL Commerce] admin development, architecture, EAV/database, layout/UI, checkout and sales, and catalog. 
+
+Additionally, you should be familiar with the following technologies and environments:
+
+* Adobe [!DNL Commerce] - version 2.4
+* Good understanding of PHP
+* Knowledge of MYSQL
+* Knowledge of Object-Oriented Programming
+* Knowledge of Cloud Architecture
+
+<br>
+
+### Exam objectives and scope {#exam-objectives}
+
+{{exam-objectives}}
+
+**Section 1: Working with Admin (5%)**
 
 * Describe how the ACL works with roles and resources
 * Identify the components to use when creating or modifying the admin grid/form
 * Identify the files to use when creating a store/admin config and menu items
 
-Section 2: Architecture (29%)
+**Section 2: Architecture (29%)**
 
 * Describe [!DNL Magento] file structure
 * Describe [!DNL Magento] CLI commands
@@ -78,7 +82,7 @@ Section 2: Architecture (29%)
 * Describe the [!DNL Magento] caching system
 * Describe stores, websites, and store views (basic understanding)
 
-Section 3: EAV/database (13%)
+**Section 3: EAV/database (13%)**
 
 * Given a scenario, change/add/remove attribute sets and/or attributes
 * Describe different types of attributes
@@ -86,14 +90,14 @@ Section 3: EAV/database (13%)
 * Describe models, resource models, and collections
 * Describe basics of Entity Attribute Value (EAV)
 
-Section 4: Layout/UI (15%)
+**Section 4: Layout/UI (15%)**
 
 * Apply changes to existing product types and create new ones
 * Modify and extend existing Catalog entities
 * Demonstrate the ability to manage Indexes and customize price output
 * Explain how multi-source inventory impacts stock (program level)
 
-Section 5: Checkout and sales (8%)
+**Section 5: Checkout and sales (8%)**
 
 * Describe cart components
 * Describe a cart promo rule
@@ -102,14 +106,14 @@ Section 5: Checkout and sales (8%)
 * Given a scenario, configure the payment and shipping methods
 * Given a scenario, configure tax rules, currencies, cart, and/or checkout
 
-Section 6: Catalog(8%)
+**Section 6: Catalog(8%)**
 
 * Identify the basics of category management and products management
 * Describe product types
 * Describe price rules
 * Describe price types
 
-Section 7: Adobe [!DNL Commerce] Cloud architecture (12%)
+**Section 7: Adobe [!DNL Commerce] Cloud architecture (12%)**
 
 * Define Adobe [!DNL Commerce] architecture/environment workflow
 * Describe cloud project files, permission, and structure
@@ -119,7 +123,7 @@ Section 7: Adobe [!DNL Commerce] Cloud architecture (12%)
 * Describe how to Maintain and upgrade ECE tools
 * Identify when to call support *Yaml files and limitations (DIY vs Support tickets)
 
-Section 8: Setup/Configuring Adobe [!DNL Commerce] Cloud (4%)
+**Section 8: Setup/Configuring Adobe [!DNL Commerce] Cloud (4%)**
 
 * Identify how to setup/configure Adobe [!DNL Commerce] Cloud
 * Define Basic Cloud troubleshooting (Hierarchy of web UI and variables, configurations precedence)
@@ -128,23 +132,39 @@ Section 8: Setup/Configuring Adobe [!DNL Commerce] Cloud (4%)
 * Describe branching using UI
 * Identify Adobe commerce Cloud Plan capabilities
 
-Section 9: [!DNL Commerce] Cloud CLI tool (Managing part) (6%)
+**Section 9: [!DNL Commerce] Cloud CLI tool (Managing part) (6%)**
 
 * Describe exclusive features of Adobe [!DNL Commerce] Cloud CLI tool (CLI exclusive features: activate emails, rebase environments, snapshot, db dump, local environment setup)
 * Describe branching using the Adobe [!DNL Commerce] Cloud CLI tool
 * Identify ways to connect to cloud services? (My SQL, Redis, tunnel:info)
 
->[!TAB Get prepped]
+<br>
 
-You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
+### Readiness questionnaire
 
-Here are some suggested resources to help you prepare:
+{{readiness}}
 
-**Sample questions**
+[Take the online readiness questionnaire](https://scorpion.caveon.com/launchpad/ad-q-e717-readiness-questionnaire-for-adobe-commerce-developer-professional/ad-q-e717-readiness-questionnaire-for-adobe-commerce-developer-professional){target="_blank"}
 
-The sample questions allow you to see the type and format of items that you will encounter in the actual exam. There is no sign-on needed. The results of the sample questions are not stored, and do not predict your actual test results.
+<br>
 
-[See sample questions](https://scorpion.caveon.com/launchpad/template-for-exam-projects-copy-1fgbcj){target="_blank"}
+## How to get certified {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++Step 1: Create your account
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Step 2: Prepare for your exam
+
+**Study Materials**
+
+{{study-materials-intro}}
 
 **Section 1: Working with Admin**
 
@@ -229,17 +249,35 @@ The sample questions allow you to see the type and format of items that you will
 * [Manage branches with the CLI](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/cli-branches.html){target="_blank"}
 * [Configure services](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/service/services-yaml.html){target="_blank"}
 
->[!TAB Get certified]
+<br>
 
->[!IMPORTANT]
->
->The following sections and links will function **only**  after a **successful login** to the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}. 
->
->In addition, your profile name in the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} must exactly match your Government ID. Failure to have identical information or any mismatch will result in the proctor terminating the exam and will require you to reschedule your appointment in addition to paying an additional exam fee.*
+**Sample questions**
 
+{{sample-questions}}
 
+[View sample questions](https://scorpion.caveon.com/launchpad/template-for-exam-projects-copy-1fgbcj){target="_blank"}
 
-## About the certification exam
++++ 
+
+<br>
+
++++Step 3: Schedule & pay for exam
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Step 4: Before and after the exam
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Step 5: Take the exam
 
 {{about-certification-exam}}
 
@@ -252,7 +290,23 @@ The sample questions allow you to see the type and format of items that you will
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Step 6: Manage your badges
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Renewing your certification
+
+{{renewing-intro}}
+
+<br>
 
 ## Questions
 

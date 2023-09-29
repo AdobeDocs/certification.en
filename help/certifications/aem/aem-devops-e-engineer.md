@@ -10,9 +10,40 @@ exl-id: 9cfb51b0-9ab8-46fb-a111-434c13e4affa
 ---
 # Certification journey for Adobe Experience Manager DevOps Engineer Expert
 
-Learn how to become a certified Adobe DevOps Engineer Expert.
+{{intro}}
 
-## Minimum experience
+## Exam description {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Exam details {#exam-details}
+
+* Level: Expert (1-3 years' experience)
+* Passing Score: 30/50
+* Time: 100 mins
+* Delivery: Online proctored (requires camera access)
+* Available languages: English
+* Cost: $225 (global) / $150 (India)
+* Exam ID: AD0-E124
+
+<br>
+
+### Intended audience {#intended-audience}
+
+* Solution consultants
+* Consumer experience professionals
+* Product owners of solution being designed and implemented
+* Business analysts
+* Solution architects
+* Individuals in partner organizations and freelancers who perform an analyst job role for AEM solutions
+* Marketing specialists who know the features and capabilities needed to engage developers to define a solution for business needs
+* Customers who use the product (i.e., power users)
+
+<br>
+
+### Minimum experience {#minimum-experience}
 
 You should have: 
 
@@ -21,7 +52,7 @@ You should have:
 
 You should be comfortable working in Adobe Managed Services and Adobe Experience Manager as a Cloud Service, and are able to set up Adobe Experience Manager environments and infrastructure.
 
-And, you should be familiar with the following technologies and environments:
+Additionally, you should be familiar with the following technologies and environments:
 
 * Cloud Manager
 * Adobe IO CLI
@@ -33,81 +64,72 @@ And, you should be familiar with the following technologies and environments:
 * Dev sandbox
 * Local environment
 
->[!NOTE]
->
->Your certification is valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
+<br>
 
->[!BEGINTABS]
+### Exam objectives and scope {#exam-objectives}
 
->[!TAB Get ready]
+{{exam-objectives}}
 
-**Intended audience:** 
-
-* Solution consultants
-* Consumer experience professionals
-* Product owners of solution being designed and implemented
-* Business analysts
-* Solution architects
-* Individuals in partner organizations and freelancers who perform an analyst job role for AEM solutions
-* Marketing specialists who know the features and capabilities needed to engage developers to define a solution for business needs
-* Customers who use the product (i.e., power users)
-
-**Exam details:**
-  
-* Level: Expert (1-3 years' experience)
-* Passing Score: 30/50
-* Time: 100 mins
-* Delivery: Online proctored (requires camera access) or test center proctored
-* Available languages: English
-* Cost: $225 (global) / $150 (India)
-* Exam ID: AD0-E124
-
-**Readiness self-assessment**
-
-Complete the [online readiness questionnaire](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-ejk3tx/ad-q-e124-readiness-questionnaire-for-adobe-aem-devops-engineer-expert-exam){target="_blank"} to see if your current experience matches the recommended minimum candidate qualification.
-
-**Exam objectives and scope**
-
-Section 1: Configure Adobe Experience Manager (18%)
+**Section 1: Configure Adobe Experience Manager (18%)**
 
 * Determine the correct method to configure fundamental Adobe Experience Manager settings
 * Given a scenario, troubleshoot Adobe Experience Manager issues
 * Determine the correct method to configure OSGi
 
-Section 2: Operate Cloud Manager and Cloud Manager API (20%)
+**Section 2: Operate Cloud Manager and Cloud Manager API (20%)**
 
 * Determine the correct method to manage Cloud Manager Environments settings via UI
 * Determine the correct method to provision programs and environments on Cloud Manager
 * Determine the correct method to migrate to Adobe Experience Manager as a Cloud Service
 * Determine the correct method to set up integrations on Adobe I/O
 
-Section 3: Configure the web proxy infrastructure (12%)
+**Section 3: Configure the web proxy infrastructure (12%)**
 
 * Determine the correct method to manage Dispatcher configurations
 * Given a scenario, troubleshoot caching issues
 
-Section 4: Build and deployments (28%)
+**Section 4: Build and deployments (28%)**
 
 * Determine the correct method to manage Cloud Manager deployments
 * Given a scenario, analyze the state of a Cloud Manager pipeline
 * Determine the correct method to manage content packages across multiple Adobe Experience Manager instances
 * Determine the correct method to make changes to Maven files to support pipelines
 
-Section 5: Monitor and report on quality metrics (14%)
+**Section 5: Monitor and report on quality metrics (14%)**
 
 * Determine the correct method to collect performance metrics and reports
 * Determine the correct method to scale infrastructure
 
-Section 6: Operate the Admin Console (8%)
+**Section 6: Operate the Admin Console (8%)**
 
 * Determine the correct method to submit a support request in the Admin Console
 * Determine the correct method to configure federated SSO and sync Adobe Experience Manager users and groups
 
->[!TAB Get prepped]
+### Readiness questionnaire
 
-You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
+{{readiness}}
 
-Here are some suggested resources to help you prepare:
+[Take the online readiness questionnaire](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-ejk3tx/ad-q-e124-readiness-questionnaire-for-adobe-aem-devops-engineer-expert-exam){target="_blank"}
+
+<br>
+
+## How to get certified {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++Step 1: Create your account
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Step 2: Prepare for your exam
+
+**Study Materials**
+
+{{study-materials-intro}}
 
 **Section 1: Configure Adobe Experience Manager**
 
@@ -145,19 +167,27 @@ Here are some suggested resources to help you prepare:
 * [IMS Support for AEM as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/security/ims-support.html#accessing-cloud-manager){target="_blank"}
 * [Adobe IMS user groups and AEM](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/accessing/adobe-ims-user-groups.html){target="_blank"}
 
->[!TAB Get certified]
++++ 
 
->[!IMPORTANT]
->
->The following sections and links will function **only**  after a **successful login** to the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}. 
->
->In addition, your profile name in the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} must exactly match your Government ID. Failure to have identical information or any mismatch will result in the proctor terminating the exam and will require you to reschedule your appointment in addition to paying an additional exam fee.*
+<br>
 
-## Take a practice test
++++Step 3: Schedule & pay for exam
 
-{{practice-test}}
+{{schedule-and-pay}}
 
-## About the certification exam
++++
+
+<br>
+
++++Step 4: Before and after the exam
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Step 5: Take the exam
 
 {{about-certification-exam}}
 
@@ -170,7 +200,23 @@ Here are some suggested resources to help you prepare:
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Step 6: Manage your badges
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Renewing your certification
+
+{{renewing-intro}}
+
+<br>
 
 ## Questions
 

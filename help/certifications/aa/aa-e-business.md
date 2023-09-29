@@ -1,6 +1,6 @@
 ---
 title: Business Practitioner certification
-description: Learn how to become certified as an Adobe Business Practitioner Expert in [!DNL Adobe Analytics]
+description: Learn how to become certified as an [!DNL Adobe Analytics] Business Practitioner Expert
 solution: Analytics
 product: Analytics
 role: User
@@ -10,9 +10,42 @@ exl-id: 48e3dc7c-0801-4f6d-853b-1fab9bb35e06
 ---
 # Certification journey for [!DNL Adobe Analytics] Business Practitioner Expert
 
-Learn how to become a certified [!DNL Adobe Analytics] Business Practitioner Expert.
+{{intro}}
 
-## Minimum experience
+## Exam description {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Exam details {#exam-details}
+  
+* **Level:** Expert (1-3 years' experience)
+* **Passing Score:** 31/50
+* **Time:** 120 mins
+* **Delivery:** Online proctored (requires camera access)
+* **Available languages:** English, Japanese
+* **Cost:** $225 (global) / $150 (India)
+* **Exam ID:** AD0-E208 (English), AD0-E208-J (Japanese)
+
+<br>
+
+### Intended audience {#intended-audience}
+
+* Digital marketers
+* Business analysts
+* Business consultants
+* Data analysts
+* Web analysts
+* Digital analysts
+* Media / marketing analysts
+* Product owners and managers
+* UI analysts
+* Conversion / optimization specialists
+
+<br>
+
+### Minimum experience {#minimum-experience}
 
 You should have:
 
@@ -28,7 +61,7 @@ You should have:
 * A basic understanding of how digital analytics is filtering/structuring data
 * An awareness of the integration of [!DNL Adobe Analytics] with other Adobe solutions
 
-### Additionally, you should be familiar with the following technologies and environments:
+Additionally, you should be familiar with the following technologies and environments:
 
 * FTP client
 * Current [!DNL Adobe Analytics] Workspace features and other reporting options outside of Workspace (ex. schedule projects and schedule reports)
@@ -40,50 +73,19 @@ You should have:
 * Adobe Help Center
 * Data export options (ex. right click to export, .csv download, Data feeds, Data Warehouse extract)
 
->[!NOTE]
->
->Your certification is valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
+<br>
 
->[!BEGINTABS]
+### Exam objectives and scope {#exam-objectives}
 
->[!TAB Get ready]
+{{exam-objectives}}
 
-**Intended audience:**
-
-* Digital marketers
-* Business analysts
-* Business consultants
-* Data analysts
-* Web analysts
-* Digital analysts
-* Media / marketing analysts
-* Product owners and managers
-* UI analysts
-* Conversion / optimization specialists
-
-**Exam details:**
-  
-* **Level:** Expert (1-3 years' experience)
-* **Passing Score:** 31/50
-* **Time:** 120 mins
-* **Delivery:** Online proctored (requires camera access) or >test center proctored
-* **Available languages:** English
-* **Cost:** $225 (global) / $150 (India)
-* **Exam ID:** AD0-E208
-
-**Readiness self-assessment**
-
-Complete the [online readiness questionnaire](https://scorpion.caveon.com/launchpad/ad-q-e208-readiness-questionnaire-for-adobe-analytics-business-practitioner-expert-exam/adq-e208){target="_blank"} to see if your current experience matches the recommended minimum candidate qualification.
-
-**Exam objectives and scope**
-
-Section 1: Understanding Analytics in the Adobe Experience Cloud Ecosystem (10%)
+**Section 1: Understanding Analytics in the Adobe Experience Cloud Ecosystem (10%)**
 
 * Demonstrate knowledge on utilizing the Adobe Experience Cloud ID
 * Demonstrate understanding of Adobe Launch
 * Demonstrate understanding of common integrations across the Adobe Experience Cloud Ecosystem
 
-Section 2: Reporting and dashboarding for projects (30%)
+**Section 2: Reporting and dashboarding for projects (30%)**
 
 * Consider the advantages of using a reporting tool based on a given scenario
 * Compare fallout and flow visualization and appropriate variable types for reporting
@@ -95,7 +97,7 @@ Section 2: Reporting and dashboarding for projects (30%)
 * Given a scenario, determine the appropriate item to use
 * Apply the process to create, configure, and use mobile scorecards
 
-Section 3: Segmentation and calculated metrics (22%)
+**Section 3: Segmentation and calculated metrics (22%)**
 
 * Determine how to develop and configure segments
 * Apply the process to share segments with others in the organization
@@ -103,14 +105,14 @@ Section 3: Segmentation and calculated metrics (22%)
 * Apply segments to Projects and Components
 * Apply the process to generate calculated and/or segmented metrics
 
-Section 4: General tool knowledge and troubleshooting (12%)
+**Section 4: General tool knowledge and troubleshooting (12%)**
 
 * Analyze reports and identify data quality issues
 * Define different types of dimensions and parameters existing in [!DNL Adobe Analytics] (eVars, props and events)
 * Determine how to bring data in and out of [!DNL Adobe Analytics]
 * Identify information from marketing URLs
 
-Section 5: Administration (10%)
+**Section 5: Administration (10%)**
 
 * Apply the process to configure the [!UICONTROL Marketing Channel] reports with [!UICONTROL Marketing Channel] processing rules
 * Apply the process to configure Classification Importer and Rule Builder
@@ -118,11 +120,33 @@ Section 5: Administration (10%)
 * Use the [!UICONTROL Data Feed] Manager Admin UI
 * Understanding of data governance
 
->[!TAB Get prepped]
+<br>
 
-You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
+### Readiness questionnaire
 
-Here are some suggested resources to help you prepare:
+{{readiness}}
+
+[Take the online readiness questionnaire](https://scorpion.caveon.com/launchpad/ad-q-e208-readiness-questionnaire-for-adobe-analytics-business-practitioner-expert-exam/adq-e208){target="_blank"}
+
+<br>
+
+## How to get certified {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++Step 1: Create your account
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Step 2: Prepare for your exam
+
+**Study Materials**
+
+{{study-materials-intro}}
 
 **Section 1: Business analysis**
 
@@ -155,19 +179,31 @@ Here are some suggested resources to help you prepare:
 * [Frequently asked questions](https://experienceleague.adobe.com/docs/analytics/technotes/data-governance/gdpr-faq.html){target="_blank"}
 * [Classification Rule Builder workflow](https://experienceleague.adobe.com/docs/analytics/components/classifications/classifications-rulebuilder/classification-rule-builder.html){target="_blank"}
 
->[!TAB Get certified]
-
->[!IMPORTANT]
->
->The following sections and links will function **only**  after a **successful login** to the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}. 
->
->In addition, your profile name in the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} must exactly match your Government ID. Failure to have identical information or any mismatch will result in the proctor terminating the exam and will require you to reschedule your appointment in addition to paying an additional exam fee.
-
-## Take a practice test
+**Take a practice test**
 
 {{practice-test}}
 
-## About the certification exam
++++ 
+
+<br>
+
++++Step 3: Schedule & pay for exam
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Step 4: Before and after the exam
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Step 5: Take the exam
 
 {{about-certification-exam}}
 
@@ -191,7 +227,23 @@ Here are some suggested resources to help you prepare:
 
 [Japanese instructions for scheduling](/help/certifications/assets/Examity-Instructions-in-Japanese.pdf)
 
->[!ENDTABS]
++++
+
+<br>
+
++++Step 6: Manage your badges
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Renewing your certification
+
+{{renewing-intro}}
+
+<br>
 
 ## Questions
 

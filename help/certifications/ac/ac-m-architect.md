@@ -11,9 +11,44 @@ exl-id: 594503d8-2064-4b05-ba09-9569e6ef9fc7
 ---
 # Certification journey for Adobe [!DNL Commerce] Architect Master
 
-Learn how to become a certified [!DNL Adobe Commerce] Architect Master.
 
-## Minimum experience
+{{intro}}
+
+## Exam description {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Exam details {#exam-details}
+
+* Level: Master (3-5 years' experience)
+* Passing Score: 30/50
+* Time: 100 mins
+* Delivery: Online proctored (requires camera access)
+* Available languages: English
+* Cost: $225 (global) / $150 (India)
+* Exam ID: AD0-E722
+
+<br>
+
+### Intended audience {#intended-audience}
+
+* Lead Software/[!DNL Adobe Commerce] Architect
+* Technical Architect
+* Solution Architect
+* Technical Lead
+* Technical Expert
+* Full Stack Developer
+* Lead Engineer
+* Associate Technical Architect
+* Senior Backend Developer
+* Backend Software Engineer
+* Senior Technical Consultant
+
+<br>
+
+### Minimum experience {#minimum-experience}
 
 You should have at least 3-5 year experience leading [!DNL Commerce] development projects and are able to design, integrate, implement, and explain solutions to business problems by utilizing [!DNL Adobe Commerce] along with associated services.
 
@@ -45,45 +80,13 @@ Additionally, you should be very familiar with the following activities and tech
 * Creating and modifying B2B
 * AMQP protocol and adapters in [!DNL Adobe Commerce] (S3)
 
->[!NOTE]
->
->Your certification is valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
+<br>
 
->[!BEGINTABS]
+### Exam objectives and scope {#exam-objectives}
 
->[!TAB Get ready]
+{{exam-objectives}}
 
-**Intended audience:**
-
-* Lead Software/[!DNL Adobe Commerce] Architect
-* Technical Architect
-* Solution Architect
-* Technical Lead
-* Technical Expert
-* Full Stack Developer
-* Lead Engineer
-* Associate Technical Architect
-* Senior Backend Developer
-* Backend Software Engineer
-* Senior Technical Consultant
-
-**Exam details:**
-
-* Level: Master (3-5 years' experience)
-* Passing Score: 30/50
-* Time: 100 mins
-* Delivery: Online proctored (requires camera access)
-* Available languages: English
-* Cost: $225 (global) / $150 (India)
-* Exam ID: AD0-E722
-
-**Readiness self-assessment**
-
-Complete the [online readiness questionnaire](https://scorpion.caveon.com/launchpad/ad-q-e718-readiness-questionnaire-for-adobe-commerce-architect-master-exam){target="_blank"} to see if your current experience matches the recommended minimum candidate qualification.
-
-**Exam objectives and scope**
-
-Section 1: Design (46%)
+**Section 1: Design (46%)**
 
 * Design and implement optimal solutions for Adobe [!DNL Commerce] to meet business needs
 * Design logical and technical flows
@@ -91,7 +94,7 @@ Section 1: Design (46%)
 * Integrate Adobe [!DNL Commerce] with external systems and services
 * Troubleshoot design flows
 
-Section 2- Review (32%)
+**Section 2: Review (32%)**
 
 * Review and refactor existing Adobe [!DNL Commerce] customizations
 * Utilize [!DNL Commerce] test frameworks throughout the whole workflow
@@ -99,18 +102,38 @@ Section 2- Review (32%)
 * Troubleshoot to identify the root cause of issues with Adobe [!DNL Commerce]
 * Enforce coding standards
 
-Section 3: Configure and Deploy (22%)
+**Section 3: Configure and Deploy (22%)**
 
 * Configure Adobe [!DNL Commerce] and make sure the project is set up optimally
 * Configure all aspects of Adobe [!DNL Commerce] Cloud
 * Oversee and improve deployment process
 * Troubleshoot infrastructure and configuration issues
 
->[!TAB Get prepped]
+### Readiness questionnaire
 
-You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
+{{readiness}}
 
-Here are some suggested resources to help you prepare:
+[Take the online readiness questionnaire](https://scorpion.caveon.com/launchpad/ad-q-e718-readiness-questionnaire-for-adobe-commerce-architect-master-exam){target="_blank"}
+
+<br>
+
+## How to get certified {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++Step 1: Create your account
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Step 2: Prepare for your exam
+
+**Study Materials**
+
+{{study-materials-intro}}
 
 **Section 1: Design**
 
@@ -143,15 +166,27 @@ Here are some suggested resources to help you prepare:
 * [Overview of initialization and bootstrap](https://devdocs.magento.com/guides/v2.4/config-guide/bootstrap/magento-bootstrap.html){target="_blank"}
 * [Fastly services overview](https://devdocs.magento.com/cloud/cdn/cloud-fastly.html){target="_blank"}
 
->[!TAB Get certified]
++++ 
 
->[!IMPORTANT]
->
->The following sections and links will function **only** after a **successful login** to the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}. 
+<br>
 
++++Step 3: Schedule & pay for exam
 
+{{schedule-and-pay}}
 
-## About the certification exam
++++
+
+<br>
+
++++Step 4: Before and after the exam
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Step 5: Take the exam
 
 {{about-certification-exam}}
 
@@ -164,7 +199,23 @@ Here are some suggested resources to help you prepare:
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Step 6: Manage your badges
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Renewing your certification
+
+{{renewing-intro}}
+
+<br>
 
 ## Questions
 

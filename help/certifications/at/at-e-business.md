@@ -10,9 +10,36 @@ exl-id: e907929f-b4a4-45e1-ba2d-f407f46d41c6
 ---
 # Certification journey for [!DNL Adobe Target] Business Practitioner Expert
 
-Learn how to become a certified [!DNL Adobe Target] Business Practitioner Expert.
+{{intro}}
 
-## Minimum experience
+## Exam description {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Exam details {#exam-details}
+
+* Level: Expert (1-3 years' experience)
+* Passing Score: 46/68
+* Time: 136 mins
+* Delivery: Online proctored (requires camera access)
+* Available languages: English, Japanese
+* Cost: $225 (global) / $150 (India)
+* Exam ID: AD0-E406 (English), AD0-E406-J (Japanese)
+
+<br>
+
+### Intended audience {#intended-audience}
+
+* Optimization
+* Personalization
+* Analytics
+* Digital and product marketing
+
+<br>
+
+### Minimum experience {#minimum-experience}
 
 You should have:
 
@@ -60,34 +87,13 @@ Environments:
 * Use of target for single page applications 
 * Email
 
->[!NOTE]
->
->Your certification is valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
+<br>
 
->[!BEGINTABS]
+### Exam objectives and scope {#exam-objectives}
 
->[!TAB Get ready]
+{{exam-objectives}}
 
-**Intended audience:** 
-
-* Optimization
-* Personalization
-* Analytics
-* Digital and product marketing
-
-**Exam details:**
-  
-* Level: Expert (1-3 years' experience)
-* Passing Score: 46/68
-* Time: 136 mins
-* Delivery: Online proctored (requires camera access) or test center proctored
-* Available languages: English
-* Cost: $225 (global) / $150 (India)
-* Exam ID: AD0-E406
-
-**Exam objectives and scope**
-
-Section 1: Planning and strategy (31%)
+**Section 1: Planning and strategy (31%)**
 
 * Identify business KPIs and successfully translate these into optimization goals given key business requirements
 * Identify opportunities for optimization based on business KPIs and data analysis
@@ -99,7 +105,7 @@ Section 1: Planning and strategy (31%)
 * Assess audience requirements
 * Determine the appropriate analytics reporting sources (i.e., Target or Adobe Analytics)
 
-Section 2: Configuring, executing and managing (42%)
+**Section 2: Configuring, executing and managing (42%)**
 
 * Explain the use of Form-Based Experience Composer vs. the Visual Experience Composer
 * Apply procedures to create an experience using VEC
@@ -116,7 +122,7 @@ Section 2: Configuring, executing and managing (42%)
 * Apply procedures to conduct Activity QA
 * Apply procedures to manage Activities and Audiences within Target
 
-Section 3: Analyzing and reporting (17%)
+**Section 3: Analyzing and reporting (17%)**
 
 * Define and evaluate report settings to help set the elements that appear in a report
 * Evaluate and compare [!DNL Adobe Target] Sample Size Calculator settings when both planning Target activities and validating Target activities reports
@@ -125,17 +131,31 @@ Section 3: Analyzing and reporting (17%)
 * Evaluate Experience Performance reports (MVT)
 * Determine the winning variation based on the observed lift, confidence levels and business objectives
 
-Section 4: Troubleshooting (10%)
+**Section 4: Troubleshooting (10%)**
 
 * Diagnose activity qualification issues
 * Use browser debugging tools (including Experience Cloud Debugger) to verify implementation
 * Verify metrics and reporting
 
->[!TAB Get prepped]
+<br>
 
-You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
+## How to get certified {#how-to-get-certified}
 
-Here are some suggested resources to help you prepare:
+{{how-to-get-certified-intro}}
+
++++Step 1: Create your account
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Step 2: Prepare for your exam
+
+**Study Materials**
+
+{{study-materials-intro}}
 
 **Section 1: Planning and strategy**
 
@@ -173,19 +193,33 @@ Here are some suggested resources to help you prepare:
 * [Troubleshoot activity errors](https://experienceleague.adobe.com/docs/target-learn/tutorials/troubleshooting/4.2-troubleshoot-activity-errors.html){target="_blank"}
 * [Troubleshoot integration errors](https://experienceleague.adobe.com/docs/target-learn/tutorials/troubleshooting/4.3-troubleshoot-integration-errors.html){target="_blank"}
 
->[!TAB Get certified]
+<br>
 
->[!IMPORTANT]
->
->The following sections and links will function **only**  after a **successful login** to the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}. 
->
->In addition, your profile name in the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} must exactly match your Government ID. Failure to have identical information or any mismatch will result in the proctor terminating the exam and will require you to reschedule your appointment in addition to paying an additional exam fee.*
-
-## Take a practice test
+**Take a practice test**
 
 {{practice-test}}
 
-## About the certification exam
++++ 
+
+<br>
+
++++Step 3: Schedule & pay for exam
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Step 4: Before and after the exam
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Step 5: Take the exam
 
 {{about-certification-exam}}
 
@@ -209,7 +243,23 @@ Here are some suggested resources to help you prepare:
 
 [Japanese instructions for scheduling](/help/certifications/assets/Examity-Instructions-in-Japanese.pdf)
 
->[!ENDTABS]
++++
+
+<br>
+
++++Step 6: Manage your badges
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Renewing your certification
+
+{{renewing-intro}}
+
+<br>
 
 ## Questions
 

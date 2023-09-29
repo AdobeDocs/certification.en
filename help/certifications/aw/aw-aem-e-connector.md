@@ -9,9 +9,36 @@ exl-id: f00092c9-1288-447f-adcd-229cf325bc3e
 ---
 # Certification journey for Adobe [!DNL Workfront] for [!DNL Experience Manager] Enhanced Connector Expert
 
-Learn how to become a certified Adobe certified Expert.
+{{intro}}
 
-## Minimum experience
+## Exam description {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Exam details {#exam-details}
+
+* Level: Expert (1-3 years' experience)
+* Passing Score: 34/55
+* Time: 110 mins
+* Delivery: Online proctored (requires camera access)
+* Available languages: English
+* Cost: $225 (global) / $150 (India)
+* Exam ID: AD0-E906
+
+<br>
+
+### Intended audience {#intended-audience}
+
+* Partner solutions consultants
+* Implementation specialists
+* Integration specialists
+* Developers or architects
+
+<br>
+
+### Minimum experience {#minimum-experience}
 
 You should have achieved one or more of the following certifications: 
 
@@ -30,34 +57,13 @@ And, you should have:
 * An understanding of taxonomies and AEM tagging, AEM workflows, JCR, Sling, OSGi and databases
 * An understanding of work management best practices
 
->[!NOTE]
->
->Your certification is valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
+<br>
 
->[!BEGINTABS]
+### Exam objectives and scope {#exam-objectives}
 
->[!TAB Get ready]
+{{exam-objectives}}
 
-**Intended audience:** 
-
-* Partner solutions consultants
-* Implementation specialists
-* Integration specialists
-* Developers or architects
-
-**Exam details:**
-  
-* Level: Expert (1-3 years' experience)
-* Passing Score: 34/55
-* Time: 110 mins
-* Delivery: Online proctored (requires camera access) or test center proctored
-* Available languages: English
-* Cost: $225 (global) / $150 (India)
-* Exam ID: AD0-E906
-
-**Exam objectives and scope**
-
-Section 1: Technical requirements (25%)
+**Section 1: Technical requirements (25%)**
 
 * Use [!DNL Workfront] Custom Forms
 * Given a scenario, demonstrate document management
@@ -65,14 +71,14 @@ Section 1: Technical requirements (25%)
 * Given a scenario, identify how values are passed to [!DNL Workfront] custom forms
 * Troubleshoot server-side code
 
-Section 2: Configuration (26%)
+**Section 2: Configuration (26%)**
 
 * Illustrate best practices for user management
 * Apply procedural concepts required to modify existing AEM asset workflows
 * Make decisions required to customize metadata schema for different asset types
 * Apply procedural AEM concepts required to deploy OSGi bundles, assets, metadata schema, tagging, and permissions
 
-Section 3: Business practices (21%)
+**Section 3: Business practices (21%)**
 
 * Interpret client needs in order to recommend the appropriate workflow strategies
 * Demonstrate how to set up [!DNL Workfront] approval and proofing workflows
@@ -80,22 +86,30 @@ Section 3: Business practices (21%)
 * Demonstrate an understanding of tracking deliverables as part of campaign management
 * Given a scenario, identify the key considerations of change management for a [!DNL Workfront] implementation
 
-Section 4: Installation and configuration of connector (28%)
+**Section 4: Installation and configuration of connector (28%)**
 
 * Validate prerequisites within AEM
 * Given a customer use case, identify the features of the connector to implement
 
->[!TAB Get prepped]
+<br>
 
-You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
+## How to get certified {#how-to-get-certified}
 
-Here are some suggested resources to help you prepare:
+{{how-to-get-certified-intro}}
 
-**Sample Questions**
++++Step 1: Create your account
 
-The sample questions allow you to see the type and format of items that you will encounter in the actual exam. There is no sign-on needed. The results of the sample questions are not stored, and do not predict your actual test results.
+{{create-your-account}}
 
-[See sample questions](https://scorpion.caveon.com/launchpad/ad3-e906-adobe-workfront-for-experience-manager-enhanced-connector-certified-expert-sample-questions){target="_blank"}
++++
+
+<br>
+
++++Step 2: Prepare for your exam
+
+**Study Materials**
+
+{{study-materials-intro}}
 
 **Section 1: Technical Requirements**
 
@@ -130,16 +144,35 @@ The sample questions allow you to see the type and format of items that you will
 * [Configure [!DNL Workfront] for [!DNL Experience Manager] enhanced connector](https://experienceleague.adobe.com/docs/experience-manager-65/assets/integrations/workfront-connector-configure.html){target="_blank"}
 * [Adobe [!DNL Experience Manager Assets] integration with Adobe [!DNL Workfront]](https://experienceleague.adobe.com/docs/experience-manager-65/assets/integrations/workfront-integrations.html){target="_blank"}
 
->[!TAB Get certified]
+<br>
 
->[!IMPORTANT]
->
->The following sections and links will function **only**  after a **successful login** to the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}. 
->
->In addition, your profile name in the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} must exactly match your Government ID. Failure to have identical information or any mismatch will result in the proctor terminating the exam and will require you to reschedule your appointment in addition to paying an additional exam fee.*
+**Sample questions**
 
+{{sample-questions}}
 
-## About the certification exam
+[View sample questions](https://scorpion.caveon.com/launchpad/ad3-e906-adobe-workfront-for-experience-manager-enhanced-connector-certified-expert-sample-questions){target="_blank"}
+
++++ 
+
+<br>
+
++++Step 3: Schedule & pay for exam
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Step 4: Before and after the exam
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Step 5: Take the exam
 
 {{about-certification-exam}}
 
@@ -152,7 +185,23 @@ The sample questions allow you to see the type and format of items that you will
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Step 6: Manage your badges
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Renewing your certification
+
+{{renewing-intro}}
+
+<br>
 
 ## Questions
 

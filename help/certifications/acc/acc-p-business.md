@@ -10,9 +10,39 @@ exl-id: 38af77fd-8e31-4cca-b953-3f83b61d3000
 ---
 # Certification journey for Adobe [!DNL Campaign Classic] Business Practitioner Professional
 
-Learn how to become a certified Adobe [!DNL Campaign Classic] Business Practitioner Professional.
+{{intro}}
 
-## Minimum experience
+## Exam description {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Exam details {#exam-details}
+
+* Level: Professional (0-12 months' experience)
+* Passing Score: 32/50
+* Time: 100 mins
+* Delivery: Online proctored (requires camera access) 
+* Available languages: English
+* Cost: $125 (global) / $95 (India)
+* Exam ID: AD0-E329
+
+<br>
+
+### Intended audience {#intended-audience}
+
+* Business consultant
+* Business analyst
+* Interaction manager
+* Campaign manager
+* Database marketer
+* Business practitioner
+* CRM project manager
+
+<br>
+
+### Minimum experience {#minimum-experience}
 
 You should have:
 
@@ -30,41 +60,15 @@ You should have:
 * Experience with basic HTML and personalization
 * Subscription service management (opt in/opt out)
 
->[!NOTE]
->
->Your certification is valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
+<br>
 
->[!BEGINTABS]
+### Exam objectives and scope {#exam-objectives}
 
->[!TAB Get ready]
-
-**Intended audience:**
-
-* Business consultant
-* Business analyst
-* Interaction manager
-* Campaign manager
-* Database marketer
-* Business practitioner
-* CRM project manager
-
-**Exam details:**
-
-* Level: Professional (0-12 months' experience)
-* Passing Score: 32/50
-* Time: 100 mins
-* Delivery: Online proctored (requires camera access) 
-* Available languages: English
-* Cost: $125 (global) / $95 (India)
-* Exam ID: AD0-E329
-
-**Readiness self-assessment**
-
-Complete the [online readiness questionnaire](https://scorpion.caveon.com/launchpad/ad-q-e315-readiness-questionnaire-for-adobe-campaign-classic-business-practitioner-professional-exam/ad-q-e315-readiness-questionnaire-for-adobe-campaign-classic-business-practitioner-professional-exam){target="_blank"} to see if your current experience matches the recommended minimum candidate qualification.
+{{exam-objectives}}
 
 **Exam objectives and scope**
 
-Section 1: Build a Campaign (29%)
+**Section 1: Build a Campaign (29%)**
 
 * Recognize the different Digital Marketing concepts and objectives
 * Identify and define key tool features and structure, in relation to the interface
@@ -76,14 +80,14 @@ Section 1: Build a Campaign (29%)
 * Recognize where to locate delivery results or output
 * Differentiate between different error and warning types (delivery, campaign, and workflow level)
 
-Section 2: Workflow management and platform capabilities (16%)
+**Section 2: Workflow management and platform capabilities (16%)**
 
 * Given a scenario, determine which workflow activities should be selected
 * Differentiate between campaign and technical workflows
 * Given a scenario, determine which workflow solution is optimal for continuous, waits, recurring, aborts situations
 * Identify the new capabilities and features of Campaign V8 compared to previous versions
 
-Section 3: Data operations (20%)
+**Section 3: Data operations (20%)**
 
 * Determine how to modify columns within a view in order to test data/output
 * Describe the purposes of the union, intersection, exclusion, and split workflow targeting activities
@@ -92,7 +96,7 @@ Section 3: Data operations (20%)
 * Given a scenario, determine how to segment an audience and store as a list and cells
 * Given a scenario, determine the best method to export data to destinations by configuring them
 
-Section 4: Delivery configuration (28%)
+**Section 4: Delivery configuration (28%)**
 
 * Given a scenario, determine the correct delivery type
 * Given business requirements, determine how to create templates
@@ -103,24 +107,40 @@ Section 4: Delivery configuration (28%)
 * Indicate where/how to test delivery content and personalization
 * Differentiate among the various delivery states that occur during processing and apply actions
 
-Section 5: Administration and reporting (7%)
+**Section 5: Administration and reporting (7%)**
 
 * Identify common OOTB reports and where to access them
 * Determine which OOTB report is needed based on reporting requirements
 * Identify the Descriptive Analysis functionality inside Adobe Campaign
 * Given a scenario, apply the right authorizations to limit/allow access to Campaign objects
 
->[!TAB Get prepped]
+<br>
 
-You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
+### Readiness questionnaire
 
-Here are some suggested resources to help you prepare:
+{{readiness}}
 
-**Sample questions**
+[Take the online readiness questionnaire](https://scorpion.caveon.com/launchpad/ad-q-e315-readiness-questionnaire-for-adobe-campaign-classic-business-practitioner-professional-exam/ad-q-e315-readiness-questionnaire-for-adobe-campaign-classic-business-practitioner-professional-exam){target="_blank"}
 
-The sample questions allow you to see the type and format of items that you will encounter in the actual exam. There is no sign-on needed. The results of the sample questions are not stored, and do not predict your actual test results.
+<br>
 
-[See sample questions](https://scorpion.caveon.com/launchpad/ad0-e329-adobe-campaign-classic-business-practitioner-professional-copy-k5cx2p){target="_blank"}
+## How to get certified {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++Step 1: Create your account
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Step 2: Prepare for your exam
+
+**Study Materials**
+
+{{study-materials-intro}}
 
 **Section 1: Build a Campaign**
 
@@ -165,16 +185,35 @@ The sample questions allow you to see the type and format of items that you will
 * [Get started with descriptive analysis](https://experienceleague.adobe.com/docs/campaign-classic/using/reporting/analyzing-populations/about-descriptive-analysis.html){target="_blank"}
 * [Get started with permissions](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management.html){target="_blank"}
 
->[!TAB Get certified]
+<br>
 
->[!IMPORTANT]
->
->The following sections and links will function **only**  after a **successful login** to the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}. 
->
->In addition, your profile name in the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} must exactly match your Government ID. Failure to have identical information or any mismatch will result in the proctor terminating the exam and will require you to reschedule your appointment in addition to paying an additional exam fee.*
+**Sample questions**
 
+{{sample-questions}}
 
-## About the certification exam
+[View sample questions](https://scorpion.caveon.com/launchpad/ad0-e329-adobe-campaign-classic-business-practitioner-professional-copy-k5cx2p){target="_blank"}
+
++++ 
+
+<br>
+
++++Step 3: Schedule & pay for exam
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Step 4: Before and after the exam
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Step 5: Take the exam
 
 {{about-certification-exam}}
 
@@ -187,7 +226,23 @@ The sample questions allow you to see the type and format of items that you will
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Step 6: Manage your badges
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Renewing your certification
+
+{{renewing-intro}}
+
+<br>
 
 ## Questions
 

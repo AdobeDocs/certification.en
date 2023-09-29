@@ -10,11 +10,39 @@ exl-id: 71141d87-828c-4c28-a6e2-0e12e885e1ad
 ---
 # Certification journey for [!DNL Adobe Audience Manager] Business Practitioner Expert
 
-Learn how to become a certified [!DNL Adobe Audience Manager] Business Practitioner Expert.
+{{intro}}
 
-## Minimum experience
+## Exam description {#exam-description}
 
-Your certification is valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
+{{exam-description}}
+
+<br>
+
+### Exam details {#exam-details}
+  
+* Level: Expert (1-3 years' experience)
+* Passing Score: 36/50
+* Time: 100 mins
+* Delivery: Online proctored (requires camera access)
+* Available languages: English
+* Cost: $225 (global) and $150 (India)
+* Exam ID: AD0-E457
+
+<br>
+
+### Intended audience {#intended-audience}
+
+* Digital Marketing Specialist
+* Marketing Technology Consultant
+* Audience Strategist
+* Behavioral Consultant
+* Digital Marketing Analyst
+* Marketing Data Analyst
+* Data Platforms Manager
+
+<br>
+
+### Minimum experience {#minimum-experience}
 
 You should have:
 
@@ -41,74 +69,68 @@ Environments:
 * Digital marketing
 * Data and analytics
 
->[!NOTE]
->
->Your certification is valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
+<br>
 
->[!BEGINTABS]
+### Exam objectives and scope {#exam-objectives}
 
->[!TAB Get ready]
+{{exam-objectives}}
 
-**Intended audience:** 
-
-* Digital Marketing Specialist
-* Marketing Technology Consultant
-* Audience Strategist
-* Behavioral Consultant
-* Digital Marketing Analyst
-* Marketing Data Analyst
-* Data Platforms Manager
-
-**Exam details:**
-  
-* Level: Expert (1-3 years' experience)
-* Passing Score: 36/50
-* Time: 100 mins
-* Delivery: Online proctored (requires camera access) or test center proctored
-* Available languages: English
-* Cost: $225 (global) and $150 (India)
-* Exam ID: AD0-E457
-
-**Readiness self-assessment**
-
-Complete the [online readiness questionnaire](https://scorpion.caveon.com/launchpad/ad-q-e457-readiness-questionnaire-for-adobe-audience-manager-business-practitioner-expert-exam/ad-q-e457-readiness-questionnaire-for-adobe-audience-manager-business-practitioner-expert-exam){target="_blank"} to see if your current experience matches the recommended minimum candidate qualification.
-
-**Exam objectives and scope**
-
-Section 1: Segment creation and syndication (25%)
+**Section 1: Segment creation and syndication (25%)**
 
 * Determine the appropriate method to create segments utilizing first-, second-, and third-party data for targeting and analytical purposes
 * Given a scenario, recommend segments for activation that align to business or campaign goals
 * Determine the appropriate method to syndicate segments to destinations for activation
 * Differentiate between the different types of destinations
 
-Section 2: Trait creation (17%)
+**Section 2: Trait creation (17%)**
 
 * Recommend traits for a given audience strategy
 * Determine the correct method to create and update rule-based and/or onboarded traits
 
-Section 3: Reporting and measurements (22%)
+**Section 3: Reporting and measurements (22%)**
 
 * Given a scenario, analyze reports to provide actionable next steps to meet business goals
 * Given a scenario, analyze audience optimization
 
-Section 4: Troubleshooting and administration (26%)
+**Section 4: Troubleshooting and administration (26%)**
 
 * Given a scenario, verify audience delivery information to ensure scheduled delivery needs
 * Determine the appropriate practice to validate offline inbound files
 * Given a scenario, determine the correct method to perform QA against the ID sync
 * Determine the appropriate method to navigate and activate from the Adobe Audience Marketplace
 
-Section 5: Taxonomy (10%)
+**Section 5: Taxonomy (10%)**
 
 * Determine the appropriate structure to create traits and segments that utilize a clear and consistent nomenclature
 * Determine the correct technique to maintain an organized platform using a clear folder structure
 
->[!TAB Get prepped]
+<br>
 
-You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
+### Readiness questionnaire
 
-Here are some suggested resources to help you prepare:
+{{readiness}}
+
+[Take the online readiness questionnaire](https://scorpion.caveon.com/launchpad/ad-q-e457-readiness-questionnaire-for-adobe-audience-manager-business-practitioner-expert-exam/ad-q-e457-readiness-questionnaire-for-adobe-audience-manager-business-practitioner-expert-exam){target="_blank"}
+
+<br>
+
+## How to get certified {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++Step 1: Create your account
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Step 2: Prepare for your exam
+
+**Study Materials**
+
+{{study-materials-intro}}
 
 **Section 1: Segment creation and syndication**
 
@@ -150,17 +172,33 @@ Here are some suggested resources to help you prepare:
 * [Classifying Traits with a Common Taxonomy](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/trait-common-taxonomy.html){target="_blank"}
 * [Folder Traits: About](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/about-folder-traits.html){target="_blank"}
 
->[!TAB Get certified]
+<br>
 
->[!IMPORTANT]
->
->The following sections and links will function **only** after a **successful login** to the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
- 
-## Take a practice test
+**Take a practice test**
 
 {{practice-test}}
 
-## About the certification exam
++++ 
+
+<br>
+
++++Step 3: Schedule & pay for exam
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Step 4: Before and after the exam
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Step 5: Take the exam
 
 {{about-certification-exam}}
 
@@ -173,10 +211,28 @@ Here are some suggested resources to help you prepare:
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Step 6: Manage your badges
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Renewing your certification
+
+{{renewing-intro}}
+
+<br>
 
 ## Questions
 
 View the certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Additional questions? [Contact us](mailto:certif@adobe.com){target="_blank"}.
+
+<!--divider-->

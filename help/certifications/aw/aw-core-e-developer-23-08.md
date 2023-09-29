@@ -9,13 +9,41 @@ mini-toc-levels: 1
 
 # Certification journey for Adobe [!DNL Workfront] Core Developer Expert
 
-Learn how to become a certified Adobe [!DNL Workfront] Core Developer Expert.
+{{intro}}
 
 >[!NOTE]
 >
 >This is the newest Adobe [!DNL Workfront] Core Developer Expert exam. If you have already started studying or have scheduled the [older version](aw-core-e-developer.md), you must complete it by November 6, 2023. 
 
-## Minimum experience
+## Exam description {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Exam details {#exam-details}
+
+* Level: Expert (1-3 years' experience)
+* Passing Score: 35/50
+* Time: 100 mins
+* Delivery: Online proctored (requires camera access)
+* Available languages: English
+* Cost: $225 (global) / $150 (India)
+* Exam ID: AD0-E907
+
+<br>
+
+### Intended audience {#intended-audience}
+
+* [!DNL Workfront] System Administrators specializing in implementation, and new or updated instance configuration
+* Process designer/architect
+* Business analyst
+* Technical consultant
+* Configuration consultant
+
+<br>
+
+### Minimum experience {#minimum-experience}
 
 You should have at least 18-24 months experience with Adobe [!DNL Workfront], and should be able to:
 
@@ -26,39 +54,13 @@ You should have at least 18-24 months experience with Adobe [!DNL Workfront], an
 * Understand and apply the marketing and PMO uses cases
 * Recommend and create reports that support customer processes
 
->[!NOTE]
->
->Your certification is valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
+<br>
 
->[!BEGINTABS]
+### Exam objectives and scope {#exam-objectives}
 
->[!TAB Get ready]
+{{exam-objectives}}
 
-**Intended audience:** 
-
-* [!DNL Workfront] System Administrators specializing in implementation, and new or updated instance configuration
-* Process designer/architect
-* Business analyst
-* Technical consultant
-* Configuration consultant
-
-**Exam details:**
-  
-* Level: Expert (1-3 years' experience)
-* Passing Score: 35/50
-* Time: 100 mins
-* Delivery: Online proctored (requires camera access) or test center proctored
-* Available languages: English
-* Cost: $225 (global) / $150 (India)
-* Exam ID: AD0-E907
-
-**Readiness self-assessment**
-
-Complete the [online readiness questionnaire](https://scorpion.caveon.com/launchpad/ad-q-e904-readiness-questionnaire-for-adobe-workfront-core-developer-expert/ad-q-e904-readiness-questionnaire-for-adobe-workfront-core-developer-expert){target="_blank"} to see if your current experience matches the recommended minimum candidate qualification.
-
-**Exam objectives and scope**
-
-Section 1: Core system administration and setup     (17%)
+**Section 1: Core system administration and setup (17%)**
 
 * Given a scenario, describe ways to effectively share permissions and access.    
 * Given a scenario, identify when a group status versus a system status should be used.    
@@ -68,7 +70,7 @@ Section 1: Core system administration and setup     (17%)
 * Given a scenario, recommend a Boards configuration to meet a custom requirement.    
 * Given a scenario, identify best practices for group administration.    
     
-Section 2: Intake, custom forms, and project initiation (13%)
+**Section 2: Intake, custom forms, and project initiation (13%)**
 
 * Given a scenario, identify the configuration areas needed to support the work allocations.    
 * Given a scenario, identify how a value is passed to a project custom form.    
@@ -77,7 +79,7 @@ Section 2: Intake, custom forms, and project initiation (13%)
 * Given a scenario with multiple forms, determine actions to control access, visibility and dependency.    
 * Given a scenario with calculated fields on multi-object forms, identify the correct formula.    
     
-Section 3: Strategic functionality: portfolio and program management, resource management (13%)
+**Section 3: Strategic functionality: portfolio and program management, resource management (13%)**
 
 * Given a scenario, define tools to capture changes in the project scope.    
 * Given a scenario, create a view that identifies within a portfolio whether a project meets the average level of requisite criteria to be executed.    
@@ -86,7 +88,7 @@ Section 3: Strategic functionality: portfolio and program management, resource m
 * Given a scenario, provide a mechanism to ensure that projects are fully staffed by using Resource Management tools.    
 * Given a scenario, use Resource Management tools to determine why a user is overallocated.    
     
-Section 4: Document management and proof (13%)
+**Section 4: Document management and proof (13%)**
 
 * Given a scenario, demonstrate when to utilize document management versus proofing    
 * Given a scenario, identify best practices for using the proofing viewer, settings, and markup functionality    
@@ -94,7 +96,7 @@ Section 4: Document management and proof (13%)
 * Given a scenario, demonstrate how to set up external document storage with security restrictions    
 * Given a scenario, set up a connection to AEM as a Cloud Service or AEM Assets Essentials.    
     
-Section 5: Reporting (11%)
+**Section 5: Reporting (11%)**
 
 * Given a scenario, describe ways to combine multiple columns of data into a single column.    
 * Given a report or filter, demonstrate the merits of using wildcard values.    
@@ -103,7 +105,7 @@ Section 5: Reporting (11%)
 * Given a scenario, illustrate [!DNL Workfront] Reporting to monitor and improve user adoption.    
 * Given a scenario, determine how a field type would render on a report. (Field types include: rich text, images, multi-select)    
     
-Section 6: Methodology / best practices / use cases (22%)
+**Section 6: Methodology / best practices / use cases (22%)**
 
 * Given a scenario within [!DNL Workfront], demonstrate functionality for setting up tracking of deliverables that are part of a single campaign.    
 * Given a scenario within [!DNL Workfront], demonstrate functionality around strategic prioritization and justification of work .    
@@ -114,7 +116,7 @@ Section 6: Methodology / best practices / use cases (22%)
 * Given a scenario using [!DNL Workfront] Boards, identify native features to show progress.    
 * Given a scenario, recommend a framework for governance around system and group administration.    
     
-Section 7: Business consulting (11%)
+**Section 7: Business consulting (11%)**
 
 * Given a scenario, describe the process needed to fully support effort of implementing [!DNL Workfront] in a cross-functional department.    
 * Given a scenario, explain how to adapt an existing Workflow to meet a recent change in a critical, inflight business process.    
@@ -122,11 +124,33 @@ Section 7: Business consulting (11%)
 * Given a scenario, identify the key considerations of change management for a [!DNL Workfront] implementation    
 * Given a scenario where a client has multiple teams, provide a recommendation  to increase efficiency.    
 
->[!TAB Get prepped]
+<br>
 
-You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
+### Readiness questionnaire
 
-Here are some suggested resources to help you prepare:
+{{readiness}}
+
+[Take the online readiness questionnaire](https://scorpion.caveon.com/launchpad/ad-q-e904-readiness-questionnaire-for-adobe-workfront-core-developer-expert/ad-q-e904-readiness-questionnaire-for-adobe-workfront-core-developer-expert){target="_blank"}
+
+<br>
+
+## How to get certified {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++Step 1: Create your account
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Step 2: Prepare for your exam
+
+**Study Materials**
+
+{{study-materials-intro}}
 
 **Section 1: Core System Administration and Setup**
 
@@ -201,23 +225,27 @@ Here are some suggested resources to help you prepare:
 * ["Can Start" overview for tasks](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/task-information/can-start-task-overview.html){target="_blank"}
 * [Best Practice – Onboarding and adoption](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/onboarding-adoption-bp.html){target="_blank"}
 
->[!TAB Get certified]
++++ 
 
->[!IMPORTANT]
->
->The following sections and links will function **only** after a **successful login** to the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}. 
->
->In addition, your profile name in the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} must exactly match your Government ID. Failure to have identical information or any mismatch will result in the proctor terminating the exam and will require you to reschedule your appointment in addition to paying an additional exam fee.*
+<br>
 
-<!-- Test is coming later
++++Step 3: Schedule & pay for exam
 
-## Take a practice test
+{{schedule-and-pay}}
 
-{{practice-test}}
++++
 
--->
+<br>
 
-## About the certification exam
++++Step 4: Before and after the exam
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Step 5: Take the exam
 
 {{about-certification-exam}}
 
@@ -230,7 +258,23 @@ Here are some suggested resources to help you prepare:
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Step 6: Manage your badges
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Renewing your certification
+
+{{renewing-intro}}
+
+<br>
 
 ## Questions
 

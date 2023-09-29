@@ -10,9 +10,38 @@ exl-id: be24274b-7a61-47f5-9947-984015c07a96
 ---
 # Certification journey for Adobe [!DNL Campaign Standard] Developer Expert
 
-Learn how to become a certified Adobe [!DNL Campaign Standard] Developer Expert.
+{{intro}}
 
-## Minimum experience
+## Exam description {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Exam details {#exam-details}
+  
+* Level: Expert (1-3 years experience)
+* Passing Score: 29/50
+* Time: 100 mins
+* Delivery: Online proctored (requires camera access)
+* Available languages: English
+* Cost: $225 (global) / $150 (India)
+* Exam ID: AD0-E306
+
+<br>
+
+### Intended audience {#intended-audience}
+
+* Marketing automation administrator
+* Adobe Experience Cloud developer
+* Email marketing analyst
+* Application developer
+* Campaign developer
+* Martech developer
+
+<br>
+
+### Minimum experience {#minimum-experience}
 
 You should have:
 
@@ -34,40 +63,13 @@ You should have:
 * Experience with transactional messaging, and message delivery on multi-channels
 * Experience with managed packages
 
->[!NOTE]
->
->Your certification is valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
+<br>
 
->[!BEGINTABS]
+### Exam objectives and scope {#exam-objectives}
 
->[!TAB Get ready]
+{{exam-objectives}}
 
-**Intended audience:** 
-
-* Marketing automation administrator
-* Adobe Experience Cloud developer
-* Email marketing analyst
-* Application developer
-* Campaign developer
-* Martech developer
-
-**Exam details:**
-  
-* Level: Expert (1-3 years experience)
-* Passing Score: 29/50
-* Time: 100 mins
-* Delivery: Online proctored (requires camera access) or test center proctored
-* Available languages: English
-* Cost: $225 (global) / $150 (India)
-* Exam ID: AD0-E306
-
-**Readiness self-assessment**
-
-Complete the [online readiness questionnaire](https://scorpion.caveon.com/launchpad/ad-q-e306-readiness-questionnaire-for-adobe-campaign-standard-developer-expert-exam){target="_blank"} to see if your current experience matches the recommended minimum candidate qualification.
-
-**Exam objectives and scope**
-
-Section 1: Data modeling and management (26%)
+**Section 1: Data modeling and management (26%)**
 
 * Given a scenario, transform a client requirement into a custom resource
 * Determine how to configure screen and filter definitions
@@ -76,7 +78,7 @@ Section 1: Data modeling and management (26%)
 * Troubleshoot data modeling issues
 * Determine the correct approach to build technical workflows
 
-Section 2: Campaign management (50%)
+**Section 2: Campaign management (50%)**
 
 * Troubleshoot workflow errors
 * Determine the correct approach to build campaigns
@@ -89,7 +91,7 @@ Section 2: Campaign management (50%)
 * Determine the correct approach to build emails using creative designer
 * Determine the correct approach to create custom reports
 
-Section 3: Administration (24%)
+**Section 3: Administration (24%)**
 
 * Determine the correct approach to create user security groups and organizational units
 * Determine the correct approach to manage and deploy packages
@@ -98,9 +100,33 @@ Section 3: Administration (24%)
 * Determine the correct approach to create brands
 * Determine the correct approach to develop channel configurations
 
->[!TAB Get prepped]
+<br>
 
-You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
+### Readiness questionnaire
+
+{{readiness}}
+
+[Take the online readiness questionnaire](https://scorpion.caveon.com/launchpad/ad-q-e306-readiness-questionnaire-for-adobe-campaign-standard-developer-expert-exam){target="_blank"}
+
+<br>
+
+## How to get certified {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++Step 1: Create your account
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Step 2: Prepare for your exam
+
+**Study Materials**
+
+{{study-materials-intro}}
 
 **Section 1: Data modeling and management**
 
@@ -145,19 +171,33 @@ You are not required to complete training before taking the exam, and training a
 * [About channel configuration](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/configuring-channels/about-channel-configuration.html){target="_blank"}
 * [Get started with communication channels](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/get-started-communication-channels.html){target="_blank"}
 
->[!TAB Get certified]
+<br>
 
->[!IMPORTANT]
->
->The following sections and links will function **only**  after a **successful login** to the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}. 
->
->In addition, your profile name in the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} must exactly match your Government ID. Failure to have identical information or any mismatch will result in the proctor terminating the exam and will require you to reschedule your appointment in addition to paying an additional exam fee.*
-
-## Take a practice test
+**Take a practice test**
 
 {{practice-test}}
 
-## About the certification exam
++++ 
+
+<br>
+
++++Step 3: Schedule & pay for exam
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Step 4: Before and after the exam
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Step 5: Take the exam
 
 {{about-certification-exam}}
 
@@ -170,7 +210,23 @@ You are not required to complete training before taking the exam, and training a
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Step 6: Manage your badges
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Renewing your certification
+
+{{renewing-intro}}
+
+<br>
 
 ## Questions
 

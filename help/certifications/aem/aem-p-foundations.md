@@ -10,7 +10,32 @@ exl-id: a1ea92d3-9b7b-4aeb-80f7-0c07e6d332c0
 ---
 # Certification journey for Adobe [!DNL Experience Manager] Technical Foundations Professional
 
-Learn how to become a certified Adobe [!DNL Experience Manager] Professional.
+{{intro}}
+
+## Exam description {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Exam details {#exam-details}
+
+* Level: Professional (0-12 months' experience)
+* Passing Score: 38/60
+* Time: 120 mins
+* Delivery: Online proctored (requires camera access)
+* Available languages: English
+* Cost: $125 (global) / $95 (India)
+* Exam ID: AD0-E132
+
+<br>
+
+### Intended audience {#intended-audience}
+
+* AEM Developers
+* Technical Leads
+
+<br>
 
 ## Minimum experience
 
@@ -33,32 +58,13 @@ You should be an application developer and have:
 * Different AEM hosting capabilities
 * Sync content/environments together
 
->[!NOTE]
->
->Your certification is valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
+<br>
 
->[!BEGINTABS]
+### Exam objectives and scope {#exam-objectives}
 
->[!TAB Get ready]
+{{exam-objectives}}
 
-**Intended audience:**
-
-* AEM Developers
-* Technical Leads
-
-**Exam details:**
-
-* Level: Professional (0-12 months' experience)
-* Passing Score: 38/60
-* Time: 120 mins
-* Delivery: Online proctored (requires camera access)
-* Available languages: English
-* Cost: $125 (global) / $95 (India)
-* Exam ID: AD0-E132
-
-**Exam objectives and scope**
-
-Section 1: Content creation (33%)
+**Section 1: Content creation (33%)**
 
 * Manage content pages
 * Replicate content
@@ -69,7 +75,7 @@ Section 1: Content creation (33%)
 * Apply procedural concepts to translate content
 * Use multi-sites and live copies
 
-Section 2: Implementation (42%)
+**Section 2: Implementation (42%)**
 
 * Apply procedural concepts to create components
 * Create editable templates
@@ -80,23 +86,37 @@ Section 2: Implementation (42%)
 * Extend core components
 * Structure content modeling
 
-Section 3: Setup and deployment (13%)
+**Section 3: Setup and deployment (13%)**
 
 * Install bundles
 * Deploy packages
 * Install AEM instances
 
-Section 4: Maintenance and user administration (12%)
+**Section 4: Maintenance and user administration (12%)**
 
 * Manage user access
 * Modify OSGI configurations
 * Create queries
 
->[!TAB Get prepped]
+<br>
 
-You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
+## How to get certified {#how-to-get-certified}
 
-Here are some suggested resources to help you prepare:
+{{how-to-get-certified-intro}}
+
++++Step 1: Create your account
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Step 2: Prepare for your exam
+
+**Study Materials**
+
+{{study-materials-intro}}
 
 **Section 1: Content creation**
 
@@ -125,16 +145,27 @@ Here are some suggested resources to help you prepare:
 * [User Administration and Security](https://experienceleague.adobe.com/docs/experience-manager-65/administering/security/security.html){target="_blank"}
 * [OSGi Configuration Settings](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/configuring/osgi-configuration-settings.html){target="_blank"}
 
->[!TAB Get certified]
++++ 
 
->[!IMPORTANT]
->
->The following sections and links will function **only**  after a **successful login** to the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}. 
->
->In addition, your profile name in the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} must exactly match your Government ID. Failure to have identical information or any mismatch will result in the proctor terminating the exam and will require you to reschedule your appointment in addition to paying an additional exam fee.*
+<br>
 
++++Step 3: Schedule & pay for exam
 
-## About the certification exam
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Step 4: Before and after the exam
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Step 5: Take the exam
 
 {{about-certification-exam}}
 
@@ -147,10 +178,28 @@ Here are some suggested resources to help you prepare:
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Step 6: Manage your badges
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Renewing your certification
+
+{{renewing-intro}}
+
+<br>
 
 ## Questions
 
 View the certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Additional questions? [Contact us](mailto:certif@adobe.com){target="_blank"}.
+
+

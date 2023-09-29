@@ -10,9 +10,35 @@ exl-id: 4b97177a-38aa-4082-95da-1e4c9962f3c8
 ---
 # Certification journey for Adobe [!DNL Experience Manager Sites] Developer Expert
 
-Learn how to become a certified Adobe [!DNL Experience Manager] Developer Expert.
+{{intro}}
 
-## Minimum experience
+## Exam description {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Exam details {#exam-details}
+
+* Level: Expert (1-3 years' experience)
+* Passing Score: 26/50
+* Time: 100 mins
+* Delivery: Online proctored (requires camera access)
+* Available languages: English
+* Cost: $225 (global) / $150 (India)
+* Exam ID: AD0-E134
+
+<br>
+
+### Intended audience {#intended-audience}
+
+* AEM Developers
+* AEM Senior Developers
+* AEM Lead Developers
+
+<br>
+
+### Minimum experience {#minimum-experience}
 
 You should have:
 
@@ -22,7 +48,7 @@ You should have:
 * The knowledge of frameworks and libraries in AEM
 * An understanding of the AEM development life cycle
 
-Additionally, you're familiar with the following technologies and environments:
+Additionally, you should be familiar with the following technologies and environments:
 
 * JVM
 * Lower/pre-production environments
@@ -33,37 +59,13 @@ Additionally, you're familiar with the following technologies and environments:
 * Development and packaging tools
 * Command line tools
 
->[!NOTE]
->
->Your certification is valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
+<br>
 
->[!BEGINTABS]
+### Exam objectives and scope {#exam-objectives}
 
->[!TAB Get ready]
+{{exam-objectives}}
 
-**Intended audience:** 
-
-* AEM Developers
-* AEM Senior Developers
-* AEM Lead Developers
-
-**Exam details:**
-  
-* Level: Expert (1-3 years' experience)
-* Passing Score: 26/50
-* Time: 100 mins
-* Delivery: Online proctored (requires camera access) or test center proctored
-* Available languages: English
-* Cost: $225 (global) / $150 (India)
-* Exam ID: AD0-E134
-
-**Readiness self-assessment**
-
-Complete the [online readiness questionnaire](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-9ts38u/ad-q-e116-readiness-questionnaire-for-adobe-aem-developer-expert-exam){target="_blank"} to see if your current experience matches the recommended minimum candidate qualification.
-
-**Exam objectives and scope**
-
-Section 1: Configurations (22%)
+**Section 1: Configurations (22%)**
 
 * Identify the steps to create and manage AEM dispatcher configurations
 * Determine the correct steps to configure multi-tenancy
@@ -71,7 +73,7 @@ Section 1: Configurations (22%)
 * Given a scenario, determine the correct method to Create and manage custom OAK indices
 * Determine the correct steps to configure OOTB SAML and LDAP integration
 
-Section 2: AEM development (44%)
+**Section 2: AEM development (44%)**
 
 * Determine the correct steps to implement SPA structure, templates, and components
 * Given a design, create custom components including the HTL, models, and services
@@ -80,23 +82,45 @@ Section 2: AEM development (44%)
 * Given a scenario, determine the approach for any third-party integration
 * Determine the approach to implement a headless or hybrid implementation
 
-Section 3: Build and deployment (14%)
+**Section 3: Build and deployment (14%)**
 
 * Identify the steps to set-up and maintain front-end and back-end dependency management
 * Determine the correct archetype when building projects
 
-Section 4: Environment maintenance (22%)
+**Section 4: Environment maintenance (22%)**
 
 * Given a scenario, determine the steps required to manage AEM environments
 * Explain the setup steps around release management
 * Recommend and implement solutions to sync content/configurations across AEM environments
 * Determine the steps required around planning and implementing AEM upgrades and repository migration activities/tasks
 
->[!TAB Get prepped]
+<br>
 
-You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
+### Readiness questionnaire
 
-Here are some suggested resources to help you prepare:
+{{readiness}}
+
+[Take the online readiness questionnaire](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-9ts38u/ad-q-e116-readiness-questionnaire-for-adobe-aem-developer-expert-exam){target="_blank"}
+
+<br>
+
+## How to get certified {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++Step 1: Create your account
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Step 2: Prepare for your exam
+
+**Study Materials**
+
+{{study-materials-intro}}
 
 **Section 1: Configuration**
 
@@ -131,19 +155,27 @@ Here are some suggested resources to help you prepare:
 * [AEM 6.5 Administering User Guide](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html){target="_blank"}
 * [AEM 6.5 Deploying User Guide](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html){target="_blank"}
 
->[!TAB Get certified]
++++ 
 
->[!IMPORTANT]
->
->The following sections and links will function **only**  after a **successful login** to the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}. 
->
->In addition, your profile name in the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} must exactly match your Government ID. Failure to have identical information or any mismatch will result in the proctor terminating the exam and will require you to reschedule your appointment in addition to paying an additional exam fee.*
+<br>
 
-## Take a practice test
++++Step 3: Schedule & pay for exam
 
-{{practice-test}}
+{{schedule-and-pay}}
 
-## About the certification exam
++++
+
+<br>
+
++++Step 4: Before and after the exam
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Step 5: Take the exam
 
 {{about-certification-exam}}
 
@@ -156,7 +188,23 @@ Here are some suggested resources to help you prepare:
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Step 6: Manage your badges
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Renewing your certification
+
+{{renewing-intro}}
+
+<br>
 
 ## Questions
 

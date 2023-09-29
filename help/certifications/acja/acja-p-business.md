@@ -9,21 +9,27 @@ mini-toc-levels: 1
 ---
 # Certification journey for Adobe [!DNL Customer Journey Analytics] Business Practitioner Professional
 
-Learn how to become a certified Adobe [!DNL Customer Journey Analytics] Business Practitioner Professional.
+{{intro}}
 
-## Minimum experience
+## Exam description {#exam-description}
 
-The ideal minimally qualified candidate is an analyst with at least 6 months of experience in Adobe [!DNL Customer Journey Analytics] and a foundational understanding of how it works in conjunction with [!DNL Adobe Experience Platform]. The candidate is able to use the appropriate reporting and visualization options to perform basic and advanced analysis for a given business need.
+{{exam-description}}
 
->[!NOTE]
->
->Your certification is valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
+<br>
 
->[!BEGINTABS]
+### Exam details {#exam-details}
 
->[!TAB Get ready]
+* Level: Professional (0-12 months' experience)
+* Passing Score: 36/50
+* Time: 100 mins
+* Delivery: Online proctored (requires camera access)
+* Available languages: English
+* Cost: $125 (global) / $95 (India)
+* Exam ID: AD0-E608
 
-**Intended audience:**
+<br>
+
+### Intended audience {#intended-audience}
 
 * Business analysts
 * Business consultants
@@ -34,47 +40,61 @@ The ideal minimally qualified candidate is an analyst with at least 6 months of 
 * Product owners and managers
 * Conversion/optimization specialists
 
-**Exam details:**
+<br>
 
-* Level: Professional (0-12 months' experience)
-* Passing Score: 36/50
-* Time: 100 mins
-* Delivery: Online proctored (requires camera access)
-* Available languages: English
-* Cost: $125 (global) / $95 (India)
-* Exam ID: AD0-E608
+### Minimum experience {#minimum-experience}
 
-**Exam objectives and scope**
+The ideal minimally qualified candidate is an analyst with at least 6 months of experience in Adobe [!DNL Customer Journey Analytics] and a foundational understanding of how it works in conjunction with [!DNL Adobe Experience Platform]. The candidate is able to use the appropriate reporting and visualization options to perform basic and advanced analysis for a given business need.
 
-Section 1: Components (30%)
+<br>
+
+### Exam objectives and scope {#exam-objectives}
+
+{{exam-objectives}}
+
+**Section 1: Components (30%)**
 
 * Translate business questions into relevant components
 * Create a subset of data using appropriate components and filters
 * Build non-admin components to address business questions
 
-Section 2: Reporting (32%)
+**Section 2: Reporting (32%)**
 
 * Determine appropriate visualizations or tables to address business questions
 * Determine which data view to use based on data sources, identities, and date ranges
 * Determine how to use and apply date ranges
 
-Section 3: Distribution (12%)
+**Section 3: Distribution (12%)**
 
 * Schedule and share reports with key stakeholders
 * Curate fields available in a particular report or dashboard
 * Organize projects in a logical manner
 
-Section 4: Data Analysis (26%)
+**Section 4: Data Analysis (26%)**
 
 * Perform exploratory analysis and interpret results to provide insights
 * Evaluate audiences to share with other AEP tools
 * Choose correct components for analysis
 
->[!TAB Get prepped]
+<br>
 
-You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
+## How to get certified {#how-to-get-certified}
 
-Here are some suggested resources to help you prepare:
+{{how-to-get-certified-intro}}
+
++++Step 1: Create your account
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Step 2: Prepare for your exam
+
+**Study Materials**
+
+{{study-materials-intro}}
 
 **Section 1: Components**
 
@@ -102,20 +122,33 @@ Here are some suggested resources to help you prepare:
 * [Venn](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/venn.html){target="_blank"}
 * [Filter operators](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-components/cja-filters/operators.html){target="_blank"}
 
->[!TAB Get certified]
+<br>
 
->[!IMPORTANT]
->
->The following sections and links will function **only** after a **successful login** to the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}. 
->
->In addition, your profile name in the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} must exactly match your Government ID. Failure to have identical information or any mismatch will result in the proctor terminating the exam and will require you to reschedule your appointment in addition to paying an additional exam fee.*
-
-
-## Take a practice test
+**Take a practice test**
 
 {{practice-test}}
 
-## About the certification exam
++++ 
+
+<br>
+
++++Step 3: Schedule & pay for exam
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Step 4: Before and after the exam
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Step 5: Take the exam
 
 {{about-certification-exam}}
 
@@ -128,7 +161,23 @@ Here are some suggested resources to help you prepare:
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Step 6: Manage your badges
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Renewing your certification
+
+{{renewing-intro}}
+
+<br>
 
 ## Questions
 

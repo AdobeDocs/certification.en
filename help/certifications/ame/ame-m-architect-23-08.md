@@ -10,13 +10,52 @@ mini-toc-levels: 1
 
 # Certification journey for Adobe [!DNL Marketo Engage] Architect Master
 
-Learn how to become a certified Adobe [!DNL Marketo Engage] Architect Master.
+{{intro}}
 
 >[!NOTE]
 >
 >This is the newest [!DNL Adobe Marketo Engage] Architect Master exam. If you have already started studying or have scheduled the [older version](ame-m-architect.md), you must complete the exam by October 31, 2023. 
 
-## Minimum experience
+## Exam description {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Exam details {#exam-details}
+
+* Pre requisite: Current (not expired) Adobe [!DNL Marketo Engage] Business Practitioner Expert Certification
+* Level: Master (3-5 years' experience)
+* Practitioner certification
+* Passing Score: 30/50
+* Time: 100 mins
+* Delivery: Online proctored (requires camera access)
+* Available languages: English
+* Cost: $225 (global) / $150 (India)
+* Exam ID: AD0-E560
+
+<br>
+
+### Intended audience {#intended-audience}
+
+* Marketing technology manager
+* Senior/Marketing operations manager
+* Marketing operations director
+* Senior Director/Manager for revenue operations
+* Marketing operations/technology/automation consultants
+* Marketing technologist
+* Campaign manager
+* Marketing automation manager
+* Digital marketing
+* Demand generation manager
+* Solutions architect
+* Business systems analyst
+* CRM manager
+* CRM/Lifecycle marketing manager
+
+<br>
+
+### Minimum experience {#minimum-experience}
 
 You should have:
 
@@ -34,48 +73,11 @@ Additionally, you should be familiar with the following tools and technologies:
 * CRM platform
 * Marketing technology platforms
 
->[!NOTE]
->
->Your certification is valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
+<br>
 
->[!BEGINTABS]
+### Exam objectives and scope {#exam-objectives}
 
->[!TAB Get ready]
-
-**Intended audience:**
-
-* Marketing technology manager
-* Senior/Marketing operations manager
-* Marketing operations director
-* Senior Director/Manager for revenue operations
-* Marketing operations/technology/automation consultants
-* Marketing technologist
-* Campaign manager
-* Marketing automation manager
-* Digital marketing
-* Demand generation manager
-* Solutions architect
-* Business systems analyst
-* CRM manager
-* CRM/Lifecycle marketing manager
-
-**Exam details:**
-
-* Pre requisite: Current (not expired) Adobe [!DNL Marketo Engage] Business Practitioner Expert Certification
-* Level: Master (3-5 years' experience)
-* Practitioner certification
-* Passing Score: 30/50
-* Time: 100 mins
-* Delivery: Online proctored (requires camera access) or test center proctored
-* Available languages: English
-* Cost: $225 (global) / $150 (India)
-* Exam ID: AD0-E560
-
-**Readiness self assessment**
-
-Complete the [online readiness questionnaire](https://scorpion.caveon.com/launchpad/ad-q-e556-readiness-questionnaire-for-adobe-marketo-engage-architect-master-exam/ad-q-e556-readiness-questionnaire-for-adobe-marketo-engage-architect-master-exam){target="_blank"} to see if your current experience matches the recommended minimum candidate qualification.
-
-**Exam objectives and scope**
+{{exam-objectives}}
 
 **Section 1: Project Leadership (16%)**
 
@@ -115,17 +117,33 @@ Complete the [online readiness questionnaire](https://scorpion.caveon.com/launch
 * Gather information about a client's implementation and recommend security practices
 * Explain the applicability of workspace and partitions for a given scenario
 
->[!TAB Get prepped]
+<br>
 
-You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
+### Readiness questionnaire
 
-Here are some suggested resources to help you prepare:
+{{readiness}}
 
-**Sample questions**
+[Take the online readiness questionnaire](https://scorpion.caveon.com/launchpad/ad-q-e556-readiness-questionnaire-for-adobe-marketo-engage-architect-master-exam/ad-q-e556-readiness-questionnaire-for-adobe-marketo-engage-architect-master-exam){target="_blank"}
 
-The sample questions allow you to see the type and format of items that you will encounter in the actual exam. There is no sign-on needed. The results of the sample questions are not stored, and do not predict your actual test results.
+<br>
 
-[See sample questions](https://scorpion.caveon.com/launchpad/ad0-e556-adobe-marketo-engage-architect-master-exam-copy-pewwl4){target="_blank"}
+## How to get certified {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++Step 1: Create your account
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Step 2: Prepare for your exam
+
+**Study Materials**
+
+{{study-materials-intro}}
 
 **Section 1: Project Leadership**
 
@@ -151,15 +169,36 @@ The sample questions allow you to see the type and format of items that you will
 * [Suppressing Soft Bounces](https://nation.marketo.com/t5/product-discussions/suppressing-soft-bounces-any-email-min-3x-encouraged/m-p/209411#M153533){target="_blank"}
 * [Understanding Workspaces and Person Partitions](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.html){target="_blank"}
 
->[!TAB Get certified]
 
->[!IMPORTANT]
->
->The following sections and links will function **only** after a **successful login** to the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}. 
->
->In addition, your profile name in the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} must exactly match your Government ID. Failure to have identical information or any mismatch will result in the proctor terminating the exam and will require you to reschedule your appointment in addition to paying an additional exam fee.
+<br>
 
-## About the certification exam
+**Sample questions**
+
+{{sample-questions}}
+
+[View sample questions](https://scorpion.caveon.com/launchpad/ad0-e556-adobe-marketo-engage-architect-master-exam-copy-pewwl4){target="_blank"}
+
++++ 
+
+<br>
+
++++Step 3: Schedule & pay for exam
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Step 4: Before and after the exam
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Step 5: Take the exam
 
 {{about-certification-exam}}
 
@@ -172,7 +211,23 @@ The sample questions allow you to see the type and format of items that you will
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Step 6: Manage your badges
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Renewing your certification
+
+{{renewing-intro}}
+
+<br>
 
 ## Questions
 

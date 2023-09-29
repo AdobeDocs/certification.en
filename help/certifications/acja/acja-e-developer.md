@@ -1,6 +1,6 @@
 ---
 title: Expert certification
-description: Learn how to become a certified Expert Adobe in [!DNL Customer Journey Analytics]
+description: Learn how to become a certified Expert in Adobe [!DNL Customer Journey Analytics]
 role: User
 solution: Customer Journey Analytics
 product: Customer Journey Analytics
@@ -10,9 +10,40 @@ exl-id: 9ffe9fc9-5427-4297-9d8d-14ce62e239e4
 ---
 # Certification journey for Adobe [!DNL Customer Journey Analytics] Expert
 
-Learn how to become a certified Adobe [!DNL Customer Journey Analytics] Developer Expert.
+{{intro}}
 
-## Minimum experience
+## Exam description {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Exam details {#exam-details}
+  
+* Level: Expert (1-3 years' experience)
+* Passing Score: 33/50
+* Time: 100 mins
+* Delivery: Online proctored (requires camera access)
+* Available languages: English
+* Cost: $225 (global) / $150 (India)
+* Exam ID: AD0-E604
+
+<br>
+
+### Intended audience {#intended-audience}
+
+* Technical Architect 
+* Technical Manager
+* Data Analyst
+* Data Architect/Engineer
+* Solution Architect
+* Enterprise Architect
+* Implementation Expert
+* Marketing Technology Lead
+
+<br>
+
+### Minimum experience {#minimum-experience}
 
 You should have 12-24 months experience in Adobe [!DNL Customer Journey Analytics], and be able to perform the following tasks: 
 
@@ -33,65 +64,54 @@ You should have 12-24 months experience in Adobe [!DNL Customer Journey Analytic
 * Distinguish/understand sandboxes in AEP
 * Understand audience publishing (sharing)
 
->[!NOTE]
->
->Your certification is valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
+<br>
 
->[!BEGINTABS]
+### Exam objectives and scope {#exam-objectives}
 
->[!TAB Get ready]
+{{exam-objectives}}
 
-**Intended audience:** 
-
-* Technical Architect 
-* Technical Manager
-* Data Analyst
-* Data Architect/Engineer
-* Solution Architect
-* Enterprise Architect
-* Implementation Expert
-* Marketing Technology Lead
-
-**Exam details:**
-  
-* Level: Expert (1-3 years' experience)
-* Passing Score: 33/50
-* Time: 100 mins
-* Delivery: Online proctored (requires camera access) or test center proctored
-* Available languages: English
-* Cost: $225 (global) / $150 (India)
-* Exam ID: AD0-E604
-
-**Exam objectives and scope**
-
-Section 1: Connections (22%)
+**Section 1: Connections (22%)**
 
 * Design CJA connections with appropriate settings 
 * Create CJA connections from XDM data sets available in AEP by sandbox 
 
-Section 2: Data Views (30%) 
+**Section 2: Data Views (30%)**
 
 * Configure data views for reporting and analysis 
 * Modify components within data views 
 
-Section 3: Data Validation and Troubleshooting (34%) 
+**Section 3: Data Validation and Troubleshooting (34%)**
 
 * Validate that data is populating accurately and completely 
 * Troubleshoot connections and data views 
 * Build or troubleshoot components 
 * Monitor usage to licensure 
 
-Section 4: Reporting and Activation (14%) 
+**Section 4: Reporting and Activation (14%)**
 
 * Use Analysis Workspace to demonstrate cross-channel customer journeys with appropriate visualizations 
 * Send the members of a CJA Filter to an RTCDP Audience 
 * Design and create filters across datasets
 
->[!TAB Get prepped]
+<br>
 
-You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
+## How to get certified {#how-to-get-certified}
 
-Here are some suggested resources to help you prepare:
+{{how-to-get-certified-intro}}
+
++++Step 1: Create your account
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Step 2: Prepare for your exam
+
+**Study Materials**
+
+{{study-materials-intro}}
 
 **Section 1: Connections**
 
@@ -116,19 +136,33 @@ Here are some suggested resources to help you prepare:
 * [Analysis Workspace overview](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/home.html){target="_blank"}
 * [Data views overview](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/data-views.html){target="_blank"}
 
->[!TAB Get certified]
+<br>
 
->[!IMPORTANT]
->
->The following sections and links will function **only**  after a **successful login** to the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}. 
->
->In addition, your profile name in the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} must exactly match your Government ID. Failure to have identical information or any mismatch will result in the proctor terminating the exam and will require you to reschedule your appointment in addition to paying an additional exam fee.*
-
-## Take a practice test
+**Take a practice test**
 
 {{practice-test}}
 
-## About the certification exam
++++ 
+
+<br>
+
++++Step 3: Schedule & pay for exam
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Step 4: Before and after the exam
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Step 5: Take the exam
 
 {{about-certification-exam}}
 
@@ -141,7 +175,23 @@ Here are some suggested resources to help you prepare:
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Step 6: Manage your badges
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Renewing your certification
+
+{{renewing-intro}}
+
+<br>
 
 ## Questions
 

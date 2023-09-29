@@ -11,9 +11,39 @@ exl-id: 1f44f543-4303-43b8-a42e-431f504d7a03
 ---
 # Certification journey for [!DNL Adobe Commerce] Business Practitioner Expert
 
-Learn how to become a certified [!DNL Adobe Commerce] Business Practitioner Expert.
+{{intro}}
 
-## Minimum experience
+## Exam description {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Exam details {#exam-details}
+  
+* Level: Expert (1-3 years' experience)
+* Passing Score: 31/50
+* Time: 100 mins
+* Delivery: Online proctored (requires camera access)
+* Available languages: English
+* Cost: $225 (global) / $150 (India)
+* Exam ID: AD0-E708
+
+<br>
+
+### Intended audience {#intended-audience}
+
+* Business Analyst
+* Commerce Strategist
+* Consultant
+* Technical Project Manager/Technical Account Manager
+* Application Architect/Solution Architect/Specialist
+* Agency Admin/Director/Manager/Consultant
+* Digital Marketing Director/Manager/Developer
+
+<br>
+
+### Minimum experience {#minimum-experience}
 
 You should have approximately 1-3 years of hands-on [!DNL Commerce] experience and a broad understanding of the e-commerce experience. 
 
@@ -27,48 +57,20 @@ You should have experience in:
 * Basic understanding of customizable applications, cloud, and server infrastructure
 * Modern e-commerce terminology
 
-And, you should be comfortable using the following technologies:
+Additionally, you should be comfortable using the following technologies:
 
 * Adobe [!DNL Commerce] - version 2.4
 * Analytics and performance tools: Google Analytics, tag manager, SWAT, New Relic, Fastly, Google Lighthouse
 * Security tools: PCI compliance, ADA, GDPR, and so on
 * Cloud or on-premise architecture
 
->[!NOTE]
->
->Your certification is valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
+<br>
 
->[!BEGINTABS]
+### Exam objectives and scope {#exam-objectives}
 
->[!TAB Get ready]
+{{exam-objectives}}
 
-**Intended audience:** 
-
-* Business Analyst
-* Commerce Strategist
-* Consultant
-* Technical Project Manager/Technical Account Manager
-* Application Architect/Solution Architect/Specialist
-* Agency Admin/Director/Manager/Consultant
-* Digital Marketing Director/Manager/Developer
-
-**Exam details:**
-  
-* Level: Expert (1-3 years' experience)
-* Passing Score: 31/50
-* Time: 100 mins
-* Delivery: Online proctored (requires camera access) or test center proctored
-* Available languages: English
-* Cost: $225 (global) / $150 (India)
-* Exam ID: AD0-E708
-
-**Readiness self-assessment**
-
-Complete the [online readiness questionnaire](https://scorpion.caveon.com/launchpad/ad-q-e708-readiness-questionnaire-for-adobe-commerce-business-practitioner-expert-exam/ad-q-e708-readiness-questionnaire-for-adobe-commerce-business-practitioner-expert-exam){target="_blank"} to see if your current experience matches the recommended minimum candidate qualification.
-
-**Exam objectives and scope**
-
-Section 1: Core Features/General Configuration (46%)
+**Section 1: Core Features/General Configuration (46%)**
 
 * Identify the features of Adobe [!DNL Commerce] Open Source Edition and [!DNL Commerce] Edition
 * Distinguish the differences between all editions of Adobe [!DNL Commerce] products
@@ -84,18 +86,18 @@ Section 1: Core Features/General Configuration (46%)
 * Configuring and modifying transactional emails
 * Explain the customer self service and loyalty program native features in B2B
 
-Section 2: Merchandising (10%)
+**Section 2: Merchandising (10%)**
 
 * Demonstrate the ability to create promotions to meet specific business criteria and how it determines final pricing
 * Demonstrate ability to manage categories and products
 * Understand the different pricing configurations and how they affect the final price
 
-Section 3: Digital Marketing (4%)
+**Section 3: Digital Marketing (4%)**
 
 * Recommend best practices for SEO using native features
 * Assess common metrics in Google Analytics and BI
 
-Section 4: Add-on Modules and Additional Products (18%)
+**Section 4: Add-on Modules and Additional Products (18%)**
 
 * Describe the B2B functionality and how it relates to common B2B scenarios
 * Apply business requirements to suggest a solution using MSI
@@ -105,25 +107,47 @@ Section 4: Add-on Modules and Additional Products (18%)
 * Understand how to apply tailored pricing to a B2B customer
 * Understand the differences between Adobe [!DNL Commerce] native product and Adobe Sensei product recommendations
 
-Section 5: Systems Architecture (10%)
+**Section 5: Systems Architecture (10%)**
 
 * Evaluate requirements to determine which websites, stores, and store view are necessary
 * Identify and analyze performance metrics to make improvements
 * Understand the available methods to integrate external system with Adobe [!DNL Commerce]
 * Differentiate between headless approaches and traditional
 
-Section 6: Compliance/Security (12%)
+**Section 6: Compliance/Security (12%)**
 
 * Demonstrate how to secure the Adobe [!DNL Commerce] data access with roles and permissions
 * Understand basics of compliance for privacy laws and payment security
 * Explain common security aspects of an Adobe [!DNL Commerce] project
 * Understand the basics of tax laws and how to configure
 
->[!TAB Get prepped]
+<br>
 
-You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
+### Readiness questionnaire
 
-Here are some suggested resources to help you prepare:
+{{readiness}}
+
+[Take the online readiness questionnaire](https://scorpion.caveon.com/launchpad/ad-q-e708-readiness-questionnaire-for-adobe-commerce-business-practitioner-expert-exam/ad-q-e708-readiness-questionnaire-for-adobe-commerce-business-practitioner-expert-exam){target="_blank"}
+
+<br>
+
+## How to get certified {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++Step 1: Create your account
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Step 2: Prepare for your exam
+
+**Study Materials**
+
+{{study-materials-intro}}
 
 **Section 1: Core features/general configuration**
 
@@ -203,19 +227,33 @@ Here are some suggested resources to help you prepare:
 * [Security](https://devdocs.magento.com/guides/v2.4/architecture/security_intro.html){target="_blank"}
 * [Tax guidelines by country](https://docs.magento.com/user-guide/tax/international-tax-guidelines.html){target="_blank"}
 
->[!TAB Get certified]
+<br>
 
->[!IMPORTANT]
->
->The following sections and links will function **only**  after a **successful login** to the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}. 
->
->In addition, your profile name in the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} must exactly match your Government ID. Failure to have identical information or any mismatch will result in the proctor terminating the exam and will require you to reschedule your appointment in addition to paying an additional exam fee.*
-
-## Take a practice test
+**Take a practice test**
 
 {{practice-test}}
 
-## About the certification exam
++++ 
+
+<br>
+
++++Step 3: Schedule & pay for exam
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Step 4: Before and after the exam
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Step 5: Take the exam
 
 {{about-certification-exam}}
 
@@ -228,7 +266,23 @@ Here are some suggested resources to help you prepare:
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Step 6: Manage your badges
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Renewing your certification
+
+{{renewing-intro}}
+
+<br>
 
 ## Questions
 

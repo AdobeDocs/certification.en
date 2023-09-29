@@ -10,9 +10,36 @@ exl-id: 6b7fa868-69f3-49b4-934e-87cf86538039
 ---
 # Certification journey for Adobe [!DNL Experience Manager Forms] Developer Expert
 
-Learn how to become a certified Adobe [!DNL Experience Manager Forms] Developer Expert.
+{{intro}}
 
-## Minimum experience
+## Exam description {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Exam details {#exam-details}
+
+* Level: Expert (1-3 years' experience)
+* Passing Score: 27/50
+* Time: 100 mins
+* Delivery: Online proctored (requires camera access)
+* Available languages: English
+* Cost: $225 (global) / $150 (India)
+* Exam ID: AD0-E125
+
+<br>
+
+### Intended audience {#intended-audience}
+
+* AEM Developers
+* Senior AEM Developers
+* AEM Consultants
+* AEM Architects
+
+<br>
+
+### Minimum experience {#minimum-experience}
 
 You should have:
 
@@ -48,45 +75,20 @@ Additionally, you should be familiar with the following technologies and environ
 * Maven
 * GIT/Versioning tools
 
->[!NOTE]
->
->Your certification is valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
+<br>
 
->[!BEGINTABS]
+### Exam objectives and scope {#exam-objectives}
 
->[!TAB Get ready]
+{{exam-objectives}}
 
-**Intended audience:** 
-
-* AEM Developers
-* Senior AEM Developers
-* AEM Consultants
-* AEM Architects
-
-**Exam details:**
-  
-* Level: Expert (1-3 years' experience)
-* Passing Score: 27/50
-* Time: 100 mins
-* Delivery: Online proctored (requires camera access) or test center proctored
-* Available languages: English
-* Cost: $225 (global) / $150 (India)
-* Exam ID: AD0-E125
-
-**Readiness self-assessment**
-
-Complete the [online readiness questionnaire](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-x38d6m/ad-q-e125-readiness-questionnaire-for-adobe-aem-forms-developer-expert-exam){target="_blank"} to see if your current experience matches the recommended minimum candidate qualification.
-
-**Exam objectives and scope**
-
-Section 1: Forms creation and management (36%)
+**Section 1: Forms creation and management (36%)**
 
 * Build Forms
 * Configure Forms Data Model
 * Customize AEM Forms
 * Develop and use Javascript ClientLib leveraging GuideBridge API
 
-Section 2: Processes and workflows (34%)
+**Section 2: Processes and workflows (34%)**
 
 * Design and orchestrate a Form approval workflow
 * Develop an OSGi bundle using Document Services API
@@ -95,7 +97,7 @@ Section 2: Processes and workflows (34%)
 * Manipulate PDF using Forms or Assembler services
 * Implement JDBC services
 
-Section 3: Administration and troubleshooting (18%)
+**Section 3: Administration and troubleshooting (18%)**
 
 * Troubleshoot and differentiate log files
 * Perform administration activities
@@ -103,20 +105,42 @@ Section 3: Administration and troubleshooting (18%)
 * Perform AEM Dispatcher setup for Forms
 * Navigate different consoles
 
-Section 4: API endpoints and integrations (8%)
+**Section 4: API endpoints and integrations (8%)**
 
 * Integrate with Adobe Experience Cloud
 * Generate and consume various endpoint services
 
-Section 5: Interactive Communication (4%)
+**Section 5: Interactive Communication (4%)**
 
 * Design, demonstrate, and implement processes for the Interactive Communication
 
->[!TAB Get prepped]
+<br>
 
-You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
+### Readiness questionnaire
 
-Here are some suggested resources to help you prepare:
+{{readiness}}
+
+[Take the online readiness questionnaire](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-x38d6m/ad-q-e125-readiness-questionnaire-for-adobe-aem-forms-developer-expert-exam){target="_blank"}
+
+<br>
+
+## How to get certified {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++Step 1: Create your account
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Step 2: Prepare for your exam
+
+**Study Materials**
+
+{{study-materials-intro}}
 
 **Section 1: Forms creation and management**
 
@@ -147,17 +171,33 @@ Here are some suggested resources to help you prepare:
 * [Interaction Communications Overview](https://experienceleague.adobe.com/docs/experience-manager-64/forms/getting-started/interactive-communications-overview.html){target="_blank"}
 * [Conditions in Interactive Communications](https://experienceleague.adobe.com/docs/experience-manager-65/forms/interactive-communications/conditions-interactive-communications.html){target="_blank"}
 
->[!TAB Get certified]
+<br>
 
->[!IMPORTANT]
->
->The following sections and links will function **only** after a **successful login** to the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}. 
-
-## Take a practice test
+**Take a practice test**
 
 {{practice-test}}
 
-## About the certification exam
++++ 
+
+<br>
+
++++Step 3: Schedule & pay for exam
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Step 4: Before and after the exam
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Step 5: Take the exam
 
 {{about-certification-exam}}
 
@@ -170,7 +210,23 @@ Here are some suggested resources to help you prepare:
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Step 6: Manage your badges
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Renewing your certification
+
+{{renewing-intro}}
+
+<br>
 
 ## Questions
 

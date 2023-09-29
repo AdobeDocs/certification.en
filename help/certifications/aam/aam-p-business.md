@@ -11,27 +11,15 @@ exl-id: 3665137b-8057-4205-ba4e-5deecf2672d6
 ---
 # Certification journey for Adobe [!DNL Audience Manager] Business Practitioner Professional
 
-Learn how to become certified as an [!DNL Audience Manager] Business Practitioner Professional.
+{{intro}}
 
-## Minimum experience
+## Exam description {#exam-description}
 
-You should have a basic understanding of data flows, business objectives and KPIs, with some experience around data analytics and strategies
+{{exam-description}}
 
->[!BEGINTABS]
+<br>
 
->[!TAB Get ready]
-
-**Intended audience:**
-
-* Digital Marketing Specialist
-* Marketing Technology Consultant
-* Audience Strategist
-* Behavioral Consultant
-* Digital Marketing Analyst
-* Marketing Data Analyst
-* Data Platforms Manager
-
-**Exam details:**
+### Exam details {#exam-details}
 
 * Level: Professional (0-12 months' experience)
 * Passing Score: 31/50
@@ -41,9 +29,31 @@ You should have a basic understanding of data flows, business objectives and KPI
 * Cost: $125 (global) / $95 (India)
 * Exam ID: AD0-E458
 
-**Exam objectives and scope**
+<br>
 
-Section 1: Segment Creation and Syndication (32%)
+### Intended audience {#intended-audience}
+
+* Digital Marketing Specialist
+* Marketing Technology Consultant
+* Audience Strategist
+* Behavioral Consultant
+* Digital Marketing Analyst
+* Marketing Data Analyst
+* Data Platforms Manager
+
+<br>
+
+### Minimum experience {#minimum-experience}
+
+You should have a basic understanding of data flows, business objectives and KPIs, with some experience around data analytics and strategies
+
+<br>
+
+### Exam objectives and scope {#exam-objectives}
+
+{{exam-objectives}}
+
+**Section 1: Segment Creation and Syndication (32%)**
 
 * Identify ways to utilize first-, second-, and third-party data for targeting and analytical purposes
 * Describe the basic process for the activation of business or campaign goals
@@ -51,42 +61,50 @@ Section 1: Segment Creation and Syndication (32%)
 * Identify the different types of destinations
 * Identify the different types of sources
 
-Section 2: Trait Creation (16%)
+**Section 2: Trait Creation (16%)**
 
 * Given a scenario, identify signals, traits, segments, and audiences
 * Identify the uses of different types of traits
 
-Section 3: Reporting and Measurements (16%)
+**Section 3: Reporting and Measurements (16%)**
 
 * Given a scenario, generate reports to measure activation or campaign goals
 * Given a scenario, compare audiences on the basis of match rates
 
-Section 4: Troubleshooting (10%)
+**Section 4: Troubleshooting (10%)**
 
 * Given a scenario, troubleshoot inbound data from different sources and source types
 * Validate format for inbound data files
 
-Section 5: Taxonomy (12%)
+**Section 5: Taxonomy (12%)**
 
 * Determine the appropriate structure to create traits and segments that utilize a clear and consistent nomenclature
 * Determine the correct technique to maintain an organized platform using a clear folder structure
 
-Section 6: Profile Merge, ID Sync, and Audience Marketplace
+**Section 6: Profile Merge, ID Sync, and Audience Marketplace**
 
 * Organize user traits into a single unified profile to create household- or device-based audiences
 * Identify activation using Audience Marketplace
 
->[!TAB Get prepped]
+<br>
 
-You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
+## How to get certified {#how-to-get-certified}
 
-Here are some suggested resources to help you prepare:
+{{how-to-get-certified-intro}}
 
-**Sample questions**
++++Step 1: Create your account
 
-The sample questions allow you to see the type and format of items that you will encounter in the actual exam. There is no sign-on needed. The results of the sample questions are not stored, and do not predict your actual test results.
+{{create-your-account}}
 
-[See sample questions](https://scorpion.caveon.com/launchpad/ad0-e458-adobe-audience-manager-business-practitioner-professional-copy-dvaivw){target="_blank"}
++++
+
+<br>
+
++++Step 2: Prepare for your exam
+
+**Study Materials**
+
+{{study-materials-intro}}
 
 **Section 1: Segment creation and syndication**
 
@@ -136,15 +154,35 @@ The sample questions allow you to see the type and format of items that you will
 * [Activate audience segments on-demand to batch destinations via the ad-hoc activation API](https://experienceleague.adobe.com/docs/experience-platform/destinations/api/ad-hoc-activation-api.html){target="_blank"}
 * [Activate profiles and segments to a destination](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/activate-profiles-and-segments-to-a-destination.html){target="_blank"}
 
->[!TAB Get certified]
+<br>
 
->[!IMPORTANT]
->
->The following sections and links will function **only** after a **successful login** to the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}. 
+**Sample questions**
 
+{{sample-questions}}
 
+[View sample questions](https://scorpion.caveon.com/launchpad/ad0-e458-adobe-audience-manager-business-practitioner-professional-copy-dvaivw){target="_blank"}
 
-## About the certification exam
++++ 
+
+<br>
+
++++Step 3: Schedule & pay for exam
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Step 4: Before and after the exam
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Step 5: Take the exam
 
 {{about-certification-exam}}
 
@@ -157,10 +195,27 @@ The sample questions allow you to see the type and format of items that you will
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Step 6: Manage your badges
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Renewing your certification
+
+{{renewing-intro}}
+
+<br>
 
 ## Questions
 
 View the certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Additional questions? [Contact us](mailto:certif@adobe.com){target="_blank"}.
+

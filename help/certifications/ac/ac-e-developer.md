@@ -10,9 +10,37 @@ exl-id: 025be894-3f29-4370-ac41-19901df4fb00
 ---
 # Certification journey for [!DNL Adobe Commerce] Developer Expert
 
-Learn how to become a certified [!DNL Adobe Commerce] Developer Expert.
+{{intro}}
 
-## Minimum experience
+## Exam description {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Exam details {#exam-details}
+
+* Level: Expert (1-3 years' experience)
+* Passing Score: 41/69
+* Time: 138 mins
+* Delivery: Online proctored (requires camera access)
+* Available languages: English
+* Cost: $225 (global) / $150 (India)
+* Exam ID: AD0-E716
+
+<br>
+
+### Intended audience {#intended-audience}
+
+* Developers
+* Lead Developers
+* Backend Developer
+* Solution Architects
+* Technical Leaders
+
+<br>
+
+### Minimum experience {#minimum-experience}
 
 You should have at least 1-3 years of experience with Adobe [!DNL Commerce] development and you're familiar with the following technologies and environments:
 
@@ -27,39 +55,15 @@ You should have at least 1-3 years of experience with Adobe [!DNL Commerce] deve
 * Version control software such as Git
 * Cloud Architecture
 
->[!NOTE]
->
->Your certification is valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
+<br>
 
->[!BEGINTABS]
+### Exam objectives and scope {#exam-objectives}
 
->[!TAB Get ready]
-
-**Intended audience:** 
-
-* Developers
-* Lead Developers
-* Backend Developer
-* Solution Architects
-* Technical Leaders
-
-**Exam details:**
-
-* Level: Expert (1-3 years' experience)
-* Passing Score: 41/69
-* Time: 138 mins
-* Delivery: Online proctored (requires camera access)
-* Available languages: English
-* Cost: $225 (global) / $150 (India)
-* Exam ID: AD0-E716
-
-**Readiness self-assessment**
-
-Complete the [online readiness questionnaire](https://scorpion.caveon.com/launchpad/ad-q-e716-readiness-questionnaire-for-adobe-commerce-developer-expert/ad-q-e716-readiness-questionnaire-for-adobe-commerce-developer-expert){target="_blank"} to see if your current experience matches the recommended minimum candidate qualification.
+{{exam-objectives}}
 
 **Exam objectives and scope**
 
-Section 1: Adobe [!DNL Commerce] Architecture and Customization Techniques (36%)
+**Section 1: Adobe [!DNL Commerce] Architecture and Customization Techniques (36%)**
 
 * Demonstrate how to effectively use cache in Adobe [!DNL Commerce]
 * Build, use, and manipulate custom extension attributes
@@ -79,45 +83,45 @@ Section 1: Adobe [!DNL Commerce] Architecture and Customization Techniques (36%)
 * Demonstrate the ability to load and manipulate data
 * Demonstrate the ability to use App emulation
 
-Section 2: Working with Databases and EAV (10%)
+**Section 2: Working with Databases and EAV (10%)**
 
 * Manipulate EAV attributes and attribute sets programmatically
 * Demonstrate the ability to extend the database schema
 * Demonstrate the ability to import / export data from Adobe Commerce
 * Describe how to use patches and recurring set ups to modify the database
 
-Section 3: Developing with Admin (6%)
+**Section 3: Developing with Admin (6%)**
 
 * Demonstrate the ability to update and create grids and forms
 * Extend Grid actions
 * Demonstrate the ability to create modifier classes
 * Demonstrate the ability to restrict access to ACL
 
-Section 4: Customizing the Catalog (6%)
+**Section 4: Customizing the Catalog (6%)**
 
 * Apply changes to existing product types and create new ones
 * Modify and extend existing Catalog entities
 * Demonstrate the ability to manage Indexes and customize price output
 * Explain how multi-source inventory impacts stock (program level)
 
-Section 5: Customizing Sales Operations (6%)
+**Section 5: Customizing Sales Operations (6%)**
 
 * Demonstrate the ability to develop new payment methods or customize existing payment methods
 * Demonstrate the ability to add and customize shipping methods
 * Demonstrate the ability to customize sales operations
 * Explain how to customize totals
 
-Section 6: APIs and Services (4%)
+**Section 6: APIs and Services (4%)**
 
 * Demonstrate the ability to create new APIs or extend existing APIs
 * Demonstrate the ability to use the queuing system
 
-Section 7: Adobe [!DNL Commerce] Cloud architecture (16%)
+**Section 7: Adobe [!DNL Commerce] Cloud architecture (16%)**
 
 * Demonstrate knowledge of Adobe [!DNL Commerce] architecture/environment workflow
 * Demonstrate a working knowledge of cloud project files, permission, and structure
 * Demonstrate the ability to setup multi domain based stores on Adobe [!DNL Commerce] Cloud (multi domain sites mix of dev work and support)
-* Demonstrate a general knowledge of application services and how to manage them (YAML , PHP, MariaDB, Redis, RabbitMQ, etc)
+* Demonstrate a general knowledge of application services and how to manage them (YAML, PHP, MariaDB, Redis, RabbitMQ, etc.)
 * Identify how to access different types of logs
 * Demonstrate the ability to deploy a project (Main steps of deployment)
 * Define features provided by ECE tools
@@ -126,7 +130,7 @@ Section 7: Adobe [!DNL Commerce] Cloud architecture (16%)
 * Distinguish when to contact support *Yaml files and limitations (DIY vs Support tickets)
 * Demonstrate basic knowledge of OOTB FASTLY features configuration and installation
 
-Section 8: Setup/configuring Adobe [!DNL Commerce] Cloud (10%)
+**Section 8: Setup/configuring Adobe [!DNL Commerce] Cloud (10%)**
 
 * Describe how to setup/configure Adobe [!DNL Commerce] Cloud
 * Apply Basic Cloud troubleshooting knowledge (Hierarchy of web UI and variables, configurations precedence)
@@ -136,18 +140,40 @@ Section 8: Setup/configuring Adobe [!DNL Commerce] Cloud (10%)
 * Demonstrate understanding of branching using UI
 * Identify Adobe commerce Cloud Plan capabilities
 
-Section 9: [!DNL Commerce] Cloud CLI tool (managing part) (6%)
+**Section 9: [!DNL Commerce] Cloud CLI tool (managing part) (6%)**
 
 * Demonstrate understanding of updating cloud variables using CLI
 * Demonstrate understanding of environment Management using CLI (CLI exclusive features :activate emails, rebase environments, snapshot, db dump, local environment setup)
 * Demonstrate understanding of branching using CLI
 * Demonstrate how to troubleshoot to cloud services? (My SQL, Redis, tunnel:info)
 
->[!TAB Get prepped]
+<br>
 
-You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
+### Readiness questionnaire
 
-Here are some suggested resources to help you prepare:
+{{readiness}}
+
+[Take the online readiness questionnaire](https://scorpion.caveon.com/launchpad/ad-q-e716-readiness-questionnaire-for-adobe-commerce-developer-expert/ad-q-e716-readiness-questionnaire-for-adobe-commerce-developer-expert){target="_blank"} 
+
+<br>
+
+## How to get certified {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++Step 1: Create your account
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Step 2: Prepare for your exam
+
+**Study Materials**
+
+{{study-materials-intro}}
 
 **Section 1: Adobe [!DNL Commerce] architecture and customization techniques**
 
@@ -249,7 +275,6 @@ Here are some suggested resources to help you prepare:
 * [[!DNL Commerce] on Cloud Infrastructure](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/overview.html){target="_blank"}
 * [ECE-Tools Package](https://devdocs.magento.com/cloud/reference/ece-tools-reference.html){target="_blank"}
 
-
 **Section 8: Setup/configuring Adobe [!DNL Commerce] Cloud**
 
 * [Manage user access](https://devdocs.magento.com/cloud/project/user-admin.html#cloud-user-webinterface){target="_blank"}
@@ -257,26 +282,38 @@ Here are some suggested resources to help you prepare:
 * [Cloud infrastructure project](https://devdocs.magento.com/cloud/setup/first-time-setup-import-prepare.html#add-authentication-keys){target="_blank"}
 * [Manage branches with the CLI](https://devdocs.magento.com/cloud/project/project-webint-branch.html){target="_blank"}
 
-
 **Section 9: [!DNL Commerce] Cloud CLI tool (managing part)**
 
 * [Snapshots and backup management](https://devdocs.magento.com/cloud/project/project-webint-snap.html){target="_blank"}
 * [Manage disk space](https://devdocs.magento.com/cloud/project/manage-disk-space.html){target="_blank"}
 
+<br>
 
->[!TAB Get certified]
-
->[!IMPORTANT]
->
->The following sections and links will function **only**  after a **successful login** to the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}. 
->
->In addition, your profile name in the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} must exactly match your Government ID. Failure to have identical information or any mismatch will result in the proctor terminating the exam and will require you to reschedule your appointment in addition to paying an additional exam fee.*
-
-## Take a practice test
+**Take a practice test**
 
 {{practice-test}}
 
-## About the certification exam
++++ 
+
+<br>
+
++++Step 3: Schedule & pay for exam
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Step 4: Before and after the exam
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Step 5: Take the exam
 
 {{about-certification-exam}}
 
@@ -289,7 +326,23 @@ Here are some suggested resources to help you prepare:
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Step 6: Manage your badges
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Renewing your certification
+
+{{renewing-intro}}
+
+<br>
 
 ## Questions
 

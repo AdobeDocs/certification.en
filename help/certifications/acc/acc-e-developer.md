@@ -10,9 +10,35 @@ exl-id: 0c827fe3-b56b-4130-8436-2d3698c2e30b
 ---
 # Certification journey for Adobe [!DNL Campaign Classic] Developer Expert
 
-Learn how to become a certified Adobe [!DNL Campaign Classic] Developer expert.
+{{intro}}
 
-## Minimum experience
+## Exam description {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Exam details {#exam-details}
+
+* Level: Expert (1-3 years' experience)
+* Passing Score: 34/50
+* Time: 100 mins
+* Delivery: Online proctored (requires camera access)
+* Available languages: English
+* Cost: $225 (global) / $150 (India)
+* Exam ID: AD0-E330
+
+<br>
+
+### Intended audience {#intended-audience}
+
+* Technical consultant
+* Marketing technology engineer
+* Adobe [!DNL Campaign Classic] developer
+
+<br>
+
+### Minimum experience {#minimum-experience}
 
 You should have:
 
@@ -24,37 +50,13 @@ You should have:
 * Ability to troubleshoot Campaign implementations
 * Basic understanding of server configurations related to Campaign
 
->[!NOTE]
->
->Your certification is valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
+<br>
 
->[!BEGINTABS]
+### Exam objectives and scope {#exam-objectives}
 
->[!TAB Get ready]
+{{exam-objectives}}
 
-**Intended audience:** 
-
-* Technical consultant
-* Marketing technology engineer
-* Adobe [!DNL Campaign Classic] developer
-
-**Exam details**
-  
-* Level: Expert (1-3 years' experience)
-* Passing Score: 34/50
-* Time: 100 mins
-* Delivery: Online proctored (requires camera access) or test center proctored
-* Available languages: English
-* Cost: $225 (global) / $150 (India)
-* Exam ID: AD0-E330
-
-**Readiness self-assessment**
-
-Complete the [online readiness questionnaire](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-21ocv4/ad-q-e312-readiness-questionnaire-adobe-campaign-classic-developer-expert-exam){target="_blank"} to see if your current experience matches the recommended minimum candidate qualification.
-
-**Exam objectives and scope**
-
-Section 1: System configuration (16%)
+**Section 1: System configuration (16%)**
 
 * Apply system-wide configuration settings and defaults
 * Given various parameters, select the appropriate Adobe Campaign feature to implement a use case
@@ -62,7 +64,7 @@ Section 1: System configuration (16%)
 * Implement custom configurations
 * Identify Campaign Control Panel configuration features
 
-Section 2: Customization (22%)
+**Section 2: Customization (22%)**
 
 * Given a set of requirements, apply best practices to design a data model
 * Describe the implementation of APIs in Campaign
@@ -72,14 +74,14 @@ Section 2: Customization (22%)
 * Given a scenario, understand how to use SQL scripts in Adobe [!DNL Campaign Classic]
 * Describe commonly used OOTB functions
 
-Section 3: Access management (8%)
+**Section 3: Access management (8%)**
 
 * Given a scenario, configure security settings for an operator
 * Describe how to configure access management settings based on the solution design document
 * Describe access management using the Campaign Control panel
 * Identify the limitations of data partitioning and when to use sysfilter
 
-Section 4: Data integration (16%)
+**Section 4: Data integration (16%)**
 
 * Given a scenario, select the best approach to integrate with external data sources
 * Implement best practices for workflow data processing
@@ -87,7 +89,7 @@ Section 4: Data integration (16%)
 * Identify security and network settings to integrate with Adobe Campaign from an external system
 * Set up the CRUD process on a schema from outside of Adobe Campaign
 
-Section 5: Instance maintenance (12%)
+**Section 5: Instance maintenance (12%)**
 
 * Understand and act on the Workflow heatmap
 * Demonstrate the process to create a custom workflow or report for instance monitoring
@@ -95,7 +97,7 @@ Section 5: Instance maintenance (12%)
 * Explain the impact of services and processes on the system
 * Demonstrate basic system audit metrics/checks
 
-Section 6: Campaign configuration (25%)
+**Section 6: Campaign configuration (25%)**
 
 * Apply advanced personalization techniques
 * Configure and apply custom target mappings
@@ -106,11 +108,33 @@ Section 6: Campaign configuration (25%)
 * Describe workflow practices that have a negative impact on performance
 * Given a use case, recommend complex targeting workflow design
 
->[!TAB Get prepped]
+<br>
 
-You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
+### Readiness questionnaire
 
-Here are some suggested resources to help you prepare:
+{{readiness}}
+
+[Take the online readiness questionnaire](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-21ocv4/ad-q-e312-readiness-questionnaire-adobe-campaign-classic-developer-expert-exam){target="_blank"}
+
+<br>
+
+## How to get certified {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++Step 1: Create your account
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Step 2: Prepare for your exam
+
+**Study Materials**
+
+{{study-materials-intro}}
 
 **Section 1: System configuration**
 
@@ -167,19 +191,27 @@ Here are some suggested resources to help you prepare:
 * [About templates](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/using-delivery-templates/about-templates.html){target="_blank"}
 * [Use a custom recipient table](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/use-a-custom-recipient-table/about-custom-recipient-table.html){target="_blank"}
 
->[!TAB Get certified]
++++ 
 
->[!IMPORTANT]
->
->The following sections and links will function **only**  after a **successful login** to the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}. 
->
->In addition, your profile name in the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} must exactly match your Government ID. Failure to have identical information or any mismatch will result in the proctor terminating the exam and will require you to reschedule your appointment in addition to paying an additional exam fee.*
+<br>
 
-## Take a practice test
++++Step 3: Schedule & pay for exam
 
-{{practice-test}}
+{{schedule-and-pay}}
 
-## About the certification exam
++++
+
+<br>
+
++++Step 4: Before and after the exam
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Step 5: Take the exam
 
 {{about-certification-exam}}
 
@@ -192,7 +224,23 @@ Here are some suggested resources to help you prepare:
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Step 6: Manage your badges
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Renewing your certification
+
+{{renewing-intro}}
+
+<br>
 
 ## Questions
 

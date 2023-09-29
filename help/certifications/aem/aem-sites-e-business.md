@@ -10,9 +10,40 @@ exl-id: 0b533269-0826-4921-a539-d281c74da63d
 ---
 # Certification journey for Adobe [!DNL Experience Manager Sites] Business Practitioner Expert
 
-Learn how to become a certified Adobe [!DNL Experience Manager] Business Practitioner Expert.
+{{intro}}
 
-## Minimum experience
+## Exam description {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Exam details {#exam-details}
+
+* Level: Expert (1-3 years' experience)
+* Passing Score: 32/50
+* Time: 100 mins
+* Delivery: Online proctored (requires camera access)
+* Available languages: English, Japanese
+* Cost: $225 (global) / $150 (India)
+* Exam ID: AD0-E121 (English), AD0-E121-J (Japanese)
+
+<br>
+
+### Intended audience {#intended-audience}
+
+* Solution consultant
+* Consumer experience professionals
+* Product owners of solution being designed and implemented
+* Business analysts
+* Solution architects
+* Individuals in partner organizations and freelancers who perform an analyst job role for AEM solutions
+* Marketing specialists who know the features and capabilities needed to engage developers to define a solution for business needs
+* Customers who use the product (i.e., Power Users)
+
+<br>
+
+### Minimum experience {#minimum-experience}
 
 You should have:
 
@@ -43,55 +74,26 @@ Additionally, you should be familiar with the following technologies and environ
 * General understanding of the Web
 * Responsive web design concepts
 
->[!NOTE]
->
->Your certification is valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
+<br>
 
->[!BEGINTABS]
+### Exam objectives and scope {#exam-objectives}
 
->[!TAB Get ready]
+{{exam-objectives}}
 
-**Intended audience:** 
-
-* Solution consultant
-* Consumer experience professionals
-* Product owners of solution being designed and implemented
-* Business analysts
-* Solution architects
-* Individuals in partner organizations and freelancers who perform an analyst job role for AEM solutions
-* Marketing specialists who know the features and capabilities needed to engage developers to define a solution for business needs
-* Customers who use the product (i.e., Power Users)
-
-**Exam details:**
-  
-Level: Expert (1-3 years' experience)
-Passing Score: 32/50
-Time: 100 mins
-Delivery: Online proctored (requires camera access) or test center proctored
-Available languages: English & Japanese
-Cost: $225 (global) / $150 (India)
-Exam ID: AD0-E121
-
-**Readiness self-assessment**
-
-Complete the [online readiness questionnaire](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-wdx3m2/ad-q-e121-readiness-questionnaire-for-adobe-aem-business-practitioner-expert-exam){target="_blank"} to see if your current experience matches the recommended minimum candidate qualification.
-
-**Exam objectives and scope**
-
-Section 1: Education (22%)
+**Section 1: Education (22%)**
 
 * List relevant AEM features and capabilities
 * Recommend how to leverage AEM features to meet business needs
 * Apply procedural concepts necessary to conduct training for content editors
 
-Section 2: Architecture (24%)
+**Section 2: Architecture (24%)**
 
 * Recommend an Information Architecture to leverage AEM Standard Features to meet business needs using on-prem or Adobe hosted (Cloud) environment
 * Describe how AEM integrates with third-party services
 * Determine how to define roles and permissions
 * Describe caching approaches
 
-Section 3: Business Analysis (38%)
+**Section 3: Business Analysis (38%)**
 
 * Map standard modules of AEM to different business problems for the customer
 * Apply content management concepts for AEM modules
@@ -100,16 +102,38 @@ Section 3: Business Analysis (38%)
 * Determine how to meet the core business goals while remaining within budget and/or scope
 * Determine how questions from developers should be answered with respect to the business goals
 
-Section 4: Setup and Implementation (16%)
+**Section 4: Setup and Implementation (16%)**
 
 * Determine how to configure and use content components to show best practices of AEM
 * Verify the correct implementation of features, and locate and describe occurring errors
 
->[!TAB Get prepped]
+<br>
 
-You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
+### Readiness questionnaire
 
-Here are some suggested resources to help you prepare:
+{{readiness}}
+
+[Take the online readiness questionnaire](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-wdx3m2/ad-q-e121-readiness-questionnaire-for-adobe-aem-business-practitioner-expert-exam){target="_blank"}
+
+<br>
+
+## How to get certified {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++Step 1: Create your account
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Step 2: Prepare for your exam
+
+**Study Materials**
+
+{{study-materials-intro}}
 
 **Section 1: Education**
 
@@ -167,19 +191,33 @@ Here are some suggested resources to help you prepare:
 * [Localization Features of the Core Components](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/get-started/localization.html){target="_blank"} 
 * [Search Feature](https://experienceleague.adobe.com/docs/experience-manager-64/communities/authoring/search.html){target="_blank"} 
 
->[!TAB Get certified]
+<br>
 
->[!IMPORTANT]
->
->The following sections and links will function **only**  after a **successful login** to the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}. 
->
->In addition, your profile name in the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} must exactly match your Government ID. Failure to have identical information or any mismatch will result in the proctor terminating the exam and will require you to reschedule your appointment in addition to paying an additional exam fee.*
-
-## Take a practice test
+**Take a practice test**
 
 {{practice-test}}
 
-## About the certification exam
++++ 
+
+<br>
+
++++Step 3: Schedule & pay for exam
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Step 4: Before and after the exam
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Step 5: Take the exam
 
 {{about-certification-exam}}
 
@@ -203,7 +241,23 @@ Here are some suggested resources to help you prepare:
 
 [Japanese instructions for scheduling](/help/certifications/assets/Examity-Instructions-in-Japanese.pdf)
 
->[!ENDTABS]
++++
+
+<br>
+
++++Step 6: Manage your badges
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Renewing your certification
+
+{{renewing-intro}}
+
+<br>
 
 ## Questions
 

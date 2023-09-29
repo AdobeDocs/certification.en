@@ -10,31 +10,15 @@ exl-id: 9eb01f45-fa59-4e14-85db-2d3fe1f512bc
 ---
 # Certification journey for [!DNL Adobe Document Cloud] Business Practitioner Professional
 
-Learn how to become a certified [!DNL Adobe Document Cloud] Business Practitioner Professional.
+{{intro}}
 
-## Minimum experience
+## Exam description {#exam-description}
 
-You should have:
+{{exam-description}}
 
-* At least 0-12 months' of experience within [!DNL Adobe Document Cloud] 
-* Be able to identify and communicate business needs
-* Be able to perform product enablement advise on [!DNL Adobe Document Cloud] solutions.
+<br>
 
->[!NOTE]
->
->Your certification is valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
-
->[!BEGINTABS]
-
->[!TAB Get ready]
-
-**Intended audience:**
-
-* Solution consultant
-* Business Analyst
-* Sales
-
-**Exam details:**
+### Exam details {#exam-details}
 
 * Level: Professional (0-12 months' experience)
 * Passing Score: 34/50
@@ -44,33 +28,69 @@ You should have:
 * Cost: $125 (global) / $95 (India)
 * Exam ID: AD0-D106
 
-**Exam objectives and scope**
+<br>
 
-Section 1: Use Case Discovery (36%)
+### Intended audience {#intended-audience}
+
+* Solution consultant
+* Business Analyst
+* Sales
+
+<br>
+
+### Minimum experience {#minimum-experience}
+
+You should have:
+
+* At least 0-12 months' of experience within [!DNL Adobe Document Cloud] 
+* Be able to identify and communicate business needs
+* Be able to perform product enablement advise on [!DNL Adobe Document Cloud] solutions.
+
+<br>
+
+### Exam objectives and scope {#exam-objectives}
+
+{{exam-objectives}}
+
+**Section 1: Use Case Discovery (36%)**
 
 * Ask qualifying questions to identify Document Cloud opportunities
 * Define high level business use cases
 
-Section 2: Business Process Evaluation (34%)
+**Section 2: Business Process Evaluation (34%)**
 
 * Identify key areas of process improvement and solution fit
 * Align business goals with Document Cloud capabilities
 * Provide high level end user focused demonstrations of different components of Document Cloud
 
-Section 3: Define Document Cloud (DC) Capabilities (18%)
+**Section 3: Define Document Cloud (DC) Capabilities (18%)**
 
 * Outline the implications of compliance and security needs of Document and E-signature
 * Describe how process change adds value
 
-Section 4: Recommend Solution (12%)
+**Section 4: Recommend Solution (12%)**
 
 * Recommend Document Cloud solution design
 
->[!TAB Get prepped]
+<br>
 
-You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
+## How to get certified {#how-to-get-certified}
 
-Here are some suggested resources to help you prepare:
+{{how-to-get-certified-intro}}
+
++++Step 1: Create your account
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Step 2: Prepare for your exam
+
+**Study Materials**
+
+{{study-materials-intro}}
 
 **Section 1: Use Case Discovery**
 
@@ -112,20 +132,33 @@ Here are some suggested resources to help you prepare:
 * [Adobe Acrobat Features And Tools](https://www.adobe.com/acrobat/features.html){target="_blank"}
 * [Set up signing workflows](https://helpx.adobe.com/ca/sign/using/workflow-designer-signature-workflow.html){target="_blank"}
 
->[!TAB Get certified]
+<br>
 
->[!IMPORTANT]
->
->The following sections and links will function **only**  after a **successful login** to the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}. 
->
->In addition, your profile name in the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} must exactly match your Government ID. Failure to have identical information or any mismatch will result in the proctor terminating the exam and will require you to reschedule your appointment in addition to paying an additional exam fee.*
-
-
-## Take a practice test
+**Take a practice test**
 
 {{practice-test}}
 
-## About the certification exam
++++ 
+
+<br>
+
++++Step 3: Schedule & pay for exam
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Step 4: Before and after the exam
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Step 5: Take the exam
 
 {{about-certification-exam}}
 
@@ -138,11 +171,26 @@ Here are some suggested resources to help you prepare:
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Step 6: Manage your badges
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Renewing your certification
+
+{{renewing-intro}}
+
+<br>
 
 ## Questions
 
 View the certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Additional questions? [Contact us](mailto:certif@adobe.com){target="_blank"}.
-

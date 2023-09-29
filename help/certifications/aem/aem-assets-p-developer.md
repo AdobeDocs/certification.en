@@ -10,9 +10,40 @@ exl-id: 710f6c8b-9a6c-445e-b831-a891b559f208
 ---
 # Certification journey for Adobe [!DNL Experience Manager] Assets Developer Professional
 
-Learn how to become a certified Adobe [!DNL Experience Manager] Assets Developer Professional.
+{{intro}}
 
-## Minimum experience
+## Exam description {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Exam details {#exam-details}
+
+* Level: Professional (0-12 months' experience)
+* Passing Score: 30/50
+* Time: 100 mins
+* Delivery: Online proctored (requires camera access)
+* Available languages: English
+* Cost: $125 (global) / $95 (India)
+* Exam ID: AD0-E129
+
+<br>
+
+### Intended audience {#intended-audience}
+
+* AEM Developers
+* DevOps Engineers
+* AEM Architects
+* Cloud Engineers
+* Site Reliability Engineers
+* Technical Managers
+* Application Operations Engineers
+* Systems Engineers
+
+<br>
+
+### Minimum experience {#minimum-experience}
 
 You should be comfortable working in Adobe Managed Services and Adobe [!DNL Experience Manager as a Cloud Service], and are able to set up Adobe [!DNL Experience Manager] environments and infrastructure. 
 
@@ -35,42 +66,13 @@ Additionally, you should have experience with the following technologies and env
 * Dev sandbox
 * Local environment
 
->[!NOTE]
->
->Your certification is valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
+<br>
 
->[!BEGINTABS]
+### Exam objectives and scope {#exam-objectives}
 
->[!TAB Get ready]
+{{exam-objectives}}
 
-**Intended audience:**
-
-* AEM Developers
-* DevOps Engineers
-* AEM Architects
-* Cloud Engineers
-* Site Reliability Engineers
-* Technical Managers
-* Application Operations Engineers
-* Systems Engineers
-
-**Exam details:**
-
-* Level: Professional (0-12 months' experience)
-* Passing Score: 30/50
-* Time: 100 mins
-* Delivery: Online proctored (requires camera access)
-* Available languages: English
-* Cost: $125 (global) / $95 (India)
-* Exam ID: AD0-E129
-
-**Readiness self assessment**
-
-Complete the [online readiness questionnaire](https://scorpion.caveon.com/launchpad/ad-q-e208-readiness-questionnaire-for-adobe-analytics-business-practitioner-expert-exam-copy-b9x6ey/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam){target="_blank"} to see if your current experience matches the recommended minimum candidate qualification.
-
-**Exam objectives and scope**
-
-Section 1: Asset workflows (24%)
+**Section 1: Asset workflows (24%)**
 
 * Explain the process to customize OOTB workflows
 * Identify when to create or customize Asset workflows to implement customer requirements
@@ -78,7 +80,7 @@ Section 1: Asset workflows (24%)
 * Differentiate between cloud and on-premise workflows
 * Describe how to use the Workflow console to monitor status and progress
 
-Section 2: Asset organization and the asset console (22%)
+**Section 2: Asset organization and the asset console (22%)**
 
 * Demonstrate how to create and organize Assets in Collections
 * Demonstrate how to organize Assets using Tags
@@ -86,36 +88,52 @@ Section 2: Asset organization and the asset console (22%)
 * Describe how to Configure and Generate AEM Asset Reports
 * Describe how to manage User Permissions on Asset Folders
 
-Section 3: Asset metadata (24%)
+**Section 3: Asset metadata (24%)**
 
 * Define Metadata schemas
 * Given a scenario, determine how to adjust the appropriate Metadata schema
 * Given a scenario, determine how Metadata profiles can be leveraged to meet requirements
 * Understand how Cascading Metadata schemas work
 
-Section 4: Asset types (18%)
+**Section 4: Asset types (18%)**
 
 * Describe OOTB features available for asset types
 * Explain content fragments and content fragment models
 * Demonstrate how and when to use content fragment variations
 
-Section 5: Asset feature sets and capabilities (12%)
+**Section 5: Asset feature sets and capabilities (12%)**
 
 * Describe the common use cases and benefits of using Brand Portal
 * Describe the common use cases and benefits of using Dynamic Media
 * Describe options to leverage AEM using Creative Cloud
 
->[!TAB Get prepped]
+<br>
 
-You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
+### Readiness questionnaire
 
-Here are some suggested resources to help you prepare:
+{{readiness}}
 
-**Sample questions**
+[Take the online readiness questionnaire](https://scorpion.caveon.com/launchpad/ad-q-e208-readiness-questionnaire-for-adobe-analytics-business-practitioner-expert-exam-copy-b9x6ey/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam){target="_blank"}
 
-The sample questions allow you to see the type and format of items that you will encounter in the actual exam. There is no sign-on needed. The results of the sample questions are not stored, and do not predict your actual test results.
+<br>
 
-[See sample questions](https://scorpion.caveon.com/launchpad/ad0-e129-adobe-experience-manager-assets-developer-professional-copy-ms27zq){target="_blank"}
+## How to get certified {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++Step 1: Create your account
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Step 2: Prepare for your exam
+
+**Study Materials**
+
+{{study-materials-intro}}
 
 **Section 1: Asset workflows**
 
@@ -146,16 +164,35 @@ The sample questions allow you to see the type and format of items that you will
 * [Supported file formats](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/brand-portal-supported-formats.html){target="_blank"}
 * [Dynamic Media Video Profiles](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/dynamicmedia/video-profiles.html){target="_blank"}
 
->[!TAB Get certified]
+<br>
 
->[!IMPORTANT]
->
->The following sections and links will function **only**  after a **successful login** to the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}. 
->
->In addition, your profile name in the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} must exactly match your Government ID. Failure to have identical information or any mismatch will result in the proctor terminating the exam and will require you to reschedule your appointment in addition to paying an additional exam fee.*
+**Sample questions**
 
+{{sample-questions}}
 
-## About the certification exam
+[View sample questions](https://scorpion.caveon.com/launchpad/ad0-e129-adobe-experience-manager-assets-developer-professional-copy-ms27zq){target="_blank"}
+
++++ 
+
+<br>
+
++++Step 3: Schedule & pay for exam
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Step 4: Before and after the exam
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Step 5: Take the exam
 
 {{about-certification-exam}}
 
@@ -168,7 +205,23 @@ The sample questions allow you to see the type and format of items that you will
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Step 6: Manage your badges
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Renewing your certification
+
+{{renewing-intro}}
+
+<br>
 
 ## Questions
 
