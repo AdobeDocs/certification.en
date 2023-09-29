@@ -4,7 +4,7 @@ description: Learn how to become a certified Expert in Adobe [!DNL Customer Jour
 role: User
 solution: Customer Journey Analytics
 product: Customer Journey Analytics
-badge: label="Exam AD0-E604" type="positive"
+badge: label="Exam AD0-E604" type="neutral"
 mini-toc-levels: 1
 exl-id: 9ffe9fc9-5427-4297-9d8d-14ce62e239e4
 ---

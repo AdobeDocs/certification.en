@@ -4,7 +4,7 @@ description: Learn how to become a certified Adobe [!DNL Experience Platform] Ex
 solution: Experience Platform
 product: Experience Platform
 role: Developer
-badge: label="Exam AD0-E600 & AD7-E601" type="positive"
+badge: label="Exam AD0-E600 & AD7-E601" type="neutral"
 hidefromtoc: yes
 mini-toc-levels: 1
 ---
@@ -20,6 +20,12 @@ mini-toc-levels: 1
 >[!IMPORTANT]
 >
 >The Adobe [!DNL Experience Platform] Expert certification currently requires passing two exams: **Adobe [!DNL Experience Platform] Technical Foundations (AD0-E600)** and **Adobe [!DNL Real-Time CDP] Technical Practitioner (AD7-E601)**. As of November 1, 2023, a new exam will be launched, and that will be only exam required for this certification.
+
+<br>
+
+[Jump to information specific to requirement 1](#req-1)
+
+[Jump to information specific to requirement 2](#req-2)
 
 <br>
 
@@ -50,12 +56,6 @@ You should have:
 * The ability to determine what profile attributes are needed
 * Knowledge of frequency of sending segments out through destinations
 * Knowledge of how often segment membership is updated
-
-<br>
-
-[Jump to information for Requirement 1](#req-1)
-
-[Jump to Information for Requirement 2](#req-2)
 
 <br>
 

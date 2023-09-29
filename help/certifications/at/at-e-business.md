@@ -4,7 +4,7 @@ description: Learn how to become a certified Adobe Business Practitioner Expert 
 solution: Target
 product: Target
 role: User
-badge: label="Exam AD0-E406" type="positive"
+badge: label="Exam AD0-E406" type="neutral"
 mini-toc-levels: 1
 exl-id: e907929f-b4a4-45e1-ba2d-f407f46d41c6
 ---

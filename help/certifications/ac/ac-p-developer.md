@@ -4,7 +4,7 @@ description: Learn how to become a certified Adobe Developer professional in Ado
 solution: Commerce
 product: Magento
 role: Developer
-badge: label="Exam AD0-E717" type="positive"
+badge: label="Exam AD0-E717" type="neutral"
 mini-toc-levels: 1
 exl-id: 5dc85678-91f9-4865-b310-3460081b19f8
 ---

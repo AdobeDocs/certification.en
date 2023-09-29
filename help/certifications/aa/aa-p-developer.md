@@ -5,7 +5,7 @@ solution: Analytics
 product: Analytics
 role: Developer
 level: Experienced
-badge: label="Exam AD0-E213" type="positive"
+badge: label="Exam AD0-E213" type="neutral"
 mini-toc-levels: 1
 exl-id: 83074292-b71e-4ae1-b5e3-5645e3ad1ade
 ---

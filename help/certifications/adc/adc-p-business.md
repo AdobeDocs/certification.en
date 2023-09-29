@@ -4,7 +4,7 @@ description: Learn how to become a certified Adobe Doc Cloud Professional.
 solution: Document Cloud
 product: Document Cloud
 role: User
-badge: label="Exam AD0-D106" type="positive"
+badge: label="Exam AD0-D106" type="neutral"
 mini-toc-levels: 1
 exl-id: 9eb01f45-fa59-4e14-85db-2d3fe1f512bc
 ---

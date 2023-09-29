@@ -4,7 +4,7 @@ description: Learn how to become a certified Adobe [!DNL Experience Manager Site
 solution: Experience Manager,Experience Manager Sites
 product: Experience Manager
 role: Developer
-badge: label="Exam AD0-E134" type="positive"
+badge: label="Exam AD0-E134" type="neutral"
 mini-toc-levels: 1
 exl-id: 4b97177a-38aa-4082-95da-1e4c9962f3c8
 ---

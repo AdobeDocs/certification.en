@@ -4,7 +4,7 @@ description: Learn how to become a certified Adobe Architect Master in [!DNL Cam
 solution: Campaign,Campaign Classic v7
 product: Campaign
 role: Data Architect
-badge: label="Exam AD0-E328" type="positive"
+badge: label="Exam AD0-E328" type="neutral"
 mini-toc-levels: 1
 exl-id: 81b4fc87-73c8-4e8c-9a33-4c90050e6dc1
 ---

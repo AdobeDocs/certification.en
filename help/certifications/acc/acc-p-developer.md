@@ -4,7 +4,7 @@ description: Learn how to become a certified Adobe Developer Professional in [!D
 solution: Campaign,Campaign Classic v7
 product: Campaign
 role: Developer
-badge: label="Exam AD0-E331" type="positive"
+badge: label="Exam AD0-E331" type="neutral"
 mini-toc-levels: 1
 exl-id: e6a7790b-4758-4bef-826c-fc3e1675faa1
 ---

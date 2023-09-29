@@ -4,7 +4,7 @@ description: Learn how to become a certified Adobe [!DNL Experience Manager Form
 solution: Experience Manager, Experience Manager Forms
 product: Experience Manager
 role: Developer
-badge: label="Exam AD0-E125" type="positive"
+badge: label="Exam AD0-E125" type="neutral"
 mini-toc-levels: 1
 exl-id: 6b7fa868-69f3-49b4-934e-87cf86538039
 ---

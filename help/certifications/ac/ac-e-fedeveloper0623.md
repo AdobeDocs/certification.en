@@ -4,7 +4,7 @@ description: Learn how to become a certified Adobe Developer Expert in Adobe [!D
 solution: Commerce
 product: Magento
 role: Developer
-badge: label="Exam AD0-E720" type="positive"
+badge: label="Exam AD0-E720" type="neutral"
 mini-toc-levels: 1
 ---
 # Certification journey for [!DNL Adobe Commerce] Front-End Developer Expert

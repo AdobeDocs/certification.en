@@ -4,7 +4,7 @@ description: Learn how to become a certified Adobe Developer expert in [!DNL Cam
 solution: Campaign,Campaign Classic v7
 product: Campaign
 role: Developer
-badge: label="Exam AD0-E330" type="positive"
+badge: label="Exam AD0-E330" type="neutral"
 mini-toc-levels: 1
 exl-id: 0c827fe3-b56b-4130-8436-2d3698c2e30b
 ---

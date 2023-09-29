@@ -4,7 +4,7 @@ description: Learn how to become a certified Business Practitioner Professional 
 solution: Experience Manager
 product: Experience Manager
 role: User
-badge: label="Exam AD0-E126" type="positive"
+badge: label="Exam AD0-E126" type="neutral"
 mini-toc-levels: 1
 exl-id: 83ee013f-aa37-409b-8bcb-385be6962b26
 ---
