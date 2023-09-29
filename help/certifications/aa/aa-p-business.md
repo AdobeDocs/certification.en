@@ -4,32 +4,33 @@ description: Learn how to become certified as an [!DNL Adobe Analytics] Business
 solution: Analytics
 product: Analytics
 role: User
-badge: label="Exam AD0-E212" type="positive"
+badge: label="Exam AD0-E212" type="neutral"
 mini-toc-levels: 1
 exl-id: ab0b2e4d-5f24-4b78-bdef-2a6b0aaa53ec
 ---
-# Certification journey for [!DNL Adobe Analytics] Business Practitioner Professional
+# Certification journey for Adobe [!DNL Analytics] Business Practitioner Professional
 
-Learn how to become a certified [!DNL Adobe Analytics] Business Practitioner Professional.
+{{intro}}
 
-## Minimum experience
+## Exam description {#exam-description}
 
-You should have a minimum of 3 months of experience in [!DNL Adobe Analytics] and the following experience:
+{{exam-description}}
 
-* A marketing background or come from a marketing role but can come from a variety of job roles.
-* A basic familiarity with digital analytics metrics and dimensions.
-* The ability to use Analytics to build reports and answer business questions, and communicate the results.
-* An understanding of basic digital analytics concepts like segmentation, report building, standard metric definitions.
+<br>
 
->[!NOTE]
->
->Your certification is valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
+### Exam details {#exam-details}
 
->[!BEGINTABS]
+* Level: Professional (0-12 months' experience)
+* Passing Score: 31/50
+* Time: 100 mins
+* Delivery: Online proctored (requires camera access)
+* Available languages: English
+* Cost: $125 (global) / $95 (India)
+* Exam ID: AD0-E212
 
->[!TAB Get ready]
+<br>
 
-**Intended audience:**
+### Intended audience {#intended-audience}
 
 * Digital marketers
 * Business analysts
@@ -42,23 +43,24 @@ You should have a minimum of 3 months of experience in [!DNL Adobe Analytics] an
 * UI analysts
 * Conversion / optimization specialists
 
-**Exam details:**
+<br>
 
-* Level: Professional (0-12 months' experience)
-* Passing Score: 31/50
-* Time: 100 mins
-* Delivery: Online proctored (requires camera access)
-* Available languages: English
-* Cost: $125 (global) / $95 (India)
-* Exam ID: AD0-E212
+### Minimum experience {#minimum-experience}
 
-**Readiness self-assessment**
+You should have a minimum of 3 months of experience in [!DNL Adobe Analytics] and the following experience:
 
-Complete the [online readiness questionnaire](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-w9tako/ad-q-e212-readiness-questionnaire-for-adobe-analytics-business-practitioner-professional-exam){target="_blank"} to see if your current experience matches the recommended minimum candidate qualification.
+* A marketing background or come from a marketing role but can come from a variety of job roles.
+* A basic familiarity with digital analytics metrics and dimensions.
+* The ability to use Analytics to build reports and answer business questions, and communicate the results.
+* An understanding of basic digital analytics concepts like segmentation, report building, standard metric definitions.
 
-**Exam objectives and scope**
+<br>
 
-Section 1: Business analysis (34%)
+### Exam objectives and scope {#exam-objectives}
+
+{{exam-objectives}}
+
+**Section 1: Business analysis (34%)**
 
 * Given a business need/question, identify an appropriate reporting strategy to perform an analysis
 * Analyze data to answer business questions
@@ -67,7 +69,7 @@ Section 1: Business analysis (34%)
 * Analyze report data to summarize and draw conclusions
 * Recognize outliers and anomalies in reports
 
-Section 2: Reporting and dashboarding for projects (38%)
+**Section 2: Reporting and dashboarding for projects (38%)**
 
 * Consider the advantages of using specific visualizations based on a given scenario
 * Compare fallout and flow visualization
@@ -77,29 +79,45 @@ Section 2: Reporting and dashboarding for projects (38%)
 * Given a scenario, determine the appropriate item to use
 * Report on marketing campaign performance
 
-Section 3: Segmentation and calculated metrics (19%)
+**Section 3: Segmentation and calculated metrics (19%)**
 
 * Determine how to develop and configure basic segments using best practices
 * Apply the process to share segments with others in the organization
 * Apply segments to Projects and Components
 * Apply the process to generate basic calculated and/or segmented metrics
 
-Section 4: General tool knowledge and troubleshooting (9%)
+**Section 4: General tool knowledge and troubleshooting (9%)**
 
 * Understand different types of dimensions and parameters existing in [!DNL Adobe Analytics] (evars, props, and events)
 * Determine how to export data from [!DNL Adobe Analytics]
 
->[!TAB Get prepped]
+<br>
 
-You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
+### Readiness questionnaire
 
-Here are some suggested resources to help you prepare:
+{{readiness}}
 
-**Sample questions**
+[Take the online readiness questionnaire](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-w9tako/ad-q-e212-readiness-questionnaire-for-adobe-analytics-business-practitioner-professional-exam){target="_blank"}
 
-The sample questions allow you to see the type and format of items that you will encounter in the actual exam. There is no sign-on needed. The results of the sample questions are not stored, and do not predict your actual test results.
+<br>
 
-[See sample questions](https://scorpion.caveon.com/launchpad/ad0-e212-adobe-analytics-business-practitioner-professional-copy-th4xdu){target="_blank"}
+## How to get certified {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++Step 1: Create your account
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Step 2: Prepare for your exam
+
+**Study Materials**
+
+{{study-materials-intro}}
 
 **Section 1: Business analysis**
 
@@ -125,15 +143,35 @@ The sample questions allow you to see the type and format of items that you will
 * [Implement [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html){target="_blank"}
 * [Analytics Components Guide](https://experienceleague.adobe.com/docs/analytics/components/home.html){target="_blank"}
 
->[!TAB Get certified]
+<br>
 
->[!IMPORTANT]
->
->The following sections and links will function **only**  after a **successful login** to the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}. 
->
->In addition, your profile name in the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} must exactly match your Government ID. Failure to have identical information or any mismatch will result in the proctor terminating the exam and will require you to reschedule your appointment in addition to paying an additional exam fee.*
+**Sample questions**
 
-## About the certification exam
+{{sample-questions}}
+
+[View sample questions](https://scorpion.caveon.com/launchpad/ad0-e212-adobe-analytics-business-practitioner-professional-copy-th4xdu){target="_blank"}
+
++++ 
+
+<br>
+
++++Step 3: Schedule & pay for exam
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Step 4: Before and after the exam
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Step 5: Take the exam
 
 {{about-certification-exam}}
 
@@ -146,7 +184,23 @@ The sample questions allow you to see the type and format of items that you will
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Step 6: Manage your badges
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Renewing your certification
+
+{{renewing-intro}}
+
+<br>
 
 ## Questions
 

@@ -10,9 +10,36 @@ exl-id: 81b4fc87-73c8-4e8c-9a33-4c90050e6dc1
 ---
 # Certification journey for Adobe [!DNL Campaign Classic] Architect Master
 
-Learn how to become a certified Adobe [!DNL Campaign Classic] Architect Master.
+{{intro}}
 
-## Minimum experience
+## Exam description {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Exam details {#exam-details}
+
+* Level: Master (3-5 years' experience)
+* Passing Score: 30/50
+* Time: 100 mins
+* Delivery: Online proctored (requires camera access)
+* Available languages: English
+* Cost: $225 (global) / $150 (India)
+* Exam ID: AD0-E328
+
+<br>
+
+### Intended audience {#intended-audience}
+
+* Technical Lead with Adobe [!DNL Campaign Classic] background
+* Adobe Certified Expert - [!DNL Campaign Classic] Developer
+* Adobe [!DNL Campaign Classic] developer or similar role
+* Martech Solution Architect
+
+<br>
+
+### Minimum experience {#minimum-experience}
 
 You should have:
 
@@ -32,38 +59,13 @@ You should have:
 * The ability to offer deskside coaching (product best practice, reporting metrics, and so on)
 * Experience describing the differences between deployment models
 
->[!NOTE]
->
->Your certification is valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
+<br>
 
->[!BEGINTABS]
+### Exam objectives and scope {#exam-objectives}
 
->[!TAB Get ready]
+{{exam-objectives}}
 
-**Intended audience:**
-
-* Technical Lead with Adobe [!DNL Campaign Classic] background
-* Adobe Certified Expert - [!DNL Campaign Classic] Developer
-* Adobe [!DNL Campaign Classic] developer or similar role
-* Martech Solution Architect
-
-**Exam details:**
-
-* Level: Master (3-5 years' experience)
-* Passing Score: 30/50
-* Time: 100 mins
-* Delivery: Online proctored (requires camera access) or test center proctored
-* Available languages: English
-* Cost: $225 (global) / $150 (India)
-* Exam ID: AD0-E328
-
-**Readiness self assessment**
-
-Complete the [online readiness questionnaire](https://scorpion.caveon.com/launchpad/ad-q-e318-readiness-questionnaire-for-adobe-campaign-classic-architect-master-exam/ad-q-e318-readiness-questionnaire-for-adobe-campaign-classic-architect-master-exam){target="_blank"} to see if your current experience matches the recommended minimum candidate qualification.
-
-**Exam objectives and scope**
-
-Section 1: Solution definition (24%)
+**Section 1: Solution definition (24%)**
 
 * Given specific business requirements, determine the information relevant to solution design
 * Given a scenario, provide performance, infrastructure, and configuration recommendations
@@ -71,13 +73,13 @@ Section 1: Solution definition (24%)
 * Determine business requirements to design a digital marketing solution
 * Given a scenario, specify the correct product deployment method
 
-Section 2: Data landscaping (24%)
+**Section 2: Data landscaping (24%)**
 
 * Specify the Data Model and integration map design parameters for a Campaign solution with other customer tools
 * Given a scenario, determine the solution design required to comply with laws and regulations
 * Given a scenario, determine the optimal technical workflow design
 
-Section 3: Installation and management (16%)
+**Section 3: Installation and management (16%)**
 
 * Given a set of key modules, validate the configuration of the module set-up
 * Given a scenario, recommend integration solutions to enable native and third-party integrations with Adobe [!DNL Campaign Classic]
@@ -86,24 +88,46 @@ Section 3: Installation and management (16%)
 * Given a scenario, advise on the appropriate hardware infrastructure needed during solution design
 * Given a scenario, determine the correct method for solution promotion to the respective environment
 
-Section 4: Project leadership (10%)
+**Section 4: Project leadership (10%)**
 
 * Given customer requirements, determine the appropriate activities and resources needed
 * Given a scenario, analyze the overall solution to determine technical risks, assumptions, issues and dependencies
 * Communicate technical ACC expertise to internal and external teams
 
-Section 5: Customization (26%)
+**Section 5: Customization (26%)**
 
 * Analyze and design custom features
 * Analyze and design custom integrations
 * Determine the correct method to design complex campaign templates and workflows
 * Determine the correct method to design solutions using additional modules
 
->[!TAB Get prepped]
+<br>
 
-You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
+### Readiness questionnaire
 
-Here are some suggested resources to help you prepare:
+{{readiness}}
+
+[Take the online readiness questionnaire](https://scorpion.caveon.com/launchpad/ad-q-e318-readiness-questionnaire-for-adobe-campaign-classic-architect-master-exam/ad-q-e318-readiness-questionnaire-for-adobe-campaign-classic-architect-master-exam){target="_blank"}
+
+<br>
+
+## How to get certified {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++Step 1: Create your account
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Step 2: Prepare for your exam
+
+**Study Materials**
+
+{{study-materials-intro}}
 
 **Section 1: Solution definition**
 
@@ -145,16 +169,27 @@ Here are some suggested resources to help you prepare:
 * [Interaction and offer management](https://experienceleague.adobe.com/docs/campaign-classic/using/managing-offers/interaction-overview/interaction-and-offer-management.html){target="_blank"}
 * [Operating principle](https://experienceleague.adobe.com/docs/campaign-classic/using/monitoring-campaign-classic/production-procedures/operating-principle.html){target="_blank"}
 
->[!TAB Get certified]
++++ 
 
->[!IMPORTANT]
->
->The following sections and links will function **only**  after a **successful login** to the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}. 
->
->In addition, your profile name in the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} must exactly match your Government ID. Failure to have identical information or any mismatch will result in the proctor terminating the exam and will require you to reschedule your appointment in addition to paying an additional exam fee.*
+<br>
 
++++Step 3: Schedule & pay for exam
 
-## About the certification exam
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Step 4: Before and after the exam
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Step 5: Take the exam
 
 {{about-certification-exam}}
 
@@ -167,10 +202,28 @@ Here are some suggested resources to help you prepare:
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Step 6: Manage your badges
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Renewing your certification
+
+{{renewing-intro}}
+
+<br>
 
 ## Questions
 
 View the certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Additional questions? [Contact us](mailto:certif@adobe.com){target="_blank"}.
+
+

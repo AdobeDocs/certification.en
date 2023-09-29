@@ -9,11 +9,37 @@ badge: label="Exam AD0-E209" type="positive"
 mini-toc-levels: 1
 exl-id: d0544bc8-e8e4-4a52-ad8c-7a264de73758
 ---
-# Certification journey for [!DNL Adobe Analytics] Developer Expert
+# Certification journey for Adobe [!DNL Analytics] Developer Expert
 
-Learn how to become a certified [!DNL Adobe Analytics] Developer Expert.
+{{intro}}
 
-## Minimum experience
+## Exam description {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Exam details {#exam-details}
+  
+* Level: Expert (1-3 years' experience)
+* Passing Score: 31/50
+* Time: 120 mins
+* Delivery: Online proctored (requires camera access)
+* Available languages: English, Japanese
+* Cost: $225 (global) and $150 (India)
+* Exam ID: AD0-E209 (English), AD0-E209-J (Japanese)
+
+<br>
+
+### Intended audience {#intended-audience}
+
+* Implementation Specialists/Engineers
+* Developers
+* Architects
+
+<br>
+
+### Minimum experience {#minimum-experience}
 
 You should have experience as an implementation consultant in a hybrid role with about 2 years' experience in [!DNL Adobe Analytics] implementation. You acts as the bridge between IT and the business, translate the business requirements into a technical solution (SDR), and based on requirements provided by the analyst, understand which type of variable is needed, where and how to collect the data, design the data model (data layer), configure and maintain the tag management solution. 
 
@@ -42,48 +68,24 @@ Environments:
 * The field of digital marketing
 * Minimal knowledge of backend development environments including PC, Mac, Android/iOS operating systems (basic operations, not development)
 
->[!NOTE]
->
->Your certification is valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
+### Exam objectives and scope {#exam-objectives}
 
->[!BEGINTABS]
-
->[!TAB Get ready]
-
-**Intended audience:** 
-
-* Implementation Specialists/Engineers
-* Developers
-* Architects
-
-**Exam details:**
-  
-* Level: Expert (1-3 years' experience)
-* Passing Score: 31/50
-* Time: 120 mins
-* Delivery: Online proctored (requires camera access) or test center proctored
-* Available languages: English
-* Cost: $225 (global) and $150 (India)
-* Exam ID: AD0-E209
-
-**Readiness self-assessment**
-
-Complete the [online readiness questionnaire](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-hp0hz5/ad-q-e209-readiness-questionnaire-for-adobe-analytics-developer-expert-exam){target="_blank"} to see if your current experience matches the recommended minimum candidate qualification.
+{{exam-objectives}}
 
 **Exam objectives and scope**
 
-Section 1: Understanding Analytics in the Adobe Experience Cloud Ecosystem (10%)
+**Section 1: Understanding Analytics in the Adobe Experience Cloud Ecosystem (10%)**
 
 * Demonstrate knowledge on utilizing the Adobe Experience Cloud ID
 * Demonstrate understanding of Adobe Launch
 * Demonstrate understanding of common integrations across the Adobe Experience Cloud Ecosystem
 
-Section 2: Strategy and design based on a solution design reference (SDR) (6%)
+**Section 2: Strategy and design based on a solution design reference (SDR) (6%)**
 
 * Interpret a Solution Design Reference to develop efficient code for data capture
 * Use the Tech Spec for populating data objects
 
-Section 3: Analytics Implementation and Configuration (36%)
+**Section 3: Analytics Implementation and Configuration (36%)**
 
 * Determine which environment to deploy [!DNL Adobe Analytics] Code
 * Execute a minimal deployment code for Analytics tracking
@@ -92,30 +94,52 @@ Section 3: Analytics Implementation and Configuration (36%)
 * Utilize a data layer within a deployment
 * Execute advanced tracking features such as link tracking and product strings
 
-Section 4: Tag management systems (20%)
+**Section 4: Tag management systems (20%)**
 
 * Enumerate requirements to deploy Adobe Experience Platform Launch in [!DNL Adobe Analytics]
 * Apply processes to configure website tagging with Adobe Launch
 * Enumerate requirements to enable extensions and Adobe Launch
 * Create rules and data elements
 
-Section 5: Mobile services (8%)
+**Section 5: Mobile services (8%)**
 
 * Apply processes to configure and execute a base pre-deployment code for mobile
 * Demonstrate understanding of processing rules and mobile services
 
-Section 6: Testing, validation, and troubleshooting (20%)
+**Section 6: Testing, validation, and troubleshooting (20%)**
 
 * Troubleshoot JavaScript errors
 * Troubleshoot [!DNL Adobe Analytics] variables
 * Recommend testing and debugging best practices
 * Troubleshoot an [!DNL Adobe Analytics] server call across its lifecycle (i.e. from beacon request to showing up in the report)
 
->[!TAB Get prepped]
+<br>
 
-You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
+### Readiness questionnaire
 
-Here are some suggested resources to help you prepare:
+{{readiness}}
+
+[Take the online readiness questionnaire](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-hp0hz5/ad-q-e209-readiness-questionnaire-for-adobe-analytics-developer-expert-exam){target="_blank"}
+
+<br>
+
+## How to get certified {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++Step 1: Create your account
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Step 2: Prepare for your exam
+
+**Study Materials**
+
+{{study-materials-intro}}
 
 **Section 1: Understanding Analytics in the Adobe Experience Cloud Ecosystem**
 
@@ -151,20 +175,33 @@ Here are some suggested resources to help you prepare:
 * [Enabling, Debugging, and Customizing the [!DNL Adobe Analytics] Activity Map](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/components/activity-map/enabling-debugging-and-customizing-the-activity-map.html){target="_blank"}
 * [Optimize Analysis Workspace performance](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/workspace-faq/optimizing-performance.html){target="_blank"}
 
+<br>
 
->[!TAB Get certified]
-
->[!IMPORTANT]
->
->The following sections and links will function **only**  after a **successful login** to the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}. 
->
->In addition, your profile name in the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} must exactly match your Government ID. Failure to have identical information or any mismatch will result in the proctor terminating the exam and will require you to reschedule your appointment in addition to paying an additional exam fee.*
-
-## Take a practice test
+**Take a practice test**
 
 {{practice-test}}
 
-## About the certification exam
++++ 
+
+<br>
+
++++Step 3: Schedule & pay for exam
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Step 4: Before and after the exam
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Step 5: Take the exam
 
 {{about-certification-exam}}
 
@@ -188,7 +225,24 @@ Here are some suggested resources to help you prepare:
 
 [Japanese instructions for scheduling](/help/certifications/assets/Examity-Instructions-in-Japanese.pdf)
 
->[!ENDTABS]
++++
+
+<br>
+
++++Step 6: Manage your badges
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Renewing your certification
+
+{{renewing-intro}}
+
+<br>
+
 
 ## Questions
 

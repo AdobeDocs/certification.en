@@ -11,9 +11,38 @@ exl-id: 5f9c77bb-506d-46eb-8625-8fd2dbce1be5
 ---
 # Certification journey for [!DNL Adobe Analytics] Architect Master
 
-Learn how to become a certified [!DNL Analytics] Architect Master.
+{{intro}}
 
-## Minimum experience
+## Exam description {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Exam details {#exam-details}
+
+* Level: Master (3-5 years' experience)
+* Passing Score: 33/50
+* Time: 100 mins
+* Delivery: Online proctored (requires camera access)
+* Available languages: English
+* Cost: $225 (global) / $150 (India)
+* Exam ID: AD0-E207
+
+<br>
+
+### Intended audience {#intended-audience}
+
+* Solutions Architect
+* Technical Manager
+* Data Architect
+* Analytics Engineer
+* Analytics Strategist
+* Multi Solutions Engineer
+
+<br>
+
+### Minimum experience {#minimum-experience}
 
 You should have a minimum 3-4 years of experience designing [!DNL Adobe Analytics] architecture, data layer specifications, and tag management, as well as a basic understanding of JavaScript code. 
 
@@ -27,42 +56,19 @@ Additionally, you're responsible for translating business requirements into trac
 * Optimization tools
 * Code editors
 
->[!NOTE]
->
->Your certification is valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
+<br>
 
->[!BEGINTABS]
+### Exam objectives and scope {#exam-objectives}
 
->[!TAB Get ready]
+{{exam-objectives}}
 
-**Intended audience:**
-
-* Solutions Architect
-* Technical Manager
-* Data Architect
-* Analytics Engineer
-* Analytics Strategist
-* Multi Solutions Engineer
-
-**Exam details:**
-
-* Level: Master (3-5 years' experience)
-* Passing Score: 33/50
-* Time: 100 mins
-* Delivery: Online proctored (requires camera access) or test center proctored
-* Available languages: English
-* Cost: $225 (global) / $150 (India)
-* Exam ID: AD0-E207
-
-**Exam objectives and scope**
-
-Section 1: Discovery (18%)
+**Section 1: Discovery (18%)**
 
 * Demonstrate ability to audit sites
 * Investigate client needs to build business requirements
 * Given a scenario, create measurement framework
 
-Section 2: Solution design (54%)
+**Section 2: Solution design (54%)**
 
 * Translate business requirements into variables and metrics
 * Demonstrate ability to manage report suites settings
@@ -71,7 +77,7 @@ Section 2: Solution design (54%)
 * Write technical specifications for site developers
 * Create Experience Cloud users/groups
 
-Section 3: Post implementation (28%)
+**Section 3: Post implementation (28%)**
 
 * Given a set of requirements, validate tracking through browser developer tools and Adobe reports
 * Apply procedural concepts to manage data extraction and relationships
@@ -79,17 +85,25 @@ Section 3: Post implementation (28%)
 * Given a scenario, manage data sources and connectors
 * Configure necessary segments and calculated metrics to answer business requirements
 
->[!TAB Get prepped]
+<br>
 
-You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
+## How to get certified {#how-to-get-certified}
 
-Here are some suggested resources to help you prepare:
+{{how-to-get-certified-intro}}
 
-**Sample questions**
++++Step 1: Create your account
 
-The sample questions allow you to see the type and format of items that you will encounter in the actual exam. There is no sign-on needed. The results of the sample questions are not stored, and do not predict your actual test results.
+{{create-your-account}}
 
-[See sample questions](https://scorpion.caveon.com/launchpad/ad0-e207-adobe-analytics-architect-master-copy-y9f8t1){target="_blank"}
++++
+
+<br>
+
++++Step 2: Prepare for your exam
+
+**Study Materials**
+
+{{study-materials-intro}}
 
 **Section 1: Discovery**
 
@@ -126,16 +140,35 @@ The sample questions allow you to see the type and format of items that you will
 * [Data Insertion Process](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/data-insertion-api/overview/c_data_insertion_process.md){target="_blank"}
 * [Implement the Experience Cloud in Websites with Tags Tutorial](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/overview.html){target="_blank"}
 
->[!TAB Get certified]
+<br>
 
->[!IMPORTANT]
->
->The following sections and links will function **only**  after a **successful login** to the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}. 
->
->In addition, your profile name in the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} must exactly match your Government ID. Failure to have identical information or any mismatch will result in the proctor terminating the exam and will require you to reschedule your appointment in addition to paying an additional exam fee.*
+**Sample questions**
 
+{{sample-questions}}
 
-## About the certification exam
+[View sample questions](https://scorpion.caveon.com/launchpad/ad0-e207-adobe-analytics-architect-master-copy-y9f8t1){target="_blank"}
+
++++ 
+
+<br>
+
++++Step 3: Schedule & pay for exam
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Step 4: Before and after the exam
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Step 5: Take the exam
 
 {{about-certification-exam}}
 
@@ -148,10 +181,27 @@ The sample questions allow you to see the type and format of items that you will
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Step 6: Manage your badges
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Renewing your certification
+
+{{renewing-intro}}
+
+<br>
 
 ## Questions
 
 View the certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-Additional questions? Please email `certif@adobe.com`
+Additional questions? [Contact us](mailto:certif@adobe.com){target="_blank"}.
+

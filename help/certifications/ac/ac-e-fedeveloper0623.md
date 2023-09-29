@@ -9,13 +9,39 @@ mini-toc-levels: 1
 ---
 # Certification journey for [!DNL Adobe Commerce] Front-End Developer Expert
 
-Learn how to become a certified [!DNL Adobe Commerce] Developer Expert.
+{{intro}}
 
-## Minimum experience
+## Exam description {#exam-description}
 
-The [!DNL Adobe Commerce] Frontend Developer is considered an Expert-level role and has at least 1-3 years of hands-on experience with Adobe Commerce Frontend development. They should have the ability to translate the needs expressed by task requirements into a technical solution.
+{{exam-description}}
 
-The candidate should be comfortable using the following technologies:
+<br>
+
+### Exam details {#exam-details}
+  
+* Level: Expert (1-3 years' experience)
+* Passing Score: 33/50
+* Time: 100 mins
+* Delivery: Online proctored (requires camera access)
+* Available languages: English
+* Cost: $225 (global) / $150 (India)
+* Exam ID: AD0-E720
+
+<br>
+
+### Intended audience {#intended-audience}
+
+* Developers
+* Lead Developers
+* Front-end Developers
+
+<br>
+
+### Minimum experience {#minimum-experience}
+
+You should have at least 1-3 years of hands-on experience with Adobe Commerce front-end development. You should have the ability to translate the needs expressed by task requirements into a technical solution.
+
+Additionally, you should be comfortable using the following technologies:
 
 * [!DNL Adobe Commerce] - version 2.4.6
 * Basic understanding of the front-end structure and layout
@@ -34,33 +60,13 @@ The candidate should be comfortable using the following technologies:
 * Understanding of Adobe Commerce Cloud infrastructure
 * Basic understanding of Cloud CLI command tool
 
->[!BEGINTABS]
+<br>
 
->[!TAB Get ready]
+### Exam objectives and scope {#exam-objectives}
 
-**Intended audience:** 
+{{exam-objectives}}
 
-* Developers
-* Lead Developers
-* Front-end Developers
-
-**Exam details:**
-  
-* Level: Expert (1-3 years' experience)
-* Passing Score: 33/50
-* Time: 100 mins
-* Delivery: Online proctored (requires camera access) or test center proctored
-* Available languages: English
-* Cost: $225 (global) / $150 (India)
-* Exam ID: AD0-E720
-
-**Readiness self-assessment**
-
-Complete the [online readiness questionnaire](https://scorpion.caveon.com/launchpad/ad0-e710-adobe-commerce-front-end-developer-expert-copy-jtnjz6){target="_blank"} to see if your current experience matches the recommended minimum candidate qualification.
-
-**Exam objectives and scope**
-
-Section 1: Theme management (Theme hierarchy, image configuration, translations) (16%)
+**Section 1: Theme management (Theme hierarchy, image configuration, translations) (16%)**
 
 * Describe Adobe Commerce theme folder structure and how it relates to folder based themes
 * Demonstrate the ability to create a new theme (Inheritance/Fallbacks, design exceptions, theme properties)
@@ -69,7 +75,7 @@ Section 1: Theme management (Theme hierarchy, image configuration, translations)
 * Demonstrate ability to apply translations
 * Given a set of use cases, identify when to place files in app/code or app/design
 
-Section 2: Layout XML & templates (phtml templates) (22%)
+**Section 2: Layout XML & templates (phtml templates) (22%)**
 
 * Demonstrate the ability to utilize layout XML instructions
 * Demonstrate the ability to create new page layouts
@@ -78,7 +84,7 @@ Section 2: Layout XML & templates (phtml templates) (22%)
 * Demonstrate ability to create and customize templates
 * Apply template security (escaping output)
 
-Section 3: Styles (18%)
+**Section 3: Styles (18%)**
 
 * Identify the purpose of styles-m.less, styles-l.less, print.less
 * Describe the difference between specific partial files (_extends.less,_extend.less,_theme.less,_widgets.less,_module.less,)
@@ -89,7 +95,7 @@ Section 3: Styles (18%)
 * Demonstrate the ability to implement and customize LESS library components
 * Identify the differences between client-side vs server-side compilation and how it works
 
-Section 4: JavaScript (mage widgets, mage library, customer data module, Knockout templates) (22%)
+**Section 4: JavaScript (mage widgets, mage library, customer data module, Knockout templates) (22%)**
 
 * Demonstrate the ability to initialize and call JavaScript components
 * Distinguish use cases for different JavaScript components
@@ -101,14 +107,14 @@ Section 4: JavaScript (mage widgets, mage library, customer data module, Knockou
 * Demonstrate the usage of jQuery widgets
 * Demonstrate the usage of JS components using Layout XML
 
-Section 5: Admin Configuration and Page Builder (12%)
+**Section 5: Admin Configuration and Page Builder (12%)**
 
 * Demonstrate the ability to customize Page Builder content
 * Describe front-end optimization
 * Customize transactional emails
 * Demonstrate the usage of admin development tools
 
-Section 6: Tools (CLI and Grunt) (10%)
+**Section 6: Tools (CLI and Grunt) (10%)**
 
 * Demonstrate the usage of basic bin/Magento commands
 * Describe the usage of Composer commands (install, update, require, remove)
@@ -116,11 +122,33 @@ Section 6: Tools (CLI and Grunt) (10%)
 * Define Grunt setup and usage
 * Describe additional tools that cloud provides (Fastly, downloading database, content deployment, branching using UI)
 
->[!TAB Get prepped]
+<br>
 
-You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
+### Readiness questionnaire
 
-Here are some suggested resources to help you prepare:
+{{readiness}}
+
+[Take the online readiness questionnaire](https://scorpion.caveon.com/launchpad/ad0-e710-adobe-commerce-front-end-developer-expert-copy-jtnjz6){target="_blank"}
+
+<br>
+
+## How to get certified {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++Step 1: Create your account
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Step 2: Prepare for your exam
+
+**Study Materials**
+
+{{study-materials-intro}}
 
 **Section 1: Theme management (Theme hierarchy, image configuration, translations)**
 
@@ -164,17 +192,33 @@ Here are some suggested resources to help you prepare:
 * [Build variables](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/env/stage/variables-build.html?lang=en){target="_blank"}
 * [Commerce on Cloud Infrastructure](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/overview.html?lang=en){target="_blank"}
 
->[!TAB Get certified]
+<br>
 
->[!IMPORTANT]
->
-> The following sections and links will function **only** after a **successful login** to the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}. 
+**Take a practice test**
 
-**Now that you have successfully logged in, the following links will be directly accessible.**
+{{practice-test}}
 
-**Practice test coming soon**
++++ 
 
-## About the certification exam
+<br>
+
++++Step 3: Schedule & pay for exam
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Step 4: Before and after the exam
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Step 5: Take the exam
 
 {{about-certification-exam}}
 
@@ -187,9 +231,25 @@ Here are some suggested resources to help you prepare:
 </span>
 </a>
 
->[!ENDTABS]
++++
 
-**Questions**
+<br>
+
++++Step 6: Manage your badges
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Renewing your certification
+
+{{renewing-intro}}
+
+<br>
+
+## Questions
 
 View the certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 

@@ -52,6 +52,8 @@ Adobe certification exams are customized to three different job roles. Read the 
 
 {style="table-layout:auto"}
 
+<!--
+
 >[!TAB Certification journey]
 
 The Certification Journey Guide is a comprehensive tool designed to provide you with all the information you need to prepare for a certification exam. The guide is divided into three main sections: Get Ready, Get Prepped, and Get Certified.
@@ -63,6 +65,8 @@ The Certification Journey Guide is a comprehensive tool designed to provide you 
 | **Get Certified** | Offers valuable information on how to register for the certification exam, including details about the registration process and available payment methods. In addition, this section also provides a clear overview of the exam process. Look to this section for helpful resources, such as a link to the Adobe Certification Prep Portal for exams that offer practice tests, as well as links to register for certification exams. |
 
 {style="table-layout:auto"}
+
+-->
 
 >[!ENDTABS]
 

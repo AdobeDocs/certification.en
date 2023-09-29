@@ -9,9 +9,36 @@ mini-toc-levels: 1
 ---
 # Certification journey for Adobe [!DNL Commerce] Front-end Developer Professional
 
-Learn how to become a certified [!DNL Adobe Commerce] Developer Professional.
+{{intro}}
 
-## Minimum experience
+## Exam description {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Exam details {#exam-details}
+
+* Level: Professional (0-12 months' experience)
+* Passing Score: 33/50
+* Time: 100 mins
+* Delivery: Online proctored (requires camera access)
+* Available languages: English
+* Cost: $125 (global) / $95 (India)
+* Exam ID: AD0-E721
+
+<br>
+
+### Intended audience {#intended-audience}
+
+* Developers
+* Front-end Developers
+* Full Stack Developers
+* PWA Developers
+
+<br>
+
+### Minimum experience {#minimum-experience}
 
 You should have 0-12 months of hands-on experience with Adobe Commerce Front-end development and the ability to work with technical solutions to deliver individual components.
 
@@ -36,36 +63,19 @@ Additionally, you should exhibit knowledge of the following technologies:
 * Basic understanding of canonical links, as well as merging JavaScript and CSS
 * Basic understanding of Adobe Commerce cloud infrastructure
 
->[!BEGINTABS]
+<br>
 
->[!TAB Get ready]
+### Exam objectives and scope {#exam-objectives}
 
-**Intended audience:**
+{{exam-objectives}}
 
-* Developers
-* Front-end Developers
-* Full Stack Developers
-* PWA Developers
-
-**Exam details:**
-
-* Level: Professional (0-12 months' experience)
-* Passing Score: 33/50
-* Time: 100 mins
-* Delivery: Online proctored (requires camera access)
-* Available languages: English
-* Cost: $125 (global) / $95 (India)
-* Exam ID: AD0-E721
-
-**Exam objectives and scope**
-
-Section 1: Theme management (Theme hierarchy, image configuration, translations) (14%)
+**Section 1: Theme management (Theme hierarchy, image configuration, translations) (14%)**
 
 * Describe Adobe [!DNL Commerce] theme folder structure
 * Demonstrate ability to create new or extend existing themes
 * Demonstrate ability to add custom translation phrases
 
-Section 2: Layout XML & templates (30%)
+**Section 2: Layout XML & templates (30%)**
 
 * Demonstrate the ability to work with basic layout XML instructions
 * Demonstrate the ability to use existing page layouts
@@ -73,7 +83,7 @@ Section 2: Layout XML & templates (30%)
 * Demonstrate ability to create and customize templates
 * Describe template security (escaping output)
 
-Section 3: Styles (22%)
+**Section 3: Styles (22%)**
 
 * Describe the purpose of styles-m.less, styles-l.less, print.less
 * Describe the difference between specific partial files (_extends.less,_extend.less,_theme.less,_widgets.less,_module.less)
@@ -82,7 +92,7 @@ Section 3: Styles (22%)
 * Explain the hierarchy of styles ( lib, modules, themes)
 * Explain client-side and server-side compilation
 
-Section 4: JavaScript (18%)
+**Section 4: JavaScript (18%)**
 
 * Demonstrate the ability to initialize and call JavaScript components 
 * Demonstrate the usage of RequireJS
@@ -91,25 +101,39 @@ Section 4: JavaScript (18%)
 * Describe the usage of Knockout JS
 * Describe the usage of jQuery widgets
 
-Section 5: Admin configuration and PageBuilder (6%)
+**Section 5: Admin configuration and PageBuilder (6%)**
 
 * Demonstrate the ability to customize Page Builder and CMS content"
 * Apply/schedule a theme to a specific scope (website, store, store-view)
 * Apply design changes to categories, products and CMS pages using admin configuration
 * Describe steps to customize transactional emails
 
-Section 6: Tools (CLI and Grunt) (8%)
+**Section 6: Tools (CLI and Grunt) (8%)**
 
 * Describe the usage of basic bin/magento commands
 * Describe the usage of Composer commands (install, update, require, remove)
 * Differentiate the appropriate use case for deploy modes
 * Describe additional tools that cloud provides (Fastly, downloading database, content deployment)
 
->[!TAB Get prepped]
+<br>
 
-You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
+## How to get certified {#how-to-get-certified}
 
-Here are some suggested resources to help you prepare:
+{{how-to-get-certified-intro}}
+
++++Step 1: Create your account
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Step 2: Prepare for your exam
+
+**Study Materials**
+
+{{study-materials-intro}}
 
 **Section 1: Theme management (Theme hierarchy, image configuration, translations)**
 
@@ -150,18 +174,33 @@ Here are some suggested resources to help you prepare:
 * [Build variables](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/env/stage/variables-build.html?lang=en){target="_blank"}
 * [Commerce on Cloud Infrastructure](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/overview.html?lang=en){target="_blank"}
 
->[!TAB Get certified]
+<br>
 
->[!IMPORTANT]
->
->The following sections and links will function **only**  after a **successful login** to the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}. 
+**Take a practice test**
 
+{{practice-test}}
 
-**Now that you have successfully logged in, the following links will be directly accessible.**
++++ 
 
-**Practice test coming soon**
+<br>
 
-## About the certification exam
++++Step 3: Schedule & pay for exam
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Step 4: Before and after the exam
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Step 5: Take the exam
 
 {{about-certification-exam}}
 
@@ -174,9 +213,25 @@ Here are some suggested resources to help you prepare:
 </span>
 </a>
 
->[!ENDTABS]
++++
 
-**Questions**
+<br>
+
++++Step 6: Manage your badges
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Renewing your certification
+
+{{renewing-intro}}
+
+<br>
+
+## Questions
 
 View the certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 

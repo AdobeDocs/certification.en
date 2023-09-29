@@ -11,11 +11,30 @@ mini-toc-levels: 1
 
 # Certification journey for Adobe [!DNL Experience Platform] Expert
 
-Learn how to become a certified Adobe [!DNL Experience Platform] Expert.
+{{intro}}
 
-## Minimum experience
+## Exam description {#exam-description}
 
-To earn a certification with exam, you need to pass 2 distinct exams with a proctor present, online or on-site, where available.
+{{exam-description}}
+
+>[!IMPORTANT]
+>
+>The Adobe [!DNL Experience Platform] Expert certification currently requires passing two exams: **Adobe [!DNL Experience Platform] Technical Foundations (AD0-E600)** and **Adobe [!DNL Real-Time CDP] Technical Practitioner (AD7-E601)**. As of November 1, 2023, a new exam will be launched, and that will be only exam required for this certification.
+
+<br>
+
+### Intended audience {#intended-audience}
+
+* Data Architect/Engineer
+* Solution Architect or MSA
+* Enterprise Architect
+* Product Manager
+* Marketing Technology Lead
+* Technical Consultant
+
+<br>
+
+### Minimum experience {#minimum-experience}
 
 You should have:
 
@@ -32,29 +51,19 @@ You should have:
 * Knowledge of frequency of sending segments out through destinations
 * Knowledge of how often segment membership is updated
 
->[!NOTE]
->
->Your certification is valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
+<br>
 
->[!BEGINTABS]
+[Jump to information for Requirement 1](#req-1)
 
->[!TAB Get ready]
+[Jump to Information for Requirement 2](#req-2)
 
-**Intended audience:**
+<br>
 
-* Data Architect/Engineer
-* Solution Architect or MSA
-* Enterprise Architect
-* Product Manager
-* Marketing Technology Lead
-* Technical Consultant
-
-
-**Requirement 1: AD0-E600 Adobe [!DNL Experience Platform] Technical Foundations**
+## Requirement #1: Information for Adobe [!DNL Experience Platform] Technical Foundations (AD0-E600) {#req-1}
 
 The AD0-E600 exam validates skills and knowledge covering the basic features and frequently performed tasks of Adobe [!DNL Experience Platform] at the Expert level.
 
-**Exam details:**
+### Exam details for AD0-E600 {#exam-details-600}
 
 * Level: Expert (1-3 years' experience)
 * Passing Score: 35/50
@@ -64,15 +73,19 @@ The AD0-E600 exam validates skills and knowledge covering the basic features and
 * Cost: $225 (global) / $150 (India)
 * Exam ID: AD0-E600
 
-**Exam Objectives and scope**
+<br>
 
-Section 1: Data Modeling (20%)
+### Exam objectives and scope for AD0-E600 {#exam-objectives}
+
+{{exam-objectives}}
+
+**Section 1: Data Modeling (20%)**
 
 * Analyze source data to evaluate primary and secondary identity for profile stitching
 * Demonstrate an understanding of how to use the UI to create/edit XDM Schemas.
 * Identify DULE Guidance
 
-Section 2: Data Ingestion (36%)
+**Section 2: Data Ingestion (36%)**
 
 * Demonstrate how to format and prepare data for ingestion
 * Demonstrate how to connect data sources using OOTB connectors
@@ -81,7 +94,7 @@ Section 2: Data Ingestion (36%)
 * Demonstrate how to perform data discovery on source data
 * Demonstrate how to transform data to match XDM
 
-Section 3: Unifying Profiles (34%)
+**Section 3: Unifying Profiles (34%)**
 
 * Validate Profiles and Event data post ingestion
 * Define identity name spaces
@@ -89,19 +102,30 @@ Section 3: Unifying Profiles (34%)
 * Identify how to enrich profiles through data science workspace modeling services
 * Demonstrate how to build a segment with Segment Builder and how the segmentation service works
 
-Section 4: Activation (10%)
+**Section 4: Activation (10%)**
 
 * Demonstrate how to set up a destination and how segment activation works
 * Demonstrate and understanding of data access API and exporting data via Real-Time CDP
 
-Take a readiness questionnaire to find out if you meet the minimum qualifications.
+<br>
 
+## How to get certified (AD0-E600) {#how-to-get-certified}
 
->[!TAB Get prepped]
+{{how-to-get-certified-intro}}
 
-You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
++++Step 1: Create your account
 
-Here are some suggested resources to help you prepare:
+{{create-your-account}}
+
++++
+
+<br>
+
++++Step 2: Prepare for your exam
+
+**Study Materials**
+
+{{study-materials-intro}}
 
 **Section 1: Data modeling**
 
@@ -126,17 +150,33 @@ Here are some suggested resources to help you prepare:
 
 * [Destinations overview](https://experienceleague.adobe.com/docs/experience-platform/destinations/home.html){target="_blank"}
 
->[!TAB Get certified]
+<br>
 
->[!IMPORTANT]
->
->The following sections and links will function **only**  after a **successful login** to the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
- 
-## Take a practice test
+**Take a practice test**
 
 {{practice-test}}
 
-## About the certification exam
++++ 
+
+<br>
+
++++Step 3: Schedule & pay for exam
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Step 4: Before and after the exam
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Step 5: Take the exam
 
 {{about-certification-exam}}
 
@@ -149,18 +189,25 @@ Here are some suggested resources to help you prepare:
 </span>
 </a>
 
++++
 
->[!ENDTABS]
+<br>
 
->[!BEGINTABS]
++++Step 6: Manage your badges
 
->[!TAB Get ready]
+{{manage-your-badges}}
 
-**Requirement 2: AD7-E601 Adobe Real-Time CDP Technical Practitioner**
++++
+
+<br>
+
+## Requirement #2: Information for Adobe [!DNL Real-Time CDP] Technical Practitioner (AD7-E601) {#req-2}
 
 The AD7-E601 exam covers the creation, management and understanding of customer profile, segmentation, destinations across sources, and other topics. The exam validates the foundational skills and knowledge needed to employ Real-time CDP for audience segmentation, destination exports, and activation on a real-time basis for unified profiles that adhere to data and privacy regulations. Candidates should have experience with Customer Data Platforms (CDP) and knowledge of Adobe [!DNL Experience Platform].
 
-**Exam details:**
+<br>
+
+### Exam details for AD7-E601
 
 * Level: Expert (1-3 years' experience)
 * Passing Score: 25/34
@@ -170,11 +217,11 @@ The AD7-E601 exam covers the creation, management and understanding of customer 
 * Cost: $225 (global) / $150 (India)
 * Exam ID: AD7-E601
 
-**Readiness self-assessment**
+<br>
 
-Complete the [online readiness questionnaire](https://scorpion.caveon.com/launchpad/ad-q-e601-readiness-questionnaire-for-adobe-real-time-cdp-technical-practitioner-exam/ad-q-e601-readiness-questionnaire-for-adobe-real-time-cdp-technical-practitioner-exam){target="_blank"} to see if your current experience matches the recommended minimum candidate qualification.
+### Exam objectives and scope for AD7-E601
 
-**Exam scope and objectives**
+{{exam-objectives}}
 
 Section 1: Validation(41%)
 
@@ -194,7 +241,33 @@ Section 3: Destinations (27%)
 * Apply concepts required to configure one or more Destinations when sending/exporting audiences based on business use cases
 * Demonstrate an understanding of exporting segments through Destination
 
->[!TAB Get prepped]
+<br>
+
+### Readiness questionnaire for AD7-E601
+
+{{readiness}}
+
+[Take the online readiness questionnaire](https://scorpion.caveon.com/launchpad/ad-q-e601-readiness-questionnaire-for-adobe-real-time-cdp-technical-practitioner-exam/ad-q-e601-readiness-questionnaire-for-adobe-real-time-cdp-technical-practitioner-exam){target="_blank"}
+
+<br>
+
+## How to get certified (AD7-E601)
+
+{{how-to-get-certified-intro}}
+
++++Step 1: Create your account
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Step 2: Prepare for your exam
+
+**Study Materials**
+
+{{study-materials-intro}}
 
 **Section 1: Validation**
 
@@ -256,33 +329,62 @@ Section 3: Destinations (27%)
 * [Configure a social destination](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/configure-a-social-destination.html){target="_blank"}
 * [Activate data to non-Adobe application](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/activate-data-to-non-adobe-applications.html){target="_blank"}
 
->[!TAB Get certified]
+<br>
 
->[!IMPORTANT]
->
->The following sections and links will function **only**  after a **successful login** to the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}. 
->
->In addition, your profile name in the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} must exactly match your Government ID. Failure to have identical information or any mismatch will result in the proctor terminating the exam and will require you to reschedule your appointment in addition to paying an additional exam fee.*
-
-## Take a practice test
+**Take a practice test**
 
 {{practice-test}}
 
-## About the certification exam
++++ 
+
+<br>
+
++++Step 3: Schedule & pay for exam
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Step 4: Before and after the exam
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Step 5: Take the exam
 
 {{about-certification-exam}}
 
-## Schedule or take exam AD0-E601
+## Schedule or take exam AD7-E601
 
-<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E601" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD7-E601" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
                     
  <span class="spectrum-Button-label has-no-wrap">
    Go to Examity portal
 </span>
 </a>
 
++++
 
->[!ENDTABS]
+<br>
+
++++Step 6: Manage your badges
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Renewing your certification
+
+{{renewing-intro}}
+
+<br>
 
 ## Questions
 

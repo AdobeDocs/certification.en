@@ -10,9 +10,41 @@ exl-id: f99b2abd-c67f-44c2-a04b-f1c7077fbac3
 ---
 # Certification journey for Adobe [!DNL Commerce] Business Practitioner Professional
 
-Learn how to become a certified Adobe Business Practitioner Professional.
+{{intro}}
 
-## Minimum experience
+## Exam description {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Exam details {#exam-details}
+
+* Level: Professional (0-12 months' experience)
+* Passing Score: 30/50
+* Time: 100 mins
+* Delivery: Online proctored (requires camera access)
+* Available languages: English
+* Cost: $125 (global) / $95 (India)
+* Exam ID: AD0-E712
+
+<br>
+
+### Intended audience {#intended-audience}
+
+* Business Analysts
+* Project Managers
+* Product Owners
+* Consultants
+* [!DNL Adobe Commerce] strategists
+* eCommerce Admin/Director/Manager/Consultants
+* Digital Marketing Director/Manager/Developers
+* Solution Specialists
+* Technical Account Managers
+
+<br>
+
+### Minimum experience {#minimum-experience}
 
 You should have a minimum of 0-12 months hands-on experience with [!DNL Magento Open Source] version 2.4.3 using the LUMA or BLANK theme and basic understanding of Adobe [!DNL Commerce] version 2.4.3. 
 
@@ -27,43 +59,13 @@ Additionally, you should have a basic understanding of the eCommerce experience,
 * Security and compliance (GDPR, ADA, PCI DSS v3.2.1, PSD2)
 * Pricing and promotion
 
->[!NOTE]
->
->Your certification is valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
+<br>
 
->[!BEGINTABS]
+### Exam objectives and scope {#exam-objectives}
 
->[!TAB Get ready]
+{{exam-objectives}}
 
-**Intended audience:**
-
-* Business Analysts
-* Project Managers
-* Product Owners
-* Consultants
-* [!DNL Adobe Commerce] strategists
-* eCommerce Admin/Director/Manager/Consultants
-* Digital Marketing Director/Manager/Developers
-* Solution Specialists
-* Technical Account Managers
-
-**Exam details:**
-
-* Level: Professional (0-12 months' experience)
-* Passing Score: 30/50
-* Time: 100 mins
-* Delivery: Online proctored (requires camera access) or test center proctored
-* Available languages: English
-* Cost: $125 (global) / $95 (India)
-* Exam ID: AD0-E712
-
-**Readiness self-assessment**
-
-Complete the [online readiness questionnaire](https://scorpion.caveon.com/launchpad/ad-q-e712-readiness-questionnaire-for-adobe-commerce-business-practitioner-professional-exam/ad-q-e712-readiness-questionnaire-for-adobe-commerce-business-practitioner-professional-exam){target="_blank"} to see if your current experience matches the recommended minimum candidate qualification.
-
-**Exam objectives and scope**
-
-Section 1: [!DNL Magento Open Source] core features (49%)
+**Section 1: [!DNL Magento Open Source] core features (49%)**
 
 * Identify the features of [!DNL Magento Open Source]
 * Distinguish the correct scope and when to use each
@@ -74,13 +76,13 @@ Section 1: [!DNL Magento Open Source] core features (49%)
 * Describe the day-to-day tasks involved in Store maintenance
 * Explain the different types of content elements and when to use
 
-Section 2: Adobe [!DNL Commerce] basics (14%)
+**Section 2: Adobe [!DNL Commerce] basics (14%)**
 
 * Identify the key features available in Adobe [!DNL Commerce]
 * Identify service Add-ons in Adobe [!DNL Commerce]
 * Identify hosting options for Adobe [!DNL Commerce]
 
-Section 3: Digital marketing and eCommerce fundamentals (24%)
+**Section 3: Digital marketing and eCommerce fundamentals (24%)**
 
 * Identify the basic uses of Digital Marketing tools (Google Analytics/Adobe Analytics, Google Tag Manager, Email marketing, Segmentation, Social plugins)
 * Explain the basic principles of SEO
@@ -88,23 +90,39 @@ Section 3: Digital marketing and eCommerce fundamentals (24%)
 * Identify the key features of an eCommerce website
 * Identify the basic eCommerce concepts (including storefront options)
 
-Section 4: Compliance/security basics (13%)
+**Section 4: Compliance/security basics (13%)**
 
 * Understand basics of compliance for privacy laws and payment security
 * Identify common security aspects of an Adobe [!DNL Commerce] project
 * Identify best practices and legal requirements of accessibility compliance
 
->[!TAB Get prepped]
+<br>
 
-You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
+### Readiness questionnaire
 
-Here are some suggested resources to help you prepare:
+{{readiness}}
 
-**Sample questions**
+[Take the online readiness questionnaire](https://scorpion.caveon.com/launchpad/ad-q-e712-readiness-questionnaire-for-adobe-commerce-business-practitioner-professional-exam/ad-q-e712-readiness-questionnaire-for-adobe-commerce-business-practitioner-professional-exam){target="_blank"}
 
-The sample questions allow you to see the type and format of items that you will encounter in the actual exam. There is no sign-on needed. The results of the sample questions are not stored, and do not predict your actual test results.
+<br>
 
-[See sample questions](https://scorpion.caveon.com/launchpad/ad0-e712-adobe-commerce-business-practitioner-professional-copy-bujt66){target="_blank"}
+## How to get certified {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++Step 1: Create your account
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Step 2: Prepare for your exam
+
+**Study Materials**
+
+{{study-materials-intro}}
 
 **Section 1: [!DNL Magento Open Source] core feature**
 
@@ -152,19 +170,35 @@ The sample questions allow you to see the type and format of items that you will
 * [Understanding ADA Compliance and How It Relates to eCommerce Websites](https://magento.com/blog/best-practices/understanding-ada-compliance-and-how-it-relates-ecommerce-websites){target="_blank"}
 * [Adobe [!DNL Commerce] Security Best Practices Guide](https://www.adobe.com/content/dam/cc/en/security/pdfs/Adobe-Magento-Commerce-Best-Practices-Guide.pdf){target="_blank"}
 
->[!TAB Get certified]
+<br>
 
->[!IMPORTANT]
->
->The following sections and links will function **only**  after a **successful login** to the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}. 
->
->In addition, your profile name in the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} must exactly match your Government ID. Failure to have identical information or any mismatch will result in the proctor terminating the exam and will require you to reschedule your appointment in addition to paying an additional exam fee.*
+**Sample questions**
 
-## Take a practice test
+{{sample-questions}}
 
-{{practice-test}}
+[View sample questions](https://scorpion.caveon.com/launchpad/ad0-e712-adobe-commerce-business-practitioner-professional-copy-bujt66){target="_blank"}
 
-## About the certification exam
++++ 
+
+<br>
+
++++Step 3: Schedule & pay for exam
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Step 4: Before and after the exam
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Step 5: Take the exam
 
 {{about-certification-exam}}
 
@@ -177,7 +211,23 @@ The sample questions allow you to see the type and format of items that you will
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Step 6: Manage your badges
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Renewing your certification
+
+{{renewing-intro}}
+
+<br>
 
 ## Questions
 

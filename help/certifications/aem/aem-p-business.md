@@ -10,39 +10,15 @@ exl-id: 83ee013f-aa37-409b-8bcb-385be6962b26
 ---
 # Certification journey for Adobe [!DNL Experience Manager] Business Practitioner Professional
 
-Learn how to become a certified Adobe [!DNL Experience Manager] Business Practitioner Professional.
+{{intro}}
 
-## Minimum experience
+## Exam description {#exam-description}
 
-You should have:
+{{exam-description}}
 
-* At least 0-12 months' of experience using and configuring Adobe Cloud Manager
-* At least 0-12 months' of experience with AEM features and capabilities needed to engage developers to find business solutions
-* At least 0-12 months' of experience configuring, implementing, and managing Continuous Integration/Continuous Deployment tasks 
+<br>
 
-If you're comfortable working in Adobe Managed Services and Adobe [!DNL Experience Manager] as a Cloud Service, and are able to set up Adobe [!DNL Experience Manager] environments and infrastructure.
-
-Additionally, you should have:
-
-* The ability use AEM products to manage content to drive digital experiences
-* An understanding of what modules are present
-* A deeper insight into modules such as Sites, Assets, and Forms
-
->[!NOTE]
->
->Your certification is valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
-
->[!BEGINTABS]
-
->[!TAB Get ready]
-
-**Intended audience:**
-
-* Solution consultant
-* Consumer experience
-* Product owner for a solution being designed and implemented, business analyst, solution architect
-
-**Exam details:**
+### Exam details {#exam-details}
 
 * Level: Professional (0-12 months' experience)
 * Passing Score: 33/50
@@ -52,22 +28,52 @@ Additionally, you should have:
 * Cost: $125 (global) / $95 (India)
 * Exam ID: AD0-E126
 
-**Exam objectives and scope**
+<br>
 
-Section 1: Education (22%)
+### Intended audience {#intended-audience}
+
+* Solution consultant
+* Consumer experience
+* Product owner for a solution being designed and implemented, business analyst, solution architect
+
+<br>
+
+### Minimum experience {#minimum-experience}
+
+You should have:
+
+* At least 0-12 months' of experience using and configuring Adobe Cloud Manager
+* At least 0-12 months' of experience with AEM features and capabilities needed to engage developers to find business solutions
+* At least 0-12 months' of experience configuring, implementing, and managing Continuous Integration/Continuous Deployment tasks 
+
+You should be comfortable working in Adobe Managed Services and Adobe [!DNL Experience Manager] as a Cloud Service, and are able to set up Adobe [!DNL Experience Manager] environments and infrastructure.
+
+Additionally, you should have:
+
+* The ability use AEM products to manage content to drive digital experiences
+* An understanding of what modules are present
+* A deeper insight into modules such as Sites, Assets, and Forms
+
+<br>
+
+### Exam objectives and scope {#exam-objectives}
+
+{{exam-objectives}}
+
+**Section 1: Education (22%)**
 
 * Identify AEM features and capabilities
 * Describe AEM features that meet business needs
 * Describe procedural concepts necessary to conduct training for content editors
 
-Section 2: Architecture (22%)
+**Section 2: Architecture (22%)**
 
 * Identify information architecture appropriate to meet business needs using either on-prem or Adobe hosted (Cloud) environment
 * Describe how AEM connects with third-party services
 * Identify where to define roles and permissions
 * Given a scenario, define available caching approaches
 
-Section 3: Business Analysis (43%)
+**Section 3: Business Analysis (43%)**
 
 * Given a scenario, identify standard modules of AEM that address customer business problems
 * Identify content management concepts for AEM modules
@@ -76,22 +82,30 @@ Section 3: Business Analysis (43%)
 * Given a scenario, describe a correct approach to meet business goals while remaining within budget and/or scope
 * Identify ways to connect business goals with the development team
 
-Section 4: Setup and implementation (13%)
+**Section 4: Setup and implementation (13%)**
 
 * Identify best AEM practices to use content components
 * Given a scenario, identify the correct implementation of a feature
 
->[!TAB Get prepped]
+<br>
 
-You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
+## How to get certified {#how-to-get-certified}
 
-Here are some suggested resources to help you prepare:
+{{how-to-get-certified-intro}}
 
-**Sample questions**
++++Step 1: Create your account
 
-The sample questions allow you to see the type and format of items that you will encounter in the actual exam. There is no sign-on needed. The results of the sample questions are not stored, and do not predict your actual test results.
+{{create-your-account}}
 
-[See sample questions](https://scorpion.caveon.com/launchpad/ad0-e126-adobe-experience-manager-business-practitioner-professional-copy-ddww4w){target="_blank"}
++++
+
+<br>
+
++++Step 2: Prepare for your exam
+
+**Study Materials**
+
+{{study-materials-intro}}
 
 **Section 1: Education**
 
@@ -132,16 +146,35 @@ The sample questions allow you to see the type and format of items that you will
 * [Integrating with Adobe [!DNL Target]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/sites/integrations/integrating-adobe-target.html){target="_blank"}
 * [AEM [!DNL Sites] videos and tutorials](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/overview.html){target="_blank"}
 
->[!TAB Get certified]
+<br>
 
->[!IMPORTANT]
->
->The following sections and links will function **only**  after a **successful login** to the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}. 
->
->In addition, your profile name in the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} must exactly match your Government ID. Failure to have identical information or any mismatch will result in the proctor terminating the exam and will require you to reschedule your appointment in addition to paying an additional exam fee.*
+**Sample questions**
 
+{{sample-questions}}
 
-## About the certification exam
+[View sample questions](https://scorpion.caveon.com/launchpad/ad0-e126-adobe-experience-manager-business-practitioner-professional-copy-ddww4w){target="_blank"}
+
++++ 
+
+<br>
+
++++Step 3: Schedule & pay for exam
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Step 4: Before and after the exam
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Step 5: Take the exam
 
 {{about-certification-exam}}
 
@@ -154,7 +187,23 @@ The sample questions allow you to see the type and format of items that you will
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Step 6: Manage your badges
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Renewing your certification
+
+{{renewing-intro}}
+
+<br>
 
 ## Questions
 

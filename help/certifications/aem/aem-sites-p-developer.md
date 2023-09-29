@@ -10,31 +10,15 @@ exl-id: c7508746-d709-46d8-8a1e-4b16e5020f96
 ---
 # Certification journey for Adobe [!DNL Experience Manager Sites] Developer Professional
 
-Learn how to become a certified Adobe [!DNL Experience Manager Sites] Developer Professional.
+{{intro}}
 
-## Minimum experience
+## Exam description {#exam-description}
 
-You should be an application developer and have:
+{{exam-description}}
 
-* 0-12 months of experience working with the AEM [!DNL Platform]
-* The ability to perform component development
-* A basic understanding of the MVC framework, life cycle frameworks and libraries in AEM
+<br>
 
->[!NOTE]
->
->Your certification is valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
-
->[!BEGINTABS]
-
->[!TAB Get ready]
-
-**Intended audience:**
-
-* AEM Developers
-* Front End Developers
-* Software Engineers
-
-**Exam details:**
+### Exam details {#exam-details}
 
 * Level: Professional (0-12 months' experience)
 * Passing Score: 31/50
@@ -44,9 +28,31 @@ You should be an application developer and have:
 * Cost: $125 (global) / $95 (India)
 * Exam ID: AD0-E123
 
-**Exam objectives and scope**
+<br>
 
-Section 1: Configurations (26%)
+### Intended audience {#intended-audience}
+
+* AEM Developers
+* Front End Developers
+* Software Engineers
+
+<br>
+
+### Minimum experience {#minimum-experience}
+
+You should be an application developer and have:
+
+* 0-12 months of experience working with the AEM [!DNL Platform]
+* The ability to perform component development
+* A basic understanding of the MVC framework, life cycle frameworks and libraries in AEM
+
+<br>
+
+### Exam objectives and scope {#exam-objectives}
+
+{{exam-objectives}}
+
+**Section 1: Configurations (26%)**
 
 * Recognize the purpose of AEM dispatcher configurations and caching
 * Determine the correct steps to configure multi-site in AEM
@@ -54,36 +60,44 @@ Section 1: Configurations (26%)
 * Determine the correct steps to to manage custom OAK indices
 * Determine the correct steps to configure OOTB SAML or IMS integration
 
-Section 2: AEM development (40%)
+**Section 2: AEM development (40%)**
 
 * Determine the correct steps to implement core-based components
 * Connect component functionality including the HTL, models, and services
 * Given a scenario, determine the correct steps to develop workflows
 * Given a scenario, outline the purpose of content fragments or experience fragments
 
-Section 3: Build and deployment (12%)
+**Section 3: Build and deployment (12%)**
 
 * Define Maven project structure
 * Configure projects from archetypes
 
-Section 4: Environment maintenance (22%)
+**Section 4: Environment maintenance (22%)**
 
 * Given a scenario, determine the steps required to debug issues in AEM environments
 * Explain AEM maintenance releases
 * Identify how to configure AEM across topologies
 * Determine the steps required around planning and migrating to AEM as a Cloud Service
 
->[!TAB Get prepped]
+<br>
 
-You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
+## How to get certified {#how-to-get-certified}
 
-Here are some suggested resources to help you prepare:
+{{how-to-get-certified-intro}}
 
-**Sample questions**
++++Step 1: Create your account
 
-The sample questions allow you to see the type and format of items that you will encounter in the actual exam. There is no sign-on needed. The results of the sample questions are not stored, and do not predict your actual test results.
+{{create-your-account}}
 
-[See sample questions](https://scorpion.caveon.com/launchpad/ad3-e123-adobe-experience-manager-sites-developer-professional-sample-questions){target="_blank"}
++++
+
+<br>
+
++++Step 2: Prepare for your exam
+
+**Study Materials**
+
+{{study-materials-intro}}
 
 **Section 1: Configurations**
 
@@ -116,15 +130,35 @@ The sample questions allow you to see the type and format of items that you will
 * [[!DNL AEM as Cloud Service] videos and tutorials](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/overview.html){target="_blank"}
 * [Adobe [!DNL Experience Manager] Release Updates and Roadmap](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/home.html){target="_blank"}
 
->[!TAB Get certified]
+<br>
 
->[!IMPORTANT]
->
->The following sections and links will function **only**  after a **successful login** to the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}. 
->
->In addition, your profile name in the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} must exactly match your Government ID. Failure to have identical information or any mismatch will result in the proctor terminating the exam and will require you to reschedule your appointment in addition to paying an additional exam fee.*
+**Sample questions**
 
-## About the certification exam
+{{sample-questions}}
+
+[View sample questions](https://scorpion.caveon.com/launchpad/ad3-e123-adobe-experience-manager-sites-developer-professional-sample-questions){target="_blank"}
+
++++ 
+
+<br>
+
++++Step 3: Schedule & pay for exam
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Step 4: Before and after the exam
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Step 5: Take the exam
 
 {{about-certification-exam}}
 
@@ -137,10 +171,27 @@ The sample questions allow you to see the type and format of items that you will
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Step 6: Manage your badges
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Renewing your certification
+
+{{renewing-intro}}
+
+<br>
 
 ## Questions
 
 View the certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Additional questions? [Contact us](mailto:certif@adobe.com){target="_blank"}.
+

@@ -10,11 +10,46 @@ exl-id: 88f9cbfb-c9bc-4d27-a9de-1199c5cd013e
 ---
 # Certification journey for Adobe [!DNL Marketo Engage] Business Practitioner Expert
 
-Learn how to become a certified Adobe [!DNL Marketo Engage] Business Practitioner Expert.
+{{intro}}
 
-## Minimum experience
+## Exam description {#exam-description}
 
-You should have:
+{{exam-description}}
+
+<br>
+
+### Exam details {#exam-details}
+
+* Level: Expert (1-3 years' experience)
+* Passing Score: 32/50
+* Time: 110 mins
+* Delivery: Online proctored (requires camera access)
+* Available languages: English, Japanese
+* Cost: $225 (global) / $150 (India)
+* Exam ID: AD0-E559 (English), AD0-E559-J (Japanese)
+
+<br>
+
+### Intended audience {#intended-audience}
+
+* Marketing operations manager/specialist/expert/analyst
+* Digital marketing manager/specialist/expert/analyst
+* Campaign manager/specialist/expert/analyst
+* [!DNL Marketo Engage] consultants
+* Digital/marketing automation manager/specialist/expert/analyst
+* Marketing systems manager
+* Demand generation manager
+* Email marketing manager
+* Revenue operations manager
+* Growth operations manager
+* Martech architect
+* Marketing technology manager
+* Integrated campaign managers
+* Business system analyst
+
+<br>
+
+### Minimum experience {#minimum-experience}
 
 * Approximately 18 months of experience with Adobe [!DNL Marketo Engage] features and capabilities needed to create marketing campaigns and utilize customer behavior data
 
@@ -33,48 +68,13 @@ Additionally, you should be familiar with the following tools and technologies:
 * Microsoft Office
 * Basic HTML
 
->[!NOTE]
->
->Your certification is valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
+<br>
 
->[!BEGINTABS]
+### Exam objectives and scope {#exam-objectives}
 
->[!TAB Get ready]
+{{exam-objectives}}
 
-**Intended audience:** 
-
-* Marketing operations manager/specialist/expert/analyst
-* Digital marketing manager/specialist/expert/analyst
-* Campaign manager/specialist/expert/analyst
-* [!DNL Marketo Engage] consultants
-* Digital/marketing automation manager/specialist/expert/analyst
-* Marketing systems manager
-* Demand generation manager
-* Email marketing manager
-* Revenue operations manager
-* Growth operations manager
-* Martech architect
-* Marketing technology manager
-* Integrated campaign managers
-* Business system analyst
-
-**Exam details:**
-  
-* Level: Expert (1-3 years' experience)
-* Passing Score: 32/50
-* Time: 110 mins
-* Delivery: Online proctored (requires camera access) or test center proctored
-* Available languages: English & Japanese
-* Cost: $225 (global) / $150 (India)
-* Exam ID: AD0-E559
-
-**Readiness self-assessment**
-
-Complete the [online readiness questionnaire](https://scorpion.caveon.com/launchpad/ad-q-e558-readiness-questionnaire-for-adobe-marketo-engage-business-practitioner-expert-exam){target="_blank"} to see if your current experience matches the recommended minimum candidate qualification.
-
-**Exam objectives and scope**
-
-Section 1: Administration and Maintenance (12%)
+**Section 1: Administration and Maintenance (12%)**
 
 * Determine mapping process between Marketo and CRM
 * Identify what happened to an asset using the Audit Trail
@@ -83,7 +83,7 @@ Section 1: Administration and Maintenance (12%)
 * Identify CRM platforms with native Marketo synchronization
 * Given a scenario, locate where information is referenced
 
-Section 2: Marketing Activities/Campaign Management (46%)
+**Section 2: Marketing Activities/Campaign Management (46%)**
 
 * Demonstrate an understanding of Smart Campaigns, logic, constraints and flow steps
 * Given a scenario, define the next step
@@ -100,7 +100,7 @@ Section 2: Marketing Activities/Campaign Management (46%)
 * Troubleshoot communication limits
 * Use Webinar provider information in an event program
 
-Section 3: Lead Management (12%)
+**Section 3: Lead Management (12%)**
 
 * Outline the key decision points in defining the lifecycle model
 * Apply best practices around lead scoring
@@ -108,19 +108,19 @@ Section 3: Lead Management (12%)
 * Interpret the lead activity log
 * Given a scenario, identify the creation source
 
-Section 4: Data Management (10%)
+**Section 4: Data Management (10%)**
 
 * Demonstrate how to set up a data management program
 * Analyze an instance's data quality
 * Identify a few key pieces of Marketo's data retention policy as it relates to smart lists
 * Summarize how segmentation works
 
-Section 5: Reporting (4%)
+**Section 5: Reporting (4%)**
 
 * Given an outcome of a campaign, determine how to set up a program to provide the best reporting
 * Given a scenario, be able to investigate and assign the appropriate acquisition program
 
-Section 6: Best Practices (16%)
+**Section 6: Best Practices (16%)**
 
 * Demonstrate the relevance of lead scoring in marketing and sales collaboration
 * Illustrate the benefits of the folder structure and naming conventions
@@ -128,11 +128,33 @@ Section 6: Best Practices (16%)
 * Explain the process to perform a quality check on any Marketo program
 * Explain the process to perform a quality check on an email
 
->[!TAB Get prepped]
+<br>
 
-You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
+### Readiness questionnaire
 
-Here are some suggested resources to help you prepare:
+{{readiness}}
+
+[Take the online readiness questionnaire](https://scorpion.caveon.com/launchpad/ad-q-e558-readiness-questionnaire-for-adobe-marketo-engage-business-practitioner-expert-exam){target="_blank"}
+
+<br>
+
+## How to get certified {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++Step 1: Create your account
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Step 2: Prepare for your exam
+
+**Study Materials**
+
+{{study-materials-intro}}
 
 **Section 1: Administration and maintenance**
 
@@ -198,19 +220,33 @@ Here are some suggested resources to help you prepare:
 * [The Definitive Guide to Lead Scoring](https://www.marketo.com/definitive-guides/lead-scoring/){target="_blank"}
 * [Understand Folders](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.html){target="_blank"}
 
->[!TAB Get certified]
+<br>
 
->[!IMPORTANT]
->
->The following sections and links will function **only**  after a **successful login** to the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}. 
->
->In addition, your profile name in the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} must exactly match your Government ID. Failure to have identical information or any mismatch will result in the proctor terminating the exam and will require you to reschedule your appointment in addition to paying an additional exam fee.*
-
-## Take a practice test
+**Take a practice test**
 
 {{practice-test}}
 
-## About the certification exam
++++ 
+
+<br>
+
++++Step 3: Schedule & pay for exam
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Step 4: Before and after the exam
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Step 5: Take the exam
 
 {{about-certification-exam}}
 
@@ -234,10 +270,27 @@ Here are some suggested resources to help you prepare:
 
 [Japanese instructions for scheduling](/help/certifications/assets/Examity-Instructions-in-Japanese.pdf)
 
->[!ENDTABS]
++++
+
+<br>
+
++++Step 6: Manage your badges
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Renewing your certification
+
+{{renewing-intro}}
+
+<br>
 
 ## Questions
 
 View the certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Additional questions? [Contact us](mailto:certif@adobe.com){target="_blank"}.
+

@@ -9,9 +9,41 @@ exl-id: 08f5386c-901c-44be-9537-48c9ac5d2be2
 ---
 # Certification journey for Adobe [!DNL Workfront] Core Developer Professional
 
-Learn how to become a certified Adobe [!DNL Workfront] Core Developer professional.
+{{intro}}
 
-## Minimum experience
+## Exam description {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Exam details {#exam-details}
+
+* Level: Professional (0-12 months' experience)
+* Passing Score: 44/70
+* Time: 140 mins
+* Delivery: Online proctored (requires camera access)
+* Available languages: English
+* Cost: $125 (global) / $95 (India)
+* Exam ID: AD0-E905
+
+<br>
+
+### Intended audience {#intended-audience}
+
+* Technical consultant
+* System administrator
+* Project manager
+* Project coordinator
+* Strategist
+* Resource manager
+* Analyst
+* IT specialist
+* [!DNL Workfront] implementation consultant/lead
+
+<br>
+
+### Minimum experience {#minimum-experience}
 
 You should have:
 
@@ -30,55 +62,25 @@ And, you should have:
 * Familiarity with native connectors and other Adobe [!DNL Workfront] products and services
 * Familiarity with project management including agile and waterfall, and resource management concepts
 
->[!NOTE]
->
->Your certification is valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
+<br>
 
->[!BEGINTABS]
+### Exam objectives and scope {#exam-objectives}
 
->[!TAB Get ready]
+{{exam-objectives}}
 
-**Intended audience:**
-
-* Technical consultant
-* System administrator
-* Project manager
-* Project coordinator
-* Strategist
-* Resource manager
-* Analyst
-* IT specialist
-* [!DNL Workfront] implementation consultant/lead
-
-**Exam details:** 
-
-* Level: Professional (0-12 months' experience)
-* Passing Score: 44/70
-* Time: 140 mins
-* Delivery: Online proctored (requires camera access)
-* Available languages: English
-* Cost: $125 (global) / $95 (India)
-* Exam ID: AD0-E905
-
-**Readiness self-assessment**
-
-Complete the [online readiness questionnaire](https://scorpion.caveon.com/launchpad/ad-q-e905-readiness-questionnaire-for-adobe-workfront-core-developer-professional/ad-q-e905-readiness-questionnaire-for-adobe-workfront-core-developer-professional){target="_blank"} to see if your current experience matches the recommended minimum candidate qualification.
-
-**Exam objectives and scope**
-
-Section 1. Strategy and intake (24%)
+**Section 1. Strategy and intake (24%)**
 
 * Use portfolios and programs
 * Use request queues
 * Use custom forms
 * Use basic approvals
 
-Section 2. Budget and planning (11%)
+**Section 2. Budget and planning (11%)**
 
 * Use the Resource Planner
 * Given a scenario/set of requirements, apply the configurations to set up a project template
 
-Section 3. User experience (25%)
+**Section 3. User experience (25%)**
 
 * Illustrate best practices for user management in creating the right user experience
 * Given a scenario, apply the correct set up for sharing and access rights across the system
@@ -86,13 +88,13 @@ Section 3. User experience (25%)
 * Demonstrate how to create and use timesheets
 * Describe the purpose and value of connectors, plug-ins, and add-ons
 
-Section 4. Metrics and reporting (16%)
+**Section 4. Metrics and reporting (16%)**
 
 * Describe basic concepts for building, sending, and customizing reports
 * Explain how to build and customize dashboards
 * Demonstrate how to configure functional views of reports
 
-Section 5. Execution (24%)
+**Section 5. Execution (24%)**
 
 * Demonstrate how to set up approval and proofing workflows
 * Recognize the purpose of creating an issue for a project
@@ -101,17 +103,33 @@ Section 5. Execution (24%)
 * Identify the ways to enter time in [!DNL Workfront]
 * Identify the elements of financial tracking in [!DNL Workfront]
 
->[!TAB Get prepped]
+<br>
 
-You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
+### Readiness questionnaire
 
-Here are some suggested resources to help you prepare:
+{{readiness}}
 
-**Sample Questions**
+[Take the online readiness questionnaire](https://scorpion.caveon.com/launchpad/ad-q-e905-readiness-questionnaire-for-adobe-workfront-core-developer-professional/ad-q-e905-readiness-questionnaire-for-adobe-workfront-core-developer-professional){target="_blank"}
 
-The sample questions allow you to see the type and format of items that you will encounter in the actual exam. There is no sign-on needed. The results of the sample questions are not stored, and do not predict your actual test results.
+<br>
 
-[See sample questions](https://scorpion.caveon.com/launchpad/ad0-e905-adobe-workfront-developer-professional-copy-ljt8s6/ad4-e905-adobe-workfront-core-developer-professional-sample-exam){target="_blank"}
+## How to get certified {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++Step 1: Create your account
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Step 2: Prepare for your exam
+
+**Study Materials**
+
+{{study-materials-intro}}
 
 **Section 1: Strategy and intake**
 
@@ -154,17 +172,35 @@ The sample questions allow you to see the type and format of items that you will
 * [Create an agile team](https://experienceleague.adobe.com/docs/workfront/using/agile/agile-in-workfront/create-an-agile-team.html){target="_blank"}
 * [Track costs](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/project-finances/track-costs.html){target="_blank"}
 
->[!TAB Get certified]
+<br>
 
->[!IMPORTANT]
->
->The following sections and links will function **only**  after a **successful login** to the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}. 
->
->In addition, your profile name in the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} must exactly match your Government ID. Failure to have identical information or any mismatch will result in the proctor terminating the exam and will require you to reschedule your appointment in addition to paying an additional exam fee.*
+**Sample questions**
 
+{{sample-questions}}
 
+[View sample questions](https://scorpion.caveon.com/launchpad/ad0-e905-adobe-workfront-developer-professional-copy-ljt8s6/ad4-e905-adobe-workfront-core-developer-professional-sample-exam){target="_blank"}
 
-## About the certification exam
++++ 
+
+<br>
+
++++Step 3: Schedule & pay for exam
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Step 4: Before and after the exam
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Step 5: Take the exam
 
 {{about-certification-exam}}
 
@@ -177,7 +213,23 @@ The sample questions allow you to see the type and format of items that you will
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Step 6: Manage your badges
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Renewing your certification
+
+{{renewing-intro}}
+
+<br>
 
 ## Questions
 

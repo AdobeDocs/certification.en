@@ -11,9 +11,35 @@ exl-id: f89a197f-dfe9-4e53-a783-97326bd6d934
 ---
 # Certification journey for [!DNL Adobe Advertising Search] Business Practitioner Professional
 
-Learn how to become a certified [!DNL Adobe Advertising Search] Business Practitioner Professional.
+{{intro}}
 
-## Minimum experience
+## Exam description {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Exam details {#exam-details}
+
+* Level: Professional (0-12 months' experience)
+* Passing Score: 35/50
+* Time: 100 mins
+* Delivery: Online proctored (requires camera access)
+* Available languages: English
+* Cost: $125 (global) / $95 (India)
+* Exam ID: AD0-E501
+
+<br>
+
+### Intended audience {#intended-audience}
+
+* Search marketing campaign managers 
+* Search marketing practitioners 
+* Individuals that regularly uses Search to execute and manage search campaigns
+
+<br>
+
+### Minimum experience {#minimum-experience}
 
 You should have:
 
@@ -22,7 +48,7 @@ You should have:
 * Experience working in [!DNL Advertising Search] and are familiar with paid search bidding automation, campaign management,
 * An understanding of Portfolio theory
 
-Experience working with the following functions:
+You should also have experience working with the following functions:
 
 * Creating each aspect of Portfolio
 * Creating custom simulations to determine when portfolios are ready for optimization
@@ -45,37 +71,13 @@ Experience working with the following functions:
 * Audience bid-modifier
 * Location bid adjustment
 
->[!NOTE]
->
->Your certification is valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
+<br>
 
->[!BEGINTABS]
+### Exam objectives and scope {#exam-objectives}
 
->[!TAB Get ready]
+{{exam-objectives}}
 
-**Intended audience:**
-
-* Search marketing campaign managers 
-* Search marketing practitioners 
-* Individuals that regularly uses Search to execute and manage search campaigns
-
-**Exam details:**
-
-* Level: Professional (0-12 months' experience)
-* Passing Score: 35/50
-* Time: 100 mins
-* Delivery: Online proctored (requires camera access) or test center proctored
-* Available languages: English
-* Cost: $125 (global) / $95 (India)
-* Exam ID: AD0-E501
-
-**Readiness self-assessment**
-
-Complete the [online readiness questionnaire](https://scorpion.caveon.com/launchpad/ad-q-e407-readiness-questionnaire-for-adobe-target-architect-master-exam-copy-2yfz3t/ad-q-e501-readiness-questionnaire-for-adobe-advertising-cloud-search-business-practitioner-professional-exam){target="_blank"} to see if your current experience matches the recommended minimum candidate qualification.
-
-**Exam objectives and scope**
-
-Section 1: Portfolios & optimizations (54%)
+**Section 1: Portfolios & optimizations (54%)**
 
 * Given a scenario, select and set up automated bidding strategies
 * Given business strategies, define and create Portfolio KPI objectives
@@ -84,27 +86,49 @@ Section 1: Portfolios & optimizations (54%)
 * Given a scenario, evaluate and troubleshoot Portfolio performance
 * Given a scenario, determine how to adjust Portfolio settings on an ongoing basis
 
-Section 2: Reports, insights, and tools (14%)
+**Section 2: Reports, insights, and tools (14%)**
 
 * Apply procedural concepts to create and schedule reports based on business needs
 * Determine optimal budget allocation using available Platform AI tools across Portfolios and apply if needed
 * Given a use case, create and define custom simulations for Portfolio analysis and forecast
 
-Section 3: Campaign administration (22%)
+**Section 3: Campaign administration (22%)**
 
 * Set up accounts
 * Build, manage, and organize all aspects of campaigns
 
-Section 4: Measurement (10%)
+**Section 4: Measurement (10%)**
 
 * Given a business scenario, determine an approach to campaign conversion tracking and apply
 * Given a scenario, troubleshoot campaign conversion metric issues
 
->[!TAB Get prepped]
+<br>
 
-You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
+### Readiness questionnaire
 
-Here are some suggested resources to help you prepare:
+{{readiness}}
+
+[Take the online readiness questionnaire](https://scorpion.caveon.com/launchpad/ad-q-e407-readiness-questionnaire-for-adobe-target-architect-master-exam-copy-2yfz3t/ad-q-e501-readiness-questionnaire-for-adobe-advertising-cloud-search-business-practitioner-professional-exam){target="_blank"}.
+
+<br>
+
+## How to get certified {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++Step 1: Create your account
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Step 2: Prepare for your exam
+
+**Study Materials**
+
+{{study-materials-intro}}
 
 **Section 1: Portfolios & optimizations**
 
@@ -141,16 +165,27 @@ Here are some suggested resources to help you prepare:
 * [Marketo Measure Help Documentation](https://experienceleague.adobe.com/docs/marketo-measure/using/home.html){target="_blank"}
 * [Conversion Variables (eVars)](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/conversion-variables/conversion-var-admin.html){target="_blank"}
 
->[!TAB Get certified]
++++ 
 
->[!IMPORTANT]
->
->The following sections and links will function **only**  after a **successful login** to the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}. 
->
->In addition, your profile name in the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} must exactly match your Government ID. Failure to have identical information or any mismatch will result in the proctor terminating the exam and will require you to reschedule your appointment in addition to paying an additional exam fee.*
+<br>
 
++++Step 3: Schedule & pay for exam
 
-## About the certification exam
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Step 4: Before and after the exam
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Step 5: Take the exam
 
 {{about-certification-exam}}
 
@@ -163,10 +198,29 @@ Here are some suggested resources to help you prepare:
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Step 6: Manage your badges
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Renewing your certification
+
+{{renewing-intro}}
+
+<br>
 
 ## Questions
 
 View the certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Additional questions? [Contact us](mailto:certif@adobe.com){target="_blank"}.
+
+
+

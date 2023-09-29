@@ -9,9 +9,38 @@ exl-id: d3d817d1-7a0c-439a-a02e-b2dcc64e4805
 ---
 # Certification journey for Adobe [!DNL Workfront Fusion] Developer Professional
 
-Learn how to become a certified Adobe [!DNL Workfront] Developer Professional.
+{{intro}}
 
-## Minimum experience
+## Exam description {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Exam details {#exam-details}
+
+* Level: Professional (0-12 months' experience)
+* Passing Score: 33/51
+* Time: 102 mins
+* Delivery: Online proctored (requires camera access)
+* Available languages: English
+* Cost: $125 (global) / $95 (India)
+* Exam ID: AD0-E902
+
+<br>
+
+### Intended audience {#intended-audience}
+
+* Developer, Automation Engineer
+* Automator, Process optimization and automation manager
+* Integration consultants, Consultants, Partners
+* System integrators/Partners
+* Business analysts, applied business analysts
+* System administrator (IT, MIS, Technology, Knowledge Systems, AI administrators)
+
+<br>
+
+### Minimum experience {#minimum-experience}
 
 You should have:
 
@@ -26,36 +55,13 @@ You should have:
 * The ability to manage organization teams and users
 * An understanding of the purpose and use of universal connectors for REST API Oauth2
 
->[!NOTE]
->
->Your certification is valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
+<br>
 
->[!BEGINTABS]
+### Exam objectives and scope {#exam-objectives}
 
->[!TAB Get ready]
+{{exam-objectives}}
 
-**Intended audience:**
-
-* Developer, Automation Engineer
-* Automator, Process optimization and automation manager
-* Integration consultants, Consultants, Partners
-* System integrators/Partners
-* Business analysts, applied business analysts
-* System administrator (IT, MIS, Technology, Knowledge Systems, AI administrators)
-
-**Exam details:** 
-
-* Level: Professional (0-12 months' experience)
-* Passing Score: 33/51
-* Time: 102 mins
-* Delivery: Online proctored (requires camera access) or test center proctored
-* Available languages: English
-* Cost: $125 (global) / $95 (India)
-* Exam ID: AD0-E902
-
-**Exam objectives and scope**
-
-Section 1: Foundational technical concepts (39%)
+**Section 1: Foundational technical concepts (39%)**
 
 * Given a [!DNL Fusion] scenario with one field format that needs to be in another field format, provide the possible functions that could be used to transform the data correctly
 * Given a [!DNL Fusion] scenario that requires a function to be nested inside another function, select the properly formed expression
@@ -71,7 +77,7 @@ Section 1: Foundational technical concepts (39%)
 * Identify the different options in the [!DNL Fusion] scenario settings to address scenario needs
 * Given a [!DNL Fusion] scenario, select the appropriate flow control and/or determine the correct combination of flow control module(s)
 
-Section 2: Scenario design and architecture (35%)
+**Section 2: Scenario design and architecture (35%)**
 
 * Given a list of steps, choose the correct sequence to parse JSON and convert to bundles
 * Given a set of requirements, identify the correct data look up method
@@ -86,7 +92,7 @@ Section 2: Scenario design and architecture (35%)
 * Given a description of a need to archive a scenario for longer than 60 days and select the only possible way (import/export blueprint)
 * Given an example of an Error 403: Forbidden, correctly select the origin of the error message and cause
 
-Section 3: Testing and error handling (16%)
+**Section 3: Testing and error handling (16%)**
 
 * Identify the elements of a test plan
 * Identify the elements of a test case
@@ -95,24 +101,32 @@ Section 3: Testing and error handling (16%)
 * Identify how to track, read, and resolve incomplete executions
 * Given a [!DNL Fusion] scenario with missing required data, select ways to handle the invalid data
 
-Section 4: Working with APIs (10%)
+**Section 4: Working with APIs (10%)**
 
 * Given a third-party API that returns a 429: Too Many Requests, identify a solution to prevent or handle the error
 * Given a [!DNL Fusion] scenario where new functionality is not available in the [!DNL Workfront] module, identify the correct reference and module type to use the new functionality
 * Given a third-party system that does not have a dedicated app, identify the HTTP app and select the appropriate module
 * Identify the difference between CRUD operations and other common capabilities of REST APIs
 
->[!TAB Get prepped]
+<br>
 
-You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
+## How to get certified {#how-to-get-certified}
 
-Here are some suggested resources to help you prepare:
+{{how-to-get-certified-intro}}
 
-**Sample questions**
++++Step 1: Create your account
 
-The sample questions allow you to see the type and format of items that you will encounter in the actual exam. There is no sign-on needed. The results of the sample questions are not stored, and do not predict your actual test results.
+{{create-your-account}}
 
-[See sample questions](https://scorpion.caveon.com/launchpad/ad0-e902-adobe-workfront-fusion-developer-professional-copy-exs5g8){target="_blank"}
++++
+
+<br>
+
++++Step 2: Prepare for your exam
+
+**Study Materials**
+
+{{study-materials-intro}}
 
 **Section 1: Foundational technical concepts**
 
@@ -145,16 +159,35 @@ The sample questions allow you to see the type and format of items that you will
 * [Apps and their modules](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&topicId=Content%2FWorkfront_Fusion%2FApps_and_their_modules%2F_apps-and-their-modules.htm&_LANG=enus){target="_blank"}
 * [Modules in Adobe [!DNL Workfront Fusion]](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&topicId=Content%2FWorkfront_Fusion%2FModules%2F_modules.htm&_LANG=en){target="_blank"}
 
->[!TAB Get certified]
+<br>
 
->[!IMPORTANT]
->
->The following sections and links will function **only**  after a **successful login** to the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}. 
->
->In addition, your profile name in the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} must exactly match your Government ID. Failure to have identical information or any mismatch will result in the proctor terminating the exam and will require you to reschedule your appointment in addition to paying an additional exam fee.*
+**Sample questions**
 
+{{sample-questions}}
 
-## About the certification exam
+[View sample questions](https://scorpion.caveon.com/launchpad/ad0-e902-adobe-workfront-fusion-developer-professional-copy-exs5g8){target="_blank"}
+
++++ 
+
+<br>
+
++++Step 3: Schedule & pay for exam
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Step 4: Before and after the exam
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Step 5: Take the exam
 
 {{about-certification-exam}}
 
@@ -167,7 +200,23 @@ The sample questions allow you to see the type and format of items that you will
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Step 6: Manage your badges
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Renewing your certification
+
+{{renewing-intro}}
+
+<br>
 
 ## Questions
 

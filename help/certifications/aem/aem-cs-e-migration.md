@@ -10,9 +10,39 @@ exl-id: 64b53064-8280-405b-a5f7-b50264394b82
 ---
 # Certification journey for Adobe [!DNL Experience Manager] as a Cloud Service Migration Expert
 
-Learn how to become a certified Adobe [!DNL Experience Manager] Expert.
+{{intro}}
 
-## Minimum experience
+## Exam description {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Exam details {#exam-details}
+
+* Level: Expert (1-3 years' experience)
+* Passing Score: 31/50
+* Time: 100 mins
+* Delivery: Online proctored (requires camera access)
+* Available languages: English
+* Cost: $125 (global) / $95 (India)
+* Exam ID: AD0-E136
+
+<br>
+
+### Intended audience {#intended-audience}
+
+* Developers who have experience with Adobe [!DNL Experience Manager]
+* Developers who have participated in at least one Cloud Migration
+* Adobe [!DNL Experience Manager] Sites Developers
+* Adobe [!DNL Experience Manager] Sites Architect
+* Adobe [!DNL Experience Manager] Assets Developers
+* Adobe [!DNL Experience Manager] Forms Developers
+* Developers/DevOps/Leads/Architects who have participated in multiple AEM deployments with a minimum of 2-3 years of web application development experience using Adobe [!DNL Experience Manager]
+
+<br>
+
+### Minimum experience {#minimum-experience}
 
 You should have:
 
@@ -40,37 +70,13 @@ Additionally, you should be familiar with the following technologies and environ
 * Tailing Cloud logs in local environment
 * Cloud console interfaces
 
->[!NOTE]
->
->Your certification is valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
+<br>
 
->[!BEGINTABS]
+### Exam objectives and scope {#exam-objectives}
 
->[!TAB Get ready]
+{{exam-objectives}}
 
-**Intended audience:**
-
-* Developers who have experience with Adobe [!DNL Experience Manager]
-* Developers who have participated in at least one Cloud Migration
-* Adobe [!DNL Experience Manager] Sites Developers
-* Adobe [!DNL Experience Manager] Sites Architect
-* Adobe [!DNL Experience Manager] Assets Developers
-* Adobe [!DNL Experience Manager] Forms Developers
-* Developers/DevOps/Leads/Architects who have participated in multiple AEM deployments with a minimum of 2-3 years of web application development experience using Adobe [!DNL Experience Manager]
-
-**Exam details**
-
-* Level: Expert (1-3 years' experience)
-* Passing Score: 31/50
-* Time: 100 mins
-* Delivery: Online proctored (requires camera access) or test center proctored
-* Available languages: English
-* Cost: $125 (global) / $95 (India)
-* Exam ID: AD0-E136
-
-**Exam objectives and scope**
-
-Section 1: Assessment (32%)
+**Section 1: Assessment (32%)**
 
 * Use the BPA
 * Prepare and estimate a migration plan
@@ -81,19 +87,19 @@ Section 1: Assessment (32%)
 * Explain asset related implementation and its impact
 * Identify Dispatcher related requirements
 
-Section 2: Design (16%)
+**Section 2: Design (16%)**
 
 * Review existing components and validate with the latest version
 * Prepare configuration for assets microservices
 * Explain caching strategy
 
-Section 3: Deployment (16%)
+**Section 3: Deployment (16%)**
 
 * Configure Cloud Manager pipelines and tie the to environments
 * Provision AEMaaCS environments (dev, stage, prod - author, publish, preview)
 * Manage the deployment process with the help of Adobe IO CLI
 
-Section 4: Migration (20%)
+**Section 4: Migration (20%)**
 
 * Execute tests
 * Prepare an asset migration strategy
@@ -101,21 +107,34 @@ Section 4: Migration (20%)
 * Execute migration tools (content transfer, modernizing, refactoring). Report & refine outcomes, especially critical outcomes not handled by tooling
 * Plan the post go-live support
 
-Section 5: Implementation (16%)
+**Section 5: Implementation (16%)**
 
 * Merge multiple projects into single project to be deployed through Adobe pipeline
 * Manage repointit scripts for user/group permission
 * Set up local SDKs
 * Update configurations based on runmodes available on AEM as a Cloud Service
 
->[!TAB Get prepped]
+<br>
 
-You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
+## How to get certified {#how-to-get-certified}
 
-Here are some suggested resources to help you prepare:
+{{how-to-get-certified-intro}}
+
++++Step 1: Create your account
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Step 2: Prepare for your exam
+
+**Study Materials**
+
+{{study-materials-intro}}
 
 **Section 1: Assessment**
-
 
 * [[!DNL Experience Manager] as a Cloud Service User Guide](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html){target="_blank"} 
 * [Migration Guide to Adobe [!DNL Experience Manager] as a Cloud Service for Partners](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/migration-journey/getting-started-partners.html){target="_blank"} 
@@ -143,17 +162,27 @@ Here are some suggested resources to help you prepare:
 * [Use the CI/CD Pipeline in Adobe Cloud Manager](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/cloud-manager/use-the-cicd-pipeline-in-cloud-manager-for-aem.html){target="_blank"}
 * [Deploying to AEM as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/deploying/overview.html){target="_blank"}
 
->[!TAB Get certified]
++++ 
 
->[!IMPORTANT]
->
->The following sections and links will function **only**  after a **successful login** to the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}. 
->
->In addition, your profile name in the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} must exactly match your Government ID. Failure to have identical information or any mismatch will result in the proctor terminating the exam and will require you to reschedule your appointment in addition to paying an additional exam fee.*
+<br>
 
++++Step 3: Schedule & pay for exam
 
+{{schedule-and-pay}}
 
-## About the certification exam
++++
+
+<br>
+
++++Step 4: Before and after the exam
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Step 5: Take the exam
 
 {{about-certification-exam}}
 
@@ -166,7 +195,23 @@ Here are some suggested resources to help you prepare:
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Step 6: Manage your badges
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Renewing your certification
+
+{{renewing-intro}}
+
+<br>
 
 ## Questions
 

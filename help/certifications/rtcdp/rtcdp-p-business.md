@@ -11,9 +11,42 @@ exl-id: 3b970c7a-177c-4bf6-bf0b-4ea2f78bdcd2
 ---
 # Certification journey for Adobe [!DNL Real-Time CDP] Business Practitioner Professional
 
-Learn how to become a certified Adobe [!DNL Experience Platform] Practitioner Professional.
+{{intro}}
 
-## Minimum experience
+## Exam description {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Exam details {#exam-details}
+
+* Level: Professional (0-12 months' experience)
+* Passing Score: 28/50
+* Time: 100 mins
+* Delivery: Online proctored (requires camera access)
+* Available languages: English
+* Cost: $125 (global) / $95 (India)
+* Exam ID: AD0-E602
+
+<br>
+
+### Intended audience {#intended-audience}
+
+* Solutions Consultant
+* Data Analyst
+* Marketing Manager
+* Campaign Marketing Analyst
+* Business Analyst
+* Campaign Manager
+* CDP Consultant
+* Conversion/Optimization Consultant
+* Marketing Product Owner
+* Marketing Analyst
+
+<br>
+
+### Minimum experience {#minimum-experience}
 
 You should have:
 
@@ -32,73 +65,54 @@ Experience with tasks that include:
 * Understanding high level capability and features of AEP and its services
 * Configuring new destinations
 
->[!NOTE]
->
->Your certification is valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
+<br>
 
->[!BEGINTABS]
+### Exam objectives and scope {#exam-objectives}
 
->[!TAB Get ready]
+{{exam-objectives}}
 
-**Intended audience:**
-
-* Solutions Consultant
-* Data Analyst
-* Marketing Manager
-* Campaign Marketing Analyst
-* Business Analyst
-* Campaign Manager
-* CDP Consultant
-* Conversion/Optimization Consultant
-* Marketing Product Owner
-* Marketing Analyst
-
-**Exam details:**
-
-* Level: Professional (0-12 months' experience)
-* Passing Score: 28/50
-* Time: 100 mins
-* Delivery: Online proctored (requires camera access) or test center proctored
-* Available languages: English
-* Cost: $125 (global) / $95 (India)
-* Exam ID: AD0-E602
-
-**Exam objectives and scope**
-
-Section 1: Segments and activation (32%)
+**Section 1: Segments and activation (32%)**
 
 * Create segment and activate to destination
 * Configure new destinations
 * Apply concepts required to target identities in destinations
 * Identify attribute mappings and scheduling of segments to destination
 
-Section 2: Privacy and data governance (20%)
+**Section 2: Privacy and data governance (20%)**
 
 * Demonstrate an understanding of DULE policies and their impacts on data availability at destinations
 * Ensure privacy and data compliance measures are followed
 
-Section 3: Business analysis (30%)
+**Section 3: Business analysis (30%)**
 
 * Identify use cases which tie back to business KPIs
 * Perform data analysis on customer segments in platform
 * Demonstrate an understanding of data flow concepts
 
-Section 4: Schemas and profiles (18%)
+**Section 4: Schemas and profiles (18%)**
 
 * Demonstrate an understanding of Adobe [!DNL Experience Platform] concepts
 * Use profile features
 
->[!TAB Get prepped]
+<br>
 
-You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
+## How to get certified {#how-to-get-certified}
 
-Here are some suggested resources to help you prepare:
+{{how-to-get-certified-intro}}
 
-**Sample questions**
++++Step 1: Create your account
 
-The sample questions allow you to see the type and format of items that you will encounter in the actual exam. There is no sign-on needed. The results of the sample questions are not stored, and do not predict your actual test results.
+{{create-your-account}}
 
-[See sample questions](https://scorpion.caveon.com/launchpad/ad3-e602-adobe-real-time-cdp-business-practitioner-professional-sample-questions){target="_blank"}
++++
+
+<br>
+
++++Step 2: Prepare for your exam
+
+**Study Materials**
+
+{{study-materials-intro}}
 
 **Section 1: Segments and activation**
 
@@ -129,19 +143,36 @@ The sample questions allow you to see the type and format of items that you will
 * [Real-Time Customer Profile overview](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/profile/profile-overview.html){target="_blank"}
 * [Union schema UI guide](https://experienceleague.adobe.com/docs/experience-platform/profile/union-schemas/union-schema.html){target="_blank"}
 
->[!TAB Get certified]
+<br>
 
->[!IMPORTANT]
->
->The following sections and links will function **only**  after a **successful login** to the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}. 
->
->In addition, your profile name in the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} must exactly match your Government ID. Failure to have identical information or any mismatch will result in the proctor terminating the exam and will require you to reschedule your appointment in addition to paying an additional exam fee.*
+**Sample questions**
 
-## Take a practice test
+{{sample-questions}}
 
-{{practice-test}}
+[View sample questions](https://scorpion.caveon.com/launchpad/ad3-e602-adobe-real-time-cdp-business-practitioner-professional-sample-questions){target="_blank"}
 
-## About the certification exam
+
++++ 
+
+<br>
+
++++Step 3: Schedule & pay for exam
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Step 4: Before and after the exam
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Step 5: Take the exam
 
 {{about-certification-exam}}
 
@@ -154,7 +185,23 @@ The sample questions allow you to see the type and format of items that you will
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Step 6: Manage your badges
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Renewing your certification
+
+{{renewing-intro}}
+
+<br>
 
 ## Questions
 

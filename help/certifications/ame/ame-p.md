@@ -10,36 +10,27 @@ exl-id: df1a2c71-5216-47d1-a971-5c07dd3e2d2a
 ---
 # Certification journey for Adobe [!DNL Marketo Engage] Professional
 
-Learn how to become a certified Adobe [!DNL Marketo] Professional.
+{{intro}}
 
-## Minimum experience
+## Exam description {#exam-description}
 
-You should have:
+{{exam-description}}
 
-* Approximately 6 months' hands-on experience
-* The ability to understand the marketing needs expressed by task requirements in order to apply a technical solution
-* The ability to build a simple program from beginning to end
-* The ability to create a Smart List and Smart Campaign
-* Knowledge of how to create segmentations
-* An understanding of Data review (cleanup)
-* An understanding of Database (how to create people, Activity Log, unsubscribe, blocklist, email invalid concepts)
-* The Ability to understand the importance of privacy regulations
-* Understanding of Email marketing
+<br>
 
-And, you should be familiar with the following tools and technologies:
+### Exam details {#exam-details}
 
-* Adobe [!DNL Marketo Engage]
-* Excel or Google Sheets/Doc
+* Level: Professional (0-12 months' experience)
+* Passing Score: 36/55
+* Time: 110 mins
+* Delivery: Online proctored (requires camera access)
+* Available languages: English, Japanese
+* Cost: $125 (global) / $95 (India)
+* Exam ID: AD0-E555 (English), AD0-E555-J (Japanese)
 
->[!NOTE]
->
->Your certification is valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
+<br>
 
->[!BEGINTABS]
-
->[!TAB Get ready]
-
-**Intended audience:**
+### Intended audience {#intended-audience}
 
 * Campaign Operations Specialist / Coordinator
 * Database Marketing Manager / Specialist / Coordinator
@@ -55,23 +46,34 @@ And, you should be familiar with the following tools and technologies:
 * Marketing Technology Coordinator / Specialist / Associate
 * Marketing Team Members
 
-**Exam details:**
+<br>
 
-* Level: Professional (0-12 months' experience)
-* Passing Score: 36/55
-* Time: 110 mins
-* Delivery: Online proctored (requires camera access) or test center proctored
-* Available languages: English
-* Cost: $125 (global) / $95 (India)
-* Exam ID: AD0-E555
+### Minimum experience {#minimum-experience}
 
-**Readiness self-assessment**
+You should have:
 
-Complete the [online readiness questionnaire](https://scorpion.caveon.com/launchpad/ad-q-e555-readiness-questionnaire-for-adobe-marketo-engage-professional-exam/ad-q-e555-readiness-questionnaire-for-adobe-marketo-engage-professional-exam){target="_blank"} to see if your current experience matches the recommended minimum candidate qualification.
+* Approximately 6 months' hands-on experience
+* The ability to understand the marketing needs expressed by task requirements in order to apply a technical solution
+* The ability to build a simple program from beginning to end
+* The ability to create a Smart List and Smart Campaign
+* Knowledge of how to create segmentations
+* An understanding of Data review (cleanup)
+* An understanding of Database (how to create people, Activity Log, unsubscribe, blocklist, email invalid concepts)
+* The Ability to understand the importance of privacy regulations
+* Understanding of Email marketing
 
-**Exam objectives and scope**
+Additionally, you should be familiar with the following tools and technologies:
 
-Section 1: Building and managing programs (39%)
+* Adobe [!DNL Marketo Engage]
+* Excel or Google Sheets/Doc
+
+<br>
+
+### Exam objectives and scope {#exam-objectives}
+
+{{exam-objectives}}
+
+**Section 1: Building and managing programs (39%)**
 
 * Given a business need/question, identify an appropriate reporting strategy to perform an analysis
 * Analyze data to answer business questions
@@ -80,7 +82,7 @@ Section 1: Building and managing programs (39%)
 * Analyze report data to summarize and draw conclusions
 * Recognize outliers and anomalies in reports
 
-Section 2: Building assets (19%)
+**Section 2: Building assets (19%)**
 
 * Manipulating files in Design Studio (uploading/replacing images and files).
 * Create/Modify a form using the Form Editor.
@@ -90,7 +92,7 @@ Section 2: Building assets (19%)
 * Distinguish the difference between draft and approved assets.
 * Distinguish the difference between local and global assets.
 
-Section 3: Defining and targeting audiences (33%)
+**Section 3: Defining and targeting audiences (33%)**
 
 * Create/Modify Smart Lists.
 * Understand Smart Campaign flow steps.
@@ -105,23 +107,39 @@ Section 3: Defining and targeting audiences (33%)
 * Understand how Smart Campaign triggers and filters work.
 * Differentiate the different list imports.
 
-Section 4: Analyzing and building reports (9%)
+**Section 4: Analyzing and building reports (9%)**
 
 * Explain the standard Adobe [!DNL Marketo Engage] reports and when they should be used (Email Link Performance, Email Performance, Landing Page Performance, People Performance, Program Performance, Web Page Activity, and so on)
 * Comprehend Dashboard information and metrics (Email Program Dashboard, Engagement Program Dashboard)
 * Comprehend Email Insights metrics
 
->[!TAB Get prepped]
+<br>
 
-You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
+### Readiness questionnaire
 
-Here are some suggested resources to help you prepare:
+{{readiness}}
 
-**Sample questions**
+[Take the online readiness questionnaire](https://scorpion.caveon.com/launchpad/ad-q-e555-readiness-questionnaire-for-adobe-marketo-engage-professional-exam/ad-q-e555-readiness-questionnaire-for-adobe-marketo-engage-professional-exam){target="_blank"}
 
-The sample questions allow you to see the type and format of items that you will encounter in the actual exam. There is no sign-on needed. The results of the sample questions are not stored, and do not predict your actual test results.
+<br>
 
-[See sample questions](https://scorpion.caveon.com/launchpad/ad0-e555-adobe-marketo-engage-professional-copy-nppnkv){target="_blank"}
+## How to get certified {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++Step 1: Create your account
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Step 2: Prepare for your exam
+
+**Study Materials**
+
+{{study-materials-intro}}
 
 **Section 1: Building and managing programs**
 
@@ -152,18 +170,37 @@ The sample questions allow you to see the type and format of items that you will
 * [Create a Report in a Program](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.html){target="_blank"} 
 * [Understanding Smart Lists](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.html){target="_blank"} 
 * [Report Type Overview](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/report-types/report-type-overview.html){target="_blank"} 
-* [Manage Report Subscriptions](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.html){target="_blank"} 
+* [Manage Report Subscriptions](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.html){target="_blank"}
 
->[!TAB Get certified]
+<br>
 
->[!IMPORTANT]
->
->The following sections and links will function **only**  after a **successful login** to the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}. 
->
->In addition, your profile name in the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} must exactly match your Government ID. Failure to have identical information or any mismatch will result in the proctor terminating the exam and will require you to reschedule your appointment in addition to paying an additional exam fee.*
+**Sample questions**
 
+{{sample-questions}}
 
-## About the certification exam
+[View sample questions](https://scorpion.caveon.com/launchpad/ad0-e555-adobe-marketo-engage-professional-copy-nppnkv){target="_blank"} 
+
++++ 
+
+<br>
+
++++Step 3: Schedule & pay for exam
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Step 4: Before and after the exam
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Step 5: Take the exam
 
 {{about-certification-exam}}
 
@@ -187,7 +224,23 @@ The sample questions allow you to see the type and format of items that you will
 
 [Japanese instructions for scheduling](/help/certifications/assets/Examity-Instructions-in-Japanese.pdf)
 
->[!ENDTABS]
++++
+
+<br>
+
++++Step 6: Manage your badges
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Renewing your certification
+
+{{renewing-intro}}
+
+<br>
 
 ## Questions
 

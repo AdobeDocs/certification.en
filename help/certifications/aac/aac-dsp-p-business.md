@@ -10,31 +10,27 @@ exl-id: 15f3e05a-4896-488c-a65d-d6e8f948c8cc
 ---
 # Certification journey for Adobe [!DNL Advertising DSP] Business Practitioner Professional
 
-Learn how to become a certified [!DNL Adobe Advertising DSP] Business Practitioner professional.
+{{intro}}
 
-## Minimum experience
+## Exam description {#exam-description}
 
-You should have:
+{{exam-description}}
 
-* 6+ months experience with [!DNL Adobe Advertising]
-* Experience in planning and or measuring key performance indicators in media buying software
+<br>
 
-Familiarity with the following tools and technologies:
+### Exam details {#exam-details}
 
-* Ad testing/debugging software (VAST INSPECTOR, Chrome developer tools)
-* Analytics tools ([!DNL Adobe Analytics], Google Analytics)
-* Third-party tagging software (Sizmek, Google tag manager)
-* Third-party media quality tools (IAS, MOAT)
-* Major browsers
-* Ad exchanges, SSPs, and DMPs
+* Level: Professional (0-12 months' experience)
+* Passing Score: 44/69
+* Time: 138 mins
+* Delivery: Online proctored (requires camera access)
+* Available languages: English
+* Cost: $125 (global) / $95 (India)
+* Exam ID: AD0-E502
 
->[!NOTE]
->
->Your certification is valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
+<br>
 
->[!BEGINTABS]
-
->[!TAB Get ready]
+### Intended audience {#intended-audience}
 
 **Intended audience:**
 
@@ -44,19 +40,31 @@ Familiarity with the following tools and technologies:
 * Campaign director
 * Media buyer
 
-**Exam details:**
+<br>
 
-* Level: Professional (0-12 months' experience)
-* Passing Score: 44/69
-* Time: 138 mins
-* Delivery: Online proctored (requires camera access) or test center proctored
-* Available languages: English
-* Cost: $125 (global) / $95 (India)
-* Exam ID: AD0-E502
+### Minimum experience {#minimum-experience}
 
-**Exam objectives and scope**
+You should have:
 
-Section 1: Setting up campaigns (42%)
+* 6+ months experience with [!DNL Adobe Advertising]
+* Experience in planning and or measuring key performance indicators in media buying software
+
+You should also be familiar with the following tools and technologies:
+
+* Ad testing/debugging software (VAST INSPECTOR, Chrome developer tools)
+* Analytics tools ([!DNL Adobe Analytics], Google Analytics)
+* Third-party tagging software (Sizmek, Google tag manager)
+* Third-party media quality tools (IAS, MOAT)
+* Major browsers
+* Ad exchanges, SSPs, and DMPs
+
+<br>
+
+### Exam objectives and scope {#exam-objectives}
+
+{{exam-objectives}}
+
+**Section 1: Setting up campaigns (42%)**
 
 * Given the needs of a campaign, determine the strategy for that campaign
 * Given a scenario, create a new campaign
@@ -66,14 +74,14 @@ Section 1: Setting up campaigns (42%)
 * Given a scenario, duplicate and edit a campaign
 * Apply procedural concepts required to set up Private and On demand inventories for a campaign
 
-Section 2: Running and optimizing campaigns (22%)
+**Section 2: Running and optimizing campaigns (22%)**
 
 * Apply procedural concepts to ensure that campaigns are running correctly
 * Apply procedural concepts to optimize a campaign
 * Apply procedural concepts to troubleshoot a campaign
 * Given a scenario, manage integrations with in-platform solutions
 
-Section 3: Reporting and analyzing (26%)
+**Section 3: Reporting and analyzing (26%)**
 
 * Given a scenario, read data within the platform
 * Given a scenario, create and read custom reports
@@ -81,19 +89,32 @@ Section 3: Reporting and analyzing (26%)
 * Given a scenario, evaluate the performance of a campaign
 * Apply procedural concepts for attributing performance to a campaign
 
-Section 4: Supplying recommendations for campaigns (10%)
+**Section 4: Supplying recommendations for campaigns (10%)**
 
 * Given a scenario, provide updates to clients based on a campaign
 * Given a scenario, adjust campaign strategy based on campaign performance
 
->[!TAB Get prepped]
+<br>
 
-You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
+## How to get certified {#how-to-get-certified}
 
-Here are some suggested resources to help you prepare:
+{{how-to-get-certified-intro}}
+
++++Step 1: Create your account
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Step 2: Prepare for your exam
+
+**Study Materials**
+
+{{study-materials-intro}}
 
 **Section 1: Setting up campaigns**
-
 
 * [About Audience Management in [!DNL Advertising DSP]](https://experienceleague.adobe.com/docs/advertising/dsp/audiences/audience-about.html){target="_blank"}
 * [Overview of Inventory Features in [!DNL Advertising DSP]](https://experienceleague.adobe.com/docs/advertising/dsp/inventory/inventory-overview.html){target="_blank"}
@@ -117,15 +138,27 @@ Here are some suggested resources to help you prepare:
 * [How [!DNL Advertising] DSP Optimizes Your Campaigns](https://experienceleague.adobe.com/docs/advertising/dsp/optimization/optimization-how-dsp-optimizes-campaigns.html){target="_blank"}
 * [About Ad Management in [!DNL Advertising] DSP](https://experienceleague.adobe.com/docs/advertising/dsp/campaign-management/ads/ad-about.html){target="_blank"}
 
->[!TAB Get certified]
++++ 
 
->[!IMPORTANT]
->
->The following sections and links will function **only**  after a **successful login** to the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}. 
->
->In addition, your profile name in the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} must exactly match your Government ID. Failure to have identical information or any mismatch will result in the proctor terminating the exam and will require you to reschedule your appointment in addition to paying an additional exam fee.*
+<br>
 
-## About the certification exam
++++Step 3: Schedule & pay for exam
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Step 4: Before and after the exam
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Step 5: Take the exam
 
 {{about-certification-exam}}
 
@@ -138,7 +171,23 @@ Here are some suggested resources to help you prepare:
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Step 6: Manage your badges
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Renewing your certification
+
+{{renewing-intro}}
+
+<br>
 
 ## Questions
 

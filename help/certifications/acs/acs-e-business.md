@@ -10,9 +10,41 @@ exl-id: ba66d1cc-3545-49ed-8578-1f6aa07f64e7
 ---
 # Certification journey for Adobe [!DNL Campaign Standard] Business Practitioner Expert
 
-Learn how to become a certified Adobe [!DNL Campaign Standard] Business Practitioner Expert.
+{{intro}}
 
-## Minimum experience
+## Exam description {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Exam details {#exam-details}
+
+* Level: Expert (1-3 years experience)
+* Passing Score: 30/50
+* Time: 100 mins
+* Delivery: Online proctored (requires camera access)
+* Available languages: English & Japanese
+* Cost: $225 (global) / $150 (India)
+* Exam ID: AD0-E307
+
+<br>
+
+### Intended audience {#intended-audience}
+
+* Email marketing manager
+* Digital marketing manager
+* Campaign specialist
+* Marketing operation manager
+* Campaign product manager
+* Campaign analyst
+* Data analytics manager
+* CRM manager
+* Solutions manager
+
+<br>
+
+### Minimum experience {#minimum-experience}
 
 You should have experience working in a channel delivery environment (email, direct mail, mobile, and social); familiarity with marketing campaign tactics such as multi-touch, life cycle, and reactivation; and an understanding of marketing metrics such as ROI, clickthrough rates, and conversion.
 
@@ -25,81 +57,73 @@ Additionally, you should have:
 * Experience configuring reports
 * An understanding of campaign delivery set up and approvals
 
->[!NOTE]
->
->Your certification is valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
+<br>
 
->[!BEGINTABS]
+### Exam objectives and scope {#exam-objectives}
 
->[!TAB Get ready]
+{{exam-objectives}}
 
-**Intended audience:** 
-
-* Email marketing manager
-* Digital marketing manager
-* Campaign specialist
-* Marketing operation manager
-* Campaign product manager
-* Campaign analyst
-* Data analytics manager
-* CRM manager
-* Solutions manager
-
-**Exam details:**
-
-* Level: Expert (1-3 years experience)
-* Passing Score: 30/50
-* Time: 100 mins
-* Delivery: Online proctored (requires camera access) or test center proctored
-* Available languages: English & Japanese
-* Cost: $225 (global) / $150 (India)
-* Exam ID: AD0-E307
-
-**Readiness self-assessment**
-
-Complete the [online readiness questionnaire](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-nxam4m/ad-q-e307-readiness-questionnaire-for-adobe-campaign-standard-business-practitioner-expert-exam){target="_blank"} to see if your current experience matches the recommended minimum candidate qualification.
-
-**Exam objectives and scope**
-
-Section 1: Delivery management (25%)
+**Section 1: Delivery management (25%)**
 
 * Apply best practices in setting up and deploying a delivery
 * Determine the correct delivery configuration
 * Apply Email Designer functionalities to appropriate scenario
 
-Section 2: Campaign management (25%)
+**Section 2: Campaign management (25%)**
 
 * Apply configurations to execute workflows
 * Apply best practices in planning, outlining, and modifying a campaign
 
-Section 3: Requirements analysis (10%)
+**Section 3: Requirements analysis (10%)**
 
 * Design a new workflow based on business/campaign requirements
 * Interpret customer requirements
 
-Section 4: Reporting (15%)
+**Section 4: Reporting (15%)**
 
 * Given customer requirements, determine the appropriate report to generate
 * Given a scenario, customize an out-of-the-box dynamic report
 * Given sample OOTB report data, provide an interpretation of the results
 * Apply the process to schedule and send an OOTB report
 
-Section 5: Troubleshooting (10%)
+**Section 5: Troubleshooting (10%)**
 
 * Monitor and identify errors
 * Analyze and interpret deployment results
 
-Section 6: Data management and administration (15%)
+**Section 6: Data management and administration (15%)**
 
 * Explain data model resources
 * Perform [!DNL Campaign Standard] administration
 * Apply the process to build targeted audiences
 
->[!TAB Get prepped]
+<br>
 
-You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
+### Readiness questionnaire
 
-Here are some suggested resources to help you prepare:
+{{readiness}}
+
+[Take the online readiness questionnaire](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-nxam4m/ad-q-e307-readiness-questionnaire-for-adobe-campaign-standard-business-practitioner-expert-exam){target="_blank"}
+
+<br>
+
+## How to get certified {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++Step 1: Create your account
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Step 2: Prepare for your exam
+
+**Study Materials**
+
+{{study-materials-intro}}
 
 **Section 1: Delivery management**
 
@@ -137,19 +161,33 @@ Here are some suggested resources to help you prepare:
 * [Get started with [!DNL Campaign Standard] data model](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/get-started-data-model.html){target="_blank"}
 * [Get started with [!DNL Campaign Standard] administration](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/get-started-campaign-administration.html){target="_blank"}
 
->[!TAB Get certified]
+<br>
 
->[!IMPORTANT]
->
->The following sections and links will function **only**  after a **successful login** to the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}. 
->
->In addition, your profile name in the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} must exactly match your Government ID. Failure to have identical information or any mismatch will result in the proctor terminating the exam and will require you to reschedule your appointment in addition to paying an additional exam fee.*
-
-## Take a practice test
+**Take a practice test**
 
 {{practice-test}}
 
-## About the certification exam
++++ 
+
+<br>
+
++++Step 3: Schedule & pay for exam
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Step 4: Before and after the exam
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Step 5: Take the exam
 
 {{about-certification-exam}}
 
@@ -162,10 +200,27 @@ Here are some suggested resources to help you prepare:
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Step 6: Manage your badges
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Renewing your certification
+
+{{renewing-intro}}
+
+<br>
 
 ## Questions
 
 View the certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Additional questions? [Contact us](mailto:certif@adobe.com){target="_blank"}.
+

@@ -10,15 +10,41 @@ exl-id: 519381bd-fcea-40fd-a10a-046b7fb97913
 ---
 # Certification journey for Adobe [!DNL Experience Manager Sites] Architect Master
 
+{{intro}}
+
 >[!NOTE]
 >
->This exam (AD0-E117) is undergoing maintenance and is temporarily unavailable. We sincerely apologize for the inconvenience. [Sign up to be notified](https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4R3Iwdbolq9LpEOJ07Ii-i9URDdWMjUzODdITVoxQTNPVTZOSUNKUDhFQS4u) when it is available again.
->
->**Questions?** See our [FAQ](#AEM-FAQ) at the bottom of this page.
+>This exam (AD0-E117 / AD0-E117-J) is undergoing maintenance and is temporarily unavailable. We sincerely apologize for the inconvenience. [Sign up to be notified](https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4R3Iwdbolq9LpEOJ07Ii-i9URDdWMjUzODdITVoxQTNPVTZOSUNKUDhFQS4u) when it is available again.<br><br>**Questions?** See our [FAQ](#AEM-FAQ) at the bottom of this page.
 
-Learn how to become a certified Adobe [!DNL Experience Manager Sites] Architect Master.
+## Exam description {#exam-description}
 
-## Minimum experience
+{{exam-description}}
+
+<br>
+
+### Exam details {#exam-details}
+
+* Level: Master (3-5 years' experience)
+* Passing Score: 29/50
+* Time: 100 mins
+* Delivery: Online proctored (requires camera access)
+* Available languages: English, Japanese
+* Cost: $225 (global) / $150 (India)
+* Exam ID: AD0-E117 (English), AD0-E117-J (Japanese)
+
+<br>
+
+### Intended audience {#intended-audience}
+
+* AEM Architects
+* Lead Developers
+* Technical Architects
+* Solution Architects
+* Dev/Ops Lead Engineers
+
+<br>
+
+### Minimum experience {#minimum-experience}
 
 You should have:
 
@@ -49,45 +75,19 @@ Additionally, you should have the ability to perform the following tasks:
 * Reuse content across multiple channels
 * Account for cloud-focused considerations, such as: Auto-scaling, Replication, Asset management, the implications and differences between on-premises and managed services, Cloud Manager, Package management
 
->[!NOTE]
->
->Your certification is valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
+<br>
 
->[!BEGINTABS]
+### Exam objectives and scope {#exam-objectives}
 
->[!TAB Get ready]
+{{exam-objectives}}
 
-**Intended audience:**
-
-* AEM Architects
-* Lead Developers
-* Technical Architects
-* Solution Architects
-* Dev/Ops Lead Engineers
-
-**Exam details:**
-
-* Level: Master (3-5 years' experience)
-* Passing Score: 29/50
-* Time: 100 mins
-* Delivery: Online proctored (requires camera access) or test center proctored
-* Available languages: English, Japanese
-* Cost: $225 (global) / $150 (India)
-* Exam ID: AD0-E117
-
-**Readiness self assessment**
-
-Complete the [online readiness questionnaire](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-ycpz52/ad-q-e117-readiness-questionnaire-for-adobe-aem-architect-master-exam){target="_blank"} to see if your current experience matches the recommended minimum candidate qualification.
-
-**Exam objectives and scope**
-
-Section 1: Discovery (18%)
+**Section 1: Discovery (18%)**
 
 * Translate high-level business goals to functional requirements
 * Given a scenario, assess the current state of an architecture
 * Determine non-functional technical requirements for solution design
 
-Section 2: Solution design (44%)
+**Section 2: Solution design (44%)**
 
 * Given business requirements, design detailed architecture and solution
 * Given a scenario, determine appropriate security solutions for a design
@@ -96,30 +96,46 @@ Section 2: Solution design (44%)
 * Apply procedural concepts for designing scalable and resilient architecture
 * Given a scenario, recommend migration strategies
 
-Section 3: Implementation (22%)
+**Section 3: Implementation (22%)**
 
 * Given a scenario, identify and resolve design issues revealed during implementation stage
 * Given a scenario, recommend implementation approaches based on requirements
 * Determine appropriate methods to use to prototype solutions for proof of concepts
 * Given a scenario, diagnose and resolve issues encountered during implementation
 
-Section 4: Maintenance (16%)
+**Section 4: Maintenance (16%)**
 
 * Given a scenario, diagnose and resolve issues encountered in production environment
 * Apply procedural concepts to plan for use of new features and upgrades
 * Given a scenario, optimize solution for non-functional requirements
 
->[!TAB Get prepped]
+<br>
 
-You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
+### Readiness questionnaire
 
-Here are some suggested resources to help you prepare:
+{{readiness}}
 
-**Sample questions**
+[Take the online readiness questionnaire](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-ycpz52/ad-q-e117-readiness-questionnaire-for-adobe-aem-architect-master-exam){target="_blank"}
 
-The sample questions allow you to see the type and format of items that you will encounter in the actual exam. There is no sign-on needed. The results of the sample questions are not stored, and do not predict your actual test results.
+<br>
 
-[See sample questions](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-ycpz52/ad-q-e117-readiness-questionnaire-for-adobe-aem-architect-master-exam){target="_blank"}
+## How to get certified {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++Step 1: Create your account
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Step 2: Prepare for your exam
+
+**Study Materials**
+
+{{study-materials-intro}}
 
 **Section 1: Discovery**
 
@@ -199,27 +215,61 @@ The sample questions allow you to see the type and format of items that you will
 * [Lucene Index](https://jackrabbit.apache.org/oak/docs/query/lucene.html){target="_blank"}
 * [AEM 6.4 Developing User Guide](https://experienceleague.adobe.com/docs/experience-manager-64/developing/home.html){target="_blank"}
 
->[!TAB Get certified]
+<br>
 
->[!IMPORTANT]
->
->The following sections and links will function **only**  after a **successful login** to the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}. 
->
->In addition, your profile name in the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} must exactly match your Government ID. Failure to have identical information or any mismatch will result in the proctor terminating the exam and will require you to reschedule your appointment in addition to paying an additional exam fee.*
+**Sample questions**
 
-## About the certification exam
+{{sample-questions}}
+
+[View sample questions](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-ycpz52/ad-q-e117-readiness-questionnaire-for-adobe-aem-architect-master-exam){target="_blank"}
+
++++ 
+
+<br>
+
++++Step 3: Schedule & pay for exam
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Step 4: Before and after the exam
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Step 5: Take the exam
 
 {{about-certification-exam}}
 
-## Schedule or take exam AD0-E117
+## Schedule or take exam AD0-E117 / AD0-E117-J
 
 >[!NOTE]
 >
->This exam (AD0-E117) is undergoing maintenance and is temporarily unavailable. We sincerely apologize for the inconvenience. [Sign up to be notified](https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4R3Iwdbolq9LpEOJ07Ii-i9URDdWMjUzODdITVoxQTNPVTZOSUNKUDhFQS4u) when it is available again.
->
->**Questions?** See our [FAQ](#AEM-FAQ) at the bottom of this page.
+>This exam (AD0-E117 / AD0-E117-J) is undergoing maintenance and is temporarily unavailable. We sincerely apologize for the inconvenience. [Sign up to be notified](https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4R3Iwdbolq9LpEOJ07Ii-i9URDdWMjUzODdITVoxQTNPVTZOSUNKUDhFQS4u) when it is available again.<br><br>**Questions?** See our [FAQ](#AEM-FAQ) at the bottom of this page.
 
->[!ENDTABS]
++++
+
+<br>
+
++++Step 6: Manage your badges
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Renewing your certification
+
+{{renewing-intro}}
+
+<br>
 
 ## Questions
 

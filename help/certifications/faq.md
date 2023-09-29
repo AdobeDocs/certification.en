@@ -125,7 +125,7 @@ Not directly, no. But because certification will now require renewal every 2 yea
 
 +++
 
->[!TAB Renewals via on-demand exams]
+>[!TAB Renewals via on-demand exams] {#renewal-exams}
 
 +++What is certification renewal? How do I renew my certification?
 
@@ -184,7 +184,7 @@ No, it is not possible to retake the same exam for renewal once you have passed 
 
 +++
 
->[!TAB Renewals via continuous learning]
+>[!TAB Renewals via continuous learning] {#renewals-continuous}
 
 +++What is Adobe's certification renewal program via continuous learning?
 
@@ -240,7 +240,70 @@ The assessments are based on the Courses in Experience League and reviewing them
 
 +++
 
->[!TAB Restart program]
+>[!TAB  Vouchers] {#vouchers}
+
++++When do exam vouchers expire? How long are they good for?
+
+Adobe exam vouchers expire 12 months after purchase. Vouchers cannot be extended past their expiration date. Exam registrations must be scheduled, paid for, and taken before the exam voucher expiration date.
+
++++
+
++++Can vouchers be returned for credit or refund? 
+
+_All sales are final._ Returns and refunds are not accepted. Adobe exam vouchers are purchased at an exam level, not for specific exams, and that provides flexibility. 
+
+* Example: When you buy 10 Adobe Certified Expert-level exam vouchers, and distribute them, you don't have to know ahead of time or plan who will take which Expert exam. 
+* Administrators can assign the voucher to a user and see if the voucher was viewed, redeemed or when the exam is scheduled or took place. 
+
++++
+
++++What kind of payments are accepted?
+
+Payment may be made by (all major) credit cards. Payments via credit card require acceptance of an online click-wrap agreement. The different payment options are: 
+
+* Wire, purchase order, or ACH: Create a purchase order in the Xvoucher system that can be printed and sent to your accounts payable department. That order will be approved upon receipt of the wire transfer or check. 
+* Credit card: All major credit cards accepted. 
+* Xwallet: This will subtract the order amount from your Xwallet pool. 
+
++++
+
++++Is there a minimum or maximum number of vouchers I can purchase?
+
+No, there is no minimum or maximum. Customer purchases are only limited based on available funds, such as a credit card limit or bank account balance for wire transfers.
+
++++
+
++++How long will it take to get access to vouchers after I place my order?
+
+Vouchers will be available immediately after purchase if paying via credit card or Xwallet.
+
+* If you purchase for yourself, vouchers codes will be provided on screen and in email. 
+* If you purchase for others, log into your Xvoucher account and distribute the vouchers to your end-users from there. 
+* If paying via wire or purchase order, voucher orders will be released when Xvoucher has received the funds. 
+
+[Online help](https://help.xvoucher.com/){target="_blank"}
+
++++
+
++++How do I access my Xvoucher account?
+
+Simply log in to your account [here](https://www.xvoucher.com/Login.aspx){target="_blank"}.
+
++++
+
++++How do I access my Adobe voucher? 
+
+After a voucher is assigned to you, you will receive an email from support@xvoucher.com with a voucher code and instructions on how to redeem the voucher. If you did not receive an email, check your spam folder. If you are still unable to find the email, you can log into your Xvoucher account. 
+
++++
+
++++Can vouchers be returned for credit or refund? 
+
+All sales are final. Returns and refunds are not accepted. Adobe Exam Vouchers are purchased at an exam level, not for specific exams, which provides great flexibility. 
+
++++
+
+>[!TAB Restart program] {#restart}
 
 **Program Overview**
 

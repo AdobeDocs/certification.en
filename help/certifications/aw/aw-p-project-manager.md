@@ -9,35 +9,15 @@ exl-id: 5bb372b4-6237-44f9-ac71-6093e2f0d03f
 ---
 # Certification journey for Adobe [!DNL Workfront] Project Manager Professional
 
-Learn how to become a certified Adobe [!DNL Workfront] Project Manager Professional.
+{{intro}}
 
-## Minimum experience
+## Exam description {#exam-description}
 
-You should have:
+{{exam-description}}
 
-* An understanding about work process from an initial work request through completion or has had exposure to project or work management
-* Completed self-guided training or bootcamp or have been a [!DNL Workfront] user for 6-12 months so they understand basic functionality
-* An understanding of how to configure, track, and monitor report data
+<br>
 
->[!NOTE]
->
->Your certification is valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
-
->[!BEGINTABS]
-
->[!TAB Get ready]
-
-**Intended audience:**
-
-* Project manager, work manager, planner
-* SCRUM master
-* [!DNL Workfront] power user
-* System admin
-* Program manager, portfolio manager
-* Director, manager
-* Resource manager, traffic manager
-
-**Exam details - Adobe [!DNL Workfront] Project Manager**
+### Exam details {#exam-details}
 
 * Level: Professional (0-12 months' experience)
 * Passing Score: 45/70
@@ -47,13 +27,35 @@ You should have:
 * Cost: $125 (global) / $95 (India)
 * Exam ID: AD0-E903
 
-**Readiness self-assessment**
+<br>
 
-Complete the [online readiness questionnaire](https://scorpion.caveon.com/launchpad/ad-q-e903-readiness-questionnaire-for-adobe-workfront-project-manager-professional/ad-q-e903-readiness-questionnaire-for-adobe-workfront-project-manager-professional){target="_blank"} to see if your current experience matches the recommended minimum candidate qualification.
+### Intended audience {#intended-audience}
 
-**Exam objectives and scope**
+* Project manager, work manager, planner
+* SCRUM master
+* [!DNL Workfront] power user
+* System admin
+* Program manager, portfolio manager
+* Director, manager
+* Resource manager, traffic manager
 
-Section 1: Intake and planning (30%)
+<br>
+
+### Minimum experience {#minimum-experience}
+
+You should have:
+
+* An understanding about work process from an initial work request through completion or has had exposure to project or work management
+* Completed self-guided training or bootcamp or have been a [!DNL Workfront] user for 6-12 months so they understand basic functionality
+* An understanding of how to configure, track, and monitor report data
+
+<br>
+
+### Exam objectives and scope {#exam-objectives}
+
+{{exam-objectives}}
+
+**Section 1: Intake and planning (30%)**
 
 * Identify different ways to be notified of a work request
 * Given a request, review the custom data to determine the appropriate action
@@ -65,7 +67,7 @@ Section 1: Intake and planning (30%)
 * Identify the appropriate field to view a specific assigned resource
 * Given a persona, determine the intake or planning reports/dashboards that are helpful for the persona during the work intake or planning stage of the project/work process
 
-Section 2: Execute (50%)
+**Section 2: Execute (50%)**
 
 * Identify ways to understand, apply, and measure of Milestones on a Project
 * Create [!DNL Workfront] Single Use Approvals and when an Approval would be used
@@ -86,30 +88,44 @@ Section 2: Execute (50%)
 * Identify the various types of reports available within [!DNL Workfront]
 * Given a scenario, describe the steps to build a custom report
 
-Section 3: Closeout (20%)
+**Section 3: Closeout (20%)**
 
 * Given a particular object status, determine what activities need to be executed or what actions are triggered
 * Given a scenario, determine the type of report and the reporting element to use to modify a task list or report
 * Identify the different wildcards that can be used in reporting
 * Identify the project elements that can be used to measure project success
 
->[!TAB Get prepped]
+<br>
 
-You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
+### Readiness questionnaire
 
-Here are some suggested resources to help you prepare:
+{{readiness}}
 
-**Sample questions**
+[Take the online readiness questionnaire](https://scorpion.caveon.com/launchpad/ad-q-e903-readiness-questionnaire-for-adobe-workfront-project-manager-professional/ad-q-e903-readiness-questionnaire-for-adobe-workfront-project-manager-professional){target="_blank"}
 
-The sample questions allow you to see the type and format of items that you will encounter in the actual exam. There is no sign-on needed. The results of the sample questions are not stored, and do not predict your actual test results.
+<br>
 
-[See sample questions](https://scorpion.caveon.com/launchpad/ad4-e903-adobe-workfront-project-manager-certified-professional-exam-sample-exam){target="_blank"}
+## How to get certified {#how-to-get-certified}
 
-**Recommended training course:**
+{{how-to-get-certified-intro}}
+
++++Step 1: Create your account
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Step 2: Prepare for your exam
+
+**Recommended Training Course**
 
 [Core team training for planners in the new [!DNL Workfront] experience](https://experienceleague.adobe.com/docs/workfront-course-map/using/learning-programs/core-team-training-program-for-planners.html){target="_blank"}
 
-**Additional resources:**
+**Study Materials**
+
+{{study-materials-intro}}
 
 **Section 1: Intake and planning**
 
@@ -154,16 +170,35 @@ The sample questions allow you to see the type and format of items that you will
 * [Project Timeline](https://www.workfront.com/project-management/knowledge-areas/time-management/project-timeline){target="_blank"}
 * [Create projects](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&topicId=Content%2FManage_work%2FProjects%2FCreate_projects%2F_create-projects-overview.htm&_LANG=enus){target="_blank"}
 
->[!TAB Get certified]
+<br>
 
->[!IMPORTANT]
->
->The following sections and links will function **only**  after a **successful login** to the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}. 
->
->In addition, your profile name in the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} must exactly match your Government ID. Failure to have identical information or any mismatch will result in the proctor terminating the exam and will require you to reschedule your appointment in addition to paying an additional exam fee.*
+**Sample questions**
 
+{{sample-questions}}
 
-## About the certification exam
+[View sample questions](https://scorpion.caveon.com/launchpad/ad4-e903-adobe-workfront-project-manager-certified-professional-exam-sample-exam){target="_blank"}
+
++++ 
+
+<br>
+
++++Step 3: Schedule & pay for exam
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Step 4: Before and after the exam
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Step 5: Take the exam
 
 {{about-certification-exam}}
 
@@ -176,7 +211,23 @@ The sample questions allow you to see the type and format of items that you will
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Step 6: Manage your badges
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Renewing your certification
+
+{{renewing-intro}}
+
+<br>
 
 ## Questions
 

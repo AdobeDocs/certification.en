@@ -9,9 +9,39 @@ mini-toc-levels: 1
 ---
 # Certification journey for [!DNL Adobe Target] Architect Master
 
-Learn how to become a certified [!DNL Adobe Target] Architect Master.
+{{intro}}
 
-## Minimum experience
+## Exam description {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Exam details {#exam-details}
+
+* Level: Master (3-5 years' experience)
+* Passing Score: 32/50
+* Time: 100 mins
+* Delivery: Online proctored (requires camera access)
+* Available languages: English
+* Cost: $225 (global) / $150 (India)
+* Exam ID: AD0-E409
+
+<br>
+
+### Intended audience {#intended-audience}
+
+* Conversion rate optimization engineer/architect
+* Personalization engineer/architect
+* Digital solutions architect
+* Digital transformation consultant
+* Experience optimization lead
+* Optimization manager
+* Online campaign manager
+
+<br>
+
+### Minimum experience {#minimum-experience}
 
 You should have:
 
@@ -44,68 +74,48 @@ Environments:
 * AMS hosted environment
 * Adobe I/O Runtime
 
->[!BEGINTABS]
+<br>
 
->[!TAB Get ready]
+### Exam objectives and scope {#exam-objectives}
 
-**Intended audience:**
+{{exam-objectives}}
 
-* Conversion rate optimization engineer/architect
-* Personalization engineer/architect
-* Digital solutions architect
-* Digital transformation consultant
-* Experience optimization lead
-* Optimization manager
-* Online campaign manager
-
-**Exam details:**
-
-* Level: Master (3-5 years' experience)
-* Passing Score: 32/50
-* Time: 100 mins
-* Delivery: Online proctored (requires camera access) or test center proctored
-* Available languages: English
-* Cost: $225 (global) / $150 (India)
-* Exam ID: AD0-E409
-
-**Exam objectives and scope**
-
-Section 1: [!DNL Adobe Target] fundamentals (13%)
+**Section 1: [!DNL Adobe Target] fundamentals (13%)**
 
 * Identify the appropriate [!DNL Adobe Target] usage for a given scenario
 * Explain the fundamental technologies of an [!DNL Adobe Target] implementation
 
-Section 2: Integrating with [!DNL Adobe Target] (18%)
+**Section 2: Integrating with [!DNL Adobe Target] (18%)**
 
 * Apply the process to integrate [!DNL Adobe Target] with Adobe Analytics (A4T)
 * Apply the process to integrate [!DNL Adobe Target] to Adobe Experience Manager
 * Describe integration with Adobe Experience Cloud Solutions and Adobe Experience Platform solutions
 * Describe the integration with Adobe Experience Cloud Audiences
 
-Section 3: [!DNL Adobe Target] administration and governance (6%)
+**Section 3: [!DNL Adobe Target] administration and governance (6%)**
 
 * Define an ongoing [!DNL Adobe Target] implementation strategy and system governance
 * Apply the process and best practices to manage users
 * Describe the administration aspects of the implementation setup
 
-Section 4: [!DNL Adobe Target] and supported touch points (6%)
+**Section 4: [!DNL Adobe Target] and supported touch points (6%)**
 
 * Describe client-side delivery implementation
 * Describe server-side delivery implementation
 * Describe implementation requirements for mobile, email targeting, and APIs
 
-Section 5: Leverage [!DNL Adobe Target] recommendations (11%)
+**Section 5: Leverage [!DNL Adobe Target] recommendations (11%)**
 
 * Demonstrate an understanding of recommendations, catalogs, and criteria
 * Apply the process to configure Target recommendations
 
-Section 6: Architect, design and implement [!DNL Adobe Target] (18%)
+**Section 6: Architect, design and implement [!DNL Adobe Target] (18%)**
 
 * Select the correct Target Request implementation (Global, Order Confirm, Hybrid)
 Evaluate and design an [!DNL Adobe Target] implementation
 * Describe the implementation of [!DNL Adobe Target] in Native Mobile Apps
 
-Section 7: Troubleshooting (28%)
+**Section 7: Troubleshooting (28%)**
 
 * Troubleshoot mbox errors
 * Troubleshoot Target Request and Response errors
@@ -113,11 +123,25 @@ Section 7: Troubleshooting (28%)
 * Understand integration errors
 * Troubleshoot [!DNL Adobe Target] Recommendations Errors
 
->[!TAB Get prepped]
+<br>
 
-You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
+## How to get certified {#how-to-get-certified}
 
-Here are some suggested resources to help you prepare:
+{{how-to-get-certified-intro}}
+
++++Step 1: Create your account
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++Step 2: Prepare for your exam
+
+**Study Materials**
+
+{{study-materials-intro}}
 
 **Section 1**
 
@@ -163,22 +187,33 @@ Here are some suggested resources to help you prepare:
 
 **Section 7**
 
-[Activity QA](https://experienceleague.adobe.com/docs/target/using/activities/activity-qa/activity-qa.html){target="_blank"}
-[Troubleshoot content delivery](https://experienceleague.adobe.com/docs/target/using/activities/troubleshoot-activities/content-trouble.html){target="_blank"}
-[Design FAQ](https://experienceleague.adobe.com/docs/target/using/recommendations/recommendations-design/template-faq.html){target="_blank"}
-[Recommendations FAQ](https://experienceleague.adobe.com/docs/target/using/recommendations/recommendations-faq/recommendations-faq.html){target="_blank"}
-[Adobe Analytics for Target (A4T) logging in the Platform Web SDK](https://experienceleague.adobe.com/docs/experience-platform/edge/personalization/adobe-target/a4t/overview.html){target="_blank"}
+* [Activity QA](https://experienceleague.adobe.com/docs/target/using/activities/activity-qa/activity-qa.html){target="_blank"}
+* [Troubleshoot content delivery](https://experienceleague.adobe.com/docs/target/using/activities/troubleshoot-activities/content-trouble.html){target="_blank"}
+* [Design FAQ](https://experienceleague.adobe.com/docs/target/using/recommendations/recommendations-design/template-faq.html){target="_blank"}
+* [Recommendations FAQ](https://experienceleague.adobe.com/docs/target/using/recommendations/recommendations-faq/recommendations-faq.html){target="_blank"}
+* [Adobe Analytics for Target (A4T) logging in the Platform Web SDK](https://experienceleague.adobe.com/docs/experience-platform/edge/personalization/adobe-target/a4t/overview.html){target="_blank"}
 
++++ 
 
->[!TAB Get certified]
+<br>
 
->[!IMPORTANT]
->
->The following sections and links will function **only**  after a **successful login** to the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}. 
++++Step 3: Schedule & pay for exam
 
-**Now that you have successfully logged in, the following links will be directly accessible.**
+{{schedule-and-pay}}
 
-## About the certification exam
++++
+
+<br>
+
++++Step 4: Before and after the exam
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Step 5: Take the exam
 
 {{about-certification-exam}}
 
@@ -191,9 +226,25 @@ Here are some suggested resources to help you prepare:
 </span>
 </a>
 
->[!ENDTABS]
++++
 
-**Questions**
+<br>
+
++++Step 6: Manage your badges
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Renewing your certification
+
+{{renewing-intro}}
+
+<br>
+
+## Questions
 
 View the certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 

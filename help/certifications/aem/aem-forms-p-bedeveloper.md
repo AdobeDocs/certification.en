@@ -10,9 +10,40 @@ exl-id: 7d265887-c32f-4931-ba80-40ffde12df51
 ---
 # Certification journey for Adobe [!DNL Experience Manager Forms] Backend Developer Professional
 
-Learn how to become a certified Adobe [!DNL Experience Manager Forms] Backend Developer Professional.
+{{intro}}
 
-## Minimum experience 
+## Exam description {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### Exam details {#exam-details}
+
+* Level: Professional (0-12 months' experience)
+* Passing Score: 29/50
+* Time: 100 mins
+* Delivery: Online proctored (requires camera access)
+* Available languages: English
+* Cost: $125 (global) / $95 (India)
+* Exam ID: AD0-E127
+
+<br>
+
+### Intended audience {#intended-audience}
+
+* AEM Developer
+* DevOps Engineer
+* AEM Architect
+* Cloud Engineer
+* Site Reliability Engineer
+* Technical Manager
+* Application Operations Engineer
+* Systems Engineer
+
+<br>
+
+### Minimum experience {#minimum-experience}
 
 You should be a backend forms developer and have:
 
@@ -34,45 +65,20 @@ You should be familiar with the following technologies and environments:
 * Dev sandbox
 * Local environment
 
->[!NOTE]
->
->Your certification is valid for two years from when you pass. We recommend taking the newer version when possible, because it covers newer product capabilities.
+<br>
 
->[!BEGINTABS]
+### Exam objectives and scope {#exam-objectives}
 
->[!TAB Get ready]
+{{exam-objectives}}
 
-**Intended audience:**
-
-* AEM Developer
-* DevOps Engineer
-* AEM Architect
-* Cloud Engineer
-* Site Reliability Engineer
-* Technical Manager
-* Application Operations Engineer
-* Systems Engineer
-
-**Exam details:**
- 
-* Level: Professional (0-12 months' experience)
-* Passing Score: 29/50
-* Time: 100 mins
-* Delivery: Online proctored (requires camera access)
-* Available languages: English
-* Cost: $125 (global) / $95 (India)
-* Exam ID: AD0-E127
-
-**Exam objectives and scope**
-
-Section 1: Forms creation and management (26%)
+**Section 1: Forms creation and management (26%)**
 
 * Given a scenario, identify steps needed to build AEM Forms
 * Describe Forms Data Model
 * Identify steps to customize AEM Forms
 * Given a scenario, identify steps to use Javascript ClientLib leveraging GuideBridge API
 
-Section 2: Processes and workflows (34%)
+**Section 2: Processes and workflows (34%)**
 
 * Given a scenario, identify the steps for a Form approval workflow
 * Identify features of an OSGi bundle using Document Services API
@@ -81,7 +87,7 @@ Section 2: Processes and workflows (34%)
 * Given a scenario, manipulate a PDF using Forms or Assembler services
 * Describe ways to implement JDBC services
 
-Section 3: Administration and troubleshooting (21%)
+**Section 3: Administration and troubleshooting (21%)**
 
 * Identify issues generated in log files
 * Given a scenario, identify the steps to perform administration activities
@@ -89,26 +95,34 @@ Section 3: Administration and troubleshooting (21%)
 * Describe the steps for AEM Dispatcher setup for Forms
 * Describe the steps to navigate different consoles
 
-Section 4: API endpoints and integrations (10%)
+**Section 4: API endpoints and integrations (10%)**
 
 * Given a scenario, describe the flow to integrate AEM Form with Adobe Experience Cloud
 * Identify the steps to generate various endpoint services
 
-Section 5: Interactive communication (9%)
+**Section 5: Interactive communication (9%)**
 
 * Given a scenario, demonstrate and implement processes for Interactive Communication
 
->[!TAB Get prepped]
+<br>
 
-You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
+## How to get certified {#how-to-get-certified}
 
-Here are some suggested resources to help you prepare:
+{{how-to-get-certified-intro}}
 
-**Sample questions**
++++Step 1: Create your account
 
-The sample questions allow you to see the type and format of items that you will encounter in the actual exam. There is no sign-on needed. The results of the sample questions are not stored, and do not predict your actual test results.
+{{create-your-account}}
 
-[See sample questions](https://scorpion.caveon.com/launchpad/ad0-e127-adobe-experience-manager-backend-forms-developer-professional-copy-7s2acv){target="_blank"}
++++
+
+<br>
+
++++Step 2: Prepare for your exam
+
+**Study Materials**
+
+{{study-materials-intro}}
 
 **Section 1: Forms creation and management**
 
@@ -137,16 +151,35 @@ The sample questions allow you to see the type and format of items that you will
 * [Experience Manager as a Cloud Service documentation](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html){target="_blank"}
 * [Adobe Experience Manager 6.4 Forms Guide](https://experienceleague.adobe.com/docs/experience-manager-64/forms/home.html){target="_blank"}
 
->[!TAB Get certified]
+<br>
 
->[!IMPORTANT]
->
->The following sections and links will function **only**  after a **successful login** to the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}. 
->
->In addition, your profile name in the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} must exactly match your Government ID. Failure to have identical information or any mismatch will result in the proctor terminating the exam and will require you to reschedule your appointment in addition to paying an additional exam fee.*
+**Sample questions**
 
+{{sample-questions}}
 
-## About the certification exam
+[View sample questions](https://scorpion.caveon.com/launchpad/ad0-e127-adobe-experience-manager-backend-forms-developer-professional-copy-7s2acv){target="_blank"}
+
++++ 
+
+<br>
+
++++Step 3: Schedule & pay for exam
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++Step 4: Before and after the exam
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++Step 5: Take the exam
 
 {{about-certification-exam}}
 
@@ -159,10 +192,28 @@ The sample questions allow you to see the type and format of items that you will
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++Step 6: Manage your badges
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## Renewing your certification
+
+{{renewing-intro}}
+
+<br>
 
 ## Questions
 
 View the certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Additional questions? [Contact us](mailto:certif@adobe.com){target="_blank"}.
+
+
