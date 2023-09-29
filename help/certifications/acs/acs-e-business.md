@@ -4,7 +4,7 @@ description: Learn how to become a certified Adobe Business Practitioner Expert 
 solution: Campaign,Campaign Standard
 product: Campaign
 role: User
-badge: label="Exam AD0-E307" type="positive"
+badge: label="Exam AD0-E307" type="neutral"
 mini-toc-levels: 1
 exl-id: ba66d1cc-3545-49ed-8578-1f6aa07f64e7
 ---

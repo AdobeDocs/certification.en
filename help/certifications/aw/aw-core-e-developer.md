@@ -3,7 +3,7 @@ title: Core Developer Expert certification
 description: Learn how to become a certified Adobe Developer Expert in Adobe [!DNL Workfront].
 solution: Workfront
 role: Developer
-badge: label="Exam AD0-E904" type="positive"
+badge: label="Exam AD0-E904" type="neutral"
 mini-toc-levels: 1
 exl-id: 6f7570dc-5647-402b-a8c1-18c4fa5f85d4
 ---

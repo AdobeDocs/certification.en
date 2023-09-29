@@ -5,7 +5,7 @@ solution: Audience Manager
 product: Audience Manager
 role: Data Architect
 level: Experienced
-badge: label="Exam AD0-E454" type="positive"
+badge: label="Exam AD0-E454" type="neutral"
 mini-toc-levels: 1
 exl-id: 6f87f669-f3c2-4a5c-a5f3-e3e73b93cd55
 ---

@@ -4,7 +4,7 @@ description: Learn how to become certified as an Adobe [!DNL Audience Manager] B
 solution: Audience Manager
 product: Audience Manager
 role: User,Developer
-badge: label="Exam AD0-E457" type="positive"
+badge: label="Exam AD0-E457" type="neutral"
 mini-toc-levels: 1
 exl-id: 71141d87-828c-4c28-a6e2-0e12e885e1ad
 ---

@@ -4,7 +4,7 @@ description: Learn how to become a certified Adobe [!DNL Journey Optimizer] Deve
 solution: Journey Optimizer
 product: Journey Optimizer
 role: Developer
-badge: label="Exam AD0-E603" type="positive"
+badge: label="Exam AD0-E603" type="neutral"
 exl-id: 4b405a01-b95c-46de-aaab-9fbacc25c6fc
 ---
 # Certification journey for Adobe [!DNL Journey Optimizer] Developer Expert

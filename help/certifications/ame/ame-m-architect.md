@@ -4,7 +4,7 @@ description: Learn how to become a certified Adobe Architect Master in Adobe [!D
 solution: Marketo Engage
 product: Marketo
 role: Data Architect
-badge: label="Exam AD0-E556" type="positive"
+badge: label="Exam AD0-E556" type="neutral"
 mini-toc-levels: 1
 exl-id: 3ce6b278-5bee-4ba3-ae5a-1d5de79d07bf
 ---

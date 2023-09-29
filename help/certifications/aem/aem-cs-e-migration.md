@@ -4,7 +4,7 @@ description: Learn how to become a certified Adobe [!DNL Experience Manager] exp
 solution: Experience Manager, Experience Manager as a Cloud Service
 product: Experience Manager
 role: Developer
-badge: label="Exam AD0-E136" type="positive"
+badge: label="Exam AD0-E136" type="neutral"
 mini-toc-levels: 1
 exl-id: 64b53064-8280-405b-a5f7-b50264394b82
 ---

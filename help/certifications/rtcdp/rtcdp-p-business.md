@@ -5,7 +5,7 @@ solution: Real-Time Customer Data Platform
 product: Adobe Real Time Customer Data Platform
 role: User
 recommendations: disable, exclude
-badge: label="Exam AD0-E602" type="positive"
+badge: label="Exam AD0-E602" type="neutral"
 mini-toc-levels: 1
 exl-id: 3b970c7a-177c-4bf6-bf0b-4ea2f78bdcd2
 ---

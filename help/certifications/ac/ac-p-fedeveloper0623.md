@@ -4,7 +4,7 @@ description: Learn how to become a certified Adobe Developer professional for Ad
 solution: Commerce
 product: Magento
 role: Developer
-badge: label="Exam AD0-E721" type="positive"
+badge: label="Exam AD0-E721" type="neutral"
 mini-toc-levels: 1
 ---
 # Certification journey for Adobe [!DNL Commerce] Front-end Developer Professional

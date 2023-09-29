@@ -3,7 +3,7 @@ title: Core Developer Professional certification
 description: Learn how to become a certified Adobe Developer Professional in Adobe [!DNL Workfront].
 solution: Workfront
 role: Developer
-badge: label="Exam AD0-E905" type="positive"
+badge: label="Exam AD0-E905" type="neutral"
 mini-toc-levels: 1
 exl-id: 08f5386c-901c-44be-9537-48c9ac5d2be2
 ---

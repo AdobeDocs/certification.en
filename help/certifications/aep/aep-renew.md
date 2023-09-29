@@ -4,7 +4,7 @@ description: Learn how to renew your Adobe [!DNL Experience Platform] certificat
 solution: Experience Platform
 product: Experience Platform
 role: User,Developer,Data Architect
-badge: label="Adobe Journey Optimizer Renewal" type="positive"
+badge: label="Adobe Journey Optimizer Renewal" type="neutral"
 hidefromtoc: yes
 ---
 # Renew your Adobe [!DNL Experience Platform] certification

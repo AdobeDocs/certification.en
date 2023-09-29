@@ -5,7 +5,7 @@ solution: Commerce
 product: Magento
 role: Data Architect
 level: Experienced
-badge: label="Exam AD0-E722" type="positive"
+badge: label="Exam AD0-E722" type="neutral"
 mini-toc-levels: 1
 exl-id: 594503d8-2064-4b05-ba09-9569e6ef9fc7
 ---

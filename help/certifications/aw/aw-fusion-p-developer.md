@@ -3,7 +3,7 @@ title: Developer Professional certification
 description: Learn how to become a certified Adobe Developer professional in Adobe [!DNL Workfront Fusion].
 solution: Workfront
 role: Developer
-badge: label="Exam AD0-E902" type="positive"
+badge: label="Exam AD0-E902" type="neutral"
 mini-toc-levels: 1
 exl-id: d3d817d1-7a0c-439a-a02e-b2dcc64e4805
 ---

@@ -4,7 +4,7 @@ description: Learn how to become a certified Architect Master in Experience Mana
 solution: Experience Manager,Experience Manager Sites
 product: Experience Manager
 role: Data Architect
-badge: label="Exam AD0-E117" type="positive"
+badge: label="Exam AD0-E117" type="neutral"
 mini-toc-levels: 1
 exl-id: 519381bd-fcea-40fd-a10a-046b7fb97913
 ---

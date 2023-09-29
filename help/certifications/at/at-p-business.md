@@ -4,7 +4,7 @@ description: Learn how to become a certified [!DNL Adobe Target] Business Practi
 solution: Target
 product: Target
 role: User
-badge: label="Exam AD0-E408" type="positive"
+badge: label="Exam AD0-E408" type="neutral"
 mini-toc-levels: 1
 exl-id: e67e66a3-d3cc-4907-beb4-956940181279
 ---

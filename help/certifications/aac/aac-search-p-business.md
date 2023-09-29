@@ -5,7 +5,7 @@ solution: Advertising
 product: Advertising Cloud
 level: Experienced
 role: User
-badge: label="Exam AD0-E501" type="positive"
+badge: label="Exam AD0-E501" type="neutral"
 mini-toc-levels: 1
 exl-id: f89a197f-dfe9-4e53-a783-97326bd6d934
 ---

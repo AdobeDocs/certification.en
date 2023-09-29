@@ -4,7 +4,7 @@ description: Learn how to become a certified [!DNL Adobe Target] Architect Maste
 solution: Target
 product: Target
 role: Data Architect
-badge: label="Exam AD0-E409" type="positive"
+badge: label="Exam AD0-E409" type="neutral"
 mini-toc-levels: 1
 ---
 # Certification journey for [!DNL Adobe Target] Architect Master
