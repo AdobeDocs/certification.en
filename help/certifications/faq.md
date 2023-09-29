@@ -125,7 +125,7 @@ Not directly, no. But because certification will now require renewal every 2 yea
 
 +++
 
->[!TAB Renewals via on-demand exams] {#renewal-exams}
+>[!TAB Renewals via on-demand exams]
 
 +++What is certification renewal? How do I renew my certification?
 
@@ -184,7 +184,7 @@ No, it is not possible to retake the same exam for renewal once you have passed 
 
 +++
 
->[!TAB Renewals via continuous learning] {#renewals-continuous}
+>[!TAB Renewals via continuous learning]
 
 +++What is Adobe's certification renewal program via continuous learning?
 
@@ -240,7 +240,7 @@ The assessments are based on the Courses in Experience League and reviewing them
 
 +++
 
->[!TAB  Vouchers] {#vouchers}
+>[!TAB  Vouchers]
 
 +++When do exam vouchers expire? How long are they good for?
 
@@ -303,7 +303,7 @@ All sales are final. Returns and refunds are not accepted. Adobe Exam Vouchers a
 
 +++
 
->[!TAB Restart program] {#restart}
+>[!TAB Restart program]
 
 **Program Overview**
 
