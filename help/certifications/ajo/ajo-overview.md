@@ -2,7 +2,7 @@
 title: Journey Optimizer Certification Overview
 description: Overview of certification options for Adobe Journey Optimizer
 solution: Journey Optimizer
-exl-id: 879eab4e-b946-4453-be7e-89b1ded2bc6b
+exl-id: 8676c9b0-fa19-4821-a008-4f7028f95852
 ---
 # Adobe [!DNL Journey Optimizer] Certification Overview
 

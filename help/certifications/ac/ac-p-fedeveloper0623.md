@@ -6,6 +6,7 @@ product: Magento
 role: Developer
 badge: label="Exam AD0-E721" type="neutral"
 mini-toc-levels: 1
+exl-id: 9bf1ec2a-dcd0-4952-8b0b-d24dd714b739
 ---
 # Certification journey for Adobe [!DNL Commerce] Front-end Developer Professional
 

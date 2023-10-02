@@ -3,7 +3,7 @@ title: Customer Journey Analytics Certification Overview
 description: Overview of certification options for Adobe Customer Journey Analytics
 solution: Customer Journey Analytics
 product: Customer Journey Analytics
-exl-id: 44c88dad-f8f0-4b2c-ab5a-ef0d2a498284
+exl-id: 8ffdae02-e1b5-4a32-b877-1fbe55c4852e
 ---
 # Adobe [!DNL Customer Journey Analytics] Certification Overview
 

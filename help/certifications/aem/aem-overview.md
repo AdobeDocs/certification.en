@@ -2,7 +2,7 @@
 title: Experience Manager Certification Overview
 description: Overview of certification options for Adobe Experience Manager
 solution: Experience Manager
-exl-id: 75f283b8-017d-464d-b7d4-a6bd2d20b90c
+exl-id: abec7565-58dd-46d7-bebc-5676a22201e2
 ---
 # Adobe [!DNL Experience Manager] Certification Overview
 
@@ -55,4 +55,3 @@ All scheduled AD0-E117 exams have been canceled. Candidates who are affected wil
 **I need to renew my certification prior to October; will this impact my renewal?**
 
 No. You will be able to renew via continuous learning. Make sure to follow the instructions and process provided under [Renew your certification](https://experienceleague.adobe.com/docs/certification/program/renew.html){target="_blank"}.
-

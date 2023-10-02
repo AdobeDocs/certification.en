@@ -3,7 +3,7 @@ title: Advertising Certification Overview
 description: Overview of certification options for Adobe Advertising
 solution: Advertising
 product: Advertising Cloud
-exl-id: 616c8b98-17ee-4744-8593-8d8675703b9c
+exl-id: fffb8e56-5afa-4fc0-a384-8a00f96b74a2
 ---
 # Adobe Advertising Certification Overview
 
