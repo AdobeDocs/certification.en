@@ -32,7 +32,7 @@ It's important to note that if your certification expires, you'll have to retake
 
 >[!TAB Expert]
 
-You should be currently certified (not expired) in:
+## You should be currently certified (not expired) in:
 
 * Adobe Marketo Engage Business Practitioner Expert
 
