@@ -31,21 +31,37 @@ Examity:
 
 >[!TAB Taking your exam]
 
+**Your Adobe ID**
+
 Your [profile](https://www.certmetrics.com/adobe/candidate/demographics.aspx){target="_blank"} name in the Adobe Credential Management System must exactly match your Government ID. Failure to have identical information or any mismatch will result in the proctor terminating the exam and will require you to reschedule your appointment in addition to paying an additional exam fee. 
+
+**Cancelling and rescheduling**
 
 Cancellations and rescheduling are possible if initiated prior to 48 hours before the scheduled exam appointment. Candidates must modify this appointment themselves.  
 
 Neither Adobe Support or Examity can process rescheduling and cancellation requests. Cancellations under 48 hours are subject to a rescheduling fee in addition to the exam fee. 
 
- Once you complete an exam, you receive a provisional pass or fail. The final score can take up to 72 hours to populate. You will find your result and score report under the History tab in the [Adobe Credential Manager](https://www.certmetrics.com/adobe){target="_blank"}.  
+**After your exam**
 
- If you fail to pass an Adobe certification exam on your first attempt, you must wait at least 24 hours before retaking the exam. Failure to pass an exam on the second or any subsequent attempt requires a waiting period of 14 calendar days before retaking the exam. Each attempt will incur a separate exam fee. 
+Once you complete an exam, you receive a provisional pass or fail. The final score can take up to 72 hours to populate. You will find your result and score report under the History tab in the [Adobe Credential Manager](https://www.certmetrics.com/adobe){target="_blank"}.  
+
+If you fail to pass an Adobe certification exam on your first attempt, you must wait at least 24 hours before retaking the exam. Failure to pass an exam on the second or any subsequent attempt requires a waiting period of 14 calendar days before retaking the exam. Each attempt will incur a separate exam fee. 
 
 >[!TAB Exams cost]
 
-These are the current costs for certification exams.
+**Certification exam prices**
 
-![Exam cost Badge](/help/certifications/assets/exam_costs_new.png)
+| Adobe Certificaiton | Price (USD) | India Price (USD) |
+| ------- | ------- | ------- |
+| Adobe Certified Professional | $125 | $95 |
+| Adobe Certified Expert | $225 | $150 |
+| Adobe Certified Master | $225 | $150 |
+
+**Renewal prices**
+
+Most certification renewals are **free of charge**. For certifications that do not have a free renewal option, you must retake the full certification exam to renew your certification.
+
+**Paying for your exam**
 
 You can pay for your certification exam by voucher or credit card. To purchase an exam voucher go to: [Adobe Certification Voucher Center](https://market.xvoucher.com/adobe/global){target="_blank"}. 
 
