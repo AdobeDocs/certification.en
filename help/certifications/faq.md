@@ -321,7 +321,7 @@ The program will run for six months, from April 24 to October 20, 2023.
 
 +++Will Adobe be offering this type of program again in the future?  
 
-Currently, we do not plan to offer this again. This is a one-time offering only. 
+We do not plan to offer this program again. This is a one-time offering only. 
 
 +++
 
