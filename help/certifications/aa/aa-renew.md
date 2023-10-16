@@ -141,11 +141,120 @@ Ensure that you have followed step 1 above, and successfully logged in to [Adobe
 
 +++
 
-+++[!DNL Adobe Analytics] Business Practitioner Professional
+## Instructions for renewing your certification:
+
+* **Step 1**: Successfully log in to [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}, then return to this page
+* **Step 2**: Review the exam objectives and resources
+* **Step 3**: Take and pass the exam
+
+### Get ready
+
+**Exam details:**
+  
+* Passing Score: 26/35
+* Time: 70 mins
+* Cost: FREE/non-proctored
+* Delivery: On-demand
+* Available languages: English
+* Prerequisite: current (not expired) Adobe Analytics Business Practitioner Professional certification
+* Exam ID: AD5-E832
+
+**Scope and objectives**
+
+Section 1: Business Analysis
+
+1.1 Given a business need/question, identify the most appropriate reporting strategy to perform an analysis 4%
+1.2 Analyze data to answer business questions and recommend new optimization hypotheses 4%
+1.3 Identify conversion funnels (as a concept to understand business analysis) 4%
+1.4 Interpret Solution Design Reference (SDR) to determine what data is available in reports 4%
+1.5 Analyze report data to summarize and draw conclusions 6%
+1.6 Investigate outliers and anomalies in reports 4%
+
+Section 2: Reporting and Dashboarding for Projects
+
+2.1 Consider the advantages of using a reporting tool based on a given scenario 2%
+2.2 Compare fallout and flow visualization and appropriate variable types for reporting 4%
+2.3 Apply the process to schedule Projects, and Data Warehouse 2%
+2.4 Apply the process to share Projects and Reporting and Analytics dashboards for different users and/or groups (sharing has changed) 2%
+2.5 Apply the process to set Alerts 2%
+2.6 Apply the process to lookup the dimensions/components (pre-defined and custom) 4%
+2.7 Apply the process to create a visualization 6%
+2.8 Given a scenario, determine the appropriate item to use 6%
+2.9 Apply the process to create, configure, and use mobile scorecards 2%
+
+Section 3: Segmentation and Calculated Metrics
+
+3.1 Determine how to develop and configure segments using best practices 6%
+3.2 Apply the process to share segments with others in the organization 4%
+3.3 Compare segments 4%
+3.4 Apply segments to Projects and Components 4%
+3.5 Apply the process to generate calculated and/or segmented metrics 4%
+
+Section 4: General Tool Knowledge and Troubleshooting
+
+4.1 Analyze reports and differentiate a data quality issue vs an implementation issue 4%
+4.2 Define different types of dimensions and parameters existing in Adobe Analytics (evars, props and events) 4%
+4.3 Determine how to bring data in and out of Adobe Analytics 2%
+4.4 Identify information from marketing URLs 2%
+
+Section 5: Administration
+
+5.1 Apply the process to configure the Marketing Channel reports with Marketing Channel processing rules 2%
+5.2 Apply the process to configure Classification Importer and Rule Builder 2%
+5.3 Apply the process to configure a virtual report suite based upon an existing segment 2%
+5.4 Use the Data Feed Manager Admin UI 2%
+5.5 Understanding of data governance 2%
+
+## Get prepped
+
+You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
+
+Here are some suggested resources to help you prepare:
+
+Section 1 
+
+[Contribution Analysis overview](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/contribution-analysis/ca-tokens.html)
+[Analysis Workspace overview](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/home.html)
+[Conversion Funnel](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/funnels.html)
+[Entry dimensions](https://experienceleague.adobe.com/docs/analytics/components/dimensions/entry-dimensions.html)
+
+Section 2
+
+[Share projects](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/share-projects.html)
+[Components overview](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/analysis-workspace-components.html)
+[Alert Builder](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/intelligent-alerts/alert-builder.html)
+[Create a mobile scorecard](https://experienceleague.adobe.com/docs/analytics/analyze/mobapp/create-scorecard.html)
+
+Section 3
+
+[Segment comparison](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/segment-comparison/segment-comparison.html)
+[Build metrics](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetric-workflow/cm-build-metrics.html)
+[Using Drop-Down Filters in Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/using-panels/using-drop-down-filters.html)
+[Tag segments](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-tag.html)
+
+Section 4 
+
+[Troubleshoot spikes and drops in data](https://experienceleague.adobe.com/docs/analytics/technotes/event/spikes-drops.html)
+[Custom events](https://experienceleague.adobe.com/docs/analytics/components/metrics/custom-events.html)
+[Download PDF or CSV files](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/download-send.html)
+[A Beginner's Guide to URL Parameters](https://www.semrush.com/blog/url-parameters/)
+
+Section 5 
+
+[Processing rules for Marketing Channels](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/marketing-channels/c-rules.html)
+[Classifications overview](https://experienceleague.adobe.com/docs/analytics/components/classifications/c-classifications.html)
+[Create virtual report suites](https://experienceleague.adobe.com/docs/analytics/components/virtual-report-suites/vrs-workflow/vrs-create.html)
+[Privacy regulations FAQ](https://experienceleague.adobe.com/docs/experience-platform/privacy/regulations/faq.html)
+
+## Renew your certification
+
+Ensure that you have followed step 1 above, and successfully logged in to [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} first. Then, to renew your certification, click the AD5-E832 Adobe Analytics Business Practitioner Professional Renewal Exam (AD5-E832) link below.
+
+* [AD5-E832 Adobe Analytics Business Practitioner Professional Renewal Exam](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=AD5-E832){target="_blank"}
 
 >[!NOTE]
 >
->Renewal coming soon.
+>This exam is free, open book, and un-proctored. You may take the exam up to three times. If you are unsuccessful after the third attempt, you must wait **30 days** to try again. Failure to comply might result in your certification being revoked.
 
 +++
 
