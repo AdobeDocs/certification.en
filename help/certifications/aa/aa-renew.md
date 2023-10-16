@@ -8,7 +8,7 @@ mini-toc-levels: 1
 hidefromtoc: yes
 exl-id: c230a7b1-db10-497c-975a-920eb09acb29
 ---
-# Renew your [!DNL Adobe Analytics] certification
+# Renew your Adobe [!DNL Analytics] certification
 
 Your Adobe certification is valid for two years. If you are nearing this two-year mark, it's time to renew your certification to keep it active. 
 
@@ -26,7 +26,7 @@ It's important to note that if your certification expires, you'll have to retake
 
 >[!TAB Professional]
 
-+++[!DNL Adobe Analytics] Developer Professional
++++Adobe [!DNL Analytics] Developer Professional
 
 ## Instructions for renewing your certification:
 
@@ -140,6 +140,8 @@ Ensure that you have followed step 1 above, and successfully logged in to [Adobe
 >This exam is free, open book, and un-proctored. You may take the exam up to three times. If you are unsuccessful after the third attempt, you must wait **30 days** to try again. Failure to comply might result in your certification being revoked.
 
 +++
+
++++Adobe [!DNL Analytics] Business Practitioner Professional
 
 ## Instructions for renewing your certification:
 
