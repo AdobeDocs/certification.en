@@ -12,10 +12,6 @@ exl-id: 519381bd-fcea-40fd-a10a-046b7fb97913
 
 {{intro}}
 
->[!NOTE]
->
->This exam (AD0-E117 / AD0-E117-J) is undergoing maintenance and is temporarily unavailable. We sincerely apologize for the inconvenience. [Sign up to be notified](https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4R3Iwdbolq9LpEOJ07Ii-i9URDdWMjUzODdITVoxQTNPVTZOSUNKUDhFQS4u) when it is available again.<br><br>**Questions?** See our [FAQ](#AEM-FAQ) at the bottom of this page.
-
 ## Exam description {#exam-description}
 
 {{exam-description}}
@@ -247,11 +243,25 @@ Additionally, you should have the ability to perform the following tasks:
 
 {{about-certification-exam}}
 
-## Schedule or take exam AD0-E117 / AD0-E117-J
+## Schedule or take exam AD0-E117 (English)
 
->[!NOTE]
->
->This exam (AD0-E117 / AD0-E117-J) is undergoing maintenance and is temporarily unavailable. We sincerely apologize for the inconvenience. [Sign up to be notified](https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4R3Iwdbolq9LpEOJ07Ii-i9URDdWMjUzODdITVoxQTNPVTZOSUNKUDhFQS4u) when it is available again.<br><br>**Questions?** See our [FAQ](#AEM-FAQ) at the bottom of this page.
+<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E117" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+                    
+ <span class="spectrum-Button-label has-no-wrap">
+   Go to Examity portal - English exam
+</span>
+</a>
+
+## Schedule or take exam AD0-E117-J (Japanese)
+
+<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E117-J" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+                    
+ <span class="spectrum-Button-label has-no-wrap">
+   Go to Examity portal - Japanese exam
+</span>
+</a>
+
+[Japanese instructions for scheduling](/help/certifications/assets/Examity-Instructions-in-Japanese.pdf)
 
 +++
 
