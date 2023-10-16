@@ -14,7 +14,7 @@ exl-id: a3d5e3bd-751f-4c35-a27e-7839199030d8
 
 >[!NOTE]
 >
->This is the newest [!DNL Adobe Marketo Engage] Architect Master exam. If you have already started studying or have scheduled the [older version](ame-m-architect.md), you must complete the exam by October 31, 2023. 
+>This is the newest Adobe [!DNL Marketo Engage] Architect Master exam. If you have already started studying or have scheduled the [older version](ame-m-architect.md), you must complete the exam by October 31, 2023. 
 
 ## Exam description {#exam-description}
 
@@ -24,7 +24,11 @@ exl-id: a3d5e3bd-751f-4c35-a27e-7839199030d8
 
 ### Exam details {#exam-details}
 
-* Pre requisite: Current (not expired) Adobe [!DNL Marketo Engage] Business Practitioner Expert Certification
+>[!IMPORTANT]
+>
+>This certification has a prerequisite. You MUST have an active (not expired) Adobe [!DNL Marketo Engage] Business Practitioner **Expert** Certification in order to take the Adobe [!DNL Marketo Engage] Architect Master exam.
+
+* Prerequisite: Active (not expired) Adobe [!DNL Marketo Engage] Business Practitioner Expert Certification
 * Level: Master (3-5 years' experience)
 * Practitioner certification
 * Passing Score: 30/50
@@ -203,6 +207,10 @@ Additionally, you should be familiar with the following tools and technologies:
 {{about-certification-exam}}
 
 ## Schedule or take exam AD0-E560
+
+>[!IMPORTANT]
+>
+>This certification has a prerequisite. You MUST have an active (not expired) Adobe [!DNL Marketo Engage] Business Practitioner **Expert** Certification in order to take the Adobe [!DNL Marketo Engage] Architect Master exam.
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E560" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
                     

@@ -26,6 +26,10 @@ The Adobe Credential Program has launched a new Adobe [!DNL Marketo Engage] Enga
 
 ### Exam details {#exam-details}
 
+>[!IMPORTANT]
+>
+>This certification has a prerequisite. You MUST have an active (not expired) Adobe [!DNL Marketo Engage] Business Practitioner **Expert** Certification in order to take the Adobe [!DNL Marketo Engage] Architect Master exam.
+
 * Pre requisite: Adobe Certified Expert – [!DNL Marketo Engage] Business Practitioner expert
 * Level: Master (3-5 years' experience)
 * Practitioner certification
@@ -203,6 +207,10 @@ Additionally, you should be familiar with the following tools and technologies:
 {{about-certification-exam}}
 
 ## Schedule or take exam AD0-E556
+
+>[!IMPORTANT]
+>
+>This certification has a prerequisite. You MUST have an active (not expired) Adobe [!DNL Marketo Engage] Business Practitioner **Expert** Certification in order to take the Adobe [!DNL Marketo Engage] Architect Master exam.
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E556" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
                     
