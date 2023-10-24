@@ -20,6 +20,6 @@ If you have not scheduled and started studying yet, please plan to take the new 
 
 * [Developer (AD0-E603)](/help/certifications/ajo/ajo-e-developer.md) <!--AD0-E603-->
 
-* [Developer (AD0-E606) - NEW](jo-e-developer-23-10.md) <!--AD0-E606-->
+* [Developer (AD0-E606) - NEW](/help/certifications/ajo/ajo-e-developer-23-10.md) <!--AD0-E606-->
 
 Visit the [Renew your certification](/help/certifications/renew.md) page to see if a renewal option is available for this product.
