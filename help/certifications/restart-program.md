@@ -6,6 +6,7 @@ solution: Experience Cloud
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 507ed14b-fd89-4701-aeeb-8905daec7270
+hidefromtoc: yes
 ---
 # Restart your certification journey by going from expired to certified
 
