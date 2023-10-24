@@ -307,7 +307,7 @@ All sales are final. Returns and refunds are not accepted. Adobe Exam Vouchers a
 
 >[!NOTE]
 >
->The Restart Program ended on October 20, 2023 and is no longer available.
+>The Restart Program ended on October 20, 2023. It was a one-time offering that will not be repeated in the future.
 
 +++
 

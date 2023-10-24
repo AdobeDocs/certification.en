@@ -10,6 +10,4 @@ exl-id: 8676c9b0-fa19-4821-a008-4f7028f95852
 
 * [Developer](/help/certifications/ajo/ajo-e-developer.md) <!--AD0-E603-->
 
-* [Developer - NEW](help/certifications/ajo/ajo-e-developer-23-10.md) <!--AD0-E606-->
-
 Visit the [Renew your certification](/help/certifications/renew.md) page to see if a renewal option is available for this product.
