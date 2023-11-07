@@ -6,26 +6,26 @@ description: Overview of certification options for Expert users
 
 **Analytics**
 
-* [Business Practioner](/help/certifications/aa/aa-e-business.md) <!--AD0-E208-->
+* [Business Practitioner](/help/certifications/aa/aa-e-business.md) <!--AD0-E208-->
 * [Developer](/help/certifications/aa/aa-e-developer.md) <!--AD0-E209-->
 
 **Audience Manager**
 
-* [Business Practioner](/help/certifications/aam/aam-e-business.md) <!--AD0-E457-->
+* [Business Practitioner](/help/certifications/aam/aam-e-business.md) <!--AD0-E457-->
 
 **Campaign Classic**
 
-* [Business Practioner](/help/certifications/acc/acc-e-business.md) <!--AD0-E327-->
+* [Business Practitioner](/help/certifications/acc/acc-e-business.md) <!--AD0-E327-->
 * [Developer](/help/certifications/acc/acc-e-developer.md) <!--AD0-E330-->
 
 **Campaign Standard**
 
-* [Business Practioner](/help/certifications/acs/acs-e-business.md) <!--AD0-E307-->
+* [Business Practitioner](/help/certifications/acs/acs-e-business.md) <!--AD0-E307-->
 * [Developer](/help/certifications/acs/acs-e-developer.md) <!--AD0-E306-->
 
 **Commerce**
 
-* [Business Practioner](/help/certifications/ac/ac-e-business.md) <!--AD0-E708-->
+* [Business Practitioner](/help/certifications/ac/ac-e-business.md) <!--AD0-E708-->
 * [Developer](/help/certifications/ac/ac-e-developer.md) <!--AD0-E716-->
 * [Developer](/help/certifications/ac/ac-e-fedeveloper.md) <!--AD0-E710-->
 
@@ -35,7 +35,7 @@ description: Overview of certification options for Expert users
 
 **Experience Manager**
 
-* [Business Practioner (Sites)](/help/certifications/aem/aem-sites-e-business.md) <!--AD0-E121-->
+* [Business Practitioner (Sites)](/help/certifications/aem/aem-sites-e-business.md) <!--AD0-E121-->
 * [Developer (Sites)](/help/certifications/aem/aem-sites-e-developer.md) <!--AD0-E134-->
 * [DevOps](/help/certifications/aem/aem-devops-e-engineer.md) <!--AD0-E124-->
 * [Developer (Forms)](/help/certifications/aem/aem-forms-e-developer.md) <!--AD0-E125-->
@@ -43,7 +43,7 @@ description: Overview of certification options for Expert users
 
 **Marketo Engage**
 
-* [Business Practioner](/help/certifications/ame/ame-e-business.md) <!--AD0-E559-->
+* [Business Practitioner](/help/certifications/ame/ame-e-business.md) <!--AD0-E559-->
 
 **Real-Time CDP**
 
@@ -51,7 +51,7 @@ description: Overview of certification options for Expert users
 
 **Target**
 
-* [Business Practioner](/help/certifications/at/at-e-business.md) <!--AD0-E406-->
+* [Business Practitioner](/help/certifications/at/at-e-business.md) <!--AD0-E406-->
 
 **Workfront**
 

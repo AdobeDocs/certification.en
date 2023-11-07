@@ -9,12 +9,12 @@ exl-id: c80ad5d1-6245-4c99-b4ac-97b8dc48e80f
 
 **Professional**
 
-* [Business Practioner](/help/certifications/acc/acc-p-business.md) <!--AD0-E329-->
+* [Business Practitioner](/help/certifications/acc/acc-p-business.md) <!--AD0-E329-->
 * [Developer](/help/certifications/acc/acc-p-developer.md) <!--AD0-E331-->
 
 **Expert**
 
-* [Business Practioner](/help/certifications/acc/acc-e-business.md) <!--AD0-E327-->
+* [Business Practitioner](/help/certifications/acc/acc-e-business.md) <!--AD0-E327-->
 * [Developer](/help/certifications/acc/acc-e-developer.md) <!--AD0-E330-->
 
 **Master**

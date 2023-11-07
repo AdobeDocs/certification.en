@@ -12,7 +12,7 @@ exl-id: 8746c2a3-351f-4f6b-875d-5c72526d3166
 
 **Expert**
 
-* [Business Practioner](/help/certifications/ame/ame-e-business.md) <!--AD0-E559-->
+* [Business Practitioner](/help/certifications/ame/ame-e-business.md) <!--AD0-E559-->
 
 **Master**
 
