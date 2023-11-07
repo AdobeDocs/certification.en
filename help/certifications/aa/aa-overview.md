@@ -9,12 +9,12 @@ exl-id: 38beb41b-b943-4058-a3fb-da7babff8499
 
 **Professional**
 
-* [Business Practioner](/help/certifications/aa/aa-p-business.md) <!--AD0-E212-->
+* [Business Practitioner](/help/certifications/aa/aa-p-business.md) <!--AD0-E212-->
 * [Developer](/help/certifications/aa/aa-p-developer.md) <!--AD0-E213-->
 
 **Expert**
 
-* [Business Practioner](/help/certifications/aa/aa-e-business.md) <!--AD0-E208-->
+* [Business Practitioner](/help/certifications/aa/aa-e-business.md) <!--AD0-E208-->
 * [Developer](/help/certifications/aa/aa-e-developer.md) <!--AD0-E209-->
 
 **Master**

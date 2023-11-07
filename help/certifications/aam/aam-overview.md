@@ -9,11 +9,11 @@ exl-id: aeeef127-446c-4d22-8791-b93ea755545a
 
 **Professional**
 
-* [Business Practioner](/help/certifications/aam/aam-p-business.md) <!--AD0-E458-->
+* [Business Practitioner](/help/certifications/aam/aam-p-business.md) <!--AD0-E458-->
 
 **Expert**
 
-* [Business Practioner](/help/certifications/aam/aam-e-business.md) <!--AD0-E457-->
+* [Business Practitioner](/help/certifications/aam/aam-e-business.md) <!--AD0-E457-->
 
 **Master**
 
