@@ -26,6 +26,10 @@ It's important to note that if your certification expires, you'll have to retake
 
 >[!TAB Professional]
 
+>[!NOTE]
+>
+>The continuous learning renewal method for all Adobe Commerce Professional certifications will be **discontinued on November 10, 2023**. Free renewal will still be available for these certifications via renewal exams.
+
 ## Free continuous learning renewal is available for:
 
 [!DNL Adobe Commerce] Business Practitioner Professional
