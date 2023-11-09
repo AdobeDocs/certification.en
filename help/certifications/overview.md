@@ -11,7 +11,7 @@ Learn about Certification at Adobe and what getting certified can do for you.
 
 ![Banner](/help/certifications/assets/home_banner_smallwide.png)
 
-The Adobe Certification Program was created to help you prove your skills in Adobe [!DNL Experience Cloud] products. Becoming Adobe Certified allows you to showcase your expertise and impress clients and employers alike.
+The Adobe Digital Experience Credential Program was created to help you prove your skills in Adobe [!DNL Experience Cloud] products. Becoming Adobe Certified allows you to showcase your expertise and impress clients and employers alike.
 
 Adobe [!DNL Experience Cloud] is a suite of digital marketing solutions that enables businesses to deliver personalized customer experiences across multiple channels, including web, mobile, email, and social media. Adobe [!DNL Experience Cloud] includes a range of products, such as Adobe [!DNL Real-Time CDP], Adobe [!DNL Experience Manager], Adobe [!DNL Commerce], Adobe [!DNL Journey Optimizer], Adobe [!DNL Customer Analytics], and more.
 
@@ -29,11 +29,11 @@ Getting an Adobe [!DNL Experience Cloud] certification has many benefits:
 * **Free practice tests:** Adobe offers free practice exams to help ensure that you're fully prepared for your certification exam.
 * **Free certification renewals:** Adobe certifications are valid for two years, and most certifications can be renewed free of charge by either taking an on-demand, un-proctored exam or completing a set of continuous learning activities.
 
-The Adobe Certification Program is designed for professionals in a variety of fields, including developers, business practitioners, and architects. Whether you're a seasoned expert or just starting out, certification helps you advance your career and stay ahead of the competition.
+The Adobe Digital Experience Credential Program is designed for professionals in a variety of fields, including developers, business practitioners, and architects. Whether you're a seasoned expert or just starting out, certification helps you advance your career and stay ahead of the competition.
 
 ## Get started
 
-Unlock your professional potential today by learning about the Adobe Certification Program. 
+Unlock your professional potential today by learning about the Adobe Digital Experience Credential Program. 
 
 <a href="https://experienceleague.adobe.com/docs/certification/certification/getting-started.html" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6"><span class="spectrum-Button-label has-no-wrap">Get Started</span></a>
 
