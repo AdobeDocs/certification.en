@@ -12,10 +12,6 @@ exl-id: a3d5e3bd-751f-4c35-a27e-7839199030d8
 
 {{intro}}
 
->[!NOTE]
->
->This is the newest Adobe [!DNL Marketo Engage] Architect Master exam. If you have already started studying or have scheduled the [older version](ame-m-architect.md), you must complete the exam by October 31, 2023. 
-
 ## Exam description {#exam-description}
 
 {{exam-description}}

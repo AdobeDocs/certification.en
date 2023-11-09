@@ -37,7 +37,7 @@ It's important to note that if your certification expires, you'll have to retake
 
 **Exam details:**
   
-* Passing Score: 25/34
+* Passing Score: 26/34
 * Time: 68 mins
 * Cost: FREE/non-proctored
 * Delivery: On-demand
@@ -233,7 +233,7 @@ Ensure that you have followed step 1 above, and successfully logged in to [Adobe
 
 **Exam details:**
   
-* Passing Score: 25/35
+* Passing Score: 27/35
 * Time: 70 mins
 * Cost: FREE/non-proctored
 * Delivery: On-demand
@@ -340,7 +340,7 @@ Ensure that you have followed step 1 above, and successfully logged in to [Adobe
 
 **Exam details:**
   
-* Passing Score: 25/35
+* Passing Score: 27/35
 * Time: 70 mins
 * Cost: FREE/non-proctored
 * Delivery: On-demand

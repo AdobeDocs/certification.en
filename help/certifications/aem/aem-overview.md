@@ -12,7 +12,7 @@ If you are looking for information on renewing your existing certification, visi
 
 **Professional**
 
-* [Business Practioner](/help/certifications/aem/aem-p-business.md) <!--AD0-E126-->
+* [Business Practitioner](/help/certifications/aem/aem-p-business.md) <!--AD0-E126-->
 * [Developer (Sites)](/help/certifications/aem/aem-sites-p-developer.md) <!--AD0-E123-->
 * [Developer (Assets)](/help/certifications/aem/aem-assets-p-developer.md) <!--AD0-E129-->
 * [Back-end Developer (Forms)](/help/certifications/aem/aem-forms-p-bedeveloper.md) <!--AD0-E127-->
@@ -20,7 +20,7 @@ If you are looking for information on renewing your existing certification, visi
 
 **Expert**
 
-* [Business Practioner (Sites)](/help/certifications/aem/aem-sites-e-business.md) <!--AD0-E121-->
+* [Business Practitioner (Sites)](/help/certifications/aem/aem-sites-e-business.md) <!--AD0-E121-->
 * [Developer (Sites)](/help/certifications/aem/aem-sites-e-developer.md) <!--AD0-E134-->
 * [DevOps](/help/certifications/aem/aem-devops-e-engineer.md) <!--AD0-E124-->
 * [Developer (Forms)](/help/certifications/aem/aem-forms-e-developer.md) <!--AD0-E125-->

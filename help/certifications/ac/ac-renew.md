@@ -26,6 +26,10 @@ It's important to note that if your certification expires, you'll have to retake
 
 >[!TAB Professional]
 
+>[!NOTE]
+>
+>The continuous learning renewal method for all Adobe Commerce Professional certifications will be **discontinued on November 10, 2023**. Free renewal will still be available for these certifications via renewal exams.
+
 ## Free continuous learning renewal is available for:
 
 [!DNL Adobe Commerce] Business Practitioner Professional
@@ -165,7 +169,7 @@ Here are some suggested resources to help you prepare:
 **Section3**
 
 * [Google Analytics](https://experienceleague.adobe.com/docs/commerce-admin/marketing/google-tools/google-analytics.html){target="_blank"}
-* [SEO Overview](https://experienceleague.adobe.com/docs/commerce-admin/maketing/seo/seo-overview.html){target="_blank"}
+* [SEO Overview](https://experienceleague.adobe.com/docs/commerce-admin/marketing/seo/seo-overview.html){target="_blank"}
 * [Enhanced storefront experiences](https://experienceleague.adobe.com/docs/commerce-admin/start/storefront/enhanced-experiences.html){target="_blank"}
 * [PCI compliance](https://business.adobe.com/products/magento/pci-compliance.html){target="_blank"}
 * [Learn the difference between omnichannel and multichannel marketing](https://business.adobe.com/blog/basics/omnichannel-vs-multichannel-marketing){target="_blank"}
