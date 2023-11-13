@@ -101,8 +101,7 @@ Here are some suggested resources to help you prepare:
 * [Adobe Experience Manager and Creative Cloud integration best practices](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/aem-cc-integration-best-practices.html)
 * [AEM-CIF core components and Adobe Experience Platform integration](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/content-and-commerce/integrations/aep.html)
 * [User Administration and Security](https://experienceleague.adobe.com/docs/experience-manager-65/administering/security/security.html)
-* [Admin Console overview]()
-* https://helpx.adobe.com/enterprise/using/admin-console.html 
+* [Admin Console overview](https://helpx.adobe.com/enterprise/using/admin-console.html)
 * [AEM Publish](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/caching/publish.html)
 
 **Section 3**
