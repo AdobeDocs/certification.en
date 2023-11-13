@@ -108,6 +108,14 @@ You should also have experience with the following tasks:
 
 <br>
 
+### Readiness questionnaire
+
+{{readiness}}
+
+[Take the online readiness questionnaire](https://sei.caveon.com/launchpad/ad-q-e213-readiness-questionnaire-for-adobe-analytics-developer-professional-exam){target="_blank"}
+
+<br>
+
 ## How to get certified {#how-to-get-certified}
 
 {{how-to-get-certified-intro}}
