@@ -27,7 +27,7 @@ exl-id: a3d5e3bd-751f-4c35-a27e-7839199030d8
 * Prerequisite: Active (not expired) Adobe [!DNL Marketo Engage] Business Practitioner Expert Certification
 * Level: Master (3-5 years' experience)
 * Practitioner certification
-* Passing Score: 30/50
+* Passing Score: 32/50
 * Time: 100 mins
 * Delivery: Online proctored (requires camera access)
 * Available languages: English
