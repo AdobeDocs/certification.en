@@ -11,10 +11,6 @@ exl-id: dc74de79-c945-47a4-a13b-e027182919a5
 
 {{intro}}
 
->[!NOTE]
->
->This is the newest Adobe [!DNL Workfront] Core Developer Expert exam. If you have already started studying or have scheduled the [older version](aw-core-e-developer.md), you must complete it by November 6, 2023. 
-
 ## Exam description {#exam-description}
 
 {{exam-description}}

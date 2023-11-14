@@ -137,8 +137,7 @@ user-guide-description: Learn about [!DNL Experience Cloud] Certification at Ado
       + [Project Manager](/help/certifications/aw/aw-p-project-manager.md)
       + [Developer (Core)](/help/certifications/aw/aw-core-p-developer.md)
     + Expert {#aw-expert}
-      + [Developer (Core)](/help/certifications/aw/aw-core-e-developer.md)
-      + [Developer (Core) - NEW](/help/certifications/aw/aw-core-e-developer-23-08.md)
+      + [Developer (Core)](/help/certifications/aw/aw-core-e-developer-23-08.md)
       + [AEM enhanced connector](/help/certifications/aw/aw-aem-e-connector.md)
     + [Renewal](/help/certifications/aw/aw-renew.md)
 + [Credentials for end users](https://learning.adobe.com/certification/credentials)
