@@ -142,12 +142,12 @@ Section 1: Intake and Planning (29%)
 Section 2: Execute (59%)
 
 * Create Workfront Single Use Approvals and when an Approval would be used. (Consider Project and Task Approvals, Multipath Approvals, and Multistage Approvals.)
-* Given a scenario, identify the information that date types convey to a project manager. (Consider Planned Dates, Actual Dates, Manual Dates, Commit Dates, Estimate Dates)
+* Given a scenario, identify the information that date types convey to a project manager. (Consider Planned Dates, Actual Dates, Commit Dates, Estimated Dates)
 * Given a scenario, determine how different Task Constraints affect the project timeline when used. (Consider the understanding of what the different task constraints do, knowing what the different task constraints are, and when to use the different task constraints)
 * Given a scenario, demonstrate how to find project teams and how to notify them of work assignments, updates, or completion of work items. (Consider notification types, project team notifications, People tab, Updates to projects/tasks, when and why to subscribe to a work object, and how to modify individual email notifications)
 * Identify the different ways to manage a project. (Consider waterfall, Agile, SCRUM, and Kanban.)
 * Given a scenario, describe how to provide stakeholders the information they require. (Consider exporting reports, exporting files, recurring deliveries, etc.)
-* Given a scenario, determine how date types and durations impact project conditions. (Consider planned start, projected start, individuals commit date, etc.)
+* Given a scenario, determine how date types and durations impact project conditions. (Consider planned start, projected start, individual's commit date, etc.)
 * Given a scenario, determine how to implement or modify changes in system-level or group-level custom statuses
 * Given a scenario, describe the steps to build a report and determine the type of report needed.
 * Given a scenario, determine when an issue should be utilized on a project.
