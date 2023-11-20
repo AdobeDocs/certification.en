@@ -43,7 +43,7 @@ Unlock your professional potential today by learning about the Adobe Digital Exp
 All of the details about each available product certification are listed in the table of contents to the left and in the below list:
 
 * [Adobe [!DNL Analytics]](/help/certifications/aa/aa-overview.md)
-* [Adobe [!DNL Advertising Cloud]](/help/certifications/aac/aac-overview.md)
+* [Adobe [!DNL Advertising]](/help/certifications/aac/aac-overview.md)
 * [Adobe [!DNL Audience Manager]](/help/certifications/aam/aam-overview.md)
 * [Adobe [!DNL Commerce]](/help/certifications/ac/ac-overview.md)
 * [Adobe [!DNL Campaign Classic]](/help/certifications/acc/acc-overview.md)
