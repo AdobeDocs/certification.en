@@ -145,12 +145,11 @@ Experience with tasks that include:
 
 <br>
 
-**Sample questions**
+**Take a practice test**
 
-{{sample-questions}}
+{{practice-test}}
 
-[View sample questions](https://scorpion.caveon.com/launchpad/ad3-e602-adobe-real-time-cdp-business-practitioner-professional-sample-questions){target="_blank"}
-
+[View sample questions](https://scorpion.caveon.com/launchpad/ad4-e602-adobe-real-time-cdp-business-practitioner-professional-practice-exam){target="_blank"}
 
 +++ 
 
