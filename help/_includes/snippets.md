@@ -211,3 +211,5 @@ Your badge serves as tangible evidence of your proficiency with Adobe Experience
 ## Renewing your certification {#renewing-intro}
 
 Certifications expire after two years. To maintain your certification, you must renew it before it expires. Visit the [Renew your certification](https://experienceleague.adobe.com/docs/certification/program/renew.html){target="_blank"} page for more information.
+
+<!--divider-->

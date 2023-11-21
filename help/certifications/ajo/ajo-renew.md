@@ -15,7 +15,11 @@ We're happy to announce that you are now able to renew your certification via a 
 
 >[!IMPORTANT]
 >
->The following sections and links will function **only** after a **successful login** to the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}. 
+>**Log in first:** The following links will function **only** after a **successful login** to the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
+>
+><br>
+>
+>**To share a link:** If you would like to share the link to a renewal exam or assessment with a colleague, please link to the overall exam renewal page,  not the URL of the exam itself, to avoid login issues.
 
 >[!NOTE]
 >Expert renewal coming soon.

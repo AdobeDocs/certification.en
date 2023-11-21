@@ -35,6 +35,9 @@ Most certifications can be renewed **free of charge**. Some certifications do no
 
 The certifications found under the links below can be renewed for free, either through continuous learning or by taking an on-demand renewal exam. If you do not find your certification here, you will need to renew by retaking the full certification exam.
 
+>[!NOTE]
+>
+>If you would like to share the link to a renewal exam or assessment with a colleague, please link to the overall exam renewal page,  not the URL of the exam itself, to avoid login issues.
 
 * [Adobe [!DNL Analytics]](https://experienceleague.adobe.com/docs/certification/certification/technical-certifications/aa/aa-renew.html){target="_blank"}
 * [Adobe [!DNL Audience Manager]](https://experienceleague.adobe.com/docs/certification/certification/technical-certifications/aam/aam-renew.html){target="_blank"}
