@@ -9,6 +9,14 @@ exl-id: 751e4c99-cce8-47a1-84cc-2cb3aacdaec8
 
 Adobe's certifications are designed to validate the knowledge and skills of professionals working with our digital marketing solutions. Use the following tabs to begin learning about the certification program.
 
+>[!TIP]
+>
+>**Our year-end sale starts Cyber Monday!** Get 50% off certification exam vouchers from the Adobe Digital Experience Credential Program, starting November 27 through December 31.
+><br>
+>This offer is only valid when you purchase via the [Adobe Certification Voucher Center](https://experienceleague.adobe.com/docs/analytics/analyze/home.html){target="_blank"}. Use promo code Holiday2023 at checkout.
+><br>
+>This offer is only available for the timeframe mentioned, and only applies to new orders and cannot be applied to previously placed purchases. Voucher codes are valid for one year from date of purchase.
+
 >[!BEGINTABS]
 
 >[!TAB Exam types]
