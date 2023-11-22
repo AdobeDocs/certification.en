@@ -9,14 +9,6 @@ exl-id: 753f63e1-599e-43cd-8cf7-8688a8dac512
 
 Learn how to get certified at Adobe. Find all the resources you need before, during and after you become certified.
 
->[!TIP]
->
->**Our year-end sale starts Cyber Monday!** Get 50% off certification exam vouchers from the Adobe Digital Experience Credential Program, starting November 27 through December 31.
-><br>
->This offer is only valid when you purchase via the [Adobe Certification Voucher Center](https://experienceleague.adobe.com/docs/analytics/analyze/home.html){target="_blank"}. Use promo code Holiday2023 at checkout.
-><br>
->This offer is only available for the timeframe mentioned, and only applies to new orders and cannot be applied to previously placed purchases. Voucher codes are valid for one year from date of purchase.
-
 >[!BEGINTABS]
 
 >[!TAB Registration]

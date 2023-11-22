@@ -11,14 +11,6 @@ Learn about Certification at Adobe and what getting certified can do for you.
 
 ![Banner](/help/certifications/assets/home_banner_smallwide.png)
 
->[!TIP]
->
->**Our year-end sale starts Cyber Monday!** Get 50% off certification exam vouchers from the Adobe Digital Experience Credential Program, starting November 27 through December 31.
-><br>
->This offer is only valid when you purchase via the [Adobe Certification Voucher Center](https://experienceleague.adobe.com/docs/analytics/analyze/home.html){target="_blank"}. Use promo code Holiday2023 at checkout.
-><br>
->This offer is only available for the timeframe mentioned, and only applies to new orders and cannot be applied to previously placed purchases. Voucher codes are valid for one year from date of purchase.
-
 The Adobe Digital Experience Credential Program was created to help you prove your skills in Adobe [!DNL Experience Cloud] products. Becoming Adobe Certified allows you to showcase your expertise and impress clients and employers alike.
 
 Adobe [!DNL Experience Cloud] is a suite of digital marketing solutions that enables businesses to deliver personalized customer experiences across multiple channels, including web, mobile, email, and social media. Adobe [!DNL Experience Cloud] includes a range of products, such as Adobe [!DNL Real-Time CDP], Adobe [!DNL Experience Manager], Adobe [!DNL Commerce], Adobe [!DNL Journey Optimizer], Adobe [!DNL Customer Analytics], and more.
