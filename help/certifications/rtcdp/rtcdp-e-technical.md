@@ -17,10 +17,6 @@ exl-id: 76c22cfc-e3ef-4c54-bc8f-04174c976a73
 
 {{exam-description}}
 
->[!IMPORTANT]
->
->The Adobe [!DNL Real-Time Customer Data Platform] Expert certification requires passing two exams: **Adobe [!DNL Experience Platform] Technical Foundations (AD0-E600)** and **Adobe [!DNL Real-Time CDP] Technical Practitioner (AD7-E601)**.
-
 <br>
 
 [Jump to information specific to requirement 1](#req-1)

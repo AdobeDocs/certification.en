@@ -17,9 +17,7 @@ exl-id: 5e15b6e5-a9c0-4927-89d8-4a43fbb0e863
 
 {{exam-description}}
 
->[!IMPORTANT]
->
->The Adobe [!DNL Experience Platform] Expert certification currently requires passing two exams: **Adobe [!DNL Experience Platform] Technical Foundations (AD0-E600)** and **Adobe [!DNL Real-Time CDP] Technical Practitioner (AD7-E601)**. As of November 1, 2023, a new exam will be launched, and that will be only exam required for this certification.
+
 
 <br>
 
@@ -202,8 +200,6 @@ The AD0-E600 exam validates skills and knowledge covering the basic features and
 <br>
 
 ## Requirement #2: Information for Adobe [!DNL Real-Time CDP] Technical Practitioner (AD7-E601) {#req-2}
-
-The AD7-E601 exam covers the creation, management and understanding of customer profile, segmentation, destinations across sources, and other topics. The exam validates the foundational skills and knowledge needed to employ Real-time CDP for audience segmentation, destination exports, and activation on a real-time basis for unified profiles that adhere to data and privacy regulations. Candidates should have experience with Customer Data Platforms (CDP) and knowledge of Adobe [!DNL Experience Platform].
 
 <br>
 
