@@ -67,7 +67,7 @@ You should have:
 >
 ><br>
 >
->**If you have already scheduled exam AD0-E600**, we strongly recommend canceling your appointment and rescheduling when the new exam is released. For questions, please contact [Certification Support](mailto:certif@adobe.com){target="_blank"}.
+>**If you have already scheduled exam AD0-E600**, we strongly recommend canceling your appointment in the Examity portal (see step 3 below) and rescheduling when the new exam is released. For questions, please contact [Certification Support](mailto:certif@adobe.com){target="_blank"}.
 
 The AD0-E600 exam validates skills and knowledge covering the basic features and frequently performed tasks of Adobe [!DNL Experience Platform] at the Expert level.
 
@@ -170,6 +170,14 @@ The AD0-E600 exam validates skills and knowledge covering the basic features and
 
 +++Step 3: Schedule & pay for exam
 
+>[!IMPORTANT]
+>
+>Scheduling for exam AD0-E600 has been put on hold. This exam is currently being updated and will release on **January 15, 2024**. After that date, this certification will only require passing one exam, rather than the two exams currently required.
+>
+><br>
+>
+>**If you have already scheduled exam AD0-E600**, we strongly recommend canceling your appointment in the Examity portal and rescheduling when the new exam is released. For questions, please contact [Certification Support](mailto:certif@adobe.com){target="_blank"}.
+
 {{schedule-and-pay}}
 
 +++
@@ -189,6 +197,14 @@ The AD0-E600 exam validates skills and knowledge covering the basic features and
 {{about-certification-exam}}
 
 ## Schedule or take exam AD0-E600
+
+>[!IMPORTANT]
+>
+>Scheduling for exam AD0-E600 has been put on hold. This exam is currently being updated and will release on **January 15, 2024**. After that date, this certification will only require passing one exam, rather than the two exams currently required.
+>
+><br>
+>
+>**If you have already scheduled exam AD0-E600**, we strongly recommend canceling your appointment in the Examity portal and rescheduling when the new exam is released. For questions, please contact [Certification Support](mailto:certif@adobe.com){target="_blank"}.
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E600" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
                     

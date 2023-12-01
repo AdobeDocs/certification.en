@@ -176,7 +176,7 @@ You should have:
 
 {{sample-questions}}
 
-[View sample questions](https://scorpion.caveon.com/launchpad/ad4-e903-adobe-workfront-project-manager-certified-professional-exam-sample-exam){target="_blank"}
+[View sample questions](https://scorpion.caveon.com/launchpad/ad4-e903-adobe-workfront-project-manager-professional-practice-exam){target="_blank"}
 
 +++ 
 
