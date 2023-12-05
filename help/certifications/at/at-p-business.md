@@ -149,14 +149,6 @@ You should have:
 * [[!DNL Adobe Target] Business Practitioner Guide](https://experienceleague.adobe.com/docs/target/using/target-home.html){target="_blank"}
 * [Adobe Experience Cloud Debugger overview](https://experienceleague.adobe.com/docs/debugger/using/experience-cloud-debugger.html){target="_blank"}
 
-<br>
-
-**Sample questions**
-
-{{sample-questions}}
-
-[View sample questions](https://scorpion.caveon.com/launchpad/ad0-e408-adobe-target-business-practitioner-professional-copy-5axknr){target="_blank"} 
-
 +++ 
 
 <br>

@@ -8,7 +8,7 @@ badge: label="Exam AD0-E604" type="neutral"
 mini-toc-levels: 1
 exl-id: 9ffe9fc9-5427-4297-9d8d-14ce62e239e4
 ---
-# Certification journey for Adobe [!DNL Customer Journey Analytics] Expert
+# Certification journey for Adobe [!DNL Customer Journey Analytics] Developer Expert
 
 {{intro}}
 
