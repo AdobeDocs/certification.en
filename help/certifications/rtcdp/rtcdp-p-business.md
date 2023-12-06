@@ -149,8 +149,6 @@ Experience with tasks that include:
 
 {{practice-test}}
 
-[View sample questions](https://scorpion.caveon.com/launchpad/ad4-e602-adobe-real-time-cdp-business-practitioner-professional-practice-exam){target="_blank"}
-
 +++ 
 
 <br>

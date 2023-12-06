@@ -104,14 +104,6 @@ You should have:
 
 <br>
 
-### Readiness questionnaire
-
-{{readiness}}
-
-[Take the online readiness questionnaire](https://scorpion.caveon.com/launchpad/readiness-questionnaire-for-adobe-campaign-classic-business-practitioner-expert-exam){target="_blank"}
-
-<br>
-
 ## How to get certified {#how-to-get-certified}
 
 {{how-to-get-certified-intro}}

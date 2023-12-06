@@ -170,7 +170,7 @@ Additionally, you should have experience with the following technologies and env
 
 {{sample-questions}}
 
-[View sample questions](https://scorpion.caveon.com/launchpad/ad0-e129-adobe-experience-manager-assets-developer-professional-copy-ms27zq){target="_blank"}
+[View sample questions](https://scorpion.caveon.com/launchpad/ad4-e129-adobe-experience-manager-assets-developer-professional-practice-exam){target="_blank"}
 
 +++ 
 

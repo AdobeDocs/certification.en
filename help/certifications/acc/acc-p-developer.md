@@ -199,7 +199,7 @@ You should have:
 
 {{sample-questions}}
 
-[View sample questions](https://scorpion.caveon.com/launchpad/ad0-e331-adobe-campaign-classic-developer-professional-copy-ixmxw7){target="_blank"}
+[View sample questions](https://scorpion.caveon.com/launchpad/ad4-e331-adobe-campaign-classic-developer-professional-practice-exam){target="_blank"}
 
 +++ 
 

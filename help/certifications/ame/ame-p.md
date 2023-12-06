@@ -178,7 +178,7 @@ Additionally, you should be familiar with the following tools and technologies:
 
 {{sample-questions}}
 
-[View sample questions](https://scorpion.caveon.com/launchpad/ad0-e555-adobe-marketo-engage-professional-copy-nppnkv){target="_blank"} 
+[View sample questions](https://scorpion.caveon.com/launchpad/ad4-e555-adobe-marketo-engage-professional-practice-exam){target="_blank"} 
 
 +++ 
 

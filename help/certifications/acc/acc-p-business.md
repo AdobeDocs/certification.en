@@ -191,7 +191,9 @@ You should have:
 
 {{sample-questions}}
 
-[View sample questions](https://scorpion.caveon.com/launchpad/ad0-e329-adobe-campaign-classic-business-practitioner-professional-copy-k5cx2p){target="_blank"}
+[View sample questions](https://scorpion.caveon.com/launchpad/ad4-e329-adobe-campaign-classic-business-practitioner-professional-practice-exam){target="_blank"}
+
+
 
 +++ 
 
