@@ -155,7 +155,13 @@ Additionally, you should be familiar with the following technologies and environ
 * [AEM 6.5 Administering User Guide](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html){target="_blank"}
 * [AEM 6.5 Deploying User Guide](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html){target="_blank"}
 
-+++ 
+<br>
+
+**Take a practice test**
+
+{{practice-test}}
+
++++
 
 <br>
 
