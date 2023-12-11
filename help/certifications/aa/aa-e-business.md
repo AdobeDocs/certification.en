@@ -161,7 +161,7 @@ Additionally, you should be familiar with the following technologies and environ
 * [[!DNL Adobe Analytics] dashboards - Overview](https://experienceleague.adobe.com/docs/analytics/analyze/mobapp/home.html){target="_blank"}
 * [Projects overview](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/build-workspace-project/freeform-overview.html){target="_blank"}
 * [Visualizations overview](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/freeform-analysis-visualizations.html){target="_blank"}
-* [Intelligent Alerts overview](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/intelligent-alerts/intellligent-alerts.html){target="_blank"}
+* [Intelligent Alerts overview](https://experienceleague.adobe.com/docs/analytics/components/alerts/alert-manager.html){target="_blank"}
 
 **Section 3: Segmentation and calculated metric**
 
@@ -171,7 +171,7 @@ Additionally, you should be familiar with the following technologies and environ
 **Section 4: General tool knowledge and troubleshooting**
 
 * [Analytics Tools Guide](https://experienceleague.adobe.com/docs/analytics/analyze/home.html){target="_blank"}
-* [Analysis Workspace Overview](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/intelligent-alerts/intellligent-alerts.html){target="_blank"}
+* [Analysis Workspace Overview](https://experienceleague.adobe.com/docs/analytics/components/alerts/alert-manager.html){target="_blank"}
 
 **Section 5: Administration**
 
