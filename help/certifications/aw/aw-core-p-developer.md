@@ -11,6 +11,10 @@ exl-id: 08f5386c-901c-44be-9537-48c9ac5d2be2
 
 {{intro}}
 
+>[!NOTE]
+>
+>This exam, Adobe [!DNL Workfront] Core Developer Professional (AD0-E905), has been updated. If you have already started studying or are scheduled to take this version, please be sure to complete it before February 26, 2024. If you are just getting started, we recommend taking the [newest version of this exam (AD0-E908)](aw-core-p-developer-23-12.md). 
+
 ## Exam description {#exam-description}
 
 {{exam-description}}
@@ -205,6 +209,10 @@ And, you should have:
 {{about-certification-exam}}
 
 ## Schedule or take exam AD0-E905
+
+>[!NOTE]
+>
+>This exam, Adobe [!DNL Workfront] Core Developer Professional (AD0-E905), has been updated. If you have already started studying or are scheduled to take this version, please be sure to complete it before February 26, 2024. If you are just getting started, we recommend taking the [newest version of this exam (AD0-E908)](aw-core-p-developer-23-12.md). 
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E905" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
                     
