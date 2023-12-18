@@ -182,8 +182,6 @@ You should have:
 </span>
 </a>
 
-[Japanese instructions for scheduling](/help/certifications/assets/Examity-Instructions-in-Japanese.pdf)
-
 +++
 
 <br>
