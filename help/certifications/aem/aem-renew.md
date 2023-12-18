@@ -140,11 +140,11 @@ Ensure that you have followed step 1 above, and successfully logged in to [Adobe
 
 +++
 
-+++Adobe [!DNL Experience Manager] Developer Professional
++++Adobe [!DNL Experience Manager] Sites Developer Professional
 
 ## You should have the following **active** certification:
 
-* Adobe [!DNL Experience Manager] Developer Professional
+* Adobe [!DNL Experience Manager] Sites Developer Professional
 
 ## Instructions for renewing your certification:
 
@@ -166,7 +166,7 @@ Ensure that you have followed step 1 above, and successfully logged in to [Adobe
 
 **Scope and objectives:**
 
-**Section 1: Configurations (26%)**
+Section 1: Configurations (26%)
 
 * Recognize the purpose of AEM dispatcher configurations and caching
 * Determine the correct steps to configure multi-site in AEM
@@ -174,19 +174,19 @@ Ensure that you have followed step 1 above, and successfully logged in to [Adobe
 * Determine the correct steps to manage custom OAK indices
 * Determine the correct steps to configure OOTB SAML or IMS integration
 
-**Section 2: AEM Development (40%)**
+Section 2: AEM Development (40%)
 
 * Determine the correct steps to implement core-based components
 * Connect component functionality including the HTL, models, and services
 * Given a scenario, determine the correct steps to develop workflows
 * Given a scenario, outline the purpose of content fragments or experience fragments
 
-**Section 3: Build and Deployment (12%)**
+Section 3: Build and Deployment (12%)
 
 * Define Maven project structure
 * Configure projects from archetypes
 
-**Section 4: Environment Maintenance(22%)**
+Section 4: Environment Maintenance(22%)
 
 * Given a scenario, determine the steps required to debug issues in AEM environments
 * Explain AEM maintenance releases
@@ -242,7 +242,115 @@ Here are some suggested resources to help you prepare:
 
 Ensure that you have followed step 1 above, and successfully logged in to [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} first. Then, to renew your certification, click on the button below.
 
-[!BADGE Take the Adobe [!DNL Experience Manager] Developer Professional Renewal Exam AD5-E837]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=AD5-E837 newtab=true"} 
+[!BADGE Take the Adobe [!DNL Experience Manager] Sites Developer Professional Renewal Exam AD5-E837]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=AD5-E837 newtab=true"} 
+
+>[!NOTE]
+>
+>This exam is free, open book, and un-proctored. You may take the exam up to three times. If you are unsuccessful after the third attempt, you must wait **30 days** to try again. Failure to comply might result in your certification being revoked.
+
++++
+
++++Adobe [!DNL Experience Manager] Assets Developer Professional
+
+## You should have the following **active** certification:
+
+* Adobe [!DNL Experience Manager] Assets Developer Professional
+
+## Instructions for renewing your certification:
+
+* **Step 1**: Successfully log in to [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}, then return to this page
+* **Step 2**: Review the exam objectives and resources
+* **Step 3**: Take and pass the exam
+
+## Get ready
+
+**Exam details:**
+
+* Level: Professional (0-12 months' experience)
+* Passing Score: 26/34
+* Time: 68 minutes
+* Delivery: On-demand / non-proctored
+* Available languages: English
+* Cost: FREE
+* Exam ID: AD5-E850 Adobe [!DNL Experience Manager] Assets Developer Professional
+
+**Scope and objectives:**
+
+Section 1: Asset Workflows 25.44%
+
+* Explain the process to customize OOBT workflows
+* Identify when to create or customize Asset workflows to implement customer requirements
+* Describe the purpose of workflow launchers and how to configure them
+* Differentiate between cloud and on-premise workflows
+* Describe how to use the Workflow console to monitor status and progress
+    
+Section 2: Asset Organization and the Asset Console 24.46%
+
+* Demonstrate how to create and organize Assets in Collections
+* Demonstrate how to organize Assets using Tags
+* Identify how to leverage OOTB Search Filters and facets
+* Describe how to Configure and Generate AEM Asset Reports
+* Describe how to manage User Permissions on Asset Folders
+    
+Section 3: Asset Metadata 22.61%
+
+* Define Metadata schemas
+* Given a scenario, determine how to adjust the appropriate Metadata schema
+* Given a scenario, determine how Metadata profiles can be leveraged to meet requirements
+* Understand how Cascading Metadata schemas work
+    
+Section 4: Asset Types 16.21%
+
+* Describe OOTB features available for Asset Types
+* Explain content fragments and content fragment models
+* Demonstrate how and when to use content fragment variations
+    
+Section 5: Asset Feature Sets and Capabilities
+
+* Describe the common use cases and benefits of using Brand Portal
+* Describe the common use cases and benefits of using Dynamic Media
+* Describe options to leverage AEM using Creative Cloud
+
+## Get prepped
+
+You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
+
+Here are some suggested resources to help you prepare:
+
+**Section 1**
+
+* [Locations - Workflow Models](https://experienceleague.adobe.com/docs/experience-manager-64/developing/extending-aem/extending-workflows/workflows-best-practices.html#locations){target="_blank"}
+* [Workflow Process Reference](https://experienceleague.adobe.com/docs/experience-manager-65/developing/extending-aem/extending-workflows/workflows-process-ref.html){target="_blank"}
+* [Administering Workflow Instances](https://experienceleague.adobe.com/docs/experience-manager-65/administering/operations/workflows-administering.html){target="_blank"}
+ 
+**Section 2**
+
+* [Saved searches](https://experienceleague.adobe.com/docs/experience-manager-64/assets/managing/managing-collections-touch-ui.html#saved-searches){target="_blank"}
+* [Enable smart tagging in the DAM Update Asset workflow (Optional)](https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/config-smart-tagging.html#enable-smart-tagging-in-the-update-asset-workflow-optional){target="_blank"}
+* [Add a predicate](https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/search-facets.html#adding-a-predicate){target="_blank"}
+* [Asset reports](https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/asset-reports.html){target="_blank"}
+ 
+**Section 3**
+
+* [Understand metadata concepts](https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/metadata-concepts.html){target="_blank"}
+* [Edit metadata schema forms](https://experienceleague.adobe.com/docs/experience-manager-64/assets/administer/metadata-schemas.html#editing-metadata-schema-forms){target="_blank"}
+* [Metadata profiles](https://experienceleague.adobe.com/docs/experience-manager-64/assets/administer/metadata-profiles.html#:~:text=Add%20a%20metadata%20profile.%20Tap%20or%20click%20the,and%20configure%20its%20properties%20in%20the%20Settings%20tab.){target="_blank"}
+* [Cascading metadata](https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/metadata-schemas.html#cascading-metadata){target="_blank"}
+
+**Section 4**
+
+* [Formats supported in Adobe Experience Manager Assets](https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/assets-formats.html){target="_blank"}
+
+**Section 5**
+
+* [Overview of Experience Manager Assets Brand Portal](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/brand-portal.html){target="_blank"}
+* [Using Smart Crop with AEM Assets Dynamic Media](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/dynamic-media/smart-crop-feature-video-use.html){target="_blank"}
+
+## Renew your certification
+
+Ensure that you have followed step 1 above, and successfully logged in to [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} first. Then, to renew your certification, click on the button below.
+
+[!BADGE Take the Adobe [!DNL Experience Manager] Assets Developer Professional Renewal Exam AD5-E850]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=AD5-E850 newtab=true"} 
 
 >[!NOTE]
 >

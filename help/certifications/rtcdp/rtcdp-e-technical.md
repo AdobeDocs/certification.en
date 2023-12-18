@@ -316,7 +316,6 @@ Section 3: Destinations (27%)
 * [Getting started with Real-Time CDP](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/intro/rtcdp-intro/get-started.html){target="_blank"} 
 * [Real-Time Customer Data Platform home page and dashboards](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/intro/rtcdp-intro/home-page-dashboards.html){target="_blank"}
 * [Monitor dataflows for destinations in the UI](https://experienceleague.adobe.com/docs/experience-platform/dataflows/ui/monitor-destinations.html){target="_blank"}
-* [Create and Activate Segments in Adobe [!DNL Experience Platform]](https://learning.adobe.com/catalog/adobe_experienceplatform/cours000000000097681.html){target="_blank"}
 * [Privacy overview](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/privacy/privacy-overview.html){target="_blank"}
 * [Data Governance in Real-time CDP](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/privacy/data-governance-overview.html){target="_blank"}
 * [Apply data governance framework](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/apply-data-governance-framework.html){target="_blank"}
@@ -343,7 +342,6 @@ Section 3: Destinations (27%)
 * [Create multi-entry segments](https://video.tv.adobe.com/v/32179/){target="_blank"}
 * [Create segments with B2B data](https://video.tv.adobe.com/v/338252/){target="_blank"} 
 * [Demo of streaming segmentation](https://video.tv.adobe.com/v/36184){target="_blank"}
-* [Create and Activate Segments in Adobe [!DNL Experience Platform]](https://learning.adobe.com/catalog/adobe_experienceplatform/cours000000000097681.html){target="_blank"}
 * [Evaluate a segment](https://experienceleague.adobe.com/docs/experience-platform/segmentation/tutorials/evaluate-a-segment.html){target="_blank"}
 
 **Section 3: Destinations**
