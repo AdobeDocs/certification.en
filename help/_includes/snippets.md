@@ -12,7 +12,7 @@
 
 This page provides information on how to attain this certification. It includes a description of the exam, study materials, step-by-step instructions on the certification process, and how to renew your certification.
 
->[!WARNING]
+>[!NOTE]
 >
 >Adobe is closed from December 22, 2023 – January 1, 2024. Please expect a delay in response to requests for support during this period. We appreciate your patience.
 
