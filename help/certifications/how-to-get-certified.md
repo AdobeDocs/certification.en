@@ -14,8 +14,13 @@ Learn how to get certified at Adobe. Find all the resources you need before, dur
 >Adobe is closed from December 22, 2023 – January 1, 2024. Please expect a delay in response to requests for support during this period. We appreciate your patience.
 
 >[!BEGINSHADEBOX]
->
->**50% off voucher sale!** <br><br> Get 50% off certification exam vouchers from the Adobe Digital Experience Credential Program, starting November 27 through December 31. This offer is only valid when you purchase via the [Adobe Certification Voucher Center](https://market.xvoucher.com/adobe). Use promo code **Holiday2023** at checkout. <br><br> <i>This offer is only available for the timeframe mentioned, and only applies to new orders and cannot be applied to previously placed purchases. Voucher codes are valid for one year from date of purchase.</i>
+
+**50% off voucher sale!**
+
+Get 50% off certification exam vouchers from the Adobe Digital Experience Credential Program, starting November 27 through December 31. This offer is only valid when you purchase via the [Adobe Certification Voucher Center](https://market.xvoucher.com/adobe). Use promo code **Holiday2023** at checkout.
+
+<i>This offer is only available for the timeframe mentioned, and only applies to new orders and cannot be applied to previously placed purchases. Voucher codes are valid for one year from date of purchase.</i>
+
 >[!ENDSHADEBOX]
 
 >[!BEGINTABS]
