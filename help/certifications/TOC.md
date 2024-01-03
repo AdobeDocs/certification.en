@@ -117,8 +117,7 @@ user-guide-description: Learn about [!DNL Experience Cloud] Certification at Ado
   + Adobe [!DNL Journey Optimizer] {#ajo}
     + [Journey Optimizer Overview](/help/certifications/ajo/ajo-overview.md)
     + Expert {#ajo-expert}
-      + [Developer](/help/certifications/ajo/ajo-e-developer.md)
-      + [Developer - NEW](/help/certifications/ajo/ajo-e-developer-23-10.md)
+      + [Developer](/help/certifications/ajo/ajo-e-developer-23-10.md)
     + [Renewal](/help/certifications/ajo/ajo-renew.md)
   + Adobe [!DNL Target] {#at}
     + [Target Overview](/help/certifications/at/at-overview.md)
