@@ -12,7 +12,7 @@ mini-toc-levels: 1
 
 >[!NOTE]
 >
->This is the newest Adobe [!DNL Workfront] Core Developer Professional exam (ADO-E908). If you have already started studying or have scheduled the [older version (ADO-E905)](aw-core-p-developer.md), you must complete it by February 26, 2024. 
+>This is the newest Adobe [!DNL Workfront] Core Developer Professional exam (ADO-E908). If you have already started studying or have scheduled the [older version (ADO-E905)](aw-core-p-developer.md), you must complete it by February 26, 2024. If you need to reschedule, you must take the new exam.
 
 ## Exam description {#exam-description}
 
