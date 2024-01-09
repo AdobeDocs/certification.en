@@ -10,11 +10,11 @@ exl-id: 3ab8bdd7-768e-42ab-802a-7107ea56cdfd
 
 The **Adobe [!DNL Workfront] Core Developer Professional** certification exam has been updated. 
 
-The current version is: [Adobe Marketo Engage (AD0-E905)](/help/certifications/aw/aw-core-p-developer.md)
+The current version is: [Adobe [!DNL Workfront] Core Developer Professional (AD0-E905)](/help/certifications/aw/aw-core-p-developer.md)
 
 If you have already scheduled or have started studying for the current exam, please make sure you schedule and complete the exam **before February 26, 2024**. 
 
-However, if you are just getting started on your certification, we recommend that you take the **NEW** version of the exam: [Adobe Marketo Engage (AD0-E908)](/help/certifications/aw/aw-core-p-developer-23-12.md)
+However, if you are just getting started on your certification, we recommend that you take the **NEW** version of the exam: [Adobe [!DNL Workfront] Core Developer Professional (AD0-E908)](/help/certifications/aw/aw-core-p-developer-23-12.md)
 
 ## All Available Exams for Adobe [!DNL Workfront]
 
