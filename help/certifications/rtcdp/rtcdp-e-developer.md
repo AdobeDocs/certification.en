@@ -17,7 +17,6 @@ mini-toc-levels: 1
 
 <br>
 
-<!--updated 1/11/24-->
 ### Intended audience {#intended-audience} 
 
 * Software developer
@@ -28,7 +27,6 @@ mini-toc-levels: 1
 
 <br>
 
-<!--updated 1/11/24-->
 ### Minimum experience {#minimum-experience}
 
 You should have:
@@ -64,7 +62,6 @@ You should be comfortable in these environments:
 
 <br>
 
-<!--updated 1/11/24-->
 ### Exam details {#exam-details}
 
 * Level: Expert (1-3 years' experience)
@@ -77,7 +74,6 @@ You should be comfortable in these environments:
 
 <br>
 
-<!--updated 1/11/24-->
 ### Exam objectives and scope {#exam-objectives}
 
 {{exam-objectives}}
@@ -139,7 +135,6 @@ You should be comfortable in these environments:
 
 <br>
 
-<!--updated 1/11/24-->
 +++Step 2: Prepare for your exam
 
 **Study Materials**
