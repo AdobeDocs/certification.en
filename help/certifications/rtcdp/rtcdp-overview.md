@@ -12,6 +12,6 @@ exl-id: 763724d3-1fac-421f-b166-b4aea210872f
 
 **Expert**
 
-* [Technical Practitioner](/help/certifications/rtcdp/rtcdp-e-technical.md) <!--AD0-E600 and E601-->
+* [Developer](/help/certifications/rtcdp/rtcdp-e-developer.md) <!--AD0-E605-->
 
 Visit the [Renew your certification](/help/certifications/renew.md) page to see if a renewal option is available for this product.
