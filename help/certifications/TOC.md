@@ -112,6 +112,7 @@ user-guide-description: Learn about [!DNL Experience Cloud] Certification at Ado
     + Professional {#rtcdp-professional}
       + [Business Practitioner](/help/certifications/rtcdp/rtcdp-p-business.md)
     + Expert {#rtcdp-expert}
+      + [Developer](/help/certifications/rtcdp/rtcdp-e-developer.md)
       + [Technical Practitioner](/help/certifications/rtcdp/rtcdp-e-technical.md)
     + [Renewal](/help/certifications/rtcdp/rtcdp-renew.md)
   + Adobe [!DNL Journey Optimizer] {#ajo}
