@@ -6,6 +6,7 @@ product: Adobe Real Time Customer Data Platform
 role: Developer,Data Architect
 badge: label="Exam AD0-E605" type="neutral"
 mini-toc-levels: 1
+exl-id: 8b462656-09d0-49c9-a45e-eb57e29400df
 ---
 # Certification journey for Adobe [!DNL Real-Time Customer Data Platform] Developer Expert
 

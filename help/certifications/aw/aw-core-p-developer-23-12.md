@@ -5,6 +5,7 @@ solution: Workfront
 role: Developer
 badge: label="Exam AD0-E908" type="neutral"
 mini-toc-levels: 1
+exl-id: 960f97cf-f5bf-4a60-a4e7-c08d0c121e60
 ---
 # Certification journey for Adobe [!DNL Workfront] Core Developer Professional
 
