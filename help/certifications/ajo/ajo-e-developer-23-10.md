@@ -141,7 +141,13 @@ Adobe Journey Optimizer is powered by Experience Platform. Candidates seeking to
 * [AJO Guide, Configuration, Audiences, profiles and identity, Data management](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html){target="_blank"}
 * [Experience Platform, Datasets, Source Connectors Guide, API Tutorials, Platform Identity Service Guide, Segmentation UI, UI Tutorials](https://experienceleague.adobe.com/docs/experience-platform.html){target="_blank"}
 
-+++ 
+<br>
+
+**Take a practice test**
+
+{{practice-test}}
+
++++
 
 <br>
 
