@@ -168,7 +168,7 @@ Adobe [!DNL Commerce] Developer Professional
 **Exam details:**
 
 * Level: Professional (0-12 months' experience)
-* Passing Score: 228/37
+* Passing Score: 28/37
 * Time: 74 mins
 * Delivery: On-demand / non-proctored
 * Available languages: English
