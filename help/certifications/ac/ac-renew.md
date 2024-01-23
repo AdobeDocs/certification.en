@@ -308,6 +308,8 @@ To renew your Adobe [!DNL Commerce] Developer Professional certification:
 >
 >This exam is free, open book, and un-proctored. You may take the exam up to three times. If you are unsuccessful after the third attempt, you must wait **30 days** to try again. Failure to comply might result in your certification being revoked.
 
++++
+
 +++Adobe [!DNL Commerce] Front-End Developer Professional
 
 ## You must have the following **active** certification to renew using this method:
