@@ -171,7 +171,7 @@ You should be comfortable in these environments:
 * [XDM System overview](https://experienceleague.adobe.com/docs/experience-platform/xdm/home.html){target="_blank"}
 * [Identity Service overview](https://experienceleague.adobe.com/docs/experience-platform/identity/home.html){target="_blank"}
 * [Personalization on the Edge](https://experienceleague.adobe.com/docs/blueprints-learn/assets/web_sdk_sequence.svg){target="_blank"}
-* [Edge profiles](https://experienceleague.adobe.com/docs/experience-platform/profile/edge-profiles.html%3Flang%3Dit){target="_blank"}
+* [Edge profiles](https://experienceleague.adobe.com/docs/experience-platform/profile/edge-profiles.html){target="_blank"}
 
 **Section 3**
 

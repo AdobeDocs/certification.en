@@ -114,7 +114,7 @@ You should have a basic understanding of data flows, business objectives and KPI
 * [[!DNL Audience Manager] tutorials](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/overview.html?lang=tr){target="_blank"}
 * [GDPR Readiness Guidance for [!DNL Audience Manager] Customers (Data Controllers)](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/data-privacy/data-privacy-reference/aam-gdpr-readiness.html){target="_blank"}
 * [Segment Details Page](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/segment-summary-view.html){target="_blank"}
-* [Customer tips - trait and segment best practices](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/customer-tips-traits-and-segments-best-practices.html%3Flang%3Dja){target="_blank"}
+* [Customer tips - trait and segment best practices](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/customer-tips-traits-and-segments-best-practices.html){target="_blank"}
 
 **Section 2: Trait creation**
 

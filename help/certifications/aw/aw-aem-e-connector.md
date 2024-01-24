@@ -140,7 +140,7 @@ And, you should have:
 **Section 4: Installation and Configuration of Connector** 
 
 * [Install [!DNL Workfront] for [!DNL Experience Manager] enhanced connector](https://experienceleague.adobe.com/docs/experience-manager-65/assets/integrations/workfront-connector-install.html){target="_blank"}
-* [[!DNL Workfront] enhanced connector basics](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/workfront/enhanced-connector/basics.html%3Flang%3Den){target="_blank"}
+* [[!DNL Workfront] enhanced connector basics](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/workfront/enhanced-connector/basics.html){target="_blank"}
 * [Configure [!DNL Workfront] for [!DNL Experience Manager] enhanced connector](https://experienceleague.adobe.com/docs/experience-manager-65/assets/integrations/workfront-connector-configure.html){target="_blank"}
 * [Adobe [!DNL Experience Manager Assets] integration with Adobe [!DNL Workfront]](https://experienceleague.adobe.com/docs/experience-manager-65/assets/integrations/workfront-integrations.html){target="_blank"}
 
