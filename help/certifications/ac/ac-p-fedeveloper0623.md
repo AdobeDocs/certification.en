@@ -175,6 +175,12 @@ Additionally, you should exhibit knowledge of the following technologies:
 * [Build variables](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/env/stage/variables-build.html?lang=en){target="_blank"}
 * [Commerce on Cloud Infrastructure](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/overview.html?lang=en){target="_blank"}
 
+<br>
+
+**Take a practice test**
+
+{{practice-test}}
+
 +++ 
 
 <br>
