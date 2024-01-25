@@ -192,6 +192,12 @@ You should also have experience with the following tasks:
 
 {{practice-test}}
 
+<br>
+
+**Take a practice test**
+
+{{practice-test}}
+
 +++ 
 
 <br>
