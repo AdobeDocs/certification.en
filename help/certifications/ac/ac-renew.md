@@ -30,7 +30,7 @@ It's important to note that if your certification expires, you'll have to retake
 
 >[!TAB Professional]
 
-+++ Adobe [!DNL Commerce] Business Practitioner Professional
++++Adobe [!DNL Commerce] Business Practitioner Professional
 
 ## You must have the following **active** certification to renew using this method:
 

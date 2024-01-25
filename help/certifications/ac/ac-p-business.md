@@ -178,6 +178,12 @@ Additionally, you should have a basic understanding of the eCommerce experience,
 
 [View sample questions](https://scorpion.caveon.com/launchpad/ad4-e712-adobe-commerce-business-practitioner-professional-practice-exam){target="_blank"}
 
+<br>
+
+**Take a practice test**
+
+{{practice-test}}
+
 +++ 
 
 <br>
