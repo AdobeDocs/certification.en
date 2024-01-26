@@ -166,6 +166,12 @@ Additionally, you should be very familiar with the following activities and tech
 * [Overview of initialization and bootstrap](https://devdocs.magento.com/guides/v2.4/config-guide/bootstrap/magento-bootstrap.html){target="_blank"}
 * [Fastly services overview](https://devdocs.magento.com/cloud/cdn/cloud-fastly.html){target="_blank"}
 
+<br>
+
+**Take a practice test**
+
+{{practice-test}}
+
 +++ 
 
 <br>
