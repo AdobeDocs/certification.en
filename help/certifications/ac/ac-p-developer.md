@@ -251,14 +251,6 @@ Additionally, you should be familiar with the following technologies and environ
 
 <br>
 
-**Sample questions**
-
-{{sample-questions}}
-
-[View sample questions](https://scorpion.caveon.com/launchpad/ad4-e717-adobe-commerce-developer-with-cloud-add-on-professional-practice-exam){target="_blank"}
-
-<br>
-
 **Take a practice test**
 
 {{practice-test}}

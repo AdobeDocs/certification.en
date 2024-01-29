@@ -234,6 +234,12 @@ You should be comfortable in these environments:
 * [Identity Service](https://experienceleague.adobe.com/docs/experience-platform/access-control/abac/overview.html#identity-service){target="_blank"}
 * [Use case overview](https://experienceleague.adobe.com/docs/experience-platform/access-control/abac/end-to-end-guide.html#use-case-overview){target="_blank"}
 
+<br>
+
+**Take a practice test**
+
+{{practice-test}}
+
 +++ 
 
 <br>

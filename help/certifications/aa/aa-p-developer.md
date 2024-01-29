@@ -180,14 +180,6 @@ You should also have experience with the following tasks:
 
 <br>
 
-**Sample questions**
-
-{{sample-questions}}
-
-[View sample questions](https://scorpion.caveon.com/launchpad/ad3-e213-adobe-analytics-developer-professional-sample-questions){target="_blank"}
-
-<br>
-
 **Take a practice test**
 
 {{practice-test}}
