@@ -22,7 +22,7 @@ exl-id: 88f9cbfb-c9bc-4d27-a9de-1199c5cd013e
 
 * Level: Expert (1-3 years' experience)
 * Passing Score: 32/50
-* Time: 110 mins
+* Time: 100 mins
 * Delivery: Online proctored (requires camera access)
 * Available languages: English, Japanese
 * Cost: $225 (global) / $150 (India)
