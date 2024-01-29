@@ -174,14 +174,6 @@ Additionally, you should be familiar with the following tools and technologies:
 
 <br>
 
-**Sample questions**
-
-{{sample-questions}}
-
-[View sample questions](https://scorpion.caveon.com/launchpad/ad4-e555-adobe-marketo-engage-professional-practice-exam){target="_blank"} 
-
-<br>
-
 **Take a practice test**
 
 {{practice-test}}
