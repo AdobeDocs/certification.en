@@ -78,8 +78,8 @@ For candidates who fail the Adobe certification exam on their first attempt, the
 +++How can I get a copy of my score report? 
 
 * Step 1: Log in to the [Adobe Credential Management System](https://www.certmetrics.com/adobe/){target="_blank"}, CertMetrics. Sign in using your ID or email address and password. 
-* Step 2: Click Transcripts. 
-* Step 3: Scroll through your transcript history and select the report you'd like to view. You can have the report emailed to you or view it onscreen.
+* Step 2: Click History. 
+* Step 3: Scroll through your history and select the report you'd like to view. You can have the report emailed to you or view it onscreen.
 
 +++
 
