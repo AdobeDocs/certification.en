@@ -159,13 +159,11 @@ Additionally, you should be familiar with the following tools and technologies:
 **Section 1: Administration and maintenance**
 
 * [Understanding the [!DNL Salesforce] Sync](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html){target="_blank"}
-* [[!DNL Marketo]: Administration for Business Practitioners](https://cpcontents.adobe.com/public/newlearner/newlearner_1fc76c7b.html#/course/1338335/overview?cert_id=undefined&lp_id=undefined){target="_blank"}
 * [Exporting a List of all [!DNL Marketo] API Field Names](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/field-management/export-a-list-of-all-marketo-api-field-names.html){target="_blank"}
 * [Custom Field Type Glossary](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/field-management/custom-field-type-glossary.html){target="_blank"}
 * [Select Your Language, Locale and Time Zone](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/settings/select-your-language-locale-and-time-zone.html){target="_blank"}
 * [Understanding Workspaces and Person Partitions](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.html){target="_blank"}
 * [Audit Trail Overview](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/audit-trail/audit-trail-overview.html){target="_blank"}
-
 
 **Section 2: Marketing activities/campaign management**
 
@@ -182,7 +180,6 @@ Additionally, you should be familiar with the following tools and technologies:
 * [Understanding Event Programs](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/events/understanding-events/understanding-event-programs.html){target="_blank"}
 * [Create a Webhook](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/additional-integrations/create-a-webhook.html){target="_blank"}
 
-
 **Section 3: Lead management**
 
 * [Set a Hidden Form Field Value](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/forms/form-fields/set-a-hidden-form-field-value.html){target="_blank"}
@@ -193,7 +190,6 @@ Additionally, you should be familiar with the following tools and technologies:
 * [Trigger Tokens for Interesting Moments](https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.html){target="_blank"}
 * [Understanding Revenue Models](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models.html){target="_blank"}
 
-
 **Section 4: Data management**
 
 * [Change Data Value](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.html){target="_blank"}
@@ -201,7 +197,6 @@ Additionally, you should be familiar with the following tools and technologies:
 * [Marketo Activities Data Retention Policies](https://nation.marketo.com/t5/knowledgebase/marketo-activities-data-retention-policy/ta-p/251480){target="_blank"}
 * [Create a Segmentation](https://experienceleague.adobe.com/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.html){target="_blank"}
 * [Using Segment filters in a Smart List](https://experienceleague.adobe.com/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/use-segment-filters-in-a-smart-list.html){target="_blank"}
-
 
 **Section 5: Reporting**
 
