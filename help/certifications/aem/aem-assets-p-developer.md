@@ -166,11 +166,11 @@ Additionally, you should have experience with the following technologies and env
 
 <br>
 
-**Sample questions**
+**Take a practice test**
 
-{{sample-questions}}
+{{practice-test}}
 
-[View sample questions](https://scorpion.caveon.com/launchpad/ad4-e129-adobe-experience-manager-assets-developer-professional-practice-exam){target="_blank"}
++++ 
 
 +++ 
 
