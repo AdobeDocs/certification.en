@@ -17,6 +17,8 @@ Adobe [!DNL Experience Cloud] is a suite of digital marketing solutions that ena
 
 Demonstrate your proficiency and take your career to the next level by becoming Adobe certified.
 
+[**View list of certifications by program**](#view-all-certifications)
+
 ## Why get certified?
 
 Getting an Adobe [!DNL Experience Cloud] certification has many benefits:
@@ -36,8 +38,7 @@ Unlock your professional potential today by learning about the Adobe Digital Exp
 
 <a href="https://experienceleague.adobe.com/docs/certification/certification/getting-started.html" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6"><span class="spectrum-Button-label has-no-wrap">Get Started</span></a>
 
-
-## View all certifications
+## View all certifications {#view-all-certifications}
 
 All of the details about each available product certification are listed in the table of contents to the left and in the below list:
 
