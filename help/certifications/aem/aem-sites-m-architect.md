@@ -286,23 +286,3 @@ Additionally, you should have the ability to perform the following tasks:
 View the certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Additional questions? [Contact us](mailto:certif@adobe.com){target="_blank"}.
-
-## FAQ for Adobe Experience Manager Sites Architect Master Exam (AD0-E117) {#AEM-FAQ}
-
-The certification exam AD0-E117 is undergoing maintenance and is temporarily unavailable. We sincerely apologize for the inconvenience. [Sign up to be notified](https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4R3Iwdbolq9LpEOJ07Ii-i9URDdWMjUzODdITVoxQTNPVTZOSUNKUDhFQS4u) when it is available again.
-
-**What happens if I already scheduled my exam?**
-
-All scheduled AD0-E117 exams have been canceled. Candidates who are affected will need to schedule the exam again when the new version is available. 
- 
-**I already paid for the exam. Will I receive a refund?**
-
-* If you paid for your exam with a credit card via Examity, you will be fully refunded.   
-* If you paid with a voucher, your code will reset and you will be able to apply it to your new exam appointment.   
-* If your voucher expires before you can use it, we will issue you a new voucher once you are ready to schedule.  
- 
-**I need to renew my certification prior to October; will this impact my renewal?**
-
-No. You will be able to renew via continuous learning. Make sure to follow the instructions and process provided under [Renew your certification](https://experienceleague.adobe.com/docs/certification/program/renew.html){target="_blank"}.
-
-
