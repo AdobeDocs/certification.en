@@ -134,16 +134,9 @@ Here are some suggested resources to help you prepare:
 
 To renew your Adobe [!DNL Commerce] Business Practitioner Professional certification:
 
-1. Log in to the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}
+Ensure that you have followed step 1 above, and successfully logged in to [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} first. Then, to renew your certification, click on the Adobe [!DNL Commerce] Business Practitioner Professional Renewal Exam (AD5-E840) link below.
 
-2. Click on the button below to go to the Examity portal and take your exam (AD5-E840)
-
-<a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=AD5-E840" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-                    
- <span class="spectrum-Button-label has-no-wrap">
-   Go to Examity portal
-</span>
-</a>
+[!BADGE Take the Adobe [!DNL Commerce] Business Practitioner Professional Renewal Exam (AD5-E840)]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=AD5-E840 newtab=true"} 
 
 >[!NOTE]
 >
@@ -293,16 +286,9 @@ Here are some suggested resources to help you prepare:
 
 To renew your Adobe [!DNL Commerce] Developer Professional certification:
 
-1. Log in to the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}
+Ensure that you have followed step 1 above, and successfully logged in to [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} first. Then, to renew your certification, click on the Adobe [!DNL Commerce] Developer Professional Renewal Exam (AD5-E839) link below.
 
-2. Click on the button below to go to the Examity portal and take your exam (AD5-E839)
-
-<a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=AD5-E839" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-                    
- <span class="spectrum-Button-label has-no-wrap">
-   Go to Examity portal
-</span>
-</a>
+[!BADGE Take the Adobe [!DNL Commerce] Developer Professional Renewal Exam (AD5-E839)]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=AD5-E839 newtab=true"}
 
 >[!NOTE]
 >
@@ -427,16 +413,9 @@ Here are some suggested resources to help you prepare:
 
 To renew your Adobe [!DNL Commerce] Front-End Developer Professional certification:
 
-1. Log in to the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}
+Ensure that you have followed step 1 above, and successfully logged in to [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} first. Then, to renew your certification, click on the Adobe [!DNL Commerce] Front-End Developer Professional Renewal Exam (AD5-E844) link below.
 
-2. Click on the button below to go to the Examity portal and take your exam (AD5-E844)
-
-<a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=AD5-E844" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-                    
- <span class="spectrum-Button-label has-no-wrap">
-   Go to Examity portal
-</span>
-</a>
+[!BADGE Take the Adobe [!DNL Commerce] Front-End Developer Professional Renewal Exam (AD5-E844)]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=AD5-E844 newtab=true"}
 
 >[!NOTE]
 >
