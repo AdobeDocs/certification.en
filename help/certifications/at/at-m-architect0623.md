@@ -194,6 +194,12 @@ Evaluate and design an [!DNL Adobe Target] implementation
 * [Recommendations FAQ](https://experienceleague.adobe.com/docs/target/using/recommendations/recommendations-faq/recommendations-faq.html){target="_blank"}
 * [Adobe Analytics for Target (A4T) logging in the Platform Web SDK](https://experienceleague.adobe.com/docs/experience-platform/edge/personalization/adobe-target/a4t/overview.html){target="_blank"}
 
+<br>
+
+**Take a practice test**
+
+{{practice-test}}
+
 +++ 
 
 <br>
