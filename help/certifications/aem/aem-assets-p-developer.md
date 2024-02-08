@@ -170,9 +170,7 @@ Additionally, you should have experience with the following technologies and env
 
 {{practice-test}}
 
-+++ 
-
-+++ 
++++
 
 <br>
 
