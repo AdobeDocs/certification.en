@@ -171,6 +171,164 @@ Ensure that you have followed step 1 above, and successfully logged in to [Adobe
 
 +++
 
++++Adobe [!DNL Campaign Classic] Developer Professional Renewal
+
+## You must have the following **active** certifications to renew:
+
+Adobe [!DNL Campaign Classic] Developer Professional
+
+## How to renew your certification:
+
+* **Step 1**: Successfully log in to [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}, then return to this page
+* **Step 2**: Review the exam objectives and resources
+* **Step 3**: Take and pass the exam
+
+## Get ready
+
+**Exam details**
+  
+* Passing Score: 31/41
+* Time: 82 minutes
+* Cost: FREE/non-proctored
+* Delivery: On-demand
+* Available languages: English
+* Exam ID: AD5-E851 - Adobe [!DNL Campaign Classic] Developer Professional
+
+**Scope and objectives**
+
+Section 1: System Configuration 26%
+
+* Demonstrate system-wide configuration of settings in the Administration node
+* Apply the process to extend the OOTB Recipient schema
+* Define schema details (primary keys, auto primary keys, database indexes)
+* Distinguish the applicable uses of Form Renderings
+* Distinguish system-wide configuration settings that affect the workspace/project level
+* Identify configuration settings for SFTP external accounts
+* Identify the configuration settings for Open and Closed enumerations
+* Differentiate Typology Rule Types
+* Identify requirements to utilize a custom Target Map and its effects to OOTB functionality
+* Describe how externally-generated audiences from other Adobe Experience Cloud solutions are accessed in Adobe Campaign
+* Describe the business use case for interactions and offers
+* Describe the business use case for Message Center
+* Identify V8 API data import functionality
+
+Section 2: Customization 16%
+
+* Apply the process to edit Campaign schemas
+* Identify the settings to ensure correct schema extension or configure custom schemas
+* Describe the use case for customized Options 
+* Describe the use case for Seedlists 
+* Modify the OOTB opt-out / Unsubscribe web app 
+* Apply the process to create Content Management components
+* Identify the use cases to use Content Management
+* Apply to process to update the OOTB forms 
+
+Section 3: Operational Security 10%
+
+* Describe the process for adding user groups and roles
+* Apply the process to translate the user management matrix with correct user rights and hierarchy
+* Identify and define the correct permissions
+* Identify the security zone for a user group 
+
+Section 4: Technical Workflows 30%
+
+* Apply the process to import/export 
+* Identify the different sources of data that a workflow can access
+* Apply the process to transform data and manipulate the work table 
+* Enumerate applicable workflow activities and their features/properties 
+* Apply the process to configure workflow properties 
+* Extend activity functionality using the Expression Editor 
+* Distinguish the difference between the OOTB workflows and user-created workflows 
+* Explain the purpose of the OOTB workflows 
+* Troubleshoot custom workflows 
+* Differentiate between variable types and their scope and usage 
+* Identify the OOTB variables and their use 
+* Apply the process to configure alerts and approvals 
+* Identify type of campaign databases
+
+Section 5: Instance Maintenance 4%
+
+* Identify errors from different service logs
+* Explain Workflow Heatmap readings
+
+Section 6: Campaign Configuration 14%
+
+* Apply the process to create campaigns using Campaign templates 
+* Describe the process to create approvals 
+* Identify errors by analyzing audit logs 
+* Identify the usage of different deliveries, given a campaign scenario
+* Define the process to create the advanced process in workflows
+* Describe workflow execution methods
+
+## Get prepped
+
+You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
+
+Here are some suggested resources to help you prepare:
+
+**Section 1**
+
+* [Campaign Settings FAQ](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/starting-with-adobe-campaign/faq/faq-campaign-config.html){target="_blank"}
+* [Use a custom recipient table](https://docs.adobe.com/content/help/en/campaign-classic/using/configuring-campaign-classic/use-a-custom-recipient-table/about-custom-recipient-table.html){target="_blank"}
+* [Importing and exporting audiences](https://docs.adobe.com/content/help/en/campaign-classic/using/integrating-with-adobe-experience-cloud/audience-sharing/importing-and-exporting-audiences.html){target="_blank"}
+* [Implement SOAP methods](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/api/implementing-soap-methods.html){target="_blank"}
+* [Work with data packages](https://docs.adobe.com/content/help/en/campaign-classic/using/getting-started/administration-basics/working-with-data-packages.html){target="_blank"}
+* [Database mapping](https://experienceleague.adobe.com/docs/campaign/campaign-v8/architecture/shemas-forms/database-mapping.html){target="_blank"}
+* [Connect Campaign with your solutions](https://experienceleague.adobe.com/docs/campaign/campaign-v8/connect/integration.html){target="_blank"}
+* [Campaign-specific External Accounts](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/accessing-external-database/external-accounts.html#sftp-external-account){target="_blank"}
+* [Apply a typology to a delivery](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/campaign-optimization/applying-rules.html#applying-a-typology-to-a-delivery){target="_blank"}
+
+**Section 2**
+
+* [Schema structure](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/schema-reference/schema-structure.html){target="_blank"}
+* [Seed addresses](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/use-a-custom-recipient-table/seed-addresses.html){target="_blank"}
+* [Publication templates](https://docs.adobe.com/content/help/en/campaign-classic/using/sending-messages/content-management/publication-templates.html){target="_blank"}
+* [Use data schemas in Campaign](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/content-management/data-schemas.html){target="_blank"}
+* [Edit forms](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/input-forms/editing-forms.html){target="_blank"}
+
+**Section 3**
+
+* [Create and manage operators](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management-operators.html){target="_blank"}
+* [Use named rights to set up permissions](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management-named-rights.html){target="_blank"}
+
+**Section 4**
+
+* [Adobe Campaign Classic v7 & Campaign v8](https://experienceleaguecommunities.adobe.com/t5/Adobe-Campaign-Classic/Generate-a-file-and-download-it-in-local-PC-in-a-Campaign/td-p/307934){target="_blank"}
+* [Unzip or decrypt a file](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/importing-and-exporting-data/managing-data-encryption-compression/unzip-decrypt.html){target="_blank"}
+* [Advanced capabilities](https://experienceleague.adobe.com/docs/campaign-classic/using/reporting/creating-new-reports/advanced-functionalities.html){target="_blank"}
+* [Delivery](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/action-activities/delivery.html){target="_blank"}
+* [Alert](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/flow-control-activities/alert.html){target="_blank"}
+* [Database mapping](https://experienceleague.adobe.com/docs/campaign/campaign-v8/architecture/shemas-forms/database-mapping.html){target="_blank"}
+* [Use aggregates](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/use-cases/data-management/using-aggregates.html){target="_blank"}
+* [File transfer](https://docs.adobe.com/content/help/en/campaign-classic/using/automating-with-workflows/event-activities/file-transfer.html){target="_blank"}
+* [Error management](https://docs.adobe.com/content/help/en/campaign-classic/using/automating-with-workflows/advanced-management/workflow-properties.html#error-management){target="_blank"}
+* [Dates](https://docs.adobe.com/content/help/en/campaign-standard/using/managing-processes-and-data/filtering-data/list-of-functions.html#string){target="_blank"}
+
+**Section 5**
+
+* [Workflow Heatmap](https://docs.adobe.com/content/help/en/campaign-learn/campaign-classic-tutorials/monitoring/workflow-heatmap.html){target="_blank"}
+
+**Section 6**
+
+* [Use control groups](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/sending-messages/email/use-control-groups.html){target="_blank"}
+* [Define approvals](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/executing-a-workflow/defining-approvals.html){target="_blank"}
+* [Monitor workflow execution](https://docs.adobe.com/content/help/en/campaign-classic/using/automating-with-workflows/monitoring-workflows/monitoring-workflow-execution.html){target="_blank"}
+* [Recurring delivery](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/action-activities/recurring-delivery.html){target="_blank"}
+* [Adobe Campaign Standard](https://experienceleaguecommunities.adobe.com/t5/Adobe-Campaign-Standard/Issue-with-Mobile-App-Integration-in-Adobe-Campaign/qaq-p/330913/comment-id/8286){target="_blank"}
+* [Start a workflow](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/executing-a-workflow/starting-a-workflow.html){target="_blank"}
+
+## Renew your certification
+
+Ensure that you have followed step 1 above, and successfully logged in to [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} first. Then, to renew your certification, click the **Adobe [!DNL Campaign Classic] Developer Professional Renewal Exam - AD5-E851** link below.
+
+[Take the Adobe [!DNL Campaign Classic] Developer Professional Renewal Exam - AD5-E851](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=AD5-E851){target="_blank"}
+
+>[!NOTE]
+>
+>This exam is free, open book, and un-proctored. You may take the exam up to three times. If you are unsuccessful after the third attempt, you must wait **30 days** to try again. Failure to comply might result in your certification being revoked.
+
++++
+
 >[!TAB Expert and Master]
 
 ## You should be currently certified (not expired) in:
