@@ -12,10 +12,6 @@ exl-id: 8b462656-09d0-49c9-a45e-eb57e29400df
 
 {{intro}}
 
->[!TIP]
->
->To get **50% off** this exam, purchase and schedule your exam through **Examity** before **February 15, 2024**. The discount will be applied automatically. For purchasing and scheduling instructions, see Step 3 below. <br><br><i>Please note that this offer is not applicable to purchases made through any other site.</i>
-
 ## Exam description {#exam-description}
 
 {{exam-description}}
@@ -245,10 +241,6 @@ You should be comfortable in these environments:
 <br>
 
 +++Step 3: Schedule & pay for exam
-
->[!TIP]
->
->To get **50% off** this exam, purchase and schedule your exam through **Examity** before **February 15, 2024**. The discount will be applied automatically. <br><br><i>Please note that this offer is not applicable to purchases made through any other site.</i>
 
 {{schedule-and-pay}}
 
