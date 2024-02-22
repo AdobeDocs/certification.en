@@ -204,6 +204,10 @@ The Adobe [!DNL Workfront] Core Developer Certified Professional has:
  
 <br>
 
+**Take a practice test**
+
+{{practice-test}}
+
 +++ 
 
 <br>
@@ -228,7 +232,7 @@ The Adobe [!DNL Workfront] Core Developer Certified Professional has:
 
 {{about-certification-exam}}
 
-## Schedule or take exam AD0-E905
+## Schedule or take exam AD0-E908
 
 >[!NOTE]
 >
