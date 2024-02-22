@@ -28,6 +28,7 @@ Examity:
 
 * [How to register for an online proctored exam](https://express.adobe.com/page/Opvo0RlRrlVvr/){target="_blank"}
 * [How to launch exam and connect to the proctor](https://express.adobe.com/page/6tQ2pnEDumKY7/){target="_blank"}
+* [Examity test taker system requirements](https://www.examity.com/test-taker-systems-requirements/){target="_blank"}
 
 >[!TAB Taking your exam]
 
@@ -37,9 +38,11 @@ Your [profile](https://www.certmetrics.com/adobe/candidate/demographics.aspx){ta
 
 **Cancelling and rescheduling**
 
-Cancellations and rescheduling are possible if initiated prior to 48 hours before the scheduled exam appointment. Candidates must modify this appointment themselves.  
+Cancellations and rescheduling are usually possible if initiated prior to 48 hours before the scheduled exam appointment. Candidates must modify this appointment themselves.  
 
-Neither Adobe Support or Examity can process rescheduling and cancellation requests. Cancellations under 48 hours are subject to a rescheduling fee in addition to the exam fee. 
+Neither Adobe Support or Examity can process rescheduling and cancellation requests. Cancellations under 48 hours are subject to a rescheduling fee in addition to the exam fee.
+
+If you are unable to reschedule your exam, even though it is more than 48 hours prior to your exam, that may be because there is a new version of the exam. If your appointment was for the previous version of the exam, you will not be able to reschedule your exam appointment. We recommend that you keep your exam appointment if at all possible. If you cannot, you will need to cancel your exam and schedule a new appointment to take the new exam.
 
 **After your exam**
 

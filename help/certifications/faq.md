@@ -59,6 +59,16 @@ For questions about exam registration, exam payments, test delivery, testing cen
 
 +++
 
++++Can I cancel or reschedule my exam appointment?
+
+Cancellations and rescheduling are usually possible if initiated prior to 48 hours before the scheduled exam appointment. Candidates must modify this appointment themselves.  
+
+Neither Adobe Support or Examity can process rescheduling and cancellation requests. Cancellations under 48 hours are subject to a rescheduling fee in addition to the exam fee.
+
+If you are unable to reschedule your exam, even though it is more than 48 hours prior to your exam, that may be because there is a new version of the exam. If your appointment was for the previous version of the exam, you will not be able to reschedule your exam appointment. We recommend that you keep your exam appointment if at all possible. If you cannot, you will need to cancel your exam and schedule a new appointment to take the new exam.
+
++++
+
 +++Can Adobe accommodate candidates with special requirements? 
 
 Adobe can accommodate certain special requirements. If you need additional time to complete your exam or another accommodation, please contact `certif@adobe.com` with your request. 
