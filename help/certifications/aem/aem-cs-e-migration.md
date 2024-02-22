@@ -162,6 +162,12 @@ Additionally, you should be familiar with the following technologies and environ
 * [Use the CI/CD Pipeline in Adobe Cloud Manager](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/cloud-manager/use-the-cicd-pipeline-in-cloud-manager-for-aem.html){target="_blank"}
 * [Deploying to AEM as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/deploying/overview.html){target="_blank"}
 
+<br>
+
+**Take a practice test**
+
+{{practice-test}}
+
 +++ 
 
 <br>

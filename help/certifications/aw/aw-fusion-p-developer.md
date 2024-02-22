@@ -161,11 +161,9 @@ You should have:
 
 <br>
 
-**Sample questions**
+**Take a practice test**
 
-{{sample-questions}}
-
-[View sample questions](https://scorpion.caveon.com/launchpad/ad0-e902-adobe-workfront-fusion-developer-professional-copy-exs5g8){target="_blank"}
+{{practice-test}}
 
 +++ 
 

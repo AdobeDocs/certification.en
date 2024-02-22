@@ -172,11 +172,9 @@ You should have:
 
 <br>
 
-**Sample questions**
+**Take a practice test**
 
-{{sample-questions}}
-
-[View sample questions](https://scorpion.caveon.com/launchpad/ad4-e903-adobe-workfront-project-manager-professional-practice-exam){target="_blank"}
+{{practice-test}}
 
 +++ 
 

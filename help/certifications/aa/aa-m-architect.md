@@ -142,11 +142,9 @@ Additionally, you're responsible for translating business requirements into trac
 
 <br>
 
-**Sample questions**
+**Take a practice test**
 
-{{sample-questions}}
-
-[View sample questions](https://scorpion.caveon.com/launchpad/ad0-e207-adobe-analytics-architect-master-copy-y9f8t1){target="_blank"}
+{{practice-test}}
 
 +++ 
 
