@@ -10,9 +10,6 @@ user-guide-description: Learn about [!DNL Experience Cloud] Certification at Ado
 + [Get started](getting-started.md)
 + [How to get certified](how-to-get-certified.md)
 + [Renew your certification](renew.md)
-+ [Restart program](restart-program.md)
-+ [My profile](my-profile.md)
-+ [FAQ](faq.md)
 + Technical certifications by solution {#technical-certifications}
   + Adobe [!DNL Advertising] {#aac}
     + [Advertising Overview](/help/certifications/aac/aac-overview.md)
@@ -139,8 +136,11 @@ user-guide-description: Learn about [!DNL Experience Cloud] Certification at Ado
       + [Developer (Core)](/help/certifications/aw/aw-core-e-developer-23-08.md)
       + [AEM enhanced connector](/help/certifications/aw/aw-aem-e-connector.md)
     + [Renewal](/help/certifications/aw/aw-renew.md)
-+ [Credentials for end users](https://learning.adobe.com/certification/credentials)
+  + [Qualified Exams provided by ADLS](https://learning.adobe.com/certification/credentials)
++ [FAQ](faq.md)
 + Hidden {#hidden}
   + [Certification Restart Eligibility Exam Checker](exam-eligibility-check.md)
   + [Experience Platform Overview](/help/certifications/aep/aep-overview.md)
   + [Developer)](/help/certifications/aep/aep-e-foundations.md)
+  + [Restart program](restart-program.md)
+  + [My profile](my-profile.md)
