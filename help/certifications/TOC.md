@@ -139,7 +139,7 @@ user-guide-description: Learn about [!DNL Experience Cloud] Certification at Ado
       + [Developer (Core)](/help/certifications/aw/aw-core-e-developer-23-08.md)
       + [AEM enhanced connector](/help/certifications/aw/aw-aem-e-connector.md)
     + [Renewal](/help/certifications/aw/aw-renew.md)
-  + [Qualified Exams provided by ADLS](https://learning.adobe.com/certification/credentials)
+  + [Qualified exams provided by ADLS](https://learning.adobe.com/certification/credentials)
 + Hidden {#hidden}
   + [Certification Restart Eligibility Exam Checker](exam-eligibility-check.md)
   + [Experience Platform Overview](/help/certifications/aep/aep-overview.md)
