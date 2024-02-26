@@ -11,10 +11,6 @@ exl-id: 960f97cf-f5bf-4a60-a4e7-c08d0c121e60
 
 {{intro}}
 
->[!NOTE]
->
->This is the newest Adobe [!DNL Workfront] Core Developer Professional exam (ADO-E908). If you have already started studying or have scheduled the [older version (ADO-E905)](aw-core-p-developer.md), you must complete it by February 26, 2024. If you need to reschedule, you must take the new exam.
-
 ## Exam description {#exam-description}
 
 {{exam-description}}
@@ -233,10 +229,6 @@ The Adobe [!DNL Workfront] Core Developer Certified Professional has:
 {{about-certification-exam}}
 
 ## Schedule or take exam AD0-E908
-
->[!NOTE]
->
->This is the newest Adobe [!DNL Workfront] Core Developer Professional exam (ADO-E908). If you have already started studying or have scheduled the [older version (ADO-E905)](aw-core-p-developer.md), you must complete it by February 26, 2024. 
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E908" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
                     
