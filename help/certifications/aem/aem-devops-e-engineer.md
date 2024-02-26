@@ -24,9 +24,9 @@ exl-id: 9cfb51b0-9ab8-46fb-a111-434c13e4affa
 * Passing Score: 30/50
 * Time: 100 mins
 * Delivery: Online proctored (requires camera access)
-* Available languages: English
+* Available languages: English, Japanese
 * Cost: $225 (global) / $150 (India)
-* Exam ID: AD0-E124
+* Exam ID: AD0-E124 (English), AD0-E124-J (Japanese)
 
 <br>
 
@@ -191,12 +191,23 @@ Additionally, you should be familiar with the following technologies and environ
 
 {{about-certification-exam}}
 
-## Schedule or take exam AD0-E124
+## Schedule or take exam AD0-E124 (English)
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E124" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
                     
  <span class="spectrum-Button-label has-no-wrap">
-   Go to Examity portal
+   Go to Examity portal - English exam
+</span>
+</a>
+
+## Schedule or take exam AD0-E124-J (Japanese)
+
+{{Japanese-exam-details}}
+
+<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E124-J" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+                    
+ <span class="spectrum-Button-label has-no-wrap">
+   Go to Examity portal - Japanese exam
 </span>
 </a>
 
