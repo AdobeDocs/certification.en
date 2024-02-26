@@ -24,7 +24,7 @@ exl-id: ba66d1cc-3545-49ed-8578-1f6aa07f64e7
 * Passing Score: 30/50
 * Time: 100 mins
 * Delivery: Online proctored (requires camera access)
-* Available languages: English & Japanese
+* Available languages: English
 * Cost: $225 (global) / $150 (India)
 * Exam ID: AD0-E307
 
