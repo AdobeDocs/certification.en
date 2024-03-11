@@ -116,7 +116,7 @@ Pay by voucher: To purchase an exam voucher go to: Adobe Certification Voucher C
 
 **Purchasing a voucher**
 
-You can pay for an exam with a voucher. To purchase an exam voucher go to the [Adobe Certification Voucher Center](https://experienceleague.adobe.com/docs/analytics/analyze/home.html){target="_blank"}.
+You can pay for an exam with a voucher. To purchase an exam voucher go to the [Adobe Certification Voucher Center](https://market.xvoucher.com/adobe/global){target="_blank"}.
 
 You can apply the voucher code when you schedule your exam. See below for voucher discount information.
 
