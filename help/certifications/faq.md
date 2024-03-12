@@ -1,6 +1,6 @@
 ---
 title: FAQ
-description: Get answers to questions about the Adobe Digital Experience Credential Program. Learn about the benefits of certification, how to register, and whom you can contact.
+description: Get answers to questions about the Adobe Digital Experience Certification Program. Learn about the benefits of certification, how to register, and whom you can contact.
 role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
@@ -8,7 +8,7 @@ exl-id: 0406eaf4-862c-4256-94c7-e9b02e628caa
 ---
 # Adobe certification FAQ
 
-To learn more about the Adobe Digital Experience Credential Program, refer to the frequently asked questions (FAQ) below.
+To learn more about the Adobe Digital Experience Certification Program, refer to the frequently asked questions (FAQ) below.
 
 ![Banner](/help/certifications/assets/home_banner_narrow.png)
 
