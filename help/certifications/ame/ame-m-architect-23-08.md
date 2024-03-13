@@ -169,14 +169,11 @@ Additionally, you should be familiar with the following tools and technologies:
 * [Suppressing Soft Bounces](https://nation.marketo.com/t5/product-discussions/suppressing-soft-bounces-any-email-min-3x-encouraged/m-p/209411#M153533){target="_blank"}
 * [Understanding Workspaces and Person Partitions](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.html){target="_blank"}
 
-
 <br>
 
-**Sample questions**
+**Take a practice test**
 
-{{sample-questions}}
-
-[View sample questions](https://scorpion.caveon.com/launchpad/ad0-e556-adobe-marketo-engage-architect-master-exam-copy-pewwl4){target="_blank"}
+{{practice-test}}
 
 +++ 
 
