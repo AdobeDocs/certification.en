@@ -11,8 +11,11 @@ exl-id: 594503d8-2064-4b05-ba09-9569e6ef9fc7
 ---
 # Certification journey for Adobe [!DNL Commerce] Architect Master
 
-
 {{intro}}
+
+>[!NOTE]
+>
+>**New study resources available:** The [Exam Prep Guide](https://app.rockinfo.com/courses/playScorm/388) provides a tailored path through your certification exam prep process, including the in-depth study materials you'll need to be successful in attaining this certification. _If you are prompted to log in to the Exam Prep Guide, use your Adobe ID._
 
 ## Exam description {#exam-description}
 
@@ -135,42 +138,20 @@ Additionally, you should be very familiar with the following activities and tech
 
 {{study-materials-intro}}
 
-**Section 1: Design**
-
-* [Create a product](https://docs.magento.com/user-guide/catalog/product-create.html){target="_blank"} 
-* [Page caching](https://developer.adobe.com/commerce/php/development/cache/page/){target="_blank"} 
-* [Introduction to [!DNL Commerce] Customer Management](https://docs.magento.com/user-guide/customers/customers-menu.html){target="_blank"} 
-* [Events and observers](https://developer.adobe.com/commerce/php/development/components/events-and-observers/){target="_blank"} 
-* [SEO overview](https://docs.magento.com/user-guide/marketing/seo-search.html){target="_blank"} 
-* [Store Details](https://docs.magento.com/user-guide/configuration/configuration-basic.html){target="_blank"} 
-* [Pages](https://docs.magento.com/user-guide/cms/content-elements.html){target="_blank"} 
-* [Adding a new payment integration (payment method))](https://devdocs.magento.com/guides/v2.4/payments-integrations/base-integration/integration-intro.html){target="_blank"} 
-* [Authentication](https://devdocs.magento.com/guides/v2.4/get-started/authentication/gs-authentication.html){target="_blank"} 
-* [GraphQL overview](https://devdocs.magento.com/guides/v2.4/graphql/index.html){target="_blank"} 
-
-**Section 2: Review**
-
-* [Introduction](https://developer.adobe.com/commerce/php/module-reference/){target="_blank"} 
-* [Add a custom text field attribute](https://devdocs.magento.com/guides/v2.4/howdoi/custom-attributes/introduction.html){target="_blank"}
-* [Application Testing Guide introduction](https://devdocs.magento.com/guides/v2.4/test/testing.html){target="_blank"}
-* [Component development](https://developer.adobe.com/commerce/php/development/components/){target="_blank"}
-* [Best Practices](https://support.magento.com/hc/en-us/categories/360002582351-Best-Practices-){target="_blank"}
-* [Configure Varnish](https://devdocs.magento.com/guides/v2.4/config-guide/varnish/config-varnish.html){target="_blank"}
-
-**Section 3: Configure and Deploy**
-
-* [Configuration Reference Guide](https://docs.magento.com/user-guide/configuration/general.html){target="_blank"}
-* [Configuration files for deployment](https://devdocs.magento.com/guides/v2.4/config-guide/config/config-magento.html){target="_blank"}
-* [Configure Redis](https://devdocs.magento.com/guides/v2.4/config-guide/redis/config-redis.html){target="_blank"}
-* [Currency](https://docs.magento.com/user-guide/stores/currency.html){target="_blank"}
-* [Overview of initialization and bootstrap](https://devdocs.magento.com/guides/v2.4/config-guide/bootstrap/magento-bootstrap.html){target="_blank"}
-* [Fastly services overview](https://devdocs.magento.com/cloud/cdn/cloud-fastly.html){target="_blank"}
-
-<br>
-
 **Take a practice test**
 
 {{practice-test}}
+
+**Exam Prep Guide**
+
+{{exam-prep-guide}}
+
+<a href="https://app.rockinfo.com/courses/playScorm/388" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+                    
+ <span class="spectrum-Button-label has-no-wrap">
+   View Exam Prep Guide
+</span>
+</a>
 
 +++ 
 

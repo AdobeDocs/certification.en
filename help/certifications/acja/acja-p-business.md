@@ -12,6 +12,10 @@ exl-id: b5981d32-dea5-4fb9-be3e-809ec890513f
 
 {{intro}}
 
+>[!NOTE]
+>
+>**New study resources available:** The [Exam Prep Guide](https://app.rockinfo.com/courses/playScorm/375) provides a tailored path through your certification exam prep process, including the in-depth study materials you'll need to be successful in attaining this certification. _If you are prompted to log in to the Exam Prep Guide, use your Adobe ID._
+
 ## Exam description {#exam-description}
 
 {{exam-description}}
@@ -97,37 +101,20 @@ The ideal minimally qualified candidate is an analyst with at least 6 months of 
 
 {{study-materials-intro}}
 
-**Section 1: Components**
-
-* [Visualizations overview](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/freeform-analysis-visualizations.html){target="_blank"}
-* [Data views overview](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/data-views.html){target="_blank"}
-* [Filters overview](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-components/cja-filters/filters-overview.html){target="_blank"}
-* [Attribution component settings](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-settings/attribution.html){target="_blank"}
-
-**Section 2: Reporting**
-
-* [Fallout overview](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/fallout/fallout-flow.html){target="_blank"}
-* [Calendar and date ranges overview](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-components/cja-date-ranges/calendar.html){target="_blank"}
-* [Connections overview](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/overview.html){target="_blank"}
-
-**Section 3: Distribution**
-
-* [Schedule projects](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/curate-share/t-schedule-report.html){target="_blank"}
-* [Share projects](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/curate-share/share-projects.html){target="_blank"}
-* [Curate projects](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/curate-share/curate.html){target="_blank"}
-
-**Section 4: Data Analysis**
-
-* [Utilizing Adobe Analytics report suite data in Customer Journey](https://experienceleague.adobe.com/docs/analytics-platform/using/compare-aa-cja/cja-aa-comparison/aa-data-in-cja.html){target="_blank"}
-* [Analytics Attribution models and lookback windows](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html?lang=en%22%3ehttps://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html){target="_blank"}
-* [Venn](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/venn.html){target="_blank"}
-* [Filter operators](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-components/cja-filters/operators.html){target="_blank"}
-
-<br>
-
 **Take a practice test**
 
 {{practice-test}}
+
+**Exam Prep Guide**
+
+{{exam-prep-guide}}
+
+<a href="https://app.rockinfo.com/courses/playScorm/375" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+                    
+ <span class="spectrum-Button-label has-no-wrap">
+   View Exam Prep Guide
+</span>
+</a>
 
 +++ 
 

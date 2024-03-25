@@ -12,6 +12,10 @@ exl-id: 3d4efb08-cd0c-4e1f-8a85-34fd8791b77b
 
 {{intro}}
 
+>[!NOTE]
+>
+>**New study resources available:** The [Exam Prep Guide](https://app.rockinfo.com/courses/playScorm/385) provides a tailored path through your certification exam prep process, including the in-depth study materials you'll need to be successful in attaining this certification. _If you are prompted to log in to the Exam Prep Guide, use your Adobe ID._
+
 ## Exam description {#exam-description}
 
 {{exam-description}}
@@ -151,53 +155,20 @@ Additionally, you should be comfortable using the following technologies:
 
 {{study-materials-intro}}
 
-**Section 1: Theme management (Theme hierarchy, image configuration, translations)**
-
-* [Themes](https://developer.adobe.com/commerce/frontend-core/guide/themes/)
-* [Templates](https://developer.adobe.com/commerce/frontend-core/guide/templates/)
-* [Add custom variables](https://experienceleague.adobe.com/docs/commerce-admin/systems/variables/variables-custom.html?lang=en)
-* [Translations](https://developer.adobe.com/commerce/frontend-core/guide/translations/)
-
-**Section 2: Layout XML & templates (phtml templates)**
-
-* [Layouts](https://developer.adobe.com/commerce/frontend-core/guide/layouts/xml-manage/){target="_blank"}
-* [Common customization tasks](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/layouts/xml-manage.html){target="_blank"}
-* [Component development](https://developer.adobe.com/commerce/php/development/components/){target="_blank"}
-* [Security](https://developer.adobe.com/commerce/php/development/security/){target="_blank"}
-
-**Section 3: Styles**
-
-* [Responsive web design](https://developer.adobe.com/commerce/frontend-core/guide/responsive-design/){target="_blank"}
-* [Customize theme styles](https://developer.adobe.com/commerce/frontend-core/guide/css/quickstart/customize-styles/){target="_blank"}
-* [Coding standards](https://developer.adobe.com/commerce/php/coding-standards/){target="_blank"}
-* [Cascading style sheets (CSS)](https://developer.adobe.com/commerce/frontend-core/guide/css/quickstart/customize-styles/){target="_blank"}
-
-**Section 4: JavaScript (mage widgets, mage library, customer data module, Knockout templates)**
-
-* [JavaScript](https://developer.adobe.com/commerce/frontend-core/javascript/){target="_blank"}
-* [Introduction to UI components](https://developer.adobe.com/commerce/frontend-core/ui-components/){target="_blank"}
-* [Customize checkout](https://developer.adobe.com/commerce/php/tutorials/frontend/custom-checkout/){target="_blank"}
-* [Observable Arrays](https://knockoutjs.com/documentation/observableArrays.html){target="_blank"}
-
-**Section 5: Admin configuration and PageBuilder**
-
-* [Pages](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/pages/pages.html){target="_blank"}
-* [What is Page Builder?](https://developer.adobe.com/commerce/frontend-core/page-builder/){target="_blank"}
-* [JavaScript bundling](https://developer.adobe.com/commerce/frontend-core/guide/themes/js-bundling/){target="_blank"}
-* [Google reCAPTCHA](https://experienceleague.adobe.com/docs/commerce-admin/systems/security/captcha/security-google-recaptcha.html){target="_blank"}
-
-**Section 6: Tools (CLI and Grunt)**
-
-* [Configuration guide](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/overview.html?lang=en){target="_blank"}
-* [On-premises installation overview](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/overview.html?lang=en){target="_blank"}
-* [Build variables](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/env/stage/variables-build.html?lang=en){target="_blank"}
-* [Commerce on Cloud Infrastructure](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/overview.html?lang=en){target="_blank"}
-
-<br>
-
 **Take a practice test**
 
 {{practice-test}}
+
+**Exam Prep Guide**
+
+{{exam-prep-guide}}
+
+<a href="https://app.rockinfo.com/courses/playScorm/385" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+                    
+ <span class="spectrum-Button-label has-no-wrap">
+   View Exam Prep Guide
+</span>
+</a>
 
 +++ 
 

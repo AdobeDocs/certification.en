@@ -12,6 +12,10 @@ exl-id: ab0b2e4d-5f24-4b78-bdef-2a6b0aaa53ec
 
 {{intro}}
 
+>[!NOTE]
+>
+>**New study resources available:** The [Exam Prep Guide](https://app.rockinfo.com/courses/playScorm/391) provides a tailored path through your certification exam prep process, including the in-depth study materials you'll need to be successful in attaining this certification. _If you are prompted to log in to the Exam Prep Guide, use your Adobe ID._
+
 ## Exam description {#exam-description}
 
 {{exam-description}}
@@ -119,37 +123,27 @@ You should have a minimum of 3 months of experience in [!DNL Adobe Analytics] an
 
 {{study-materials-intro}}
 
-**Section 1: Business analysis**
+**Exam Prep Guide**
 
-* [Analytics Tools Guide](https://experienceleague.adobe.com/docs/analytics/analyze/home.html){target="_blank"} 
-* [Analytics Components Guide](https://experienceleague.adobe.com/docs/analytics/components/home.html){target="_blank"} 
-* [Implement [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html){target="_blank"} 
-* [Data Workbench Help](https://experienceleague.adobe.com/docs/data-workbench/using/home.html){target="_blank"} 
+{{exam-prep-guide}}
 
-**Section 2: Reporting and dashboarding for projects**
-
-* [Analytics Admin Guide](https://experienceleague.adobe.com/docs/analytics/admin/home.html){target="_blank"}
-* [Analytics Tools Guide](https://experienceleague.adobe.com/docs/analytics/analyze/home.html){target="_blank"}
-* [Visualization Overview](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/freeform-analysis-visualizations.html#quick-viz){target="_blank"}
-* [Analytics Components Guide](https://experienceleague.adobe.com/docs/analytics/components/home.html){target="_blank"}
-* [Customer Journey Analytics Guide](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html){target="_blank"}
-
-**Section 3: Segmentation and calculated metrics**
-
-* [Analytics Components Guide](https://experienceleague.adobe.com/docs/analytics/components/home.html){target="_blank"}
-
-**Section 4: General tool knowledge and troubleshooting**
-
-* [Implement [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html){target="_blank"}
-* [Analytics Components Guide](https://experienceleague.adobe.com/docs/analytics/components/home.html){target="_blank"}
-
-<br>
+<a href="https://app.rockinfo.com/courses/playScorm/391" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+                    
+ <span class="spectrum-Button-label has-no-wrap">
+   View Exam Prep Guide
+</span>
+</a>
 
 **Sample questions**
 
 {{sample-questions}}
 
-[View sample questions](https://scorpion.caveon.com/launchpad/ad0-e212-adobe-analytics-business-practitioner-professional-copy-th4xdu){target="_blank"}
+<a href="https://scorpion.caveon.com/launchpad/ad0-e212-adobe-analytics-business-practitioner-professional-copy-th4xdu" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+                    
+ <span class="spectrum-Button-label has-no-wrap">
+   View sample questions
+</span>
+</a>
 
 +++ 
 
