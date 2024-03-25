@@ -12,6 +12,10 @@ exl-id: 9bf1ec2a-dcd0-4952-8b0b-d24dd714b739
 
 {{intro}}
 
+>[!NOTE]
+>
+>**New study resources available:** The [Exam Prep Guide](https://app.rockinfo.com/courses/playScorm/384) provides a tailored path through your certification exam prep process, including the in-depth study materials you'll need to be successful in attaining this certification. _If you are prompted to log in to the Exam Prep Guide, use your Adobe ID._
+
 ## Exam description {#exam-description}
 
 {{exam-description}}
@@ -136,50 +140,20 @@ Additionally, you should exhibit knowledge of the following technologies:
 
 {{study-materials-intro}}
 
-**Section 1: Theme management (Theme hierarchy, image configuration, translations)**
-
-* [Themes](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/themes/theme-overview.html){target="_blank"}
-* [Layouts](https://developer.adobe.com/commerce/frontend-core/guide/layouts/xml-manage/){target="_blank"}
-* [Localization](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/cli/localization.html){target="_blank"}
-* [Translations](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/translations/xlate.html){target="_blank"}
-
-**Section 2: Layout XML & templates**
-
-* [Common customization tasks](https://developer.adobe.com/commerce/frontend-core/guide/layouts/xml-manage/){target="_blank"}
-* [Component development](https://developer.adobe.com/commerce/php/development/components/){target="_blank"}
-* [Security](https://developer.adobe.com/commerce/php/development/security/){target="_blank"}
-
-**Section 3: Styles**
-
-* [Coding standards](https://developer.adobe.com/commerce/php/coding-standards/){target="_blank"}
-* [{less}](https://lesscss.org/){target="_blank"}
-* [LESS coding standard](https://developer.adobe.com/commerce/php/coding-standards/less/){target="_blank"}
-* [Customize theme styles](https://developer.adobe.com/commerce/frontend-core/guide/css/quickstart/customize-styles/){target="_blank"}
-
-**Section 4: JavaScript**
-
-* [Introduction to JavaScript](https://developer.adobe.com/commerce/frontend-core/javascript/){target="_blank"}
-* [UI component concepts](https://developer.adobe.com/commerce/frontend-core/ui-components/concepts/){target="_blank"}
-* [Observables (KnockOutJS)](https://knockoutjs.com/documentation/observables.html){target="_blank"}
-
-**Section 5: Admin configuration and PageBuilder**
-
-* [Pages](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/pages/pages.html){target="_blank"}
-* [What is Page Builder?](https://developer.adobe.com/commerce/frontend-core/page-builder/){target="_blank"}
-* [JavaScript bundling](https://developer.adobe.com/commerce/frontend-core/guide/themes/js-bundling/){target="_blank"}
-* [Google reCAPTCHA](https://experienceleague.adobe.com/docs/commerce-admin/systems/security/captcha/security-google-recaptcha.html){target="_blank"}
-
-**Section 6: Tools (CLI and Grunt)**
-
-* [Configuration guide](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/overview.html?lang=en){target="_blank"}
-* [Build variables](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/env/stage/variables-build.html?lang=en){target="_blank"}
-* [Commerce on Cloud Infrastructure](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/overview.html?lang=en){target="_blank"}
-
-<br>
-
 **Take a practice test**
 
 {{practice-test}}
+
+**Exam Prep Guide**
+
+{{exam-prep-guide}}
+
+<a href="https://app.rockinfo.com/courses/playScorm/384" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+                    
+ <span class="spectrum-Button-label has-no-wrap">
+   View Exam Prep Guide
+</span>
+</a>
 
 +++ 
 

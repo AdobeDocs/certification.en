@@ -12,6 +12,10 @@ exl-id: 64b53064-8280-405b-a5f7-b50264394b82
 
 {{intro}}
 
+>[!NOTE]
+>
+>**New study resources available:** The [Exam Prep Guide](https://app.rockinfo.com/courses/playScorm/373) provides a tailored path through your certification exam prep process, including the in-depth study materials you'll need to be successful in attaining this certification. _If you are prompted to log in to the Exam Prep Guide, use your Adobe ID._
+
 ## Exam description {#exam-description}
 
 {{exam-description}}
@@ -134,39 +138,20 @@ Additionally, you should be familiar with the following technologies and environ
 
 {{study-materials-intro}}
 
-**Section 1: Assessment**
-
-* [[!DNL Experience Manager] as a Cloud Service User Guide](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html){target="_blank"} 
-* [Migration Guide to Adobe [!DNL Experience Manager] as a Cloud Service for Partners](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/migration-journey/getting-started-partners.html){target="_blank"} 
-* [ Notable Changes to AEM as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/aem-cloud-changes.html){target="_blank"} 
-
-**Section 2: Design**
-
-* [Adobe [!DNL Experience Manager] as a Cloud Service Documentation](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html){target="_blank"}
-* [Introduction](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/content-delivery/caching.html){target="_blank"}
-
-**Section 3: Deployment**
-
-* [Code Quality Testing](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/test-results/code-quality-testing.html){target="_blank"}
-* [Adding a Custom Domain Name](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/custom-domain-names/add-custom-domain-name.html){target="_blank"}
-* [Configuring DNS Settings](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/custom-domain-names/configure-dns-settings.html){target="_blank"}
-
-**Section 4: Migration**
-
-* [Running the Content Transfer Tool on a Publish Instance](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/migration-journey/cloud-migration/content-transfer-tool/running-content-transfer-tool-publish-instance.html){target="_blank"}
-* [Prerequisites for Content Transfer Tool](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/migration-journey/cloud-migration/content-transfer-tool/prerequisites-content-transfer-tool.html){target="_blank"}
-* [Debugging AEM as a Cloud Service using logs](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/debugging/debugging-aem-as-a-cloud-service/logs.html){target="_blank"}
-
-**Section 5: Implementation**
-
-* [Use the CI/CD Pipeline in Adobe Cloud Manager](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/cloud-manager/use-the-cicd-pipeline-in-cloud-manager-for-aem.html){target="_blank"}
-* [Deploying to AEM as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/deploying/overview.html){target="_blank"}
-
-<br>
-
 **Take a practice test**
 
 {{practice-test}}
+
+**Exam Prep Guide**
+
+{{exam-prep-guide}}
+
+<a href="https://app.rockinfo.com/courses/playScorm/373" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+                    
+ <span class="spectrum-Button-label has-no-wrap">
+   View Exam Prep Guide
+</span>
+</a>
 
 +++ 
 

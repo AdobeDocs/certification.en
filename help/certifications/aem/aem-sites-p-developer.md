@@ -12,6 +12,16 @@ exl-id: c7508746-d709-46d8-8a1e-4b16e5020f96
 
 {{intro}}
 
+>[!NOTE]
+>
+>Free, on-demand resources are now available to help you prepare for your exam:
+>
+>* **Course:** Take a [training course](https://app.rockinfo.com/courses/105) that includes explanations of key concepts, hands-on demonstrations, and knowledge checks.
+>
+>* **Exam Prep Guide:** The [Exam Prep Guide](https://app.rockinfo.com/courses/playScorm/364) provides a tailored path through your exam prep process, including the in-depth study materials you'll need to be successful on your exam.
+>
+>If you are prompted to log in, use your Adobe ID.
+
 ## Exam description {#exam-description}
 
 {{exam-description}}
@@ -99,44 +109,38 @@ You should be an application developer and have:
 
 {{study-materials-intro}}
 
-**Section 1: Configurations**
+**Take a course**
 
-* [AEM 6.4 Administering User Guide](https://experienceleague.adobe.com/docs/experience-manager-64/administering/home.html){target="_blank"}
-* [AEM 6.4 Deploying User Guide](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/home.html){target="_blank"}
-* [Dispatcher Overview](https://experienceleague.adobe.com/docs/experience-manager-dispatcher/using/dispatcher.html){target="_blank"}
+{{take-course}}
 
-**Section 2: AEM development**
+<a href="https://app.rockinfo.com/courses/105" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+                    
+ <span class="spectrum-Button-label has-no-wrap">
+   Take course
+</span>
+</a>
 
-* [AEM 6.4 Administering User Guide](https://experienceleague.adobe.com/docs/experience-manager-64/administering/home.html){target="_blank"}
-* [AEM 6.5 Deploying User Guide](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html){target="_blank"}
-* [AEM 6.5 Developing User Guide](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html){target="_blank"}
-* [Core Components Introduction](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/introduction.html){target="_blank"}
-* [Component Basics](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-wknd-tutorial-develop/project-archetype/component-basics.html){target="_blank"}
+**Exam Prep Guide**
 
-**Section 3: Build and deployment**
+{{exam-prep-guide}}
 
-* [Core Components Introduction](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/introduction.html){target="_blank"}
-* [Getting started with [!DNL AEM Sites] - WKND tutorial](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-wknd-tutorial-develop/overview.html){target="_blank"}
-
-
-**Section 4: Environment maintenance**
-
-* [AEM 6.4 Deploying User Guide](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/home.html?lang=en){target="_blank"}
-* [AEM 6.4 Developing User Guide](https://experienceleague.adobe.com/docs/experience-manager-64/developing/home.html?lang=en){target="_blank"}
-* [Operations Dashboard](https://experienceleague.adobe.com/docs/experience-manager-65/administering/operations/operations-dashboard.html?lang=en#automated-maintenance-tasks){target="_blank"}
-* [Release notes for Adobe [!DNL Experience Manager] 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html){target="_blank"}
-* [[!DNL Experience Manager as a Cloud Service] overview](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html){target="_blank"}
-* [Core Components Introduction](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/introduction.html)
-* [[!DNL AEM as Cloud Service] videos and tutorials](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/overview.html){target="_blank"}
-* [Adobe [!DNL Experience Manager] Release Updates and Roadmap](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/home.html){target="_blank"}
-
-<br>
+<a href="https://app.rockinfo.com/courses/playScorm/364" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+                    
+ <span class="spectrum-Button-label has-no-wrap">
+   View Exam Prep Guide
+</span>
+</a>
 
 **Sample questions**
 
 {{sample-questions}}
 
-[View sample questions](https://scorpion.caveon.com/launchpad/ad3-e123-adobe-experience-manager-sites-developer-professional-sample-questions){target="_blank"}
+<a href="https://scorpion.caveon.com/launchpad/ad3-e123-adobe-experience-manager-sites-developer-professional-sample-questions" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+                    
+ <span class="spectrum-Button-label has-no-wrap">
+   View sample questions
+</span>
+</a>
 
 +++ 
 

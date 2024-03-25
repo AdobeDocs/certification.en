@@ -12,6 +12,10 @@ exl-id: 9ffe9fc9-5427-4297-9d8d-14ce62e239e4
 
 {{intro}}
 
+>[!NOTE]
+>
+>**New study resources available:** The [Exam Prep Guide](https://app.rockinfo.com/courses/playScorm/376) provides a tailored path through your certification exam prep process, including the in-depth study materials you'll need to be successful in attaining this certification. _If you are prompted to log in to the Exam Prep Guide, use your Adobe ID._
+
 ## Exam description {#exam-description}
 
 {{exam-description}}
@@ -113,34 +117,20 @@ You should have 12-24 months experience in Adobe [!DNL Customer Journey Analytic
 
 {{study-materials-intro}}
 
-**Section 1: Connections**
-
-* [Connections overview](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/overview.html){target="_blank"} 
-* [Create a connection](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/create-connection.html){target="_blank"} 
-
-**Section 2: Data Views**
-
-* [Data views overview](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/data-views.html){target="_blank"} 
-* [Component settings](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-settings/overview.html){target="_blank"} 
-
-**Section 3: Data Validation and Troubleshooting**
-
-* [Data views overview](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/data-views.html){target="_blank"} 
-* [Create or edit a data view](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/create-dataview.html){target="_blank"}
-* [Component settings](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-settings/overview.html){target="_blank"}
-* [Standard component reference](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-reference.html){target="_blank"}
-
-**Section 4: Reporting and Activation**
-
-* [Visualizations overview](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/freeform-analysis-visualizations.html){target="_blank"}
-* [Analysis Workspace overview](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/home.html){target="_blank"}
-* [Data views overview](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/data-views.html){target="_blank"}
-
-<br>
-
 **Take a practice test**
 
 {{practice-test}}
+
+**Exam Prep Guide**
+
+{{exam-prep-guide}}
+
+<a href="https://app.rockinfo.com/courses/playScorm/376" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+                    
+ <span class="spectrum-Button-label has-no-wrap">
+   View Exam Prep Guide
+</span>
+</a>
 
 +++ 
 

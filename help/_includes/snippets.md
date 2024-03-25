@@ -219,3 +219,11 @@ Certifications expire after two years. To maintain your certification, you must 
 Please schedule your exam between Sunday – Thursday 5pm – 2am ET to ensure we are able to assign a Japanese-speaking proctor. If you schedule outside of these hours, we cannot guarantee a Japanese-speaking proctor.
 
 [Japanese instructions for scheduling](/help/certifications/assets/Examity-Instructions-in-Japanese.pdf)
+
+## Take a free course {#take-course}
+
+This free, on-demand course helps prepare you for your exam with explanations of key concepts, hands-on demonstrations, and knowledge checks.
+
+## Exam Prep Guide {#exam-prep-guide}
+
+The free Exam Prep Guide provides a tailored path through your exam prep process, including the in-depth study materials you'll need to be successful on your exam.

@@ -12,6 +12,10 @@ exl-id: 710f6c8b-9a6c-445e-b831-a891b559f208
 
 {{intro}}
 
+>[!NOTE]
+>
+>**New study resources available:** The [Exam Prep Guide](https://app.rockinfo.com/courses/playScorm/364) provides a tailored path through your certification exam prep process, including the in-depth study materials you'll need to be successful in attaining this certification. _If you are prompted to log in to the Exam Prep Guide, use your Adobe ID._
+
 ## Exam description {#exam-description}
 
 {{exam-description}}
@@ -131,44 +135,20 @@ Additionally, you should have experience with the following technologies and env
 
 +++Step 2: Prepare for your exam
 
-**Study Materials**
-
-{{study-materials-intro}}
-
-**Section 1: Asset workflows**
-
-* [Creating Workflow Models](https://experienceleague.adobe.com/docs/experience-manager-64/developing/extending-aem/extending-workflows/workflows-models.html#sync-your-workflow-generate-a-runtime-model){target="_blank"}
-* [Assets Guide](https://experienceleague.adobe.com/docs/experience-manager-64/assets/home.html){target="_blank"}
-
-**Section 2: Asset organization and the asset console**
-
-* [AEM Assets videos and tutorials](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/overview.html){target="_blank"}
-* [Search facets](https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/search-facets.html#restoring-default-search-facets){target="_blank"}
-* [Asset reports](https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/asset-reports.html){target="_blank"}
-
-**Section 3: Asset metadata**
-
-* [Metadata schemas](https://experienceleague.adobe.com/docs/experience-manager-64/assets/administer/metadata-schemas.html#default-metadata-schema-forms){target="_blank"}
-* [Understand metadata concepts](https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/metadata-concepts.html){target="_blank"}
-* [Metadata profiles](https://experienceleague.adobe.com/docs/experience-manager-64/assets/administer/metadata-profiles.html#:~:text=Add%20a%20metadata%20profile.%20Tap%20or%20click%20the,and%20configure%20its%20properties%20in%20the%20Settings%20tab.){target="_blank"}
-
-**Section 4: Asset types**
-
-* [Manage video assets](https://experienceleague.adobe.com/docs/experience-manager-64/assets/managing/managing-video-assets.html#uploading-and-previewing-video-assets){target="_blank"}
-* [Content Fragment Models](https://experienceleague.adobe.com/docs/experience-manager-65/assets/content-fragments/content-fragments-models.html#creating-a-content-fragment-model){target="_blank"}
-* [Variations - Authoring Fragment Content](https://experienceleague.adobe.com/docs/experience-manager-65/assets/content-fragments/content-fragments-variations.html#managing-variations){target="_blank"}
-
-**Section 5: Asset feature sets and capabilities**
-
-* [Overview of [!DNL Experience Manager] Assets Brand Portal](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/brand-portal.html){target="_blank"}
-* [Supported file formats](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/brand-portal-supported-formats.html){target="_blank"}
-* [Dynamic Media Video Profiles](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/dynamicmedia/video-profiles.html){target="_blank"}
-
-<br>
-
 **Take a practice test**
 
 {{practice-test}}
+
+**Exam Prep Guide**
+
+{{exam-prep-guide}}
+
+<a href="https://app.rockinfo.com/courses/playScorm/364" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+                    
+ <span class="spectrum-Button-label has-no-wrap">
+   View Exam Prep Guide
+</span>
+</a>
 
 +++
 
