@@ -30,7 +30,7 @@ It's important to note that if your certification expires, you'll have to retake
 
 >[!TAB Professional]
 
-## Adobe [!DNL Audience Manager] Business Practitioner Professional Renewal Exam
+### Adobe [!DNL Audience Manager] Business Practitioner Professional Renewal Exam
 
 You should be currently certified (not expired) in:
 
@@ -54,9 +54,9 @@ You should be currently certified (not expired) in:
 * Cost: FREE
 * Exam ID: AD5-E852 Adobe [!DNL Audience Manager] Business Practitioner Professional Renewal Exam
 
-### Exam Objectives and Scope**
+### Exam Objectives and Scope
 
-**Segment Creation and Syndication 32%**
+**Section 1: Segment Creation and Syndication (32%)**
 
 * Identify ways to utilize first-, second-, and third-party data for targeting and analytical purposes
 * Describe the basic process for the activation of business or campaign goals
@@ -64,27 +64,27 @@ You should be currently certified (not expired) in:
 * Identify the different types of destinations
 * Identify the different types of sources
 
-**Trait Creation 16%**
+**Section 2: Trait Creation (16%)**
 
 * Given a scenario, identify signals, traits, segments, and audiences
 * Identify the uses of different types of traits
 
-**Reporting and Measurements 16%**
+**Section 3: Reporting and Measurements (16%)**
 
 * Given a scenario, generate reports to measure activation or campaign goals
 * Given a scenario, compare audiences on the basis of match rates
 
-**Troubleshooting 10%**
+**Section 4: Troubleshooting (10%)**
 
 * Given a scenario, troubleshoot inbound data from different sources and source types
 * Validate format for inbound data files
 
-**Taxonomy 12%**
+**Section 5: Taxonomy (12%)**
 
 * Identify best practices for organized folder structure using clear and consistent nomenclature
 * Classify traits and segments into folders using consistent and clear nomenclature
 
-**Profile Merge, ID Sync, and Audience Marketplace 14%**
+**Section 6: Profile Merge, ID Sync, and Audience Marketplace (14%)**
 
 * Organize user traits into a single unified profile to create household- or device-based audiences
 * Identify activation using Audience Marketplace
@@ -155,18 +155,13 @@ Ensure that you have followed step 1 above, and successfully logged in to [Adobe
 >
 >This exam is free, open book, and un-proctored. You may take the exam up to three times. If you are unsuccessful after the third attempt, you must wait **30 days** to try again. Failure to comply might result in your certification being revoked.
 
-
-
-
-<!--divider-->
-
 >[!TAB Expert]
 
 You should be currently certified (not expired) in:
 
 * Adobe Audience Manager Business Practitioner Expert
 
-## Instructions for renewing your certification:
+### Instructions for renewing your certification:
 
 * **Step 1**: Successfully log in to [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}, then return to this page
 * **Step 2**: Review the exam objectives and resources
@@ -182,9 +177,9 @@ You should be currently certified (not expired) in:
 * Delivery: On-demand / non-proctored
 * Available languages: English
 * Cost: FREE
-* Exam ID: AD5-E826 - Adobe Audience Manager Business Practitioner expert renewal
+* Exam ID: AD5-E826 - Adobe Audience Manager Business Practitioner Expert Renewal Exam
 
-**Exam Objectives and Scope**
+### Exam Objectives and Scope
 
 **Section 1: Segment Creation and Syndication (25%)**
 
@@ -223,7 +218,7 @@ Here are some suggested resources to help you prepare:
 
 [!BADGE Sample questions]{type=Informative url="https://sei.caveon.com/launchpad/ad4-e453-adobe-audience-manager-business-practitioner-sample-exam newtab=true"}
 
-**Resources:**
+### Resources:
 
 * [Adobe [!DNL Audience Manager] Product Documentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html){target="_blank"}
 * [Adobe Support - Experience Cloud Audiences](https://experienceleaguecommunities.adobe.com/t5/Adobe-Experience-Cloud-Audiences/ct-p/experience-cloud-audiences-community){target="_blank"}
@@ -243,11 +238,11 @@ Ensure that you have followed step 1 above, and successfully logged in to [Adobe
 
 >[!TAB Master]
 
-You should be currently certified (not expired) in:
+### You should be currently certified (not expired) in:
 
 * Adobe Audience Manager Architect master
 
-## Instructions for renewing your certification
+### Instructions for renewing your certification
 
 * **Step 1** - Review the exam objectives
 * **Step 2** - Review the resources
@@ -263,11 +258,11 @@ You should be currently certified (not expired) in:
 * Delivery: On-demand / non-proctored
 * Available languages: English
 * Cost: FREE
-* Exam ID: AD5-E825 - Adobe Audience Manager Architect Master renewal
+* Exam ID: AD5-E825 - Adobe Audience Manager Architect Master Renewal Exam
 
-**Scope and objectives:**
+## Exam Objectives and Scope:
 
-Section 1: Implementation Analysis (28%)
+**Section 1: Implementation Analysis (28%)**
 
 * Determine how to guide and support implementation of AAM as a stand-alone product or as part of a cloud solution
 * Analyze outbound destination options and recommend an AAM implementation approach
@@ -275,14 +270,14 @@ Section 1: Implementation Analysis (28%)
 * Identify features such as visitor profile viewer, tags, RBAC, and so on, to align with business goals
 * Determine how to design and test pixels required to create segments and traits
 
-Section 2: Solution Design and Recommendations (17%)
+**Section 2: Solution Design and Recommendations (17%)**
 
 * Determine AAM capabilities based on customer use case for audience and activation
 * Apply procedural concepts to utilize audience identity solutions to compliment design architecture
 * Identify attribute and behavioral data and map it to specific business use cases
 * Apply procedural concepts to design folder taxonomy and naming convention
 
-Section 3: Segmentation and Activation (31%)
+**Section 3: Segmentation and Activation (31%)**
 
 * Apply procedural concepts to create destinations in [!DNL Audience Manager]
 * Identify signals to create Rule-Based, Onboarded, and Algorithmic Traits
@@ -291,12 +286,12 @@ Section 3: Segmentation and Activation (31%)
 * Apply procedural concepts to create an algorithmic or predictive model
 * Determine segmentation logic based on use cases
 
-Section 4: Privacy and Data Governance (7%)
+**Section 4: Privacy and Data Governance (7%)**
 
 * Recommend [!DNL Audience Manager] capabilities as it relates to governance, privacy, and security
 * Identify customer data policies that are in line with government regulations
 
-Section 5: Performance and Reporting (17%)
+**Section 5: Performance and Reporting (17%)**
 
 * Determine how to configure reports in AAM to gather signal, traits, and segment performance per business requirements
 
