@@ -30,17 +30,17 @@ It's important to note that if your certification expires, you'll have to retake
 
 >[!TAB Professional]
 
+## Instructions for renewing your certification:
+
+* **Step 1**: Successfully log in to [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}, then return to this page
+* **Step 2**: Review the exam objectives and resources
+* **Step 3**: Take and pass the exam
+
 ### Adobe [!DNL Audience Manager] Business Practitioner Professional Renewal Exam
 
 You should be currently certified (not expired) in:
 
 * Adobe [!DNL Audience Manager] Business Practitioner Professional
-
-### Instructions for renewing your certification:
-
-* **Step 1**: Successfully log in to [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}, then return to this page
-* **Step 2**: Review the exam objectives and resources
-* **Step 3**: Take and pass the exam
 
 ### Get ready
 
@@ -157,15 +157,15 @@ Ensure that you have followed step 1 above, and successfully logged in to [Adobe
 
 >[!TAB Expert]
 
-You should be currently certified (not expired) in:
-
-* Adobe Audience Manager Business Practitioner Expert
-
-### Instructions for renewing your certification:
+## Instructions for renewing your certification:
 
 * **Step 1**: Successfully log in to [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}, then return to this page
 * **Step 2**: Review the exam objectives and resources
 * **Step 3**: Take and pass the exam
+
+### You should be currently certified (not expired) in:
+
+* Adobe Audience Manager Business Practitioner Expert
 
 ### Get ready
 
@@ -238,15 +238,15 @@ Ensure that you have followed step 1 above, and successfully logged in to [Adobe
 
 >[!TAB Master]
 
-### You should be currently certified (not expired) in:
-
-* Adobe Audience Manager Architect master
-
-### Instructions for renewing your certification
+## Instructions for renewing your certification
 
 * **Step 1** - Review the exam objectives
 * **Step 2** - Review the resources
 * **Step 3** - Take and pass the exam
+
+### You should be currently certified (not expired) in:
+
+* Adobe Audience Manager Architect master
 
 ### Get ready
 
