@@ -11,6 +11,10 @@ exl-id: 61fa61d8-f08c-4198-aafc-1dda9e4aab87
 
 {{intro}}
 
+>[!NOTE]
+>
+>**New course available:** The free, on-demand [Adobe Journey Optimizer Developer Expert Course](https://app.rockinfo.com/courses/147) includes explanations of key concepts, hands-on demonstrations, and knowledge checks. _If you are prompted to log in, use your Adobe ID._
+
 ## Exam description {#exam-description}
 
 {{exam-description}}
@@ -116,6 +120,19 @@ Adobe Journey Optimizer is powered by Experience Platform. Candidates seeking to
 **Study Materials**
 
 {{study-materials-intro}}
+
+**Take a course**
+
+{{take-course}}
+
+<a href="https://app.rockinfo.com/courses/147" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+                    
+ <span class="spectrum-Button-label has-no-wrap">
+   Take the Adobe Journey Optimizer Developer Expert Course
+</span>
+</a>
+
+**Study resources**
 
 **Section 1: Administration and Configuration**
 
