@@ -14,7 +14,13 @@ exl-id: 9bf1ec2a-dcd0-4952-8b0b-d24dd714b739
 
 >[!NOTE]
 >
->**New study resources available:** The [Exam Prep Guide](https://app.rockinfo.com/courses/playScorm/384) provides a tailored path through your certification exam prep process, including the in-depth study materials you'll need to be successful in attaining this certification. _If you are prompted to log in to the Exam Prep Guide, use your Adobe ID._
+>Free, on-demand resources are now available to help you prepare for your exam:
+>
+>**Course**: If you're just starting out, or need a refresher, take our [Adobe Commerce Foundations Course](https://app.rockinfo.com/courses/148) to access explanations of key concepts, product walk-throughs, and knowledge checks. This course will provide a basis of knowledge you can build on in your certification journey.
+>
+>**Exam Prep Guide:** The [Exam Prep Guide](https://app.rockinfo.com/courses/playScorm/384) provides a tailored path through your certification exam prep process, including the in-depth study materials you'll need to be successful in attaining this certification.
+>
+>_If you are prompted to log in, use your Adobe ID._
 
 ## Exam description {#exam-description}
 
@@ -143,6 +149,17 @@ Additionally, you should exhibit knowledge of the following technologies:
 **Take a practice test**
 
 {{practice-test}}
+
+**Take a course**
+
+{{take-course}}
+
+<a href="https://app.rockinfo.com/courses/148" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+                    
+ <span class="spectrum-Button-label has-no-wrap">
+   Take Adobe Commerce Foundations Course
+</span>
+</a>
 
 **Exam Prep Guide**
 

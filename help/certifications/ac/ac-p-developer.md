@@ -16,7 +16,7 @@ exl-id: 5dc85678-91f9-4865-b310-3460081b19f8
 >
 >Free, on-demand resources are now available to help you prepare for your exam:
 >
->* **Course:** Take a [training course](https://app.rockinfo.com/courses/106) that includes explanations of key concepts, hands-on demonstrations, and knowledge checks.
+>* **Courses:** Take the [Adobe Commerce Developer Professional Course](https://app.rockinfo.com/courses/106) that includes explanations of key concepts, hands-on demonstrations, and knowledge checks. If you're just starting out, the [Adobe Commerce Foundations Course](https://app.rockinfo.com/courses/148) provides a basis of knowledge you can build on in your certification journey.
 >
 >* **Exam Prep Guide:** The [Exam Prep Guide](https://app.rockinfo.com/courses/playScorm/382) provides a tailored path through your exam prep process, including the in-depth study materials you'll need to be successful on your exam.
 >
@@ -184,10 +184,17 @@ Additionally, you should be familiar with the following technologies and environ
 
 {{take-course}}
 
+<a href="https://app.rockinfo.com/courses/148" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+                    
+ <span class="spectrum-Button-label has-no-wrap">
+   Take the Adobe Commerce Foundations Course
+</span>
+</a>
+
 <a href="https://app.rockinfo.com/courses/106" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
                     
  <span class="spectrum-Button-label has-no-wrap">
-   Take course
+   Take the Adobe Commerce Developer Professional Course
 </span>
 </a>
 

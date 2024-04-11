@@ -220,9 +220,13 @@ Please schedule your exam between Sunday – Thursday 5pm – 2am ET to ensure w
 
 [Japanese instructions for scheduling](/help/certifications/assets/Examity-Instructions-in-Japanese.pdf)
 
+<!--divider-->
+
 ## Take a free course {#take-course}
 
 This free, on-demand course helps prepare you for your exam with explanations of key concepts, hands-on demonstrations, and knowledge checks.
+
+<!--divider-->
 
 ## Exam Prep Guide {#exam-prep-guide}
 
