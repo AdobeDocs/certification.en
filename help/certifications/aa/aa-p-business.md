@@ -14,7 +14,7 @@ exl-id: ab0b2e4d-5f24-4b78-bdef-2a6b0aaa53ec
 
 >[!NOTE]
 >
->**New study resources available:** The [Exam Prep Guide](https://app.rockinfo.com/courses/playScorm/391) provides a tailored path through your certification exam prep process, including the in-depth study materials you'll need to be successful in attaining this certification. _If you are prompted to log in to the Exam Prep Guide, use your Adobe ID._
+>**New study resources available:** The [Exam Prep Guide](https://app.rockinfo.com/courses/playScorm/531) provides a tailored path through your certification exam prep process, including the in-depth study materials you'll need to be successful in attaining this certification. _If you are prompted to log in to the Exam Prep Guide, use your Adobe ID._
 
 ## Exam description {#exam-description}
 
@@ -127,7 +127,7 @@ You should have a minimum of 3 months of experience in [!DNL Adobe Analytics] an
 
 {{exam-prep-guide}}
 
-<a href="https://app.rockinfo.com/courses/playScorm/391" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+<a href="https://app.rockinfo.com/courses/playScorm/531" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
                     
  <span class="spectrum-Button-label has-no-wrap">
    View Exam Prep Guide
