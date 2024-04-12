@@ -16,9 +16,9 @@ exl-id: b5981d32-dea5-4fb9-be3e-809ec890513f
 >
 >Free, on-demand resources are now available to help you prepare for your exam:
 >
->**Course:** If you're just starting out, or need a refresher, take our [Adobe Experience Platform Foundations Course](https://app.rockinfo.com/courses/216) to access explanations of key concepts, product walk-throughs, and knowledge checks. This course will provide a basis of knowledge you can build on in your certification journey.
+>* **Course:** If you're just starting out, or need a refresher, take our [Adobe Experience Platform Foundations Course](https://app.rockinfo.com/courses/216) to access explanations of key concepts, product walk-throughs, and knowledge checks. This course will provide a basis of knowledge you can build on in your certification journey.
 >
->**Exam Prep Guide:** The [Exam Prep Guide](https://app.rockinfo.com/courses/playScorm/375) provides a tailored path through your certification exam prep process, including the in-depth study materials you'll need to be successful in attaining this certification.
+>* **Exam Prep Guide:** The [Exam Prep Guide](https://app.rockinfo.com/courses/playScorm/375) provides a tailored path through your certification exam prep process, including the in-depth study materials you'll need to be successful in attaining this certification.
 >
 >_If you are prompted to log in, use your Adobe ID._
 
