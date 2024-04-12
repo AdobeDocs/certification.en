@@ -18,7 +18,7 @@ exl-id: c7508746-d709-46d8-8a1e-4b16e5020f96
 >
 >* **Course:** Take a [training course](https://app.rockinfo.com/courses/105) that includes explanations of key concepts, hands-on demonstrations, and knowledge checks.
 >
->* **Exam Prep Guide:** The [Exam Prep Guide](https://app.rockinfo.com/courses/playScorm/364) provides a tailored path through your exam prep process, including the in-depth study materials you'll need to be successful on your exam.
+>* **Exam Prep Guide:** The [Exam Prep Guide](https://app.rockinfo.com/courses/playScorm/381) provides a tailored path through your exam prep process, including the in-depth study materials you'll need to be successful on your exam.
 >
 >If you are prompted to log in, use your Adobe ID.
 
@@ -124,7 +124,7 @@ You should be an application developer and have:
 
 {{exam-prep-guide}}
 
-<a href="https://app.rockinfo.com/courses/playScorm/364" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+<a href="https://app.rockinfo.com/courses/playScorm/381" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
                     
  <span class="spectrum-Button-label has-no-wrap">
    View Exam Prep Guide
