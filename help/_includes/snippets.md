@@ -224,7 +224,7 @@ Please schedule your exam between Sunday – Thursday 5pm – 2am ET to ensure w
 
 ## Take a free course {#take-course}
 
-This free, on-demand course helps prepare you for your exam with explanations of key concepts, hands-on demonstrations, and knowledge checks.
+Our free, on-demand courses help prepare you for your exam. Courses may include explanations of key concepts, product walk-throughs, hands-on demonstrations, and knowledge checks.
 
 <!--divider-->
 

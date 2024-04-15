@@ -113,6 +113,8 @@ user-guide-description: Learn about [!DNL Experience Cloud] Certification at Ado
     + [Renewal](/help/certifications/rtcdp/rtcdp-renew.md)
   + Adobe [!DNL Journey Optimizer] {#ajo}
     + [Journey Optimizer Overview](/help/certifications/ajo/ajo-overview.md)
+    + Professional {#ajo-professional}
+      + [Business Practitioner](/help/certifications/ajo/ajo-p-business.md)
     + Expert {#ajo-expert}
       + [Developer](/help/certifications/ajo/ajo-e-developer-23-10.md)
     + [Renewal](/help/certifications/ajo/ajo-renew.md)
