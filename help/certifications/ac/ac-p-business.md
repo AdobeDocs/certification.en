@@ -16,9 +16,9 @@ exl-id: f99b2abd-c67f-44c2-a04b-f1c7077fbac3
 >
 >Free, on-demand resources are now available to help you prepare for your exam:
 >
->**Course**: If you're just starting out, the [Adobe Commerce Foundations Course](https://app.rockinfo.com/courses/148) provides a basis of knowledge you can build on in your certification journey.
+>* **Courses**: Take the [Adobe Commerce Business Practitioner Professional Course](https://app.rockinfo.com/courses/105) for explanations of key concepts, hands-on demonstrations, and knowledge checks. If you're just starting out, the [Adobe Commerce Foundations Course](https://app.rockinfo.com/courses/148) provides a basis of knowledge you can build on in your certification journey.
 >
->**Exam Prep Guide:** The [Exam Prep Guide](https://app.rockinfo.com/courses/playScorm/383) provides a tailored path through your certification exam prep process, including the in-depth study materials you'll need to be successful in attaining this certification.
+>* **Exam Prep Guide:** The [Exam Prep Guide](https://app.rockinfo.com/courses/playScorm/383) provides a tailored path through your certification exam prep process, including the in-depth study materials you'll need to be successful in attaining this certification.
 >
 >_If you are prompted to log in, use your Adobe ID._
 
@@ -142,23 +142,15 @@ Additionally, you should have a basic understanding of the eCommerce experience,
 
 {{take-course}}
 
-<a href="https://app.rockinfo.com/courses/148" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-                    
- <span class="spectrum-Button-label has-no-wrap">
-   Take the Adobe Commerce Foundations Course
-</span>
-</a>
+[Take the Adobe Commerce Foundations Course](https://app.rockinfo.com/courses/148)
+
+[Take the Adobe Commerce Business Practitioner Professional Course](https://app.rockinfo.com/courses/105)
 
 **Exam Prep Guide**
 
 {{exam-prep-guide}}
 
-<a href="https://app.rockinfo.com/courses/playScorm/383" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-                    
- <span class="spectrum-Button-label has-no-wrap">
-   View Exam Prep Guide
-</span>
-</a>
+[View Exam Prep Guide](https://app.rockinfo.com/courses/playScorm/383)
 
 +++ 
 

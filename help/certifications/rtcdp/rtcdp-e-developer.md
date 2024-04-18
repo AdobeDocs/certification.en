@@ -18,6 +18,18 @@ exl-id: 8b462656-09d0-49c9-a45e-eb57e29400df
 
 <br>
 
+### Exam details {#exam-details}
+
+* Level: Expert (1-3 years' experience)
+* Passing Score: 45/68
+* Time: 136 mins
+* Delivery: Online proctored (requires camera access)
+* Language: English
+* Cost: $225 (global) / $150 (India)
+* Exam ID: AD0-E605
+
+<br>
+
 ### Intended audience {#intended-audience} 
 
 * Software developer
@@ -60,18 +72,6 @@ You should be comfortable in these environments:
 
 * AEP
 * Edge network
-
-<br>
-
-### Exam details {#exam-details}
-
-* Level: Expert (1-3 years' experience)
-* Passing Score: 45/68
-* Time: 136 mins
-* Delivery: Online proctored (requires camera access)
-* Language: English
-* Cost: $225 (global) / $150 (India)
-* Exam ID: AD0-E605
 
 <br>
 

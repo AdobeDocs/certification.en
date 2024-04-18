@@ -365,7 +365,6 @@ Ensure that you have followed step 1 above, and successfully logged in to [Adobe
 * Adobe [!DNL Experience Manager Sites] Developer Expert
 * Adobe [!DNL Experience Manager Sites] Business Practitioner Expert
 * Adobe [!DNL Experience Manager Sites] Architect Master
-* Adobe [!DNL Experience Manager Assets] Developer Expert
 * Adobe [!DNL Experience Manager] Dev/Ops Engineer Expert
 * Adobe [!DNL Experience Manager Forms] Developer Expert
 
