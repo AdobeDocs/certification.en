@@ -109,14 +109,14 @@ Candidates should also be able to:
 
 {{exam-objectives}}
 
-**Section 1: Campaign and Journey Optimization**
+**Section 1: Campaign and Journey Optimization (48%)**
 
 * Given a scenario, identify how to build a Customer Journey
 * Given a scenario, determine how to validate a Customer Journey 
 * Given a scenario about after a Journey is run, identify how to evaluate the Customer Journey
 * Given a scenario, identify when to use unitary event or business event
 
-**Section 2: Offer Decisioning**
+**Section 2: Offer Decisioning (12%)**
 
 * Identify how to create a collection of offer
 * Identify the stages of offer decisioning
@@ -125,7 +125,7 @@ Candidates should also be able to:
 * Given a scenario, identify when to use offer decisioning or personalization at scale
 * Given a scenario, differentiate between static and dynamic offers
 
-**Section 3: Content Authoring**
+**Section 3: Content Authoring (20%)**
 
 * Identify how to use asset essentials
 * Given a scenario, identify how to add personalized fields into emails
@@ -135,7 +135,7 @@ Candidates should also be able to:
 * Identify the types of fragments
 * Identify how to create an email template 
 
-**Section 4: Foundations of AEP**
+**Section 4: Foundations of AEP (20%)**
 
 * Given a scenario, determine when to use different types of data
 * Identify where to review profiles attributes and audience membership
