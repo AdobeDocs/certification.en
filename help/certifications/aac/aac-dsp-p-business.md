@@ -32,8 +32,6 @@ exl-id: 15f3e05a-4896-488c-a65d-d6e8f948c8cc
 
 ### Intended audience {#intended-audience}
 
-**Intended audience:**
-
 * Programmatic trader
 * Paid media specialist
 * Media director

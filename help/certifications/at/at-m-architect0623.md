@@ -32,6 +32,8 @@ exl-id: 50ef4855-9cf7-4a00-a6f7-1138b32a9634
 
 ### Intended audience {#intended-audience}
 
+The intended candidates for this certification include members of the following teams/organizations:
+
 * Conversion rate optimization engineer/architect
 * Personalization engineer/architect
 * Digital solutions architect
