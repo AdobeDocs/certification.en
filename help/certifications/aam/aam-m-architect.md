@@ -33,8 +33,6 @@ exl-id: 6f87f669-f3c2-4a5c-a5f3-e3e73b93cd55
 
 ### Intended audience {#intended-audience}
 
-**Intended audience:**
-
 * [!DNL Audience Manager] Consultant
 * Multi-solution Architect
 * Adobe Practice Lead

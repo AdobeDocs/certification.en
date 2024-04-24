@@ -32,6 +32,8 @@ exl-id: e907929f-b4a4-45e1-ba2d-f407f46d41c6
 
 ### Intended audience {#intended-audience}
 
+The intended candidates for this certification include members of the following teams/organizations:
+
 * Optimization
 * Personalization
 * Analytics
