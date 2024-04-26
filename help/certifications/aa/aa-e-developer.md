@@ -13,6 +13,10 @@ exl-id: d0544bc8-e8e4-4a52-ad8c-7a264de73758
 
 {{intro}}
 
+>[!NOTE]
+>
+>**New study resources available:** The [Exam Prep Guide](https://app.rockinfo.com/courses/playScorm/530) provides a tailored path through your certification exam prep process, including the in-depth study materials you'll need to be successful in attaining this certification. _If you are prompted to log in to the Exam Prep Guide, use your Adobe ID._
+
 ## Exam description {#exam-description}
 
 {{exam-description}}
@@ -141,39 +145,11 @@ Environments:
 
 {{study-materials-intro}}
 
-**Section 1: Understanding Analytics in the Adobe Experience Cloud Ecosystem**
+**Exam Prep Guide**
 
-* [Analytics Tech Notes](https://experienceleague.adobe.com/docs/analytics/technotes/home.html){target="_blank"}
-* [Setting Analytics and Experience Cloud IDs](https://experienceleague.adobe.com/docs/id-service/using/reference/analytics-reference/analytics-ids.html){target="_blank"}
-* [Analytics videos and tutorials](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html){target="_blank"}
+{{exam-prep-guide}}
 
-**Section 2: Strategy and design based on a solution design reference (SDR)**
-
-* [Manage resources](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&topicId=Content%2FResource_Mgmt%2F_manage-resources.htm&_LANG=en){target="_blank"}
-* [[!DNL Adobe Analytics] Documentation](https://experienceleague.adobe.com/docs/analytics.html)
-
-**Section 3: Analytics implementation and configuration**
-
-* [Implement [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html){target="_blank"}
-* [Understanding and creating report suites](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.html){target="_blank"}
-* [Configuring Link Tracking for [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/experience-manager-64/administering/integration/adobeanalytics-link.html){target="_blank"}
-
-**Section 4: Tag management systems**
-
-* [Tag Management](https://business.adobe.com/products/analytics/tag-management.html){target="_blank"}
-* [Tags overview](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html){target="_blank"}
-* [Overview](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/overview.html){target="_blank"}
-
-**Section 5: Mobile services**
-
-* [Implement Analytics for Mobile Devices](https://experienceleague.adobe.com/docs/analytics/implementation/mobile-device-sdk.html){target="_blank"}
-* [Migrate Mobile Services processing rules to [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/technotes/migrate-mobile.html){target="_blank"}
-
-**Section 6: Testing, validation, and troubleshooting**
-
-* [Adobe Experience Platform Debugger overview](https://experienceleague.adobe.com/docs/experience-platform/debugger/home.html){target="_blank"}
-* [Enabling, Debugging, and Customizing the [!DNL Adobe Analytics] Activity Map](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/components/activity-map/enabling-debugging-and-customizing-the-activity-map.html){target="_blank"}
-* [Optimize Analysis Workspace performance](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/workspace-faq/optimizing-performance.html){target="_blank"}
+[View Exam Prep Guide](https://app.rockinfo.com/courses/playScorm/530)
 
 <br>
 
