@@ -13,6 +13,10 @@ exl-id: 83074292-b71e-4ae1-b5e3-5645e3ad1ade
 
 {{intro}}
 
+>[!NOTE]
+>
+>**New study resources available:** The [Exam Prep Guide](https://app.rockinfo.com/courses/playScorm/532) provides a tailored path through your certification exam prep process, including the in-depth study materials you'll need to be successful in attaining this certification. _If you are prompted to log in to the Exam Prep Guide, use your Adobe ID._
+
 ## Exam description {#exam-description}
 
 {{exam-description}}
@@ -134,49 +138,11 @@ You should also have experience with the following tasks:
 
 {{study-materials-intro}}
 
-**Section 1: Analytics in the Adobe Experience Cloud ecosystem**
+**Exam Prep Guide**
 
-* [Adobe Experience Cloud Identity Service](https://experienceleague.adobe.com/docs/id-service/using/home.html){target="_blank"} 
-* [FAQs](https://experienceleague.adobe.com/docs/id-service/using/faqs/faq-intro.html){target="_blank"} 
-* [AEM 6.5 Authoring User Guide](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html){target="_blank"} 
-* [Tags overview](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html){target="_blank"} 
+{{exam-prep-guide}}
 
-**Section 2: Analytics strategy and design based on a solution design reference**
-
-* [Implement [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html){target="_blank"}
-* [Analytics Admin Guide](https://experienceleague.adobe.com/docs/analytics/admin/home.html){target="_blank"}
-* [List variables](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/conversion-variables/list-var-admin.html){target="_blank"}
-* [Merchandising eVars and product finding methods](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/conversion-variables/merchandising-evars.html){target="_blank"}
-
-**Section 3: Analytics implementation and configuration**
-
-* [Analytics Tool Guide](https://experienceleague.adobe.com/docs/analytics/analyze/home.html){target="_blank"}
-* [Quick tip – Passing Data into Launch Rules](https://webanalyticsfordevelopers.com/2018/09/18/quick-tip-passing-data-into-launch-rules/){target="_blank"}
-* [transactionID](https://experienceleague.adobe.com/docs/analytics/implementation/vars/page-vars/transactionid.html){target="_blank"}
-* [How analytics data is collected](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/analytics-basics/how-analytics-data-is-collected.html){target="_blank"}
-
-**Section 4: Tag management systems**
-
-* [Tags overview](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html){target="_blank"}
-* [Tag Management](https://business.adobe.com/products/analytics/tag-management.html){target="_blank"}
-* [Packet analyzers](https://experienceleague.adobe.com/docs/analytics/implementation/validate/packet-monitor.html){target="_blank"}
-* [Satellite object reference](https://experienceleague.adobe.com/docs/experience-platform/tags/client-side/satellite-object.html){target="_blank"}
-
-**Section 5: Mobile services and API**
-
-* [[!DNL Adobe Analytics]: Email Marketing (ESP) Integration Case Study](https://adobeexchangeec.zendesk.com/hc/en-us/articles/360003848112-Adobe-Analytics-Email-Marketing-ESP-Integration-Case-Study){target="_blank"}
-* [[!DNL Adobe Analytics] APIs](https://adobedocs.github.io/analytics-2.0-apis/#/){target="_blank"}
-* [Welcome to the enterprise and teams admin guide](https://helpx.adobe.com/enterprise/admin-guide.html){target="_blank"}
-* [Analytics Reporting API](https://experienceleague.adobe.com/docs/analytics/analyze/reporting-api.html){target="_blank"}
-* [How processing rules work](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/report-suite-general/c-processing-rules/c-processing-rules-configuration/processing-rules-about.html){target="_blank"}
-
-**Section 6: Testing, validation, and troubleshooting**
-
-* [JavaScript error reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors){target="_blank"}
-* [Analytics Tech Notes](https://experienceleague.adobe.com/docs/analytics/technotes/home.html){target="_blank"}
-* [linkDownloadFileTypes](https://experienceleague.adobe.com/docs/analytics/implementation/vars/config-vars/linkdownloadfiletypes.html){target="_blank"}
-* [Track clicked component with [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/integrations/analytics/track-clicked-component.html){target="_blank"}
-* [[!DNL Adobe Analytics] Implementation Debugging—Tools](https://www.thelearningproject.in/posts/adobe-analytics-implementation-debugging-tools/){target="_blank"}
+[View the Exam Prep Guide](https://app.rockinfo.com/courses/playScorm/532)
 
 <br>
 

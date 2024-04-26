@@ -12,6 +12,10 @@ exl-id: 48e3dc7c-0801-4f6d-853b-1fab9bb35e06
 
 {{intro}}
 
+>[!NOTE]
+>
+>**New study resources available:** The [Exam Prep Guide](https://app.rockinfo.com/courses/playScorm/533) provides a tailored path through your certification exam prep process, including the in-depth study materials you'll need to be successful in attaining this certification. _If you are prompted to log in to the Exam Prep Guide, use your Adobe ID._
+
 ## Exam description {#exam-description}
 
 {{exam-description}}
@@ -20,13 +24,13 @@ exl-id: 48e3dc7c-0801-4f6d-853b-1fab9bb35e06
 
 ### Exam details {#exam-details}
   
-* **Level:** Expert (1-3 years' experience)
-* **Passing Score:** 31/50
-* **Time:** 120 mins
-* **Delivery:** Online proctored (requires camera access)
-* **Available languages:** English, Japanese
-* **Cost:** $225 (global) / $150 (India)
-* **Exam ID:** AD0-E208 (English), AD0-E208-J (Japanese)
+* Level: Expert (1-3 years' experience)
+* Passing Score: 31/50
+* Time: 120 mins
+* Delivery: Online proctored (requires camera access)
+* Available languages: English, Japanese
+* Cost: $225 (global) / $150 (India)
+* Exam ID: AD0-E208 (English), AD0-E208-J (Japanese)
 
 <br>
 
@@ -148,36 +152,11 @@ Additionally, you should be familiar with the following technologies and environ
 
 {{study-materials-intro}}
 
-**Section 1: Business analysis**
+**Exam Prep Guide**
 
-* [Which [!DNL Adobe Analytics] tool should I use?](https://experienceleague.adobe.com/docs/analytics/analyze/admin-overview/which-analytics-tool.html){target="_blank"}
-* [[!DNL Adobe Analytics] Documentation](https://helpx.adobe.com/support/analytics.html){target="_blank"}
-* [About Data Collection](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/reporting-interface/overview-data-collection.html){target="_blank"}
-* [Analytics Data Feed overview](https://experienceleague.adobe.com/docs/analytics/export/analytics-data-feed/data-feed-overview.html){target="_blank"}
+{{exam-prep-guide}}
 
-**Section 2: Reporting and dashboarding for projects**
-
-* [Get started with Reports & Analytics](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/getting-started.html){target="_blank"}
-* [[!DNL Adobe Analytics] dashboards - Overview](https://experienceleague.adobe.com/docs/analytics/analyze/mobapp/home.html){target="_blank"}
-* [Projects overview](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/build-workspace-project/freeform-overview.html){target="_blank"}
-* [Visualizations overview](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/freeform-analysis-visualizations.html){target="_blank"}
-* [Intelligent Alerts overview](https://experienceleague.adobe.com/docs/analytics/components/alerts/alert-manager.html){target="_blank"}
-
-**Section 3: Segmentation and calculated metric**
-
-* [Analytics segmentation](https://experienceleague.adobe.com/docs/analytics/components/segmentation/seg-home.html){target="_blank"}
-* [Calculated and Advanced Calculated (Derived) Metrics](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/cm-overview.html){target="_blank"}
-
-**Section 4: General tool knowledge and troubleshooting**
-
-* [Analytics Tools Guide](https://experienceleague.adobe.com/docs/analytics/analyze/home.html){target="_blank"}
-* [Analysis Workspace Overview](https://experienceleague.adobe.com/docs/analytics/components/alerts/alert-manager.html){target="_blank"}
-
-**Section 5: Administration**
-
-* [Analytics Admin Guide](https://experienceleague.adobe.com/docs/analytics/admin/home.html){target="_blank"}
-* [Frequently asked questions](https://experienceleague.adobe.com/docs/analytics/technotes/data-governance/gdpr-faq.html){target="_blank"}
-* [Classification Rule Builder workflow](https://experienceleague.adobe.com/docs/analytics/components/classifications/classifications-rulebuilder/classification-rule-builder.html){target="_blank"}
+[View Exam Prep Guide](https://app.rockinfo.com/courses/playScorm/533)
 
 **Take a practice test**
 

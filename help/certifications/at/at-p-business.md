@@ -12,6 +12,10 @@ exl-id: e67e66a3-d3cc-4907-beb4-956940181279
 
 {{intro}}
 
+>[!NOTE]
+>
+>**New study resources available:** The [Exam Prep Guide](https://app.rockinfo.com/courses/playScorm/593) provides a tailored path through your certification exam prep process, including the in-depth study materials you'll need to be successful in attaining this certification. _If you are prompted to log in to the Exam Prep Guide, use your Adobe ID._
+
 ## Exam description {#exam-description}
 
 {{exam-description}}
@@ -121,41 +125,18 @@ You should have:
 
 {{study-materials-intro}}
 
-**Section 1: Planning and strategy**
-
-* [[!DNL Adobe Target] Business Practitioner Guide](https://experienceleague.adobe.com/docs/target/using/target-home.html){target="_blank"}
-* [[!DNL Adobe Target] Documentation](https://experienceleague.adobe.com/docs/target.html){target="_blank"}
-* [Visitor Profiles](https://experienceleague.adobe.com/docs/target/using/audiences/visitor-profiles/visitor-profile.html){target="_blank"}
-* [[!DNL Adobe Target] welcome kit](https://experienceleague.adobe.com/docs/target/using/introduction/welcome/target-welcome-kit.html){target="_blank"}
-* [Success Metrics](https://experienceleague.adobe.com/docs/target/using/activities/success-metrics/success-metrics.html){target="_blank"}
-* [Categories for audiences](https://experienceleague.adobe.com/docs/target/using/audiences/create-audiences/categories-audiences/target-rules.html){target="_blank"}
-
-**Section 2: Configuring, executing and managing**
-
-* [Visual Experience Composer (VEC))](https://experienceleague.adobe.com/docs/target/using/experiences/vec/visual-experience-composer.html){target="_blank"}
-* [[!DNL Adobe Target] welcome kit](https://experienceleague.adobe.com/docs/target/using/introduction/welcome/target-welcome-kit.html){target="_blank"}
-* [A/B Test overview](https://experienceleague.adobe.com/docs/target/using/activities/abtest/test-ab.html){target="_blank"}
-* [Create an Experience Targeting activity](https://experienceleague.adobe.com/docs/target/using/activities/experience-targeting/create-targeting/xt-create.html){target="_blank"}
-* [Multivariate Test overview](https://experienceleague.adobe.com/docs/target/using/activities/multivariate-test/multivariate-testing.html){target="_blank"}
-* [Recommendations](https://experienceleague.adobe.com/docs/target/using/recommendations/recommendations.html){target="_blank"}
-* [Create audiences](https://experienceleague.adobe.com/docs/target/using/audiences/create-audiences/audiences.html){target="_blank"}
-* [Activity QA](https://experienceleague.adobe.com/docs/target/using/activities/activity-qa/activity-qa.html){target="_blank"}
-
-**Section 3: Analyzing and reporting**
-
-* [Report settings](https://experienceleague.adobe.com/docs/target/using/reports/settings/report-settings.html){target="_blank"}
-* [A/B Test overview](https://experienceleague.adobe.com/docs/target/using/activities/abtest/test-ab.html){target="_blank"}
-
-**Section 4: Troubleshooting**
-
-* [[!DNL Adobe Target] Business Practitioner Guide](https://experienceleague.adobe.com/docs/target/using/target-home.html){target="_blank"}
-* [Adobe Experience Cloud Debugger overview](https://experienceleague.adobe.com/docs/debugger/using/experience-cloud-debugger.html){target="_blank"}
-
-<br>
 
 **Take a practice test**
 
 {{practice-test}}
+
+**Exam Prep Guide**
+
+{{exam-prep-guide}}
+
+[View Exam Prep Guide](https://app.rockinfo.com/courses/playScorm/593)
+
+<br>
 
 +++ 
 
