@@ -11,6 +11,10 @@ exl-id: 5bb372b4-6237-44f9-ac71-6093e2f0d03f
 
 {{intro}}
 
+>[!NOTE]
+>
+>**New course available:** The [Adobe Workfront Project Manager – Professional course](https://app.rockinfo.com/courses/230) includes explanations of key concepts, hands-on demonstrations, and knowledge checks. _If you are prompted to log in, use your Adobe ID._
+
 ## Exam description {#exam-description}
 
 {{exam-description}}
@@ -175,6 +179,12 @@ You should have:
 **Take a practice test**
 
 {{practice-test}}
+
+**Take a course**
+
+{{take-course}}
+
+[Take the Adobe Workfront Project Manager – Professional course](https://app.rockinfo.com/courses/230)
 
 +++ 
 
