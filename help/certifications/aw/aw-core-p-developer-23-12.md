@@ -11,6 +11,10 @@ exl-id: 960f97cf-f5bf-4a60-a4e7-c08d0c121e60
 
 {{intro}}
 
+>[!NOTE]
+>
+>**New course available:** The [Adobe Workfront Core Developer – Professional course](https://app.rockinfo.com/courses/231) includes explanations of key concepts, hands-on demonstrations, and knowledge checks. _If you are prompted to log in, use your Adobe ID._
+
 ## Exam description {#exam-description}
 
 {{exam-description}}
@@ -45,10 +49,10 @@ exl-id: 960f97cf-f5bf-4a60-a4e7-c08d0c121e60
 
 ### Minimum experience {#minimum-experience}
 
-The Adobe [!DNL Workfront] Core Developer Certified Professional has:
+While this exam does not require coding/programming knowledge, it does require at least 3 - 6 months of hands-on experience using Adobe [!DNL Workfront]
 
-* Note: While this exam does not require coding/programming knowledge.
-* At least 3 - 6 months of hands-on experience using Adobe [!DNL Workfront]
+Qualified candidates should also have:
+
 * Experience with Adobe [!DNL Workfront] functionality and connectivity through intake, approval, planning, executing, and reporting
 * In-depth understanding of Adobe [!DNL Workfront] object types, including custom forms and approval workflows, templates, durations, work effort/planned hours
 * In-depth understanding of Adobe [!DNL Workfront] Setup, including access levels, layout templates, project preferences, and other methods to achieve simplicity of end-user design
@@ -63,19 +67,19 @@ The Adobe [!DNL Workfront] Core Developer Certified Professional has:
 
 {{exam-objectives}}
 
-**Section 1: Strategy and Intake 23%**
+**Section 1: Strategy and Intake (23%)**
 
 * Use Portfolios and Programs
 * Use Request Queues
 * Use Custom Forms
 * Use Basic Approvals
 
-**Section 2: Budget and Planning 11%**
+**Section 2: Budget and Planning (11%)**
 
 * Use the Resource Planner
 * Given a scenario/set of requirements, apply the configurations to set up a project template
 
-**Section 3: User Experience 25%**
+**Section 3: User Experience (25%)**
 
 * Illustrate best practices for user management in creating the right user experience
 * Given a scenario, apply the correct set up for sharing and access rights across the system
@@ -83,13 +87,13 @@ The Adobe [!DNL Workfront] Core Developer Certified Professional has:
 * Demonstrate how to create and use timesheets
 * Describe the purpose and value of connectors, plug-ins, and add-ons
 
-**Section 4: Metrics and Reporting 16%**
+**Section 4: Metrics and Reporting (16%)**
 
 * Describe basic concepts for building, sending, and customizing reports
 * Explain how to build and customize dashboards
 * Demonstrate how to configure functional views of reports
 
-**Section 5: Execution 24%**
+**Section 5: Execution (24%)**
 
 * Demonstrate how to set up approval and proofing workflows
 * Recognize the purpose of creating an issue for a project
@@ -203,6 +207,12 @@ The Adobe [!DNL Workfront] Core Developer Certified Professional has:
 **Take a practice test**
 
 {{practice-test}}
+
+**Take a course**
+
+{{take-course}}
+
+[Take the Adobe Workfront Core Developer – Professional course](https://app.rockinfo.com/courses/231)
 
 +++ 
 
