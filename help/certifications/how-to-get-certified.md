@@ -90,7 +90,7 @@ Note: Bulk discounts cannot be combined with any other offer or discount.
 
 >[!TAB Certification vendors]
 
-The Adobe Credential team partners with vendors to help support the program's initiatives and goals.  Here are the vendors and their contact information: 
+The Adobe Digital Experience Certification Program partners with vendors to help support the program's initiatives and goals. Here are the vendors and their contact information: 
 
 | Vendor Name | Description | Support Page/Email |
 | ------- | ------- | ------- |
