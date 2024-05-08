@@ -101,7 +101,7 @@ The ideal minimally qualified candidate is an analyst with at least 6 months of 
 
 <br>
 
-+++Step 2: Prepare for your exam
++++Step 2: Prepare for your exam with our free study materials
 
 **Study Materials**
 

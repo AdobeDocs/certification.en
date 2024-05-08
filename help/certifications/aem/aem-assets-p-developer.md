@@ -133,7 +133,7 @@ Additionally, you should have experience with the following technologies and env
 
 <br>
 
-+++Step 2: Prepare for your exam
++++Step 2: Prepare for your exam with our free study materials
 
 **Take a practice test**
 

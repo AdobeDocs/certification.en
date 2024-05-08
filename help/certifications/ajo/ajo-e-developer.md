@@ -126,7 +126,7 @@ You should have at least one year experience working with various CDP and market
 
 <br>
 
-+++Step 2: Prepare for your exam
++++Step 2: Prepare for your exam with our free study materials
 
 **Study Materials**
 
