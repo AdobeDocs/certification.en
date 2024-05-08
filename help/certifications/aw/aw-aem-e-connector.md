@@ -11,6 +11,10 @@ exl-id: f00092c9-1288-447f-adcd-229cf325bc3e
 
 {{intro}}
 
+>[!NOTE]
+>
+>**New study resources available:** The [Exam Prep Guide](https://app.rockinfo.com/courses/playScorm/615) provides a tailored path through your certification exam prep process, including the in-depth study materials you'll need to be successful in attaining this certification. _If you are prompted to log in to the Exam Prep Guide, use your Adobe ID._
+
 ## Exam description {#exam-description}
 
 {{exam-description}}
@@ -111,40 +115,11 @@ And, you should have:
 
 {{study-materials-intro}}
 
-**Section 1: Technical Requirements**
+**Exam Prep Guide**
 
-* [Custom forms overview](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/custom-forms/custom-forms-overview.html){target="_blank"}
-* [Configure document integrations](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/configure-integrations/configure-document-integrations.html){target="_blank"}
-* [Understanding Multitenancy and Concurrent Development](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/deployment/multitenancy-concurrent-article-understand.html){target="_blank"}
-* [Add calculated data to a custom form with the legacy form builder](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/custom-forms/custom-form-builder/use-the-custom-form-builder/add-calculated-data-to-custom-form.html){target="_blank"}
-* [The Adobe [!DNL Workfront] Status site](https://experienceleague.adobe.com/docs/workfront/using/basics/tips-tricks-for-basics/understand-the-status-site.html){target="_blank"}
-* [Advanced troubleshooting with the Dev Tool](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/troubleshooting-and-error-handling/advanced-troubleshooting-with-the-dev-tool.html){target="_blank"}
+{{exam-prep-guide}}
 
-**Section 2: Configuration**
-
-* [Best Practice - Onboarding and adoption](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/onboarding-adoption-bp.html){target="_blank"} 
-* [Create an individual user profile](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/create-and-manage-users/create-an-individual-user-profile.html){target="_blank"}
-* [Adobe [!DNL Experience Manager Assets] integration with Adobe [!DNL Workfront]](https://experienceleague.adobe.com/docs/experience-manager-65/assets/integrations/workfront-integrations.html){target="_blank"}
-* [Metadata and keywords: metadata setup](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/workfront-dam-program/metadata-and-keywords/metadata-setup.html){target="_blank"}
-* [Install [!DNL Workfront] for [!DNL Experience Manager] enhanced connector](https://experienceleague.adobe.com/docs/experience-manager-64/assets/integrations/workfront-connector-install.html){target="_blank"}
-
-**Section 3: Business Practices**
-
-* [Develop a [!DNL Workfront] DAM strategy](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/workfront-dam-program/system-setup/analyze-and-plan-to-develop-a-workfront-dam-strategy.html){target="_blank"}
-* [Create an approval process for work items](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/approvals-milestones/create-approval-processes.html){target="_blank"}
-* [Automated Workflow overview](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/proofing-overview/automated-workflow.html){target="_blank"}
-* [Review and approve a proof](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/workfront-proof/review-and-approve-work-for-proof/review-and-approve-a-proof.html){target="_blank"}
-* [Track progress from the project timeline](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/project-timelines/track-work-progress-from-the-project-timeline.html){target="_blank"}
-* [Defining objectives for your Adobe [!DNL Workfront] implementation](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/get-started-administration/define-wf-goals-objectives.html){target="_blank"}
-
-**Section 4: Installation and Configuration of Connector** 
-
-* [Install [!DNL Workfront] for [!DNL Experience Manager] enhanced connector](https://experienceleague.adobe.com/docs/experience-manager-65/assets/integrations/workfront-connector-install.html){target="_blank"}
-* [[!DNL Workfront] enhanced connector basics](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/workfront/enhanced-connector/basics.html){target="_blank"}
-* [Configure [!DNL Workfront] for [!DNL Experience Manager] enhanced connector](https://experienceleague.adobe.com/docs/experience-manager-65/assets/integrations/workfront-connector-configure.html){target="_blank"}
-* [Adobe [!DNL Experience Manager Assets] integration with Adobe [!DNL Workfront]](https://experienceleague.adobe.com/docs/experience-manager-65/assets/integrations/workfront-integrations.html){target="_blank"}
-
-<br>
+[View Exam Prep Guide](https://app.rockinfo.com/courses/playScorm/615)
 
 **Sample questions**
 
