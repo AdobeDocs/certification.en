@@ -116,7 +116,7 @@ Adobe Journey Optimizer is powered by Experience Platform. Candidates seeking to
 
 <br>
 
-+++Step 2: Prepare for your exam
++++Step 2: Prepare for your exam with our free study materials
 
 **Study Materials**
 

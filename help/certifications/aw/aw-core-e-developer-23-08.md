@@ -146,7 +146,7 @@ You should have at least 18-24 months experience with Adobe [!DNL Workfront], an
 
 <br>
 
-+++Step 2: Prepare for your exam
++++Step 2: Prepare for your exam with our free study materials
 
 **Study Materials**
 

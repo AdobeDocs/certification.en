@@ -81,7 +81,7 @@ You should have a basic understanding of data flows, business objectives and KPI
 * Determine the appropriate structure to create traits and segments that utilize a clear and consistent nomenclature
 * Determine the correct technique to maintain an organized platform using a clear folder structure
 
-**Section 6: Profile Merge, ID Sync, and Audience Marketplace**
+**Section 6: Profile Merge, ID Sync, and Audience Marketplace (14%)**
 
 * Organize user traits into a single unified profile to create household- or device-based audiences
 * Identify activation using Audience Marketplace
@@ -100,7 +100,7 @@ You should have a basic understanding of data flows, business objectives and KPI
 
 <br>
 
-+++Step 2: Prepare for your exam
++++Step 2: Prepare for your exam with our free study materials
 
 **Study Materials**
 
