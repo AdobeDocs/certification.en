@@ -320,7 +320,7 @@ You should be currently certified (not expired) in:
 **Exam details:**
   
 * Level: Expert (3-5 years' experience)
-* Passing Score: 27/36
+* Passing Score: 23/36
 * Time: 72 mins
 * Delivery: On-demand / non-proctored
 * Available languages: English
