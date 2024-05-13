@@ -103,7 +103,7 @@ You should be an application developer and have:
 
 <br>
 
-+++Step 2: Prepare for your exam with our free study materials
++++Step 2: Prepare for your exam with these free study materials
 
 **Study Materials**
 

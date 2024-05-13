@@ -117,7 +117,7 @@ You should have a minimum of 3 months of experience in [!DNL Adobe Analytics] an
 
 <br>
 
-+++Step 2: Prepare for your exam with our free study materials
++++Step 2: Prepare for your exam with these free study materials
 
 **Study Materials**
 

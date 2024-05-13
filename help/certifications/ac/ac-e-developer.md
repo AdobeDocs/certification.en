@@ -173,7 +173,7 @@ You should have at least 1-3 years of experience with Adobe [!DNL Commerce] deve
 
 <br>
 
-+++Step 2: Prepare for your exam with our free study materials
++++Step 2: Prepare for your exam with these free study materials
 
 **Study Materials**
 

@@ -119,7 +119,7 @@ The AD0-E600 exam validates skills and knowledge covering the basic features and
 
 <br>
 
-+++Step 2: Prepare for your exam with our free study materials
++++Step 2: Prepare for your exam with these free study materials
 
 **Study Materials**
 
@@ -259,7 +259,7 @@ Section 3: Destinations (27%)
 
 <br>
 
-+++Step 2: Prepare for your exam with our free study materials
++++Step 2: Prepare for your exam with these free study materials
 
 **Study Materials**
 

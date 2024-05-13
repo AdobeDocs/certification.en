@@ -146,7 +146,7 @@ Additionally, you should be familiar with the following technologies and environ
 
 <br>
 
-+++Step 2: Prepare for your exam with our free study materials
++++Step 2: Prepare for your exam with these free study materials
 
 **Study Materials**
 

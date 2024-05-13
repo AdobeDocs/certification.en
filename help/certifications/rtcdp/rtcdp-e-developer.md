@@ -49,18 +49,18 @@ exl-id: 8b462656-09d0-49c9-a45e-eb57e29400df
 You should have:
 
 * Understanding of segment evaluation differences (stream, batch, edge)
-* Understanding of use cases for APIs (how to build developer project, how auth works)
+* Understanding of use cases for APIs (how to build a developer project, how auth works)
 * Understanding of identity service
 * Understanding of dataflow
 * Understanding of Adobe I/O
 * Understanding of how relationships work
 * Ability to build a data model (Schema, Identity, Relationships) for Customer use case
 * Ability to strategize to Merge the data based on Merge Policy
-* Understanding of how to determine the correct way of Data Labelling, Policy Enforcement and Privacy Services
+* Understanding of how to determine the correct way of Data Labeling, Policy Enforcement and Privacy Services
 * Familiarity with data ingestion pattern limits
 * Understanding destinations and which to use
 * Understanding of the edge data collection framework
-* Ability to determine which AEP Permissions need to be configured (i.e. attribute level permissions) (make recommendations to clients)
+* Ability to determine which AEP Permissions need to be configured (that is, attribute level permissions) (make recommendations to clients)
 * Basic understanding of query service use cases
 * Basic understanding of sources/destinations SDK
 
@@ -94,7 +94,7 @@ You should be comfortable in these environments:
 * Describe how profile assembly works
 * Describe how the Identity Graph works
 * Describe Profile Composition 
-* Differeniate between edge vs. hub profile
+* Differentiate between edge vs. hub profile
 
 **Data Ingestion (13%)**
 
@@ -106,7 +106,7 @@ You should be comfortable in these environments:
 
 * Describe different ways to build audiences & segments within the CDP
 * Explain the various segmentation types and how they operate
-* Demonstrate an understanding of how to apply use case(s) to segment/audience activation
+* Demonstrate an understanding of how to apply use cases to segment/audience activation
 
 **Activation (12%)**
 
@@ -140,7 +140,7 @@ You should be comfortable in these environments:
 
 <br>
 
-+++Step 2: Prepare for your exam with our free study materials
++++Step 2: Prepare for your exam with these free study materials
 
 **Study Materials**
 
