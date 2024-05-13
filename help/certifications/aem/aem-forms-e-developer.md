@@ -14,7 +14,7 @@ exl-id: 6b7fa868-69f3-49b4-934e-87cf86538039
 
 >[!NOTE]
 >
->**New study resources available:** The [Exam Prep Guide](https://app.rockinfo.com/courses/playScorm/372) provides a tailored path through your certification exam prep process, including the in-depth study materials you'll need to be successful in attaining this certification. _If you are prompted to log in to the Exam Prep Guide, use your Adobe ID._
+>**New study resources available:** The [Exam Prep Guide](https://app.rockinfo.com/courses/playScorm/372) provides a tailored path through your certification exam prep process, including the in-depth study materials you need to be successful in attaining this certification. _If you are prompted to log in to the Exam Prep Guide, use your Adobe ID._
 
 ## Exam description {#exam-description}
 
@@ -47,7 +47,7 @@ exl-id: 6b7fa868-69f3-49b4-934e-87cf86538039
 
 You should have:
 
-* 1-3 years' of experience with AEM Forms
+* 1-3 years of experience with AEM Forms
 * At least 5 years of work experience in the IT industry
 * The ability to lead the development, configuration, testing, and deployment of customized forms solutions
 * The ability to configure a form, translate business requirements into workflows, integrate with external systems
@@ -67,7 +67,7 @@ Additionally, you should be familiar with the following technologies and environ
 * Ability to integrate with data services
 * Workflow implementation
 * Basic understanding of AEM forms workbench (JEE) to create long live - short live processes and services.
-* Develop javascript clientlibs using GuideBridge API
+* Develop JavaScript clientlibs using GuideBridge API
 * Based on sign v government CAC know which AEM Forms environment desktop or server based to use
 * Basic understanding of Java/J2EE and JavaScript to write logic and call different services.
 * Prefill an adaptive form
@@ -90,7 +90,7 @@ Additionally, you should be familiar with the following technologies and environ
 * Build Forms
 * Configure Forms Data Model
 * Customize AEM Forms
-* Develop and use Javascript ClientLib leveraging GuideBridge API
+* Develop and use JavaScript ClientLib leveraging GuideBridge API
 
 **Section 2: Processes and workflows (34%)**
 

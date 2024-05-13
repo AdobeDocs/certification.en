@@ -49,7 +49,9 @@ You should have:
 * 1-2 years of experience in the field of marketing technology
 * 3-6 months of experience with audience activation
 * Experience with Boolean logic, digital marketing jargon, data analytics and strategies
-* Knowledge of business objectives and KPIs, familiarity with digital marketing technology stacks and various platform integrations, and an understanding of data flows (ID types, ID syncs, pixel tracking, people-based destinations)
+* Knowledge of business objectives and KPIs
+* Familiarity with digital marketing technology stacks and various platform integrations
+* An understanding of data flows (ID types, ID syncs, pixel tracking, people-based destinations)
 
 You should be familiar with the following technologies and environments:
 
@@ -57,7 +59,7 @@ Technologies:
 
 * DSP Platform (Trade Desk, Double Click Bid Manager, and so on)
 * Excel
-* Tableau and similar tools (PowerBI, Qlik)
+* Tableau and similar tools (Power BI, Qlik)
 * Ad Server (Double Click Campaign Manager)
 * Adobe/Google Analytics
 * Adobe Experience Platform

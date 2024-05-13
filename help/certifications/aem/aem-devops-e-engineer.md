@@ -14,7 +14,7 @@ exl-id: 9cfb51b0-9ab8-46fb-a111-434c13e4affa
 
 >[!NOTE]
 >
->**New study resources available:** The [Exam Prep Guide](https://app.rockinfo.com/courses/playScorm/370) provides a tailored path through your certification exam prep process, including the in-depth study materials you'll need to be successful in attaining this certification. _If you are prompted to log in to the Exam Prep Guide, use your Adobe ID._
+>**New study resources available:** The [Exam Prep Guide](https://app.rockinfo.com/courses/playScorm/370) provides a tailored path through your certification exam prep process, including the in-depth study materials you need to be successful in attaining this certification. _If you are prompted to log in to the Exam Prep Guide, use your Adobe ID._
 
 ## Exam description {#exam-description}
 
@@ -43,7 +43,7 @@ exl-id: 9cfb51b0-9ab8-46fb-a111-434c13e4affa
 * Solution architects
 * Individuals in partner organizations and freelancers who perform an analyst job role for AEM solutions
 * Marketing specialists who know the features and capabilities needed to engage developers to define a solution for business needs
-* Customers who use the product (i.e., power users)
+* Customers who use the product (that is, power users)
 
 <br>
 
@@ -51,7 +51,7 @@ exl-id: 9cfb51b0-9ab8-46fb-a111-434c13e4affa
 
 You should have: 
 
-* At least 1-3 years' of experience using and configuring Adobe Cloud Manager
+* At least 1-3 years of experience using and configuring Adobe Cloud Manager
 * At least two years of experience configuring, implementing, and managing Continuous Integration/Continuous Deployment tasks
 
 You should be comfortable working in Adobe Managed Services and Adobe Experience Manager as a Cloud Service, and are able to set up Adobe Experience Manager environments and infrastructure.

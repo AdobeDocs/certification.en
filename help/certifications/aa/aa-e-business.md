@@ -14,7 +14,7 @@ exl-id: 48e3dc7c-0801-4f6d-853b-1fab9bb35e06
 
 >[!NOTE]
 >
->**New study resources available:** The [Exam Prep Guide](https://app.rockinfo.com/courses/playScorm/533) provides a tailored path through your certification exam prep process, including the in-depth study materials you'll need to be successful in attaining this certification. _If you are prompted to log in to the Exam Prep Guide, use your Adobe ID._
+>**New study resources available:** The [Exam Prep Guide](https://app.rockinfo.com/courses/playScorm/533) provides a tailored path through your certification exam prep process, including the in-depth study materials you need to be successful in attaining this certification. _If you are prompted to log in to the Exam Prep Guide, use your Adobe ID._
 
 ## Exam description {#exam-description}
 
@@ -42,10 +42,10 @@ exl-id: 48e3dc7c-0801-4f6d-853b-1fab9bb35e06
 * Data analysts
 * Web analysts
 * Digital analysts
-* Media / marketing analysts
+* Media/marketing analysts
 * Product owners and managers
 * UI analysts
-* Conversion / optimization specialists
+* Conversion/optimization specialists
 
 <br>
 
@@ -53,16 +53,16 @@ exl-id: 48e3dc7c-0801-4f6d-853b-1fab9bb35e06
 
 You should have:
 
-* 2 years' experience in digital analytics with a marketing background 
-* An in-depth understanding of digital analytics metrics and dimensions
-* An understanding the business value of web technologies
+* 2 years' experience in Digital Analytics with a marketing background 
+* An in-depth understanding of Digital Analytics metrics and dimensions
+* An understanding of the business value of web technologies
 * The ability to translate business requirements into metrics or KPIs
 * The ability to build and interpret reports
 * The ability to communicate results and can propose a course of action based on analysis of reports
 * Helped clients understand how to extract/pull the information they want (for example, help them define their business questions)
 * An understanding how the technology works and understands a client's implementation (for example, where the data sits, how it can be collected, how it is tracked) from a functional standpoint
 * At least one year of [!DNL Adobe Analytics] hands-on experience
-* A basic understanding of how digital analytics is filtering/structuring data
+* A basic understanding of how Digital Analytics is filtering/structuring data
 * An awareness of the integration of [!DNL Adobe Analytics] with other Adobe solutions
 
 Additionally, you should be familiar with the following technologies and environments:
@@ -70,7 +70,7 @@ Additionally, you should be familiar with the following technologies and environ
 * FTP client
 * Current [!DNL Adobe Analytics] Workspace features and other reporting options outside of Workspace (ex. schedule projects and schedule reports)
 * Debugging tools relevant to [!DNL Adobe Analytics] (Packet monitor such as an Adobe Debugger, browser developer tools, Charles)
-* Admin console (Analytics Reports Suite Admin console and Experience Cloud Admin console)
+* Admin Console (Analytics Reports Suite Admin Console and Experience Cloud Admin Console)
 * Adobe Launch fundamentals/basics
 * Apps, SPA, basic website understanding
 * Mobile services UI

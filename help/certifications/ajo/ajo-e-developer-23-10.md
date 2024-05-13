@@ -48,7 +48,7 @@ exl-id: 61fa61d8-f08c-4198-aafc-1dda9e4aab87
 * RTCDP segmentation specialist
 * Campaign architect
 * Customer Journey specialist
-* Mobile developer / Web developer
+* Mobile developer/Web developer
 
 <br>
 
@@ -74,10 +74,10 @@ Adobe Journey Optimizer is powered by Experience Platform. Candidates seeking to
 
 **Section 2: Journey Orchestration (22%)**
 
-* Given a scenario, target customers on a multi-channel/ multi-step journey
+* Given a scenario, target customers on a multi-channel/multi-step journey
 * Interpret reports and debug performance metrics
 * Given a scenario, determine the appropriate use cases for a journey type
-* Prepare test cases (e.g. experimentation or multi-channel journey)
+* Prepare test cases (for example, experimentation or multi-channel journey)
 
 **Section 3: Offer Decisioning (16%)**
 

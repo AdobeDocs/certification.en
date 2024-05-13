@@ -46,7 +46,7 @@ You should have:
 * At least one year of Adobe [!DNL Campaign Classic] software experience
 * At least one year of combined experience in JavaScript programming, SQL development including ETL, and web technologies (XML, HTML and web services)
 * A basic understanding of marketing automation
-* An understanding relational database concepts
+* An understanding of relational database concepts
 
 <br>
 

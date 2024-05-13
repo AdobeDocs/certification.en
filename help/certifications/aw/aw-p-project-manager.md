@@ -17,7 +17,7 @@ exl-id: 5bb372b4-6237-44f9-ac71-6093e2f0d03f
 >
 >* **Course:** The [Adobe Workfront Project Manager – Professional course](https://app.rockinfo.com/courses/230) includes explanations of key concepts, hands-on demonstrations, and knowledge checks.
 >
->* **Exam Prep Guide:** The [Exam Prep Guide](https://app.rockinfo.com/courses/playScorm/609) provides a tailored path through your exam prep process, including the in-depth study materials you'll need to be successful on your exam.
+>* **Exam Prep Guide:** The [Exam Prep Guide](https://app.rockinfo.com/courses/playScorm/609) provides a tailored path through your exam prep process, including the in-depth study materials you need to be successful on your exam.
 >
 >_If you are prompted to log in, use your Adobe ID._
 
@@ -55,7 +55,7 @@ exl-id: 5bb372b4-6237-44f9-ac71-6093e2f0d03f
 
 You should have:
 
-* An understanding about work process from an initial work request through completion or has had exposure to project or work management
+* An understanding of work process from an initial work request through completion or has had exposure to project or work management
 * Completed self-guided training or bootcamp or have been a [!DNL Workfront] user for 6-12 months so they understand basic functionality
 * An understanding of how to configure, track, and monitor report data
 

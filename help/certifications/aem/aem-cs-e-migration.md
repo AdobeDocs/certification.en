@@ -14,7 +14,7 @@ exl-id: 64b53064-8280-405b-a5f7-b50264394b82
 
 >[!NOTE]
 >
->**New study resources available:** The [Exam Prep Guide](https://app.rockinfo.com/courses/playScorm/373) provides a tailored path through your certification exam prep process, including the in-depth study materials you'll need to be successful in attaining this certification. _If you are prompted to log in to the Exam Prep Guide, use your Adobe ID._
+>**New study resources available:** The [Exam Prep Guide](https://app.rockinfo.com/courses/playScorm/373) provides a tailored path through your certification exam prep process, including the in-depth study materials you need to be successful in attaining this certification. _If you are prompted to log in to the Exam Prep Guide, use your Adobe ID._
 
 ## Exam description {#exam-description}
 
@@ -53,7 +53,7 @@ You should have:
 * An understanding of the overall changes to the architecture and features when moving from any AEM service (self-managed, AMS or any third-party cloud) to AEM as a Cloud Service. 
 * 1-3 years of web application development experience using Adobe [!DNL Experience Manager]
 * Hands on experience using AEM Forms, Assets, and Sites
-* The ability to guide customers through the migration process advising and participating in all phases of an AEM project 
+* The ability to guide customers through the migration process, advising and participating in all phases of an AEM project 
 
 Additionally, you should be familiar with the following technologies and environments:
 
@@ -99,7 +99,7 @@ Additionally, you should be familiar with the following technologies and environ
 
 **Section 3: Deployment (16%)**
 
-* Configure Cloud Manager pipelines and tie the to environments
+* Configure Cloud Manager pipelines and tie to the environments
 * Provision AEMaaCS environments (dev, stage, prod - author, publish, preview)
 * Manage the deployment process with the help of Adobe IO CLI
 
@@ -113,7 +113,7 @@ Additionally, you should be familiar with the following technologies and environ
 
 **Section 5: Implementation (16%)**
 
-* Merge multiple projects into single project to be deployed through Adobe pipeline
+* Merge multiple projects into a single project to be deployed through Adobe pipeline
 * Manage repointit scripts for user/group permission
 * Set up local SDKs
 * Update configurations based on runmodes available on AEM as a Cloud Service

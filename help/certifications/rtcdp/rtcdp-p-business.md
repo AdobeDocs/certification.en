@@ -17,9 +17,9 @@ exl-id: 3b970c7a-177c-4bf6-bf0b-4ea2f78bdcd2
 >
 >Free, on-demand resources are now available to help you prepare for your exam:
 >
->* **Course:** If you're just starting out, or need a refresher, take our [Adobe Experience Platform Foundations Course](https://app.rockinfo.com/courses/216) to access explanations of key concepts, product walk-throughs, and knowledge checks. This course will provide a basis of knowledge you can build on in your certification journey.
+>* **Course:** If you're just starting out, or need a refresher, take our [Adobe Experience Platform Foundations Course](https://app.rockinfo.com/courses/216) to access explanations of key concepts, product walk-throughs, and knowledge checks. This course provides a basis of knowledge you can build on in your certification journey.
 >
->* **Exam Prep Guide:** The [Exam Prep Guide](https://app.rockinfo.com/courses/playScorm/377) provides a tailored path through your certification exam prep process, including the in-depth study materials you'll need to be successful in attaining this certification.
+>* **Exam Prep Guide:** The [Exam Prep Guide](https://app.rockinfo.com/courses/playScorm/377) provides a tailored path through your certification exam prep process, including the in-depth study materials you need to be successful in attaining this certification.
 >
 >_If you are prompted to log in, use your Adobe ID._
 
@@ -95,7 +95,7 @@ Experience with tasks that include:
 
 **Section 3: Business analysis (30%)**
 
-* Identify use cases which tie back to business KPIs
+* Identify use cases that tie back to business KPIs
 * Perform data analysis on customer segments in platform
 * Demonstrate an understanding of data flow concepts
 

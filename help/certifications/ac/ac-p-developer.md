@@ -18,7 +18,7 @@ exl-id: 5dc85678-91f9-4865-b310-3460081b19f8
 >
 >* **Courses:** Take the [Adobe Commerce Developer Professional Course](https://app.rockinfo.com/courses/92) that includes explanations of key concepts, hands-on demonstrations, and knowledge checks. If you're just starting out, the [Adobe Commerce Foundations Course](https://app.rockinfo.com/courses/148) provides a basis of knowledge you can build on in your certification journey.
 >
->* **Exam Prep Guide:** The [Exam Prep Guide](https://app.rockinfo.com/courses/playScorm/382) provides a tailored path through your exam prep process, including the in-depth study materials you'll need to be successful on your exam.
+>* **Exam Prep Guide:** The [Exam Prep Guide](https://app.rockinfo.com/courses/playScorm/382) provides a tailored path through your exam prep process, including the in-depth study materials you need to be successful on your exam.
 >
 >If you are prompted to log in, use your Adobe ID.
 
@@ -140,7 +140,7 @@ Additionally, you should be familiar with the following technologies and environ
 * Recognize basic knowledge of cloud user management and onboarding UI
 * Describe environment Management using UI
 * Describe branching using UI
-* Identify Adobe commerce Cloud Plan capabilities
+* Identify Adobe Commerce Cloud Plan capabilities
 
 **Section 9: [!DNL Commerce] Cloud CLI tool (Managing part) (6%)**
 

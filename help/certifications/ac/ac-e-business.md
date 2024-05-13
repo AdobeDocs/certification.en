@@ -15,8 +15,7 @@ exl-id: 1f44f543-4303-43b8-a42e-431f504d7a03
 
 >[!NOTE]
 >
->**New study resources available:** The [Exam Prep Guide](https://app.rockinfo.com/courses/playScorm/386) provides a tailored path through your certification exam prep process, including the in-depth study materials you'll need to be successful in attaining this certification. _If you are prompted to log in to the Exam Prep Guide, use your Adobe ID._
-
+>**New study resources available:** The [Exam Prep Guide](https://app.rockinfo.com/courses/playScorm/386) provides a tailored path through your certification exam prep process, including the in-depth study materials you need to be successful in attaining this certification. _If you are prompted to log in to the Exam Prep Guide, use your Adobe ID._
 
 ## Exam description {#exam-description}
 
@@ -82,10 +81,10 @@ Additionally, you should be comfortable using the following technologies:
 * Determine how to utilize product types and their features to meet customer requirements
 * Interpret requirements and mock ups to determine if they can be met with native functionality
 * Demonstrate knowledge of the admin panel and the location of common features
-* Demonstrate the ability import/export Adobe [!DNL Commerce] entities
+* Demonstrate the ability to import/export Adobe [!DNL Commerce] entities
 * Understand how to natively configure cart and checkout
 * Evaluate the native available shipping methods in Adobe [!DNL Commerce] and how they apply to common use cases
-* Understanding the ways to create and publish stylized content using the Adobe [!DNL Commerce] CMS features including PageBuilder
+* Understanding the ways to create and publish stylized content using the Adobe [!DNL Commerce] CMS features including Page Builder
 * Using native tools to manage the order life cycle
 * Demonstrate the ability to configure the various gifting options (gift cards, gift wrapping, give messages)
 * Configuring and modifying transactional emails
@@ -122,7 +121,7 @@ Additionally, you should be comfortable using the following technologies:
 **Section 6: Compliance/Security (12%)**
 
 * Demonstrate how to secure the Adobe [!DNL Commerce] data access with roles and permissions
-* Understand basics of compliance for privacy laws and payment security
+* Understand the basics of compliance for privacy laws and payment security
 * Explain common security aspects of an Adobe [!DNL Commerce] project
 * Understand the basics of tax laws and how to configure
 

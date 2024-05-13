@@ -15,7 +15,7 @@ exl-id: 594503d8-2064-4b05-ba09-9569e6ef9fc7
 
 >[!NOTE]
 >
->**New study resources available:** The [Exam Prep Guide](https://app.rockinfo.com/courses/playScorm/388) provides a tailored path through your certification exam prep process, including the in-depth study materials you'll need to be successful in attaining this certification. _If you are prompted to log in to the Exam Prep Guide, use your Adobe ID._
+>**New study resources available:** The [Exam Prep Guide](https://app.rockinfo.com/courses/playScorm/388) provides a tailored path through your certification exam prep process, including the in-depth study materials you need to be successful in attaining this certification. _If you are prompted to log in to the Exam Prep Guide, use your Adobe ID._
 
 ## Exam description {#exam-description}
 
@@ -76,7 +76,7 @@ Additionally, you should be very familiar with the following activities and tech
 * Aware of best coding standard practice, Coding standards, PSR, SOLID principle
 * Set up and use [!DNL Adobe Commerce] Services Connector (and associated services)
 * Staging content management
-* Understanding [!DNL Adobe Commerce] defaults, when its' available and not available
+* Understanding [!DNL Adobe Commerce] defaults, when it is available and not available
 * Broad grasp of any related [!DNL Adobe Commerce] domain
 * Design project architecture
 * Optimize performance of [!DNL Adobe Commerce] default

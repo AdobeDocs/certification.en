@@ -18,7 +18,7 @@ exl-id: c7508746-d709-46d8-8a1e-4b16e5020f96
 >
 >* **Course:** Take a [training course](https://app.rockinfo.com/courses/105) that includes explanations of key concepts, hands-on demonstrations, and knowledge checks.
 >
->* **Exam Prep Guide:** The [Exam Prep Guide](https://app.rockinfo.com/courses/playScorm/381) provides a tailored path through your exam prep process, including the in-depth study materials you'll need to be successful on your exam.
+>* **Exam Prep Guide:** The [Exam Prep Guide](https://app.rockinfo.com/courses/playScorm/381) provides a tailored path through your exam prep process, including the in-depth study materials you need to be successful on your exam.
 >
 >If you are prompted to log in, use your Adobe ID.
 
@@ -64,10 +64,10 @@ You should be an application developer and have:
 
 **Section 1: Configurations (26%)**
 
-* Recognize the purpose of AEM dispatcher configurations and caching
+* Recognize the purpose of AEM Dispatcher configurations and caching
 * Determine the correct steps to configure multi-site in AEM
 * Explain how to create and manage OSGi configurations
-* Determine the correct steps to to manage custom OAK indices
+* Determine the correct steps to manage custom Oak indices
 * Determine the correct steps to configure OOTB SAML or IMS integration
 
 **Section 2: AEM development (40%)**

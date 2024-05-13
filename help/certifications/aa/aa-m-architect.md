@@ -15,7 +15,7 @@ exl-id: 5f9c77bb-506d-46eb-8625-8fd2dbce1be5
 
 >[!NOTE]
 >
->**New study resources available:** The [Exam Prep Guide](https://app.rockinfo.com/courses/playScorm/541) provides a tailored path through your certification exam prep process, including the in-depth study materials you'll need to be successful in attaining this certification. _If you are prompted to log in to the Exam Prep Guide, use your Adobe ID._
+>**New study resources available:** The [Exam Prep Guide](https://app.rockinfo.com/courses/playScorm/541) provides a tailored path through your certification exam prep process, including the in-depth study materials you need to be successful in attaining this certification. _If you are prompted to log in to the Exam Prep Guide, use your Adobe ID._
 
 ## Exam description {#exam-description}
 
@@ -70,7 +70,7 @@ Additionally, you're responsible for translating business requirements into trac
 
 * Demonstrate ability to audit sites
 * Investigate client needs to build business requirements
-* Given a scenario, create measurement framework
+* Given a scenario, create a measurement framework
 
 **Section 2: Solution design (54%)**
 

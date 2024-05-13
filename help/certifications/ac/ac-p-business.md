@@ -18,7 +18,7 @@ exl-id: f99b2abd-c67f-44c2-a04b-f1c7077fbac3
 >
 >* **Courses**: Take the [Adobe Commerce Business Practitioner Professional Course](https://app.rockinfo.com/courses/105) for explanations of key concepts, hands-on demonstrations, and knowledge checks. If you're just starting out, the [Adobe Commerce Foundations Course](https://app.rockinfo.com/courses/148) provides a basis of knowledge you can build on in your certification journey.
 >
->* **Exam Prep Guide:** The [Exam Prep Guide](https://app.rockinfo.com/courses/playScorm/383) provides a tailored path through your certification exam prep process, including the in-depth study materials you'll need to be successful in attaining this certification.
+>* **Exam Prep Guide:** The [Exam Prep Guide](https://app.rockinfo.com/courses/playScorm/383) provides a tailored path through your certification exam prep process, including the in-depth study materials you need to be successful in attaining this certification.
 >
 >_If you are prompted to log in, use your Adobe ID._
 
@@ -96,13 +96,13 @@ Additionally, you should have a basic understanding of the eCommerce experience,
 
 * Identify the basic uses of Digital Marketing tools (Google Analytics/Adobe Analytics, Google Tag Manager, Email marketing, Segmentation, Social plugins)
 * Explain the basic principles of SEO
-* Identify the basic uses of common eCommerce tools (i.e., such as shopping feeds)
+* Identify the basic uses of common eCommerce tools (such as shopping feeds)
 * Identify the key features of an eCommerce website
 * Identify the basic eCommerce concepts (including storefront options)
 
 **Section 4: Compliance/security basics (13%)**
 
-* Understand basics of compliance for privacy laws and payment security
+* Understand the basics of compliance for privacy laws and payment security
 * Identify common security aspects of an Adobe [!DNL Commerce] project
 * Identify best practices and legal requirements of accessibility compliance
 

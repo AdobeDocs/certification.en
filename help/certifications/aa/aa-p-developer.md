@@ -15,7 +15,7 @@ exl-id: 83074292-b71e-4ae1-b5e3-5645e3ad1ade
 
 >[!NOTE]
 >
->**New study resources available:** The [Exam Prep Guide](https://app.rockinfo.com/courses/playScorm/532) provides a tailored path through your certification exam prep process, including the in-depth study materials you'll need to be successful in attaining this certification. _If you are prompted to log in to the Exam Prep Guide, use your Adobe ID._
+>**New study resources available:** The [Exam Prep Guide](https://app.rockinfo.com/courses/playScorm/532) provides a tailored path through your certification exam prep process, including the in-depth study materials you need to be successful in attaining this certification. _If you are prompted to log in to the Exam Prep Guide, use your Adobe ID._
 
 ## Exam description {#exam-description}
 
@@ -53,14 +53,14 @@ You should have:
 
 You should also have experience with the following tasks:
 
-* Interpreting a Solutions Design Document (SDR) and understand the purpose of all [!DNL Adobe Analytics] variables collected
+* Interpreting a Solutions Design Document (SDR) and understanding the purpose of all [!DNL Adobe Analytics] variables collected
 * Understanding and work with Adobe (Experience Platform) Launch
 * Understanding configuration of baseline [!DNL Adobe Analytics] dimensions and events Page Name, Link Name, Activity Map, and so on, but will work with expert developers for more customer implementations - Variable mapping is still owned by Expert level developers
 * Creating and configuring rules within Launch following the design provided by an AA expert
 * Testing and validating the data being captured in variable and events firing by leveraging web console debuggers or mobile app systems like charles logs
 * Understanding what a data layer is and knows how to read a JavaScript object
 * Sharing reports, segments, and the process to request access, but not how to manage user groups, governance protocols, as well as manage the SDR
-* Providing guidance and configure mobile/SDK solution
+* Providing guidance and configuring mobile/SDK solution
 * Understanding general framework behind Video tracking (event-based) given knowledge base documentation
 * Performing basic reporting from Analysis Workspace and understanding the data outputs available from the [!DNL Adobe Analytics] Data Warehouse
 * Basic experience with Adobe Experience Platform Launch (Adobe Launch) 
@@ -75,9 +75,9 @@ You should also have experience with the following tasks:
 
 * Identify features and capability of Adobe Experience Cloud ID.
 * Identify uses for Adobe Launch.
-* Identify how to enable / support [!DNL Adobe Analytics] tags in the Adobe Experience Cloud Eco-system.
+* Identify how to enable/support [!DNL Adobe Analytics] tags in the Adobe Experience Cloud Eco-system.
 
-**Section 2: Analytics Strategy and Design based on a SDR (12%)**
+**Section 2: Analytics Strategy and Design based on an SDR (12%)**
 
 * Given a Solution Design Reference, identify which data objects have to be populated.
 * Given a part of a Tech Spec document, identify how to implement the data capture.

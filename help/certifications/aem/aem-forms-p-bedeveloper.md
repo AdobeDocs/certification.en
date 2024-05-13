@@ -14,7 +14,7 @@ exl-id: 7d265887-c32f-4931-ba80-40ffde12df51
 
 >[!NOTE]
 >
->**New study resources available:** The [Exam Prep Guide](https://app.rockinfo.com/courses/playScorm/367) provides a tailored path through your certification exam prep process, including the in-depth study materials you'll need to be successful in attaining this certification. _If you are prompted to log in to the Exam Prep Guide, use your Adobe ID._
+>**New study resources available:** The [Exam Prep Guide](https://app.rockinfo.com/courses/playScorm/367) provides a tailored path through your certification exam prep process, including the in-depth study materials you need to be successful in attaining this certification. _If you are prompted to log in to the Exam Prep Guide, use your Adobe ID._
 
 ## Exam description {#exam-description}
 
@@ -80,7 +80,7 @@ You should be familiar with the following technologies and environments:
 * Given a scenario, identify steps needed to build AEM Forms
 * Describe Forms Data Model
 * Identify steps to customize AEM Forms
-* Given a scenario, identify steps to use Javascript ClientLib leveraging GuideBridge API
+* Given a scenario, identify steps to use JavaScript ClientLib leveraging GuideBridge API
 
 **Section 2: Processes and workflows (34%)**
 

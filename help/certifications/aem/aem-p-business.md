@@ -14,7 +14,7 @@ exl-id: 83ee013f-aa37-409b-8bcb-385be6962b26
 
 >[!NOTE]
 >
->**New study resources available:** The [Exam Prep Guide](https://app.rockinfo.com/courses/playScorm/366) provides a tailored path through your certification exam prep process, including the in-depth study materials you'll need to be successful in attaining this certification. _If you are prompted to log in to the Exam Prep Guide, use your Adobe ID._
+>**New study resources available:** The [Exam Prep Guide](https://app.rockinfo.com/courses/playScorm/366) provides a tailored path through your certification exam prep process, including the in-depth study materials you need to be successful in attaining this certification. _If you are prompted to log in to the Exam Prep Guide, use your Adobe ID._
 
 ## Exam description {#exam-description}
 
@@ -46,9 +46,9 @@ exl-id: 83ee013f-aa37-409b-8bcb-385be6962b26
 
 You should have:
 
-* At least 0-12 months' of experience using and configuring Adobe Cloud Manager
-* At least 0-12 months' of experience with AEM features and capabilities needed to engage developers to find business solutions
-* At least 0-12 months' of experience configuring, implementing, and managing Continuous Integration/Continuous Deployment tasks 
+* At least 0-12 months of experience using and configuring Adobe Cloud Manager
+* At least 0-12 months of experience with AEM features and capabilities needed to engage developers to find business solutions
+* At least 0-12 months of experience configuring, implementing, and managing Continuous Integration/Continuous Deployment tasks 
 
 You should be comfortable working in Adobe Managed Services and Adobe [!DNL Experience Manager] as a Cloud Service, and are able to set up Adobe [!DNL Experience Manager] environments and infrastructure.
 

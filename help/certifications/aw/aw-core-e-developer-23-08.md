@@ -13,7 +13,7 @@ exl-id: dc74de79-c945-47a4-a13b-e027182919a5
 
 >[!NOTE]
 >
->**New study resources available:** The [Exam Prep Guide](https://app.rockinfo.com/courses/playScorm/611) provides a tailored path through your certification exam prep process, including the in-depth study materials you'll need to be successful in attaining this certification. _If you are prompted to log in to the Exam Prep Guide, use your Adobe ID._
+>**New study resources available:** The [Exam Prep Guide](https://app.rockinfo.com/courses/playScorm/611) provides a tailored path through your certification exam prep process, including the in-depth study materials you need to be successful in attaining this certification. _If you are prompted to log in to the Exam Prep Guide, use your Adobe ID._
 
 ## Exam description {#exam-description}
 
@@ -108,7 +108,7 @@ You should have at least 18-24 months experience with Adobe [!DNL Workfront], an
 **Section 6: Methodology / best practices / use cases (22%)**
 
 * Given a scenario within [!DNL Workfront], demonstrate functionality for setting up tracking of deliverables that are part of a single campaign.    
-* Given a scenario within [!DNL Workfront], demonstrate functionality around strategic prioritization and justification of work .    
+* Given a scenario within [!DNL Workfront], demonstrate functionality around strategic prioritization and justification of work.    
 * Given a scenario within [!DNL Workfront], demonstrate functionality around financials, utilization, forecasting, billing rates/records    
 * Given a scenario within [!DNL Workfront], demonstrate functionality around setting up workflow and approvals.    
 * Given a scenario, recommend a framework for governance around system administration when expanding a client's instance.    

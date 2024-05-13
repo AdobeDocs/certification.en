@@ -14,7 +14,7 @@ exl-id: 0b533269-0826-4921-a539-d281c74da63d
 
 >[!NOTE]
 >
->**New study resources available:** The [Exam Prep Guide](https://app.rockinfo.com/courses/playScorm/410) provides a tailored path through your certification exam prep process, including the in-depth study materials you'll need to be successful in attaining this certification. _If you are prompted to log in to the Exam Prep Guide, use your Adobe ID._
+>**New study resources available:** The [Exam Prep Guide](https://app.rockinfo.com/courses/playScorm/410) provides a tailored path through your certification exam prep process, including the in-depth study materials you need to be successful in attaining this certification. _If you are prompted to log in to the Exam Prep Guide, use your Adobe ID._
 
 ## Exam description {#exam-description}
 
@@ -43,7 +43,7 @@ exl-id: 0b533269-0826-4921-a539-d281c74da63d
 * Solution architects
 * Individuals in partner organizations and freelancers who perform an analyst job role for AEM solutions
 * Marketing specialists who know the features and capabilities needed to engage developers to define a solution for business needs
-* Customers who use the product (i.e., Power Users)
+* Customers who use the product (that is, Power Users)
 
 <br>
 

@@ -14,7 +14,7 @@ exl-id: e907929f-b4a4-45e1-ba2d-f407f46d41c6
 
 >[!NOTE]
 >
->**New study resources available:** The [Exam Prep Guide](https://app.rockinfo.com/courses/playScorm/594) provides a tailored path through your certification exam prep process, including the in-depth study materials you'll need to be successful in attaining this certification. _If you are prompted to log in to the Exam Prep Guide, use your Adobe ID._
+>**New study resources available:** The [Exam Prep Guide](https://app.rockinfo.com/courses/playScorm/594) provides a tailored path through your certification exam prep process, including the in-depth study materials you need to be successful in attaining this certification. _If you are prompted to log in to the Exam Prep Guide, use your Adobe ID._
 
 ## Exam description {#exam-description}
 
@@ -68,9 +68,9 @@ Additionally, you should be familiar with the following technologies and environ
 
 Technologies:
 
-* Marketing cloud debugger / also called Adobe Experience Cloud debugger
+* Marketing cloud debugger/also called Adobe Experience Cloud debugger
 * Adobe Analytics as a reporting source for Target specifically A4T integration
-* Browser's console / Browser developer tools such as console, network tab
+* Browser's console/Browser developer tools such as console, network tab
 * Network tools in browser
 * Basic understanding of other Adobe Tools
 * Developer Console (any web browser)
@@ -84,8 +84,8 @@ Technologies:
 
 Environments:
 
-* Desktop / Website including desktops and mobile devices
-* Mobile App (basic understanding) / Use of Target for mobile devices
+* Desktop/Website including desktops and mobile devices
+* Mobile App (basic understanding)/Use of Target for mobile devices
 * Staging-development
 * Production
 * Production environments across mobile devices, tablet devices and desktop devices
@@ -109,7 +109,7 @@ Environments:
 * Analyze a test hypothesis based on a given scenario and identify aspects of a valid hypothesis
 * Determine KPI-based primary and secondary success metrics
 * Assess audience requirements
-* Determine the appropriate analytics reporting sources (i.e., Target or Adobe Analytics)
+* Determine the appropriate analytics reporting sources (that is, Target or Adobe Analytics)
 
 **Section 2: Configuring, executing and managing (42%)**
 

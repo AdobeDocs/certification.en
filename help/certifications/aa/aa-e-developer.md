@@ -15,7 +15,7 @@ exl-id: d0544bc8-e8e4-4a52-ad8c-7a264de73758
 
 >[!NOTE]
 >
->**New study resources available:** The [Exam Prep Guide](https://app.rockinfo.com/courses/playScorm/530) provides a tailored path through your certification exam prep process, including the in-depth study materials you'll need to be successful in attaining this certification. _If you are prompted to log in to the Exam Prep Guide, use your Adobe ID._
+>**New study resources available:** The [Exam Prep Guide](https://app.rockinfo.com/courses/playScorm/530) provides a tailored path through your certification exam prep process, including the in-depth study materials you need to be successful in attaining this certification. _If you are prompted to log in to the Exam Prep Guide, use your Adobe ID._
 
 ## Exam description {#exam-description}
 
@@ -45,9 +45,9 @@ exl-id: d0544bc8-e8e4-4a52-ad8c-7a264de73758
 
 ### Minimum experience {#minimum-experience}
 
-You should have experience as an implementation consultant in a hybrid role with about 2 years' experience in [!DNL Adobe Analytics] implementation. You acts as the bridge between IT and the business, translate the business requirements into a technical solution (SDR), and based on requirements provided by the analyst, understand which type of variable is needed, where and how to collect the data, design the data model (data layer), configure and maintain the tag management solution. 
+You should have experience as an implementation consultant in a hybrid role with about 2 years' experience in [!DNL Adobe Analytics] implementation. You act as the bridge between IT and the business, translate the business requirements into a technical solution (SDR), and, based on requirements provided by the analyst, understand which type of variable is needed, where and how to collect the data, design the data model (data layer), configure and maintain the tag management solution. 
 
-You, as the Analytics Developer rarely implement the tags on the page; instead, they are implemented by IT or the system integrator.
+You, as the Analytics Developer, rarely implement the tags on the page; instead, they are implemented by IT or the system integrator.
 
 You should be familiar with the following tools and environments:
 
@@ -55,7 +55,7 @@ Tools:
 
 * Adobe Experience Platform Launch (Adobe Launch)
 * Debugging tools relevant to [!DNL Adobe Analytics] (Packet monitor such as Adobe Debugger, browser developer tools, Charles)
-* [!DNL Adobe Analytics] Admin console report suite settings
+* [!DNL Adobe Analytics] Admin Console report suite settings
 * Basic Workspace knowledge
 * Web development tools, code editor and mobile debugging tools
 * Adobe Auditor
@@ -115,7 +115,7 @@ Environments:
 * Troubleshoot JavaScript errors
 * Troubleshoot [!DNL Adobe Analytics] variables
 * Recommend testing and debugging best practices
-* Troubleshoot an [!DNL Adobe Analytics] server call across its lifecycle (i.e. from beacon request to showing up in the report)
+* Troubleshoot an [!DNL Adobe Analytics] server call across its lifecycle (that is, from beacon request to showing up in the report)
 
 <br>
 

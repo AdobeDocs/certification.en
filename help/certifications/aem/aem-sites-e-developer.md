@@ -14,7 +14,7 @@ exl-id: 4b97177a-38aa-4082-95da-1e4c9962f3c8
 
 >[!NOTE]
 >
->**New study resources available:** The [Exam Prep Guide](https://app.rockinfo.com/courses/playScorm/369) provides a tailored path through your certification exam prep process, including the in-depth study materials you'll need to be successful in attaining this certification. _If you are prompted to log in to the Exam Prep Guide, use your Adobe ID._
+>**New study resources available:** The [Exam Prep Guide](https://app.rockinfo.com/courses/playScorm/369) provides a tailored path through your certification exam prep process, including the in-depth study materials you need to be successful in attaining this certification. _If you are prompted to log in to the Exam Prep Guide, use your Adobe ID._
 
 ## Exam description {#exam-description}
 
@@ -71,10 +71,10 @@ Additionally, you should be familiar with the following technologies and environ
 
 **Section 1: Configurations (22%)**
 
-* Identify the steps to create and manage AEM dispatcher configurations
+* Identify the steps to create and manage AEM Dispatcher configurations
 * Determine the correct steps to configure multi-tenancy
 * Explain how to create and manage OSGi configurations
-* Given a scenario, determine the correct method to Create and manage custom OAK indices
+* Given a scenario, determine the correct method to Create and manage custom Oak indices
 * Determine the correct steps to configure OOTB SAML and LDAP integration
 
 **Section 2: AEM development (44%)**

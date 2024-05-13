@@ -42,9 +42,9 @@ exl-id: 9eb01f45-fa59-4e14-85db-2d3fe1f512bc
 
 You should have:
 
-* At least 0-12 months' of experience within [!DNL Adobe Document Cloud] 
+* At least 0-12 months of experience within [!DNL Adobe Document Cloud] 
 * Be able to identify and communicate business needs
-* Be able to perform product enablement advise on [!DNL Adobe Document Cloud] solutions.
+* Be able to perform product enablement advice on [!DNL Adobe Document Cloud] solutions.
 
 <br>
 

@@ -14,7 +14,7 @@ exl-id: 3d4efb08-cd0c-4e1f-8a85-34fd8791b77b
 
 >[!NOTE]
 >
->**New study resources available:** The [Exam Prep Guide](https://app.rockinfo.com/courses/playScorm/385) provides a tailored path through your certification exam prep process, including the in-depth study materials you'll need to be successful in attaining this certification. _If you are prompted to log in to the Exam Prep Guide, use your Adobe ID._
+>**New study resources available:** The [Exam Prep Guide](https://app.rockinfo.com/courses/playScorm/385) provides a tailored path through your certification exam prep process, including the in-depth study materials you need to be successful in attaining this certification. _If you are prompted to log in to the Exam Prep Guide, use your Adobe ID._
 
 ## Exam description {#exam-description}
 
@@ -96,7 +96,7 @@ Additionally, you should be comfortable using the following technologies:
 * Demonstrate the ability to override or extend Magento LESS
 * Explain the core concepts of LESS
 * Demonstrate the ability to style emails
-* Explain the hierarchy of styles ( lib, modules, themes)
+* Explain the hierarchy of styles (lib, modules, themes)
 * Demonstrate the ability to implement and customize LESS library components
 * Identify the differences between client-side vs server-side compilation and how it works
 
