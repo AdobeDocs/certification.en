@@ -22,7 +22,7 @@ exl-id: a3d5e3bd-751f-4c35-a27e-7839199030d8
 
 >[!IMPORTANT]
 >
->This certification has a prerequisite. You MUST have an active (not expired) Adobe [!DNL Marketo Engage] Business Practitioner **Expert** Certification in order to take the Adobe [!DNL Marketo Engage] Architect Master exam.
+>This certification has a prerequisite. You MUST have an active (not expired) Adobe [!DNL Marketo Engage] Business Practitioner **Expert** Certification to take the Adobe [!DNL Marketo Engage] Architect Master exam.
 
 * Prerequisite: Active (not expired) Adobe [!DNL Marketo Engage] Business Practitioner Expert Certification
 * Level: Master (3-5 years' experience)
@@ -60,7 +60,7 @@ exl-id: a3d5e3bd-751f-4c35-a27e-7839199030d8
 You should have:
 
 * A current certification as an Marketo Engage Business Practitioner Certified Expert
-* At least five years of experience preferably with multiple instances of Marketo Engage
+* At least five years of experience, preferably with multiple instances of Marketo Engage
 * An understanding of the business impact and effectively explain/communicate their solution to the stakeholders (technical and non-technical) at different levels
 * The ability to conceptualize a solution and translate to a Marketo Engage architecture, understand the business processes impacted by integrations
 * Familiarity with the principles of architecting an instance
@@ -139,7 +139,7 @@ Additionally, you should be familiar with the following tools and technologies:
 
 <br>
 
-+++Step 2: Prepare for your exam with our free study materials
++++Step 2: Prepare for your exam with these free study materials
 
 **Study Materials**
 

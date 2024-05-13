@@ -1,6 +1,6 @@
 ---
 title: Front-end Developer Professional new certification
-description: Learn how to become a certified Adobe Developer professional for Adobe [!DNL Commerce] .
+description: Learn how to become a certified Adobe Developer professional for Adobe [!DNL Commerce].
 solution: Commerce
 product: Magento
 role: Developer
@@ -16,9 +16,9 @@ exl-id: 9bf1ec2a-dcd0-4952-8b0b-d24dd714b739
 >
 >Free, on-demand resources are now available to help you prepare for your exam:
 >
->* **Course**: If you're just starting out, or need a refresher, take our [Adobe Commerce Foundations Course](https://app.rockinfo.com/courses/148) to access explanations of key concepts, product walk-throughs, and knowledge checks. This course will provide a basis of knowledge you can build on in your certification journey.
+>* **Course**: If you're just starting out, or need a refresher, take the [Adobe Commerce Foundations Course](https://app.rockinfo.com/courses/148) to access explanations of key concepts, product walk-throughs, and knowledge checks. This provides a basis of knowledge you can build on in your certification journey.
 >
->* **Exam Prep Guide:** The [Exam Prep Guide](https://app.rockinfo.com/courses/playScorm/384) provides a tailored path through your certification exam prep process, including the in-depth study materials you'll need to be successful in attaining this certification.
+>* **Exam Prep Guide:** The [Exam Prep Guide](https://app.rockinfo.com/courses/playScorm/384) provides a tailored path through your certification exam prep process, including the in-depth study materials you need to be successful in attaining this certification.
 >
 >_If you are prompted to log in, use your Adobe ID._
 
@@ -100,7 +100,7 @@ Additionally, you should exhibit knowledge of the following technologies:
 * Describe the difference between specific partial files (_extends.less,_extend.less,_theme.less,_widgets.less,_module.less)
 * Given a scenario, demonstrate the ability to override or extend [!DNL Magento] LESS
 * Describe the basic concepts of LESS
-* Explain the hierarchy of styles ( lib, modules, themes)
+* Explain the hierarchy of styles (lib, modules, themes)
 * Explain client-side and server-side compilation
 
 **Section 4: JavaScript (18%)**
@@ -112,7 +112,7 @@ Additionally, you should exhibit knowledge of the following technologies:
 * Describe the usage of Knockout JS
 * Describe the usage of jQuery widgets
 
-**Section 5: Admin configuration and PageBuilder (6%)**
+**Section 5: Admin configuration and Page Builder (6%)**
 
 * Demonstrate the ability to customize Page Builder and CMS content"
 * Apply/schedule a theme to a specific scope (website, store, store-view)
@@ -121,7 +121,7 @@ Additionally, you should exhibit knowledge of the following technologies:
 
 **Section 6: Tools (CLI and Grunt) (8%)**
 
-* Describe the usage of basic bin/magento commands
+* Describe the usage of basic bin/Magento commands
 * Describe the usage of Composer commands (install, update, require, remove)
 * Differentiate the appropriate use case for deploy modes
 * Describe additional tools that cloud provides (Fastly, downloading database, content deployment)
@@ -140,7 +140,7 @@ Additionally, you should exhibit knowledge of the following technologies:
 
 <br>
 
-+++Step 2: Prepare for your exam with our free study materials
++++Step 2: Prepare for your exam with these free study materials
 
 **Study Materials**
 

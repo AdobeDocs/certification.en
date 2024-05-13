@@ -35,7 +35,7 @@ exl-id: f89a197f-dfe9-4e53-a783-97326bd6d934
 
 * Search marketing campaign managers 
 * Search marketing practitioners 
-* Individuals that regularly uses Search to execute and manage search campaigns
+* Individuals that regularly use Search to execute and manage search campaigns
 
 <br>
 
@@ -124,7 +124,7 @@ You should also have experience working with the following functions:
 
 <br>
 
-+++Step 2: Prepare for your exam with our free study materials
++++Step 2: Prepare for your exam with these free study materials
 
 **Study Materials**
 

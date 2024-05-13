@@ -14,7 +14,7 @@ exl-id: 025be894-3f29-4370-ac41-19901df4fb00
 
 >[!NOTE]
 >
->**New study resources available:** The [Exam Prep Guide](https://app.rockinfo.com/courses/playScorm/387) provides a tailored path through your certification exam prep process, including the in-depth study materials you'll need to be successful in attaining this certification. _If you are prompted to log in to the Exam Prep Guide, use your Adobe ID._
+>**New study resources available:** The [Exam Prep Guide](https://app.rockinfo.com/courses/playScorm/387) provides a tailored path through your certification exam prep process, including the in-depth study materials you need to be successful in attaining this certification. _If you are prompted to log in to the Exam Prep Guide, use your Adobe ID._
 
 ## Exam description {#exam-description}
 
@@ -91,7 +91,7 @@ You should have at least 1-3 years of experience with Adobe [!DNL Commerce] deve
 
 * Manipulate EAV attributes and attribute sets programmatically
 * Demonstrate the ability to extend the database schema
-* Demonstrate the ability to import / export data from Adobe Commerce
+* Demonstrate the ability to import/export data from Adobe Commerce
 * Describe how to use patches and recurring set ups to modify the database
 
 **Section 3: Developing with Admin (6%)**
@@ -124,7 +124,7 @@ You should have at least 1-3 years of experience with Adobe [!DNL Commerce] deve
 
 * Demonstrate knowledge of Adobe [!DNL Commerce] architecture/environment workflow
 * Demonstrate a working knowledge of cloud project files, permission, and structure
-* Demonstrate the ability to setup multi domain based stores on Adobe [!DNL Commerce] Cloud (multi domain sites mix of dev work and support)
+* Demonstrate the ability to set up multi domain based stores on Adobe [!DNL Commerce] Cloud (multi domain sites mix of dev work and support)
 * Demonstrate a general knowledge of application services and how to manage them (YAML, PHP, MariaDB, Redis, RabbitMQ, etc.)
 * Identify how to access different types of logs
 * Demonstrate the ability to deploy a project (Main steps of deployment)
@@ -142,14 +142,14 @@ You should have at least 1-3 years of experience with Adobe [!DNL Commerce] deve
 * Describe how to update cloud variables using UI
 * Describe environment Management using UI
 * Demonstrate understanding of branching using UI
-* Identify Adobe commerce Cloud Plan capabilities
+* Identify Adobe Commerce Cloud Plan capabilities
 
 **Section 9: [!DNL Commerce] Cloud CLI tool (managing part) (6%)**
 
 * Demonstrate understanding of updating cloud variables using CLI
-* Demonstrate understanding of environment Management using CLI (CLI exclusive features :activate emails, rebase environments, snapshot, db dump, local environment setup)
+* Demonstrate understanding of environment Management using CLI (CLI exclusive features: activate emails, rebase environments, snapshot, db dump, local environment setup)
 * Demonstrate understanding of branching using CLI
-* Demonstrate how to troubleshoot to cloud services? (My SQL, Redis, tunnel:info)
+* Demonstrate how to troubleshoot cloud services? (My SQL, Redis, tunnel:info)
 
 <br>
 
@@ -173,7 +173,7 @@ You should have at least 1-3 years of experience with Adobe [!DNL Commerce] deve
 
 <br>
 
-+++Step 2: Prepare for your exam with our free study materials
++++Step 2: Prepare for your exam with these free study materials
 
 **Study Materials**
 

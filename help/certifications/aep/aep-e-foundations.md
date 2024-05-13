@@ -119,7 +119,7 @@ The AD0-E600 exam validates skills and knowledge covering the basic features and
 
 <br>
 
-+++Step 2: Prepare for your exam with our free study materials
++++Step 2: Prepare for your exam with these free study materials
 
 **Study Materials**
 
@@ -128,7 +128,7 @@ The AD0-E600 exam validates skills and knowledge covering the basic features and
 **Section 1: Data modeling**
 
 * [Understanding Schemas](https://experienceleague.adobe.com/docs/experience-platform/xdm/schema/composition.html){target="_blank"}
-* [Schema and XDM Overview / Adobe [!DNL Experience Platform]: Data Modeling and Ingestion](https://video.tv.adobe.com/v/27105){target="_blank"}
+* [Schema and XDM Overview/Adobe [!DNL Experience Platform]: Data Modeling and Ingestion](https://video.tv.adobe.com/v/27105){target="_blank"}
 * [Model data in Schemas](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/model-data-in-schemas.html){target="_blank"}
 * [Schema and XDM Overview](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/schemas-and-experience-data-model.html){target="_blank"}
 
@@ -259,7 +259,7 @@ Section 3: Destinations (27%)
 
 <br>
 
-+++Step 2: Prepare for your exam with our free study materials
++++Step 2: Prepare for your exam with these free study materials
 
 **Study Materials**
 

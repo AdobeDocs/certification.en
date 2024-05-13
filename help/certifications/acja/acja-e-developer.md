@@ -14,7 +14,7 @@ exl-id: 9ffe9fc9-5427-4297-9d8d-14ce62e239e4
 
 >[!NOTE]
 >
->**New study resources available:** The [Exam Prep Guide](https://app.rockinfo.com/courses/playScorm/376) provides a tailored path through your certification exam prep process, including the in-depth study materials you'll need to be successful in attaining this certification. _If you are prompted to log in to the Exam Prep Guide, use your Adobe ID._
+>**New study resources available:** The [Exam Prep Guide](https://app.rockinfo.com/courses/playScorm/376) provides a tailored path through your certification exam prep process, including the in-depth study materials you need to be successful in attaining this certification. _If you are prompted to log in to the Exam Prep Guide, use your Adobe ID._
 
 ## Exam description {#exam-description}
 
@@ -59,7 +59,7 @@ You should have 12-24 months experience in Adobe [!DNL Customer Journey Analytic
 * Define a QC script to hand off to AEP engineer
 * Configure connections with primary identities (person ID)
 * Configure connections with multiple datasets
-* Configure a data view (Metric / dimension configuration)
+* Configure a data view (Metric/dimension configuration)
 * Configure Adobe [!DNL Customer Journey Analytics]
 * Transform data within the dimensions and metrics
 * Analyze Workspace basics (visualizations, attribution settings, filters, calculated metrics)
@@ -111,7 +111,7 @@ You should have 12-24 months experience in Adobe [!DNL Customer Journey Analytic
 
 <br>
 
-+++Step 2: Prepare for your exam with our free study materials
++++Step 2: Prepare for your exam with these free study materials
 
 **Study Materials**
 

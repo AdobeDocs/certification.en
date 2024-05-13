@@ -1,6 +1,6 @@
 ---
 title: Enhanced Connector Expert certification
-description: Learn how to become a certified Adobe certified Expert in Adobe [!DNL Workfront] for [!DNL Experience Manager]
+description: Learn how to become a certified Adobe Certified Expert in Adobe [!DNL Workfront] for [!DNL Experience Manager]
 solution: Workfront
 role: Developer
 badge: label="Exam AD0-E906" type="neutral"
@@ -13,7 +13,7 @@ exl-id: f00092c9-1288-447f-adcd-229cf325bc3e
 
 >[!NOTE]
 >
->**New study resources available:** The [Exam Prep Guide](https://app.rockinfo.com/courses/playScorm/615) provides a tailored path through your certification exam prep process, including the in-depth study materials you'll need to be successful in attaining this certification. _If you are prompted to log in to the Exam Prep Guide, use your Adobe ID._
+>**New study resources available:** The [Exam Prep Guide](https://app.rockinfo.com/courses/playScorm/615) provides a tailored path through your certification exam prep process, including the in-depth study materials you need to be successful in attaining this certification. _If you are prompted to log in to the Exam Prep Guide, use your Adobe ID._
 
 ## Exam description {#exam-description}
 
@@ -109,7 +109,7 @@ And, you should have:
 
 <br>
 
-+++Step 2: Prepare for your exam with our free study materials
++++Step 2: Prepare for your exam with these free study materials
 
 **Study Materials**
 

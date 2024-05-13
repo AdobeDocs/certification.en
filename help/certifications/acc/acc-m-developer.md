@@ -50,14 +50,14 @@ You should have:
 * The ability to provide the technical roadmap including LEO and task dependencies
 * The ability to provide technical requirement information for the project scope and timeline
 * Experience with business requirements workshops
-* Experience leading solution design workshops
+* Experience in leading solution design workshops
 * The ability to evaluate multiple solution approaches and provide recommendations
 * The ability to review existing campaigns and processes on other platforms to determine needs for the Adobe Campaign implementation
 * The ability to describe and demonstrate product features and capabilities
 * The ability to map product capabilities to high use cases
-* Experience supporting the pre-sales team
+* Experience in supporting the pre-sales team
 * The ability to offer deskside coaching (product best practice, reporting metrics, and so on)
-* Experience describing the differences between deployment models
+* Experience in describing the differences between deployment models
 
 <br>
 
@@ -123,7 +123,7 @@ You should have:
 
 <br>
 
-+++Step 2: Prepare for your exam with our free study materials
++++Step 2: Prepare for your exam with these free study materials
 
 **Study Materials**
 

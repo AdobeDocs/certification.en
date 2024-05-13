@@ -55,7 +55,7 @@ You should have:
 * Hands-on experience setting up cross- channel, personalized workflows and sending deliveries
 * Experience analyzing and monitoring logs and errors
 * An understanding of digital marketing concepts and tactics
-* Basic understanding automation, metrics, and campaign tactics (capabilities around data management, cloud services, approvals, and so on)
+* Basic understanding of automation, metrics, and campaign tactics (capabilities around data management, cloud services, approvals, and so on)
 * An understanding of basic relational databases and of targeting queries in a campaign
 * Experience with basic HTML and personalization
 * Subscription service management (opt in/opt out)
@@ -89,9 +89,9 @@ You should have:
 
 **Section 3: Data operations (20%)**
 
-* Determine how to modify columns within a view in order to test data/output
+* Determine how to modify columns within a view to test data/output
 * Describe the purposes of the union, intersection, exclusion, and split workflow targeting activities
-* Determine appropriate method to reconcile data, generate a complement, deduplicate, and import data
+* Determine the appropriate method to reconcile data, generate a complement, deduplicate, and import data
 * Given a scenario, identify which data enrichment rule should be used
 * Given a scenario, determine how to segment an audience and store as a list and cells
 * Given a scenario, determine the best method to export data to destinations by configuring them
@@ -136,7 +136,7 @@ You should have:
 
 <br>
 
-+++Step 2: Prepare for your exam with our free study materials
++++Step 2: Prepare for your exam with these free study materials
 
 **Study Materials**
 

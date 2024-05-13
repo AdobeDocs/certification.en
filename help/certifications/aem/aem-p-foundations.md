@@ -14,7 +14,7 @@ exl-id: a1ea92d3-9b7b-4aeb-80f7-0c07e6d332c0
 
 >[!NOTE]
 >
->**New study resources available:** The [Exam Prep Guide](https://app.rockinfo.com/courses/playScorm/368) provides a tailored path through your certification exam prep process, including the in-depth study materials you'll need to be successful in attaining this certification. _If you are prompted to log in to the Exam Prep Guide, use your Adobe ID._
+>**New study resources available:** The [Exam Prep Guide](https://app.rockinfo.com/courses/playScorm/368) provides a tailored path through your certification exam prep process, including the in-depth study materials you need to be successful in attaining this certification. _If you are prompted to log in to the Exam Prep Guide, use your Adobe ID._
 
 ## Exam description {#exam-description}
 
@@ -84,7 +84,7 @@ You should be an application developer and have:
 * Apply procedural concepts to create components
 * Create editable templates
 * Create client libraries
-* Update content in CRX-DE Lite
+* Update content in CRXDE Lite
 * Use JCR structure to navigate to nodes
 * Create experience and content fragments
 * Extend core components
@@ -116,7 +116,7 @@ You should be an application developer and have:
 
 <br>
 
-+++Step 2: Prepare for your exam with our free study materials
++++Step 2: Prepare for your exam with these free study materials
 
 **Study Materials**
 

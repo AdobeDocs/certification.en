@@ -14,7 +14,7 @@ exl-id: e67e66a3-d3cc-4907-beb4-956940181279
 
 >[!NOTE]
 >
->**New study resources available:** The [Exam Prep Guide](https://app.rockinfo.com/courses/playScorm/593) provides a tailored path through your certification exam prep process, including the in-depth study materials you'll need to be successful in attaining this certification. _If you are prompted to log in to the Exam Prep Guide, use your Adobe ID._
+>**New study resources available:** The [Exam Prep Guide](https://app.rockinfo.com/courses/playScorm/593) provides a tailored path through your certification exam prep process, including the in-depth study materials you need to be successful in attaining this certification. _If you are prompted to log in to the Exam Prep Guide, use your Adobe ID._
 
 ## Exam description {#exam-description}
 
@@ -71,7 +71,7 @@ You should have:
 * Identify hypotheses elements
 * Describe KPI-based primary and secondary success metrics
 * Given a scenario, assess audience requirements
-* Describe appropriate analytics reporting sources (i.e., Target or Adobe Analytics)
+* Describe appropriate analytics reporting sources (that is, Target or Adobe Analytics)
 
 **Section 2: Configuring, executing and managing (50%)**
 
@@ -119,7 +119,7 @@ You should have:
 
 <br>
 
-+++Step 2: Prepare for your exam with our free study materials
++++Step 2: Prepare for your exam with these free study materials
 
 **Study Materials**
 

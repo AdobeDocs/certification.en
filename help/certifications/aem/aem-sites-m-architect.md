@@ -14,7 +14,7 @@ exl-id: 519381bd-fcea-40fd-a10a-046b7fb97913
 
 >[!NOTE]
 >
->**New study resources available:** The [Exam Prep Guide](https://app.rockinfo.com/courses/playScorm/374) provides a tailored path through your certification exam prep process, including the in-depth study materials you'll need to be successful in attaining this certification. _If you are prompted to log in to the Exam Prep Guide, use your Adobe ID._
+>**New study resources available:** The [Exam Prep Guide](https://app.rockinfo.com/courses/playScorm/374) provides a tailored path through your certification exam prep process, including the in-depth study materials you need to be successful in attaining this certification. _If you are prompted to log in to the Exam Prep Guide, use your Adobe ID._
 
 ## Exam description {#exam-description}
 
@@ -58,7 +58,7 @@ Additionally, you should have the ability to perform the following tasks:
 * Define a content model for content/assets that can accommodate future requirements
 * Defines the necessary templates and components based on business requirements
 * Identify when to use out-of-the-box/functionality/core components versus custom components
-* Design caching, load balancing and security strategies (dispatcher, firewall, CDN,)
+* Design caching, load balancing and security strategies (Dispatcher, firewall, CDN)
 * Provide high-level effort estimations for initial set up and feature delivery
 * Establish the function and use cases of internationalization
 * Define strategies to support multi-site and multi-language
@@ -131,7 +131,7 @@ Additionally, you should have the ability to perform the following tasks:
 
 <br>
 
-+++Step 2: Prepare for your exam with our free study materials
++++Step 2: Prepare for your exam with these free study materials
 
 **Study Materials**
 

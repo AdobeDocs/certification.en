@@ -15,10 +15,10 @@ exl-id: bc0be483-80c0-4a54-9562-1c2e93501db0
 >
 >Free, on-demand courses are now available to help you prepare for your exam. Begin your learning journey today by choosing the course that best matches your experience level!
 >
->* The [Adobe Experience Platform Foundations Course](https://app.rockinfo.com/courses/216) will introduce you to Adobe Experience Cloud, an end-to-end suite of digital marketing tools built on the only platform designed for personalization at scale.
+>* The [Adobe Experience Platform Foundations Course](https://app.rockinfo.com/courses/216) introduces Adobe Experience Cloud, an end-to-end suite of digital marketing tools built on the only platform designed for personalization at scale.
 >* The [Adobe Journey Optimizer Foundations Course](https://app.rockinfo.com/courses/113) provides a basis of knowledge about this specific application.
 >* The [Adobe Journey Optimizer Business Practitioner Professional Course](https://app.rockinfo.com/courses/107) builds on the Foundations course and helps you prepare for the professional-level certification exam.
->* The [Exam Prep Guide](https://app.rockinfo.com/courses/playScorm/588) provides a tailored path through your exam prep process, including the in-depth study materials you'll need to be successful on your exam.
+>* The [Exam Prep Guide](https://app.rockinfo.com/courses/playScorm/588) provides a tailored path through your exam prep process, including the in-depth study materials you need to be successful on your exam.
 >
 >_If you are prompted to log in, use your Adobe ID._
 
@@ -78,8 +78,8 @@ Candidates should be able to:
 * Understand and use different Activities in Journey
 * Basic Debugging - Via Test Mode or Reporting (no query service requried)
 * gather and document journey requirements with the business
-* Know best practices around journeys and channels (e.g. best time to send, best channel to use, best journey design patterns for different use cases, when to use transactional and marketing message)
-* Understand Deliverability concepts (e.g. different Bounces, warming)
+* Know best practices around journeys and channels (for example, best time to send, best channel to use, best journey design patterns for different use cases, when to use transactional and marketing message)
+* Understand Deliverability concepts (for example, different Bounces, warming)
 * Understand Frequency, Fatigue rules
 * Preview Data sets
 * Basic understanding of Identities
@@ -93,7 +93,7 @@ Candidates should also be able to:
 * Upload and auto-convert HTML for email  (new html converter) 
 * Create a content experiment
 * Measure the results of a content experiment
-* Tag / filter / search journeys, campaigns, and more 
+* Tag/filter/search journeys, campaigns, and more 
 * Create a fragment from a template
 * Custom action
 * Create content in asset essentials
@@ -161,7 +161,7 @@ Candidates should also be able to:
 
 <br>
 
-+++Step 2: Prepare for your exam with our free study materials
++++Step 2: Prepare for your exam with these free study materials
 
 **Study Materials**
 
