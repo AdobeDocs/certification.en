@@ -18,7 +18,7 @@ exl-id: bc0be483-80c0-4a54-9562-1c2e93501db0
 >* The [Adobe Experience Platform Foundations Course](https://app.rockinfo.com/courses/216) introduces Adobe Experience Cloud, an end-to-end suite of digital marketing tools built on the only platform designed for personalization at scale.
 >* The [Adobe Journey Optimizer Foundations Course](https://app.rockinfo.com/courses/113) provides a basis of knowledge about this specific application.
 >* The [Adobe Journey Optimizer Business Practitioner Professional Course](https://app.rockinfo.com/courses/107) builds on the Foundations course and helps you prepare for the professional-level certification exam.
->* The [Exam Prep Guide](https://app.rockinfo.com/courses/playScorm/588) provides a tailored path through your exam prep process, including the in-depth study materials you need to be successful on your exam.
+>* The [Exam Prep Guide](https://app.rockinfo.com/courses/playScorm/588) provides a tailored path through your exam prep process, including the materials you'll need to be successful on your exam.
 >
 >_If you are prompted to log in, use your Adobe ID._
 

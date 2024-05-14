@@ -12,6 +12,10 @@ exl-id: a3d5e3bd-751f-4c35-a27e-7839199030d8
 
 {{intro}}
 
+>[!NOTE]
+>
+>**New study resources available:** The [Exam Prep Guide](https://app.rockinfo.com/courses/playScorm/619) provides a tailored path through your certification exam prep process, including the in-depth study materials you'll need to be successful in attaining this certification. _If you are prompted to log in to the Exam Prep Guide, use your Adobe ID._
+
 ## Exam description {#exam-description}
 
 {{exam-description}}
@@ -145,35 +149,15 @@ Additionally, you should be familiar with the following tools and technologies:
 
 {{study-materials-intro}}
 
-**Section 1: Project Leadership**
-
-* [Champion Blog - Marketo Nation](https://nation.marketo.com/t5/champion-blog/ct-p/champion-program){target="_blank"}
-* [Marketo Product Docs](https://experienceleague.adobe.com/docs/marketo/using/home.html){target="_blank"}
-* [Documentation - REST API](https://developers.marketo.com/rest-api/){target="_blank"}
-
-**Section 2: Adobe [!DNL Marketo Engage] architecture design**
-
-* [Reporting Overview](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/reporting-overview.html){target="_blank"}
-* [Instructions for Creating a Custom Sync Rule](https://nation.marketo.com/t5/product-blogs/instructions-for-creating-a-custom-sync-rule/ba-p/242758#:~:text=First%2C%20what%20is%20a%20custom,have%20them%20sync%20to%20Marketo.){target="_blank"}
-* [The Definitive Guide to Lead Scoring](https://business.adobe.com/resources/guides/lead-scoring.html){target="_blank"}
-
-**Section 3: Reporting and attribution**
-
-* [Report Type Overview](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/report-types/report-type-overview.html){target="_blank"}
-* [Understanding Attribution](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.html){target="_blank"}
-* [Champion Blog - Marketo Nation](https://nation.marketo.com/t5/champion-blog/ct-p/champion-program){target="_blank"}
-
-**Section 4: Advanced operations**
-
-* [Marketo Product Docs](https://experienceleague.adobe.com/docs/marketo/using/home.html){target="_blank"}
-* [Suppressing Soft Bounces](https://nation.marketo.com/t5/product-discussions/suppressing-soft-bounces-any-email-min-3x-encouraged/m-p/209411#M153533){target="_blank"}
-* [Understanding Workspaces and Person Partitions](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.html){target="_blank"}
-
-<br>
-
 **Take a practice test**
 
 {{practice-test}}
+
+**Exam Prep Guide**
+
+{{exam-prep-guide}}
+
+[Exam Prep Guide](https://app.rockinfo.com/courses/playScorm/619)
 
 +++ 
 
