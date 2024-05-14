@@ -15,7 +15,7 @@ exl-id: 83074292-b71e-4ae1-b5e3-5645e3ad1ade
 
 >[!NOTE]
 >
->**New study resources available:** The [Exam Prep Guide](https://app.rockinfo.com/courses/playScorm/532) provides a tailored path through your certification exam prep process, including the in-depth study materials you need to be successful in attaining this certification. _If you are prompted to log in to the Exam Prep Guide, use your Adobe ID._
+>**New study resources available:** The [Exam Prep Guide](https://app.rockinfo.com/courses/playScorm/532) provides a tailored path through your certification exam prep process, including the materials you'll need to be successful in attaining this certification. _If you are prompted to log in to the Exam Prep Guide, use your Adobe ID._
 
 ## Exam description {#exam-description}
 

@@ -230,4 +230,4 @@ Our free, on-demand courses help prepare you for your exam. Courses may include 
 
 ## Exam Prep Guide {#exam-prep-guide}
 
-The free Exam Prep Guide provides a tailored path through your exam prep process, including the in-depth study materials you need to be successful on your exam.
+The free Exam Prep Guide provides a tailored path through your exam prep process, including the materials you'll need to be successful on your exam.
