@@ -16,9 +16,9 @@ exl-id: f99b2abd-c67f-44c2-a04b-f1c7077fbac3
 >
 >Free, on-demand resources are now available to help you prepare for your exam:
 >
->* **Courses**: Take the [Adobe Commerce Business Practitioner Professional Course](https://app.rockinfo.com/courses/playScorm/620) for explanations of key concepts, hands-on demonstrations, and knowledge checks. If you're just starting out, the [Adobe Commerce Foundations Course](https://app.rockinfo.com/courses/148) provides a basis of knowledge you can build on in your certification journey.
+>* **Courses**: Take the [Adobe Commerce Business Practitioner Professional Course](https://app.rockinfo.com/courses/105) for explanations of key concepts, hands-on demonstrations, and knowledge checks. If you're just starting out, the [Adobe Commerce Foundations Course](https://app.rockinfo.com/courses/148) provides a basis of knowledge you can build on in your certification journey.
 >
->* **Exam Prep Guide:** The [Exam Prep Guide](https://app.rockinfo.com/courses/playScorm/383) provides a tailored path through your certification exam prep process, including the materials you'll need to be successful in attaining this certification.
+>* **Exam Prep Guide:** The [Exam Prep Guide](https://app.rockinfo.com/courses/playScorm/620) provides a tailored path through your certification exam prep process, including the materials you'll need to be successful in attaining this certification.
 >
 >_If you are prompted to log in, use your Adobe ID._
 
