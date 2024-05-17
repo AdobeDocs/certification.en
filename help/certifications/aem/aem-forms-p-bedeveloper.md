@@ -14,7 +14,13 @@ exl-id: 7d265887-c32f-4931-ba80-40ffde12df51
 
 >[!NOTE]
 >
->**New study resources available:** The [Exam Prep Guide](https://app.rockinfo.com/courses/playScorm/367) provides a tailored path through your certification exam prep process, including the materials you'll need to be successful in attaining this certification. _If you are prompted to log in to the Exam Prep Guide, use your Adobe ID._
+>Free, on-demand resources are now available to help you prepare for your exam:
+>
+>* **Course:** If you're just starting out, or need a refresher, take the [Adobe Experience Manager Foundations course](https://app.rockinfo.com/courses/240) to access explanations of key concepts, product walk-throughs, and knowledge checks. This course will provide a basis of knowledge you can build on in your certification journey.
+>
+>* **Exam Prep Guide:** The [Exam Prep Guide](https://app.rockinfo.com/courses/playScorm/367) provides a tailored path through your certification exam prep process, including the materials you'll need to be successful in attaining this certification.
+>
+>_If you are prompted to log in to the Exam Prep Guide, use your Adobe ID._
 
 ## Exam description {#exam-description}
 
@@ -127,6 +133,12 @@ You should be familiar with the following technologies and environments:
 **Study Materials**
 
 {{study-materials-intro}}
+
+**Take a course**
+
+{{take-course}}
+
+[Take the Adobe Experience Manager Foundations course](https://app.rockinfo.com/courses/240)
 
 **Exam Prep Guide**
 
