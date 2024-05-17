@@ -148,17 +148,6 @@ Additionally, you should have the ability to perform the following tasks:
 </span>
 </a>
 
-**Sample questions**
-
-{{sample-questions}}
-
-<a href="https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-ycpz52/ad-q-e117-readiness-questionnaire-for-adobe-aem-architect-master-exam" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-                    
- <span class="spectrum-Button-label has-no-wrap">
-   View sample questions
-</span>
-</a>
-
 +++ 
 
 <br>
