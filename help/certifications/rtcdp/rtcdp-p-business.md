@@ -19,7 +19,7 @@ exl-id: 3b970c7a-177c-4bf6-bf0b-4ea2f78bdcd2
 >
 >* **Course:** If you're just starting out, or need a refresher, take our [Adobe Experience Platform Foundations Course](https://app.rockinfo.com/courses/216) to access explanations of key concepts, product walk-throughs, and knowledge checks. This course provides a basis of knowledge you can build on in your certification journey.
 >
->* **Exam Prep Guide:** The [Exam Prep Guide](https://app.rockinfo.com/courses/playScorm/377) provides a tailored path through your certification exam prep process, including the materials you'll need to be successful in attaining this certification.
+>* **Exam Prep Guide:** The [Exam Prep Guide](https://app.rockinfo.com/courses/playScorm/637) provides a tailored path through your certification exam prep process, including the materials you'll need to be successful in attaining this certification.
 >
 >_If you are prompted to log in, use your Adobe ID._
 
@@ -143,7 +143,7 @@ Experience with tasks that include:
 
 {{exam-prep-guide}}
 
-<a href="https://app.rockinfo.com/courses/playScorm/377" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+<a href="https://app.rockinfo.com/courses/playScorm/637" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
                     
  <span class="spectrum-Button-label has-no-wrap">
    View Exam Prep Guide
