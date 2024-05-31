@@ -17,7 +17,7 @@ exl-id: 5bb372b4-6237-44f9-ac71-6093e2f0d03f
 >
 >* **Course:** The [Adobe Workfront Project Manager – Professional course](https://app.rockinfo.com/courses/230) includes explanations of key concepts, hands-on demonstrations, and knowledge checks.
 >
->* **Exam Prep Guide:** The [Exam Prep Guide](https://app.rockinfo.com/courses/playScorm/609) provides a tailored path through your exam prep process, including the materials you'll need to be successful on your exam.
+>* **Exam Prep Guide:** The [Exam Prep Guide](https://app.rockinfo.com/courses/229) provides a tailored path through your exam prep process, including the materials you'll need to be successful on your exam.
 >
 >_If you are prompted to log in, use your Adobe ID._
 
@@ -151,7 +151,7 @@ You should have:
 
 {{exam-prep-guide}}
 
-[View Exam Prep Guide](https://app.rockinfo.com/courses/playScorm/609)
+[View Exam Prep Guide](https://app.rockinfo.com/courses/229)
 
 +++ 
 

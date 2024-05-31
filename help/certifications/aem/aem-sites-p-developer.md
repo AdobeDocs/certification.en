@@ -18,7 +18,7 @@ exl-id: c7508746-d709-46d8-8a1e-4b16e5020f96
 >
 >* **Course:** Take the [Adobe Experience Manager Sites for Developers - Professional course](https://app.rockinfo.com/courses/105), which includes explanations of key concepts, hands-on demonstrations, and knowledge checks. If you're just starting out, or need a refresher, take the [Adobe Experience Manager Foundations course](https://app.rockinfo.com/courses/240), which provides a basis of knowledge you can build on in your certification journey.
 >
->* **Exam Prep Guide:** The [Exam Prep Guide](https://app.rockinfo.com/courses/playScorm/381) provides a tailored path through your exam prep process, including the materials you'll need to be successful on your exam.
+>* **Exam Prep Guide:** The [Exam Prep Guide](https://app.rockinfo.com/courses/121) provides a tailored path through your exam prep process, including the materials you'll need to be successful on your exam.
 >
 >If you are prompted to log in, use your Adobe ID.
 
@@ -121,7 +121,7 @@ You should be an application developer and have:
 
 {{exam-prep-guide}}
 
-[View Exam Prep Guide](https://app.rockinfo.com/courses/playScorm/381)
+[View Exam Prep Guide](https://app.rockinfo.com/courses/121)
 
 **Sample questions**
 

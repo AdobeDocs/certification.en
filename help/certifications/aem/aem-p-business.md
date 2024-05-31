@@ -18,7 +18,7 @@ exl-id: 83ee013f-aa37-409b-8bcb-385be6962b26
 >
 >* **Course:** If you're just starting out, or need a refresher, take the [Adobe Experience Manager Foundations course](https://app.rockinfo.com/courses/240) to access explanations of key concepts, product walk-throughs, and knowledge checks. This course will provide a basis of knowledge you can build on in your certification journey.
 >
->* **Exam Prep Guide:** The [Exam Prep Guide](https://app.rockinfo.com/courses/playScorm/366) provides a tailored path through your certification exam prep process, including the materials you'll need to be successful in attaining this certification.
+>* **Exam Prep Guide:** The [Exam Prep Guide](https://app.rockinfo.com/courses/122) provides a tailored path through your certification exam prep process, including the materials you'll need to be successful in attaining this certification.
 >
 >_If you are prompted to log in to the Exam Prep Guide, use your Adobe ID._
 
@@ -127,12 +127,8 @@ Additionally, you should have:
 
 {{exam-prep-guide}}
 
-<a href="https://app.rockinfo.com/courses/playScorm/366" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-                    
- <span class="spectrum-Button-label has-no-wrap">
-   View Exam Prep Guide
-</span>
-</a>
+[View Exam Prep Guide](https://app.rockinfo.com/courses/122)
+
 
 **Sample questions**
 

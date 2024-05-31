@@ -17,7 +17,7 @@ exl-id: 960f97cf-f5bf-4a60-a4e7-c08d0c121e60
 >
 >* **New course available:** The [Adobe Workfront Core Developer – Professional course](https://app.rockinfo.com/courses/231) includes explanations of key concepts, hands-on demonstrations, and knowledge checks.
 >
->* **Exam Prep Guide:** The [Exam Prep Guide](https://app.rockinfo.com/courses/playScorm/610) provides a tailored path through your exam prep process, including the materials you'll need to be successful on your exam.
+>* **Exam Prep Guide:** The [Exam Prep Guide](https://app.rockinfo.com/courses/238) provides a tailored path through your exam prep process, including the materials you'll need to be successful on your exam.
 >
 >_If you are prompted to log in, use your Adobe ID._
 
@@ -142,7 +142,7 @@ Qualified candidates should also have:
 
 {{exam-prep-guide}}
 
-[View Exam Prep Guide](https://app.rockinfo.com/courses/playScorm/610)
+[View Exam Prep Guide](https://app.rockinfo.com/courses/238)
 
 +++ 
 
