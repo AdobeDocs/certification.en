@@ -14,7 +14,7 @@ exl-id: df1a2c71-5216-47d1-a971-5c07dd3e2d2a
 
 >[!NOTE]
 >
->**New study resources available:** The [Exam Prep Guide](https://app.rockinfo.com/courses/playScorm/618) provides a tailored path through your certification exam prep process, including the in-depth study materials you'll need to be successful in attaining this certification. _If you are prompted to log in to the Exam Prep Guide, use your Adobe ID._
+>**New study resources available:** The [Exam Prep Guide](https://app.rockinfo.com/courses/247) provides a tailored path through your certification exam prep process, including the in-depth study materials you'll need to be successful in attaining this certification. _If you are prompted to log in to the Exam Prep Guide, use your Adobe ID._
 
 ## Exam description {#exam-description}
 
@@ -79,12 +79,20 @@ Additionally, you should be familiar with the following tools and technologies:
 
 **Section 1: Building and managing programs (39%)**
 
-* Given a business need/question, identify an appropriate reporting strategy to perform an analysis
-* Analyze data to answer business questions
-* Identify conversion funnels (as a concept to understand business analysis)
-* Consult the Solution Design Reference (SDR) to determine what data is available in reports
-* Analyze report data to summarize and draw conclusions
-* Recognize outliers and anomalies in reports
+* Identify when to use each of the 4 program types.
+* Identify why/when to use the event program.
+* Identify why/when to use the default program.
+* Identify the special features of engagement program.
+* Identify the special features of email program.
+* Recognize what can be cloned.
+* Identify the benefits of custom tags.
+* Identify the purpose of channels.
+* Describe the importance of Period Costs.
+* Recognize the concept of using lead scoring.
+* Understanding Communication limits.
+* Recognizing program membership and acquisition.
+* Understanding customer preferences (subscription, communication).
+* Apply best practices for review prior to launch.
 
 **Section 2: Building assets (19%)**
 
@@ -153,7 +161,7 @@ Additionally, you should be familiar with the following tools and technologies:
 
 {{exam-prep-guide}}
 
-[View Exam Prep Guide](https://app.rockinfo.com/courses/playScorm/618)
+[View Exam Prep Guide](https://app.rockinfo.com/courses/247)
 
 +++ 
 
