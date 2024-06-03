@@ -13,7 +13,7 @@ exl-id: dc74de79-c945-47a4-a13b-e027182919a5
 
 >[!NOTE]
 >
->**New study resources available:** The [Exam Prep Guide](https://app.rockinfo.com/courses/playScorm/611) provides a tailored path through your certification exam prep process, including the materials you'll need to be successful in attaining this certification. _If you are prompted to log in to the Exam Prep Guide, use your Adobe ID._
+>**New study resources available:** The [Exam Prep Guide](https://app.rockinfo.com/courses/241) provides a tailored path through your certification exam prep process, including the materials you'll need to be successful in attaining this certification. _If you are prompted to log in to the Exam Prep Guide, use your Adobe ID._
 
 ## Exam description {#exam-description}
 
@@ -156,7 +156,7 @@ You should have at least 18-24 months experience with Adobe [!DNL Workfront], an
 
 {{exam-prep-guide}}
 
-[View Exam Prep Guide](https://app.rockinfo.com/courses/playScorm/611)
+[View Exam Prep Guide](https://app.rockinfo.com/courses/241)
 
 <br>
 

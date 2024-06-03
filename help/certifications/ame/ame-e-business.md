@@ -168,12 +168,7 @@ Additionally, you should be familiar with the following tools and technologies:
 
 {{exam-prep-guide}}
 
-<a href="https://app.rockinfo.com/courses/144" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-                    
- <span class="spectrum-Button-label has-no-wrap">
-   View Exam Prep Guide
-</span>
-</a>
+[View Exam Prep Guide](https://app.rockinfo.com/courses/144)
 
 +++ 
 
