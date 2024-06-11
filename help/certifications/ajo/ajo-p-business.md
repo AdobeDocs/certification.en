@@ -35,7 +35,7 @@ exl-id: bc0be483-80c0-4a54-9562-1c2e93501db0
 * Time: 100 mins
 * Delivery: Online proctored (requires camera access)
 * Available languages: English
-* Cost: $225 (global) / $150 (India)
+* Cost: $125 (global) / $95 (India)
 * Exam ID: AD0-E607
 
 <br>
