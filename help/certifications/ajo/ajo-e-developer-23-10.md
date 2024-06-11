@@ -13,7 +13,13 @@ exl-id: 61fa61d8-f08c-4198-aafc-1dda9e4aab87
 
 >[!NOTE]
 >
->**New course available:** The free, on-demand [Adobe Journey Optimizer Developer Expert Course](https://app.rockinfo.com/courses/147) includes explanations of key concepts, hands-on demonstrations, and knowledge checks. _If you are prompted to log in, use your Adobe ID._
+>Free, on-demand resources are now available to help you prepare for your exam:
+>
+>* **Course:** The free, on-demand [Adobe Journey Optimizer Developer Expert Course](https://app.rockinfo.com/courses/147) includes explanations of key concepts, hands-on demonstrations, and knowledge checks.
+>
+>* **Exam Prep Guide:** The [Exam Prep Guide](https://app.rockinfo.com/courses/143) provides a tailored path through your exam prep process, including the in-depth study materials you'll need to be successful on your exam.
+>
+>_If you are prompted to log in, use your Adobe ID._
 
 ## Exam description {#exam-description}
 
@@ -125,44 +131,17 @@ Adobe Journey Optimizer is powered by Experience Platform. Candidates seeking to
 
 {{take-course}}
 
-<a href="https://app.rockinfo.com/courses/147" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-                    
- <span class="spectrum-Button-label has-no-wrap">
-   Take the Adobe Journey Optimizer Developer Expert Course
-</span>
-</a>
-
-**Study resources**
-
-**Section 1: Administration and Configuration**
-
-* [Experience Platform, Access Control, Sandboxes Guide](https://experienceleague.adobe.com/docs/experience-platform/access-control/home.html){target="_blank"}
-* [AJO Guide, Configuration, SMS channel, Journeys](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html){target="_blank"}
-* [AJO APIs](https://developer.adobe.com/journey-optimizer-apis/#tag/Suppression/operation/deleteAllSuppressions){target="_blank"}
- 
-**Section 2: Journey Orchestration**
-
-* [AJO Guide, Journeys, Expressions, Track and monitor](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html){target="_blank"}
- 
-**Section 3: Offer Decisioning**
-
-* [AJO Guide, Decision management, API reference](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html){target="_blank"}
-
-**Section 4: Content Authoring**
-
-* [AJO Guide, SMS channel, Privacy, Configuration, Journeys, Expressions, Content management, Track and monitor, Push notification channel](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html){target="_blank"}
-* [Journey Optimizer Tutorials](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html){target="_blank"}
- 
-**Section 5: Data Modeling**
-
-* [AJO Guide, Configuration, Audiences, profiles and identity, Data management](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html){target="_blank"}
-* [Experience Platform, Datasets, Source Connectors Guide, API Tutorials, Platform Identity Service Guide, Segmentation UI, UI Tutorials](https://experienceleague.adobe.com/docs/experience-platform.html){target="_blank"}
-
-<br>
+[Take the Adobe Journey Optimizer Developer Expert Course](https://app.rockinfo.com/courses/147)
 
 **Take a practice test**
 
 {{practice-test}}
+
+**Exam Prep Guide**
+
+{{exam-prep-guide}}
+
+[View Exam Prep Guide](https://app.rockinfo.com/courses/143)
 
 +++
 
