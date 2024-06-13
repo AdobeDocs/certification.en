@@ -67,7 +67,6 @@ Additionally, you should have a basic understanding of the eCommerce experience,
 * Order life cycle
 * [!DNL Magento] Marketplace and third-party extensions
 * Security and compliance (GDPR, ADA, PCI DSS v3.2.1, PSD2)
-* Pricing and promotion
 
 <br>
 
