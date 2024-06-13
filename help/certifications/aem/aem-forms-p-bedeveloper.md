@@ -146,16 +146,9 @@ You should be familiar with the following technologies and environments:
 
 [View Exam Prep Guide](https://app.rockinfo.com/courses/123)
 
-**Sample questions**
+**Take a practice test**
 
-{{sample-questions}}
-
-<a href="https://scorpion.caveon.com/launchpad/ad4-e127-adobe-experience-manager-backend-forms-developer-practice-exam" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-                    
- <span class="spectrum-Button-label has-no-wrap">
-   View sample questions
-</span>
-</a>
+{{practice-test}}
 
 +++ 
 
