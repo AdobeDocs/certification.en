@@ -165,7 +165,7 @@ Ensure that you have followed step 1 above, and successfully logged in to [Adobe
 
 **Exam details:**
   
-* Passing Score: 26/35
+* Passing Score: 27/35
 * Time: 70 mins
 * Cost: FREE/non-proctored
 * Delivery: On-demand
