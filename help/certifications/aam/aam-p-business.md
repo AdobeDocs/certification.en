@@ -116,11 +116,15 @@ You should have a basic understanding of data flows, business objectives and KPI
 
 [View Exam Prep Guide](https://app.rockinfo.com/courses/245)
 
-**Sample questions**
+**Take a practice test**
 
-{{sample-questions}}
+We recommend taking the free practice test before you start. You'll have unrestricted access to all available practice tests for Adobe's expert-level exams.
 
-[View sample questions](https://scorpion.caveon.com/launchpad/ad0-e458-adobe-audience-manager-business-practitioner-professional-copy-dvaivw){target="_blank"}
+Our practice tests are all developed from the same blueprint as the live exams. The practice test will help you understand the topics covered in the live exam.
+
+Please remember that passing a practice test does not guarantee you will pass the certification exam.
+
+[Take the practice test](https://scorpion.caveon.com/launchpad/ad4-e458-adobe-audience-manager-business-practitioner-professional-practice-exam)
 
 +++ 
 
