@@ -1,9 +1,9 @@
 ---
-title: Expert certification
+title: Professional certification
 description: Learn how to become a certified Adobe [!DNL Journey Optimizer] Business Practitioner Professional.
 solution: Journey Optimizer
 product: Journey Optimizer
-role: Developer
+role: User
 badge: label="Exam AD0-E607" type="neutral"
 exl-id: bc0be483-80c0-4a54-9562-1c2e93501db0
 ---
