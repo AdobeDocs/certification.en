@@ -124,7 +124,7 @@ Our practice tests are all developed from the same blueprint as the live exams. 
 
 Please remember that passing a practice test does not guarantee you will pass the certification exam.
 
-[Take the practice test](https://scorpion.caveon.com/launchpad/ad4-e458-adobe-audience-manager-business-practitioner-professional-practice-exam)
+[Take practice test](https://scorpion.caveon.com/launchpad/ad4-e458-adobe-audience-manager-business-practitioner-professional-practice-exam)
 
 +++ 
 
