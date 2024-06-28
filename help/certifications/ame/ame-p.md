@@ -14,7 +14,13 @@ exl-id: df1a2c71-5216-47d1-a971-5c07dd3e2d2a
 
 >[!NOTE]
 >
->**New study resources available:** The [Exam Prep Guide](https://app.rockinfo.com/courses/247) provides a tailored path through your certification exam prep process, including the in-depth study materials you'll need to be successful in attaining this certification. _If you are prompted to log in to the Exam Prep Guide, use your Adobe ID._
+>Free, on-demand resources are now available to help you prepare for your exam:
+>
+>* **Course**: If you're just starting out, or need a refresher, take the [Adobe Marketo Engage Foundations Course](https://app.rockinfo.com/courses/261) to access explanations of key concepts, product walk-throughs, and knowledge checks. This provides a basis of knowledge you can build on in your certification journey.
+>
+>* **Exam Prep Guide:** The [Exam Prep Guide](https://app.rockinfo.com/courses/247) provides a tailored path through your exam prep process, including the in-depth study materials you'll need to be successful on your exam.
+>
+>_If you are prompted to log in to the Exam Prep Guide, use your Adobe ID._
 
 ## Exam description {#exam-description}
 
@@ -156,6 +162,12 @@ Additionally, you should be familiar with the following tools and technologies:
 **Take a practice test**
 
 {{practice-test}}
+
+**Take a course**
+
+{{take-course}}
+
+[Take the Adobe Marketo Engage Foundations Course](https://app.rockinfo.com/courses/261)
 
 **Exam Prep Guide**
 
