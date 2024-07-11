@@ -142,12 +142,6 @@ Ensure that you have followed step 1 above, and successfully logged in to [Adobe
 
 +++
 
->[!TAB Expert]
-
->[!NOTE]
->
->Expert renewal coming soon.
-
 >[!ENDTABS]
 
 ## Questions

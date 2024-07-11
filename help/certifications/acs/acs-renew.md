@@ -28,12 +28,6 @@ It's important to note that if your certification expires, you'll have to retake
 
 >[!BEGINTABS]
 
->[!TAB Professional]
-
->[!NOTE]
->
->Professional renewal coming soon.
-
 >[!TAB Expert]
 
 +++Adobe [!DNL Campaign Standard] Business Practitioner expert renewal
