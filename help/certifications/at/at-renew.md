@@ -84,7 +84,7 @@ Section 2: Configuring, Executing and Managing 45%
 * Describe procedures to conduct Activity QA 
 * Describe procedures to manage Activities and Audiences in [!DNL Target] 
 
-* Section 3: Analyzing and Reporting 19%
+Section 3: Analyzing and Reporting 19%
 
 * Describe settings to help set the elements that appear in a report
 * Describe the difference in Adobe [!DNL Target] Sample Size Calculator settings between planning and validating
