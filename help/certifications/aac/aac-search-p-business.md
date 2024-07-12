@@ -56,6 +56,7 @@ You should also have experience working with the following functions:
 * Preparing portfolios to have sufficient data to optimize
 * Creating/pulling reports
 * tROAS bidding tactics
+* Hybrid bidding and optimization tactics
 * Setting up conversion tracking
 * Setting up objectives
 * Managing portfolio against a target
