@@ -222,5 +222,3 @@ View the certification [FAQ](https://experienceleague.adobe.com/docs/certificati
 
 Additional questions? [Contact us](mailto:certif@adobe.com){target="_blank"}.
 
-
-
