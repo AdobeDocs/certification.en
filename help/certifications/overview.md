@@ -11,11 +11,6 @@ Learn about Experience Cloud certification at Adobe and what getting certified c
 
 ![Banner](/help/certifications/assets/home_banner_smallwide.png)
 
->[!WARNING]
->
->Some users have reported receiving an error when they try to log in to the Adobe Credential Management System, preventing them from taking their exam. We are working to resolve this issue. Affected users will be contacted with further information.
-
-
 The Adobe Digital Experience Certification Program was created to help you prove your skills in Adobe [!DNL Experience Cloud] products. Becoming Adobe Certified allows you to showcase your expertise and impress clients and employers alike.
 
 Adobe [!DNL Experience Cloud] is a suite of digital marketing solutions that enables businesses to deliver personalized customer experiences across multiple channels, including web, mobile, email, and social media. Adobe [!DNL Experience Cloud] includes a range of products, such as Adobe [!DNL Real-Time CDP], Adobe [!DNL Experience Manager], Adobe [!DNL Commerce], Adobe [!DNL Journey Optimizer], Adobe [!DNL Customer Analytics], and more.
