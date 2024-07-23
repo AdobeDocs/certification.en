@@ -10,6 +10,10 @@
 
 ## Intro {#intro}
 
+>[!WARNING]
+>
+>Some users have reported receiving an error when they try to log in to the Adobe Credential Management System, preventing them from taking their exam. We are working to resolve this issue. Affected users will be contacted with further information.
+
 This page provides information on how to attain this certification. It includes a description of the exam, study materials, step-by-step instructions on the certification process, and how to renew your certification.
 
 <!--divider-->
