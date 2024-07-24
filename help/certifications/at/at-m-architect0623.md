@@ -119,7 +119,7 @@ Environments:
 **Section 6: Architect, design and implement [!DNL Adobe Target] (18%)**
 
 * Select the correct Target Request implementation (Global, Order Confirm, Hybrid)
-Evaluate and design an [!DNL Adobe Target] implementation
+* Evaluate and design an [!DNL Adobe Target] implementation
 * Describe the implementation of [!DNL Adobe Target] in Native Mobile Apps
 
 **Section 7: Troubleshooting (28%)**
