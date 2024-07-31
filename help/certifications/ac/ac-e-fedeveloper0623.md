@@ -129,14 +129,6 @@ Additionally, you should be comfortable using the following technologies:
 
 <br>
 
-### Readiness questionnaire
-
-{{readiness}}
-
-[Take the online readiness questionnaire](https://scorpion.caveon.com/launchpad/ad0-e710-adobe-commerce-front-end-developer-expert-copy-jtnjz6){target="_blank"}
-
-<br>
-
 ## How to get certified {#how-to-get-certified}
 
 {{how-to-get-certified-intro}}
