@@ -232,6 +232,6 @@ Ensure that you have followed step 1 above, and successfully logged in to [Adobe
 
 ## Questions
 
-Have a question about Adobe Certification? [Contact us](mailto:certif@adobe.com){target="_blank"}.
+Have a question about Adobe Certification? [Contact us](mailto:certif@adobe.com).
 
 View the certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
