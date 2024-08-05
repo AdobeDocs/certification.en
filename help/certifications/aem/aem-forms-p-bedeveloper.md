@@ -205,6 +205,6 @@ You should be familiar with the following technologies and environments:
 
 View the certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-Additional questions? [Contact us](mailto:certif@adobe.com){target="_blank"}.
+Additional questions? [Contact us](mailto:certif@adobe.com).
 
 

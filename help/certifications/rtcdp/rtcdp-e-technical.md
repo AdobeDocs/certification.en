@@ -68,7 +68,7 @@ You should have:
 >
 ><br>
 >
->**If you have already scheduled exam AD0-E600**, we strongly recommend canceling your appointment in the Examity portal (see step 3 below) and rescheduling when the new exam is released. For questions, please contact [Certification Support](mailto:certif@adobe.com){target="_blank"}.
+>**If you have already scheduled exam AD0-E600**, we strongly recommend canceling your appointment in the Examity portal (see step 3 below) and rescheduling when the new exam is released. For questions, please contact [Certification Support](mailto:certif@adobe.com).
 
 The AD0-E600 exam validates skills and knowledge covering the basic features and frequently performed tasks of Adobe [!DNL Experience Platform] at the Expert level.
 
@@ -177,7 +177,7 @@ The AD0-E600 exam validates skills and knowledge covering the basic features and
 >
 ><br>
 >
->**If you have already scheduled exam AD0-E600**, we strongly recommend canceling your appointment in the Examity portal and rescheduling when the new exam is released. For questions, please contact [Certification Support](mailto:certif@adobe.com){target="_blank"}.
+>**If you have already scheduled exam AD0-E600**, we strongly recommend canceling your appointment in the Examity portal and rescheduling when the new exam is released. For questions, please contact [Certification Support](mailto:certif@adobe.com).
 
 {{schedule-and-pay}}
 
@@ -205,7 +205,7 @@ The AD0-E600 exam validates skills and knowledge covering the basic features and
 >
 ><br>
 >
->**If you have already scheduled exam AD0-E600**, we strongly recommend canceling your appointment in the Examity portal and rescheduling when the new exam is released. For questions, please contact [Certification Support](mailto:certif@adobe.com){target="_blank"}.
+>**If you have already scheduled exam AD0-E600**, we strongly recommend canceling your appointment in the Examity portal and rescheduling when the new exam is released. For questions, please contact [Certification Support](mailto:certif@adobe.com).
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E600" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
                     
@@ -238,7 +238,7 @@ The AD0-E600 exam validates skills and knowledge covering the basic features and
 >
 ><br>
 >
->**If you have already passed the AD0-E600 Adobe [!DNL Experience Platform] Technical Foundations Exam and have been preparing for the AD7-E601 exam**, we suggest you keep your appointment, as passing the AD7-E601 exam will award you the Adobe [!DNL Real-Time Customer Data Platform] Expert Certification. For questions, please contact [Certification Support](mailto:certif@adobe.com){target="_blank"}.
+>**If you have already passed the AD0-E600 Adobe [!DNL Experience Platform] Technical Foundations Exam and have been preparing for the AD7-E601 exam**, we suggest you keep your appointment, as passing the AD7-E601 exam will award you the Adobe [!DNL Real-Time Customer Data Platform] Expert Certification. For questions, please contact [Certification Support](mailto:certif@adobe.com).
 
 The AD7-E601 exam covers the creation, management and understanding of customer profile, segmentation, destinations across sources, and other topics. The exam validates the foundational skills and knowledge needed to employ Real-time CDP for audience segmentation, destination exports, and activation on a real-time basis for unified profiles that adhere to data and privacy regulations. Candidates should have experience with Customer Data Platforms (CDP) and knowledge of Adobe [!DNL Experience Platform].
 
@@ -425,4 +425,4 @@ Section 3: Destinations (27%)
 
 View the certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-Additional questions? [Contact us](mailto:certif@adobe.com){target="_blank"}.
+Additional questions? [Contact us](mailto:certif@adobe.com).

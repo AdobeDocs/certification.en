@@ -171,5 +171,5 @@ You should have a basic understanding of data flows, business objectives and KPI
 
 View the certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-Additional questions? [Contact us](mailto:certif@adobe.com){target="_blank"}.
+Additional questions? [Contact us](mailto:certif@adobe.com).
 

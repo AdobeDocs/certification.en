@@ -195,4 +195,4 @@ You should have a minimum of 3 months of experience in [!DNL Adobe Analytics] an
 
 View the certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-Additional questions? [Contact us](mailto:certif@adobe.com){target="_blank"}.
+Additional questions? [Contact us](mailto:certif@adobe.com).

@@ -205,4 +205,4 @@ Adobe Journey Optimizer is powered by Experience Platform. Candidates seeking to
 
 View the certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-Additional questions? [Contact us](mailto:certif@adobe.com){target="_blank"}.
+Additional questions? [Contact us](mailto:certif@adobe.com).
