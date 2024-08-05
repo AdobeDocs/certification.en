@@ -54,7 +54,7 @@ If you fail to pass an Adobe certification exam on your first attempt, you must 
 
 **Certification exam prices**
 
-| Adobe Certificaiton | Price (USD) | India Price (USD) |
+| Adobe Certification | Price (USD) | India Price (USD) |
 | ------- | ------- | ------- |
 | Adobe Certified Professional | $125 | $95 |
 | Adobe Certified Expert | $225 | $150 |
