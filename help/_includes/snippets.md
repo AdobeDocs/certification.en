@@ -184,6 +184,10 @@ Adobe uses Examity to administer proctored exams online. In the Examity portal, 
 >
 >You must log in to the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} before clicking on the Examity button below.
 
+>[!WARNING]
+>
+>The Adobe Digital Experience Certification Program is preparing for upgrades. Because of this, candidates cannot currently schedule exam appointments to take place after September 26, 2024. Scheduling will return to normal once upgrades are finished.
+
 <!--divider-->
 
 ## Manage your badges {#manage-your-badges}
