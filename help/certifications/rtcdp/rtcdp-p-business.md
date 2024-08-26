@@ -32,7 +32,7 @@ exl-id: 3b970c7a-177c-4bf6-bf0b-4ea2f78bdcd2
 ### Exam details {#exam-details}
 
 * Level: Professional (0-12 months' experience)
-* Passing Score: 28/50
+* Passing Score: 33/50
 * Time: 100 mins
 * Delivery: Online proctored (requires camera access)
 * Available languages: English
