@@ -13,9 +13,16 @@ exl-id: 83074292-b71e-4ae1-b5e3-5645e3ad1ade
 
 {{intro}}
 
+
 >[!NOTE]
 >
->**New study resources available:** The [Exam Prep Guide](https://app.rockinfo.com/courses/217) provides a tailored path through your certification exam prep process, including the materials you'll need to be successful in attaining this certification. _If you are prompted to log in to the Exam Prep Guide, use your Adobe ID._
+>Free, on-demand resources are now available to help you prepare for your exam:
+>
+>* **Course:** If you're just starting out, or need a refresher, take the [Adobe Analytics Foundations course](https://app.rockinfo.com/courses/263) to access explanations of key concepts, product walk-throughs, and knowledge checks. This course will provide a basis of knowledge you can build on in your certification journey.
+>
+>* **Exam Prep Guide:** The [Exam Prep Guide](https://app.rockinfo.com/courses/217) provides a tailored path through your exam prep process, including the in-depth study materials you'll need to be successful on your exam.
+>
+>_If you are prompted to log in to the Exam Prep Guide, use your Adobe ID._
 
 ## Exam description {#exam-description}
 
@@ -141,6 +148,12 @@ You should also have experience with the following tasks:
 **Take a practice test**
 
 {{practice-test}}
+
+**Take a course**
+
+{{take-course}}
+
+[Adobe Analytics Foundations course](https://app.rockinfo.com/courses/263)
 
 **Exam Prep Guide**
 
