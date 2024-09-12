@@ -152,10 +152,6 @@ Additionally, you should be familiar with the following technologies and environ
 
 {{study-materials-intro}}
 
-**Take a practice test**
-
-{{practice-test}}
-
 **Exam Prep Guide**
 
 {{exam-prep-guide}}
