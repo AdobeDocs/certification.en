@@ -163,10 +163,6 @@ Environments:
 
 {{study-materials-intro}}
 
-**Take a practice test**
-
-{{practice-test}}
-
 **Exam Prep Guide**
 
 {{exam-prep-guide}}
