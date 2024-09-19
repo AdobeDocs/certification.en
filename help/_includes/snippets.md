@@ -186,7 +186,7 @@ Adobe uses Examity to administer proctored exams online. In the Examity portal, 
 
 >[!WARNING]
 >
->The Adobe Digital Experience Certification Program is preparing for upgrades. Because of this, candidates cannot currently schedule exam appointments to take place after September 26, 2024. Scheduling will return to normal once upgrades are finished.
+>The Adobe Digital Experience Certification Program is preparing for upgrades. Because of this, candidates cannot currently schedule exam appointments to take place after October 13, 2024. Scheduling will return to normal once upgrades are finished.
 
 <!--divider-->
 
