@@ -116,13 +116,13 @@ Pay by voucher: To purchase an exam voucher go to: Adobe Certification Voucher C
 
 **Purchasing a voucher**
 
-You can pay for an exam with a voucher. To purchase an exam voucher go to the [Adobe Certification Voucher Center](https://market.xvoucher.com/adobe/global){target="_blank"}.
+You can pay for an exam with a voucher. To purchase an exam voucher go to the [Adobe Certification Voucher Center](https://certification.adobe.com/certifications/vouchers){target="_blank"}.
 
 You can apply the voucher code when you schedule your exam. See below for voucher discount information.
 
 All candidates can receive a discount on bulk purchases of 10 or more exams when they purchase via the Adobe Certification Voucher Center.
 
-For more information on vouchers, please see the [FAQ](https://experienceleague.adobe.com/docs/certification/program/faq.html){target="_blank"}.
+For more information on vouchers, please see the [FAQ](https://certification.adobe.com/certifications/vouchers?tab=faq-vouchers-tab){target="_blank"}.
 
 **Discounts**
 
@@ -136,7 +136,7 @@ Bulk discounts are available:
 
 Partner discounts: Bronze level Partners and above get discounts on all Adobe certification exams and classes. You can read more about these discounts and how to access partner benefits on the Solution Partner Portal.
 
-Voucher discounts: All candidates can receive a discount on bulk purchases of 10 or more exams when they purchase via the Adobe Certification Voucher Center.
+Voucher discounts: All candidates can receive a discount on bulk purchases of 10 or more exams when they purchase via the [Adobe Certification Voucher Center](https://certification.adobe.com/certifications/vouchers){target="_blank"}.
 
 Note: Bulk discounts cannot be combined with any other offer or discount.
 
@@ -176,7 +176,7 @@ Adobe uses Examity to administer proctored exams online. In the Examity portal, 
 
 * **Schedule, reschedule or cancel your exam.** Please note that canceling and rescheduling must be initiated prior to 48 hours before the scheduled exam appointment. Candidates must modify this appointment themselves. 
 
-* **Pay for your exam.** Pay for your certification exam either by voucher or credit card in the Examity portal. To purchase an exam voucher go to: [Adobe Certification Voucher System](https://market.xvoucher.com/adobe/global){target="_blank"}. You can apply the voucher code when you schedule your exam. If you have a discount, it will apply at checkout. 
+* **Pay for your exam.** Pay for your certification exam either by voucher or credit card in the Examity portal. To purchase an exam voucher go to: [Adobe Certification Voucher Center](https://certification.adobe.com/certifications/vouchers){target="_blank"}. You can apply the voucher code when you schedule your exam. If you have a discount, it will apply at checkout. 
 
 * **Take your exam.**
 
