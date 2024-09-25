@@ -180,9 +180,7 @@ Adobe uses Examity to administer proctored exams online. In the Examity portal, 
 
 * **Take your exam.**
 
->[!NOTE]
->
->You must log in to the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} before clicking on the Examity button below.
+**Please note:** You must log in to the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} before clicking on the Examity button below.
 
 >[!WARNING]
 >
