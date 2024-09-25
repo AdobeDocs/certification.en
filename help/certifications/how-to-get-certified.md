@@ -66,7 +66,7 @@ Most certification renewals are **free of charge**. For certifications that do n
 
 **Paying for your exam**
 
-You can pay for your certification exam by voucher or credit card. To purchase an exam voucher go to: [Adobe Certification Voucher Center](https://market.xvoucher.com/adobe/global){target="_blank"}. 
+You can pay for your certification exam by voucher or credit card. To purchase an exam voucher go to: [Adobe Certification Voucher Center](https://certification.adobe.com/certifications/vouchers){target="_blank"}. 
 
 You can apply the voucher code when you schedule your exam. If you have a discount, it is applied at checkout.
 
@@ -76,7 +76,7 @@ Bronze and above partners get discounts on all Adobe certification exams and cla
 
 **Other discounts**
 
-Additionally, all candidates can receive a discount on bulk purchases of 10 or more exams when they purchase via the [Adobe Certification Voucher Center](https://market.xvoucher.com/adobe/global){target="_blank"}. 
+Additionally, all candidates can receive a discount on bulk purchases of 10 or more exams when they purchase via the [Adobe Certification Voucher Center](https://certification.adobe.com/certifications/vouchers). 
 
 **Bulk discount levels**
 
@@ -88,6 +88,68 @@ Note: Bulk discounts cannot be combined with any other offer or discount.
 | 25-49 | 25% |
 | 50+ | 33% |
 
+>[!TAB Vouchers]
+
+The Adobe Digital Experience Certification Program is moving to a new platform this fall! The new Adobe Certification Portal will offer technical training as well as an improved user experience for certification candidates. 
+ 
+As part of the portal, we have designed a new [Adobe Voucher Center](https://certification.adobe.com/certifications/vouchers?tab=purchase-vouchers-tab){target="_blank"}, which is launching on September 23, 2024. This new system for purchasing and managing vouchers is more robust, easier to navigate, and offers enhanced reporting options for admins. 
+
+Any vouchers you have already purchased through Xvoucher will be available on the Adobe Certification Portal within 72 hours of this transition. After you have logged in, go to the [Adobe Voucher Center](https://certification.adobe.com/certifications/vouchers?tab=purchase-vouchers-tab){target="_blank"} to view your active vouchers and voucher history, and purchase new vouchers.
+
+**Important dates to remember:**
+
+**September 23, 2024, 12:01 AM ET**
+* Vouchers can no longer be purchased on Xvoucher.
+* Voucher purchasing will be available in the [Adobe Voucher Center](https://certification.adobe.com/certifications/vouchers?tab=purchase-vouchers-tab){target="_blank"}.
+* Exams can still be scheduled from the [Adobe Credential Management System](https://www.certmetrics.com/adobe/){target="_blank"}.
+
+**September 25, 2024 at 8:00 AM ET**
+* Vouchers from your Xvoucher account will appear in the [Adobe Voucher Center](https://certification.adobe.com/certifications/vouchers?tab=purchase-vouchers-tab){target="_blank"}.
+
+**At-a-glance FAQ**
+
++++What happens to existing vouchers?
+
+Any vouchers you have already purchased through Xvoucher will be available on the Adobe Certification Portal on September 25, 2024 at 8:00 AM ET. You may still use these vouchers for scheduling exams. The numbers will not change even after the transition away from Xvoucher.
+
++++
+ 
++++How do I purchase vouchers on the Adobe Certification Portal?
+
+Go to the [Adobe Voucher Center](https://certification.adobe.com/certifications/vouchers?tab=purchase-vouchers-tab){target="_blank"} and add the desired number of vouchers to your cart. As long as you are logged in with your partner email, your partner discount will be applied. 
+
+For a demo on voucher purchasing, view this [video](https://video.tv.adobe.com/v/3434122){target="_blank"}.
+
++++
+
++++How do I assign and manage vouchers for my team?
+
+This [video](https://video.tv.adobe.com/v/3434581){target="_blank"} provides a detailed overview of the Adobe Voucher Center's admin features. 
+
++++
+
++++Where can I view my team's vouchers?
+
+Your team's vouchers will be visible in the [Adobe Voucher Center](https://certification.adobe.com/certifications/vouchers?tab=purchase-vouchers-tab){target="_blank"}.
+
++++
+
++++Where can my team members view their assigned vouchers?
+
+Individuals can view their assigned vouchers in their [account](https://certification.adobe.com/user/purchases){target="_blank"} on the Adobe Certification Portal.
+
++++
+
++++How do I start my purchase order onboarding in the new system?
+
+Please see the last question in our [Voucher FAQ](https://certification.adobe.com/certifications/vouchers?tab=faq-vouchers-tab){target="_blank"}: "What is the process for paying with a Purchase Order?"
+
++++
+
+**Questions?**
+
+Please visit the detailed [Voucher FAQ](https://certification.adobe.com/certifications/vouchers?tab=faq-vouchers-tab){target="_blank"} on our website.
+
 >[!TAB Certification vendors]
 
 The Adobe Digital Experience Certification Program partners with vendors to help support the program's initiatives and goals. Here are the vendors and their contact information: 
@@ -96,7 +158,6 @@ The Adobe Digital Experience Certification Program partners with vendors to help
 | ------- | ------- | ------- |
 |Credly| Badge Management System |[Support](https://credlyissuer.zendesk.com/hc/en-us){target="_blank"} |
 |Examity|Test Delivery Vendor (only Online Proctoring)| [Email](mailto:support@examity.com){target="_blank"} or 855-Examity (855-392-6489) |
-|Xvoucher - Adobe Certification Voucher Center|Voucher center to purchase individual or bulk vouchers|[Email](mailto:support@xvoucher.com){target="_blank"} or [Online help](https://help.xvoucher.com/hc/en-us)|
 
 Other Vendor Resources:
 
@@ -117,69 +178,6 @@ Helpful Videos:
 * [How to reschedule your test appointment](https://vimeo.com/394507149){target="_blank"}
 * [How to cancel your test appointment](https://vimeo.com/394507135){target="_blank"}
 * [How to take you online test](https://vimeo.com/394506686){target="_blank"}
-
-Adobe Certification Voucher Center (Xvoucher) FAQ
-
-+++When do exam vouchers expire? How long are they good for?
-
-Adobe exam vouchers expire 12 months after purchase. Vouchers cannot be extended past their expiration date. Exam registrations must be scheduled, paid for, and taken before the exam voucher expiration date.
-
-+++
-
-+++Can vouchers be returned for credit or refund? 
-
-_All sales are final._ Returns and refunds are not accepted. Adobe exam vouchers are purchased at an exam level, not for specific exams, and that provides flexibility. 
-
-* Example: When you buy 10 Adobe Certified Expert-level exam vouchers, and distribute them, you don't have to know ahead of time or plan who will take which Expert exam. 
-* Administrators can assign the voucher to a user and see if the voucher was viewed, redeemed or when the exam is scheduled or took place. 
-
-+++
-
-+++What kind of payments are accepted?
-
-Payment may be made by (all major) credit cards. Payments via credit card require acceptance of an online click-wrap agreement. The different payment options are: 
-
-* Wire, purchase order, or ACH: Create a purchase order in the Xvoucher system that can be printed and sent to your accounts payable department. That order will be approved upon receipt of the wire transfer or check. 
-* Credit card: All major credit cards accepted. 
-* Xwallet: This will subtract the order amount from your Xwallet pool. 
-
-+++
-
-+++Is there a minimum or maximum number of vouchers I can purchase?
-
-No, there is no minimum or maximum. Customer purchases are only limited based on available funds, such as a credit card limit or bank account balance for wire transfers.
-
-+++
-
-+++How long will it take to get access to vouchers after I place my order?
-
-Vouchers will be available immediately after purchase if paying via credit card or Xwallet.
-
-* If you purchase for yourself, vouchers codes will be provided on screen and in email. 
-* If you purchase for others, log into your Xvoucher account and distribute the vouchers to your end-users from there. 
-* If paying via wire or purchase order, voucher orders will be released when Xvoucher has received the funds. 
-
-[Online help](https://help.xvoucher.com/){target="_blank"}
-
-+++
-
-+++How do I access my Xvoucher account?
-
-Simply log in to your account [here](https://www.xvoucher.com/Login.aspx){target="_blank"}.
-
-+++
-
-+++How do I access my Adobe voucher? 
-
-After a voucher is assigned to you, you will receive an email from support@xvoucher.com with a voucher code and instructions on how to redeem the voucher. If you did not receive an email, check your spam folder. If you are still unable to find the email, you can log into your Xvoucher account. 
-
-+++
-
-+++Can vouchers be returned for credit or refund? 
-
-All sales are final. Returns and refunds are not accepted. Adobe Exam Vouchers are purchased at an exam level, not for specific exams, which provides great flexibility. 
-
-+++
 
 >[!TAB Managing your certification profile]
 
