@@ -9,6 +9,8 @@ exl-id: e7f1d21d-8e4a-4cbf-b1e5-379c194e0073
 ---
 # Renew your Adobe [!DNL Experience Manager] certification
 
+{{renewals-hold}}
+
 Your Adobe certification is valid for two years. If you are nearing this two-year mark, it's time to renew your certification to keep it active. 
 
 First, select the appropriate level on the tab below (Professional, Expert, or Master). Then carefully review what you'll need to do to renew your certification. 

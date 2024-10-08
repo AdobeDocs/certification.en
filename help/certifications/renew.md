@@ -8,6 +8,8 @@ exl-id: e54d11bb-d563-4779-ad42-b749be64611a
 ---
 # Renew your certification {#renew}
 
+{{renewals-hold}}
+
 To maintain your Adobe certification, you must renew it every 2 years. If you do not renew your certification before it expires, you will need to take the full certification exam again to become re-certified.
 
 View your current and expired certifications under the **Certifications** tab, in the [Adobe Credential Management system](https://www.certmetrics.com/adobe/candidate/cert_summary.aspx){target="_blank"}.

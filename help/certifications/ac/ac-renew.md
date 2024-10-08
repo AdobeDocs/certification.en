@@ -10,6 +10,8 @@ exl-id: 8587a974-e0c4-41a7-bcd1-4c038f1eabe0
 ---
 # Renew your Adobe [!DNL Commerce] certification
 
+{{renewals-hold}}
+
 Your Adobe certification is valid for two years. If you are nearing this two-year mark, it's time to renew your certification to keep it active. 
 
 First, select the appropriate level on the tab below (Professional, Expert, or Master). Then carefully review what you'll need to do to renew your certification. 
