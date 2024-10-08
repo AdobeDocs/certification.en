@@ -9,6 +9,8 @@ exl-id: 5ccc1b87-c6eb-4087-9ee4-324419af3b84
 ---
 # Renew your Adobe [!DNL Workfront] certification
 
+{{renewals-hold}}
+
 Your Adobe certification is valid for two years. If you are nearing this two-year mark, it's time to renew your certification to keep it active. 
  
 First, select the appropriate level on the tab below (Professional, Expert, or Master). Then carefully review what you'll need to do to renew your certification. 

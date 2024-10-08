@@ -11,6 +11,16 @@ Learn about Experience Cloud certification at Adobe and what getting certified c
 
 ![Banner](/help/certifications/assets/home_banner_smallwide.png)
 
+>[!NOTE]
+>Adobe Digital Experience Certification Program Update
+>
+>**The Adobe Digital Experience Certification Program is moving!** The new Adobe Certification Portal will launch on October 22, 2024. Please make note of these **important dates:**
+>
+>* **October 14, 2024:** Exam scheduling, practice tests, and access to the Adobe Credential Management System will be unavailable while we migrate data to the new portal
+>* **October 22, 2024:** The Adobe Certification Portal launches! Your certification history will be available on the new portal, along with all exam information, study resources, and scheduling capabilities. Your practice test scores and coaching reports going back to January 1, 2021, will also be available in your account.
+>
+>Check back here on October 22nd for details on logging in to the new Adobe Certification Portal!
+
 The Adobe Digital Experience Certification Program was created to help you prove your skills in Adobe [!DNL Experience Cloud] products. Becoming Adobe Certified allows you to showcase your expertise and impress clients and employers alike.
 
 Adobe [!DNL Experience Cloud] is a suite of digital marketing solutions that enables businesses to deliver personalized customer experiences across multiple channels, including web, mobile, email, and social media. Adobe [!DNL Experience Cloud] includes a range of products, such as Adobe [!DNL Real-Time CDP], Adobe [!DNL Experience Manager], Adobe [!DNL Commerce], Adobe [!DNL Journey Optimizer], Adobe [!DNL Customer Analytics], and more.

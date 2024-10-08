@@ -10,6 +10,8 @@ exl-id: 20086c0d-e925-49b4-80eb-c7231e5e0b3e
 ---
 # Renew your Adobe [!DNL Audience Manager] certification
 
+{{renewals-hold}}
+
 Your Adobe certification is valid for two years. If you are nearing this two-year mark, it's time to renew your certification to keep it active. 
 
 First, select the appropriate level on the tab below (Professional, Expert, or Master). Then carefully review what you'll need to do to renew your certification. 

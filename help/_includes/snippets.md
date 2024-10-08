@@ -12,6 +12,16 @@
 
 This page provides information on how to attain this certification. It includes a description of the exam, study materials, step-by-step instructions on the certification process, and how to renew your certification.
 
+>[!NOTE]
+>Adobe Digital Experience Certification Program Update
+>
+>**The Adobe Digital Experience Certification Program is moving!** The new Adobe Certification Portal will launch on October 22, 2024. Please make note of these **important dates:**
+>
+>* **October 14, 2024:** Exam scheduling, practice tests, and access to the Adobe Credential Management System will be unavailable while we migrate data to the new portal
+>* **October 22, 2024:** The Adobe Certification Portal launches! Your certification history will be available on the new portal, along with all exam information, study resources, and scheduling capabilities. Your practice test scores and coaching reports going back to January 1, 2021, will also be available in your account.
+>
+>Check back here on October 22nd for details on logging in to the new Adobe Certification Portal!
+
 <!--divider-->
 
 ## Exam description {#exam-description}
@@ -233,3 +243,9 @@ Our free, on-demand courses help prepare you for your exam. Courses may include 
 ## Exam Prep Guide {#exam-prep-guide}
 
 The free Exam Prep Guide provides a tailored path through your exam prep process, including the materials you'll need to be successful on your exam.
+
+## Renewals on hold {#renewals-hold}
+
+>[!WARNING]
+>
+>The Adobe Digital Experience Certification Program will soon be undergoing changes. If you are in the process of renewing your certification, please note that **October 13, 2024 is the last date to complete your renewal.**
