@@ -13,7 +13,6 @@
 This page provides information on how to attain this certification. It includes a description of the exam, study materials, step-by-step instructions on the certification process, and how to renew your certification.
 
 >[!NOTE]
->Adobe Digital Experience Certification Program Update
 >
 >**The Adobe Digital Experience Certification Program is moving!** The new Adobe Certification Portal will launch on October 22, 2024. Please make note of these **important dates:**
 >
