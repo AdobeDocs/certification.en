@@ -10,7 +10,7 @@
 
 ## Intro {#intro}
 
-This page provides information on how to attain this certification. It includes a description of the exam, study materials, step-by-step instructions on the certification process, and how to renew your certification.
+This page formerly provided information on how to attain this certification. Please see the note for updated information.
 
 >[!NOTE]
 >
