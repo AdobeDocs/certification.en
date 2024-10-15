@@ -22,6 +22,6 @@ exl-id: 48e3dc7c-0801-4f6d-853b-1fab9bb35e06
 * Cost: $225 (global) / $150 (India)
 * Exam ID: AD0-E208 (English), AD0-E208-J (Japanese)
 
- ## Questions
+## Questions
 
  [Contact us](mailto:certif@adobe.com)
