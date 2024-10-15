@@ -32,11 +32,11 @@ Adobe offers various resources and tools to help you renew your certification, i
 
 Most certifications can be renewed **free of charge**. Some certifications do not yet have a free renewal option. To renew those certifications, you will need to retake the full certification exam.
 
+<!-- 
+
 ## Free renewal options
 
 The certifications found under the links below can be renewed for free, either through continuous learning or by taking an on-demand renewal exam. If you do not find your certification here, you will need to renew by retaking the full certification exam.
-
-<!-- 
 
 >[!NOTE]
 >
