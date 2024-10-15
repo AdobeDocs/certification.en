@@ -12,6 +12,8 @@ exl-id: 48e3dc7c-0801-4f6d-853b-1fab9bb35e06
 
 {{intro}}
 
+<!--
+
 >[!NOTE]
 >
 >**New study resources available:** The [Exam Prep Guide](https://app.rockinfo.com/courses/220) provides a tailored path through your certification exam prep process, including the materials you'll need to be successful in attaining this certification. _If you are prompted to log in to the Exam Prep Guide, use your Adobe ID._
@@ -226,4 +228,8 @@ View the certification [FAQ](https://experienceleague.adobe.com/docs/certificati
 
 Additional questions? [Contact us](mailto:certif@adobe.com).
 
- 
+ -->
+
+ ## Questions
+
+ [Contact us](mailto:certif@adobe.com)
