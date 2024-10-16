@@ -19,4 +19,5 @@ exl-id: aeeef127-446c-4d22-8791-b93ea755545a
 
 * [Architect](/help/certifications/aam/aam-m-architect.md) <!--AD0-E454-->
 
-Visit the [Renew your certification](/help/certifications/renew.md) page to see if a renewal option is available for this product.
+{{questions}}
+

@@ -10,13 +10,17 @@ hidefromtoc: yes
 ---
 # Restart your certification journey by going from expired to certified
 
+>[!IMPORTANT]
+>
+>**This limited-time program is no longer being offered.**
+
+<!--
+
 The Adobe Restart Program allows individuals with eligible expired [!DNL Experience Cloud] certifications to re-certify free of charge through non-proctored, on-demand assessments or exams. 
 
 Certification is a valuable resource for people seeking to stay competitive, and this program provides an opportunity to update [!DNL Experience Cloud] skills and keep ahead of the curve in a rapidly changing digital landscape.
 
->[!IMPORTANT]
->
->**This limited-time program is only offered from April 24, 2023 through October 20, 2023.**
+
 
 ## Eligibility
 
@@ -823,3 +827,5 @@ The Adobe Marketo Engage Business Practitioner expert restart exam ADS-E824is fr
 View the certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Additional questions? [Contact us](mailto:certif@adobe.com).
+
+-->

@@ -19,4 +19,5 @@ exl-id: 8746c2a3-351f-4f6b-875d-5c72526d3166
 
 * [Architect](/help/certifications/ame/ame-m-architect-23-08.md) <!--AD0-E560-->
 
-Visit the [Renew your certification](/help/certifications/renew.md) page to see if a renewal option is available for this product.
+{{questions}}
+

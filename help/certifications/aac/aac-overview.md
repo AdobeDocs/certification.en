@@ -16,10 +16,6 @@ Adobe offers multiple certifications for Advertising Business practitioners.  Th
 * [Business Practitioner (Search)](/help/certifications/aac/aac-search-p-business.md) <!--AD0-E501-->
 * [Business Practitioner (DSP)](/help/certifications/aac/aac-dsp-p-business.md) <!--AD0-E502-->
 
-## Renewal
-
-Visit the [Renew your certification](/help/certifications/renew.md) page to see if a renewal option is available for this product.
-
 ## Resources
 
 For more information about these products, use these [business.adobe.com](https://business.adobe.com/) links,
@@ -27,8 +23,5 @@ For more information about these products, use these [business.adobe.com](https:
 * [Adobe Advertising Demand-side Platform (DSP)](https://business.adobe.com/products/advertising/demand-side-platform.html){target="_blank"}
 * [Adobe Advertising Search](https://business.adobe.com/products/advertising/search-marketing-management.html){target="_blank"}
 
-## Questions
+{{questions}}
 
-View the certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
-
-Additional questions? [Contact us](mailto:certif@adobe.com).

@@ -5,6 +5,7 @@ role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 0406eaf4-862c-4256-94c7-e9b02e628caa
+hidefromtoc: yes
 ---
 # Adobe certification FAQ
 

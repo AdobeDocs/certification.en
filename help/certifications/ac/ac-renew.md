@@ -12,6 +12,8 @@ exl-id: 8587a974-e0c4-41a7-bcd1-4c038f1eabe0
 
 {{renewals-hold}}
 
+<!--
+
 Your Adobe certification is valid for two years. If you are nearing this two-year mark, it's time to renew your certification to keep it active. 
 
 First, select the appropriate level on the tab below (Professional, Expert, or Master). Then carefully review what you'll need to do to renew your certification. 
@@ -475,3 +477,7 @@ Select **three activities** to complete and pass the course assessments associat
 View the certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Additional questions? [Contact us](mailto:certif@adobe.com).
+
+-->
+
+{{questions}}

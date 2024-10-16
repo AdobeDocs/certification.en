@@ -14,7 +14,7 @@ hidefromtoc: true
 
 >[!IMPORTANT]
 >
->The Adobe [!DNL Experience Platform] Expert certification currently requires passing two exams: **Adobe [!DNL Experience Platform] Technical Foundations (AD0-E600)** and **Adobe [!DNL Real-Time CDP] Technical Practitioner (AD7-E601)**. As of January 15, 2024, a new exam will be launched, and that will be only exam required for this certification.
+>The Adobe [!DNL Experience Platform] Expert certification formerly required passing two exams: **Adobe [!DNL Experience Platform] Technical Foundations (AD0-E600)** and **Adobe [!DNL Real-Time CDP] Technical Practitioner (AD7-E601)**. As of January 15, 2024, only one exam is required for this certification.
 
 {{intro}}
 

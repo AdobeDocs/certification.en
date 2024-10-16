@@ -2,7 +2,7 @@
 title: Certification restart eligibility exam checker
 description: Learn about exam eligibility for restarting a certification program at Adobe.
 recommendations: disable, exclude
-hidefromtoc: true
+hidefromtoc: yes
 exl-id: 23d948de-7d3d-4ccf-a55f-51bf117a41c8
 ---
 # Certification restart eligibility exam checker

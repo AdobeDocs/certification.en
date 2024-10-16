@@ -12,4 +12,5 @@ exl-id: 9ed6a519-e8ee-4212-8619-22ade3675446
 
 * [Developer](/help/certifications/aep/aep-e-foundations.md) <!--AD0-E601-->
 
-Visit the [Renew your certification](/help/certifications/renew.md) page to see if a renewal option is available for this product.
+{{questions}}
+
