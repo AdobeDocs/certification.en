@@ -15,4 +15,5 @@ exl-id: 8ffdae02-e1b5-4a32-b877-1fbe55c4852e
 
 * [Developer](/help/certifications/acja/acja-e-developer.md) <!--AD0-E604-->
 
-Visit the [Renew your certification](/help/certifications/renew.md) page to see if a renewal option is available for this product.
+{{questions}}
+

@@ -19,4 +19,5 @@ exl-id: 3ab8bdd7-768e-42ab-802a-7107ea56cdfd
 * [Developer (Core)](/help/certifications/aw/aw-core-e-developer-23-08.md) <!--AD0-E907-->
 * [AEM Enhanced Connector](/help/certifications/aw/aw-aem-e-connector.md) <!--AD0-E906-->
 
-Visit the [Renew your certification](/help/certifications/renew.md) page to see if a renewal option is available for this product.
+{{questions}}
+

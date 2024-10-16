@@ -23,4 +23,5 @@ exl-id: 8a9f63f9-b2f9-438f-b1f5-8706b2768626
 
 * [Architect](/help/certifications/ac/ac-m-architect.md) <!--AD0-E718-->
 
-Visit the [Renew your certification](/help/certifications/renew.md) page to see if a renewal option is available for this product.
+{{questions}}
+

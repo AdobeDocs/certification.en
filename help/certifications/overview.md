@@ -69,8 +69,4 @@ All of the details about each available product certification are listed in the 
 
 Are you looking for Adobe [!DNL Creative Cloud] certifications? Visit the [Adobe Certified Professional](https://certifiedprofessional.adobe.com/en/home){target="_blank"} website to learn how to get certified in Creative Cloud programs.
 
-## Questions
-
-View the certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
-
-Additional questions? [Contact us](mailto:certif@adobe.com).
+{{questions}}

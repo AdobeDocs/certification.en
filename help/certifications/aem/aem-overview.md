@@ -30,4 +30,4 @@ If you are looking for information on renewing your existing certification, visi
 
 * [Architect (Sites)](/help/certifications/aem/aem-sites-m-architect.md) <!--AD0-E117-->
 
-Visit the [Renew your certification](/help/certifications/renew.md) page to see if a renewal option is available for this product.
+{{questions}}

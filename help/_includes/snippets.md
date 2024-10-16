@@ -245,6 +245,16 @@ The free Exam Prep Guide provides a tailored path through your exam prep process
 
 ## Renewals on hold {#renewals-hold}
 
->[!WARNING]
+>[!NOTE]
 >
->The Adobe Digital Experience Certification Program will soon be undergoing changes. If you are in the process of renewing your certification, please note that **October 13, 2024 is the last date to complete your renewal.**
+>The Adobe Digital Experience Certification Program is simplifying the certification renewal process to make your experience more convenient. While this new process is being implemented, **renewals are temporarily on hold.**
+>
+>* For those whose certifications expire between October 14, 2024, and September 30, 2025, your certification is being extended until October 1, 2025.
+>
+>* Details regarding the updated renewal process will be shared in early March, ensuring that all certification holders will have adequate time to renew their certifications.
+
+<!--divider-->
+
+## Questions {#questions}
+
+**Questions?** [Contact us](mailto:certif@adobe.com)

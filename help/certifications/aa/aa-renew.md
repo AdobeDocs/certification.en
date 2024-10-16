@@ -8,9 +8,11 @@ mini-toc-levels: 1
 hidefromtoc: yes
 exl-id: c230a7b1-db10-497c-975a-920eb09acb29
 ---
-# Renew your Adobe [!DNL Analytics] certification
+# Renew your Adobe [!DNL Analytics] certification 
 
 {{renewals-hold}}
+
+<!--
 
 Your Adobe certification is valid for two years. If you are nearing this two-year mark, it's time to renew your certification to keep it active. 
 
@@ -322,3 +324,7 @@ Ensure that you have followed step 1 above, and successfully logged in to [Adobe
 View the certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Additional questions? [Contact us](mailto:certif@adobe.com).
+
+-->
+
+{{questions}}
