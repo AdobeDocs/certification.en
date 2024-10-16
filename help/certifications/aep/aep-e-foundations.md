@@ -16,7 +16,7 @@ exl-id: 5e15b6e5-a9c0-4927-89d8-4a43fbb0e863
 
 ## Requirement #1: Information for Adobe [!DNL Experience Platform] Technical Foundations (AD0-E600) {#req-1}
 
-### Exam details for AD0-E600 {#exam-details-600}
+## Exam details for AD0-E600 {#exam-details-600}
 
 * Level: Expert (1-3 years' experience)
 * Passing Score: 35/50
@@ -28,7 +28,7 @@ exl-id: 5e15b6e5-a9c0-4927-89d8-4a43fbb0e863
 
 ## Requirement #2: Information for Adobe [!DNL Real-Time CDP] Technical Practitioner (AD7-E601) {#req-2}
 
-### Exam details for AD7-E601
+## Exam details for AD7-E601
 
 * Level: Expert (1-3 years' experience)
 * Passing Score: 25/34
@@ -36,7 +36,7 @@ exl-id: 5e15b6e5-a9c0-4927-89d8-4a43fbb0e863
 * Delivery: Online proctored (requires camera access) or test center proctored
 * Language: English
 * Cost: $225 (global) / $150 (India)
-* Exam ID: AD7-E601
+* Exam ID: AD7-E601 
 
 {{questions}}
 

@@ -257,6 +257,4 @@ The free Exam Prep Guide provides a tailored path through your exam prep process
 
 ## Questions {#questions}
 
-## Questions
-
-[Contact us](mailto:certif@adobe.com)
+**Questions?** [Contact us](mailto:certif@adobe.com)

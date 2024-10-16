@@ -8,7 +8,7 @@ mini-toc-levels: 1
 hidefromtoc: yes
 exl-id: c230a7b1-db10-497c-975a-920eb09acb29
 ---
-# Renew your Adobe [!DNL Analytics] certification
+# Renew your Adobe [!DNL Analytics] certification 
 
 {{renewals-hold}}
 
