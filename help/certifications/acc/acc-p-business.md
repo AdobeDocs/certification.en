@@ -12,7 +12,7 @@ exl-id: 38af77fd-8e31-4cca-b953-3f83b61d3000
 
 {{intro}}
 
-### Exam details {#exam-details}
+## Exam details {#exam-details}
 
 * Level: Professional (0-12 months' experience)
 * Passing Score: 32/50
