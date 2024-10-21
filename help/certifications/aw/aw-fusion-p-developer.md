@@ -5,11 +5,14 @@ solution: Workfront
 role: Developer
 badge: label="Exam AD0-E902" type="neutral"
 mini-toc-levels: 1
+hidefromtoc: yes
 exl-id: d3d817d1-7a0c-439a-a02e-b2dcc64e4805
 ---
 # Certification journey for Adobe [!DNL Workfront Fusion] Developer Professional
 
 {{intro}}
+
+<!-- 
 
 ## Exam details {#exam-details}
 
@@ -22,3 +25,5 @@ exl-id: d3d817d1-7a0c-439a-a02e-b2dcc64e4805
 * Exam ID: AD0-E902
 
 {{questions}}
+
+-->

@@ -6,11 +6,14 @@ product: Experience Manager
 role: Developer
 badge: label="Exam AD0-E136" type="neutral"
 mini-toc-levels: 1
+hidefromtoc: yes
 exl-id: 64b53064-8280-405b-a5f7-b50264394b82
 ---
 # Certification journey for Adobe [!DNL Experience Manager] as a Cloud Service Migration Expert
 
 {{intro}}
+
+<!-- 
 
 ## Exam details {#exam-details}
 
@@ -23,3 +26,5 @@ exl-id: 64b53064-8280-405b-a5f7-b50264394b82
 * Exam ID: AD0-E136
 
 {{questions}}
+
+-->

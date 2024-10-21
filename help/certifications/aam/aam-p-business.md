@@ -7,11 +7,14 @@ role: User
 level: Experienced
 badge: label="Exam AD0-E458" type="neutral"
 mini-toc-levels: 1
+hidefromtoc: yes
 exl-id: 3665137b-8057-4205-ba4e-5deecf2672d6
 ---
 # Certification journey for Adobe [!DNL Audience Manager] Business Practitioner Professional
 
 {{intro}}
+
+<!-- 
 
 ## Exam details {#exam-details}
 
@@ -24,3 +27,5 @@ exl-id: 3665137b-8057-4205-ba4e-5deecf2672d6
 * Exam ID: AD0-E458
 
 {{questions}}
+
+-->

@@ -6,11 +6,14 @@ product: Experience Manager
 role: User
 badge: label="Exam AD0-E121" type="neutral"
 mini-toc-levels: 1
+hidefromtoc: yes
 exl-id: 0b533269-0826-4921-a539-d281c74da63d
 ---
 # Certification journey for Adobe [!DNL Experience Manager Sites] Business Practitioner Expert
 
 {{intro}}
+
+<!-- 
 
 ## Exam details {#exam-details}
 
@@ -23,3 +26,5 @@ exl-id: 0b533269-0826-4921-a539-d281c74da63d
 * Exam ID: AD0-E121 (English), AD0-E121-J (Japanese)
 
 {{questions}}
+
+-->

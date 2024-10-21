@@ -6,11 +6,14 @@ product: Customer Journey Analytics
 role: User
 badge: label="Exam AD0-E608" type="neutral"
 mini-toc-levels: 1
+hidefromtoc: yes
 exl-id: b5981d32-dea5-4fb9-be3e-809ec890513f
 ---
 # Certification journey for Adobe [!DNL Customer Journey Analytics] Business Practitioner Professional
 
 {{intro}}
+
+<!-- 
 
 ## Exam details {#exam-details}
 
@@ -23,3 +26,5 @@ exl-id: b5981d32-dea5-4fb9-be3e-809ec890513f
 * Exam ID: AD0-E608
 
 {{questions}}
+
+-->

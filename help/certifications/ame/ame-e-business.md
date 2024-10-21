@@ -6,11 +6,14 @@ product: Marketo
 role: User
 badge: label="Exam AD0-E559" type="neutral"
 mini-toc-levels: 1
+hidefromtoc: yes
 exl-id: 88f9cbfb-c9bc-4d27-a9de-1199c5cd013e
 ---
 # Certification journey for Adobe [!DNL Marketo Engage] Business Practitioner Expert
 
 {{intro}}
+
+<!-- 
 
 ## Exam details {#exam-details}
 
@@ -23,3 +26,5 @@ exl-id: 88f9cbfb-c9bc-4d27-a9de-1199c5cd013e
 * Exam ID: AD0-E559 (English), AD0-E559-J (Japanese)
 
 {{questions}}
+
+-->

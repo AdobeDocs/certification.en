@@ -6,11 +6,14 @@ product: Campaign
 role: Developer
 badge: label="Exam AD0-E330" type="neutral"
 mini-toc-levels: 1
+hidefromtoc: yes
 exl-id: 0c827fe3-b56b-4130-8436-2d3698c2e30b
 ---
 # Certification journey for Adobe [!DNL Campaign Classic] Developer Expert
 
 {{intro}}
+
+<!-- 
 
 ## Exam details {#exam-details}
 
@@ -23,3 +26,5 @@ exl-id: 0c827fe3-b56b-4130-8436-2d3698c2e30b
 * Exam ID: AD0-E330
 
 {{questions}}
+
+-->

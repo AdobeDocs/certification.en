@@ -6,11 +6,14 @@ product: Experience Manager
 role: Developer
 badge: label="Exam AD0-E125" type="neutral"
 mini-toc-levels: 1
+hidefromtoc: yes
 exl-id: 6b7fa868-69f3-49b4-934e-87cf86538039
 ---
 # Certification journey for Adobe [!DNL Experience Manager Forms] Developer Expert
 
 {{intro}}
+
+<!-- 
 
 ## Exam details {#exam-details}
 
@@ -23,3 +26,5 @@ exl-id: 6b7fa868-69f3-49b4-934e-87cf86538039
 * Exam ID: AD0-E125
 
 {{questions}}
+
+-->

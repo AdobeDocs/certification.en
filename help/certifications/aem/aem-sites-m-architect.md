@@ -6,11 +6,14 @@ product: Experience Manager
 role: Data Architect
 badge: label="Exam AD0-E117" type="neutral"
 mini-toc-levels: 1
+hidefromtoc: yes
 exl-id: 519381bd-fcea-40fd-a10a-046b7fb97913
 ---
 # Certification journey for Adobe [!DNL Experience Manager Sites] Architect Master
 
 {{intro}}
+
+<!-- 
 
 ## Exam details {#exam-details}
 
@@ -23,3 +26,5 @@ exl-id: 519381bd-fcea-40fd-a10a-046b7fb97913
 * Exam ID: AD0-E117 (English), AD0-E117-J (Japanese)
 
 {{questions}}
+
+-->

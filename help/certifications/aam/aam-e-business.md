@@ -6,12 +6,14 @@ product: Audience Manager
 role: User,Developer
 badge: label="Exam AD0-E457" type="neutral"
 mini-toc-levels: 1
+hidefromtoc: yes
 exl-id: 71141d87-828c-4c28-a6e2-0e12e885e1ad
 ---
 # Certification journey for [!DNL Adobe Audience Manager] Business Practitioner Expert
 
 {{intro}}
 
+<!-- 
 ## Exam details {#exam-details}
   
 * Level: Expert (1-3 years' experience)
@@ -23,3 +25,5 @@ exl-id: 71141d87-828c-4c28-a6e2-0e12e885e1ad
 * Exam ID: AD0-E457
 
 {{questions}}
+
+-->

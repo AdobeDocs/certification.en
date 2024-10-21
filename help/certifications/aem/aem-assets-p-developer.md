@@ -6,11 +6,14 @@ product: Experience Manager
 role: Developer
 badge: label="Exam AD0-E129" type="neutral"
 mini-toc-levels: 1
+hidefromtoc: yes
 exl-id: 710f6c8b-9a6c-445e-b831-a891b559f208
 ---
 # Certification journey for Adobe [!DNL Experience Manager] Assets Developer Professional
 
 {{intro}}
+
+<!-- 
 
 ## Exam details {#exam-details}
 
@@ -23,3 +26,5 @@ exl-id: 710f6c8b-9a6c-445e-b831-a891b559f208
 * Exam ID: AD0-E129
 
 {{questions}}
+
+-->

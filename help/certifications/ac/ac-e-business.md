@@ -7,11 +7,14 @@ role: User
 level: Experienced
 badge: label="Exam AD0-E708" type="neutral"
 mini-toc-levels: 1
+hidefromtoc: yes
 exl-id: 1f44f543-4303-43b8-a42e-431f504d7a03
 ---
 # Certification journey for [!DNL Adobe Commerce] Business Practitioner Expert
 
 {{intro}}
+
+<!-- 
 
 ## Exam details {#exam-details}
   
@@ -24,3 +27,5 @@ exl-id: 1f44f543-4303-43b8-a42e-431f504d7a03
 * Exam ID: AD0-E708
 
 {{questions}}
+
+-->

@@ -7,11 +7,14 @@ role: Data Architect
 level: Experienced
 badge: label="Exam AD0-E722" type="neutral"
 mini-toc-levels: 1
+hidefromtoc: yes
 exl-id: 594503d8-2064-4b05-ba09-9569e6ef9fc7
 ---
 # Certification journey for Adobe [!DNL Commerce] Architect Master
 
 {{intro}}
+
+<!-- 
 
 ## Exam details {#exam-details}
 
@@ -24,3 +27,5 @@ exl-id: 594503d8-2064-4b05-ba09-9569e6ef9fc7
 * Exam ID: AD0-E722
 
 {{questions}}
+
+-->

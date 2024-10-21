@@ -6,11 +6,14 @@ role: Developer
 level: Experienced
 badge: label="Exam AD0-E716" type="neutral"
 mini-toc-levels: 1
+hidefromtoc: yes
 exl-id: 025be894-3f29-4370-ac41-19901df4fb00
 ---
 # Certification journey for [!DNL Adobe Commerce] Developer Expert
 
 {{intro}}
+
+<!-- 
 
 ## Exam details {#exam-details}
 
@@ -23,3 +26,5 @@ exl-id: 025be894-3f29-4370-ac41-19901df4fb00
 * Exam ID: AD0-E716
 
 {{questions}}
+
+-->

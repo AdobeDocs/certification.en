@@ -5,11 +5,14 @@ solution: Journey Optimizer
 product: Journey Optimizer
 role: User
 badge: label="Exam AD0-E607" type="neutral"
+hidefromtoc: yes
 exl-id: bc0be483-80c0-4a54-9562-1c2e93501db0
 ---
 # Certification journey for Adobe [!DNL Journey Optimizer] Business Practitioner Professional
 
 {{intro}}
+
+<!-- 
 
 ## Exam details {#exam-details}
 
@@ -22,3 +25,5 @@ exl-id: bc0be483-80c0-4a54-9562-1c2e93501db0
 * Exam ID: AD0-E607
 
 {{questions}}
+
+-->

@@ -5,11 +5,14 @@ solution: Workfront
 role: Developer
 badge: label="Exam AD0-E903" type="neutral"
 mini-toc-levels: 1
+hidefromtoc: yes
 exl-id: 5bb372b4-6237-44f9-ac71-6093e2f0d03f
 ---
 # Certification journey for Adobe [!DNL Workfront] Project Manager Professional
 
 {{intro}}
+
+<!-- 
 
 ## Exam details {#exam-details}
 
@@ -22,3 +25,5 @@ exl-id: 5bb372b4-6237-44f9-ac71-6093e2f0d03f
 * Exam ID: AD0-E903
 
 {{questions}}
+
+-->

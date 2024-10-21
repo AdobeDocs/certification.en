@@ -6,11 +6,14 @@ product: Marketo
 role: User
 badge: label="Exam AD0-E555" type="neutral"
 mini-toc-levels: 1
+hidefromtoc: yes
 exl-id: df1a2c71-5216-47d1-a971-5c07dd3e2d2a
 ---
 # Certification journey for Adobe [!DNL Marketo Engage] Professional
 
 {{intro}}
+
+<!-- 
 
 ## Exam details {#exam-details}
 
@@ -23,3 +26,5 @@ exl-id: df1a2c71-5216-47d1-a971-5c07dd3e2d2a
 * Exam ID: AD0-E555 (English), AD0-E555-J (Japanese)
 
 {{questions}}
+
+-->

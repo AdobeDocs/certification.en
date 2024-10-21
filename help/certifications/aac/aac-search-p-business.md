@@ -7,20 +7,9 @@ level: Experienced
 role: User
 badge: label="Exam AD0-E501" type="neutral"
 mini-toc-levels: 1
+hidefromtoc: yes
 exl-id: f89a197f-dfe9-4e53-a783-97326bd6d934
 ---
 # Certification journey for [!DNL Adobe Advertising Search] Business Practitioner Professional
 
 {{intro}}
-
-## Exam details {#exam-details}
-
-* Level: Professional (0-12 months' experience)
-* Passing Score: 35/50
-* Time: 100 mins
-* Delivery: Online proctored (requires camera access)
-* Available languages: English
-* Cost: $125 (global) / $95 (India)
-* Exam ID: AD0-E501
-
-{{questions}}

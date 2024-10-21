@@ -6,11 +6,14 @@ product: Campaign
 role: Data Architect
 badge: label="Exam AD0-E328" type="neutral"
 mini-toc-levels: 1
+hidefromtoc: yes
 exl-id: 81b4fc87-73c8-4e8c-9a33-4c90050e6dc1
 ---
 # Certification journey for Adobe [!DNL Campaign Classic] Architect Master
 
 {{intro}}
+
+<!-- 
 
 ## Exam details {#exam-details}
 
@@ -23,3 +26,5 @@ exl-id: 81b4fc87-73c8-4e8c-9a33-4c90050e6dc1
 * Exam ID: AD0-E328
 
 {{questions}}
+
+-->

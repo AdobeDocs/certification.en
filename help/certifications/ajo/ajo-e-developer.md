@@ -12,6 +12,8 @@ hidefromtoc: yes
 
 {{intro}}
 
+<!-- 
+
 >[!NOTE]
 >
 >This exam, Adobe [!DNL Journey Optimizer] Developer Expert (AD0-E603), has been updated. If you have already started studying or are scheduled to take this version, please be sure to complete it before December 22, 2023. If you are just getting started, we recommend taking the [newest version of this exam](ajo-e-developer-23-10.md).

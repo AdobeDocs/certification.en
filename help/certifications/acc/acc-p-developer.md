@@ -6,11 +6,14 @@ product: Campaign
 role: Developer
 badge: label="Exam AD0-E331" type="neutral"
 mini-toc-levels: 1
+hidefromtoc: yes
 exl-id: e6a7790b-4758-4bef-826c-fc3e1675faa1
 ---
 # Certification journey for Adobe [!DNL Campaign Classic] Developer Professional
 
 {{intro}}
+
+<!-- 
 
 ## Exam details {#exam-details}
 
@@ -23,3 +26,5 @@ exl-id: e6a7790b-4758-4bef-826c-fc3e1675faa1
 * Exam ID: AD0-E331
 
 {{questions}}
+
+-->

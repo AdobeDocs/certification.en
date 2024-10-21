@@ -6,11 +6,14 @@ product: Campaign
 role: User
 badge: label="Exam AD0-E307" type="neutral"
 mini-toc-levels: 1
+hidefromtoc: yes
 exl-id: ba66d1cc-3545-49ed-8578-1f6aa07f64e7
 ---
 # Certification journey for Adobe [!DNL Campaign Standard] Business Practitioner Expert
 
 {{intro}}
+
+<!-- 
 
 ## Exam details {#exam-details}
 
@@ -23,3 +26,5 @@ exl-id: ba66d1cc-3545-49ed-8578-1f6aa07f64e7
 * Exam ID: AD0-E307
 
 {{questions}}
+
+-->

@@ -6,11 +6,14 @@ product: Campaign
 role: Developer
 badge: label="Exam AD0-E306" type="neutral"
 mini-toc-levels: 1
+hidefromtoc: yes
 exl-id: be24274b-7a61-47f5-9947-984015c07a96
 ---
 # Certification journey for Adobe [!DNL Campaign Standard] Developer Expert
 
 {{intro}}
+
+<!-- 
 
 ## Exam details {#exam-details}
   
@@ -23,3 +26,5 @@ exl-id: be24274b-7a61-47f5-9947-984015c07a96
 * Exam ID: AD0-E306
 
 {{questions}}
+
+-->

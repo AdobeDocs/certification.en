@@ -5,11 +5,14 @@ solution: Workfront
 role: Developer
 badge: label="Exam AD0-E907" type="neutral"
 mini-toc-levels: 1
+hidefromtoc: yes
 exl-id: dc74de79-c945-47a4-a13b-e027182919a5
 ---
 # Certification journey for Adobe [!DNL Workfront] Core Developer Expert
 
 {{intro}}
+
+<!-- 
 
 ## Exam details {#exam-details}
 
@@ -22,3 +25,5 @@ exl-id: dc74de79-c945-47a4-a13b-e027182919a5
 * Exam ID: AD0-E907
 
 {{questions}}
+
+-->

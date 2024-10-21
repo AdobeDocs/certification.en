@@ -5,11 +5,14 @@ solution: Workfront
 role: Developer
 badge: label="Exam AD0-E906" type="neutral"
 mini-toc-levels: 1
+hidefromtoc: yes
 exl-id: f00092c9-1288-447f-adcd-229cf325bc3e
 ---
 # Certification journey for Adobe [!DNL Workfront] for [!DNL Experience Manager] Enhanced Connector Expert
 
 {{intro}}
+
+<!-- 
 
 ## Exam details {#exam-details}
 
@@ -22,3 +25,5 @@ exl-id: f00092c9-1288-447f-adcd-229cf325bc3e
 * Exam ID: AD0-E906
 
 {{questions}}
+
+-->
