@@ -5,68 +5,68 @@ role: User,Developer,Data Architect
 mini-toc-levels: 1
 exl-id: 6ee30cfb-2b7b-4795-9061-adbd6cae18a4
 ---
-# Welcome to Certification at Adobe!
-
-Learn about Experience Cloud certification at Adobe and what getting certified can do for you.
-
 ![Banner](/help/certifications/assets/home_banner_smallwide.png)
 
->[!NOTE]
->Adobe Digital Experience Certification Program Update
->
->**The Adobe Digital Experience Certification Program is moving!** The new Adobe Certification Portal will launch on October 22, 2024. Please make note of these **important dates:**
->
->* **October 14, 2024:** Exam scheduling, practice tests, and access to the Adobe Credential Management System will be unavailable while we migrate data to the new portal
->* **October 22, 2024:** The Adobe Certification Portal launches! Your certification history will be available on the new portal, along with all exam information, study resources, and scheduling capabilities. Your practice test scores and coaching reports going back to January 1, 2021, will also be available in your account.
->
->Check back here on October 22nd for details on logging in to the new Adobe Certification Portal!
+# The Adobe Digital Experience Certification Program has moved!
 
-The Adobe Digital Experience Certification Program was created to help you prove your skills in Adobe [!DNL Experience Cloud] products. Becoming Adobe Certified allows you to showcase your expertise and impress clients and employers alike.
+You can find us on the new [Adobe Certification Portal](https://certification.adobe.com/){target="_blank"}. Read about the portal's features and learn how to get started below.
 
-Adobe [!DNL Experience Cloud] is a suite of digital marketing solutions that enables businesses to deliver personalized customer experiences across multiple channels, including web, mobile, email, and social media. Adobe [!DNL Experience Cloud] includes a range of products, such as Adobe [!DNL Real-Time CDP], Adobe [!DNL Experience Manager], Adobe [!DNL Commerce], Adobe [!DNL Journey Optimizer], Adobe [!DNL Customer Analytics], and more.
+## What's on the new Adobe Certification Portal?
 
-Demonstrate your proficiency and take your career to the next level by becoming Adobe certified.
+Everything you used to find on this page, and more!
 
-[**View list of certifications by program**](#view-all-certifications)
+* Exam scheduling
+* Exam details
+* Study resources
+* Practice tests
+* Badge validation and sharing
+* New technical training courses
+* The new Adobe Digital Experience Community
+* A new interactive dashboard to track and share your course and certification activity
 
-## Why get certified?
+## FAQ
 
-Getting an Adobe [!DNL Experience Cloud] certification has many benefits:
+### Where do I start?
 
-* **Validation of your skills:** Adobe certification demonstrates to potential clients or employers that you have the necessary skills and knowledge to use [!DNL Experience Cloud] solutions effectively.
-* **Career advancement:** Adobe certification helps you stand out in a crowded job market and increases your chances of being hired or promoted.
-* **Increase earning potential:** Certified individuals often earn more than their non-certified counterparts, as Adobe credentials prove their level of expertise.
-* **Access to exclusive resources:** When you become Adobe certified, you gain access to exclusive resources such as training materials, beta software releases, and support forums that can help you stay up to date with the latest software developments and trends in the industry.
-* **Free practice tests:** Adobe offers free practice exams to help ensure that you're fully prepared for your certification exam.
-* **Free certification renewals:** Adobe certifications are valid for two years, and most certifications can be renewed free of charge by either taking an on-demand, un-proctored exam or completing a set of continuous learning activities.
+[Log in today](https://certification.adobe.com/){target="_blank"} and verify your profile data.
 
-The Adobe Digital Certification Program is designed for professionals in a variety of fields, including developers, business practitioners, and architects. Whether you're a seasoned expert or just starting out, certification helps you advance your career and stay ahead of the competition.
+Then, explore our [courses](https://certification.adobe.com/courses/?/courses){target="_blank"}, [certifications](https://certification.adobe.com/certifications){target="_blank"}, [community](https://certification.adobe.com/community/){target="_blank"} and [customizable dashboard](https://certification.adobe.com/user/dashboard){target="_blank"}.
 
-## Get started
+### How do I schedule an exam?
 
-Unlock your professional potential today by learning about the Adobe Digital Experience Certification Program. 
+You can now schedule an exam on the Adobe Certification Portal.
 
-<a href="https://experienceleague.adobe.com/docs/certification/certification/getting-started.html" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6"><span class="spectrum-Button-label has-no-wrap">Get Started</span></a>
+1. Go to the [Certification Catalog](https://certification.adobe.com/certifications){target="_blank"}.
+2. Find your exam
+3. Go to the **Schedule or take exam** tab.
+4. In the **Schedule and pay for your exam** section, you will find the exam page link.
+5. Click on the **Schedule exam** button.
 
-## View all certifications {#view-all-certifications}
+### Where do I find my certification history?
 
-All of the details about each available product certification are listed in the table of contents to the left and in the below list:
+Your active certifications have already been migrated to [your account](https://certification.adobe.com/user/certifications){target="_blank"} on the Adobe Certification Portal. Some aspects of your account may not yet be fully populated while we migrate your remaining user data. Thank you for your patience!
 
-* [Adobe [!DNL Analytics]](/help/certifications/aa/aa-overview.md){target="_blank"}
-* [Adobe [!DNL Advertising]](/help/certifications/aac/aac-overview.md){target="_blank"}
-* [Adobe [!DNL Audience Manager]](/help/certifications/aam/aam-overview.md){target="_blank"}
-* [Adobe [!DNL Commerce]](/help/certifications/ac/ac-overview.md){target="_blank"}
-* [Adobe [!DNL Campaign Classic]](/help/certifications/acc/acc-overview.md){target="_blank"}
-* [Adobe [!DNL Campaign Standard]](/help/certifications/acs/acs-overview.md){target="_blank"}
-* [Adobe [!DNL Customer Journey Analytics]](/help/certifications/acja/acja-overview.md){target="_blank"}
-* [Adobe [!DNL Document Cloud]](/help/certifications/adc/adc-overview.md){target="_blank"}
-* [Adobe [!DNL Experience Manager]](/help/certifications/aem/aem-overview.md){target="_blank"}
-* [Adobe [!DNL Journey Optimizer]](/help/certifications/ajo/ajo-overview.md){target="_blank"}
-* [Adobe [!DNL Marketo Engage]](/help/certifications/ame/ame-overview.md){target="_blank"}
-* [Adobe [!DNL Real-Time CDP]](/help/certifications/rtcdp/rtcdp-overview.md){target="_blank"}
-* [Adobe [!DNL Target]](/help/certifications/at/at-overview.md){target="_blank"}
-* [Adobe [!DNL Workfront]](/help/certifications/aw/aw-overview.md){target="_blank"}
+### Where do I find my vouchers?
 
-Are you looking for Adobe [!DNL Creative Cloud] certifications? Visit the [Adobe Certified Professional](https://certifiedprofessional.adobe.com/en/home){target="_blank"} website to learn how to get certified in Creative Cloud programs.
+Your vouchers (including those transferred from Xvoucher) will appear in [your account](https://certification.adobe.com/user/purchases){target="_blank"} on the Adobe Certification Portal.
 
-{{questions}}
+### Where is my certification badge?
+
+Your badge is now available on the Adobe Certification Portal. 
+
+1. Go to **My Account** > [Achievements](https://certification.adobe.com/user/achievements?%2Fuser%2Fachievements){target="_blank"}.
+2. Find the **Active certifications** widget.
+
+* To view your badge verification page, click on the **Share** button. From that page, you can share to social media.
+
+* To download your badge, click on the **badge thumbnail image**.
+
+### Where can I find Adobe Creative Cloud certifications?
+
+Visit the [Adobe Certified Professional](https://certifiedprofessional.adobe.com/en/home){target="_blank"} website to learn how to get certified in Creative Cloud programs.
+
+### Questions?
+
+View the [how-to videos](https://certification.adobe.com/#){target="_blank"} at the bottom of our homepage, visit our [FAQ](https://certification.adobe.com/support/faq){target="_blank"}, or [contact us](https://certification.adobe.com/support/contactus){target="_blank"}.
+
+We are excited for you to explore the new home of the Adobe Digital Experience Certification Program and delve into our new features!
