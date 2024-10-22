@@ -5,11 +5,13 @@ role: User,Developer,Data Architect
 mini-toc-levels: 1
 exl-id: 6ee30cfb-2b7b-4795-9061-adbd6cae18a4
 ---
-![Banner](/help/certifications/assets/home_banner_smallwide.png)
 
-# The Adobe Digital Experience Certification Program has moved! 
+
+# The Adobe Digital Experience Certification Program has moved!
 
 You can find us on the new [Adobe Certification Portal](https://certification.adobe.com/){target="_blank"}. Read about the portal's features and learn how to get started below.
+
+![Banner](/help/certifications/assets/home_banner_smallwide.png)
 
 ## What's on the new Adobe Certification Portal?
 
