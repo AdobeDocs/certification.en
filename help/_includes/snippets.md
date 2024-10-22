@@ -14,7 +14,7 @@
 >
 >**The Adobe Digital Experience Certification Program has moved to the new [Adobe Certification Portal](https://certification.adobe.com/){target="_blank"}!** Read about the new features and how to get started below.
 
-# What's on the new Adobe Certification Portal?
+## What's on the new Adobe Certification Portal?
 
 Everything you used to find on this page, and more!
 
