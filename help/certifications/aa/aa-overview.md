@@ -9,17 +9,17 @@ exl-id: 38beb41b-b943-4058-a3fb-da7babff8499
 
 **Professional**
 
-* [Business Practitioner](/help/certifications/aa/aa-p-business.md) <!--AD0-E212-->
-* [Developer](/help/certifications/aa/aa-p-developer.md) <!--AD0-E213-->
+* [Business Practitioner](https://certification.adobe.com/certification/analytics-business-practitioner-professional) <!--AD0-E212-->
+* [Developer](https://certification.adobe.com/certification/adobe-analytics-developer-professional) <!--AD0-E213-->
 
 **Expert**
 
-* [Business Practitioner](/help/certifications/aa/aa-e-business.md) <!--AD0-E208-->
-* [Developer](/help/certifications/aa/aa-e-developer.md) <!--AD0-E209-->
+* [Business Practitioner](https://certification.adobe.com/certification/analytics-business-practitioner-expert) <!--AD0-E208-->
+* [Developer](https://certification.adobe.com/certification/developer-expert) <!--AD0-E209-->
 
 **Master**
 
-* [Architect](/help/certifications/aa/aa-m-architect.md) <!--AD0-E207-->
+* [Architect](https://certification.adobe.com/certification/architect-master) <!--AD0-E207-->
 
 {{questions}}
 

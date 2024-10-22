@@ -12,22 +12,22 @@ If you are looking for information on renewing your existing certification, visi
 
 **Professional**
 
-* [Business Practitioner](/help/certifications/aem/aem-p-business.md) <!--AD0-E126-->
-* [Developer (Sites)](/help/certifications/aem/aem-sites-p-developer.md) <!--AD0-E123-->
-* [Developer (Assets)](/help/certifications/aem/aem-assets-p-developer.md) <!--AD0-E129-->
-* [Back-end Developer (Forms)](/help/certifications/aem/aem-forms-p-bedeveloper.md) <!--AD0-E127-->
-* [Technical Foundations](/help/certifications/aem/aem-p-foundations.md) <!--AD0-E132-->
+* [Business Practitioner](https://certification.adobe.com/certification/experience-manager-business-practitioner-professional) <!--AD0-E126-->
+* [Developer (Sites)](https://certification.adobe.com/certification/sites-developer-professional) <!--AD0-E123-->
+* [Developer (Assets)](https://certification.adobe.com/certification/assets-developer-professional) <!--AD0-E129-->
+* [Back-end Developer (Forms)](https://certification.adobe.com/certification/backend-developer-professional) <!--AD0-E127-->
+* [Technical Foundations](https://certification.adobe.com/certification/technical-foundations-professional) <!--AD0-E132-->
 
 **Expert**
 
-* [Business Practitioner (Sites)](/help/certifications/aem/aem-sites-e-business.md) <!--AD0-E121-->
-* [Developer (Sites)](/help/certifications/aem/aem-sites-e-developer.md) <!--AD0-E134-->
-* [DevOps](/help/certifications/aem/aem-devops-e-engineer.md) <!--AD0-E124-->
-* [Developer (Forms)](/help/certifications/aem/aem-forms-e-developer.md) <!--AD0-E125-->
-* [Cloud Service Migration](/help/certifications/aem/aem-cs-e-migration.md) <!--AD0-E136-->
+* [Business Practitioner (Sites)](https://certification.adobe.com/certification/sites-business-practitioner-expert) <!--AD0-E121-->
+* [Developer (Sites)](https://certification.adobe.com/certification/sites-developer-expert) <!--AD0-E134-->
+* [DevOps](https://certification.adobe.com/certification/aem-devops-engineer-expert) <!--AD0-E124-->
+* [Developer (Forms)](https://certification.adobe.com/certification/aem-forms-developer-expert) <!--AD0-E125-->
+* [Cloud Service Migration](https://certification.adobe.com/certification/cloud-service-migration-expert) <!--AD0-E136-->
 
 **Master**
 
-* [Architect (Sites)](/help/certifications/aem/aem-sites-m-architect.md) <!--AD0-E117-->
+* [Architect (Sites)](https://certification.adobe.com/certification/sites-architect-master) <!--AD0-E117-->
 
 {{questions}}

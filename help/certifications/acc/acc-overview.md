@@ -9,17 +9,17 @@ exl-id: c80ad5d1-6245-4c99-b4ac-97b8dc48e80f
 
 **Professional**
 
-* [Business Practitioner](/help/certifications/acc/acc-p-business.md) <!--AD0-E329-->
-* [Developer](/help/certifications/acc/acc-p-developer.md) <!--AD0-E331-->
+* [Business Practitioner](https://certification.adobe.com/certification/campaign-classic-business-practitioner-professional) <!--AD0-E329-->
+* [Developer](https://certification.adobe.com/certification/developer-professional) <!--AD0-E331-->
 
 **Expert**
 
-* [Business Practitioner](/help/certifications/acc/acc-e-business.md) <!--AD0-E327-->
-* [Developer](/help/certifications/acc/acc-e-developer.md) <!--AD0-E330-->
+* [Business Practitioner](https://certification.adobe.com/certification/campaign-classic-business-practitioner-expert) <!--AD0-E327-->
+* [Developer](https://certification.adobe.com/certification/campaign-classic-developer-expert) <!--AD0-E330-->
 
 **Master**
 
-* [Architect](/help/certifications/acc/acc-m-developer.md) <!--AD0-E328-->
+* [Architect](https://certification.adobe.com/certification/campaign-classic-architect-master) <!--AD0-E328-->
 
 {{questions}}
 
