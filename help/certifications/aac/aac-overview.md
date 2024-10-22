@@ -13,8 +13,8 @@ Adobe offers multiple certifications for Advertising Business practitioners.  Th
 
 **Professional**
 
-* [Business Practitioner (Search)](/help/certifications/aac/aac-search-p-business.md) <!--AD0-E501-->
-* [Business Practitioner (DSP)](/help/certifications/aac/aac-dsp-p-business.md) <!--AD0-E502-->
+* [Business Practitioner (Search)](https://certification.adobe.com/certification/advertising-search-business-practitioner-professional) <!--AD0-E501-->
+* [Business Practitioner (DSP)](https://certification.adobe.com/certification/advertising-dsp-business-practitioner-professional) <!--AD0-E502-->
 
 ## Resources
 

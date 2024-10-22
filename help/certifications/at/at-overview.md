@@ -8,15 +8,15 @@ exl-id: 2e1ee659-e9be-429e-9fdb-1f5ba1976bae
 
 **Professional**
 
-* [Certified Professional](/help/certifications/at/at-p-business.md) <!--AD0-E408-->
+* [Certified Professional](https://certification.adobe.com/certification/target-business-practitioner-professional) <!--AD0-E408-->
 
 **Expert**
 
-* [Business Practitioner](/help/certifications/at/at-e-business.md) <!--AD0-E406-->
+* [Business Practitioner](https://certification.adobe.com/certification/target-business-practitioner-expert) <!--AD0-E406-->
 
 **Master**
 
-* [Architect](/help/certifications/at/at-m-architect0623.md) <!--AD0-E409-->
+* [Architect](https://certification.adobe.com/certification/target-architect-master) <!--AD0-E409-->
 
 {{questions}}
 

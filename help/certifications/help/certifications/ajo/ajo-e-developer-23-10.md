@@ -5,6 +5,7 @@ solution: Journey Optimizer
 product: Journey Optimizer
 role: Developer
 badge: label="Exam AD0-E606" type="neutral"
+hidefromtoc: yes
 exl-id:
 ---
 # Certification journey for Adobe [!DNL Journey Optimizer] Developer Expert

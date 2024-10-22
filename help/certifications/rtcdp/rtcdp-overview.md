@@ -8,11 +8,11 @@ exl-id: 763724d3-1fac-421f-b166-b4aea210872f
 
 **Professional**
 
-* [Business Practitioner](/help/certifications/rtcdp/rtcdp-p-business.md) <!--AD0-E602-->
+* [Business Practitioner](https://certification.adobe.com/certification/real-time-cdp-business-practitioner-professional) <!--AD0-E602-->
 
 **Expert**
 
-* [Developer](/help/certifications/rtcdp/rtcdp-e-developer.md) <!--AD0-E605-->
+* [Developer](https://certification.adobe.com/certification/real-time-customer-data-platform-developer-expert) <!--AD0-E605-->
 
 {{questions}}
 

@@ -9,6 +9,6 @@ exl-id: e7bb19f7-a87e-46df-a4ef-98b8dede4aba
 
 **Professional**
 
-* [Business Practitioner (Search)](/help/certifications/adc/adc-p-business.md) <!--AD0-D106-->
+* [Business Practitioner (Search)](https://certification.adobe.com/certification/document-cloud-business-practitioner-professional) <!--AD0-D106-->
 
 {{questions}}
