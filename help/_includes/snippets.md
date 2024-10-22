@@ -14,7 +14,7 @@
 >
 >**The Adobe Digital Experience Certification Program has moved to the new [Adobe Certification Portal](https://certification.adobe.com/){target="_blank"}!** Read about the new features and how to get started below.
 
-### What's on the new Adobe Certification Portal?
+# What's on the new Adobe Certification Portal?
 
 Everything you used to find on this page, and more!
 
@@ -27,15 +27,15 @@ Everything you used to find on this page, and more!
 * The new Adobe Digital Experience Community
 * A new interactive dashboard to track and share your course and certification activity
 
-### FAQ
+## FAQ
 
-#### Where do I start?
+### Where do I start?
 
 [Log in today](https://certification.adobe.com/){target="_blank"} and verify your profile data.
 
 Then, explore our [courses](https://certification.adobe.com/courses/?/courses){target="_blank"}, [certifications](https://certification.adobe.com/certifications){target="_blank"}, [community](https://certification.adobe.com/community/){target="_blank"} and [customizable dashboard](https://certification.adobe.com/user/dashboard){target="_blank"}.
 
-#### How do I schedule an exam?
+### How do I schedule an exam?
 
 You can now schedule an exam on the Adobe Certification Portal.
 
@@ -45,15 +45,15 @@ You can now schedule an exam on the Adobe Certification Portal.
 4. In the **Schedule and pay for your exam** section, you will find the exam page link.
 5. Click on the **Schedule exam** button.
 
-#### Where do I find my certification history?
+### Where do I find my certification history?
 
 Your active certifications have already been migrated to [your account](https://certification.adobe.com/user/certifications){target="_blank"} on the Adobe Certification Portal. Some aspects of your account may not yet be fully populated while we migrate your remaining user data. Thank you for your patience!
 
-#### Where do I find my vouchers?
+### Where do I find my vouchers?
 
 Your vouchers (including those transferred from Xvoucher) will appear in [your account](https://certification.adobe.com/user/purchases){target="_blank"} on the Adobe Certification Portal.
 
-#### Where is my certification badge?
+### Where is my certification badge?
 
 Your badge is now available on the Adobe Certification Portal. 
 
@@ -64,7 +64,7 @@ Your badge is now available on the Adobe Certification Portal.
 
 * To download your badge, click on the **badge thumbnail image**.
 
-#### Questions?
+### Questions?
 
 View the [how-to videos](https://certification.adobe.com/#){target="_blank"} at the bottom of our homepage, visit our [FAQ](https://certification.adobe.com/support/faq){target="_blank"}, or [contact us](https://certification.adobe.com/support/contactus){target="_blank"}.
 
