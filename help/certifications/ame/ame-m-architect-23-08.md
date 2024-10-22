@@ -13,7 +13,7 @@ exl-id: a3d5e3bd-751f-4c35-a27e-7839199030d8
 
 {{intro}}
 
-<!-- 
+<!--
 
 ## Exam details {#exam-details}
 
@@ -30,3 +30,5 @@ exl-id: a3d5e3bd-751f-4c35-a27e-7839199030d8
 * Exam ID: AD0-E560
 
 {{questions}}
+
+-->

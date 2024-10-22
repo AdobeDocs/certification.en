@@ -260,3 +260,5 @@ You should have at least one year experience working with various CDP and market
 View the certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Additional questions? [Contact us](mailto:certif@adobe.com).
+
+-->

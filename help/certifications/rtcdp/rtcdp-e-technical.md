@@ -9,7 +9,6 @@ badge: label="Exam AD0-E600 & AD7-E601" type="neutral"
 mini-toc-levels: 1
 hidefromtoc: yes
 exl-id: 76c22cfc-e3ef-4c54-bc8f-04174c976a73
-hidefromtoc: true 
 ---
 # Certification journey for Adobe [!DNL Real-Time Customer Data Platform] Expert
 

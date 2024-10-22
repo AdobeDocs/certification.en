@@ -5,7 +5,6 @@ solution: Experience Platform
 product: Experience Platform
 role: Developer
 badge: label="Exam AD0-E600 & AD7-E601" type="neutral"
-hidefromtoc: yes
 hide: true
 mini-toc-levels: 1
 hidefromtoc: yes

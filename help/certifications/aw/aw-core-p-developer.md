@@ -7,7 +7,6 @@ badge: label="Exam AD0-E905" type="neutral"
 mini-toc-levels: 1
 hidefromtoc: yes
 exl-id: 08f5386c-901c-44be-9537-48c9ac5d2be2
-hidefromtoc: true
 ---
 # Certification journey for Adobe [!DNL Workfront] Core Developer Professional
 
