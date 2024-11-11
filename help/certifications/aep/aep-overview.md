@@ -10,7 +10,7 @@ exl-id: 9ed6a519-e8ee-4212-8619-22ade3675446
 
 **Expert**
 
-* [Developer](/help/certifications/aep/aep-e-foundations.md) <!--AD0-E601-->
+* [Developer](/help/certifications/aep/aep-e-foundations.md){target="_blank"} <!--AD0-E601-->
 
 {{questions}}
 
