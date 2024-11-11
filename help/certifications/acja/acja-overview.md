@@ -9,11 +9,11 @@ exl-id: 8ffdae02-e1b5-4a32-b877-1fbe55c4852e
 
 **Professional**
 
-* [Business Practitioner](https://certification.adobe.com/certification/customer-journey-analytics-business-practitioner-professional) <!--AD0-E608-->
+* [Business Practitioner](https://certification.adobe.com/certification/customer-journey-analytics-business-practitioner-professional){target="_blank"} <!--AD0-E608-->
 
 **Expert**
 
-* [Developer](https://certification.adobe.com/certification/customer-journey-analytics-developer-expert) <!--AD0-E604-->
+* [Developer](https://certification.adobe.com/certification/customer-journey-analytics-developer-expert){target="_blank"} <!--AD0-E604-->
 
 {{questions}}
 

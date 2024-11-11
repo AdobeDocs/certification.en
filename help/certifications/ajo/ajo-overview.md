@@ -8,11 +8,11 @@ exl-id: 8676c9b0-fa19-4821-a008-4f7028f95852
 
 **Professional**
 
-* [Business Practitioner](https://certification.adobe.com/certification/aem-business-practitioner-professional)<!--AD0-E607-->
+* [Business Practitioner](https://certification.adobe.com/certification/journey-optimizer-business-practitioner-professional){target="_blank"}<!--AD0-E607-->
 
 **Expert**
 
-* [Developer](https://certification.adobe.com/certification/journey-optimizer-developer-expert) <!--AD0-E606-->
+* [Developer](https://certification.adobe.com/certification/journey-optimizer-developer-expert){target="_blank"} <!--AD0-E606-->
 
 {{questions}}
 

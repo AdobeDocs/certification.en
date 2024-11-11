@@ -28,12 +28,6 @@ user-guide-description: Learn about [!DNL Experience Cloud] Certification at Ado
     + Master {#aa-master}
       + [Architect](/help/certifications/aa/aa-m-architect.md)
     + [Renewal](/help/certifications/aa/aa-renew.md)
-  + Adobe [!DNL Customer Journey Analytics] {#acja}
-    + [Customer Journey Analytics Overview](/help/certifications/acja/acja-overview.md)
-    + Professional {#acja-professional}
-      + [Business Practitioner](/help/certifications/acja/acja-p-business.md)
-    + Expert {#acja-expert}
-      + [Developer](/help/certifications/acja/acja-e-developer.md)
   + Adobe [!DNL Audience Manager] {#aam}
     + [Audience Manager Overview](/help/certifications/aam/aam-overview.md)
     + Professional {#aam-professional}
@@ -73,6 +67,12 @@ user-guide-description: Learn about [!DNL Experience Cloud] Certification at Ado
     + Master {#ac-master}
       + [Architect](/help/certifications/ac/ac-m-architect.md)
     + [Renewal](/help/certifications/ac/ac-renew.md)
+  + Adobe [!DNL Customer Journey Analytics] {#acja}
+    + [Customer Journey Analytics Overview](/help/certifications/acja/acja-overview.md)
+    + Professional {#acja-professional}
+      + [Business Practitioner](/help/certifications/acja/acja-p-business.md)
+    + Expert {#acja-expert}
+      + [Developer](/help/certifications/acja/acja-e-developer.md)
   + Adobe [!DNL Document Cloud] {#adc}
     + [Document Cloud Overview](/help/certifications/adc/adc-overview.md)
     + Professional {#adc-professional}
@@ -95,6 +95,13 @@ user-guide-description: Learn about [!DNL Experience Cloud] Certification at Ado
     + Master {#aem-master}
       + [Architect (Sites)](/help/certifications/aem/aem-sites-m-architect.md)
     + [Renewal](/help/certifications/aem/aem-renew.md)
+  + Adobe [!DNL Journey Optimizer] {#ajo}
+    + [Journey Optimizer Overview](/help/certifications/ajo/ajo-overview.md)
+    + Professional {#ajo-professional}
+      + [Business Practitioner](/help/certifications/ajo/ajo-p-business.md)
+    + Expert {#ajo-expert}
+      + [Developer](/help/certifications/ajo/ajo-e-developer-23-10.md)
+    + [Renewal](/help/certifications/ajo/ajo-renew.md)
   + Adobe [!DNL Marketo Engage] {#ame}
     + [Marketo Engage Overview](/help/certifications/ame/ame-overview.md)
     + Professional {#ame-professional}
@@ -111,13 +118,6 @@ user-guide-description: Learn about [!DNL Experience Cloud] Certification at Ado
     + Expert {#rtcdp-expert}
       + [Developer](/help/certifications/rtcdp/rtcdp-e-developer.md)
     + [Renewal](/help/certifications/rtcdp/rtcdp-renew.md)
-  + Adobe [!DNL Journey Optimizer] {#ajo}
-    + [Journey Optimizer Overview](/help/certifications/ajo/ajo-overview.md)
-    + Professional {#ajo-professional}
-      + [Business Practitioner](/help/certifications/ajo/ajo-p-business.md)
-    + Expert {#ajo-expert}
-      + [Developer](/help/certifications/ajo/ajo-e-developer-23-10.md)
-    + [Renewal](/help/certifications/ajo/ajo-renew.md)
   + Adobe [!DNL Target] {#at}
     + [Target Overview](/help/certifications/at/at-overview.md)
     + Professional {#at-professional}
