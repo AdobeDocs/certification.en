@@ -19,7 +19,8 @@ Select your level and job role to find more information on the certification you
 **Expert**
 
 * [Business Practitioner (Sites)](https://certification.adobe.com/certification/sites-business-practitioner-expert){target="_blank"} <!--AD0-E121-->
-* [Developer (Sites)](https://certification.adobe.com/certification/sites-developer-expert){target="_blank"} <!--AD0-E134-->
+* [Developer (Sites) - NEW](https://certification.adobe.com/certification/sites-developer-expert-v2){target="_blank"} <!--AD0-E137-->
+* [Developer (Sites) - expires January 10, 2025](https://certification.adobe.com/certification/sites-developer-expert){target="_blank"} <!--AD0-E134-->
 * [DevOps](https://certification.adobe.com/certification/aem-devops-engineer-expert){target="_blank"} <!--AD0-E124-->
 * [Developer (Forms)](https://certification.adobe.com/certification/aem-forms-developer-expert){target="_blank"} <!--AD0-E125-->
 * [Cloud Service Migration](https://certification.adobe.com/certification/cloud-service-migration-expert){target="_blank"} <!--AD0-E136-->
