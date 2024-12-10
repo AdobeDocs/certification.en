@@ -11,7 +11,8 @@ Select your level and job role to find more information on the certification you
 **Professional**
 
 * [Business Practitioner](https://certification.adobe.com/certification/experience-manager-business-practitioner-professional){target="_blank"} <!--AD0-E126-->
-* [Developer (Sites)](https://certification.adobe.com/certification/sites-developer-professional){target="_blank"} <!--AD0-E123-->
+* [Developer (Sites) - NEW](https://certification.adobe.com/certification/sites-developer-professional-v2){target="_blank"} <!--AD0-E128-->
+* [Developer (Sites) - expires February 10, 2025](https://certification.adobe.com/certification/sites-developer-professional){target="_blank"} <!--AD0-E123-->
 * [Developer (Assets)](https://certification.adobe.com/certification/assets-developer-professional){target="_blank"} <!--AD0-E129-->
 * [Back-end Developer (Forms)](https://certification.adobe.com/certification/backend-developer-professional){target="_blank"} <!--AD0-E127-->
 * [Technical Foundations](https://certification.adobe.com/certification/technical-foundations-professional){target="_blank"} <!--AD0-E132-->
