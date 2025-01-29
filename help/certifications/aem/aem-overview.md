@@ -6,7 +6,7 @@ exl-id: abec7565-58dd-46d7-bebc-5676a22201e2
 ---
 # Adobe [!DNL Experience Manager] Certification Overview
 
-Select your level and job role to find more information on the certification you are interested in.
+Select your level and job role to find certification exam details, access study resources, and schedule your exam. You can also explore the [full certification catalog](https://certification.adobe.com/certifications){target="_blank"} as well as [technical training courses](https://certification.adobe.com/courses/?/courses){target="_blank"}.
 
 **Professional**
 
