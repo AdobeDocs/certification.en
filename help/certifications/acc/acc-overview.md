@@ -7,6 +7,8 @@ exl-id: c80ad5d1-6245-4c99-b4ac-97b8dc48e80f
 ---
 # Adobe [!DNL Campaign Classic] Certification Overview
 
+Select your level and job role to find certification exam details, access study resources, and schedule your exam. You can also explore the [full certification catalog](https://certification.adobe.com/certifications){target="_blank"} as well as [technical training courses](https://certification.adobe.com/courses/?/courses){target="_blank"}.
+
 **Professional**
 
 * [Business Practitioner](https://certification.adobe.com/certification/campaign-classic-business-practitioner-professional){target="_blank"} <!--AD0-E329-->

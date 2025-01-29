@@ -7,6 +7,8 @@ exl-id: 38beb41b-b943-4058-a3fb-da7babff8499
 ---
 # Adobe Analytics Certification Overview
 
+Select your level and job role to find certification exam details, access study resources, and schedule your exam. You can also explore the [full certification catalog](https://certification.adobe.com/certifications){target="_blank"} as well as [technical training courses](https://certification.adobe.com/courses/?/courses){target="_blank"}.
+
 **Professional**
 
 * [Business Practitioner](https://certification.adobe.com/certification/analytics-business-practitioner-professional) <!--AD0-E212-->
