@@ -12,6 +12,7 @@ Select your level and job role to find certification exam details, access study 
 **Professional**
 
 * [Business Practitioner](https://certification.adobe.com/certification/customer-journey-analytics-business-practitioner-professional){target="_blank"} <!--AD0-E608-->
+* [Developer](https://certification.adobe.com/certification/Adobe-Customer-Journey-Analytics-Developer-Professional){target="_blank"} <!--AD0-E610-->
 
 **Expert**
 
