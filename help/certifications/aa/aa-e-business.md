@@ -69,4 +69,4 @@ Your badge is now available on the Adobe Certification Portal.
 
 View the [how-to videos](https://certification.adobe.com/#){target="_blank"} at the bottom of our homepage, visit our [FAQ](https://certification.adobe.com/support/faq){target="_blank"}, or [contact us](https://certification.adobe.com/support/contactus){target="_blank"}.
 
-We are excited for you to explore the new home of the Adobe Digital Experience Certification Program and delve into our new features!
+We are excited for you to explore the new home of the Adobe Digital Experience Certification Program and delve into our new features.
