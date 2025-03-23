@@ -2,7 +2,7 @@
 title: Campaign Standard Certification Overview
 description: Overview of certification options for Adobe Campaign Standard
 solution: Campaign, Campaign Standard
-version: Standard
+version: Campaign Standard
 exl-id: db58c266-9c21-4739-9824-49b9557319eb
 ---
 # Adobe [!DNL Campaign Standard] Certification Overview
