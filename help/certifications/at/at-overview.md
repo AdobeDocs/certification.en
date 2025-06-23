@@ -15,6 +15,7 @@ Select your level and job role to find certification exam details, access study 
 **Expert**
 
 * [Business Practitioner](https://certification.adobe.com/certification/target-business-practitioner-expert){target="_blank"} <!--AD0-E406-->
+* [Business Practitioner - Japanese](https://certification.adobe.com/certification/target-business-practitioner-expert){target="_blank"} <!--AD0-E406-J-->
 
 **Master**
 

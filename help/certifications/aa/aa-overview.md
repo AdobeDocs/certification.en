@@ -17,7 +17,9 @@ Select your level and job role to find certification exam details, access study 
 **Expert**
 
 * [Business Practitioner](https://certification.adobe.com/certification/analytics-business-practitioner-expert) <!--AD0-E208-->
+* [Business Practitioner - Japanese](https://certification.adobe.com/certification/analytics-business-practitioner-expert)<!--AD0-E208-J-->
 * [Developer](https://certification.adobe.com/certification/developer-expert) <!--AD0-E209-->
+* [Developer - Japanese](https://certification.adobe.com/certification/developer-expert) <!--AD0-E209-J-->
 
 **Master**
 
