@@ -12,10 +12,12 @@ Select your level and job role to find certification exam details, access study 
 **Professional**
 
 * [Certified Professional](https://certification.adobe.com/certification/engage-professional){target="_blank"} <!--AD0-E555-->
+* [Certified Professional - Japanese](https://certification.adobe.com/certification/engage-professional){target="_blank"} <!--AD0-E555-J-->
 
 **Expert**
 
 * [Business Practitioner](https://certification.adobe.com/certification/marketo-engage-business-practitioner-expert){target="_blank"} <!--AD0-E559-->
+* [Business Practitioner - Japanese](https://certification.adobe.com/certification/marketo-engage-business-practitioner-expert){target="_blank"} <!--AD0-E559-J-->
 
 **Master**
 
