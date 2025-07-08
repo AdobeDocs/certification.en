@@ -13,6 +13,7 @@ Select your level and job role to find certification exam details, access study 
 
 * [Business Practitioner](https://certification.adobe.com/certification/analytics-business-practitioner-professional) <!--AD0-E212-->
 * [Developer](https://certification.adobe.com/certification/adobe-analytics-developer-professional) <!--AD0-E213-->
+* [Data Analyst](https://certification.adobe.com/certification/data-analyst-professional) (Please note that this certification does not count toward partner requirements.) <!--AD0-E215-->
 
 **Expert**
 

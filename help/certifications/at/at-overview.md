@@ -11,6 +11,8 @@ Select your level and job role to find certification exam details, access study 
 **Professional**
 
 * [Certified Professional](https://certification.adobe.com/certification/target-business-practitioner-professional){target="_blank"} <!--AD0-E408-->
+* [Optimization Specialist](https://certification.adobe.com/certification/optimization-specialist-professional) (Please note that this certification does not count toward partner requirements.)
+{target="_blank"} <!--AD0-E410-->
 
 **Expert**
 

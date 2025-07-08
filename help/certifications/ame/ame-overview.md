@@ -13,6 +13,7 @@ Select your level and job role to find certification exam details, access study 
 
 * [Certified Professional](https://certification.adobe.com/certification/engage-professional){target="_blank"} <!--AD0-E555-->
 * [Certified Professional - Japanese](https://certification.adobe.com/certification/engage-professional){target="_blank"} <!--AD0-E555-J-->
+* [Digital Marketer](https://certification.adobe.com/certification/digital-marketer-professional) (Please note that this certification does not count toward partner requirements.){target="_blank"} <!--AD0-E564-->
 
 **Expert**
 
