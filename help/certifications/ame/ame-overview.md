@@ -22,7 +22,8 @@ Select your level and job role to find certification exam details, access study 
 
 **Master**
 
-* [Architect](https://certification.adobe.com/certification/marketo-engage-architect-master){target="_blank"} <!--AD0-E560-->
+* [Architect - NEW](https://certification.adobe.com/certification/engage-architect-master/1310){target="_blank"} <!--AD0-E563-->
+* [Architect - Expires November 25, 2025](https://certification.adobe.com/certification/marketo-engage-architect-master){target="_blank"} <!--AD0-E560-->
 
 {{questions}}
 
