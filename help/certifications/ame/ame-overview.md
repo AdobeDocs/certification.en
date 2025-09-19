@@ -13,7 +13,7 @@ Select your level and job role to find certification exam details, access study 
 
 * [Certified Professional](https://certification.adobe.com/certification/engage-professional){target="_blank"} <!--AD0-E555-->
 * [Certified Professional - Japanese](https://certification.adobe.com/certification/engage-professional){target="_blank"} <!--AD0-E555-J-->
-* [Digital Marketer](https://certification.adobe.com/certification/digital-marketer-professional) (Please note that this certification does not count toward partner requirements.){target="_blank"} <!--AD0-E564-->
+* [Digital Marketer](https://certification.adobe.com/certification/digital-marketer-professional){target="_blank"} (Please note that this certification does not count toward partner requirements.) <!--AD0-E564-->
 
 **Expert**
 
@@ -23,7 +23,7 @@ Select your level and job role to find certification exam details, access study 
 **Master**
 
 * [Architect - NEW](https://certification.adobe.com/certification/engage-architect-master/1310){target="_blank"} <!--AD0-E563-->
-* [Architect - Expires November 25, 2025](https://certification.adobe.com/certification/marketo-engage-architect-master){target="_blank"} <!--AD0-E560-->
+* [Architect - Expires November 15, 2025](https://certification.adobe.com/certification/marketo-engage-architect-master){target="_blank"} <!--AD0-E560-->
 
 {{questions}}
 
