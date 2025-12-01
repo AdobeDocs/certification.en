@@ -10,7 +10,8 @@ Select your level and job role to find certification exam details, access study 
 
 **Professional**
 
-* [Business Practitioner](https://certification.adobe.com/certification/experience-manager-business-practitioner-professional){target="_blank"} <!--AD0-E126-->
+* [Business Practitioner - NEW](https://certification.adobe.com/certification/business-practitioner-professional-v2/539){target="_blank"} <!--AD0-E138-->
+* [Business Practitioner - Expires January 24, 2026](https://certification.adobe.com/certification/experience-manager-business-practitioner-professional){target="_blank"} <!--AD0-E126-->
 * [Developer (Sites)](https://certification.adobe.com/certification/sites-developer-professional-v2){target="_blank"} <!--AD0-E128-->
 * [Developer (Assets)](https://certification.adobe.com/certification/assets-developer-professional){target="_blank"} <!--AD0-E129-->
 * [Back-end Developer (Forms)](https://certification.adobe.com/certification/backend-developer-professional){target="_blank"} <!--AD0-E127-->
