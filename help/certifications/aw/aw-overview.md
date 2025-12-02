@@ -18,7 +18,8 @@ _Please note that the Qualified credential is not a certification._
 * [Developer (Fusion)](https://certification.adobe.com/certification/fusion-developer-professional){target="_blank"} <!--AD0-E902-->
 * [Project Manager - NEW](https://certification.adobe.com/certification/project-manager-certified-professional){target="_blank"} <!--AD0-E911-->
 * [Project Manager - Expires January 17, 2026](https://certification.adobe.com/certification/project-manager-professional){target="_blank"} <!--AD0-E903-->
-* [Developer (Core)](https://certification.adobe.com/certification/core-developer-professional){target="_blank"} <!--AD0-E908-->
+* [Developer (Core) - NEW](https://certification.adobe.com/certification/core-developer-professionalv2/1321){target="_blank"} <!--AD0-E912-->
+* [Developer (Core) - Expires January 31, 2026](https://certification.adobe.com/certification/core-developer-professional){target="_blank"} <!--AD0-E908-->
 
 **Expert**
 
