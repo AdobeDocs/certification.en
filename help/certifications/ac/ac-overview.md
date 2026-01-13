@@ -13,8 +13,7 @@ Select your level and job role to find certification exam details, access study 
 
 * [Business Practitioner](https://certification.adobe.com/certification/business-practitioner-professional){target="_blank"} <!--AD0-E712-->
 * [Developer](https://certification.adobe.com/certification/adobe-commerce-developer-professional-v2){target="_blank"} <!--AD0-E724-->
-* [Front-end Developer - NEW](https://certification.adobe.com/certification/front-end-developer-professional-new-v2){target="_blank"} <!--AD0-E726-->
-* [Front-end Developer - Expires January 10, 2026](https://certification.adobe.com/certification/front-end-developer-professional){target="_blank"} <!--AD0-E721-->
+* [Front-end Developer](https://certification.adobe.com/certification/front-end-developer-professional-new-v2){target="_blank"} <!--AD0-E726-->
 
 **Expert**
 
