@@ -175,7 +175,7 @@ Adobe Journey Optimizer is powered by Experience Platform. Candidates seeking to
 
 >[!NOTE]
 >
->This is the newest Adobe [!DNL Journey Optimizer] Developer Expert exam (AD0-E606). If you have already started studying or have scheduled the [older version](ajo-e-developer.md), you must complete it by December 22, 2023. 
+>This is the newest Adobe [!DNL Journey Optimizer] Developer Expert exam (AD0-E606). 
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E606" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
                     
