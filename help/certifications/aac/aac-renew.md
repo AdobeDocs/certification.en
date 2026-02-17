@@ -3,7 +3,7 @@ title: Certification renewal
 description: Learn how to renew your Adobe [!DNL Advertising] certification before it expires.
 solution: Advertising
 product: Advertising Cloud
-role: User,Developer, Data Architect
+role: User,Developer
 mini-toc-levels: 1
 hidefromtoc: yes
 exl-id: 8016ac6f-2a30-4a72-bc17-b2ca422c21e8

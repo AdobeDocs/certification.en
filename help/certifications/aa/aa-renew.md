@@ -3,7 +3,7 @@ title: Certification renewal
 description: Learn how to renew your [!DNL Adobe Analytics] certification before it expires.
 solution: Analytics
 product: Analytics
-role: User,Developer, Data Architect
+role: User,Developer
 mini-toc-levels: 1
 hidefromtoc: yes
 exl-id: c230a7b1-db10-497c-975a-920eb09acb29

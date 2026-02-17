@@ -4,7 +4,7 @@ description: Learn how to become certified as an [!DNL Adobe Analytics] Architec
 solution: Analytics
 product: Analytics
 level: Experienced
-role: Data Architect,Developer
+role: Developer
 badge: label="Exam AD0-E207" type="neutral"
 mini-toc-levels: 1
 hidefromtoc: yes

@@ -14,7 +14,7 @@ exl-id:
 
 >[!NOTE]
 >
->This is the newest Adobe [!DNL Journey Optimizer] Developer Expert exam (AD0-E606). If you have already started studying or have scheduled the [older version](ajo-e-developer.md), you must complete it by December 22, 2023. 
+>This is the newest Adobe [!DNL Journey Optimizer] Developer Expert exam (AD0-E606).  
 
 
 ## Exam description {#exam-description}

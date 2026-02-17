@@ -1,7 +1,7 @@
 ---
 title: Certification home
 description: Learn about [!DNL Experience Cloud] Certification at Adobe. Find out what getting certified can do for you.
-role: User,Developer,Data Architect
+role: User,Developer
 mini-toc-levels: 1
 exl-id: 6ee30cfb-2b7b-4795-9061-adbd6cae18a4
 ---

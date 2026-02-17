@@ -3,7 +3,7 @@ title: Architect Master certification
 description: Learn how to become a certified Adobe Architect master in Adobe [!DNL Commerce].
 solution: Commerce
 product: Magento
-role: Data Architect
+role: Developer
 level: Experienced
 badge: label="Exam AD0-E722" type="neutral"
 mini-toc-levels: 1

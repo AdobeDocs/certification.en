@@ -3,7 +3,7 @@ title: Certification renewal
 description: Learn how to renew your [!DNL Campaign Classic] certification before it expires.
 solution: Campaign,Campaign Classic v7
 product: Campaign
-role: User,Developer,Data Architect
+role: User,Developer
 mini-toc-levels: 1
 hidefromtoc: yes
 exl-id: af895356-3e6b-424f-a637-a695b916aa47

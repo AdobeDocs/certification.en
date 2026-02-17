@@ -3,7 +3,7 @@ title: Expert certification
 description: Learn how to become a certified Adobe [!DNL Real-Time Customer Data Platform] Developer Expert
 solution: Real-Time Customer Data Platform
 product: Adobe Real Time Customer Data Platform
-role: Developer,Data Architect
+role: Developer
 badge: label="Exam AD0-E605" type="neutral"
 mini-toc-levels: 1
 hidefromtoc: yes
