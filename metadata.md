@@ -7,7 +7,7 @@ type: Certification
 topic: Certification
 mini-toc-levels: 1
 git-repo: https://github.com/AdobeDocs/certification.en
-index: yes
+index: true
 ---
 
 # Metadata for internal use
