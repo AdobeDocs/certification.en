@@ -22,4 +22,3 @@ Select your level and job role to find certification exam details, access study 
 * [Architect](https://certification.adobe.com/certification/audience-manager-architect-master){target="_blank"} <!--AD0-E454-->
 
 {{questions}}
-
