@@ -10,11 +10,11 @@ Select your level and job role to find certification exam details, access study 
 
 **Professional**
 
-* [Business Practitioner](https://certification.adobe.com/certification/real-time-cdp-business-practitioner-professional) <!--AD0-E602-->
+* [Business Practitioner](https://certification.adobe.com/certification/real-time-cdp-business-practitioner-professional2/1351) <!--AD0-E614-->
 
 **Expert**
 
-* [Developer](https://certification.adobe.com/certification/real-time-customer-data-platform-developer-expert) <!--AD0-E605-->
+* [Developer](https://certification.adobe.com/certification/developer-expert2/1348 ) <!--AD0-E615-->
 
 {{questions}}
 
