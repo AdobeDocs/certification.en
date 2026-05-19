@@ -11,13 +11,13 @@ Select your level and job role to find certification exam details, access study 
 
 **Professional**
 
-* [Business Practitioner](https://certification.adobe.com/certification/business-practitioner-professional){target="_blank"} <!--AD0-E712-->
+* [Business Practitioner](https://certification.adobe.com/certification/business-practitioner-professional2/625){target="_blank"} <!--AD0-E723-->
 * [Developer](https://certification.adobe.com/certification/adobe-commerce-developer-professional-v2){target="_blank"} <!--AD0-E724-->
 * [Front-end Developer](https://certification.adobe.com/certification/front-end-developer-professional-new-v2){target="_blank"} <!--AD0-E726-->
 
 **Expert**
 
-* [Business Practitioner](https://certification.adobe.com/certification/adobe-commerce-business-practitioner-expert){target="_blank"} <!--AD0-E708-->
+* [Business Practitioner](https://certification.adobe.com/certification/business-practitioner-expert2/1345){target="_blank"} <!--AD0-E729-->
 * [Developer](https://certification.adobe.com/certification/adobe-commerce-developer-expert-v2){target="_blank"} <!--AD0-E716-->
 * [Front-end Developer](https://certification.adobe.com/certification/front-end-developer-expert-v2){target="_blank"} <!--AD0-E727-->
 
