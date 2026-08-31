@@ -20,7 +20,9 @@ Select your level and job role to find certification exam details, access study 
 
 **Professional**
 
+
 * [Business Practitioner](https://certification.adobe.com/certification/journey-optimizer-business-practitioner-professional){target="_blank"}<!--AD0-E607-->
+* [B2B Edition Business Practitioner](https://certification.adobe.com/certification/brb-business-practitioner-professional/1373){target="_blank"}<!--AD0-E613-->
 
 **Expert**
 
