@@ -19,7 +19,7 @@ level_v2:
 
 Select your level and job role to find certification exam details, access study resources, and schedule your exam. You can also explore the [full certification catalog](https://certification.adobe.com/certifications){target="_blank"} as well as [technical training courses](https://certification.adobe.com/courses/?/courses){target="_blank"}.
 
-**Professional**
+**Professional** 
 
 * [Certified Professional - NEW](https://certification.adobe.com/certification/business-practitioner-professional3/595){target="_blank"} <!--AD0-E561-->
 * [Certified Professional - retires October 23, 2026](https://certification.adobe.com/certification/engage-professional){target="_blank"} <!--AD0-E555-->
