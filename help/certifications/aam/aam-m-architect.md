@@ -7,8 +7,17 @@ role: Developer
 level: Experienced
 badge: label="Exam AD0-E454" type="neutral"
 mini-toc-levels: 1
-hidefromtoc: yes
+hidefromtoc: 'yes'
 exl-id: 6f87f669-f3c2-4a5c-a5f3-e3e73b93cd55
+product_v2:
+  - id: df80eeb1-8d72-467e-b0df-9d51c7d3a0a1
+    internal-label: Audience Manager
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 ---
 # Certification journey for [!DNL Adobe Audience Manager] Architect Master
 

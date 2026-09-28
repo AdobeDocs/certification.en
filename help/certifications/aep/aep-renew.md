@@ -5,7 +5,18 @@ solution: Experience Platform
 product: Experience Platform
 role: User,Developer
 badge: label="Adobe Journey Optimizer Renewal" type="neutral"
-hidefromtoc: yes
+hidefromtoc: 'yes'
+product_v2:
+  - id: edbd1a0e-46c8-49da-8c10-dba9ec80bba9
+    internal-label: Experience Platform
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 ---
 # Renew your Adobe [!DNL Experience Platform] certification
 

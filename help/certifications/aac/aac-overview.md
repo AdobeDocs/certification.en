@@ -4,7 +4,7 @@ description: Overview of certification options for Adobe Advertising
 solution: Advertising
 product: Advertising Cloud
 exl-id: fffb8e56-5afa-4fc0-a384-8a00f96b74a2
-TQID: https://experienceleague.adobe.com/cmVD6msNlXBm1EgACEt4erlYYeHVOxO5owaKuJ2kSNE
+TQID: 'https://experienceleague.adobe.com/cmVD6msNlXBm1EgACEt4erlYYeHVOxO5owaKuJ2kSNE'
 product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
     internal-label: Advertising
@@ -17,6 +17,8 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 ---
 # Adobe Advertising Certification Overview
 

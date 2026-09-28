@@ -7,8 +7,17 @@ role: User
 recommendations: disable, exclude
 badge: label="Exam AD0-E602" type="neutral"
 mini-toc-levels: 1
-hidefromtoc: yes
+hidefromtoc: 'yes'
 exl-id: 3b970c7a-177c-4bf6-bf0b-4ea2f78bdcd2
+product_v2:
+  - id: fdddec33-c9cb-4459-b8b6-2664395a6f10
+    internal-label: Real-Time Customer Data Platform
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 ---
 # Certification journey for Adobe [!DNL Real-Time CDP] Business Practitioner Professional
 

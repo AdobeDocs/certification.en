@@ -4,16 +4,20 @@ description: Overview of certification options for Adobe Customer Journey Analyt
 solution: Customer Journey Analytics
 product: Customer Journey Analytics
 exl-id: 8ffdae02-e1b5-4a32-b877-1fbe55c4852e
-TQID: https://experienceleague.adobe.com/xajeQyDUTTs3rZLvFv2nRRIC1RrnMJPQ-0EH45t-ViA
+TQID: 'https://experienceleague.adobe.com/xajeQyDUTTs3rZLvFv2nRRIC1RrnMJPQ-0EH45t-ViA'
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
     internal-label: CX Enterprise
+  - id: e98b7246-966c-4318-9e95-cad2f7a17dc7
+    internal-label: Customer Journey Analytics
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 ---
 # Adobe [!DNL Customer Journey Analytics] Certification Overview
 

@@ -3,7 +3,7 @@ title: Journey Optimizer Certification Overview
 description: Overview of certification options for Adobe Journey Optimizer
 solution: Journey Optimizer
 exl-id: 8676c9b0-fa19-4821-a008-4f7028f95852
-TQID: https://experienceleague.adobe.com/HbcNtG4azT4SB8Mmd2k8CFhmmzwmwSufl6VrVzZQ-cY
+TQID: 'https://experienceleague.adobe.com/HbcNtG4azT4SB8Mmd2k8CFhmmzwmwSufl6VrVzZQ-cY'
 product_v2:
   - id: cb954087-f4fc-4456-afb9-e939cabcdc79
     internal-label: Journey Optimizer
@@ -13,6 +13,8 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 ---
 # Adobe [!DNL Journey Optimizer] Certification Overview
 

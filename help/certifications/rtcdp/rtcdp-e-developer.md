@@ -6,8 +6,17 @@ product: Adobe Real Time Customer Data Platform
 role: Developer
 badge: label="Exam AD0-E605" type="neutral"
 mini-toc-levels: 1
-hidefromtoc: yes
+hidefromtoc: 'yes'
 exl-id: 8b462656-09d0-49c9-a45e-eb57e29400df
+product_v2:
+  - id: fdddec33-c9cb-4459-b8b6-2664395a6f10
+    internal-label: Real-Time Customer Data Platform
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 ---
 # Certification journey for Adobe [!DNL Real-Time Customer Data Platform] Developer Expert
 

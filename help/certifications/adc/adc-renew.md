@@ -5,8 +5,17 @@ solution: Document Cloud
 product: Document Cloud
 role: User
 mini-toc-levels: 1
-hidefromtoc: yes
+hidefromtoc: 'yes'
 exl-id: d7b3688b-2ed8-4855-951b-80ac1be932eb
+product_v2:
+  - id: c1c5fb98-9105-44ed-9df1-9e04d062a784
+    internal-label: Document Cloud
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 ---
 # Renew your Adobe [!DNL Document Cloud] certification
 
