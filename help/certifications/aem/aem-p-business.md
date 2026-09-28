@@ -6,8 +6,17 @@ product: Experience Manager
 role: User
 badge: label="Exam AD0-E126" type="neutral"
 mini-toc-levels: 1
-hidefromtoc: yes
+hidefromtoc: 'yes'
 exl-id: 83ee013f-aa37-409b-8bcb-385be6962b26
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 ---
 # Certification journey for Adobe [!DNL Experience Manager] Business Practitioner Professional
 

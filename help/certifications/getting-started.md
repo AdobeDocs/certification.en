@@ -4,7 +4,10 @@ description: Get started with [!DNL Experience Cloud] certifications. Learn abou
 solution: Experience Cloud
 mini-toc-levels: 1
 exl-id: 751e4c99-cce8-47a1-84cc-2cb3aacdaec8
-hidefromtoc: yes
+hidefromtoc: 'yes'
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 ---
 # Get started {#getting-started}
 

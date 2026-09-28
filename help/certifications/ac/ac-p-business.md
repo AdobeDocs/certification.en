@@ -6,8 +6,17 @@ product: Magento
 role: User
 badge: label="Exam AD0-E712" type="neutral"
 mini-toc-levels: 1
-hidefromtoc: yes
+hidefromtoc: 'yes'
 exl-id: f99b2abd-c67f-44c2-a04b-f1c7077fbac3
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 ---
 # Certification journey for Adobe [!DNL Commerce] Business Practitioner Professional
 

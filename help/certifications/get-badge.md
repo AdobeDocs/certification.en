@@ -5,6 +5,15 @@ solution: Real-Time Customer Data Platform
 role: Developer
 recommendations: disable, exclude
 badge: label="How to get certified" type="neutral"
+product_v2:
+  - id: fdddec33-c9cb-4459-b8b6-2664395a6f10
+    internal-label: Real-Time Customer Data Platform
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 ---
 # How to get certified {#how-to-get-certified}
 

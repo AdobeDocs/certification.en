@@ -6,8 +6,17 @@ product: Marketo
 role: Developer
 badge: label="Exam AD0-E560" type="neutral"
 mini-toc-levels: 1
-hidefromtoc: yes
+hidefromtoc: 'yes'
 exl-id: a3d5e3bd-751f-4c35-a27e-7839199030d8
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 ---
 # Certification journey for Adobe [!DNL Marketo Engage] Architect Master
 

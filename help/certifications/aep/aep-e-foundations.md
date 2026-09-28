@@ -7,8 +7,17 @@ role: Developer
 badge: label="Exam AD0-E600 & AD7-E601" type="neutral"
 hide: true
 mini-toc-levels: 1
-hidefromtoc: yes
+hidefromtoc: 'yes'
 exl-id: 5e15b6e5-a9c0-4927-89d8-4a43fbb0e863
+product_v2:
+  - id: edbd1a0e-46c8-49da-8c10-dba9ec80bba9
+    internal-label: Experience Platform
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 ---
 # Certification journey for Adobe [!DNL Experience Platform] Expert
 

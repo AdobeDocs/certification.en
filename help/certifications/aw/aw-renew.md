@@ -4,8 +4,17 @@ description: Learn how to renew your Adobe [!DNL Workfront] certification before
 solution: Workfront
 role: Developer
 mini-toc-levels: 1
-hidefromtoc: yes
+hidefromtoc: 'yes'
 exl-id: 5ccc1b87-c6eb-4087-9ee4-324419af3b84
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 ---
 # Renew your Adobe [!DNL Workfront] certification
 

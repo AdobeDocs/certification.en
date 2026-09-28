@@ -4,6 +4,12 @@ description: Overview of certification options for Adobe Commerce
 solution: Commerce
 product: Magento
 exl-id: 8a9f63f9-b2f9-438f-b1f5-8706b2768626
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 ---
 # Commerce Certification Overview
 

@@ -5,8 +5,17 @@ solution: Marketo Engage
 product: Marketo
 role: User
 mini-toc-levels: 1
-hidefromtoc: yes
+hidefromtoc: 'yes'
 exl-id: b0c79168-768b-4be9-9d5c-0177e801c0d2
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 ---
 # Renew your Adobe [!DNL Marketo Engage] certification
 

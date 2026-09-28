@@ -4,6 +4,12 @@ description: Overview of certification options for Adobe Analytics
 solution: Analytics
 product: Analytics
 exl-id: 38beb41b-b943-4058-a3fb-da7babff8499
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 ---
 # Adobe Analytics Certification Overview
 

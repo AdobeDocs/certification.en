@@ -4,7 +4,10 @@ description: Learn how to get certified at Adobe. Find all the resources you nee
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 753f63e1-599e-43cd-8cf7-8688a8dac512
-hidefromtoc: yes
+hidefromtoc: 'yes'
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 ---
 # How to get certified{#how}
 

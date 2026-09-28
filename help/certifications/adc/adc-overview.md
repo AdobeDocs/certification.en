@@ -4,6 +4,12 @@ description: Overview of certification options for Adobe Document Cloud
 solution: Document Cloud
 hide: true
 exl-id: e7bb19f7-a87e-46df-a4ef-98b8dede4aba
+product_v2:
+  - id: c1c5fb98-9105-44ed-9df1-9e04d062a784
+    internal-label: Document Cloud
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 ---
 # [!DNL Adobe Document Cloud] Certification Overview
 

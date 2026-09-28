@@ -6,7 +6,16 @@ product: Journey Optimizer
 role: Developer
 badge: label="Exam AD0-E603" type="neutral"
 exl-id: 4b405a01-b95c-46de-aaab-9fbacc25c6fc
-hidefromtoc: yes
+hidefromtoc: 'yes'
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 ---
 # Certification journey for Adobe [!DNL Journey Optimizer] Developer Expert
 

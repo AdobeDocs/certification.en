@@ -4,8 +4,21 @@ description: Learn how to renew your [!DNL Experience Manager Sites] certificati
 solution: Experience Manager,Experience Manager Sites
 product: Experience Manager
 role: User,Developer
-hidefromtoc: yes
+hidefromtoc: 'yes'
 exl-id: e7f1d21d-8e4a-4cbf-b1e5-379c194e0073
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+  - id: c45915cf-e157-4af7-a80d-97b905bcb3a5
+    internal-label: Experience Manager Sites
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 ---
 # Renew your Adobe [!DNL Experience Manager] certification
 

@@ -1,7 +1,7 @@
 ---
 title: Master technical certifications
 description: Overview of certification options for Master users
-TQID: https://experienceleague.adobe.com/XtIiFZYoOV6i27gxSH8SnrmACxkiJ6zvP18RmtkV7ek
+TQID: 'https://experienceleague.adobe.com/XtIiFZYoOV6i27gxSH8SnrmACxkiJ6zvP18RmtkV7ek'
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
     internal-label: CX Enterprise
@@ -11,6 +11,8 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 ---
 # Master technical certifications
 

@@ -6,8 +6,17 @@ product: Adobe Real Time Customer Data Platform
 role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
-hidefromtoc: yes
+hidefromtoc: 'yes'
 exl-id: 4faaca20-9d03-48b2-b3d7-0f964c63000e
+product_v2:
+  - id: fdddec33-c9cb-4459-b8b6-2664395a6f10
+    internal-label: Real-Time Customer Data Platform
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 ---
 # Renew your Adobe [!DNL Real-Time CDP] certification
 

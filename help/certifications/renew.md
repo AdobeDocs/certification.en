@@ -4,8 +4,14 @@ description: Learn how to renew your certification before it expires.
 role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
-hidefromtoc: yes
+hidefromtoc: 'yes'
 exl-id: e54d11bb-d563-4779-ad42-b749be64611a
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 ---
 # Renew your certification {#renew}
 

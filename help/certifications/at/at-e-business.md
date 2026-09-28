@@ -6,8 +6,17 @@ product: Target
 role: User
 badge: label="Exam AD0-E406" type="neutral"
 mini-toc-levels: 1
-hidefromtoc: yes
+hidefromtoc: 'yes'
 exl-id: e907929f-b4a4-45e1-ba2d-f407f46d41c6
+product_v2:
+  - id: e43347a8-f2c5-4aa4-8623-6f13875d7e3a
+    internal-label: Target
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 ---
 # Certification journey for [!DNL Adobe Target] Business Practitioner Expert
 
